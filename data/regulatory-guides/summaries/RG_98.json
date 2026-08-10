@@ -1,0 +1,35 @@
+{
+  "citation": "RG 98",
+  "title": "ASIC's powers to suspend, cancel and vary AFS licences and make banning orders",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide describes the administrative powers available to ASIC to enforce compliance with the financial services licensing provisions under the Corporations Act, including the suspension, cancellation, and variation of Australian Financial Services (AFS) licences and the making of banning orders. It sets out the matters ASIC generally takes into account when exercising these powers.",
+  "background": "The guide is issued under the ASIC Act and the Corporations Act to explain ASIC's enforcement approach regarding AFS licensees and their representatives. It is intended for AFS licensees, their representatives, and advisers who need to understand ASIC's administrative enforcement powers and the circumstances in which those powers may be exercised.",
+  "ruling": "ASIC will take administrative action—such as suspending, cancelling, or varying an AFS licence or making a banning order—when it appears that a licensee or person has contravened the Corporations Act, provided false or misleading information, or is no longer fit and proper. ASIC indicates that it will consider the nature, seriousness, and impact of the contravention, any prior history of compliance, and the likelihood of future compliance when deciding whether to act. The guide emphasises that ASIC's powers are discretionary and that ASIC may issue a banning order at the same time or following suspension or cancellation. ASIC also states that it will afford procedural fairness to affected persons, such as through a hearing process before making a final decision.",
+  "date_of_effect": "2022-11-01",
+  "legislation_referenced": [
+    "Australian Securities and Investments Commission Act 2001 (Cth) Pt 2 Div 2",
+    "Corporations Act 2001 (Cth) Ch 7; Pt 7.6 Div 8; Pt 7.10A; s533, 760A, 911A, 911B, 912A, 913A, 913B, 913BA, 914A, 914B, 915B, 915C, 915F, 915H, 920A, 920B, 920C, 920D, 920E, 921C, 921E, 921F, 922A, 922B, 961B–961H, 961J, 962–964E, 1041A–1041H",
+    "Corporations (Aboriginal and Torres Strait Islander) Act 2006 (Cth) s526-35",
+    "Corporations Amendment (Future of Financial Advice) Act 2012 (Cth)",
+    "Corporations Regulations 2001 (Cth) regs 7.6.05, 7.6.06",
+    "National Consumer Credit Protection Act 2009 (Cth)"
+  ],
+  "cases_referenced": [
+    "Australian Securities and Investments Commission v Administrative Appeals Tribunal (2009) 181 FCR 130",
+    "Australian Securities and Investments Commission v McCormack [2017] FCA 672",
+    "HIH Insurance Ltd and HIH Casualty and General Insurance Ltd, Re: ASIC v Adler (2002) 42 ACSR 80",
+    "Masu Financial Management Pty Ltd and Australian Securities and Investments Commission [2017] AATA 97",
+    "Sovereign Capital Limited and Australian Securities and Investments Commission [2008] AATA 901"
+  ],
+  "related_rulings": [
+    "RG 1",
+    "RG 218",
+    "RG 263",
+    "INFO 1",
+    "INFO 9",
+    "INFO 107",
+    "INFO 151",
+    "INFO 152"
+  ]
+}

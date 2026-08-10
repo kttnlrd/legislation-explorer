@@ -1,0 +1,1202 @@
+REGULATORY GUIDE 82
+
+External administration:
+Deeds of company
+arrangement involving a
+creditors’ trust
+December 2018
+
+
+About this guide
+This guide is for registered liquidators appointed under Pt 5.3A of the
+Corporations Act as a voluntary administrator or deed administrator
+(administrator).
+
+It explains:
+    our interpretation of administrators’ obligations under the Corporations
+     Act and the general law where they are considering a proposed deed of
+     company arrangement (DOCA) or a proposed variation of a DOCA
+     (collectively, a DOCA proposal) involving a creditors’ trust; and
+    in particular, the information that we consider is material to creditors
+     and should therefore be disclosed when a DOCA proposal involves a
+     creditors’ trust.
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in December 2018 and is based on legislation and
+                             regulations as at the date of issue.
+
+                             Previous versions:
+                                    Superseded Guide 220, issued May 2005, rebadged as Regulatory
+                                     Guide 82 on 5 July 2007
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                                Page 2
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+Contents
+                             A      Overview .................................................................................................4
+                                    DOCAs and creditors’ trusts ....................................................................4
+                                    Administrators’ obligations about using creditors’ trusts .........................4
+                             B      DOCAs and creditors’ trusts ................................................................6
+                                    What is a creditors’ trust? ........................................................................6
+                                    What are the special risks for creditors? .................................................7
+                                    ‘Holding’ DOCAs ......................................................................................8
+                             C      Administrators’ obligations about creditors’ trusts ..........................9
+                                    What are the obligations of administrators? ............................................9
+                             D      Disclosing material information .........................................................13
+                                    What is material information? ................................................................13
+                                    Reasons .................................................................................................15
+                                    Key events .............................................................................................16
+                                    Return to creditors .................................................................................16
+                                    Trustee particulars .................................................................................17
+                                    Remuneration and expenses .................................................................17
+                                    Indemnities.............................................................................................18
+                                    Powers ...................................................................................................18
+                                    Claims ....................................................................................................18
+                                    Other creditor/beneficiary differences ....................................................19
+                                    Fair Entitlements Guarantee scheme ....................................................20
+                                    Compliance opinion ...............................................................................20
+                                    Solvency statement ...............................................................................20
+                                    Taxation issues for company and trust ..................................................21
+                                    Taxation issues for individual creditor/beneficiary .................................21
+                                    Other issues ...........................................................................................21
+                             Key terms .....................................................................................................22
+                             Related information .....................................................................................23
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                                                        Page 3
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+A          Overview
+
+
+                              Key points
+
+                              A creditors’ trust in a deed of company arrangement (DOCA) is a
+                              mechanism that is used to accelerate a company’s exit from external
+                              administration.
+
+                              It is important that voluntary administrators and deed administrators
+                              (administrators) are aware of their obligations and properly consider all the
+                              relevant issues raised by the use of a creditors’ trust.
+
+                              This guide indicates how we think administrators will adequately and
+                              properly perform all their duties and functions when a DOCA proposal
+                              involves a creditors’ trust.
+
+
+
+
+DOCAs and creditors’ trusts
+              RG 82.1        A creditors’ trust in a DOCA is a mechanism used to accelerate a company’s
+                             exit from external administration: see RG 82.6–RG 82.11.
+
+              RG 82.2        We have issued this guide to outline our views on the use of creditors’ trusts
+                             and indicate our interpretation of adequate and proper performance by
+                             administrators of their duties and functions in this situation.
+
+
+
+Administrators’ obligations about using creditors’ trusts
+              RG 82.3        Administrators should be aware of and properly consider all the relevant
+                             issues raised by the use of a creditors’ trust, to avoid:
+                             (a)   submitting a DOCA proposal to creditors that involves a creditors’ trust
+                                   without properly considering whether such an arrangement is
+                                   appropriate in the company’s circumstances;
+                             (b)   failing to disclose all the material information about the creditors’ trust
+                                   and its implications; and/or
+                             (c)   making an inappropriate recommendation about the DOCA proposal.
+
+
+                             Is a creditors’ trust appropriate in this situation?
+
+              RG 82.4        We consider that DOCA proposals should not involve creditors’ trusts unless
+                             administrators have:
+                             (a)   adequately considered the appropriateness of using a creditors’ trust in
+                                   the particular case; and
+
+
+© Australian Securities and Investments Commission December 2018                                                Page 4
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+                             (b)   disclosed all material information about the creditors’ trust and its
+                                   implications to enable creditors to consider the advantages and
+                                   disadvantages for the company, the creditors and the administrator.
+
+              RG 82.5        DOCAs involving a creditors’ trust create special risks for creditors. Once
+                             the creditors’ trust has been constituted and the DOCA terminates, the
+                             arrangement is no longer governed by Pt 5.3A of the Corporations Act 2001
+                             (Corporations Act) and the protective mechanisms of that part—including
+                             the supervisory and remedial jurisdiction of the courts—cease to apply.
+                             Administrators recommending a creditors’ trust bear a heavy burden of
+                             explaining to creditors the implications of adopting such a proposal.
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                                Page 5
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+B          DOCAs and creditors’ trusts
+
+
+                              Key points
+
+                              A creditors’ trust in a DOCA is a mechanism used to accelerate a
+                              company’s exit from external administration.
+
+                              The company and/or third parties promise to make payment (or transfer
+                              other property) to the trustee to satisfy the creditors’ claims, and to
+                              extinguish their rights, against the company.
+
+                              We consider that there are different and additional risks for creditors where
+                              a DOCA proposal involves a creditors’ trust.
+
+                              We are aware that creditors (particularly of large companies) have been
+                              asked to approve a ‘holding’ DOCA.
+
+
+
+
+What is a creditors’ trust?
+              RG 82.6        A creditors’ trust in a DOCA is a mechanism used to accelerate a company’s
+                             exit from external administration. It has been used most commonly (but not
+                             exclusively) in connection with the rehabilitation of public companies listed
+                             on ASX. In some cases, this leads to a ‘backdoor’ listing.
+
+              RG 82.7        Typically, under the terms of the DOCA and one or more interconnected
+                             deeds, a trust entity is created and the company’s obligations to some or all
+                             of the creditors bound by the DOCA are compromised and transferred to the
+                             trust. Those creditors become beneficiaries of the trust. Occasionally, there
+                             may be separate creditors’ trusts for employee and non-employee creditors,
+                             or for secured and unsecured creditors.
+
+              RG 82.8        The company and/or third parties promise to make one or more payments (or
+                             transfer other property) to the trustee to satisfy the creditors’ claims against
+                             the company. In return, the creditors’ rights against the company are
+                             extinguished.
+
+              RG 82.9        The trustee of the new trust becomes solely responsible to the former
+                             creditors (now beneficiaries) for:
+                             (a)   ensuring that the company and/or other third parties perform their
+                                   payment and other obligations to the trustee;
+                             (b)   determining how much each of the former creditors is entitled to receive
+                                   from the trust; and
+                             (c)   in due course, making any distribution to those former creditors.
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                                Page 6
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+              RG 82.10       Usually, the DOCA is ‘effectuated’ (and terminates) after the creditors’
+                             claims against the company have been removed in this way. In most cases,
+                             the DOCA terminates immediately on creation of the trust, which usually
+                             occurs when or shortly after the DOCA is executed.
+
+              RG 82.11       When the DOCA terminates, the company ceases to be externally
+                             administered, the directors regain full control of the company and the
+                             company is no longer required to use the notification ‘subject to deed of
+                             company arrangement’ on its public documents (as otherwise would be
+                             required by s450E(2) of the Corporations Act).
+
+
+
+What are the special risks for creditors?
+              RG 82.12       We consider that there are different and additional risks for creditors where a
+                             DOCA proposal involves a creditors’ trust. The significance of the risks in a
+                             particular case will depend on the quality of the information the
+                             administrator provides to creditors and the actual terms of the DOCA, trust
+                             deed and any other related documentation.
+
+              RG 82.13       The key additional risks are that:
+                             (a)   under the DOCA proposal, the DOCA may be effectuated and creditors’
+                                   rights against the company extinguished before:
+                                   (i)     the amount available for distribution to creditors of the
+                                           company/beneficiaries of the trust has been ascertained;
+                                   (ii)    the trust fund has been received in full by the trustee; or
+                                   (iii)   creditors of the company/beneficiaries of the trust have received
+                                           any payment from either the deed administrator or the trustee;
+                             (b)   creditors may have fewer (or, in some circumstances, no) legal rights if
+                                   the DOCA proposal is not fully complied with by all relevant parties;
+                                   and
+                             (c)   creditors may agree to the DOCA proposal without being aware (or
+                                   fully appreciating the implications) of these matters.
+
+              RG 82.14       The following factors increase the severity of these risks:
+                             (a)   creditors’ lack of knowledge and inexperience;
+
+                                   Note: The use of a creditors’ trust in a DOCA will be beyond the reasonable knowledge
+                                   or experience of most creditors bound by the DOCA. Creditors (particularly unsecured
+                                   creditors) of an insolvent company usually have limited knowledge of (or previous
+                                   experience with) corporate insolvency laws and processes. Any previous experience is
+                                   likely to be with the Corporations Act and ASIC as the relevant regulator, and they will
+                                   generally expect their claims against the company and their dealings with the external
+                                   administrator to be governed by the Corporations Act. Many creditors will have no or
+                                   limited knowledge of trust law.
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                                    Page 7
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+                             (b)   inadequate disclosure by administrators of material information about
+                                   the DOCA proposal;
+                             (c)   the additional complexity of the legal and documentary arrangements
+                                   needed to support the use of a creditors’ trust under a DOCA;
+                             (d)   the trustee’s identity, skills, remuneration and insurance arrangements;
+                             (e)   non-uniformity of the state and territory Trustee Acts governing trusts
+                                   and trustees;
+                             (f)   differences in the ways trustees and registered liquidators are regulated
+                                   and supervised, particularly by ASIC and the courts;
+                             (g)   potential difficulties for ASIC and creditors (as beneficiaries of the
+                                   trust) in monitoring and enforcing proper conduct by the trustee; and
+                             (h)   legal uncertainties and other issues for ASIC, creditors bound by the
+                                   DOCA or other persons in challenging a DOCA that has already
+                                   terminated.
+
+
+
+‘Holding’ DOCAs
+              RG 82.15       Creditors are sometimes asked to approve a ‘holding’ DOCA. A holding
+                             DOCA may be proposed when it is not in the interests of creditors that the
+                             administration end, nor that the company be wound up. Holding DOCAs
+                             give a voluntary administrator more time to develop proposals for
+                             restructuring or otherwise resuscitating the company. Where this is the case,
+                             the voluntary administrator does not need to seek an extension from the court
+                             of the convening period for the second creditors’ meeting under s439A.
+
+                                   Note: See Mighty River International Limited v Hughes [2018] HCA 38.
+
+              RG 82.16       Generally, we think a holding DOCA should not propose the subsequent
+                             creation of a creditor’s trust unless all the information specified in this guide
+                             is provided to creditors voting on the holding DOCA. We think it is unlikely
+                             that information will be available to a voluntary administrator at the time of
+                             proposing a holding DOCA, given the nature and purpose of a ‘holding’
+                             DOCA. In our view, the appropriate course is to obtain express creditor
+                             approval of the creditors’ trust by means of a formal variation of the DOCA
+                             when that information is available.
+
+              RG 82.17       Where a holding DOCA is proposed, we consider that its terms should:
+                             (a)   exclude an open-ended or very lengthy period to formulate a concrete
+                                   proposal for continuing the company or its business; and
+                             (b)   include a program for interim reporting to creditors on steps taken and
+                                   results obtained by the deed administrator, so that creditors can monitor
+                                   the deed administrator’s efforts.
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                                Page 8
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+C          Administrators’ obligations about creditors’ trusts
+
+
+                              Key points
+
+                              Administrators have an overriding obligation to perform their duties and
+                              functions adequately and properly. Where a DOCA proposal is concerned,
+                              we consider that an administrator who is fulfilling this obligation will:
+                              • evaluate the proposal before submitting it to creditors (see RG 82.20–
+                                RG 82.23);
+                              • disclose all material information about the proposal to creditors (see
+                                RG 82.24–RG 82.27), and
+                              • express an opinion about the proposal that adequately protects the
+                                interests of creditors (see RG 82.28–RG 82.30).
+
+                              Administrators may be subject to disciplinary or other action if they do not
+                              fulfil their obligations when a DOCA proposal involving a creditors’ trust is
+                              put to creditors.
+
+
+
+
+What are the obligations of administrators?
+              RG 82.18       Administrators have an overriding obligation to perform their duties and
+                             functions adequately and properly. This includes ensuring that the interests
+                             of creditors are adequately protected. Where a DOCA proposal is concerned,
+                             we consider that an administrator who is fulfilling this obligation will:
+                             (a)   evaluate the proposal before submitting it to creditors (see RG 82.20–
+                                   RG 82.23);
+                             (b)   disclose all material information about the proposal to creditors (see
+                                   RG 82.24–RG 82.26); and
+                             (c)   express an opinion about the proposal that adequately protects the
+                                   interests of creditors (see RG 82.28).
+
+              RG 000.19      Administrators may be subject to disciplinary or other action if they do not
+                             fulfil their obligations when a DOCA proposal involving a creditors’ trust is
+                             put to creditors.
+
+
+                             Evaluating the proposal
+
+              RG 82.20       Before submitting any DOCA proposal to creditors, administrators should
+                             consider whether the proposal is suitable to submit. For example, it will
+                             rarely be appropriate for an administrator to submit a DOCA proposal to
+                             creditors where the administrator does not have sufficient concrete details to
+                             comply with all of their disclosure obligations: see RG 82.24–RG 82.26.
+
+
+
+© Australian Securities and Investments Commission December 2018                                                Page 9
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+              RG 82.21       Where the DOCA proposal involves a creditors’ trust, administrators should
+                             specifically consider whether such a mechanism is appropriate in the
+                             company’s circumstances. We think this includes considering whether the
+                             DOCA proposal (if accepted) may be an abuse of Pt 5.3A or otherwise
+                             contrary to the public interest. If so, it may be appropriate for the
+                             administrator to seek directions from the court before submitting the DOCA
+                             proposal to creditors.
+
+              RG 82.22       Section 435A sets out the policy objective of Pt 5.3A:
+                                   … for the business, property and affairs of an insolvent company to be
+                                   administered in a way that:
+                                   (a) maximises the chances of the company, or as much as possible of its
+                                      business, continuing in existence; or
+                                   (b) if it is not possible for the company or its business to continue in
+                                      existence, results in a better return for the company’s creditors and
+                                      members than would result from an immediate winding up of the
+                                      company.
+
+              RG 82.23       We consider that any mechanism for a creditors’ trust should only be
+                             included in a DOCA:
+                             (a)   when there is a sound commercial reason that persuades the
+                                   administrators that in all the circumstances it is in the best interests of
+                                   creditors to adopt a DOCA with a creditors’ trust—to obtain a better
+                                   return than from an immediate winding-up;
+                             (b)   if it is consistent with the policy objective of Pt 5.3A, as outlined in
+                                   s435A; and
+                             (c)   if it is consistent with the public interest.
+
+                                   Note 1: We consider, for example, that it is likely to be an abuse of Pt 5.3A, or
+                                   otherwise contrary to the public interest, for a DOCA to involve a creditors’ trust where
+                                   the DOCA proposal contemplates that the company would or could (after the DOCA
+                                   has been effectuated in accordance with its terms) continue in existence in an insolvent
+                                   financial condition. See Australian Law Reform Commission, Report No. 45, General
+                                   Insolvency Inquiry, 13 December 1988 (the Harmer Report), vol. 1, pp. 62–63.
+
+                                   Note 2: See Re Bevillesta Pty Ltd (in voluntary administration) [2011] NSWSC 417.
+                                   Regarding the importance of the statutory regime under Pt 5.3A and the protections or
+                                   advantages provided to creditors see also Sydney Land Corp P/L v Kalon P/L (1998) 26
+                                   ACSR 427 at 430, Young v Sherman (2002) 170 FLR 86, Bovis Lend Lease P/L v Wily
+                                   (2003) 45 ACSR 612 and Blacktown City Council v Macarthur Telecommunications
+                                   P/L (2004) 47 ACSR 391.
+
+
+                             Disclosing material information
+
+              RG 82.24       Section 75–225 of the Insolvency Practice Rules (Corporations) 2016
+                             (Insolvency Practice Rules) sets out matters that a voluntary administrator
+                             must include in their report and statement that accompany the notice of the
+                             second meeting of creditors convened under s439A of the Corporations Act.
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                                    Page 10
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+                             The report must contain all information that is material to the creditors’
+                             decision, including material details of what a proposed DOCA will contain.
+
+                                  Note: See M&S Butler Investments Pty Ltd v Granny May’s Franchising Pty Ltd (1997)
+                                  24 ACSR 695 and Commissioner of Taxation v Comcorp Australia Ltd (1996) 70 FCR
+                                  356; 21 ACSR 590 which were decided under the predecessor to s75–225 of the
+                                  Insolvency Practice Rules and s439A(4) of the Corporations Act.
+
+              RG 82.25       Section 445D of the Corporations Act reinforces the disclosure obligations
+                             of administrators by providing that the court may terminate a DOCA if
+                             (among other things) information that is material to the creditors’ decision to
+                             approve the proposed DOCA was omitted or was false or misleading.
+
+              RG 82.26       When submitting a DOCA proposal to creditors that involves a creditors’
+                             trust, administrators should disclose all the information that is material to the
+                             creditors’ decision about whether to accept the particular risks associated
+                             with the proposal. In Section D, we set out the information we think is
+                             material to that decision.
+
+                             Disclosure before variation of DOCA
+
+              RG 82.27       We consider that deed administrators have an implied obligation to include
+                             similar matters in the documents that accompany a notice of meeting when a
+                             DOCA variation is proposed.
+
+
+                             Expressing an opinion that protects creditors’ interests
+
+              RG 82.28       Administrators have an obligation to provide creditors with a statement
+                             setting out (among other things) the administrator’s opinion about whether it
+                             would be in the creditors’ interests for the company to execute a proposed
+                             DOCA or DOCA variation and the reasons for that opinion: see
+                             s75–225(3)(b) of the Insolvency Practice Rules and RG 82.27.
+
+              RG 82.29       Where a DOCA proposal involves a creditors’ trust, we consider that
+                             administrators fulfilling this obligation will discuss the advantages and
+                             disadvantages for creditors of the proposed creditors’ trust when making
+                             their recommendation.
+
+              RG 82.30       We also consider that the obligation to ensure the interests of creditors are
+                             adequately protected means that there are some circumstances when an
+                             administrator should not recommend that creditors approve a DOCA
+                             proposal involving a creditors’ trust: see Table 1.
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                               Page 11
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+Table 1:     Examples of circumstances when an administrator should not recommend a
+             proposal involving a creditors’ trust
+
+ Circumstance                          Details
+
+ The proposed value of the             When the proposed value of the creditors’ trust fund cannot be reasonably
+ creditors’ trust fund cannot be       estimated at the time the proposal will be voted on by the creditors. This is
+ reasonably estimated                  because the amount that may become available to the creditors (as
+                                       beneficiaries of the trust) will be so speculative that it will never be in the
+                                       creditors’ interests for the company to execute a DOCA that terminates,
+                                       almost immediately, their status and rights as creditors.
+                                            Note: DOCAs that do not involve a creditors’ trust may, in some cases,
+                                            propose a return to creditors that could be described as speculative. However,
+                                            in those cases, the interests of creditors are different because the creditors’
+                                            status as creditors (and their rights against the company under Pt 5.3A) will not
+                                            be prematurely extinguished as may occur when a creditors’ trust is used.
+
+ There is concern about whether        When the administrator has reason for concern about whether the trustee
+ the trustee will receive all of the   will receive all of the trust fund, or at least adequate and enforceable
+ trust fund                            security for the trust fund, before the DOCA terminates and the creditors’
+                                       rights (as creditors) against the company are extinguished. This is because
+                                       it will rarely be in the creditors’ interests to place on them (and the trustee)
+                                       all the risks of failure of the trust if there is future non-performance of
+                                       obligations undertaken under the DOCA by the company or a third party.
+                                            Note: See also Kalon v Sydney Land Corp P/L (1998) 26 ACSR 593 upholding
+                                            Sydney Land Corp P/L v Kalon P/L (1998) 26 ACSR 427.
+
+ The DOCA or trust deed                When the DOCA or trust deed provisions will permit the trustee (or any
+ provisions will permit the trustee    replacement trustee) of the creditors’ trust to be a person who does not
+ (or any replacement trustee) of       have the necessary skills and experience or is otherwise unsuitable to be
+ the creditors’ trust to be a          the trustee. The risk to creditors from an unsuitable trustee is severe. In our
+ person who does not have the          view, the interests of creditors are likely to be adequately protected if the
+ necessary skills and experience       trustee of the creditors’ trust is a registered liquidator, but will never be
+                                       adequately protected if the trustee will or could be the company the subject
+                                       of the proposed DOCA.
+                                            Note: This does not imply that the trustee should always be the same person
+                                            as the deed administrator; the trustee could be another registered liquidator.
+
+ Concern about adequate civil          When there is reason for concern about whether the proposed trustee will
+ liability insurance for the trustee   have adequate civil liability insurance for their conduct as trustee of the
+                                       creditors’ trust.
+
+ DOCA/trust will not provide           When the DOCA and/or the trust deed will not provide processes and rights
+ rights at least as favourable as      that are at least as favourable to the beneficiaries as the processes for and
+ rights of creditors under the         rights of creditors under the Corporations Act.
+ Corporations Act
+
+ Concrete details about the            When concrete details about the proposed structure and terms of the
+ proposed structure and terms of       DOCA and trust deed cannot be provided. Because of the additional
+ the DOCA and trust deed cannot        complexity of creditors’ trust arrangements, we do not consider that a broad
+ be provided                           outline of the proposed DOCA and proposed creditors’ trust deed is
+                                       sufficient. In practical terms, we think it is unlikely that administrators will be
+                                       able to satisfy their disclosure obligations to creditors unless a draft DOCA
+                                       and a draft trust deed have been prepared.
+                                            Note: See also Kirwan v Cresvale Far East Ltd (in liq) [2002] NSWCA 395 at
+                                            [382] per Young CJ; (2003) 44 ACSR 21 and Commissioner of Taxation v
+                                            Comcorp Australia Ltd (1996) 70 FCR 356 at 389; 21 ACSR 590 at 624.
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                                      Page 12
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+D          Disclosing material information
+
+
+                              Key points
+
+                              Administrators have an obligation to give creditors material information that
+                              will enable them to understand a DOCA proposal for a creditors’ trust and
+                              make an informed decision whether to approve it.
+
+                              Table 2 lists some of the types of information we consider an administrator
+                              must disclose to creditors and/or express an opinion about.
+
+
+
+
+What is material information?
+              RG 82.31       Administrators have an obligation to give creditors material information that
+                             will enable them to:
+                             (a)   understand a DOCA proposal; and
+                             (b)   appreciate the legal and practical implications for them of authorising
+                                   the company to execute the proposed DOCA (or DOCA variation).
+
+              RG 82.32       In this section, we set out what we think is material information when a
+                             DOCA proposal involves a creditors’ trust. Depending on the particular case,
+                             administrators may also need to disclose other material information.
+
+                                   Note: Parts of this section may also be relevant to DOCAs that do not involve a
+                                   creditors’ trust.
+
+              RG 82.33       The information should be set out in the report and statement made under
+                             s75–225 of the Insolvency Practice Rules (or explanation that accompanies
+                             the notice of meeting where a DOCA variation is proposed) as simply,
+                             clearly and succinctly as possible in the circumstances.
+
+              RG 82.34       When the DOCA proposal involves a creditors’ trust, we consider this
+                             obligation means that information should be provided that enables creditors
+                             to understand the actual and potential implications and specific risks for
+                             them of the proposed creditors’ trust arrangements. Creditors should be able
+                             to make a realistic and informed assessment of the proposal and whether
+                             they should approve it (including, but not limited to, whether they are likely
+                             to receive a better return under the particular DOCA proposal, under a
+                             DOCA that does not involve a creditors’ trust, or under a winding-up). In
+                             Parkview Constructions Pty Ltd v Tayeh and Others [2009] NSWSC 186 at
+                             [76], Justice Barrett said that:
+                                   Administrators recommending to creditors the adoption of a deed of
+                                   company arrangement that will give birth immediately to a creditors’ trust
+                                   and then itself promptly die bear a heavy burden of explaining to creditors
+
+
+
+© Australian Securities and Investments Commission December 2018                                                     Page 13
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+                                   the implications of the shift from a regime incorporating a court
+                                   administered scheme of creditor protection to one in which creditors
+                                   become passive trust beneficiaries.
+
+               RG 82.35      Much of the information that we think should be provided to creditors will
+                             describe the administrator’s understanding of the law. Therefore, we
+                             consider that administrators should base such information on legal advice
+                             received by them that is applicable to the particular DOCA proposal.
+
+               RG 82.36      Because of the additional complexity involved in a DOCA proposal
+                             involving a creditors’ trust, we consider that creditors should be given
+                             adequate opportunity to obtain (if they wish) professional advice about the
+                             proposal, its implications and risks before they vote on the proposal. This
+                             may affect the appropriate period of notice of a meeting, the need for an
+                             extension of the convening period, or the need for an adjournment of the
+                             meeting.
+
+               RG 82.37      ASIC, creditors and the public can only properly understand the DOCA by
+                             also understanding the associated arrangements. Where a DOCA (or DOCA
+                             variation) involving a creditors’ trust is approved and executed, we expect
+                             administrators to lodge the DOCA (or DOCA variation) with ASIC, as well
+                             as lodging:
+                             (a)   a copy of the creditors’ trust deed; and
+                             (b)   any other associated document (such as an ‘implementation deed’) that
+                                   is referred to in the DOCA or is otherwise necessary to support the
+                                   creditors’ trust arrangements.
+
+Table 2:      Material information to disclose to creditors
+
+Information                  Description                                                    Reference
+
+Reasons                      The reasons why the DOCA proposal involves a                   RG 82.38–RG 82.40
+                             creditors’ trust
+
+Key events                   The anticipated sequence of key events if the DOCA             RG 82.41–RG 82.42
+                             proposal is approved, and the implications for creditors
+
+Return                       The anticipated return to creditors/beneficiaries              RG 82.43
+
+Trustee particulars          The identity, skills, experience and insurance of the          RG 82.44
+                             proposed trustee
+
+Remuneration                 The proposed remuneration and expenses of the deed             RG 82.46–RG 82.47
+                             administrator and trustee
+
+Indemnities                  Details of any indemnities for fees or liabilities             RG 82.48
+
+Powers                       The differences between the powers of a deed                   RG 82.49–RG 82.50
+                             administrator under the Corporations Act and the trustee
+                             under the DOCA proposal
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                               Page 14
+                  REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+Information                    Description                                                    Reference
+
+Claims                         How creditors’ claims will be dealt with under the DOCA        RG 82.51–RG 82.52
+                               proposal and in what priority
+
+Other creditor/beneficiary     A comparison of the protections and rights of creditors        RG 82.53–RG 82.56
+differences                    under the Corporations Act and of beneficiaries under the
+                               DOCA proposal
+
+Fair Entitlements              Any effect on employee entitlements under FEG                  RG 82.57
+Guarantee scheme (FEG)
+
+Compliance opinion             An opinion on the capability of the company (and               RG 82.58
+                               relevant third parties) to comply with obligations to the
+                               trustee
+
+Solvency statement             The basis for an opinion that the company will be solvent      RG 82.59
+                               at the date of effectuation of the DOCA
+
+Tax issues for                 Details of the taxation and stamp duty implications for the    RG 82.61
+company/trust                  company and the trust
+
+Tax issues for individual      Potential differences in taxation implications for creditors   RG 82.62
+creditor/beneficiary           and beneficiaries
+
+Other                          Any other material aspects or implications                     RG 82.63–RG 82.64
+
+
+
+
+Reasons
+                 RG 82.38      Administrators should provide an explanation of the reasons why the DOCA
+                               proposal involves a creditors’ trust, instead of a DOCA where creditors’
+                               claims and rights would be dealt with directly under the DOCA and the
+                               Corporations Act.
+
+                 RG 82.39      We expect this explanation to include identification of any legal or
+                               commercial reasons, and a discussion of why it is considered to be in the
+                               interests of creditors as a whole to use the proposed creditors’ trust.
+
+                 RG 82.40      If one of the stated reasons is to enable listing of the company or re-
+                               quotation of the company’s financial products on a financial market such as
+                               ASX, the administrator should also provide details of:
+                               (a)   the market operator’s requirements for listing or re-quotation and how it
+                                     is proposed that the company would meet those requirements; and
+                               (b)   how and why listing or re-quotation would be in the interests of the
+                                     creditors (as opposed to the directors, shareholders or some other party).
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                                 Page 15
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+Key events
+              RG 82.41       Administrators should explain the anticipated sequence and relative timing
+                             for each of the following key events if the DOCA proposal is approved, and
+                             the implications of each event for creditors:
+                             (a)   execution of the DOCA;
+                             (b)   creation of the creditors’ trust;
+                             (c)   termination of the DOCA;
+                             (d)   receipt of the creditors’ trust fund by the trustee; and
+                             (e)   distribution to creditors/beneficiaries.
+
+              RG 82.42       The explanation of implications should include the nature of the legal
+                             relationship of the creditors to the company after each event (and
+                             specifically, when they would cease to be creditors), and what will happen if
+                             any of these events, or their timing, does not occur as anticipated.
+
+
+
+Return to creditors
+              RG 82.43       Administrators should provide information about the anticipated return to
+                             creditors/beneficiaries under the DOCA proposal, including:
+                             (a)   the anticipated date(s) when the trust fund will be received by the
+                                   trustee and from which sources;
+                             (b)   the anticipated value of the total trust fund and of the portion that would
+                                   be available for distribution to beneficiaries, with an explanation of any
+                                   difference in those values;
+
+                                   Note: See also Table 1.
+
+                             (c)   the anticipated date(s) for distribution by the trustee to the beneficiaries;
+                             (d)   the anticipated rate(s) of distribution by the trustee;
+                             (e)   risks to creditors/beneficiaries associated with any delay in receipt of
+                                   the trust fund by the trustee, or in distribution by the trustee to the
+                                   beneficiaries; and
+                             (f)   the potential return to creditors if the DOCA proposal did not involve a
+                                   creditors’ trust.
+
+                                   Note: We consider that the information in this paragraph should be linked to other
+                                   information provided (e.g. information about remuneration, expenses and taxation) so
+                                   that creditors are able to identify and weigh up the additional overall costs involved
+                                   because of the creditors’ trust and any potential increase in the distribution to them,
+                                   against the likelihood of, and any delay in, receiving that distribution.
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                                    Page 16
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+Trustee particulars
+              RG 82.44       Administrators should provide information about the proposed trustee,
+                             including:
+                             (a)   why that trustee is proposed and is considered appropriate, with details
+                                   of their qualifications, skills and relevant experience to perform the
+                                   duties and functions they will have as trustee of the creditors’ trust;
+
+                                   Note: See also Table 1.
+
+                             (b)   whether the DOCA proposal requires the trustee (and any replacement
+                                   trustee) of the creditors’ trust to be the deed administrator or other
+                                   person registered by ASIC under s20–30 of Sch 2 to the Corporations
+                                   Act as a liquidator;
+                             (c)   whether ASIC or any other government regulator will have supervisory
+                                   powers over conduct by the proposed trustee in that capacity, and if so,
+                                   the nature of those powers;
+
+                                   Note: Administrators should note our view that ASIC has certain supervisory powers
+                                   under Div 40 of Sch 2 to the Corporations Act over conduct by the trustee where the
+                                   DOCA and trust deed provide that the trustee is a registered liquidator.
+
+                             (d)   whether the proposed trustee would have any potential conflict of
+                                   interests when acting as trustee, and, if so, the nature of the conflict and
+                                   how it would be managed; and
+                             (e)   whether the proposed trustee has civil liability insurance (including
+                                   professional indemnity and fidelity) that will cover conduct by them in
+                                   their capacity as trustee of the proposed trust, and the nature and
+                                   aggregate value of any such insurance.
+
+                                   Note: See also Table 1 and RG 82.45.
+
+              RG 82.45       If the proposed trustee is a registered liquidator, administrators should
+                             confirm whether that insurance policy covers conduct by the registered
+                             liquidator in the capacity of trustee. If not, additional insurance would be
+                             needed.
+
+
+
+Remuneration and expenses
+              RG 82.46       Administrators should provide details of the remuneration and anticipated
+                             expenses of the deed administrator and proposed trustee, and a comparison
+                             of the remuneration process for the deed administrator and the trustee.
+
+              RG 82.47       The information should cover:
+                             (a)   how and when the deed administrator and trustee would be paid and at
+                                   what rates;
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                                 Page 17
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+                             (b)   the effect of the fees and expenses of each of the deed administrator and
+                                   trustee on the anticipated distribution to beneficiaries of the trust (see
+                                   also RG 82.43). This includes identifying any additional fees and
+                                   expenses involved because of the use of a creditors’ trust (such as
+                                   through duplication of activity); and
+                             (c)   the rights that beneficiaries would have to approve and/or challenge
+                                   fees charged by the trustee (including what law and courts would decide
+                                   those rights), compared with the rights they would have as creditors of a
+                                   company subject to a DOCA.
+
+                                   Note: See also Table 1.
+
+
+
+
+Indemnities
+              RG 82.48       Administrators should provide the details and implications for
+                             creditors/beneficiaries of any indemnity for fees or liabilities that has been
+                             (or will be) provided to the deed administrator or trustee, including the
+                             relationship between the indemnifier, the company, the deed administrator
+                             and the trustee. This includes any indemnity or lien in favour of the deed
+                             administrator or trustee over the assets of the company or over the trust fund
+                             under the proposed terms of the DOCA or trust deed.
+
+
+
+Powers
+              RG 82.49       Administrators should explain the differences between the powers of a deed
+                             administrator under the Corporations Act and the powers the trustee would
+                             have under the proposed trust deed and the relevant state or territory
+                             Trustee Act.
+
+              RG 82.50       This includes identification of any likely deficiencies in the powers of the
+                             trustee to perform the functions envisaged under the proposed trust deed, and
+                             which may lead to applications to court (and associated costs) by the trustee
+                             that would not be necessary for a deed administrator.
+
+
+
+Claims
+              RG 82.51       Administrators should explain how creditors’ claims against the company
+                             will be dealt with under the DOCA proposal and in what priority. This
+                             includes whether the value of those claims will be determined by the deed
+                             administrator or by the trustee. If by the trustee, there should be an
+                             explanation of what the process of determination will be and confirmation
+                             that the trustee will have unrestricted and free access to all the books and
+                             records of the company necessary to determine claims.
+
+
+© Australian Securities and Investments Commission December 2018                                               Page 18
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+              RG 82.52       If unsecured creditors’ priorities (as beneficiaries of the trust) will not follow
+                             the priorities set out in s556 of the Corporations Act, the nature of and
+                             reasons for the divergence from s556 should be explained. If the claims
+                             adjudication processes by the trustee and the associated rights of
+                             beneficiaries would differ from the processes and rights under the
+                             Corporations Act for creditors’ claims, the differences and their implications
+                             for beneficiaries should also be explained.
+
+                                   Note: See also Table 1.
+
+
+
+
+Other creditor/beneficiary differences
+              RG 82.53       The difference between Pt 5.3 of the Corporations Act, a creditors’ trust and
+                             general trust law must be drawn to the attention of creditors. The use of a
+                             creditors’ trust results in the loss of court supervision under the Corporations
+                             Act. Although courts can still provide relief under the general law of trusts,
+                             the safeguards available to creditors under Pt 5.3A are no longer available.
+
+              RG 82.54       Administrators should provide a comparison of the protections and rights
+                             that creditors would have under the Corporations Act as creditors of a
+                             company subject to a DOCA, and the protections and rights they would have
+                             as beneficiaries of the proposed creditors’ trust.
+
+              RG 82.55       In relation to creditors, we expect this comparison to include explanation of
+                             the ability of a creditor to:
+                             (a)   challenge decisions, actions or omissions by a deed administrator,
+                                   including decisions about the value of their claim against the company;
+                             (b)   be informed (including through reports to creditors, meetings of creditors,
+                                   and lodgement of statements of receipts and payments with ASIC, where
+                                   these are required) about the progress of the external administration;
+                             (c)   require a deed administrator to call a meeting of creditors to put a
+                                   resolution to vary or terminate a DOCA;
+                             (d)   apply to the court for the DOCA to be varied, terminated or avoided; and
+                             (e)   complain to ASIC about conduct by the deed administrator.
+
+              RG 82.56       In relation to beneficiaries of the proposed trust, we expect this comparison
+                             to include explanation of:
+                             (a)   the law that would govern interpretation of the trust deed and the
+                                   trustee’s powers and duties;
+                             (b)   how beneficiaries, individually and collectively, would be able to
+                                   monitor and enforce compliance by the trustee, the company and any
+                                   relevant third parties with the terms of the DOCA, the trust deed and
+                                   any ‘implementation deed’ or other document setting out obligations
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                               Page 19
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+                                   connected with the creditors’ trust. This includes the rights that
+                                   beneficiaries would have (and against whom) if any part of the trust
+                                   fund is not paid to the trustee in accordance with the proposed DOCA,
+                                   trust deed or other aspect of the arrangements;
+                             (c)   the rights that a beneficiary would have to challenge decisions, actions
+                                   or omissions by the trustee, including decisions about the value of their
+                                   entitlement to a distribution out of the trust fund;
+                             (d)   how, when and by whom the terms of the trust deed could be varied,
+                                   including the rights that a beneficiary would have to call, or require the
+                                   trustee to call, a meeting of beneficiaries to vary or terminate the trust
+                                   deed; and
+                             (e)   how, and to which supervisory body, a beneficiary could complain
+                                   about decisions or other conduct by the trustee.
+
+
+
+Fair Entitlements Guarantee scheme
+              RG 82.57       Administrators should disclose the effect (if any) for employee creditors of
+                             becoming a beneficiary of a creditors’ trust on their rights under the FEG, or
+                             on the Australian Government’s rights of subrogation under FEG.
+
+
+
+Compliance opinion
+              RG 82.58       Administrators should state:
+                             (a)   the inquiries they have made about the capability (including financial
+                                   capability) of the company and any relevant third party to comply with
+                                   their obligations under the DOCA proposal;
+                             (b)   the information they have received in response to those inquiries; and
+                             (c)   based on this information, their opinion on whether the company (and any
+                                   relevant third party) is capable of complying and is likely to comply with
+                                   its obligations to the trustee, if the DOCA proposal is approved by creditors.
+
+                                   Note: See also Table 1.
+
+
+
+
+Solvency statement
+              RG 82.59       Administrators should state the reasons why they have formed the opinion
+                             that the company will be solvent at the date of effectuation of the DOCA, if
+                             the DOCA is wholly effectuated on the terms proposed.
+
+              RG 82.60       An administrator who has not formed or cannot form this opinion should
+                             re-evaluate the proposal: see RG 82.23.
+
+
+
+© Australian Securities and Investments Commission December 2018                                               Page 20
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+Taxation issues for company and trust
+              RG 82.61       Administrators should provide details of the taxation (including capital gains
+                             tax), stamp duty and other financial implications for the company and for the
+                             trust of:
+                             (a)   establishing the trust;
+
+                                   Note: Trusts are entities that are subject to Australian Business Number (ABN)
+                                   registration requirements and to Australian income tax legislation.
+
+                             (b)   transferring to the trust the company’s liabilities to its creditors and,
+                                   where applicable, other property of the company;
+                             (c)   where applicable, realising trust assets; and
+                             (d)   distributing trust assets to the beneficiaries.
+
+              RG 82.62       This should include explanation of how these costs will impact on the
+                             anticipated return to creditors/beneficiaries: see also RG 82.45.
+
+
+
+Taxation issues for individual creditor/beneficiary
+              RG 82.63       Administrators should provide a statement in general terms about the
+                             potential taxation implications for a creditor of receiving distributions (in
+                             their capacity as beneficiary) from a trust, rather than payment from the
+                             company in their capacity as creditors, with a statement advising creditors to
+                             seek professional advice about their individual taxation circumstances.
+
+
+
+Other issues
+              RG 82.64       Administrators should provide information about any other material aspects
+                             or implications of the particular DOCA proposal, such as:
+                             (a)   whether an Australian financial services (AFS) licence or authorisation
+                                   would be needed by the trustee and, if so, the financial and other
+                                   implications for creditors/beneficiaries;
+
+                                   Note: Administrators should note that the automatic AFS licensing exemptions
+                                   available to external administrators under s911A(2)(f) of the Corporations Act may not
+                                   apply to registered liquidators acting as trustee of a creditors’ trust.
+
+                             (b)   if the DOCA proposal involves preservation of the corporate shell, any
+                                   independent opinion about the estimated value of the corporate shell; and
+                             (c)   if the DOCA proposal involves a proposed equity raising and
+                                   reorganisation of the company’s share capital, information about what
+                                   this would involve (including costs and the implications of those costs
+                                   for the return to creditors/beneficiaries), and the implications of relevant
+                                   fundraising or takeover laws.
+
+
+
+© Australian Securities and Investments Commission December 2018                                                    Page 21
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+Key terms
+
+                            Term                        Meaning in this document
+
+                            ABN                         Australian Business Number
+
+                            administrator               Has the meaning given in s9 of the Corporations Act
+                                                              Note: It therefore includes both deed administrators and
+                                                              voluntary administrators.
+
+                            AFS licence                 An Australian financial services licence under s913B of
+                                                        the Corporations Act that authorises a person who carries
+                                                        on a financial services business to provide financial
+                                                        services
+                                                              Note: This is a definition contained in s761A.
+
+                            AFS licensee                A person who holds an AFS licence under s913B of the
+                                                        Corporations Act
+
+                            ASIC                        Australian Securities and Investments Commission
+
+                            ASX                         ASX Limited or the exchange market operated by ASX
+                                                        Limited
+
+                            Corporations Act            Corporations Act 2001, including regulations made for the
+                                                        purposes of that Act
+
+                            deed administrator          A person appointed to administer a deed of company
+                                                        arrangement under Pt 5.3A of the Corporations Act
+
+                            DOCA                        A deed of company arrangement
+
+                            DOCA proposal               A proposed DOCA or proposed variation of a DOCA
+
+                            FEG                         Fair Entitlements Guarantee scheme
+
+                            Insolvency Practice         Insolvency Practice Rules (Corporations) 2016
+                            Rules
+
+                            Pt 5.3A (for example)       A part of the Corporations Act (in this example numbered
+                                                        5.3A), unless otherwise specified
+
+                            registered liquidator       A person registered by ASIC under s20–30 of Sch 2 to
+                                                        the Corporations Act
+
+                            s439A (for example)         A section of the Corporations Act (in this example
+                                                        numbered 439A), unless otherwise specified
+
+                            voluntary administrator     An administrator of a company but not of a deed of
+                                                        company arrangement
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                                  Page 22
+                REGULATORY GUIDE 82: External administration: Deeds of company arrangement involving a creditors’ trust
+
+
+
+
+Related information
+
+
+                             Headnotes
+
+                             creditors’ trust, deed of company arrangement, DOCA, material information,
+                             registered liquidator
+
+
+                             Regulatory guides
+
+                             RG 33 Security deposits
+
+
+                             Legislation
+
+                             Corporations Act, Pt 5.3A; s435A, 439A, 445D, 450E(2), 556, 911A; Sch 2,
+                             Div 40, s20–30
+
+                             Insolvency Practice Rules, s75–225
+
+
+                             Cases
+
+                             Blacktown City Council v Macarthur Telecommunications P/L (2004)
+                             47 ACSR 391
+
+                             Bovis Lend Lease P/L v Wily (2003) 45 ACSR 612
+
+                             Commissioner of Taxation v Comcorp Australia Ltd (1996) 70 FCR 356;
+                             21 ACSR 590
+
+                             Kalon v Sydney Land Corp P/L (1998) 26 ACSR 593
+
+                             Kirwan v Cresvale Far East Ltd (in liq) [2002] NSWCA 395; (2003)
+                             44 ACSR 21
+
+                             M&S Butler Investments Pty Ltd v Granny May’s Franchising Pty Ltd
+                             (1997) 24 ACSR 695
+
+                             Mighty River International Limited v Hughes [2018] HCA 38
+
+                             Parkview Constructions Pty Ltd v Tayeh and Others [2009] NSWSC 186
+
+                             Re Bevillesta Pty Ltd (in voluntary administration) [2011] NSWSC 417
+
+                             Sydney Land Corp P/L v Kalon P/L (1998) 26 ACSR 427
+
+                             Young v Sherman (2002) 170 FLR 86
+
+
+
+
+© Australian Securities and Investments Commission December 2018                                               Page 23
+

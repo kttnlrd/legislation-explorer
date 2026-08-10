@@ -1,0 +1,36 @@
+{
+  "citation": "RG 73",
+  "title": "Continuous disclosure obligations: Infringement notices",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses the infringement notice remedy for breaches of continuous disclosure obligations. It covers ASIC's general approach to issuing infringement notices and the stages of the infringement notice process.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth) and the ASIC Act 2001 (Cth). It is intended for listed and unlisted disclosing entities and other persons subject to continuous disclosure obligations, explaining how ASIC will exercise its powers to issue infringement notices for alleged contraventions.",
+  "ruling": "ASIC states that infringement notices are an alternative to civil penalty proceedings for alleged breaches of continuous disclosure obligations. The process involves four stages: investigation of an alleged breach, briefing of an ASIC delegate, examination of the matter by the delegate, and a hearing if the delegate decides to issue a hearing notice. ASIC will consider factors such as the nature and seriousness of the breach, cooperation, and prior conduct when deciding whether to issue an infringement notice. The guide also outlines the rights of recipients to make submissions and seek review of decisions.",
+  "date_of_effect": "2017-10-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 674(1)-(2A)",
+    "Corporations Act 2001 (Cth) s 675(2)-(2A)",
+    "Corporations Act 2001 (Cth) s 708A(2)",
+    "Corporations Act 2001 (Cth) s 713(6)",
+    "Corporations Act 2001 (Cth) s 713A(23)",
+    "Corporations Act 2001 (Cth) s 793C",
+    "Corporations Act 2001 (Cth) s 1012DA(2)",
+    "Corporations Act 2001 (Cth) s 1013FA(3)",
+    "Corporations Act 2001 (Cth) s 1101B",
+    "Corporations Act 2001 (Cth) s 1317DAD-1317DAJ",
+    "Corporations Act 2001 (Cth) s 1317HA",
+    "Corporations Act 2001 (Cth) s 1324B",
+    "Australian Securities and Investments Commission Act 2001 (Cth) s 51",
+    "Australian Securities and Investments Commission Act 2001 (Cth) s 54-62",
+    "Australian Securities and Investments Commission Act 2001 (Cth) s 91",
+    "Australian Securities and Investments Commission Act 2001 (Cth) s 93AA",
+    "Corporations Regulations 2001 (Cth) reg 7.2A.04"
+  ],
+  "cases_referenced": [
+    "McLachlan v ASIC (1999) 85 FCR 286"
+  ],
+  "related_rulings": [
+    "RG 8",
+    "INFO 1"
+  ]
+}

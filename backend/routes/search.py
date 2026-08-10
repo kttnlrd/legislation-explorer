@@ -17,6 +17,16 @@ RRF_K = 60
 
 SECTION_NUMBER_RE = re.compile(r'^[0-9]+(-[0-9]+)?$')
 
+# Normalize old-format citations (e.g. "2015_FCAFC_168" → "[2015] FCAFC 168")
+CITATION_NORMALIZE_RE = re.compile(r'^(\d{4})_([A-Z]+)_(\d+)$')
+
+def _normalize_citation(s: str) -> str:
+    """Convert old filename-style citation to proper format."""
+    m = CITATION_NORMALIZE_RE.match(s)
+    if m:
+        return f"[{m.group(1)}] {m.group(2)} {m.group(3)}"
+    return s
+
 
 @router.get("/api/search")
 def search(q: str, act: str | None = None, offset: int = 0, limit: int = 50):
@@ -185,6 +195,17 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
     except Exception:
         logger.exception("FTS search failed")
         fts_results = []
+    # FTS results are always legislation sections — filter by type when active
+    if type_filter and "section" not in type_filter:
+        fts_results = []
+
+    try:
+        ruling_results = search_rulings(q, limit=50) if not act or act == "rulings" else []
+    except Exception:
+        logger.exception("Ruling FTS search failed")
+        ruling_results = []
+    if type_filter and "ruling" not in type_filter:
+        ruling_results = []
 
     try:
         vector_results = vector_search_service.search(q, limit=50)
@@ -196,6 +217,38 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
     if type_filter:
         vector_results = [r for r in vector_results if r.get("source_type", "section") in type_filter]
 
+    # Query the PostgreSQL case database for citation/name matches
+    pg_case_results: list[dict] = []
+    try:
+        import subprocess
+        safe_q = q.replace("'", "''").replace('"', '""')
+        sql = (
+            "SELECT citation, case_name, court, decision_date::text FROM cases "
+            f"WHERE citation ILIKE '%{safe_q}%' OR case_name ILIKE '%{safe_q}%' "
+            "ORDER BY decision_date DESC LIMIT 20"
+        )
+        result = subprocess.run(
+            ["docker", "exec", "-i", "cadena-postgres", "psql",
+             "-U", "postgres", "-d", "cadena_knowledge",
+             "-t", "-A", "-F", chr(1), "-c", sql],
+            capture_output=True, text=True, timeout=10,
+        )
+        if result.returncode == 0 and result.stdout.strip():
+            for line in result.stdout.strip().splitlines():
+                parts = line.split(chr(1))
+                if len(parts) >= 4:
+                    pg_case_results.append({
+                        "act": "tax-cases",
+                        "section": parts[0],
+                        "title": parts[1],
+                        "court": parts[2],
+                        "snippet": f"{parts[1]} — Decided {parts[3]}" if parts[3] else parts[1],
+                    })
+    except Exception:
+        logger.exception("PostgreSQL case search failed (non-fatal)")
+    if type_filter and 'case' not in type_filter:
+        pg_case_results = []
+
     scores: dict[tuple[str, str], float] = {}
     merged: dict[tuple[str, str], dict] = {}
 
@@ -205,12 +258,26 @@ def search_hybrid(q: str, act: str | None = None, limit: int = 20, type: str | N
         merged.setdefault(key, {**r, "embedding_id": None, "source_type": "section"})
 
     for rank, r in enumerate(vector_results):
+        # Normalize citation for case-type results before key computation
+        vr = {**r}
+        if vr.get("source_type") == "case" or vr.get("act") == "tax-cases":
+            vr["section"] = _normalize_citation(vr.get("section", ""))
+        key = (vr["act"], vr["section"])
+        scores[key] = scores.get(key, 0.0) + 1 / (RRF_K + rank + 1)
+        existing = merged.setdefault(key, {**vr})
+        existing.setdefault("embedding_id", vr["embedding_id"])
+        existing.setdefault("snippet", vr["snippet"])
+        existing["source_type"] = vr.get("source_type", "section")
+
+    for rank, r in enumerate(pg_case_results):
         key = (r["act"], r["section"])
         scores[key] = scores.get(key, 0.0) + 1 / (RRF_K + rank + 1)
-        existing = merged.setdefault(key, {**r})
-        existing.setdefault("embedding_id", r["embedding_id"])
-        existing.setdefault("snippet", r["snippet"])
-        existing["source_type"] = r.get("source_type", "section")
+        merged.setdefault(key, {**r, "source_type": "case", "type": "case"})
+
+    for rank, r in enumerate(ruling_results):
+        key = (r["act"], r["section"])
+        scores[key] = scores.get(key, 0.0) + 1 / (RRF_K + rank + 1)
+        merged.setdefault(key, {**r, "embedding_id": None, "source_type": "ruling"})
 
     ranked_keys = sorted(scores, key=lambda k: -scores[k])
     total = len(ranked_keys)

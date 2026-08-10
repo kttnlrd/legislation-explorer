@@ -1,7 +1,8 @@
 """SQLite FTS5 search service."""
 from __future__ import annotations
-
 import json
+import logging
+import os
 import re
 import sqlite3
 import logging
@@ -118,6 +119,17 @@ def init_search_index() -> None:
                     meta = json.loads(meta_path.read_text(encoding="utf-8"))
                     title = meta.get("title", citation)
 
+                # Fallback: if title is still the citation (no meta), try summary file
+                if title == citation:
+                    summary_dir = DATA_DIR / "rulings" / "summaries"
+                    summ_path = summary_dir / f"{citation}.json"
+                    if summ_path.exists():
+                        try:
+                            summ_data = json.loads(summ_path.read_text(encoding="utf-8"))
+                            title = summ_data.get("title", summ_data.get("subject", title))
+                        except Exception:
+                            pass
+
                 content_raw = f.read_text(encoding="utf-8", errors="replace")
                 content = re.sub(r'[#*`_\[\]\(\)]', ' ', content_raw)
                 content = re.sub(r'\s+', ' ', content).strip()[:50000]
@@ -179,6 +191,55 @@ def init_search_index() -> None:
                 logger.info(f"Insolvency FTS indexed: {indexed_count} chapters")
         except Exception:
             logger.exception("Insolvency FTS index failed (non-fatal)")
+
+    # --- Case summaries FTS ---
+    SUMMARIES_DIR = DATA_DIR / ".." / "scripts" / "cleaned" / "summaries"
+    if SUMMARIES_DIR.exists():
+        try:
+            with search_conn() as conn:
+                conn.execute("DROP TABLE IF EXISTS case_summaries_fts")
+                conn.execute("""
+                    CREATE VIRTUAL TABLE case_summaries_fts USING fts5(
+                        citation, case_name, court, text,
+                        tokenize='porter'
+                    )
+                """)
+                conn.execute("BEGIN")
+                count = 0
+                for f in sorted(os.listdir(str(SUMMARIES_DIR))):
+                    if not f.endswith(".json"):
+                        continue
+                    try:
+                        with open(SUMMARIES_DIR / f) as fh:
+                            s = json.load(fh)
+                    except Exception:
+                        continue
+                    citation = s.get("citation", "")
+                    case_name = s.get("case_name", "") or s.get("title", "")
+                    court = s.get("court", "")
+                    text_parts = [
+                        s.get("facts", ""),
+                        s.get("held", ""),
+                        s.get("reasoning", ""),
+                        s.get("outcome", ""),
+                    ]
+                    for lst_key in ("issues", "cases_cited", "legislation_cited"):
+                        val = s.get(lst_key, [])
+                        if isinstance(val, list):
+                            text_parts.extend(str(item) for item in val if isinstance(item, str))
+                        elif isinstance(val, str):
+                            text_parts.append(val)
+                    text = re.sub(r'\s+', ' ', " ".join(text_parts)).strip()
+                    if text:
+                        conn.execute(
+                            "INSERT INTO case_summaries_fts (citation, case_name, court, text) VALUES (?, ?, ?, ?)",
+                            (citation, case_name, court, text)
+                        )
+                        count += 1
+                conn.commit()
+                logger.info(f"Case summaries FTS indexed: {count} cases")
+        except Exception:
+            logger.exception("Case summaries FTS index failed (non-fatal)")
 
     logger.info(f"Search index built: {SEARCH_DB}")
 
@@ -394,6 +455,20 @@ _PREFIX_TYPE_MAP = {
     "AID": "ATO Interpretative Decision",
 }
 
+def _citation_to_display(citation: str) -> str:
+    """Convert internal citation format to display format.
+    e.g. 'TR_2012_1' → 'TR 2012/1', 'IT_342' → 'IT 342'
+    """
+    # Year-based citations: TR_2012_1 → TR 2012/1
+    m = re.match(r'^([A-Za-z]+)_(\d{4})_(\d+)$', citation)
+    if m:
+        return f"{m.group(1)} {m.group(2)}/{m.group(3)}"
+    # Number-based citations: IT_342 → IT 342
+    m = re.match(r'^([A-Za-z]+)_(\d+)$', citation)
+    if m:
+        return f"{m.group(1)} {m.group(2)}"
+    return citation.replace("_", " ")
+
 def _ruling_type_from_citation(citation: str) -> str:
     """Derive the canonical ruling type from the citation prefix."""
     m = re.match(r'^([A-Za-z]+)', citation.strip())
@@ -403,7 +478,129 @@ def _ruling_type_from_citation(citation: str) -> str:
 
 
 def search_rulings(q: str, limit: int = 20) -> list[dict]:
-    """Search rulings using FTS5 BM25 ranking."""
+    """Search rulings using FTS5 BM25 ranking with exact-match boost."""
+    tokens = q.split()
+    if not tokens:
+        return []
+
+    # --- Exact citation match (boost to rank 1) ---
+    # Normalize spaces/slashes to underscore format stored in DB
+    # e.g. "IT 342" → "IT_342", "TR 2012/1" → "TR_2012_1"
+    norm = q.strip().replace(" ", "_").replace("/", "_")
+    exact_row = None
+    try:
+        with search_conn() as conn:
+            exact_row = conn.execute(
+                "SELECT citation, title, year, ruling_type FROM rulings_meta WHERE citation = ?",
+                (norm,)
+            ).fetchone()
+    except Exception:
+        pass
+
+    # --- FTS5 search ---
+    quoted = []
+    for tok in tokens:
+        if tok.endswith('*') and len(tok) > 1:
+            inner = tok[:-1].replace('"', '""')
+            quoted.append(f'"{inner}"*')
+        else:
+            quoted.append('"' + tok.replace('"', '""') + '"')
+    q_clean = ' '.join(quoted)
+
+    with search_conn() as conn:
+        sql = """SELECT rulings_fts.citation, rulings_fts.title,
+                       m.year, m.ruling_type,
+                       rank, snippet(rulings_fts, 2, '<mark>', '</mark>', '...', 32) as snippet
+                FROM rulings_fts
+                JOIN rulings_meta m ON rulings_fts.citation = m.citation
+                WHERE rulings_fts MATCH ?
+                ORDER BY rank
+                LIMIT ?"""
+        rows = conn.execute(sql, (q_clean, limit)).fetchall()
+
+    # --- LIKE fallback for citation-bound queries FTS5 misses ---
+    # FTS5 porter tokenizer treats underscores as part of the token,
+    # so "IT 342" (tokenized as "it", "342") won't match "IT_342" (token "IT_342").
+    # Fall back to LIKE on citation and content when FTS returns nothing
+    # or the query looks like a ruling reference.
+    if len(rows) == 0 or re.match(r'^[A-Za-z]+[\s_/]', q.strip()):
+        try:
+            with search_conn() as conn:
+                like_pat = f"%{norm.replace('_', '%')}%"
+                like_rows = conn.execute(
+                    """SELECT r.citation, r.title, m.year, m.ruling_type,
+                              0.0 as rank, '' as snippet
+                       FROM rulings_fts r
+                       JOIN rulings_meta m ON r.citation = m.citation
+                       WHERE r.citation LIKE ? OR r.content LIKE ?
+                       ORDER BY CASE WHEN r.citation = ? THEN 0
+                                     WHEN r.citation LIKE ? THEN 1
+                                     ELSE 2 END
+                       LIMIT ?""",
+                    (like_pat, like_pat, norm, f"{norm.split('_')[0] if '_' in norm else norm}%", limit)
+                ).fetchall()
+                if like_rows:
+                    # Merge: insert LIKE results that aren't already in FTS results
+                    existing = {r[0] for r in rows}
+                    for lr in like_rows:
+                        if lr[0] not in existing:
+                            rows.append(lr)
+                            existing.add(lr[0])
+        except Exception:
+            pass
+
+    results = []
+    for row in rows:
+        title = row["title"]
+        if title == row["citation"]:
+            summary_dir = Path(DATA_DIR) / "rulings" / "summaries"
+            summ_path = summary_dir / f'{row["citation"].replace("/", "_")}.json'
+            if summ_path.exists():
+                try:
+                    meta = json.loads(summ_path.read_text(encoding="utf-8"))
+                    title = meta.get("title", meta.get("subject", title))
+                except Exception:
+                    pass
+        results.append({
+            "act": "rulings",
+            "section": _citation_to_display(row["citation"]),
+            "title": title,
+            "citation": row["citation"],
+            "year": row["year"],
+            "ruling_type": _ruling_type_from_citation(row["citation"]) or row["ruling_type"],
+            "snippet": row["snippet"] or "",
+        })
+
+    # Pin exact match to rank 1 if found
+    if exact_row:
+        exact_citation = exact_row["citation"]
+        # Remove any existing entry for the exact match
+        results = [r for r in results if r["section"] != exact_citation]
+        title = exact_row["title"]
+        if title == exact_citation:
+            summary_dir = Path(DATA_DIR) / "rulings" / "summaries"
+            summ_path = summary_dir / f'{exact_citation.replace("/", "_")}.json'
+            if summ_path.exists():
+                try:
+                    meta = json.loads(summ_path.read_text(encoding="utf-8"))
+                    title = meta.get("title", meta.get("subject", title))
+                except Exception:
+                    pass
+        results.insert(0, {
+            "act": "rulings",
+            "section": _citation_to_display(exact_citation),
+            "title": title,
+            "citation": exact_citation,
+            "year": exact_row["year"],
+            "ruling_type": _ruling_type_from_citation(exact_citation) or exact_row["ruling_type"],
+            "snippet": "",
+        })
+
+    return results[:limit]
+
+
+def search_cases(q: str, limit: int = 20) -> list[dict]:
+    """Search case summaries using FTS5 BM25 ranking."""
     tokens = q.split()
     if not tokens:
         return []
@@ -417,38 +614,25 @@ def search_rulings(q: str, limit: int = 20) -> list[dict]:
     q_clean = ' '.join(quoted)
 
     with search_conn() as conn:
-        sql = """
-            SELECT rulings_fts.citation, rulings_fts.title,
-                   m.year, m.ruling_type,
-                   rank, snippet(rulings_fts, 2, '<mark>', '</mark>', '...', 32) as snippet
-            FROM rulings_fts
-            JOIN rulings_meta m ON rulings_fts.citation = m.citation
-            WHERE rulings_fts MATCH ?
-            ORDER BY rank
-            LIMIT ?
-        """
-        rows = conn.execute(sql, (q_clean, limit)).fetchall()
-
+        try:
+            sql = """
+                SELECT citation, case_name, court,
+                       rank, snippet(case_summaries_fts, 3, '<mark>', '</mark>', '...', 32) as snippet
+                FROM case_summaries_fts
+                WHERE case_summaries_fts MATCH ?
+                ORDER BY rank
+                LIMIT ?
+            """
+            rows = conn.execute(sql, (q_clean, limit)).fetchall()
+        except Exception:
+            rows = []
     results = []
     for row in rows:
-        title = row["title"]
-        # If title is just the citation (fallback), try to find a real title
-        if title == row["citation"]:
-            summary_dir = Path(DATA_DIR) / "rulings" / "summaries"
-            summ_path = summary_dir / f'{row["citation"].replace("/", "_")}.json'
-            if summ_path.exists():
-                try:
-                    meta = json.loads(summ_path.read_text(encoding="utf-8"))
-                    title = meta.get("title", meta.get("subject", title))
-                except Exception:
-                    pass
         results.append({
-            "act": "rulings",
+            "act": "tax-cases",
             "section": row["citation"],
-            "title": title,
-            "citation": row["citation"],
-            "year": row["year"],
-            "ruling_type": _ruling_type_from_citation(row["citation"]) or row["ruling_type"],
+            "title": row["case_name"],
+            "court": row["court"],
             "snippet": row["snippet"] or "",
         })
     return results
@@ -521,3 +705,45 @@ def get_insolvency_chapter(chapter: int) -> dict | None:
         "slug": ch_info["slug"],
         "content": content,
     }
+
+
+def search_cases_fts(q: str, limit: int = 20) -> list[dict]:
+    """Search case summaries using FTS5 BM25 ranking.
+
+    Returns list of dicts with citation, case_name, court, has_summary=True.
+    """
+    tokens = q.split()
+    if not tokens:
+        return []
+    quoted = []
+    for tok in tokens:
+        if tok.endswith('*') and len(tok) > 1:
+            inner = tok[:-1].replace('"', '""')
+            quoted.append(f'"{inner}"*')
+        else:
+            quoted.append('"' + tok.replace('"', '""') + '"')
+    q_clean = ' '.join(quoted)
+    from urllib.parse import quote
+
+    with search_conn() as conn:
+        try:
+            rows = conn.execute(
+                "SELECT citation, case_name, court, rank "
+                "FROM case_summaries_fts WHERE case_summaries_fts MATCH ? "
+                "ORDER BY rank LIMIT ?",
+                (q_clean, limit)
+            ).fetchall()
+        except Exception:
+            rows = []
+
+    results = []
+    for row in rows:
+        results.append({
+            "citation": row["citation"],
+            "case_name": row["case_name"],
+            "court": row["court"],
+            "year": row["citation"][1:5] if row["citation"].startswith("[") else "",
+            "has_summary": True,
+            "html_url": f"https://legislation.scriptkitty.yachts/tax-cases/{quote(row['citation'])}",
+        })
+    return results

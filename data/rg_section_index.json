@@ -1,0 +1,2922 @@
+{
+  "RG_1": [
+    {
+      "act": "corporations-act-2001",
+      "section": "912A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "913B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "913BA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "913BB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "913C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "915B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "916A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "916B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "916F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "923B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "925E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "990B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1224"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1224F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222J"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222K"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222L"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222Q"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222T"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1676A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "9"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "92"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "50"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601EB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601ED"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601RAB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601RAC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "738B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "738C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "738H"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "738J"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "738L"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "761A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "761D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "761E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "761EA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "761G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "761GA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "763A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "763B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "763C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "764A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "766A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "766B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "766C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "766D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "766E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "766F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "766G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "766H"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "767A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "768A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "769B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "910A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "910B"
+    }
+  ],
+  "RG_10": [
+    {
+      "act": "corporations-act-2001",
+      "section": "667AA"
+    }
+  ],
+  "RG_100": [
+    {
+      "act": "corporations-act-2001",
+      "section": "674"
+    }
+  ],
+  "RG_104": [
+    {
+      "act": "corporations-act-2001",
+      "section": "912A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "9"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "761A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "769B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "910A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "911B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "913B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "914A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "915C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1112"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1112A"
+    }
+  ],
+  "RG_105": [
+    {
+      "act": "corporations-act-2001",
+      "section": "912A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912DAA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "913B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "913BA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "914A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "915C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "922A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "9"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "92"
+    }
+  ],
+  "RG_107": [
+    {
+      "act": "corporations-act-2001",
+      "section": "52"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "231"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "706"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "707"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "708"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "708AA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "708A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "710"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "711"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "712"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "713"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "715"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "718"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "719"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "721"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "723"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "724"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "727"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "729"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "734"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "736"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "737"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "738"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "991A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1041E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1041F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1041G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1041H"
+    }
+  ],
+  "RG_108": [
+    {
+      "act": "corporations-act-2001",
+      "section": "1318"
+    }
+  ],
+  "RG_110": [
+    {
+      "act": "corporations-act-2001",
+      "section": "114"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "257B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "257C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "257D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "257E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "257F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "257G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "259A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "259F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "606"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "611"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "624"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "631"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1043A"
+    }
+  ],
+  "RG_111": [
+    {
+      "act": "corporations-act-2001",
+      "section": "611"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "444GA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912A"
+    }
+  ],
+  "RG_112": [
+    {
+      "act": "corporations-act-2001",
+      "section": "412"
+    }
+  ],
+  "RG_115": [
+    {
+      "act": "corporations-act-2001",
+      "section": "340"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "342"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "301"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "307"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "308"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "314"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "315"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "316"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "319"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "45A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "9"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "588G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "109Y"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "111AC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "220"
+    }
+  ],
+  "RG_125": [
+    {
+      "act": "corporations-act-2001",
+      "section": "111AS"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "111AT"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "340"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "341"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601GA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "674"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "708AA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "708A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "741"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1012DAA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1012DA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1020F"
+    }
+  ],
+  "RG_126": [
+    {
+      "act": "corporations-act-2001",
+      "section": "912B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912DAA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "953B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "953C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "991A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1022B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1022C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1041I"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601RAB"
+    }
+  ],
+  "RG_128": [
+    {
+      "act": "corporations-act-2001",
+      "section": "9"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "12"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "16"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "53"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "64"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "181"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "249D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "249N"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "252B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "252L"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FD"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "602"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "606"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "608"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "609"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "611"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "657A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "671B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1041H"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1042A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1043A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1043H"
+    }
+  ],
+  "RG_131": [
+    {
+      "act": "corporations-act-2001",
+      "section": "9"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601EA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601EB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601GA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601GB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HG"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1013C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1211"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1211A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1212"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1212A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1214"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222J"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222K"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222V"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222S"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223H"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1226"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1226A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1226B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1308"
+    }
+  ],
+  "RG_132": [
+    {
+      "act": "corporations-act-2001",
+      "section": "601EA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601ED"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601GA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601GB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HD"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HE"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HF"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HG"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HH"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601JA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601JB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601JC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912DAA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1211"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1211A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223H"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1224D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1224G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1226A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1226B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1226D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1226E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1226F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1226G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1226H"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1226J"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1233C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1234"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1234J"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1238H"
+    }
+  ],
+  "RG_133": [
+    {
+      "act": "corporations-act-2001",
+      "section": "601FB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FF"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "766E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "911B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912DAA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1211"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1211A"
+    }
+  ],
+  "RG_134": [
+    {
+      "act": "corporations-act-2001",
+      "section": "9"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "9A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "127"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "137"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "253E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "254Q"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601EB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FD"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FG"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601GA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601GAD"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601GAE"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601GB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601GC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601KD"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601NE"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601NF"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601NFA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601PB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "606"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "675"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "988A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222R"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222T"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1223H"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1224D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1224N"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1224P"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1225"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1225E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1230"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1230F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1230G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1230H"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1230K"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1230Q"
+    }
+  ],
+  "RG_136": [
+    {
+      "act": "corporations-act-2001",
+      "section": "252P"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "252R"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "253E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "253LA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601ED"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FD"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FE"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FL"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601GA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601GC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HG"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601JA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601JB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601KA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601KB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601KC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601KD"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601KE"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601LC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601PA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601PBB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601QA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "926A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "951B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "992B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1012E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1020F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1211"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1217"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1217A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1243"
+    }
+  ],
+  "RG_137": [
+    {
+      "act": "corporations-act-2001",
+      "section": "601GA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601GB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "331AD"
+    }
+  ],
+  "RG_140": [
+    {
+      "act": "corporations-act-2001",
+      "section": "9"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601ED"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FM"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "761G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "765A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "766B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "761E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "941A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "941B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "941C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "946A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "949A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "961B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1012B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1012D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1013A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1013D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1013E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1018A"
+    }
+  ],
+  "RG_16": [
+    {
+      "act": "corporations-act-2001",
+      "section": "286"
+    }
+  ],
+  "RG_25": [
+    {
+      "act": "corporations-act-2001",
+      "section": "624"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "636"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "638"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "643"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "644"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "670A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "670B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "670D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "674"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "675"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1041E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1041F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1041H"
+    }
+  ],
+  "RG_28": [
+    {
+      "act": "corporations-act-2001",
+      "section": "285"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "302"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "303"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "319"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "320"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "792C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1274"
+    }
+  ],
+  "RG_29": [
+    {
+      "act": "corporations-act-2001",
+      "section": "314"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "315"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "316"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "340"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "342"
+    }
+  ],
+  "RG_30": [
+    {
+      "act": "corporations-act-2001",
+      "section": "171"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "283BH"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1041H"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1071H"
+    }
+  ],
+  "RG_34": [
+    {
+      "act": "corporations-act-2001",
+      "section": "311"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HG"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "990K"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1226H"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "324CA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "324CE"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "9"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "89"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "180"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "201A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "286"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "286A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "296"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "296A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "296B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "296C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "297"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "308"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "309"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "312"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "319"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "320"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "324AF"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "327B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "331AAA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "331AH"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "346C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "588G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "981B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "981C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "988A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "988B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "990L"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017BB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1222J"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1224D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1226G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1289"
+    }
+  ],
+  "RG_36": [
+    {
+      "act": "corporations-act-2001",
+      "section": "766A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "766B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "766C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "910A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "911A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "911B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912DAA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "946A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "949A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "961B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "961G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "961H"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "961J"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "52"
+    }
+  ],
+  "RG_44": [
+    {
+      "act": "corporations-act-2001",
+      "section": "250N"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "250P"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "323D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1317B"
+    }
+  ],
+  "RG_45": [
+    {
+      "act": "corporations-act-2001",
+      "section": "228"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601EA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601JA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601JC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "675"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "769C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1013C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1013D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1013E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1020E"
+    }
+  ],
+  "RG_46": [
+    {
+      "act": "corporations-act-2001",
+      "section": "228"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "314"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601EA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601HA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601JA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601JC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "675"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "769C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1012A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1013D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1020E"
+    }
+  ],
+  "RG_51": [
+    {
+      "act": "corporations-act-2001",
+      "section": "340"
+    }
+  ],
+  "RG_54": [
+    {
+      "act": "corporations-act-2001",
+      "section": "601QA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "710"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "760A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "795B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "824B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "881A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "888A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "911A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912B"
+    }
+  ],
+  "RG_55": [
+    {
+      "act": "corporations-act-2001",
+      "section": "716"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1013K"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "636"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "638"
+    }
+  ],
+  "RG_58": [
+    {
+      "act": "corporations-act-2001",
+      "section": "9"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "45A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "113"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "292"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "294"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "319"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "323D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "340"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "342"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "50AA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601CK"
+    }
+  ],
+  "RG_6": [
+    {
+      "act": "corporations-act-2001",
+      "section": "606"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "609"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "611"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "613"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "615"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "625"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "651A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "652C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "655A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "671B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "9"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "9A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "228"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "229"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "444GA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "602"
+    }
+  ],
+  "RG_64": [
+    {
+      "act": "corporations-act-2001",
+      "section": "142"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "145"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "232"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "240"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "242"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "319"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "345"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601AB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601AH"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1274"
+    }
+  ],
+  "RG_67": [
+    {
+      "act": "corporations-act-2001",
+      "section": "707"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "708"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "736"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "911A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1041H"
+    }
+  ],
+  "RG_69": [
+    {
+      "act": "corporations-act-2001",
+      "section": "313"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "318"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "283BE"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "283BF"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "283BH"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "283DA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "283EB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "556"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "675"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "704"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "708"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "710"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "711"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "715A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "719"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "723"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "739"
+    }
+  ],
+  "RG_71": [
+    {
+      "act": "corporations-act-2001",
+      "section": "50AA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "602"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "603"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "604"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "606"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "608"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "611"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "621"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "623"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "624"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "640"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "655A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "657A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "661A"
+    }
+  ],
+  "RG_73": [
+    {
+      "act": "corporations-act-2001",
+      "section": "674"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "675"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "708A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "713"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "713A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "793C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1012DA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1013FA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1101B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1317DAD"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1317HA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1324B"
+    }
+  ],
+  "RG_74": [
+    {
+      "act": "corporations-act-2001",
+      "section": "611"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "249H"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "249HA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "249L"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "252F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "253E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "257D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601GC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "602"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "606"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "608"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "609"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "631"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "671B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "766B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "911A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "941A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1013B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1015C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1016A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1019D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1041H"
+    }
+  ],
+  "RG_76": [
+    {
+      "act": "corporations-act-2001",
+      "section": "195"
+    }
+  ],
+  "RG_78": [
+    {
+      "act": "corporations-act-2001",
+      "section": "912A"
+    }
+  ],
+  "RG_82": [
+    {
+      "act": "corporations-act-2001",
+      "section": "435A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "439A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "445D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "450E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "556"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "911A"
+    }
+  ],
+  "RG_83": [
+    {
+      "act": "corporations-act-2001",
+      "section": "58AA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "413"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "459A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "481"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "482"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "489EA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "509"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601AA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601AB"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601AH"
+    }
+  ],
+  "RG_85": [
+    {
+      "act": "corporations-act-2001",
+      "section": "254T"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "295"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "296"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "297"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "307"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1308"
+    }
+  ],
+  "RG_86": [
+    {
+      "act": "corporations-act-2001",
+      "section": "602"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "672A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "672B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "672C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "672DA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "672F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "673"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1041E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1041H"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1306"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1308"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1309"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1310"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1311"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1325A"
+    }
+  ],
+  "RG_87": [
+    {
+      "act": "corporations-act-2001",
+      "section": "9"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "66A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "708"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "764A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "766A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "911A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "992A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "992AA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1012D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1308"
+    }
+  ],
+  "RG_9": [
+    {
+      "act": "corporations-act-2001",
+      "section": "633"
+    }
+  ],
+  "RG_91": [
+    {
+      "act": "corporations-act-2001",
+      "section": "9"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "708"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1012E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017F"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1020D"
+    }
+  ],
+  "RG_97": [
+    {
+      "act": "corporations-act-2001",
+      "section": "111AFA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "601FC"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "675"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "676"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "677"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "761G"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "761GA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912AD"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "912AEA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1012IA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1012J"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1013C"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1014A"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1015B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1015D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017B"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017D"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1017DA"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1020E"
+    },
+    {
+      "act": "corporations-act-2001",
+      "section": "1021B"
+    }
+  ]
+}

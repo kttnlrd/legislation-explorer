@@ -1,0 +1,794 @@
+REGULATORY GUIDE 137
+
+
+Constitution requirements for
+schemes registered before
+1 October 2013
+
+July 2018
+
+
+
+About this guide
+This guide is for responsible entities of registered managed investment
+schemes (registered schemes) that were registered before 1 October 2013
+and their advisers. It explains our approach to the constitution content
+requirements in the Corporations Act for these schemes.
+
+Note: From 27 July 2020, applications for relief should be submitted through
+the ASIC Regulatory Portal. For more information, see how you apply for
+relief.
+                         REGULATORY GUIDE 137: Constitution requirements for schemes registered before 1 October 2013
+
+
+
+
+                                  About ASIC regulatory documents
+
+                                  In administering legislation ASIC issues the following types of regulatory
+                                  documents.
+                                  Consultation papers: seek feedback from stakeholders on matters ASIC
+                                  is considering, such as proposed relief or proposed regulatory guidance.
+                                  Regulatory guides: give guidance to regulated entities by:
+                                      explaining when and how ASIC will exercise specific powers under
+                                       legislation (primarily the Corporations Act)
+                                      explaining how ASIC interprets the law
+                                      describing the principles underlying ASIC’s approach
+                                      giving practical guidance (e.g. describing the steps of a process such
+                                       as applying for a licence or giving practical examples of how
+                                       regulated entities may decide to meet their obligations).
+                                  Information sheets: provide concise guidance on a specific process or
+                                  compliance issue or an overview of detailed guidance.
+                                  Reports: describe ASIC compliance or relief activity or the results of a
+                                  research project.
+
+
+
+                              Document history
+
+                              This guide was issued in July 2018 and is based on legislation and
+                              regulations as at the date of issue. The note on the front page was inserted
+                              on 27 July 2020. In December 2025, minor updates were made to reflect the
+                              remaking of relief in ASIC Corporations (Managed Investment Product
+                              Consideration) Instrument 2025/629 in September 2025.
+
+                              Previous versions:
+                                     Superseded Regulatory Guide 134 as at September 2000
+                                     Appendix to superseded Regulatory Guide 134, issued October 2015
+
+
+                              Disclaimer
+                              This guide does not constitute legal advice. We encourage you to seek your
+                              own professional advice to find out how the Corporations Act and other
+                              applicable laws apply to you, as it is your responsibility to determine your
+                              obligations.
+
+                              Examples in this guide are purely for illustration; they are not exhaustive and
+                              are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission July 2018                                                  Page 2
+                          REGULATORY GUIDE 137: Constitution requirements for schemes registered before 1 October 2013
+
+
+
+
+Requirements for schemes registered before
+1 October 2013
+
+                                Key points
+
+                                The constitution of a registered managed investment scheme (registered
+                                scheme) must meet certain requirements under the Corporations Act 2001
+                                (Corporations Act). This guide sets out the requirements that applied to
+                                constitutions under the version of Regulatory Guide 134 Funds
+                                management (RG 134) as at September 2000.
+
+                                For schemes registered before 1 October 2013, we will not deregister the
+                                scheme or take any action against a responsible entity or its officers on the
+                                basis that a constitution does not comply with s601GA and 601GB of the
+                                Corporations Act if the constitution meets the requirements in this guide.
+
+
+
+Application of this guide
+               RG 137.1        This guide sets out the requirements that applied to constitutions under the
+                               version of RG 134 as at September 2000.
+
+               RG 137.2        For schemes registered before 1 October 2013, we will not deregister the
+                               scheme or take any action against a responsible entity or its officers on the
+                               basis that a constitution does not comply with s601GA and 601GB of the
+                               Corporations Act if the constitution meets the requirements in this guide: see
+                               RG 134 at RG 134.13–RG 134.15.
+                                    Note: In this guide, references to sections (s), Parts (Pts) or Chapters (Chs) are to the
+                                    Corporations Act, unless otherwise specified.
+
+               RG 137.3        This guide is not intended to state any new policy. It merely reflects the
+                               requirements that applied under RG 134 as at September 2000.
+
+                                    Note 1: This guidance was previously contained in an appendix to the version of RG 134
+                                    as at October 2015. There has been no change to the no-action position outlined in that
+                                    guidance. A copy of previous versions of RG 134 can be obtained from ASIC Digest.
+
+                                    Note 2: In replicating the requirements in the version of RG 134 as at September 2000, we
+                                    updated relevant legislative references (e.g. changing references to ‘the Law’ to ‘the
+                                    Corporations Act’). We also removed historical references to the Managed Investments
+                                    Act 1998 and superseded ASIC policy statements and class orders.
+
+                                    Note 3: Our no-action position for schemes registered before 1 October 2013 will not
+                                    affect the rights of other persons, including members, if the responsible entity has
+                                    contravened its duty in s601FC(1)(f) to ensure the constitution meets the requirements in
+                                    s601GA and 601GB.
+
+                                    Note 4: Where a scheme registered before 1 October 2013 applies to become registered as
+                                    an Australian passport fund, the responsible entity will have to amend the constitution to
+                                    comply with the Australian Passport Rules. We expect the responsible entity to make any
+                                    changes needed to meet RG 134 if it has not already made those amendments.
+
+
+
+© Australian Securities and Investments Commission July 2018                                                             Page 3
+                          REGULATORY GUIDE 137: Constitution requirements for schemes registered before 1 October 2013
+
+
+
+
+Assessing a constitution
+
+                               Our policy
+
+                               Ordinary case
+
+               RG 137.4        We assess a constitution when it is lodged with a registration application for
+                               a managed investment scheme. To help us assess the constitution, the
+                               application must state where the constitution covers the matters required by
+                               s601GA and 601GB. Ordinarily, we will only check the parts of the
+                               constitution that are identified.
+
+               RG 137.5        We will not ordinarily review amendments to a constitution or replacement
+                               constitutions lodged after registration.
+
+                               Further review
+
+               RG 137.6        We may, however, completely review a constitution or replacement or
+                               amended constitution at any time to see if it complies with the Corporations
+                               Act.
+
+
+                               Underlying principles
+
+               RG 137.7        The responsible entity and its directors have a responsibility to ensure that
+                               the constitution meets the outcomes under s601GA and 601GB.
+
+
+                               Explanations
+
+                               What is a ‘constitution’?
+
+               RG 137.8        Each scheme must have a constitution that is lodged when applying for
+                               registration of the scheme.
+
+               RG 137.9        We cannot register a scheme if its constitution does not appear to meet
+                               s601GA and 601GB. The Corporations Act does not prescribe in detail what
+                               a constitution must contain. Instead, under s601GA and 601GB a
+                               constitution must:
+                               (a)   adequately cover some specified matters which are important to the
+                                     relationship between the members and the responsible entity; and
+                               (b)   be a document that is legally enforceable between the members and the
+                                     responsible entity.
+
+               RG 137.10       The responsible entity has a duty to comply with a constitution when the
+                               constitution is consistent with the Corporations Act: see s601FC(1)(m).
+
+               RG 137.11       We are aware that constitutions will be different in length and form. Apart
+                               from the matters prescribed in s601GA, constitutions will also include
+
+
+
+© Australian Securities and Investments Commission July 2018                                                   Page 4
+                         REGULATORY GUIDE 137: Constitution requirements for schemes registered before 1 October 2013
+
+
+
+
+                              different matters. For example, some constitutions may refer to other rules or
+                              regulations (which may or may not be legally enforceable between the
+                              members and the responsible entity).
+
+               RG 137.12      We are also aware that most constitutions will declare a trust in favour of the
+                              members over scheme property. This view is based on the obligation of a
+                              responsible entity under s601FC(2) to hold scheme property on trust for the
+                              members.
+
+               RG 137.13      We consider that a constitution needs to contain those matters that Pt 5C.3
+                              requires.
+
+                              Assessing the constitution
+
+               RG 137.14      Under s601EB(1)(e), we have to assess a scheme’s constitution. A
+                              constitution must deal adequately with key matters set out at s601GA and
+                              601GB governing the rights and obligations of the responsible entity as well
+                              as those of the members. These are:
+                              (a)   the consideration to acquire interests in the scheme;
+                              (b)   investment and borrowing powers of the responsible entity;
+                              (c)   member complaints handling;
+                              (d)   winding up the scheme;
+                              (e)   the responsible entity’s rights to be paid or indemnified from the
+                                    scheme property; and
+                              (f)   the withdrawal rights of the members and the exit price for interests in
+                                    the scheme.
+
+                              Further review
+
+               RG 137.15      Although we will not usually review all of a constitution, we may do so at
+                              any time.
+
+               RG 137.16      We may discover, for example, that a constitution has a provision that
+                              negates the effect of other provisions that we relied on in assessing the
+                              adequacy of the constitution. In this case, we may do a thorough review of
+                              the constitution.
+
+                              No compliance clause
+
+               RG 137.17      We do not consider that a constitution needs a provision to say that it is
+                              subject to the Corporations Act. This is because the Corporations Act
+                              imposes direct obligations to comply with the Act and the constitution.
+
+               RG 137.18      However, we do consider that the provisions of the constitution must not be
+                              inconsistent with the Corporations Act, so that the constitution will be
+                              legally enforceable as required by s601GB. For example, we may refuse
+                              registration of a scheme where its constitution contains a clause purporting
+
+
+© Australian Securities and Investments Commission July 2018                                                  Page 5
+                         REGULATORY GUIDE 137: Constitution requirements for schemes registered before 1 October 2013
+
+
+
+
+                              to limit or exclude the liability of the responsible entity for conduct that may
+                              contravene the Corporations Act.
+
+               RG 137.19      If such a clause is included in the constitution it may need to be qualified in
+                              the following manner:
+                              (a)   the limitation of liability only operates to the extent permitted by the
+                                    Corporations Act; and
+                              (b)   in no way does the limitation purport to exclude or reduce liability
+                                    under the Corporations Act.
+
+               RG 137.20      This also highlights the need for parties relying on the constitution to first
+                              examine the Corporations Act to understand the effect of such an exclusion
+                              clause.
+
+
+Content needed under s601GA
+
+                              Our policy
+
+               RG 137.21      We are required by the Corporations Act to assess whether or not a
+                              constitution makes adequate provision about the matters specified in
+                              s601GA. We consider that to make adequate provision about those matters,
+                              the content must be certain and complete in a contractual sense. That is, a
+                              person reading a constitution must be able to understand how matters will be
+                              resolved without having to rely on extrinsic material or on further agreement
+                              between the members and the responsible entity. This policy gives guidance
+                              about what the Corporations Act requires to help responsible entities
+                              comply.
+
+               RG 137.22      We have given relief to allow a constitution to include a provision that has
+                              the effect of ensuring consistency with the listing rules of an eligible
+                              Australian financial market: see ASIC Corporations (Chapter 5C—
+                              Miscellaneous Provisions) Instrument 2017/125 (ASIC Instrument
+                              2017/125). The relief means that changes to the terms of the constitution as a
+                              result of the operation of this type of provision are not required to be made in
+                              accordance with s601GC(1) or 601GC(2).
+
+                              Consideration to acquire
+
+               RG 137.23      Section 601GA(1)(a) provides that a constitution must make adequate
+                              provision for the consideration that is to be paid to acquire an interest in the
+                              scheme. We consider that adequate provision has been made when a
+                              constitution provides for an independently verifiable price. However, we
+                              have given relief from the effect of s601GA(1)(a) under ASIC Corporations
+                              (Managed Investment Product Consideration) Instrument 2025/629 (ASIC
+                              Instrument 2025/629) in a number of situations when:
+
+
+
+
+© Australian Securities and Investments Commission July 2018                                                  Page 6
+                         REGULATORY GUIDE 137: Constitution requirements for schemes registered before 1 October 2013
+
+
+
+
+                              (a)   for commercial reasons, the consideration to acquire cannot be
+                                    determined independently; and
+                              (b)   investor protection will not be reduced.
+
+               RG 137.24      Relief is available under ASIC Instrument 2025/629 for:
+                              (a)   placements of quoted interests;
+                              (b)   when there is no pooling, except of money pending its further
+                                    investment;
+                              (c)   rights issues to members and distribution reinvestment plans;
+                              (d)   forfeited interests;
+                              (e)   interest purchase plans;
+                              (f)   fees for wholesale clients;
+                              (g)   interests that are components of stapled securities;
+                              (h)   the issue of interests based on the value of scheme property attributable
+                                    to interests in a class, less any liabilities that may be met from that
+                                    property attributable to interests in that class divided by the number of
+                                    interests on issue in that class (which can be adjusted for the costs in
+                                    acquiring or disposing of scheme property, for assets of the scheme that
+                                    are not scheme property or otherwise); and
+
+                                    Note: This relief is only for interests in schemes that are not in a class of interests that is
+                                    traded on a financial market, or are interests in schemes that are AQUA products that
+                                    are able to be traded on the financial market operated by ASX Limited or exchange
+                                    traded products that are able to be traded on the financial market operated by Cboe
+                                    Australia Pty Ltd.
+
+                              (i)   the issue of interests based on the market price of interests of that class
+                                    on the market at or around the time of issue.
+
+                                    Note: This applies to interests traded on a financial market other than the AQUA market
+                                    of ASX Limited or Cboe Australia Pty Ltd’s market for exchange traded products—for
+                                    example, interests in a scheme included in the official list of the financial market
+                                    operated by ASX Limited.
+
+               RG 137.25      This means that the responsible entity does not have to include a price or the
+                              consideration in a constitution if it fits one of the situations set out in ASIC
+                              Instrument 2025/629. We will consider giving relief in other situations if the
+                              criteria in RG 137.23(a)–RG 137.23(b) are met.
+                                    Note: For our general policy on exemptions and modifications, see Regulatory Guide 51
+                                    Applications for relief (RG 51). For our policy on relief for managed investment
+                                    schemes, see Regulatory Guide 136 Funds management: Discretionary powers
+                                    (RG 136).
+
+                              How to apply for relief
+
+               RG 137.26      To apply for relief:
+                              (a)   lodge your relief application through the ASIC Regulatory Portal; and
+
+
+
+
+© Australian Securities and Investments Commission July 2018                                                                Page 7
+                         REGULATORY GUIDE 137: Constitution requirements for schemes registered before 1 October 2013
+
+
+
+
+                              (b)   ensure the application complies with RG 51 and RG 136.
+
+               RG 137.27      You can also contact ASIC for more information and assistance.
+
+                              Powers to deal with scheme property
+
+               RG 137.28      Section 601GA(1)(b) provides that a constitution must have adequate
+                              provisions about what powers the responsible entity has when dealing with
+                              scheme property, such as what investments can be made. We consider that
+                              adequate provision for the responsible entity’s powers in dealing with
+                              scheme property has been made when the powers are set out in the
+                              constitution with certainty and completeness. For example, adequate
+                              provision has been made if the constitution gives the responsible entity all
+                              the powers of a natural person to invest and to borrow on security of the
+                              scheme property.
+
+                              Complaints procedures
+
+               RG 137.29      Section 601GA(1)(c) provides that a constitution must have adequate
+                              provisions about the method by which complaints made by members in
+                              relation to the scheme will be dealt with. We consider that a constitution
+                              makes adequate provision about member complaints when it provides for a
+                              complaints handling procedure that will give an effective way for members
+                              to efficiently get redress if they suffer loss due to breaches.
+
+               RG 137.30      When assessing the method for dealing with members’ complaints, we will
+                              refer to Australian Standard AS ISO 10002–2006 Customer satisfaction—
+                              Guidelines for complaints handling in organizations (ISO 10002:2004,
+                              MOD) as a guide, but it is not necessary for the constitution to set out
+                              provisions relating to every aspect of the standard. We expect a constitution
+                              to at least include provisions about:
+                              (a)   acknowledging complaints;
+                              (b)   properly considering complaints within reasonable timeframes;
+                              (c)   communicating with the member;
+                              (d)   outlining remedies available to the member; and
+                              (e)   advising the member of any further avenue for complaint.
+
+                              Winding up
+
+               RG 137.31      Section 601GA(1)(d) provides that a constitution must have adequate
+                              provisions about winding up the scheme. We consider that adequate
+                              provision for winding up a scheme has been made if its constitution:
+                              (a)   deals with all the circumstances under which a scheme may be wound
+                                    up; and
+
+
+
+
+© Australian Securities and Investments Commission July 2018                                                  Page 8
+                         REGULATORY GUIDE 137: Constitution requirements for schemes registered before 1 October 2013
+
+
+
+
+                              (b)   provides for an independent audit by a registered company auditor of
+                                    the final accounts after winding up.
+
+               RG 137.32      The provisions about winding up need to be consistent with Pt 5C.9.
+
+                              Withdrawal rights of members
+
+               RG 137.33      Section 601GA(4) provides that if members have a right to withdraw, the
+                              constitution must specify the right and set out adequate procedures in a way
+                              that is fair to all members. We consider that if there are provisions for a right
+                              of withdrawal, the constitution complies if it sets out fair provisions about:
+                              (a)   how members can withdraw; and
+                              (b)   what exit price will apply.
+
+               RG 137.34      If there is provision for withdrawal, the constitution must include a method
+                              for calculating the exit price in a way that is fair to all members and
+                              independently verifiable. Fairness will normally require that the price
+                              depend on appropriate, and reasonably current, valuations of scheme
+                              property.
+                                    Note: ASIC Instrument 2025/629 also provides relief so that the calculation of the exit
+                                    price can be based on the value of scheme property attributable to interests in a class,
+                                    less any liabilities that may be met from that property attributable to interests in that
+                                    class divided by the number of interests on issue in that class (and can be adjusted for
+                                    the costs in acquiring or disposing of scheme property, for assets of the scheme that are
+                                    not scheme property or otherwise).
+
+               RG 137.35      Generally, if the withdrawal provisions meet these requirements, we will
+                              treat them as complying with the Corporations Act unless they:
+                              (a)   unreasonably disadvantage one group of members; or
+                              (b)   are otherwise inconsistent with the Corporations Act.
+
+                              Underlying principles
+
+               RG 137.36      We consider that a constitution must address the matters in s601GA in a way
+                              that enables members to know their rights. We consider these matters must
+                              be addressed in a way that is consistent with the Corporations Act.
+
+                              Incorporation by reference
+
+               RG 137.37      A provision that allows provisions in another document to override the terms
+                              of the constitution prevents the provisions of the constitution that deal with
+                              the matters in s601GA and 601GB from being adequate, because they are
+                              not certain and complete. That type of provision may require a reader to
+                              consider material that is extrinsic to the constitution itself and avoid the
+                              requirements for amendments of the constitution. The Corporations Act
+                              would not permit ASIC to register a scheme if its constitution has this type
+                              of provision.
+
+
+
+
+© Australian Securities and Investments Commission July 2018                                                           Page 9
+                         REGULATORY GUIDE 137: Constitution requirements for schemes registered before 1 October 2013
+
+
+
+
+                              Provisions incorporating listing rules by reference
+
+               RG 137.38      We consider that relief to permit inclusion of a provision that has the effect
+                              of ensuring a constitution is consistent with the listing rules of an eligible
+                              Australian financial market by incorporating by reference and giving
+                              overriding effect to those listing rules is appropriate. This is because:
+                              (a)   the listing rules are available to the public;
+                              (b)   amendments to the listing rules are subject to regulatory oversight; and
+                              (c)   amendments to the terms of the constitution are highly likely to be
+                                    appropriate where the listing rules require those amendments in order to
+                                    maintain listing.
+
+                                    Note: See ASIC Instrument 2017/125.
+
+
+                              Explanations
+
+                              Consideration to acquire
+
+                              Independently verifiable price
+
+               RG 137.39      We do not consider that ‘adequate provision’ for ‘consideration to acquire’,
+                              in s601GA(1)(a), means there must be a ‘fair price’. We do not require this
+                              because the Corporations Act does not require any duty of fairness to
+                              applicants for interests. Applicants are protected, in relation to the
+                              consideration paid for interests, by the disclosure requirements of Div 2 of
+                              Pt 7.9.
+
+               RG 137.40      To meet s601GA(1)(a), the consideration for acquiring interests needs to be
+                              set out in the constitution so that it is independently verifiable. The
+                              Corporations Act requires provisions enabling calculation of the
+                              consideration to be set out in the constitution so members have rights about
+                              the consideration for an issue of interests. This is because the consideration
+                              for an issue of an interest to another may affect the value of a member’s
+                              interest.
+
+               RG 137.41      If the amount of consideration can be influenced by any party who has an
+                              interest in the scheme, it will not comply. This means that the consideration
+                              is not to be influenced by:
+                              (a)   the responsible entity;
+                              (b)   any related party of the responsible entity;
+                              (c)   any person acting in concert with the responsible entity in setting the
+                                    consideration; and
+                              (d)   any other person having an interest in the amount of consideration.
+
+
+
+
+© Australian Securities and Investments Commission July 2018                                                 Page 10
+                         REGULATORY GUIDE 137: Constitution requirements for schemes registered before 1 October 2013
+
+
+
+
+               RG 137.42      For there to be an independently verifiable price, the scheme’s auditor must
+                              be able to verify the amount of consideration by referring to the constitution
+                              and without referring to the responsible entity. If the consideration is based
+                              on the value of scheme property, the constitution has to set out how the
+                              property will be valued.
+
+               RG 137.43      We will not generally give relief so interests in a trust can be issued at the
+                              responsible entity’s discretion at a discount or at an increased price as this
+                              would not be consistent with the policy of the Corporations Act. We do not
+                              accept that, because companies can issue shares at a discount or a premium,
+                              similar treatment should be applied to issuing interests in a scheme in the
+                              form of a trust.
+
+               RG 137.44      Unitholders in a trust have different rights from shareholders. Unitholders in
+                              a trust place their funds under the responsible entity’s control to invest their
+                              funds. The scheme property is held for the benefit of the members. By
+                              contrast, shareholders supply capital for running a company. Shareholders
+                              are not beneficially or legally entitled to the assets of the company.
+
+               RG 137.45      We will, however, give relief to facilitate flexibility for the responsible entity
+                              about the price of interests in a number of situations: see ASIC Instrument
+                              2025/629.
+
+                              Placements of quoted interests
+
+               RG 137.46      We have given conditional relief in ASIC Instrument 2025/629 to allow
+                              interests in a scheme to be issued at a price determined by the responsible
+                              entity. This relief facilitates off-market placements of quoted interests. The
+                              relief applies only if the interests are quoted on the financial market of ASX
+                              Limited, Cboe Australia Pty Ltd or an approved foreign market (as defined
+                              in ASIC Instrument 2025/629).
+
+               RG 137.47      Relief means that interests can be issued at a discount to the market price.
+                              The price paid will normally be the result of commercial negotiations
+                              between the responsible entity and the person taking up the issue.
+
+               RG 137.48      The market price may reflect only dealings by holders of small parcels of
+                              interests. In this situation, the responsible entity may not be able to find
+                              anyone willing to take a substantial placement at the market price.
+
+               RG 137.49      If interests in the scheme are quoted, the market is an independent pricing
+                              mechanism. The market regulates the depth of any discount, and establishes
+                              an appropriate reference point for measuring it. These mechanisms are not
+                              available when a scheme is not listed.
+
+               RG 137.50      We recognise that issuing interests at a discount to the market could dilute
+                              the value of members’ interests. This is justifiable because of the substantial
+                              commercial benefit in enabling capital to be raised by a placement. There
+
+
+
+© Australian Securities and Investments Commission July 2018                                                 Page 11
+                         REGULATORY GUIDE 137: Constitution requirements for schemes registered before 1 October 2013
+
+
+
+
+                              are conditions on our relief that limit the extent of any dilution of existing
+                              interests. Stricter conditions apply to issues that could involve large
+                              dilutions.
+
+               RG 137.51      A condition of relief for placements is that unless the issue is covered by
+                              s601GAA(12) or 601GAA(13) (as notionally inserted into the Corporations
+                              Act by ASIC Instrument 2025/629), the responsible entity and its associates
+                              are not issued any of the interests.
+
+               RG 137.52      Additional conditions apply if the issue under the proposed placement,
+                              together with any related issue in the previous year, immediately before the
+                              issue, comprises more than 15% of interests in that class.
+
+               RG 137.53      The additional conditions require 75% by value of members who hold
+                              interests in the same class to approve the issue and 25% by value to vote.
+                              If interests of members in another class are affected, then unless the
+                              responsible entity reasonably considers that the issue will not adversely
+                              affect the interests of members in that other class, those members must
+                              separately approve the issue. Those who are to be issued interests must be
+                              excluded from determining if approval is given.
+
+                              Limited pooling
+
+               RG 137.54      Sometimes the only pooling or common use is of members’ contributions
+                              before they are invested or otherwise disposed of. In this situation, the price
+                              at which interests are issued to one member does not affect the interests of
+                              the others. We have given relief in ASIC Instrument 2025/629 to these
+                              schemes so the responsible entity can decide the issue price.
+
+                              Rights issues and distribution reinvestment plans
+
+               RG 137.55      We have given relief so issues can be made at a discount for some rights
+                              issues and distribution reinvestment plans, because there will be no unfair
+                              dilution. Relief is available when:
+                              (a)   the responsible entity reasonably believes that any price discount is less
+                                    than or equal to the percentage stated in the constitution; and
+                              (b)   the interests (whether renounceable or not) are offered to all the existing
+                                    members proportionately to the value of their interests and not to
+                                    anyone else. Foreign members may be excluded in a number of
+                                    circumstances: see s601GAA(10) (as notionally inserted into the
+                                    Corporations Act by ASIC Instrument 2025/629).
+
+               RG 137.56      We have given incidental relief from s601FC(1)(d) so foreign members can
+                              be excluded.
+
+               RG 137.57      We also have given relief so that the responsible entity can decide the price
+                              under a distribution reinvestment plan. In a distribution reinvestment plan,
+
+
+
+
+© Australian Securities and Investments Commission July 2018                                                 Page 12
+                         REGULATORY GUIDE 137: Constitution requirements for schemes registered before 1 October 2013
+
+
+
+
+                              the responsible entity uses money payable to a member as a distribution of
+                              capital or income to pay for additional interests. If all members may from
+                              time to time elect to participate in the distribution reinvestment plan, our
+                              relief applies. Foreign members may be excluded in a number of
+                              circumstances: see s601GAA(11) (as notionally inserted into the
+                              Corporations Act by ASIC Instrument 2025/629).
+
+               RG 137.58      Relief for distribution reinvestment plans is given on the condition that:
+                              (a)   all the issues under the distribution reinvestment plan are in the same
+                                    class;
+                              (b)   the same price applies to all interests issued under the distribution
+                                    reinvestment plan in relation to a particular distribution;
+                              (c)   all interests issued under the distribution reinvestment plan in relation to
+                                    any particular distribution are issued at substantially the same time; and
+                              (d)   the responsible entity reasonably believes that any price discount
+                                    offered is not more than the percentage stated in the constitution.
+
+               RG 137.59      The responsible entity has to consider the rights and interests of all members
+                              when deciding the price in these circumstances, particularly the rights and
+                              interests of members who do not take up the offer. This is because the
+                              responsible entity has duties under s601FC(1)(c) and 601FC(1)(d), and a
+                              fiduciary relationship with members.
+
+                              Forfeited interests
+
+               RG 137.60      We have given relief so the responsible entity can decide the price at which
+                              partly paid interests are resold. This relief applies if the interests are:
+                              (a)   in a class of interests that are quoted on a financial market operated by
+                                    ASX Limited or Cboe Australia Pty Ltd; and
+                              (b)   forfeited to the responsible entity because of a failure to pay a call.
+
+               RG 137.61      This does not imply that in these circumstances we will also give relief from
+                              the Product Disclosure Statement (PDS) requirements or other provisions of
+                              the Corporations Act.
+
+               RG 137.62      The forfeited interests are to be sold at a public auction conducted, as far as
+                              practicable, in accordance with the provisions in the Corporations Act about
+                              forfeited shares: see s254Q.
+
+                              Fees
+
+               RG 137.63      We consider that some fees such as an entry fee are a part of the
+                              consideration payable to acquire an interest in a scheme. Without the relief
+                              available under ASIC Instrument 2025/629, these fees would have to be
+                              specified in an independently verifiable manner in the constitution.
+
+
+
+
+© Australian Securities and Investments Commission July 2018                                                 Page 13
+                         REGULATORY GUIDE 137: Constitution requirements for schemes registered before 1 October 2013
+
+
+
+
+               RG 137.64      We recognise that fee arrangements involving negotiated rates for wholesale
+                              clients are a means by which responsible entities can attract those investors
+                              to a scheme. Such arrangements may assist in more efficient structuring of
+                              schemes by facilitating economies of scale.
+
+               RG 137.65      Under the conditions of ASIC Instrument 2025/629:
+                              (a)   fee arrangements must be disclosed to:
+                                    (i)    existing members of the scheme; and
+                                    (ii)   persons being offered interests in the scheme under a PDS; and
+                              (b)   the fee arrangement agreed with any member must not adversely affect
+                                    the fees that any other member will incur.
+
+               RG 137.66      In some circumstances, discounted fee arrangements for related parties may
+                              be used to provide incentives for effective performance by officers and
+                              employees. We have given individual relief to a scheme so that a differential
+                              fee arrangement could apply to employees of a related body corporate of the
+                              responsible entity of the scheme and their relatives where:
+                              (a)   the number of employees as a proportion of all members in the scheme
+                                    was insignificant (and therefore unlikely to materially affect other
+                                    members in voting or takeover); and
+                              (b)   the differential fee arrangement involving the waiver of entry and exit
+                                    fees did not affect the scheme to the disadvantage of other members of
+                                    the scheme.
+
+               RG 137.67      We will consider applications for relief to allow differential fees for
+                              employees or officers on a case-by-case basis, taking these matters into
+                              account. Applications should include proposals for disclosing such fee
+                              arrangements.
+
+               RG 137.68      This relief is consistent with the relief we have given from s601FC(1)(d) to
+                              allow individually negotiated fees: see ASIC Corporations (Registered
+                              Schemes and CCIVs: Differential Fees) Instrument 2017/40.
+
+                              Powers to deal with scheme property
+
+               RG 137.69      We do not consider that a scheme’s investment policy must be set out in its
+                              constitution. This is because s601GA(1)(b) relates to powers of investment,
+                              rather than to how the responsible entity intends to exercise its powers. We
+                              expect PDSs will specify the investment policy for a scheme.
+
+                              Complaints procedures
+
+               RG 137.70      A constitution must adequately deal with how members’ complaints will be
+                              handled: see s601GA(1)(c). This implies there must be a complaints
+                              handling system. The complaints handling system may also be seen as a
+                              measure to ensure compliance that will need to be addressed in the
+
+
+
+© Australian Securities and Investments Commission July 2018                                                 Page 14
+                         REGULATORY GUIDE 137: Constitution requirements for schemes registered before 1 October 2013
+
+
+
+
+                              compliance plan. Further, because the complaints handling method will be in
+                              the constitution, the scheme’s compliance plan is required by the
+                              Corporations Act to include adequate measures to ensure that the scheme’s
+                              complaints handling method is complied with.
+
+               RG 137.71      The intention of the Corporations Act is that there must be an appropriate
+                              complaints handling system set out in the constitution so that it is a right of
+                              members.
+
+                              Winding up
+
+               RG 137.72      The Corporations Act sets out the framework for winding up of schemes.
+                              A constitution should set out members’ rights in a winding-up process
+                              consistently with Pt 5C.9.
+
+               RG 137.73      The appointment of the auditor is terminated when a winding up
+                              commences: see s331AD. The accounts of winding up should be
+                              independently audited to ensure compliance with the Corporations Act. We
+                              consider that provision in a constitution for the independent sign off of the
+                              accounts of a winding up is a part of adequately dealing with winding up.
+
+                              Withdrawal rights of members
+
+               RG 137.74      We do not prescribe how fairness is to be achieved. Because the constitution
+                              must provide for the withdrawal price, we consider that the basis for the price
+                              set out must be independently verifiable based on the terms of the constitution.
+
+                                   Note: ASIC Instrument 2025/629 provides relief so that the calculation of the
+                                   withdrawal price can be based on the value of scheme property attributable to interests
+                                   of the relevant class, less any liabilities that may be met from that property attributable
+                                   to interests in that class divided by the number of interests on issue in that class (and can
+                                   be adjusted for the costs in acquiring or disposing of scheme property, for assets of the
+                                   scheme that are not scheme property or otherwise).
+
+               RG 137.75      The withdrawal provisions in a constitution must be consistent with Pt 5C.6,
+                              which restricts withdrawal from non-liquid schemes.
+
+
+
+
+© Australian Securities and Investments Commission July 2018                                                           Page 15
+

@@ -1,0 +1,23 @@
+{
+  "citation": "RG 29",
+  "title": "Financial reporting by Australian entities in dual-listed company arrangements",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses the financial reporting requirements under Chapter 2M of the Corporations Act for Australian companies that enter into dual-listed company (DLC) arrangements. It outlines the key features of DLC structures and ASIC's expectations for compliance with Australian accounting standards.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth) and applies to Australian entities in DLC arrangements, which involve listed companies in two jurisdictions. It was reissued on 26 March 2007, superseding Practice Note 71, to clarify reporting obligations and ASIC's approach to relief applications.",
+  "ruling": "ASIC states that entities in DLC arrangements reporting under Chapter 2M must prepare financial statements in accordance with Australian accounting standards and other Australian financial reporting requirements, including Australian equivalents of IFRS. ASIC will not grant relief to allow reporting under foreign GAAP. However, ASIC will consider case-by-case relief from the requirement to distribute single entity financial statements for the listed Australian entity, subject to conditions such as providing summarised single entity information in the full financial report and making full single entity statements available on the entity's website and to members free of charge. The full financial report and concise financial report must include a prominent note stating that members may request any financial report or other information reported overseas. Applications for relief should consider sections 340 and 342 of the Corporations Act and refer to RG 43 and RG 51.",
+  "date_of_effect": "2007-03-26",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 314",
+    "Corporations Act 2001 (Cth) s 315",
+    "Corporations Act 2001 (Cth) s 316",
+    "Corporations Act 2001 (Cth) s 340",
+    "Corporations Act 2001 (Cth) s 342",
+    "Corporations Act 2001 (Cth) Chapter 2M"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "RG 43",
+    "RG 51"
+  ]
+}

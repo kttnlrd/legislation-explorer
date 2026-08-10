@@ -1,0 +1,2740 @@
+REGULATORY GUIDE 79
+
+Research report providers:
+Improving the quality of
+investment research
+
+December 2012
+
+
+
+
+About this guide
+This guide is for Australian financial services (AFS) licensees who are
+research report providers. It is directed towards providers of research on
+investment products—known variously as research analysts, securities
+analysts or research houses—and the research reports they provide.
+
+It provides guidance on certain licensing and conduct obligations in Pt 7.7 of
+the Corporations Act 2001 (Corporations Act) as they apply to general
+advice prepared by research report providers for retail and wholesale clients.
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+                             Document history
+                             This version was issued in December 2012 and is based on legislation and
+                             regulations as at the date of issue.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 79 Managing conflicts of interest: An
+                                     ASIC guide for research report providers, issued November 2004 and
+                                     known in the ASIC Digest as [GD 200]. Rebadged as a regulatory guide
+                                     5 July 2007.
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                               Page 2
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+Contents
+                             A      Overview .................................................................................................4
+                                    The role of research .................................................................................4
+                                    Background to our guidance ....................................................................4
+                                    Relevant law ............................................................................................6
+                                    Updating our guidance.............................................................................7
+                                    Scope of this guide ..................................................................................7
+                             B      Research reports and research report providers ...............................9
+                                    What is a ‘research report’? .....................................................................9
+                                    What is a research report provider? ......................................................11
+                                    Distributing research prepared by another licensee ..............................11
+                             C      Research quality, methodology and transparency ............................14
+                                    The role of quality research ...................................................................14
+                                    Improving transparency and methodology ............................................15
+                                    Allocating appropriate resources ...........................................................21
+                                    Preparing the research report ................................................................23
+                                    Compliance reporting .............................................................................28
+                             D      Avoiding, controlling and disclosing conflicts of interest ..............29
+                                    Conflicts and the research industry .......................................................29
+                                    Business model and organisational structure ........................................32
+                                    Controls..................................................................................................36
+                                    Disclosure of conflicts of interest ...........................................................40
+                                    Additional disclosure issues...................................................................43
+                             E      Users of research ................................................................................44
+                                    FOFA reforms ........................................................................................44
+                                    Due diligence .........................................................................................45
+                                    Personal advice .....................................................................................46
+                             Key terms .....................................................................................................47
+                             Related information .....................................................................................50
+                             Appendix: Sample compliance review ......................................................52
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                                                       Page 3
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+A          Overview
+
+                              Key points
+
+                              Research report providers are important gatekeepers, preparing investment
+                              research for retail and wholesale investors. The quality of this research has
+                              a significant impact on the quality of advice retail investors receive.
+
+                              This guide focuses on key phases of the research process to improve:
+                              • the quality, methodology and transparency of research report production
+                                and distribution (see Section C);
+                              • the management of conflicts by research report providers, including
+                                avoiding, controlling and disclosing these conflicts (see Section D); and
+                              • the ability of users of research to understand and compare the research
+                                services of different research report providers (see Section E).
+
+
+
+The role of research
+              RG 79.1        The timely and accurate flow of information about issuers, securities and
+                             other financial products is vital to the fair, efficient and transparent operation
+                             of financial markets. Research report providers are fundamental in the
+                             transmission of this information, and the integrity of their research directly
+                             affects the integrity of our financial markets.
+                                   Note: For the definition of ‘research report’ and ‘research report provider’, see
+                                   Section B of this guide.
+
+              RG 79.2        Research report providers also perform an important ‘gatekeeping’ function
+                             in the financial advice industry by:
+                             (a)   identifying products to consider for inclusion on approved product lists;
+                             (b)   assisting financial advisers to formulate financial advice for retail
+                                   investors; and
+                             (c)   providing research for use directly by retail investors in making
+                                   investment decisions.
+
+
+Background to our guidance
+              RG 79.3        In a number of recent corporate collapses in Australia, the investment products
+                             that failed were either highly rated or the subject of very recent positive
+                             recommendations by research report providers just before the product failure.
+                             This has been a feature of collapses across investment classes including:
+                             (a)   agribusiness schemes;
+                             (b)   debenture issuers;
+                             (c)   hedge funds investing in structured products;
+
+
+
+© Australian Securities and Investments Commission December 2012                                                       Page 4
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                             (d)   other managed or superannuation funds, with the most recent example
+                                   being Trio Capital; and
+                             (e)   property investment schemes.
+              RG 79.4        Poor quality research or research that is not reliable, credible or current
+                             damages confidence in the research sector itself and in the financial services
+                             industry more broadly. Risks for the investment community are amplified
+                             where there is undue reliance on research reports and a lack of awareness of
+                             real and potential conflicts of interest which may adversely impact on the
+                             independence and therefore the reliability of those reports.
+              RG 79.5        After the global financial crisis, concerns about the impact of conflicts of
+                             interest and the regulation of credit rating agencies and research report
+                             providers prompted the then Minister for Superannuation and Corporate
+                             Law, Nick Sherry, to announce a review of the regulation of credit rating
+                             agencies and research houses with a report to the Australian Government.
+              RG 79.6        The report by the Treasury and ASIC, Review of credit rating agencies and
+                             research houses: A joint report (REP 143) was published in October 2008
+                             and led to reforms to the regulation of credit rating agencies in Australia.
+              RG 79.7        In November 2011, ASIC released Consultation Paper 171 Strengthening the
+                             regulation of research report providers (including research houses) (CP 171).
+                             In CP 171, we consulted on a range of measures to improve research quality,
+                             transparency and the appropriate management of conflicts of interest for
+                             research report providers.
+                                   Note: For details of the consultation process, see CP 171 at www.asic.gov.au/cp and
+                                   Report 318 Response to submissions on CP 171 Strengthening the regulation of
+                                   research report providers (REP 318) at www.asic.gov.au/reports.
+
+
+                             Future of Financial Advice reforms and Trio Inquiry
+              RG 79.8        The Future of Financial Advice (FOFA) reforms introduce a number of
+                             measures to improve the quality of personal advice to retail clients. These
+                             reforms include a statutory best interests duty for providers of personal
+                             financial advice and a ban on certain forms of conflicted remuneration in
+                             recognition of the fact that conflicts of interest can have a significant,
+                             negative impact on the quality of advice that retail investors receive.
+
+              RG 79.9        The Parliamentary Joint Committee on Corporations and Financial Services
+                             Inquiry into the collapse of Trio Capital (Trio Inquiry) also considered the role
+                             of research in its inquiries. In its final report, the Trio Inquiry noted the
+                             ‘expectations gap’ that exists between what is expected of research by users and
+                             the limitations of the research on offer.
+
+              RG 79.10       This guide and changes to other related ASIC guidance (e.g. Regulatory Guide
+                             175 Licensing: Financial product advisers—Conduct and disclosure (RG 175))
+                             aim to improve the quality of research and user’s understanding of the role
+                             research plays in the preparation of personal financial advice.
+
+
+
+© Australian Securities and Investments Commission December 2012                                                   Page 5
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+Relevant law
+              RG 79.11       Under the Corporations Act 2001 (Corporations Act), Australian financial
+                             services (AFS) licensees who are research report providers for the purposes
+                             of this guide must comply with the general licensing obligations as set out in
+                             s912A. This includes:
+                             (a)   the obligation to do all things necessary to ensure that their financial
+                                   services are provided efficiently, honestly and fairly (s912A(1)(a));
+                             (b)   the obligation to comply with financial services laws and to take
+                                   reasonable steps to ensure their representatives do likewise
+                                   (s912A(1)(c) and (ca));
+                             (c)   the obligation to have adequate compliance arrangements (reg 7.6.03(g)
+                                   and Pro Forma 209 Australian financial services licence conditions
+                                   (PF 209));
+                             (d)   the obligation to have adequate resources, be competent, and ensure that
+                                   representatives are adequately trained and supervised (s912A(1));
+                             (e)   where retail clients are involved—the obligation to give clients a
+                                   Financial Services Guide (FSG);
+                             (f)   where general advice is given—the obligation to warn clients that the
+                                   advice does not take into account a client’s objectives, financial
+                                   situation or needs (s949A); and
+                             (g)   a range of prohibitions, including those for misleading or deceptive
+                                   conduct in the provision of financial services, dishonest conduct,
+                                   unconscionable conduct and insider trading.
+
+              RG 79.12       Licensees are also obliged to have adequate arrangements for the management
+                             of conflicts of interest that may arise wholly, or partially, in relation to the
+                             provision of financial services by the licensee, or a representative of the
+                             licensee, as part of the financial services business of the licensee or the
+                             representative (conflicts management obligation): s912A(1)(aa).
+
+              RG 79.13       The conflicts management obligation and Regulatory Guide 181 Licensing:
+                             Managing conflicts of interest (RG 181) apply to all licensees, including
+                             research report providers. What an individual licensee needs to do to comply
+                             with the obligation varies according to the nature, scale and complexity of its
+                             financial services business.
+
+                                   Note: We are revising RG 181 in light of the FOFA reforms.
+
+              RG 79.14       The conflicts management obligation and the obligation to operate efficiently,
+                             honesty and fairly are interconnected. A licensee is unlikely to comply with the
+                             obligation to operate efficiently, honestly and fairly if it has inadequate conflicts
+                             management procedures. Conversely, having adequate conflicts management
+                             arrangements will help licensees to comply with their other obligations,
+                             including the obligation to operate efficiently, honestly and fairly.
+
+
+
+© Australian Securities and Investments Commission December 2012                                               Page 6
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+Updating our guidance
+              RG 79.15       Our review of practices among research report providers found some areas
+                             where our existing guidance and expectations should be revised or
+                             supplemented.
+
+              RG 79.16       We are updating our guidance to help research report providers comply with their
+                             legal obligations including their management of conflicts of interest to improve
+                             the quality and reliability of investment research. A key focus of our updated
+                             guidance is on how conflicts of interest are managed, and where necessary,
+                             avoided, so as to ensure the resultant research has credibility and integrity and
+                             can reasonably be relied upon directly or indirectly by Australian investors.
+
+              RG 79.17       We will conduct targeted surveillance of research report providers to ensure
+                             compliance with our guidance and, if necessary, we will revisit our
+                             regulation of this sector if we find evidence that standards are not improving.
+
+              RG 79.18       In CP 171, we specifically consulted about whether research report providers
+                             should accept payment from product issuers to produce research about the
+                             issuer’s own products. We asked whether this conflict of interest can be
+                             effectively and robustly managed or should be avoided entirely. Our updated
+                             guidance does not require avoidance of this conflict at this time. However,
+                             if an outcome of our surveillance activity is that this conflict is not being
+                             robustly and effectively managed, we will revisit the need for avoidance.
+
+              RG 79.19       Research reports are not a proxy for due diligence on the part of wholesale
+                             investors such as the financial planning industry. We expect AFS licensees
+                             (including financial advisers) to conduct appropriate due diligence in choosing a
+                             research report provider. Our guidance is designed to assist and support
+                             licensees and advisers in that process: see Section E.
+
+
+Scope of this guide
+              RG 79.20       This guide focuses on providers of research on investment products—known
+                             variously as research analysts, securities analysts or research houses—and
+                             the research they provide.
+
+              RG 79.21       This guide was first published in 2004 under the title, Managing conflicts of
+                             interest: A guide for research report providers. In 2011, we reviewed
+                             practices in the research sector and this guide reflects our guidance as
+                             updated by that consultation process.
+
+              RG 79.22       This guide does not summarise all legal obligations relating to research
+                             report providers. Rather, it focuses on certain licensing and conduct
+                             obligations in Pt 7.7 of the Corporations Act as they apply to general advice
+                             by research report providers to retail and wholesale clients.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                               Page 7
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+              RG 79.23       This guide supplements RG 181 on managing conflicts of interest, and
+                             should be read together with that regulatory guide. RG 181 focuses on broad
+                             principles and guidance for licensees generally in managing conflicts of
+                             interest, and sets out expectations that licensees should meet in order to
+                             comply with the conflicts management obligation: see RG 181.16. Building
+                             on RG 181, this guide covers various issues that research report providers
+                             should take into account in the design, implementation and maintenance of
+                             their conflicts management arrangements: see Section D.
+
+              RG 79.24       This guide should also be read in conjunction with relevant sections of the
+                             Corporations Act and other related ASIC guidance, including RG 175, RG
+                             181 and the following regulatory guides:
+                             (a)   Regulatory Guide 104 Licensing: Meeting the general obligations
+                                   (RG 104);
+                             (b)   Regulatory Guide 105 Licensing: Organisational competence (RG 105);
+                             (c)   Regulatory Guide 111 Content of expert reports (RG 111);
+                             (d)   Regulatory Guide 112 Independence of experts (RG 112); and
+                             (e)   Regulatory Guide 146 Licensing: Training of financial product advisers
+                                   (RG 146).
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                               Page 8
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+B          Research reports and research report providers
+
+                              Key points
+
+                              Research is ‘general advice’ that is prepared and distributed to inform the
+                              investment decisions of both retail and wholesale clients.
+                              Research produced by investment banks, stockbrokers and research
+                              houses for retail or wholesale clients is considered to be a ‘research report’
+                              within the meaning of this guide.
+
+
+What is a ‘research report’?
+              RG 79.25       For the purposes of this guide, a research report is general advice that:
+                             (a)   is in writing;
+                             (b)   includes an express or implicit opinion or recommendation about a
+                                   named or readily identifiable investment product; and
+                             (c)   is intended to be, or could reasonably be regarded as being intended to
+                                   be, broadly distributed (whether directly or indirectly) to clients
+                                   (whether wholesale or retail) in Australia.
+                                   Note 1: Investment products include securities, warrants traded on a financial market,
+                                   managed investment products, superannuation products and investment life insurance
+                                   products. Reports about whether to buy, sell or hold these products prepared by research
+                                   analysts, securities analysts or research houses are typical examples of ‘research reports’.
+
+                                   Note 2: The expression ‘broadly distributed’ includes, but is not limited to, publication.
+
+              RG 79.26       It does not include any of the following:
+                             (a)   personal advice;
+                             (b)   general advice that is provided only to an individual or small number of
+                                   related clients (e.g. a family);
+                             (c)   general advice that is provided only to related bodies corporate of the licensee;
+                             (d)   general advice that is only about products issued by the licensee or its
+                                   related bodies corporate;
+                             (e)   a communication or piece of information that does not constitute
+                                   general advice;
+                             (f)   advice that is merely a restatement, summary or extract of another
+                                   research report that has already been broadly distributed (whether in
+                                   Australia or elsewhere and whether by the licensee or another person),
+                                   provided it is clear that:
+                                   (i)    the advice is a restatement, summary or extract of another report; and
+                                   (ii)   readers are directed to who prepared the original research and, if
+                                          available, how readers may obtain it (see RG 79.29–RG 79.34); and
+                             (g)   advice that is not provided in Australia.
+
+
+
+© Australian Securities and Investments Commission December 2012                                                       Page 9
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+Table 1:    Examples of a ‘research report’ for the purposes of this guide
+
+ Type of investment research                     Explanation
+
+  General advice produced by a research         This is a research report for the purposes of this guide.
+ report provider on a subscription basis or
+ on a fee for service basis.
+
+  General advice (often called ‘sell side’      All ‘sell side’ research is a research report for the purposes of
+ research) prepared for advising on or           RG 79, regardless of whether it is for retail or wholesale clients.
+ dealing in financial products.
+
+ × General advice given to related bodies        This is not a research report for the purposes of this guide. Such
+ corporate of the licensee. An example           in-house advice which is not intended for broader distribution is
+ would be ‘buy side’ advice or analysis          not a research report. See RG 79.26(c).
+ produced by an investment bank or fund
+                                                 Where such advice is intended to be, or could reasonably be
+ manager for its own internal use.
+                                                 regarded as being intended to be, broadly distributed, it is advice
+                                                 to which this guide applies. See RG 79.25(c).
+
+ × General advice about products issued by       General advice produced by a research report provider’s
+ the licensee or its related bodies corporate    analysts about the provider’s own products or those of a related
+ (own products).                                 body corporate is not a research report for the purposes of this
+                                                 guide. See RG 79.26(d).
+
+                                                 For example, although a licensee’s analysts may produce such
+                                                 general advice for promotional purposes, it is not advice to which
+                                                 this guide applies. Because such general advice is not a
+                                                 research report, it should not hold itself out as such, as it does
+                                                 not have the requisite objectivity, rigor or independence that
+                                                 typically characterises a ‘research report’.
+
+                                                 Where a licensee wishes to broadly distribute research about its
+                                                 own products a clear conflict of interest arises. In such cases
+                                                 and consistent with industry practice, we expect licensees to
+                                                 avoid the conflict by obtaining research from an external source.
+                                                 See RG 79.135–RG 79.136RG 79.126.
+
+ × General advice that is a restatement,         This is not a research report for the purposes of this guide.
+ summary or extract of another research
+                                                 However, where such material is re-distributed, it should be clear
+ report.
+                                                 that:
+ Such a process may require permissions           the advice is a restatement, summary or extract of another
+ from the original provider.                       report; and
+                                                  readers are directed to who prepared the original research
+                                                   and, if available, how readers may obtain it.
+
+                                                 See RG 79.26(f).
+
+ ×Client directed (‘bespoke’ research)           Such client directed research is not a ‘research report’ to which
+ prepared for a particular client and not for    this guide applies. See RG 79.25(c).
+ broader distribution.
+
+ ×Economic research or credit research           Such advice does not include an express or implicit opinion or
+ prepared by a licensee’s research analysts.     recommendation about a named or readily identifiable
+                                                 investment product and therefore is not a research report to
+                                                 which this guide applies. See RG 79.25(b).
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                                 Page 10
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+What is a research report provider?
+              RG 79.27       For the purposes of this guide, and subject to RG 79.25–RG 79.26,
+                             a research report provider is a licensee that provides research reports to
+                             other persons (clients). This includes situations where the licensee causes
+                             or authorises another person (e.g. an authorised representative of the
+                             licensee) to provide research reports to other persons (clients).
+
+              RG 79.28       This guidance is designed to apply flexibly to different types of research
+                             report provider to improve the quality, transparency, integrity and
+                             comparability of research for the end users of the research, regardless
+                             of whether they are retail or wholesale clients.
+
+
+
+Distributing research prepared by another licensee
+              RG 79.29       For users of research to have confidence in the integrity of the research and
+                             decide how much reliance they should place on it, it is important that they
+                             can see:
+                             (a)   the identity of the licensee who prepared the research;
+                             (b)   the complete research report (not an extract or summary), unless the
+                                   advice is an extract or summary that has already been widely distributed
+                                   in accordance with RG 79.26(f); and
+                             (c)   any conflicts of interest disclosures that apply to that research report.
+
+              RG 79.30       We do not consider that research report providers can effectively meet their
+                             obligations to manage and disclose their conflicts of interest where research
+                             is ‘white labelled’ (i.e. prepared by one entity and rebranded and distributed
+                             by another), without attribution to the research report provider who originally
+                             prepared it. Distributing research in this way makes it difficult for users to
+                             assess the value of the research and the impact of any conflicts of interest on
+                             the quality and integrity of the research. Licensees preparing research reports
+                             can meet their obligations where a research report is co-branded with the
+                             licensee distributing the report.
+
+              RG 79.31       If a research report prepared by one licensee (A) is provided to other persons
+                             (clients) by another licensee (B) then, for the purposes of this guide,
+                             Licensee A is the research report provider, and not Licensee B (regardless of
+                             whether Licensee B also puts its own name on the research report).
+                             However, this is only the case where:
+                             (a)   Licensee A causes or authorises Licensee B to provide the advice
+                                   contained in the research report to other persons; and
+                             (b)   Licensee B makes no material changes to the advice contained in the
+                                   research report.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 11
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+              RG 79.32       As Licensee A is the research report provider, we expect that:
+                             (a)   Licensee A’s licence covers preparation of the research report;
+                             (b)   it is clear to a reader that Licensee A prepared the research report where
+                                   the report is co-branded; and
+                             (c)   Licensee A’s conflicts of interests disclosures are attached to the
+                                   research report: see RG 79.35–RG 79.36.
+
+              RG 79.33       Where Licensee B makes material changes to the research prepared by
+                             Licensee A, Licensee B assumes the obligations of the research report provider
+                             as set out in this guide. Any recommendations in the report must be those of
+                             Licensee B based on its own assessment of the product in compliance with the
+                             quality, conflicts, transparency and disclosure requirements of this guide.
+
+              RG 79.34       The general advice contained in research reports forms part of the advice chain
+                             by which retail and wholesale clients make investment decisions. Each licensee
+                             should consider its compliance obligations in the preparation and distribution of
+                             research reports. This includes whether the licensee preparing the advice permits
+                             other licensees to pass on its research to retail clients and in what circumstances.
+                             Our expectations of users of research reports such as financial advisory firms that
+                             rely on research in the preparation of approved product lists or personal advice
+                             for retail clients are set out in Section E of this guide and in RG 175.
+
+
+                             Access to conflicts of interests disclosures
+              RG 79.35       Sometimes the advice contained in a research report (or a summary or extract
+                             of the advice) is broadly distributed to a wide range of end-users (e.g. through
+                             the media or a public announcement). Research report providers should take
+                             reasonable steps to ensure that end-users have access to the relevant conflicts
+                             of interests disclosures. The most appropriate way to make this information
+                             available will depend on all of the facts and circumstances.
+                                   Note: For example, research report providers should take reasonable steps to ensure that:
+
+                                   (a)   research reports are disseminated together with conflicts of interest disclosures (or
+                                         made available by reference); and
+
+                                   (b)   where the advice contained in a research report (or a summary or extract of the
+                                         advice) has been (or is likely to be) broadly distributed to a wide range of end-
+                                         users (e.g. through the media or a public announcement), the relevant conflicts of
+                                         interest disclosures are made available by reference (e.g. on a website).
+
+              RG 79.36       In summary, the licensee that prepares the report is the research report provider
+                             for the purposes of this guide. If the research is on-distributed by another
+                             licensee and no material change is made to the report, the original licensee
+                             who prepared the report remains the licensee responsible for compliance with
+                             this guide and their conflicts of interests disclosures as relevant to the specific
+                             report should follow the report. Disclosures should be relevant to the activity
+                             of the respective licensee (e.g. the licensee that prepared the research as
+                             distinct from the licensee that distributes the research).
+
+
+
+© Australian Securities and Investments Commission December 2012                                                     Page 12
+                           REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+Table 2:     Examples of a licensee distributing research prepared by another licensee
+
+Example                                         Explanation
+
+Licensee A prepares research. Licensee B        Licensee A is the research report provider for the purposes of this
+distributes the research. Licensee A is         guide. The research distributed by Licensee B must be complete
+attributed as the preparer of the research      and unchanged and include Licensee A’s conflicts of interests
+and their conflicts of interests disclosures    disclosures as they relate to that research report.
+are attached to the report.
+                                                Licensee B can be contractually obliged by Licensee A to attribute
+                                                and ensure there is no alteration to the report and include conflicts
+                                                of interests disclosures.
+
+                                                The research may be co-branded by Licensees A and B.
+
+Licensee A produces institutional research      Licensee A is the research report provider for the purposes of this
+and distributes that research to brokerage      guide and there is no further distribution of the research.
+houses (Licensees B, C and D). Licensee
+                                                Personal advice prepared by Licensees B, C or D in reliance on
+A does not authorise further distribution of
+                                                Licensee A’s general advice is the responsibility of Licensees B, C
+its branded research.
+                                                or D.
+
+Licensee A gives permission to Licensees        Licensee A is the research report provider for the purposes of this
+B, C and D to distribute its research to        guide and its conflicts of interests disclosures must be attached to
+retail clients directly (e.g. on a website or   the research as further distributed.
+via a client portal).
+                                                Licensee A may decide to co-brand the research with Licensees B,
+                                                C or D or review the research before distribution to retail clients.
+
+Research is sourced from Licensees A, B         For the purposes of this guide, Licensees A, B and C are the
+and C by a dealer group (Licensee D).           research report providers as they are the authors of the research.
+Licensee D has permission from Licensees
+                                                The research distributed by Licensee D must include clear
+A, B and C to redistribute their research.
+                                                statements that the general advice was prepared by Licensees A, B
+Licensee D does not make any material           and C and their conflicts of interests disclosures should be attached
+change to the research beyond                   to each report.
+amalgamating and distributing it to its
+advisers who may also pass it on (un-
+modified) to their retail clients.
+
+Licensee D makes material changes to the        Licensee D is the research report provider and should make its own
+research prepared by A, B and C and             assessment of the product and comply with the quality,
+distributes the research under its own          transparency and conflicts management obligations in RG 79 for
+brand.                                          any research it produces.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                               Page 13
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+C          Research quality, methodology and transparency
+
+                              Key points
+
+                              Delivering a quality research report requires:
+                              • clearly articulating the research approach, its scope and any strengths
+                                and limitations that apply;
+                              • maintaining and following a robust methodology; and
+                              • allocating appropriate human and other resources.
+
+
+
+
+The role of quality research
+              RG 79.37       Research is relied upon by both retail clients and wholesale clients (e.g.
+                             licensees and institutional investors). Across the spectrum of research report
+                             providers, there are differences in business models, products researched and
+                             client groups. Regardless of the business model adopted by a provider, the
+                             quality of the resultant research is important to the integrity of our financial
+                             markets and to the quality of financial advice provided to Australian investors.
+
+              RG 79.38       The constituent parts of a high-quality research service are the human and
+                             other resources applied to the research task, quality internal processes
+                             (including robust conflicts management processes) and good disclosure.
+
+              RG 79.39       Research is promoted as an expert service to assist intermediaries and clients
+                             in making decisions about investment products. It is important that research
+                             does (and is seen to) demonstrate the professional expertise and judgement
+                             of the research report provider. Users of research should be able to see and
+                             assess the expertise that different research report providers bring to the task
+                             of preparing research.
+
+                                   Note: See Regulatory Guide 112 Independence of experts (RG 112) on principles for the
+                                   preparation of expert opinions in an analogous context. These principles relate to
+                                   independence, conflicts management and the conduct of the expert in preparing the report.
+
+              RG 79.40       Ensuring that research is of a reliable and robust quality will reduce the risk
+                             that licensees breach:
+                             (a)   their general AFS licence obligations (s912A(1)); and
+                             (b)   the prohibition on misleading or deceptive conduct.
+
+              RG 79.41       In the context of expert or professional opinions, cases decided under the
+                             false, misleading or deceptive conduct provisions in the Australian
+                             Securities and Investments Act 2001 (ASIC Act) and the (then) Trade
+                             Practices Act 1974 (Trade Practices Act) have held that a statement of
+                             opinion by a person in their professional capacity involves an implied
+
+
+
+© Australian Securities and Investments Commission December 2012                                                  Page 14
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                             assertion that the opinion has a reasonable basis, is the result of the exercise
+                             of due care and skill, and is able to be relied upon:
+                                   An opinion given in circumstances that suggest that the opinion was based
+                                   on the exercise of certain expertise … carries with it the implication that it
+                                   is based on rational grounds and accordingly will breach the prohibition if
+                                   it has no reasonable basis. This is especially true where the person giving
+                                   the opinion holds themselves out as having special skill in relation to the …
+                                   subject of the opinion.
+
+                                   Note: See s52 of the (then) Trade Practices Act, MGIGA (1992) Ltd v Kenny & Good Pty Ltd
+                                   (1996) 70 FCR 236, RAIA Insurance Brokers Ltd v FAI General Insurance Co Ltd (1993) 41
+                                   FCR 164, Chiarabaglio v Westpac Banking Corporation (1989) ATPR 40–971 and Bathurst
+                                   Regional Council v Local Government Financial Services Pty Ltd (No 5) [2012] FCA 1200.
+
+
+
+Improving transparency and methodology
+              RG 79.42       To improve the quality and reliability of investment research in Australia, it
+                             is important that users (and prospective users) of research, be they retail or
+                             wholesale clients, have clear, comparable and meaningful information about:
+                             (a)   the different research report providers in the market;
+                             (b)   the strengths and limitations of different research approaches; and
+                             (c)   a clear understanding of how research recommendations or ratings are
+                                   produced and what they mean.
+
+              RG 79.43       Factual and relevant information about the research service gives important
+                             context to the research, improves users’ ability to understand the research
+                             and decide whether to use and rely on it, and to what extent.
+
+              RG 79.44       Our guidance gives providers flexibility in how they communicate this
+                             information to users and prospective users of their research services. Some
+                             disclosures are appropriate for the broader market while others are specific to
+                             the research report. Consistent with international regulators, our objective with
+                             this guidance is to create ‘an environment where the research produced by
+                             analysts for clients is objective, clear, fair and not misleading’.
+
+                                   Note: See IOSCO Statement of principles for addressing sell-side securities analyst
+                                   conflicts of interest: A statement of the Technical Committee of the International
+                                   Organisation of Securities Commissions, 25 September 2003, p. 2, at www.iosco.org.
+
+              RG 79.45       We expect AFS licensees that prepare research reports to give the following
+                             information about their research products and services:
+                             (a)   scope and expertise of the research service;
+                             (b)   process by which products are selected for coverage and filters applied;
+                             (c)   research methodology applied;
+                             (d)   spread of ratings; and
+                             (e)   conflicts management policy.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                                Page 15
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+              RG 79.46       We expect AFS licensees preparing research reports to give this information
+                             in a relevant and meaningful way so that users can understand and compare
+                             research services. Giving meaningful information about product coverage
+                             and filters, methodology and ratings spreads in particular, is critical for users
+                             of research to conduct a proper assessment of the research service and any
+                             limitations that apply to it.
+
+              RG 79.47       Providers can make this information available in a number of ways and as
+                             appropriate to their business model or client group. For example, summary
+                             information may be publicly available on a website or in a separate document
+                             such as a Financial Services Guide (FSG) as appropriate to the provider’s
+                             business model. More detailed information may be made available to clients,
+                             subscribers and end users through direct communications or in the research
+                             report. We expect providers to direct users to this information in each research
+                             report. Where research is on-distributed to other licensees, we expect the
+                             research report to direct end users to these disclosures.
+
+              RG 79.48       We will monitor compliance with our guidance in the course of future
+                             surveillance activities. Where these disclosures are not achieving the policy
+                             objective of improving the transparency and comparability of investment
+                             research, we will consider the need to impose licence conditions on AFS
+                             licensees providing research reports.
+
+
+                             Scope and expertise of research service
+
+              RG 79.49       Research report providers should clearly communicate the nature and scope
+                             of their research service. This includes clearly communicating the extent to
+                             which they are promoting themselves as experts and the basis for this (e.g.
+                             providers should give summary information about the expertise,
+                             qualifications and experience they and their staff possess).
+
+              RG 79.50       We expect research report providers to give sufficient information for a
+                             client or prospective client to understand the scope of the service and the
+                             expertise the provider brings to the research task. We do not expect these
+                             disclosures to include commercially sensitive aspects of the business.
+
+
+                             Coverage and filters
+
+              RG 79.51       Many research report providers filter the financial products they cover in
+                             order to form smaller portfolios of products for more detailed research. The
+                             selection process may often be qualitative and users of the research should
+                             be made aware of this process and any selection biases that may affect
+                             research report providers’ coverage decisions.
+
+              RG 79.52       Regardless of the research report provider’s approach, it should be clear to
+                             users (and prospective users) how a provider makes coverage decisions, what
+                             criteria they apply and any important limitations. For example, for equities
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 16
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                             research, a provider may choose to cover equities on the basis of a certain
+                             sector of the economy or market capitalisation. For managed funds research, a
+                             provider may cover funds within an index or on the basis of some other criteria.
+
+              RG 79.53       Coverage decisions can be relatively stable or dynamic depending on the
+                             business model adopted by the research report provider. We expect each
+                             provider to determine its approach to communicating product coverage. The
+                             purpose of such information is to give users a meaningful guide as to the
+                             approach adopted by that provider and any limitations in that approach.
+
+              RG 79.54       If a research report provider begins or ceases to cover a financial product, or
+                             class of financial products, this information should be made available to
+                             clients or subscribers and, where practicable, providers should give reasons.
+                             For example, a provider may:
+                             (a)   expand coverage to new sectors of the economy;
+                             (b)   limit coverage to a narrower class of products than previously covered
+                                   or within a class of products;
+                             (c)   change the categories to which funds are allocated for rating which may
+                                   have a significant impact on ratings spreads; or
+                             (d)   publish research on a managed fund which is subsequently frozen and
+                                   therefore cease coverage of the fund (see RG 79.100–RG 79.106).
+
+              RG 79.55       Research report providers should publish on their website or with the
+                             research report, as appropriate, either:
+                             (a)   a list of all financial products they currently cover; or
+                             (b)   a description of the classes of products they cover and the scope (or
+                                   percentage, as appropriate) of that coverage.
+
+              RG 79.56       This description should include all products that are below the research report
+                             provider’s investment grade (or similar) rating. This information will give users
+                             a more holistic view of the available products, and align the risk profile of the
+                             products in the broader investment universe to which that product belongs.
+
+              RG 79.57       Many research houses classify managed funds into specific peer groups to
+                             simplify the comparison of funds. These groups are defined by selecting funds
+                             which are similar in terms of asset class, asset size, investment objectives, risk,
+                             and investment style. The research report provider should explain the rationale
+                             for that selection and any limitations that apply.
+
+              RG 79.58       Coverage policy is an important issue for users of research to understand to
+                             make sense of individual product ratings. A research report provider may give
+                             summary information about its coverage policy by type of product and indicate
+                             the extent of coverage within that category. We expect this information to be
+                             updated regularly for users of the research.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 17
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                              Example 1
+
+                              A research report provider conducts a fact find and segments the market
+                              against certain criteria. The excluded products may have been filtered out
+                              on the basis of quality or certain qualitative and quantitative criteria and
+                              the rated products considered the ‘best of breed’ and therefore warranting
+                              further analysis. This process should be clear as the ratings spread is likely
+                              to mean more positive product ratings are likely to result and this information
+                              is important for readers of the resultant research. See RG 79.65–RG 79.69
+                              on the spread of ratings.
+
+
+                             Methodology
+              RG 79.59       We recognise that research report providers employ different methodologies.
+                             We do not seek to prescribe the way research report providers approach
+                             investment research, nor do we expect all providers to adhere to the same
+                             methodology. However, regardless of these differences, we expect research
+                             report providers to maintain and follow a robust methodology in their research
+                             and to be transparent in the methodology adopted and how it is applied.
+
+              RG 79.60       To help users of research to assess different research models, research report
+                             providers should publish (in summary form) their methodology for assessing or
+                             rating products. We expect that this will include an explanation of their rating
+                             system, including the definitions, criteria and assumptions used. We do not
+                             expect providers to publish confidential, proprietary information. However, the
+                             information should be sufficient for a reader to understand the key elements of
+                             the methodology applied and any important limitations that may apply to it.
+
+              RG 79.61       Regardless of where the information is published (e.g. on the provider’s
+                             website or in the FSG), research reports should direct readers to this
+                             information in the report.
+
+                              Example 2
+
+                              Some research report providers employ a quantitative methodology, where
+                              ratings are generated based on past performance of the funds. This
+                              includes factors such as historical returns, volatility, performance ratios,
+                              age of fund and size of fund. Where the primary input is data from historical
+                              financial reports, for example, it is essential that users understand the
+                              extent to which those data inputs are reviewed (e.g. audited) or subject to
+                              any further review or analysis by the research report provider. Publishing
+                              ratings on the basis of such data may be misleading where users do not
+                              have sufficient information to evaluate the methodology employed.
+
+
+                             Reviewing and rating products
+              RG 79.62       There are different ratings schemes (i.e. definitions or classifications) across
+                             the spectrum of research report providers. In some sectors, classifications
+                             and definitions (e.g. ‘buy, sell and hold’, ‘recommended, neutral, not
+                             recommended’) are relatively well understood. In other sectors, a lack of
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 18
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                             consistency in definitions of ranking classification has affected the ability of
+                             users to make an accurate judgement of the quality of research. For example,
+                             when rating fund managers, there is no single or agreed method for
+                             classification of the type of fund manager within the investment universe.
+
+              RG 79.63       This can lead to confusion among users about:
+                             (a)   whether a product rating should be seen as an absolute conviction about
+                                   the quality of a product, or a relative one against its peer group; and
+                             (b)   whether the user can compare different research report providers’
+                                   classification of products.
+
+              RG 79.64       We expect research report providers to provide a clear indication of the type
+                             and classification of products that they research and evaluate.
+
+
+                             Spread of ratings
+
+              RG 79.65       Information about how the ratings methodology is selected and applied in
+                             practice—that is, beyond any general statement of principle—is important
+                             for readers relying on the research.
+
+              RG 79.66       Providing information about the spread of ratings is an important
+                             accountability and transparency measure for both research report providers
+                             and users of their services. We expect research report providers to give
+                             information about the spread of their ratings (i.e. how many products or what
+                             percentage received each type of rating during the relevant period). This will
+                             give users of the reports another tool to gauge the quality and reliability of a
+                             particular research report provider.
+
+              RG 79.67       These disclosures should be sufficient to assist users (and prospective users)
+                             to assess the methodology applied without including commercially sensitive
+                             aspects of the business.
+
+              RG 79.68       Some research report providers already provide this information to their
+                             subscribers on their websites or with their research to their clients. For
+                             example, some providers are subject to international obligations to disclose
+                             their analysts’ spread of ‘buy, sell and hold’ recommendations over a given
+                             period. Providers should consider how they can meaningfully communicate
+                             their ratings spread in the context of the coverage decisions they make and
+                             the filters they use to select products for research.
+
+              RG 79.69       Ratings spreads can also be affected by issuers withdrawing from the
+                             research process (where research is commissioned). Where this occurs,
+                             we expect providers to disclose how many issuers withdrew from the ratings
+                             process in a relevant period (such as the past year). Providers should give
+                             sufficient information for users to form a meaningful view of how these
+                             factors may affect the ratings spread and therefore a more holistic view of
+                             the research service.
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 19
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                              Example 3
+
+                              Some research report providers provide higher ratings or more positive
+                              recommendations more frequently than others. This is an important piece
+                              of information for users of these services.
+
+
+                             Conflicts management policy
+
+              RG 79.70       Robust processes for managing conflicts of interest are important legal
+                             requirements and essential to producing good quality research. Users of
+                             research reports should have enough information to form a realistic view
+                             about the potential impact of any conflicts of interest on the quality and
+                             objectivity of the research service. If research report providers rely on a
+                             general disclosure obligation about how they manage conflicts of interest,
+                             this disclosure should include a statement on how such conflicts are
+                             managed where research is concerned.
+
+                             Testing the quality and integrity of research
+              RG 79.71       Back-testing is a process by which a research report provider may compare
+                             the past performance of researched or rated products against relevant
+                             benchmarks. In our view, back-testing can be usefully employed as part of a
+                             research report provider’s review processes to test the rigor of a ratings
+                             methodology or the integrity of conflicts management processes.
+              RG 79.72       While we do not require such processes under this guidance, we consider
+                             self assessment processes that review research methodologies, assumptions
+                             or ratings spreads, for example, to be best practice both for the research
+                             report provider and for wholesale clients such as financial advisers that rely
+                             on the research. We note that some research report providers already conduct
+                             such reviews in compliance with international obligations.
+              RG 79.73       We consider that best practice review processes would include an annual
+                             review with the results being made available to the users of research reports by
+                             the same method that the research is generally distributed. We recommend that
+                             wholesale clients such as financial advisers consider whether such processes
+                             are in place, as part of their due diligence when purchasing research. We may
+                             revisit this issue in the context of any future compliance activity.
+
+                              Example 4
+
+                              A research report provider conducts back-testing of past ratings to examine
+                              correlations between the ratings and the actual performance of products for
+                              a period, appropriate to a typical investment horizon of the product type
+                              (e.g. one year for equities, or three to five years for managed funds) after
+                              the research is published.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 20
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                              Example 5
+
+                              Reviewing ratings spreads, such as the proportion of ‘buy’ recommendations
+                              a banking group’s corporate clients receive over a 12-month period compared
+                              to those of non-corporate clients, may provide a good indicator as to whether
+                              the research is of good quality and that conflicts are being effectively managed.
+
+
+Allocating appropriate resources
+              RG 79.74       AFS licensees have general obligations under s912A(1) of the Corporations
+                             Act to:
+                             (a)   do all things necessary to ensure that the financial services covered by
+                                   their licence are provided efficiently, honestly and fairly;
+                             (b)   comply with the conditions on their licence;
+                             (c)   take reasonable steps to ensure that their representatives comply with
+                                   the financial services laws;
+                             (d)   have adequate financial, technological and human resources to provide
+                                   the financial services covered by their licence and to carry out
+                                   supervisory arrangements;
+                             (e)   maintain the competence to provide the financial services covered by
+                                   their licence; and
+                             (f)   ensure that their representatives are adequately trained and competent to
+                                   provide those financial services.
+                                   Note: See Regulatory Guide 104 Licensing: Meeting the general obligations (RG 104)
+                                   and Regulatory Guide 105 Licensing: Organisational competence (RG 105).
+
+              RG 79.75       As the complexity of some financial products increases, it is essential that
+                             research analysts have the requisite skills and experience supported by an
+                             appropriate level of supervision and adequate sign-off processes to produce
+                             high-quality research.
+              RG 79.76       Human resources are a key input to research report providers’ processes and
+                             output. Research report providers should allocate sufficient resources to
+                             support the effective performance of their research staff.
+              RG 79.77       In some cases, research is heavily relied upon in the distribution of complex
+                             products to retail clients who are unlikely to properly understand the product
+                             their adviser recommends they invest in. Where this is the case, the expertise
+                             of the research analyst and the quality measures adopted by the research
+                             report provider are particularly important in ensuring retail investors (and
+                             their advisers) are making properly informed decisions.
+              RG 79.78       Research report providers often cover a substantial number of financial
+                             products of varying complexity. Careful consideration needs to be given to
+                             balancing the commercial imperative to provide broad product coverage with
+                             the need to maintain the quality of research output and the allocation of
+                             adequate staff time to each research report.
+
+
+
+© Australian Securities and Investments Commission December 2012                                               Page 21
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                             Staff competence and expertise
+              RG 79.79       To analyse financial products well, research report providers need to allocate
+                             appropriate resources to each research task. This includes allocating
+                             sufficient numbers of staff with suitable qualifications for the research task
+                             and setting appropriate timelines for the completion of tasks.
+
+              RG 79.80       In light of continuing product innovation and developments in financial
+                             markets, research report providers should continue to train and supervise the
+                             work of their research analysts, particularly junior staff. This can be done by
+                             setting up mentoring and supervisory arrangements and ongoing training and
+                             development initiatives.
+
+              RG 79.81       The requirements set out in Regulatory Guide 146 Licensing: Training of
+                             financial product advisers (RG 146) are a minimum, general standard for
+                             advisers. This standard establishes a basic level of competency, a platform
+                             upon which we expect AFS licensees to build to create the appropriate level
+                             of competency required for analysts to perform credible research.
+
+                             Rotating research analysts
+              RG 79.82       Rotation of research analysts can be a useful way to reduce the risk that a
+                             research analyst becomes too familiar or close to the products and the
+                             product issuers under review, which may give rise to conflicts of interests.
+
+              RG 79.83       If a research report provider decides not to rotate analysts in its practice,
+                             careful consideration should be given to how it will manage any possible
+                             conflicts of interest that may arise. For example, a research report provider
+                             might be too small for analyst rotation or believe that the benefits of analysts
+                             developing specialist knowledge and expertise in particular industries exceed
+                             the risks involved. Each provider should consider whether it is reasonable in
+                             the circumstances to rotate analysts. This issue should be the subject of
+                             internal compliance controls and monitoring.
+
+                             Research sign-off process
+              RG 79.84       It is essential that an appropriate sign-off process is incorporated into a
+                             research report provider’s work process. All research should be subject to
+                             proper evaluation (e.g. via a peer review process) and a proper approval
+                             process (e.g. involving a committee of senior research staff: see RG 79.142).
+
+              RG 79.85       Research reports should be based on reasonable grounds. It is important that
+                             the content of each research report reflects the view of the research report
+                             provider, and it may be misleading for a research report provider to publish a
+                             report containing views it does not agree with. An appropriate sign-off
+                             process would reduce the incidence of this risk: see RG 79.89–RG 79.91.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 22
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+Preparing the research report
+              RG 79.86       Quality measures operate in tandem with measures to manage conflicts of
+                             interest. They are mutually reinforcing and should be read together.
+
+Table 3:    Quality and transparency measures for the research report
+
+ Quality measures                                  Description
+
+ Reasons for opinions or recommendations           Report should have clear, unambiguous reasons for its
+                                                   recommendations.
+
+ Reports based on ‘reasonable grounds’             Research reports should be based on ‘reasonable grounds’,
+                                                   with each research report reflecting the views of the research
+                                                   staff who wrote or approved it.
+
+ Reports for ‘proper purpose’                      Offers or threats of favourable or unfavourable research must
+                                                   not be used to solicit benefits or other business, and research
+                                                   must not be used to unfairly or artificially increase trading
+                                                   volumes or to otherwise generate revenue for the provider’s
+                                                   ancillary businesses, for example.
+
+ Past performance warning                          Where research ratings are based on past performance the
+                                                   past performance warning should be given.
+
+ Who commissioned or paid for the research         Where this occurs, it should be clearly and prominently
+                                                   disclosed in the research report.
+
+ Publishing all (including adverse research)       Many providers publish all research regardless of the rating
+                                                   while others only publish research where certain rating criteria
+                                                   are met. Publishing all research (broadly or limited to
+                                                   subscribers only) demonstrates research coverage and
+                                                   reduces the perception that conflicts of interest may interfere
+                                                   with the research process and outcome.
+
+ Research should be dated and users should         Providers should maintain the currency of research based on
+ have information to assess the currency of        the parameters in this guide. Information about the currency of
+ research                                          research must be made available to users.
+
+ Research ratings should be available              Research, both positive and negative, should be available with
+                                                   access to historical research to counter any perception that
+                                                   conflicts of interest may influence the ratings process.
+
+
+
+                             Reasons for opinions or recommendations
+
+              RG 79.87       The research report (or accompanying disclosures) should state the reasons for
+                             the opinions and recommendations. This will help clients form a view about
+                             the research report and whether to rely on it. We expect all research report
+                             providers to take reasonable steps to ensure that their recommendations, and
+                             the basis for these recommendations, are clear, unambiguous and transparent.
+
+                                  Note: This is particularly so for the main recommendation or opinion given in the report
+                                  (if any). For example, research report providers should ensure that research reports
+                                  explain terminology, rating systems and valuation methods used in the report.
+
+
+
+© Australian Securities and Investments Commission December 2012                                                  Page 23
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+              RG 79.88       Research report providers should:
+                             (a)   ensure each piece of research expresses an unambiguous view (noting
+                                   that this does not exclude a qualified view) on each product researched,
+                                   and uses clear, transparent and easily understood language;
+                             (b)   where research ratings or recommendations are based on past
+                                   performance, ensure the report carries a past performance warning;
+                             (c)   ensure that each research report clearly and prominently states who
+                                   commissioned it and who paid for it; and
+                             (d)   maintain the currency of research in accordance with this guide, publish
+                                   all research (broadly or to clients or subscribers) and ensure that ratings
+                                   are available for a reasonable period of time within the parameters set
+                                   out in this guide.
+
+                              Example 6
+
+                              Research reports should be clear when giving an opinion, recommendation
+                              or rating of a particular product as to whether the particular product is
+                              ‘highly recommended’ relative to the market as a whole, or only relative to
+                              a particular peer group (e.g. equity funds).
+
+
+                             Reports based on ‘reasonable grounds’
+
+              RG 79.89       Research report providers should ensure that research reports are based on
+                             objective, verifiable facts and analysis, and not on the special interests of the
+                             research report provider’s research staff, the product issuer or others.
+                             Research reports that are not based on reasonable grounds may be
+                             misleading or deceptive within the meaning of the Corporations Act:
+                             s1041H.
+
+              RG 79.90       Cases decided under the analogous provisions of the (then) Trade Practices
+                             Act, (now the Competition and Consumer Act 2010) have held that a
+                             statement of opinion by a person in their professional capacity involves an
+                             implied assertion that the opinion has a reasonable basis, is the result of the
+                             exercise of due care and skill, and is able to be relied upon: see RG 79.41.
+
+              RG 79.91       To reduce the risk that research reports are not based on reasonable grounds,
+                             research report providers should ensure that each report reflects the views of
+                             the person who takes responsibility for it (e.g. the person who prepared it or
+                             the person who approved its distribution).
+
+                             Reports for ‘proper purpose’
+
+              RG 79.92       Research report providers should ensure that favourable research is not
+                             offered, or changes to research threatened, as an inducement to secure the
+                             business of a corporate client or receive other benefits.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 24
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+              RG 79.93       Care needs to be taken to ensure research reports are not used to artificially
+                             increase trading volume and revenue or secure corporate advisory business,
+                             for example. While high quality research may well attract dealing business
+                             to research report providers, their conflicts management arrangements need
+                             to identify and respond to the risk that attempts to attract dealing business do
+                             not unduly distort the content of any research reports: see Section D of this
+                             guide.
+                                   Note: If research report providers were able to use research reports as a way to
+                                   artificially increase trading volume, there would be a risk that, for example, they might
+                                   be tempted to make a disproportionate number of ‘buy’ and ‘sell’ (as opposed to ‘hold’)
+                                   recommendations to increase trading volume.
+
+
+                             Past performance warning
+
+              RG 79.94       Where research ratings are based on past performance, the report should
+                             carry the standard past performance warning (i.e. past performance is not an
+                             indication of future performance). It is important that clients do not place
+                             undue reliance on past performance information, directly or indirectly via
+                             qualitative research. For more information on the use of past performance
+                             information, see Regulatory Guide 53 The use of past performance in
+                             promotional material (RG 53).
+
+              RG 79.95       However, a past performance warning on its own will not be sufficient to
+                             communicate important limitations applying to quantitative research that
+                             generates ratings on the basis of a very limited number of data inputs (e.g.
+                             a product issuer’s financial reports). If a provider adopts such a methodology
+                             where there is little or no additional qualitative assessment of the data done by
+                             the research report provider, it is essential that users of such research receive
+                             the past performance warning in addition to relevant disclosures to help them
+                             understand the methodology employed and the limitations that apply.
+
+                             Who commissioned or paid for the research
+
+              RG 79.96       Where research is commissioned, we expect research report providers to state
+                             clearly who commissioned or paid for the report. For example, where a report
+                             was commissioned and paid for by the product issuer, the report should clearly
+                             and prominently disclose this, preferably on the front or covering page of the
+                             report.
+
+              RG 79.97       The research report (or accompanying disclosures) should state:
+                             (a)   the date the research report was prepared or finalised; and
+                             (b)   who takes responsibility for the report (e.g. the person who prepared it
+                                   or the person who approved its distribution).
+
+              RG 79.98       We believe that clients will reasonably require disclosure about each of these
+                             matters in forming a view about the research report and whether to rely on it.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                                    Page 25
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+              RG 79.99       Section D of this guide deals with the disclosure of conflicts of interest such as
+                             benefits and associations and relationships: see RG 79.143 and RG 79.164.
+                             However, we consider it important that disclosure of any structural conflicts,
+                             such as business model conflicts, is included with the headline disclosures
+                             about the nature of the business: see RG 79.35–RG 79.36, RG 79.70 and
+                             RG 79.123–RG 79.124.
+
+
+                             Currency of research
+
+              RG 79.100      Research reports are prepared based on information available at the time of
+                             preparation. It is important that the currency of the research is clear on the
+                             face of the research and where research is not current, that users can easily
+                             access information to help assess the current status of the research.
+
+              RG 79.101      Ratings that are not monitored or updated can be misleading unless research
+                             report providers prominently state how currency will be communicated to users,
+                             including whether the research is being monitored or whether it will be updated
+                             in future.
+
+              RG 79.102      To assist users, providers should maintain a log of historical research. Where
+                             research reports and their recommendations are no longer current (e.g. where
+                             there have been material changes to the product or market), the research should
+                             be clearly flagged as historical and providers should indicate that the original
+                             recommendation no longer applies. Failure to do so affects the reliability of the
+                             research report and the credibility of the provider and risks misleading users
+                             relying on that research.
+
+              RG 79.103      Depending on the class of product that is the subject of the research, update and
+                             review cycles differ. Equities research, for example, is current at a ‘point in time’.
+                             Updates occur frequently at the discretion of the analyst in response to market
+                             events or compliance obligations on the part of the provider. Other research is less
+                             sensitive to market developments, less time critical and is updated less frequently.
+                             For example, in the case of much managed funds research, updates and reviews
+                             may occur annually and the research, once published, is considered to be current
+                             on an ongoing basis until the next scheduled review.
+
+              RG 79.104      Irrespective of the underlying product, it is essential that meaningful
+                             information about the currency of a piece of research and the status of the report
+                             is available. We expect research report providers to maintain and communicate
+                             the currency of their research as appropriate to the products they provide
+                             research about and the research methodology they employ.
+
+              RG 79.105      All research report providers should ensure that
+                             (a)   each research report has the date of issue and a statement that the report
+                                   is current ‘as at’ that date; and
+                             (b)   clients or subscribers can access a log of historical research where they
+                                   can see, for example, the research history relevant to that product; and
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 26
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                             (c)   where a provider claims that a research report is current on an ongoing
+                                   basis, the report should include a statement that the research is current
+                                   until it is replaced, updated or withdrawn and, if this is the case,
+                                   communicate to users or subscribers how they can find out if the report
+                                   has been replaced, updated or withdrawn. This may be in the form of an
+                                   alert to subscribers about current research status or directing users to the
+                                   historical log to check the status of research.
+
+              RG 79.106      We expect research report providers to communicate the currency of their
+                             research to clients or subscribers in such a way that a reasonable investor can
+                             understand it. Regardless of business model, client base or researched
+                             products, currency should be clearly communicated and sufficient to ensure
+                             a reasonable investor is not misled.
+
+                              Example 7
+
+                              A research report provider publishes a research report which highly rates a
+                              managed fund. Months later, the product issuer publishes material disclosures
+                              about the negative performance of the underlying investments in the fund. The
+                              provider does not update or review the research or rating and gives no guidance
+                              to users as to how they can assess the currency of the research and whether
+                              and to what extent they rely on it. Such research is likely to be misleading.
+
+
+                              Example 8
+
+                              Where a research report provider’s service includes quantitative research that
+                              is updated regularly (e.g. daily or weekly) based on financial disclosures, the
+                              currency requirement may be met by ensuring the research is dated, the
+                              update cycle is communicated to clients who can also access and review the
+                              historical log of research about a particular entity and those clients have
+                              information about the research methodology employed, consistent with the
+                              requirements in Section B of this guide (e.g. a past performance warning is
+                              given and any limitations on the reliability of the data is given so that users
+                              can make an informed decision about the data and any rating attached).
+
+
+                             Publishing all (including adverse research)
+
+              RG 79.107      Many providers publish all research regardless of the rating while others
+                             only publish research where certain rating criteria are met. Publishing all
+                             research (broadly or limited to clients or subscribers only) demonstrates
+                             research coverage and reduces the perception that conflicts of interest
+                             associated with the research process affect the research process.
+
+                              Example 9
+
+                              Where a product issuer commissions research, the terms of engagement
+                              should be clear that the resulting research report and rating (regardless of
+                              rating) will be published (broadly or to subscribers). See RG 79.96–RG 79.99
+                              and Table 5.
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 27
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                             Research ratings should be available
+              RG 79.108      It is an important principle that product ratings are made available (published
+                             to clients or subscribers), irrespective of whether they are positive or negative.
+              RG 79.109      External scrutiny of the research and ratings process and outcome is
+                             necessary to limit any potential for product issuers shopping for ratings
+                             without leaving a ‘footprint’ that a product has been subject to a research
+                             process that has had, or may potentially have had, an adverse result.
+              RG 79.110      We expect research ratings to be made available for a reasonable period of
+                             time. What is a ‘reasonable period’ will depend on a number of factors
+                             which may affect the currency of the research report and its recommendation
+                             and require its withdrawal. These may include:
+                             (a)   a response to market events;
+                             (b)   a provider’s need to comply with other regulatory obligations;
+                             (c)   the closure of an offer period to which the research related; or
+                             (d)   the issue of a supplementary Product Disclosure Statement (PDS) in
+                                   relation to the researched product.
+              RG 79.111      Where such factors affect the longevity of a piece of research, providers can
+                             comply with our expectations that research is made available by ensuring users
+                             can access the research history of a product, including the rating the product had
+                             when it was current, that it is no longer current and cannot be relied upon, with
+                             a short explanation as to the reason. Ensuring access to historical research will
+                             help manage any perception that conflicts of interest may influence the ratings
+                             process or outcome. It also allows users to see that a product has been the
+                             subject of research and the outcome of that process. See RG 79.100–RG 79.106.
+
+
+Compliance reporting
+              RG 79.112      Compliance reporting is a measure that research report providers can use to
+                             assess their compliance against the key issues in this guide. There are
+                             regulatory costs and benefits of a compliance reporting requirement and we
+                             do not require mandatory compliance reporting at this time. We will conduct
+                             targeted surveillance on research report providers to assess compliance with
+                             this guide. The focus of surveillance activity may be compliance in general,
+                             or a select group of issues (e.g. conflicts management).
+              RG 79.113      A sample compliance report is attached as an appendix to this guide. It is
+                             intended as a useful checklist to guide research report providers in
+                             complying with their obligations. Providers that choose to use this
+                             compliance report format may customise it to suit their business models and
+                             compliance arrangements. It is not a requirement to complete the compliance
+                             report and it is not a template for future ASIC surveillance activity.
+              RG 79.114      We may revisit the need for compliance reporting in the future based on the
+                             outcome of our surveillance activities.
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 28
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+D          Avoiding, controlling and disclosing conflicts
+           of interest
+
+                              Key points
+
+                              Conflicts of interest, whether direct or indirect, can reduce the quality,
+                              integrity and reliability of research.
+
+                              Some conflicts of interest should be avoided entirely.
+
+                              Other conflicts of interest can be managed by:
+                              • adopting an appropriate business model and ensuring the organisation is
+                                structured to minimise and manage real and potential conflicts;
+                              • adopting robust research processes;
+                              • having adequate controls in place to manage conflicts; and
+                              • giving meaningful disclosure to help users of the research understand
+                                any conflicts, how they are managed and the extent to which they can
+                                rely on the research.
+
+
+
+Conflicts and the research industry
+              RG 79.115      The conflicts management obligation in the Corporations Act requires a
+                             licensee to have adequate arrangements to manage conflicts of interest:
+                             s912A(1)(aa). This obligation and our guidance in RG 181 apply to all
+                             licensees, including research report providers, and relate to the integrity of
+                             any research. What an individual licensee needs to do to comply with the
+                             obligation varies according to the nature, scale and complexity of its
+                             financial services business.
+
+              RG 79.116      RG 181 focuses on broad principles and guidance for licensees generally
+                             in managing conflicts of interest, and sets out expectations that licensees
+                             should meet in order to comply with the conflicts management obligation
+                             see RG 181.16. Our guidance in this section supplements RG 181, and
+                             should be read together with it.
+
+              RG 79.117      The three key mechanisms we expect research report providers generally to
+                             use to manage conflicts of interest are controlling, disclosing and avoiding
+                             conflicts of interest: see RG 181.20. To control conflicts of interest, research
+                             report providers should have mechanisms to:
+                             (a)   identify conflicts of interest;
+                             (b)   assess and evaluate those conflicts; and
+                             (c)   decide upon and implement an appropriate response to those conflicts:
+                                   see RG 181.29.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 29
+                            REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+              RG 79.118        We expect research report providers to take reasonable steps to ensure that
+                               conflicts of interest:
+                               (a)   do not compromise the integrity of the advice they give in their research
+                                     reports;
+                               (b)   do not result in the licensee breaching its duties including (but not
+                                     limited to) the duty to act efficiently, honestly and fairly; and
+                               (c)   are adequately disclosed.
+
+              RG 79.119        A culture of integrity that includes an ethical approach to conflicts of interest
+                               should be encouraged. However, this is no substitute for implementing,
+                               maintaining and monitoring robust policies and procedures. Research report
+                               providers should avoid placing an unacceptable level of reliance on staff integrity.
+
+              RG 79.120        Our guidance for research report providers focuses on the following issues:
+                               (a)   adopting an appropriate business model and ensuring the organisation is
+                                     structured to minimise and manage real and potential conflicts
+                                     associated with internal research processes; and
+                               (b)   having adequate controls in place to manage conflicts, including
+                                     avoiding conflicts that cannot otherwise be managed; and
+                               (c)   giving meaningful disclosure to help users of the research understand
+                                     any conflicts, how they are managed and the extent to which they can
+                                     rely on the research.
+                                     Note: See also the related discussion of disclosure issues in Sections B and C of this
+                                     guide, particularly disclosure of products and services and clarity and transparency.
+
+Table 4:    Summary of issues to consider in managing conflicts of interest
+
+ Issue                          Description
+
+ Business model and             Different business models can increase or reduce the incidence of certain
+ organisational                 conflicts arising and influencing the research process and outcome.
+ structure
+
+ Information barriers and       Information barriers should be robust to protect the objectivity and
+ segregation of business        independence of the research process and its outcome. Research staff should
+ units                          be physically separate from, and not supervised by, any staff that are
+                                performing an investment banking, corporate advisory, consulting or dealing
+                                function. Similarly, electronic systems and communications systems should be
+                                restricted to access by research staff only.
+
+ Provision of non-research      Research report providers should have a policy on how and when non-
+ services                       research services are provided to an issuer for whom the research report
+                                provider also produces research.
+
+                                Ancillary services that may conflict with the research function should be strictly
+                                and formally segregated. Such services may include where a provider offers
+                                funds management or consulting services. Where segregation is not sufficient
+                                to manage the conflict, it should be avoided.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                                       Page 30
+                            REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+ Issue                          Description
+
+ General advice about           General advice about a licensee’s own or related party products is not
+ products issued by a           research for the purposes of this guide: see RG 79.26(d) and the examples in
+ licensee or related body       Table 1.
+ corporate
+
+ Controls                       Having adequate controls in place to manage conflicts ensures that conflicts
+                                are identified and dealt with appropriately as they arise.
+
+ Documentation                  Conflicts management arrangements should be documented.
+
+ Monitoring compliance          There should be a person or separate unit responsible for monitoring
+                                compliance with the research report provider’s conflicts management
+                                arrangements.
+
+ Communication                  Research report providers should have a detailed policy on communications
+                                within and outside the licensee, including ensuring that research reports are
+                                not communicated outside the research report provider before they are broadly
+                                distributed.
+
+ Approval before                To maintain the quality and integrity of reports, research reports should be
+ distribution                   reviewed and approved by an experienced supervisor (or by a group of peers)
+                                before they are distributed to clients.
+
+ Benefits and                   Decisions about the remuneration of research staff should be made by staff not
+ remuneration                   directly connected with another business unit.
+
+ Trading restrictions           Research report providers should have a policy on trading restrictions.
+
+ Disclosure of conflicts        Specific, prominent and meaningful disclosures about conflicts of interest allow
+ of interest                    users to form a realistic view about the research and whether to rely on it.
+
+ Issuer paid research           Where research is commissioned, we expect research report providers to
+                                clearly and prominently disclose who commissioned and paid for the research,
+                                preferably on the front or covering page of the report.
+
+ Interests                      Research report providers should disclose in or with each research report
+                                whether they (or any associated persons) have, or are likely in the future to
+                                have, a material interest in financial products that are the subject of the report.
+                                Disclosure will generally need to cover both the existence and extent of the
+                                interest
+
+ Benefits                       Research report providers should disclose whether they (or any associated
+                                persons) are likely to receive any benefits from the report. This includes
+                                disclosure that the research has been commissioned and by whom.
+
+ Assistance provided by         The research report (or accompanying disclosures) should disclose whether
+ product issuer                 the research staff who prepared the research report were helped in any way by
+                                the product issuer and the type of assistance given.
+
+ Quality research               Robust research processes also ensure that real or potential conflicts are less
+ processes                      likely to have an adverse impact on research quality: see Section C of this
+                                guide.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                                 Page 31
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+Business model and organisational structure
+              RG 79.121      The structure of a business may increase or reduce the incidence of conflicts of
+                             interest. It can affect the independence of the research and the extent to which
+                             a user can rely, with confidence, on the integrity of that research. Research
+                             report providers should consider the impact of such conflicts in developing
+                             their business model and adopt appropriate controls to preserve the objectivity
+                             and independence of the research process and outcome. See RG 181.15.
+
+              RG 79.122      Business or professional relationships with entities commissioning research,
+                             or entities the subject of research, and any fee or benefit or other financial
+                             interests capable of influencing the research report provider’s ability to give
+                             an independent and objective assessment of the product should be disclosed.
+
+
+                             Business model conflicts
+
+              RG 79.123      Business model conflicts may be direct or indirect. There is a distinction
+                             between conflicts that are directly related to a specific piece of research—for
+                             example, that the research report provider has also been an underwriter for
+                             an initial public offering (IPO)—compared to indirect business model
+                             conflicts that apply across your business model. Indirect conflicts can be as
+                             corrosive as direct conflicts to the integrity of the research.
+
+                              Example 10
+
+                              Direct conflicts include circumstances where another part of the business
+                              (e.g. investment bank) has provided underwriting or consulting services to
+                              an entity that is the subject of the research.
+
+
+                              Example 11
+
+                              Direct conflicts include issuer commissioned research. The research report
+                              provider’s dependence on the income stream generated by the client
+                              relationship has the potential to adversely influence the independence of
+                              the research, ratings process and outcome.
+
+
+                              Example 12
+
+                              Indirect conflicts include circumstances where the client relationships and
+                              revenue streams generated by ancillary business units such as consulting
+                              or funds management services may indirectly conflict with the integrity of the
+                              research service. Such conflicts may not directly relate to or affect a specific
+                              piece of research on a specific product or issuer. Nevertheless, these
+                              indirect conflicts share the potential to negatively affect the independence
+                              and integrity of the overall research process. Unlike direct conflicts, this
+                              impact may not be as readily apparent to a user of the research.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 32
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+              RG 79.124      Research report provider selects their own business models and each model
+                             has the potential to present certain conflicts of interest. Our expectation is
+                             that business model conflicts, whether direct or indirect, should be avoided
+                             unless there are robust processes and controls in place and meaningful
+                             disclosure. We do not require avoidance of conflicts of interest associated
+                             with issuer pays research at this time. However, if an outcome of our
+                             surveillance activity is that this conflict is not being robustly and effectively
+                             managed, we will revisit the need for avoidance.
+
+Table 5:    Conflicts and controls with direct and indirect business model conflicts
+
+ Conflict                              Control
+
+ Commercial imperatives to             Fee and contractual arrangements for the research services should be
+ generate and guarantee ongoing        clearly separated from the research or rating process and outcome.
+ revenue streams create potential      The research service should be clearly separated from the providers
+ conflicts which may have an           business management or consulting services. If this cannot be achieved,
+ adverse influence on research         the conflict should be avoided.
+ analysts by creating pressure to
+ give favourable ratings rather than
+ truly independent ratings
+
+ Relationship between the              Adopt clear, written terms of engagement with the commissioning party to
+ research report provider and          ensure interactions are free from undue influence. This should specify:
+ commissioning party                    fees for service;
+                                        avenues of communication;
+                                        access to information and commitment to the ratings process;
+                                        use and distribution of the report; and
+                                        publication of the research (irrespective of the final rating).
+                                        Clear disclosure to users that the issuer has paid for the research
+                                       Entities with this conflict should consider the analogous requirements in
+                                       RG 112 on independence of experts.
+
+ Contractual arrangements should       Where a product issuer directly commissions research from a research
+ support robust research               report provider, the provider should contract with a product issuer to
+ processes                             ensure they provide all necessary information to enable a proper
+                                       assessment. Such arrangements can help manage conflicts of interest
+                                       and improve the quality of information for the provider and ultimate end
+                                       user.
+
+ Fee structures that create a nexus    Research and rating fees should be transparent.
+ between remuneration and              Split payment arrangements such that an entity may pay a fee only if their
+ research                              product gets to a certain phase of the research process, should be
+                                       avoided.
+                                       Such arrangements risk compromising the integrity of the research in
+                                       linking the remuneration too closely to the research process and
+                                       outcome.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                               Page 33
+                             REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+ Conflict                                    Control
+
+ Cross subsidisation arrangements            Revenue sources and cross subsidisation relationships should be
+                                             managed to preserve the independence of the research process. They
+                                             should be clearly disclosed for end users to assess any impact on the
+                                             integrity of the research. This includes any fees charged for the use of the
+                                             rating in advertisements or other licensing arrangements or outsourced
+                                             research services.
+                                             The impact of this potential conflict should be considered, reviewed and
+                                             disclosed in the context of the overall business model. Where such
+                                             conflicts cannot be managed, they should be avoided.
+
+ Selection bias and coverage                 Because investment research is not conducted in a vacuum, controls and
+ decisions can lead to conflicts or          adequate disclosures are necessary to address selection bias in research
+ perceived conflicts of interest.            coverage so users can understand coverage decisions and derive
+                                             meaning from a research rating.
+                                             Users need to be able to evaluate a rating in context (e.g. whether the
+                                             rating is an absolute conviction about the quality of a product or a rating
+                                             of the product relative to its products in its peer group).
+                                             Publishing ratings spreads and ratings outcomes helps users to assess
+                                             the value and integrity of the research service. See RG 79.65–RG 79.69.
+
+ Poor transparency in ratings                All ratings should be published (to subscribers or clients) to allow external
+ processes                                   scrutiny of the process and to avoid issuers shopping for ratings without
+                                             leaving a ‘footprint’. Where a product issuer withdraws from the ratings
+                                             process, providers should publish that information and the reasons why.
+
+Note: This is not an exhaustive list of business model conflicts or controls.
+
+
+
+                                 Information barriers and segregation of business units
+
+                RG 79.125        Robust information barriers and the segregation of business units help
+                                 preserve the objectivity and independence of the research process and are
+                                 essential for a research report provider to manage their conflicts of interest.
+                                 It is the responsibility of each research report provider to achieve this
+                                 separation in an operationally effective way given the nature, size and
+                                 complexity of the business.
+
+                RG 79.126        To be effective, robust information barriers (physical and electronic) must
+                                 actually prevent information passing between research staff (and their
+                                 managers) and other staff. Electronic controls should prevent the flow of and
+                                 access to research data by non-research staff. The effectiveness of such
+                                 controls should be the object of regular review.
+
+                RG 79.127        We expect research report providers to ensure that research staff are
+                                 structurally and physically separated from (and are not supervised by) any
+                                 staff who are performing an investment banking, corporate advisory,
+                                 consulting, or dealing function or are involved in product design or
+                                 development.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                                   Page 34
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+              RG 79.128      For research to be genuinely objective and independent, research staff must be
+                             quarantined from other business units such as units who have client relationship
+                             management responsibilities. Segregating research staff from roles relating to
+                             the management of client relationships should also be supported by electronic
+                             separation of research data. Staff working in non research business units should
+                             not be able to access research data, working files or draft research.
+
+              RG 79.129      What will be appropriate structures and supervision practices for a research
+                             report provider will depend on the nature, scale and complexity of its business:
+                             see RG 181.35–RG 181.37. Smaller firms may have less capacity to fully
+                             separate research and other staff, and may need to consider other measures to
+                             ensure their research reports are provided efficiently, honestly and fairly and
+                             that the integrity of the advice they contain is not compromised (e.g. internal,
+                             independent and senior approval of research reports: see RG 79.84–RG 79.85).
+
+
+                             Provision of non-research services
+
+              RG 79.130      If research report providers also provide non-research services to a product
+                             issuer, there is a potential conflict of interest. Conflicts management
+                             arrangements need to take this into account to ensure the integrity of
+                             research reports is not compromised. Whether the non-research services
+                             have, or are likely to have, an impact on the preparation of research will
+                             depend on all of the facts and circumstances.
+
+              RG 79.131      If research cannot be separated from other services to issuers, or ‘add on’
+                             consultancy services cannot be provided at arm’s length from the research
+                             service, the conflict should be avoided.
+
+              RG 79.132      Examples of non-research services include:
+                             (a)   underwriting a public offering;
+                             (b)   advice about the prospects for a potential public offering (including
+                                   likely reception in the financial market);
+                             (c)   help in marketing and promoting a public offering (including
+                                   participation in ‘roadshows’ and ‘conference calls’);
+                             (d)   advice on structuring and developing new financial products; and
+                             (e)   business management or consulting services on investment manager
+                                   selection and asset allocation or the offering of ‘fund of funds’.
+
+              RG 79.133      Research report providers will need to consider, among other measures,
+                             whether they should:
+                             (a)   ensure that research on a product issuer is not published while non-
+                                   research services are being provided to the product issuer, and for a
+                                   short period afterwards (i.e. a ‘quiet period’); and/or
+                             (b)   fully disclose in relevant research reports the nature of any non-research
+                                   services provided to a product issuer: see also RG 79.164.
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 35
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+              RG 79.134      What is an appropriate solution will depend on the circumstances and the
+                             nature of the non-research services being provided. Senior management will
+                             need to consider how they manage the conflicts of interest inherent in
+                             providing non-research services to entities that they publish research about.
+
+                                  Note: What is an appropriate solution will also depend on the extent to which robust
+                                  information barriers ensure that research staff are not aware of any non-research
+                                  services being provided to an issuer: see RG 79.125–RG 79.129.
+
+
+                             General advice about own products
+              RG 79.135      Some research report providers are also product developers and issuers.
+                             Where a provider’s research analysts produce information, analysis or other
+                             material about its own products or products produced by a related body
+                             corporate for internal use, such information is not research for the purposes
+                             of this guidance. See RG 79.26 and the examples in Table 1. For example,
+                             although a licensee’s analysts may produce such general advice for
+                             promotional purposes, it is not advice to which this guide applies. Because
+                             such general advice is not a research report, it should not claim to be one, as
+                             it does not have the requisite objectivity, rigor or independence that typically
+                             characterises a ‘research report’.
+
+              RG 79.136      Where a licensee wishes to broadly distribute research about its own
+                             products a clear conflict of interest arises. In such cases and consistent with
+                             industry practice, we expect licensees to avoid the conflict by obtaining
+                             research from an external source.
+
+
+Controls
+                             Documentation
+              RG 79.137      Research report providers should maintain specific policies and procedures
+                             for managing conflicts of interest, and make these available to all staff.
+                             To be adequate, these policies and procedures need to be documented:
+                             see RG 181.44–RG 181.48.
+
+
+                             Monitoring compliance
+
+              RG 79.138      Research report providers also need to ensure their conflicts management
+                             policies and procedures are implemented, maintained and actually complied
+                             with in practice. The appropriate monitoring and supervision practices for a
+                             research report provider will depend on the nature, scale and complexity of
+                             its business: see RG 181.35–RG 181.37.
+
+                                  Note: We expect that conflicts management policies will include specific reference to
+                                  supervision, monitoring, review, audit and disciplinary matters.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                                  Page 36
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+              RG 79.139      Generally, research report providers should maintain an organisational unit
+                             separate to the business units (e.g. part of the compliance area) that is
+                             responsible for ensuring that conflicts management arrangements are
+                             implemented, monitored, reviewed and updated. It is important that the unit
+                             responsible for monitoring the research report provider’s compliance with its
+                             conflicts management obligations is separate from the business units where
+                             the potential conflicts are likely to arise. In smaller firms, it may be an
+                             individual person rather than an organisational unit who has this
+                             responsibility.
+
+                                  Note: We expect that all units of the research report provider will contribute to its
+                                  management of conflicts of interest, not just the compliance unit.
+
+
+                             Communication
+
+              RG 79.140      A communications policy should outline appropriate and inappropriate
+                             communications practices within the organisation and with external parties.
+                             Particular attention needs to be paid to communications between research staff
+                             and other staff of the research report provider, and between research staff and
+                             external organisations (particularly product issuers). The communications
+                             policy should be made clear to all staff (both research staff and others). This
+                             includes, but is not limited to, information barriers: see RG 79.125–RG 79.129.
+
+              RG 79.141      Research report providers should ensure that research reports or information
+                             about their contents are not communicated outside the research report
+                             provider before the report is provided to clients in the normal course of
+                             business. This does not mean that a research report provider cannot check
+                             the factual accuracy of parts of a research report with a product issuer before
+                             it is provided to clients. However, we expect that this checking would be
+                             done in a carefully controlled way (e.g. without communicating the
+                             recommendations or opinions also contained in the report).
+
+                             Approval before distribution
+
+              RG 79.142      To maintain the quality and integrity of reports, research reports should be
+                             reviewed and approved by an experienced supervisor or by a group of peers
+                             (e.g. review committee) before they are distributed to clients. Reports should
+                             not be reviewed or approved by staff from another business area (e.g.
+                             investment banking, corporate advisory or dealing function), other than a
+                             restricted review for factual accuracy purposes. A written record should be kept
+                             of the review and approval of each research report. See RG 79.125–RG 79.129.
+
+
+                             Benefits and remuneration
+
+              RG 79.143      Decisions about the remuneration of research staff should not be made by
+                             staff that are directly connected with another business unit (e.g. investment
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                                     Page 37
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                             banking, corporate advisory or dealing). Remuneration decisions should not
+                             be contingent on:
+                             (a)   research staff introducing new clients or retaining existing clients for
+                                   the investment banking, corporate advisory or dealing units;
+                             (b)   any specific investment banking, corporate advisory or dealing
+                                   transaction; or
+                             (c)   the level of any asset management fee.
+
+                             Trading restrictions
+
+              RG 79.144      If research report providers or their research staff trade in the financial
+                             products that they publish research about, there is a potential conflict of
+                             interest. Conflicts management arrangements need to take this into account
+                             to ensure the integrity of research reports is not compromised.
+
+              RG 79.145      What is an appropriate solution will depend on the circumstances but some
+                             of the things a research report provider may need to consider include:
+                             (a)   ensuring it has a policy on the distribution of research reports on
+                                   financial products that the research report provider or its research staff
+                                   have an interest in;
+                             (b)   ensuring it does not unfairly trade ahead of the distribution of a research
+                                   report (e.g. through appropriate compliance arrangements and
+                                   information barriers); and
+                             (c)   having formal review and approval processes for trading by its research
+                                   staff.
+
+                             Having an interest in the researched product
+              RG 79.146      Research report providers need to consider whether there are any types of
+                             conduct that are so inconsistent with proper management of conflicts of
+                             interest that they should be avoided completely: see RG 181.42.
+
+              RG 79.147      Having a material interest in the researched product presents a potential conflict
+                             of interest. General advice that is provided only to related bodies corporate of
+                             the licensee and general advice that is only about products issued by the
+                             licensee or its related bodies corporate is not research for the purposes of this
+                             guide and should not be described or distributed as such: see RG 79.26.
+
+              RG 79.148      If research reports are provided about products that the provider’s research
+                             staff hold a material interest in, there is a potential conflict of interest.
+                             Research report providers should ensure that this conflict does not result:
+                             (a)   in a failure to comply with their duties as licensees (including the duty
+                                   to act efficiently, honestly and fairly); or
+                             (b)   in the integrity of the advice contained in their research reports being
+                                   compromised.
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 38
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+              RG 79.149      Research report providers may wish to consider adopting one or more of the
+                             following approaches:
+                             (a)   prohibiting their research staff from holding or trading in financial
+                                   products that they prepare research on;
+                             (b)   adopting robust information barriers (see RG 79.125–RG 79.129) that
+                                   ensure that research staff are not aware of the trading conducted by the
+                                   research report provider; and
+                             (c)   ensuring that any holding or trading of financial products by their
+                                   research staff is properly approved.
+
+              RG 79.150      What is an appropriate solution will depend on the circumstances. The senior
+                             management of each research report provider will need to consider how the
+                             research report provider manages the conflicts of interest inherent in trading
+                             in financial products it publishes research about. Whatever arrangements are
+                             put in place, care should be taken by the research report provider to ensure
+                             that its trading intention or trading strategy, or that of its research staff, does
+                             not affect the contents of its research reports.
+
+                                   Note: For example, a research report provider may prohibit research staff from trading in
+                                   securities (or derivatives of that security) that they cover, or any securities in that industry
+                                   sector (e.g. following the relevant sector indices). Trading restrictions should take into
+                                   account both direct and indirect interests (e.g. a person may have an indirect interest due
+                                   to derivatives they hold, or the assets of a discretionary account that they manage).
+
+
+                             Trading ahead of distribution
+
+              RG 79.151      Care needs to be taken where the research report provider or its research
+                             staff trade in a financial product before (or shortly after) the research report
+                             provider broadly distributes a research report about that product (e.g.
+                             proprietary trading by or on behalf of the research report provider and
+                             personal trading by research staff). A research report provider may wish to
+                             consider the following approaches:
+                             (a)   imposing a ‘quiet period’ on itself and/or its research staff; or
+                             (b)   adopting robust information barriers that ensure that trading staff are
+                                   not aware of pending research.
+
+              RG 79.152      If adopting a quiet period, the research report provider will need to assess
+                             what is a reasonable period before and/or after the distribution of research
+                             for trading to be restricted. Quiet periods may also need to cover:
+                             (a)   discretionary trading on accounts managed by the research report providers
+                                   (as well as dealings on the research report provider’s own account); and
+                             (b)   dealings in derivatives of the financial products that are the subject of
+                                   research reports.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                                        Page 39
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+              RG 79.153      Research report providers should take reasonable steps to ensure that their
+                             research staff do not circumvent any trading restrictions by encouraging or
+                             arranging for others (e.g. the staff member’s family or other associated
+                             persons) to deal during the quiet periods. Generally, the trading activities of
+                             research staff should be monitored and recorded.
+
+              RG 79.154      Non-public information about the timing of and recommendations contained
+                             in future research reports may amount to inside information: s1042A. This is
+                             especially so where the report is based on information which is itself not
+                             generally available. To the extent that the research report itself is or involves
+                             ‘inside information’, trading before or shortly after its publication is likely to
+                             amount to insider trading: s1043A(1).
+
+                                  Note: Information barrier defences may apply: s1043F–1043G. However, it is important
+                                  that product issuers and research report providers take reasonable steps to avoid
+                                  selective disclosure.
+
+
+
+
+Disclosure of conflicts of interest
+              RG 79.155      Research reports are relied on by retail and wholesale clients as a source of
+                             useful information for making decisions about investing in financial
+                             products. Users of research reports should be given enough information
+                             about conflicts of interest relating to a report to form a realistic view about
+                             the report and whether to rely on it. Specific, prominent and meaningful
+                             disclosures about conflicts of interest should be included either in or with
+                             each research report: see RG 181.52. The disclosures should focus on
+                             material conflicts: see RG 79.161–RG 79.162.
+
+                                  Note: As a matter of good practice, the research report (or accompanying disclosures)
+                                  should also state who prepared the report and when (see RG 79.96–RG 79.99) and the
+                                  reasons for the opinions and recommendations (see RG 79.87–RG 79.88).
+
+              RG 79.156      We recognise there are some situations where disclosing a particular conflict
+                             will be inappropriate (e.g. where the relevant matter is highly confidential).
+                             In these situations, research report providers will need to assess whether the
+                             conflict can be adequately managed through other mechanisms. If it cannot
+                             be adequately managed, research report providers may need to avoid the
+                             conflict altogether: see RG 181.60.
+
+              RG 79.157      Conflicts of interest disclosures are important, regardless of whether the client
+                             is wholesale or retail. We expect that research report providers’ conflicts
+                             management arrangements will include procedures to ensure all clients receive
+                             conflicts of interest disclosure (not just retail clients): see RG 181.58–RG 181.59.
+                             What is appropriate disclosure to a wholesale client will depend on all the facts
+                             and circumstances. We acknowledge that in some cases, the disclosure a
+                             research report provider needs to give to a wholesale client to comply with the
+                             law may be less detailed than for a retail client: see RG 181.58.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                                 Page 40
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+              RG 79.158      Research report providers should provide conflicts of interest disclosure to
+                             all clients, including generally disclosing:
+                             (a)   any material interests they have in financial products that are the subject
+                                   of the report (see RG 79.161–RG 79.162);
+                             (b)   any benefits they are likely to receive from the report (see RG 79.163);
+                             (c)   their relationship (if any) to the product issuer, including any other
+                                   services they provide to the product issuer (see RG 79.164); and
+                             (d)   any help they were given by the product issuer (see RG 79.165);
+                             (e)   the date the research report was written and who took responsibility for
+                                   it; and
+                             (f)   the reasons behind the opinions and recommendations in the research
+                                   report.
+
+              RG 79.159      We would expect research report providers to take into account the factors in
+                             RG 181.58 in assessing the disclosure that should be provided to any given client.
+
+              RG 79.160      Robust information barriers (see RG 79.125–RG 79.129) may mean the staff
+                             preparing and authorising a research report are unaware of some of these
+                             matters. To be effective, such barriers must actually prevent information going
+                             to research staff. For example, research staff may be unaware of some
+                             confidential non-research services being provided to a product issuer by another
+                             department. In this case, we would not expect the research report to include
+                             disclosures relating to that service. Whether any particular matter does not need
+                             to be disclosed in a research report will, of course, depend on the facts and
+                             circumstances: see RG 181.62.
+
+                             Interests
+              RG 79.161      Research report providers should disclose in or with each research report whether
+                             they (or any associated persons) have, or are likely in the future to have, a material
+                             interest in financial products that are the subject of the report. Disclosure will
+                             generally need to cover both the existence and extent of the interest.
+                                   Note: For example, the disclosures should cover:
+                                   (a)   beneficial interests in and derivatives relating to the financial product;
+                                   (b)   likely allocations as part of a public offering; and
+                                   (c)   significant interests that the research report provider (or its staff) may have in the
+                                         product issuer.
+
+              RG 79.162      It is important that conflicts of interest disclosures are specific and clear.
+                             It would be inadequate simply to make a generic statement that the research
+                             report provider may from time to time have interests in those financial
+                             products that are the subject of research: see RG 181.53. It would also be
+                             inappropriate for these disclosures to be hidden in small print or otherwise
+                             obscured.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                                       Page 41
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                             Benefits
+              RG 79.163      Research report providers should disclose whether they (or any associated
+                             persons) are likely to receive any benefits from the report. Disclosure will
+                             generally need to cover both the existence and extent of the benefits: see
+                             RG 181.54.
+                                   Note: For example, the disclosures should generally cover if:
+
+                                   (a)   the research staff member principally responsible for preparing the report
+                                         received, or expects to receive, any benefit or inducement; and
+
+                                   (b)   the research report provider (or its research staff) received compensation from the
+                                         subject of the report recently, or if the research report provider (or its research
+                                         staff) expect to receive compensation in the near future.
+
+
+                             Associations or relationships
+              RG 79.164      If any of the following associations or relationships apply and assuming the
+                             provider does not need to avoid the conflict, they should be disclosed in or
+                             with the research report:
+                             (a)   that the research report provider (or an associated person) provides
+                                   underwriting, managerial, consultancy or market-making services to the
+                                   product issuer;
+                             (b)   that the product issuer is otherwise a corporate client of the research
+                                   report provider; or
+                             (c)   that the product issuer is related to or otherwise associated with the
+                                   research report provider.
+                                   Note 1: For example, the disclosures should cover the following relationships (if present)
+                                   between the research report provider (or its associates) and a product issuer (or its associates):
+
+                                   (a)   underwriting or sub-underwriting;
+
+                                   (b)   making a market in the relevant financial product;
+
+                                   (c)   acting as broker or sponsor in a securities issue;
+
+                                   (d)   holding a position (including as a director) with the issuer;
+
+                                   (e)   providing expert opinions; and
+
+                                   (f)   investment banking, corporate advisory and dealing services.
+
+                                   Note 2: The disclosures should cover at least the last 12 months.
+
+
+                             Assistance provided by product issuer
+              RG 79.165      The research report (or accompanying disclosures) should disclose whether
+                             the research staff who prepared the research report were helped in any way
+                             by the product issuer. Disclosure will generally need to state the type of
+                             assistance given.
+                                   Note: For example, the disclosures should refer to any assistance provided via site visits
+                                   or other means.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                                      Page 42
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+Additional disclosure issues
+
+                             Focus on material conflicts
+
+              RG 79.166      Adequate disclosure means providing enough detail to allow clients to make
+                             an informed decision about how the conflict may affect the service being
+                             provided to them. We expect disclosure by research report providers to focus
+                             on material conflicts: see RG 181.50. Overly detailed or irrelevant disclosure
+                             is likely to confuse clients and reduce the effectiveness of the disclosure: see
+                             RG 181.61.
+
+              RG 79.167      Other matters that a reasonable person might take into account in assessing
+                             the impact of conflicts of interest on a research report and whether to rely on
+                             it should also be disclosed. This information could be provided in a number
+                             of ways, including in or with research reports, in a separate document and on
+                             the research report provider’s website.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 43
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+E          Users of research
+
+                              Key points
+
+                              We expect users of research, such as financial advisory firms and industry
+                              associations, to conduct careful due diligence on research report providers
+                              they intend to rely on in preparing approved product lists and Statements of
+                              Advice (SOAs).
+
+                              More detailed and specific guidance for advice providers is set out in
+                              Regulatory Guide 175 Licensing: Financial product advisers—Conduct and
+                              disclosure (RG 175).
+
+
+              RG 79.168      As providers of general advice, research report providers are important
+                             gatekeepers in the provision of financial product advice to Australian
+                             investors. The quality of the research produced by research report providers
+                             and their conduct has a material impact on the integrity of the financial
+                             planning industry, and the quality of advice they produce.
+
+              RG 79.169      Our guidance in this section is designed to help improve the quality of
+                             research and any personal advice prepared in reliance on third party research
+                             produced by research report providers. Users of research can place more
+                             confidence in research where there is:
+                             (a)   greater transparency by research report providers in communicating key
+                                   features, strengths and limitations of their research services;
+                             (b)   a clearly articulated and applied research methodology and effective
+                                   research processes; and
+                             (c)   appropriate and compliant management of conflicts of interest.
+
+
+FOFA reforms
+              RG 79.170      From 1 July 2013, AFS licensees and their representatives that provide
+                             personal advice to clients must comply with the best interests duty and related
+                             obligations unless they elect to comply before this date (from 1 July 2012).
+
+              RG 79.171      These obligations are part of the Australian Government’s Future of
+                             Financial Advice (FOFA) reform package under the Corporations
+                             Amendment (Further Future of Financial Advice Measures) Act 2012
+                             (FOFA Act No.2). The FOFA reforms are aimed at improving the trust and
+                             confidence of retail investors in the financial advice sector.
+
+              RG 79.172      The best interests duty and related obligations replace the conduct obligations
+                             in Subdiv B of Div 3 of Pt 7.7 of the Corporations Act relating to the basis of
+                             advice—that is, the requirement to have a reasonable basis of personal advice
+                             (s945A), and the obligation to warn the client if advice is based on incomplete
+                             or inaccurate information (s945B).
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 44
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+              RG 79.173      These obligations require the ‘advice provider’—generally the individual
+                             who provides the personal advice—to:
+                             (a)   act in the best interests of the client: best interests duty (s961B);
+                             (b)   provide appropriate advice (s961G);
+                             (c)   warn the client if advice is based on incomplete or inaccurate
+                                   information (s961H); and
+                             (d)   prioritise the interests of the client (s961J).
+
+              RG 79.174      In satisfying these obligations, where an advice provider considers it would
+                             be reasonable to recommend a financial product, the provider must:
+                             (a)   conduct a reasonable investigation into financial products that might
+                                   achieve the objectives and meet the needs of the client that would
+                                   reasonably be considered relevant to the subject matter of the advice
+                                   (s961B(2)(e)(i)); and
+                             (b)   assess the information gathered in the investigation (s961B(2)(e)(ii)).
+
+
+
+Due diligence
+              RG 79.175      Our expectations of advice providers in relying on research produced by
+                             external research report providers in preparing approved product lists or
+                             Statements of Advice (SOAs) are set out in Regulatory Guide 175 Licensing:
+                             Financial product advisers—Conduct and disclosure (RG 175).
+
+              RG 79.176      We expect AFS licensees (including advice providers) to conduct
+                             appropriate due diligence in choosing a research report provider. Our
+                             guidance is designed to assist and support licensees and advice providers in
+                             that process. This is particularly important where general advice prepared by
+                             research report providers is relied upon in preparing approved product lists
+                             or SOAs. Not all research is the same and we expect AFS licensees who
+                             provide personal advice to apply the requisite level of rigour in assessing the
+                             quality of the research when preparing personal advice.
+
+              RG 79.177      In conducting due diligence, we expect advice providers to take into account
+                             the business model and conflicts of interests associated with each potential
+                             service provider, as well as ensuring they understand and take into account
+                             the disclosures each research report provider makes about its business
+                             model, product selection processes, scope and coverage of research service,
+                             ratings spread and conflicts management in accordance with our guidance.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 45
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+Personal advice
+              RG 79.178      In addition to conducting appropriate due diligence in selecting a research
+                             report provider, we expect advice providers to make their own inquiries and
+                             research into the products they give advice on. While they may rely to some
+                             extent on various service providers, such as research report providers, advice
+                             providers are still responsible for the advice they give clients: see RG 175.
+
+              RG 79.179      When using research, advice providers should ensure that they have read and
+                             understood the research report before relying on it. We expect advice
+                             providers to critically evaluate research reports, including considering the
+                             scope and coverage of the research, the nature of the rating applied, the
+                             methodology applied and the currency of the research. When users of
+                             research better understand the nature, scope and expertise that different
+                             research report providers bring to the research task, they can better assess
+                             the value of the research and the extent to which they can rely on it.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 46
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+Key terms
+
+                           Term                       Meaning in this document
+
+                           advice provider            A person to whom the obligations in Div 2 of Pt 7.7A of the
+                                                      Corporations Act apply when providing personal advice to a
+                                                      client. This is generally the individual who provides the
+                                                      personal advice. However, if there is no individual that
+                                                      provides the advice, which may be the case if advice is
+                                                      provided through a computer program, the obligations in
+                                                      Div 2 of Pt 7.7A apply to the legal person that provides the
+                                                      advice (e.g. a corporate licensee or authorised
+                                                      representative)
+                                                            Note: These obligations will apply from 1 July 2013, or a
+                                                            person may elect to comply from 1 July 2012.
+
+                           AFS licence                An Australian financial services licence under s913B that
+                                                      authorises a person who carries on a financial services
+                                                      business to provide financial services
+                                                            Note: This is a definition contained in s761A of the
+                                                            Corporations Act.
+
+                           AFS licensee (or           A person that holds an Australian financial services (AFS)
+                           licensee)                  licence
+                                                            Note: This is a definition in s761A of the Corporations Act.
+
+                           ASIC                       Australian Securities and Investments Commission
+
+                           ASIC Act                   Australian Securities and Investments Commission Act 2001
+
+                           associated person          An associate (within the meaning of Div 2 of Pt 1.2 of the
+                                                      Corporations Act) of the research report provider, including
+                                                      its research staff
+
+                           conflicts management       Section 912A(1)(aa) of the Corporations Act, which takes
+                           obligation                 effect on 1 January 2005
+
+                           conflicts of interest      As defined in RG 181.15, that is:
+                                                            …conflicts of interest are circumstances where some
+                                                            or all of the interests of people (clients) to whom a
+                                                            licensee (or its representative) provides financial
+                                                            services are inconsistent with, or diverge from, some
+                                                            or all of the interests of the licensee or its
+                                                            representatives. This includes actual, apparent and
+                                                            potential conflicts of interest.
+
+                           Corporations Act           Corporations Act 2001, including regulations made for the
+                                                      purposes of that Act
+
+                           financial product          A facility through which, or through the acquisition of which,
+                                                      a person does one or more of the following:
+                                                       makes a financial investment (see s763B);
+                                                       manages financial risk (see s763C); and/or
+                                                       makes non-cash payments (see s763D)
+                                                            Note: This is a definition in s763A of the Corporations Act.
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                                    Page 47
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                           Term                       Meaning in this document
+
+                           financial product advice   A recommendation, a statement of opinion or an
+                                                      interpretation of information, or a report of any of those
+                                                      things, that:
+                                                       is intended to influence a person(s) in making a decision
+                                                        about a particular financial product or class of financial
+                                                        products, or an interest in a particular financial product or
+                                                        class of financial products; or
+                                                       could reasonably be regarded as being intended to have
+                                                        such an influence;
+
+                                                      but does not include anything in an exempt document
+                                                            Note: This is a definition in s766B of the Corporations Act.
+
+                           Financial Services         A document that must be given to a client in relation to the
+                           Guide (FSG)                provision of a financial service in accordance with Div 2 of
+                                                      Pt 7.7 of the Corporations Act
+                                                            Note: See s761A of the Corporations Act for the exact
+                                                            definition.
+
+                           FOFA reforms               A package of proposed reforms to the regulation of
+                                                      financial advice issued by the Australian Government in
+                                                      response to the PJC report Inquiry into financial products
+                                                      and services in Australia, November 2009:
+                                                      http://futureofadvice.treasury.gov.au
+
+                           general advice             Financial product advice that is not personal advice
+                                                            Note: This is a definition in s766B of the Corporations Act.
+
+                           personal advice            Financial product advice given or directed to a person
+                                                      (including by electronic means) in circumstances where:
+                                                       the provider of the advice has considered one or more of
+                                                        the client’s objectives, financial situation and needs; or
+                                                       a reasonable person might expect the provider to have
+                                                        considered one or more of these matters
+                                                            Note: This is the definition contained in s766B(3) of the
+                                                            Corporations Act.
+
+
+
+
+                           Product Disclosure         A document that must be given to a client in relation to the
+                           Statement (PDS)            offer or issue of a financial product in accordance with
+                                                      Div 2 of Pt 7.9 of the Corporations Act
+                                                            Note: See s761A for the exact definition.
+
+                           representative             In the case of an AFS licensee:
+                                                       an authorised representative of the licensee;
+                                                       an employee or director of the licensee;
+                                                       an employee or director of a related body corporate of
+                                                        the licensee; or
+                                                       any other person acting on behalf of the licensee
+                                                            Note: This is a definition in s910A.
+
+                           research report            As defined in RG 79.25–RG 79.26
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                                    Page 48
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                           Term                       Meaning in this document
+
+                           research report            As defined in RG 79.27
+                           provider
+
+                           retail client              A client as defined in s761G of the Corporations Act and
+                                                      Div 2 of Pt 7.1 of Ch 7 of the Corporations Regulations
+                                                      2001
+
+                           RG 181                     An ASIC regulatory guide (in this example numbered 181)
+
+                           s912A (for example)        A section of the Corporations Act (in this example
+                                                      numbered 912A)
+
+                           SOA (Statement of          A document that must be given to a client for the provision
+                           Advice)                    of personal advice under Subdivs C and D of Div 3 of
+                                                      Pt 7.7 of the Corporations Act
+
+                                                            Note: See s761A for the exact definition.
+
+                           Trade Practices Act        Trade Practices Act 1974
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 49
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+Related information
+                             Headnotes
+
+                             avoiding, conflicts of interest, conflicts management, disclosure, information
+                             barriers, internal controls, research analyst, research report, research report
+                             provider, securities analyst
+
+                             Pro formas
+
+                             PF 209 Australian financial services licence conditions
+
+                             Regulatory guides
+
+                             RG 53 The use of past performance in promotional material
+
+                             RG 104 Licensing: Meeting the general obligations
+
+                             RG 105 Licensing: Organisational competence
+
+                             RG 111 Content of expert reports
+
+                             RG 112 Independence of experts
+
+                             RG 146 Licensing: Training of financial product advisers
+
+                             RG 175 Licensing: Financial product advisers—Conduct and disclosure
+
+                             RG 181 Licensing: Managing conflicts of interest
+
+                             Legislation
+
+                             Corporations Act, Div 2 of Pt 1.2, Div 3 of Pt 7.7, Div 2 of Pt 7.7A, s761G,
+                             763, 766B, 910A, 912A(1)(aa), 912A(1)(a), 945A, 945B, 1041H and 1042A
+
+                             Corporations Amendment (Further Future of Financial Advice Measures)
+                             Act 2012
+
+                             Trade Practices Act, s52
+
+                             Cases
+                             Bathurst Regional Council v Local Government Financial Services Pty Ltd
+                             (No 5) [2012] FCA 1200
+
+                             Chiarabaglio v Westpac Banking Corporation (1989) ATPR 40–971
+
+                             MGIGA (1992) Ltd v Kenny & Good Pty Ltd (1996) 70 FCR 236
+
+                             RAIA Insurance Brokers Ltd v FAI General Insurance Co Ltd (1993) 41
+                             FCR 164
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 50
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+                             Consultation papers and reports
+
+                             CP 171 Strengthening the regulation of research report providers (including
+                             research houses)
+
+                             REP 143 Review of credit rating agencies and research houses: A joint
+                             report
+
+                             REP 318 Response to submissions on CP 171 Strengthening the regulation
+                             of research report providers
+
+
+                             Other documents
+
+                             IOSCO, IOSCO Statement of principles for addressing sell-side securities
+                             analyst conflicts of interest: A statement of the Technical Committee of the
+                             International Organisation of Securities Commissions, 25 September 2003
+
+
+
+
+© Australian Securities and Investments Commission December 2012                                              Page 51
+                          REGULATORY GUIDE 79: Research report providers: Improving the quality of investment research
+
+
+
+
+Appendix: Sample compliance review
+
+                             This appendix is intended as a useful checklist for research report providers
+                             in meeting their obligations, including any relevant licence conditions.
+                             Providers can use it as a tool to review current and ongoing compliance with
+                             RG 79 and to assess the implementation and timing of any planned measures.
+                             The topics and processes can be tailored to suit a provider’s particular
+                             business model or compliance arrangements.
+
+                                  Note: It is not a requirement to complete a compliance review and this appendix is not a
+                                  template for future ASIC surveillance activity.
+
+
+                             Compliance topics
+                             Topics that can be reviewed include:
+                                 research methodology and processes;
+                                 internal conflicts management procedures;
+                                 research publication and distribution;
+                                 conflicts disclosure to users;
+                                 monitoring and updating research;
+                                 staff training and supervision;
+                                 compliance and risk management; and
+                                 procedures for managing research quality and transparency.
+
+                             Compliance processes
+                             For any planned measures:
+                                 explain when and how the measures will be implemented;
+                                 include an explanation of how the relevant measure will ensure
+                                  compliance with the law, licence conditions and RG 79;
+                                 describe the resources, including the internal compliance resources,
+                                  allocated to the measures;
+                                 detail any testing and reviews of the measures that have been or will be
+                                  conducted and the results of those tests and reviews;
+                                 where a measure necessarily involves the disclosure of information,
+                                  include a hyperlink to access such disclosed information;
+                                 identify any failings of the measures against their aims and explain how
+                                  those failings have been or will be addressed;
+                                 identify by name any existing or planned policies or similar documents;
+                                 only address any measure that has been implemented or planned, or any
+                                  failing that has occurred, since any previous compliance review; and
+                                 address the specific instructions, if any, given for a topic.
+
+
+
+© Australian Securities and Investments Commission December 2012                                                  Page 52
+

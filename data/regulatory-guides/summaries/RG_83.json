@@ -1,0 +1,48 @@
+{
+  "citation": "RG 83",
+  "title": "Reinstatement of companies",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide explains the process for reinstating a company that has been deregistered under the Corporations Act 2001. It covers both administrative reinstatement by ASIC and court-ordered reinstatement, including who can apply and the consequences of reinstatement.",
+  "background": "The guide is issued under the Corporations Act 2001 and addresses the reinstatement of companies deregistered under that Act and previous legislation. It is intended for company officeholders, third parties, and liquidators who seek to have a company reinstated.",
+  "ruling": "ASIC will administratively reinstate a company if it is satisfied that the company should not have been deregistered or that it was deregistered due to a mistake. ASIC may also reinstate a company if it receives a court order for reinstatement. The guide outlines the application process, including the required forms and fees, and specifies circumstances where ASIC may decline administrative reinstatement, such as when the company is under external administration or has outstanding obligations. ASIC interprets the law to require that reinstatement restores the company to its former position as if it had not been deregistered, subject to certain limitations.",
+  "date_of_effect": "2018-03-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 58AA(1)",
+    "Corporations Act 2001 (Cth) s 413(3)",
+    "Corporations Act 2001 (Cth) s 459A",
+    "Corporations Act 2001 (Cth) s 481(5)(b)",
+    "Corporations Act 2001 (Cth) s 482",
+    "Corporations Act 2001 (Cth) s 489EA(3)",
+    "Corporations Act 2001 (Cth) s 509(1)",
+    "Corporations Act 2001 (Cth) s 509(2)",
+    "Corporations Act 2001 (Cth) s 601AA",
+    "Corporations Act 2001 (Cth) s 601AB(1)",
+    "Corporations Act 2001 (Cth) s 601AB(1A)",
+    "Corporations Act 2001 (Cth) s 601AB(1B)",
+    "Corporations Act 2001 (Cth) s 601AB(2)",
+    "Corporations Act 2001 (Cth) s 601AH(1)",
+    "Corporations Act 2001 (Cth) s 601AH(1A)",
+    "Corporations Act 2001 (Cth) s 601AH(2)",
+    "Corporations Act 2001 (Cth) s 601AH(5)",
+    "ASIC Supervisory Cost Recovery Levy Act 2017",
+    "Companies (New South Wales) Code",
+    "Companies (Northern Territory) Code",
+    "Companies (South Australia) Code",
+    "Companies (Tasmania) Code",
+    "Companies (Victoria) Code",
+    "Companies (Western Australia) Code",
+    "Corporations Law former s574"
+  ],
+  "cases_referenced": [
+    "Australian Competition and Consumer Commission v Australian Securities and Investments Commission (2000) 174 ALR 688",
+    "JP Morgan Portfolio Services Ltd v Deloitte Touche Tohmatsu (2008) 167 FCR 212",
+    "Re Jury & Spiers Pty Ltd [2016] NSWSC 900",
+    "Re Rocha Pty Ltd [2016] NSWSC 899",
+    "Reid v Action Insulation Engineers Pty Ltd [2009] NSWSC 1182"
+  ],
+  "related_rulings": [
+    "RG 242",
+    "INFO 4"
+  ]
+}

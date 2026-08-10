@@ -1,0 +1,37 @@
+{
+  "citation": "RG 5",
+  "title": "Relevant interests and substantial holding notices",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide discusses the concept of a 'relevant interest' in securities under the Corporations Act 2001 and explains the requirements for disclosing substantial holdings in listed companies, bodies, or managed investment schemes. It also outlines ASIC's class order modifications to these provisions.",
+  "background": "The guide is issued under the Corporations Act 2001 and is intended for investors who acquire an interest in securities of a company or managed investment scheme, and their advisers. It aims to clarify when a person has a relevant interest and must disclose a substantial holding, ensuring transparency in ownership and control of voting shares and interests.",
+  "ruling": "ASIC provides guidance on the broad interpretation of 'relevant interest', including situations where a person has power to control voting or disposal of securities, or where an agreement confers such power. The guide explains that substantial holding notices (Forms 603, 604, 605) must be lodged when a person and their associates have a relevant interest in 5% or more of voting shares or interests. ASIC also outlines its class order modifications that may vary the operation of these provisions, such as for certain derivative arrangements or custodial holdings. The regulator emphasizes that the disclosure regime is designed to inform the market of significant ownership changes and to support the integrity of takeovers and corporate control.",
+  "date_of_effect": "2024-03-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth)"
+  ],
+  "cases_referenced": [
+    "Haughton Properties Pty Ltd v Sandridge City Development Co Pty Ltd (1994) 13 ACLC 1",
+    "Industrial Equity Ltd v Commissioner for Corporate Affairs (Vic) (1989) 1 ACSR 153",
+    "Meridian Global Funds Management Asia Ltd v Securities Commission [1995] 2 AC 500",
+    "Mount Gibson Iron Limited [2008] ATP 4",
+    "NCSC v Brierley Investments Ltd (1988) 14 ACLR 177",
+    "New Ashwick Pty Ltd v Wesfarmers Ltd (2000) 35 ACSR 263",
+    "Nicholas v Commissioner for Corporate Affairs (Vic) (1982) 7 ACLR 45",
+    "North Sydney Brick & Tile Co Ltd v Darvall (No 2) (1986) 10 ACLR 837",
+    "Perpetual Custodians Ltd v IOOF Investment Management Ltd (2012) 91 ACSR 530",
+    "Re Adelaide Holdings Ltd (1982) 6 ACLR 675",
+    "Re Kornblums Furnishings Ltd (1981) 6 ACLR 25",
+    "Re VGM Holdings Ltd [1942] 1 All ER 224",
+    "Tillmanns Butcheries Pty Ltd v Australasian Meat Industry Employees' Union (1979) 27 ALR 367",
+    "Touch Holdings Limited [2013] ATP 3",
+    "TVW Enterprises Ltd v Queensland Press Ltd (1983) 7 ACLR 821",
+    "Viento Group Ltd [2011] ATP 1",
+    "Winepros Ltd [2002] ATP 18",
+    "Yaramin Pty Ltd v Augold NL (1997) 11 ACLR 439"
+  ],
+  "related_rulings": [
+    "RG 1",
+    "INFO 225"
+  ]
+}

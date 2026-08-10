@@ -1,0 +1,8 @@
+{
+  "error": "JSON parse failed",
+  "raw": "```json\n{\n  \"citation\": \"RG 121\",\n  \"title\": \"Doing financial services business in Australia\",\n  \"type\": \"ASIC Regulatory Guide\",\n  \"status\": \"Final\",\n  \"subject\": \"This guide provides general guidance for overseas persons or companies on when they may need to hold an Australian financial services (",
+  "citation": "RG 121",
+  "title": "Doing Financial Services Business In Australia",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final"
+}

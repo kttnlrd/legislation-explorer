@@ -1,0 +1,1185 @@
+Note: From 27 July      REGULATORY GUIDE 59
+2020, applications
+for relief should be
+submitted through
+the ASIC Regulatory
+                        Announcing and withdrawing
+Portal. For more
+information, see how
+                        takeover bids (s653 and s746)
+you apply for relief.   Chapter 6 — Acquisition of shares (Parts 6.3 and 6.11)
+                        Issued 21/8/1995
+
+                        From 5 July 2007, this document may be referred to as Regulatory
+                        Guide 59 (RG 59) or Practice Note 59 (PN 59). Paragraphs in this
+                        document may be referred to by their regulatory guide number
+                        (e.g. RG 59.1) or their practice note number (e.g. PN 59.1).
+
+
+                        Headnotes
+                        s653; s662(2); s746; s999; public; announcement; withdrawal;
+                        takeover; bid; overbid.
+
+
+                                      Contents
+                                               Purpose .........................................................................2
+                                      Part I: Policy of s746 ..............................................................4
+                                      Part II: Announcements relating to takeover bids .............5
+                                             When should a bid be announced? ...............................5
+                                             What should be announced when a bid is delayed or
+                                             called off? ......................................................................5
+                                             How should these announcements be made? ..............6
+                                      Part III: How does s746 work? ..............................................7
+                                             What announcements trigger s746? .............................8
+                                      Part IV: Conditional bids .......................................................12
+                                             Why does the presumption apply? ................................12
+                                             Results of presumption ..................................................12
+                                      Part V: When does the defence in s746(10) apply? ...........16
+                                            Changed or newly discovered circumstances ...............16
+
+                                       © Australian Securities and Investments Commission August 1995
+                                                                                              Page 1
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+                 Part V: When does the defence in s746(10) apply? ...........16
+                       Changed or newly discovered circumstances...............16
+                       Unreasonable to expect offeror to proceed ...................16
+                 Part VI: When is it unreasonable to expect an offeror to
+                 proceed?.................................................................................18
+                       Making the bid would be futile .......................................18
+                       Illegality..........................................................................19
+                       Overbid ..........................................................................20
+                       Change in commercial circumstances...........................20
+                 Part VII: When will the ASC give relief from s746? ............22
+                       Relief from obligation to bid...........................................22
+                       Extension of time limit in s746(4) ..................................22
+                       No-action letter ..............................................................23
+                 Part VIII: Withdrawal of offers (s653) ...................................24
+                       When will the ASC give consent under s653? ..............24
+                       Will the ASC give consent if the offeror is overbid? ......25
+                       How should an offeror withdraw takeover offers? .........26
+                       Applications ...................................................................26
+
+
+ Purpose
+ RG 59.1 In this guide, the ASC states its views on the policy,
+ interpretation and operation of s63 and 746 of the Corporations Law
+ (Law). In particular, it explains the following.
+
+ (a) Part I explains the policy of s746 (para 3–5);
+ (b) Part II explains when a bid should be announced and what should
+     be done if the bid cannot be kept confidential until that time. It
+     also explains what an offeror should announce when a bid is
+     delayed or called off (para 6–10);
+ (c) Part III explains how s746 works and what announcements trigger
+     the operation of the section (para 11–31);
+ (d) Part IV explains how s746 works in relation to announcements of
+     conditional bids (ie, bids subject to preconditions or defeating
+     conditions). It also explains when an offeror should specify
+     conditions when announcing a bid (para 32–46);
+ (e) Part V explains when an offeror has a defence to a breach of s746
+     and outlines the two elements of the defence (s746(10) and para
+     47–52);
+ (f) Part VI explains the four classes of cases in which it is
+     unreasonable to expect an offeror to proceed with an announced
+     bid (ie, the second element of the defence) (para 53–68);
+ (g) Part VII explains when and how the ASC will give relief from
+     s746 (para 69–76); and
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                         Page 2
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ (h) Part VIII explains when the ASC will consent to an offeror
+     withdrawing its offers under s653 (ie, after offers have been sent
+     under a Part A statement). It also explains how the withdrawal
+     should be done (para 77–87).
+ This guide supersedes NCSC Release 113. See also Policy Statement
+ 92 on Procedural Fairness to Third Parties.
+
+ RG 59.2 In this guide, references to offerors, offerees and target
+ companies include prospective offerors, offerees and target companies
+ in relation to bids which have not been and may never be made.
+ References to statutory provisions are to those in the Law unless
+ otherwise specified. References to a public announcement in the
+ context of s746 are to an announcement of an intention to make a
+ takeover bid. They are not references to an announcement effecting a
+ Part C or on-market takeover bid under s674. References to Listing
+ Rules are to those of Australian Stock Exchange Ltd (Exchange).
+
+
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                         Page 3
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ Part I: Policy of s746
+ RG 59.3 The policy of s746 is to prevent the making of irresponsible
+ public announcements by effectively imposing a duty of care on an
+ offeror in preparing to make a bid. The section does this by forbidding
+ an offeror from publicly announcing a bid unless it has taken adequate
+ measures to ensure that sufficient funds will be available and that the
+ bid can otherwise be made in accordance with the public
+ announcement. This is important because a public announcement of a
+ bid tends to affect the market in the target company’s shares. The
+ announcement may lead to a false market if the offeror:
+
+ (a) has not taken all measures necessary to ensure that it can
+     complete the bid; or
+ (b) later abandons the bid other than in accordance with the terms of
+     the public announcement.
+ RG 59.4 This is consistent with the Law’s general policy of
+ establishing and preserving the integrity of the market. The Law does
+ this by attempting to ensure that the acquisition of shares in a
+ company takes place in an efficient, competitive and informed market
+ (Gjergja v Cooper [1987] VR 167 at 215).
+
+ RG 59.5 The policy of s746 is set out in para 37 of the Eggleston
+ Committee’s Second Interim Report (28 February 1969) at page 12.
+ The same policy is set out in the City Code on Takeovers and
+ Mergers, the rules governing the conduct of takeovers in the United
+ Kingdom (City Code). General Principle 3 of the City Code states
+ that: “An offeror should only announce an offer after the most careful
+ and responsible consideration. Such an announcement should be made
+ only when the offeror has every reason to believe that it can and will
+ continue to be able to implement the offer.” See also ASC v Mt
+ Burgess Mining Co (1994) 15 ACSR 714 at 720.
+
+
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                         Page 4
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ Part II: Announcements relating to
+ takeover bids
+ When should a bid be announced?
+ RG 59.6 A bid should not be announced prematurely. However, it is
+ in the interests of an informed market that an offeror announce:
+
+ (a) its decision to make a takeover bid; and
+ (b) the terms and conditions of the bid,
+ as soon as practicable after it has made a firm decision (see Listing
+ Rule 3R(2) and compare City Code Rules 2.2 and 2.3).
+
+ RG 59.7] In general, a bid should not be announced until it will
+ definitely be made. However, if an offeror cannot maintain
+ confidentiality until that time, it should make an announcement:
+
+ (a) setting out those facts which are definite; and
+ (b) making it clear that the bid may not proceed and why.
+ The offeror should promptly announce the fact that the bid has
+ become definite (and its main terms and conditions) or has been called
+ off, as soon as either of those things happens. 1
+
+
+ What should be announced when a bid
+ is delayed or called off?
+ RG 59.8 An offeror should make a public announcement as soon as
+ possible after it:
+
+ (a) abandons or delays a bid in reliance on s746(10) or ASC relief; or
+ (b) withdraws offers relying on ASC consent (s653).
+ The announcement should explain the offeror’s change of plan and the
+ reasons for the change. When appropriate, the ASC may withhold
+ relief until this has been done or make relief conditional on this being
+ done.
+
+
+ 1
+  See para 11–31 for when the public announcement of a possible bid will trigger
+ s746, and para 32–46 on the announcement of conditional bids. See also para 4–-52
+ for when the offeror can use the defence in s746(10) after announcing a conditional
+ bid.
+
+                   © Australian Securities and Investments Commission August 1995
+                                                                          Page 5
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ How should these announcements be
+ made?
+ RG 59.9 All of the announcements discussed in para 6–8 should be
+ made by the offeror to:
+
+ (a) the Exchange if either the offeror or the target company is listed;
+     and
+ (b) the ASC.
+ A copy should also be given to the target company.
+
+ RG 59.10      The ASC considers it to be best practice for an offeror
+ to make these announcements. An offeror which does not make them
+ may also breach the Law (see s705, s995, s999, s1001A, s1001B,
+ Listing Rule 3A(1) and Listing Rule 3R).
+
+
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                         Page 6
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ Part III: How does s746 work?
+ RG 59.11      Section 746 works by creating two offences. First,
+ s746(2) prohibits a person from making a public announcement that
+ the person proposes to make a takeover bid (whether by takeover
+ scheme or takeover announcement), if the person:
+
+ (a) knows the public announcement is false or is recklessly
+     indifferent to its truth or falsity; or
+ (b) has no reasonable grounds for believing that the person will be
+     able to fulfil the obligations under the bid if a substantial
+     proportion of the offers are accepted.
+ RG 59.12        The Law does not state how many shares are a
+ “substantial proportion” for the purpose of s746(2)(b). The ASC
+ considers that it means any significant proportion of the shares in the
+ target company. This is consistent with the policy of ensuring that the
+ market is not distorted by a potential offeror indicating an intention to
+ bid before it is reasonably sure that it is able to go ahead. The ASC
+ will consider prosecuting any offeror which should have known that it
+ might not have been able to provide the consideration under the bid.
+ This may mean, for example, that the public announcement should
+ foreshadow conditions corresponding to those which a lender would
+ impose.
+
+ RG 59.13       The second offence is created by s746(4). That
+ subsection provides that a person who makes a public announcement
+ of a proposed takeover bid must make a bid for shares in that
+ company. The bid must be made in accordance with the public
+ announcement. It must also be made within two months or such
+ further period as the ASC permits in writing. This is the case even if:
+
+ (a) the offeror announces that the bid will be subject to a specified
+     condition (ie, a precondition or defeating condition); and
+ (b) the condition is not satisfied until after the announcement has
+     been made.
+ RG 59.14      Subsections 746(2) and 746(4) apply to joint public
+ announcements and public announcements of joint bids (see also
+ s608). The fact that one notice is a public announcement does not
+ exclude subsequent notices from also being public announcements
+ (TNT Australia Pty Ltd v Normandy Resources NL (1989) 1 ACSR 1
+ at 26).
+
+
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                         Page 7
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ What announcements trigger s746?
+ RG 59.15      Section 746 applies if a person makes a public
+ announcement that it proposes to make a takeover bid. This means
+ that an announcement only triggers s746 if it satisfies three tests.
+
+
+ Announcement made public
+ RG 59.16       The first test is that the announcement must be public.
+ This will be the case if it obtains even restricted publicity or is given
+ to someone who will publish it in due course (see TNT Australia Pty
+ Ltd v Normandy Resources NL (1989) 1 ACSR 1 at 26–27 and ASC v
+ Mt Burgess Mining Co (1994) 15 ACSR 714). Examples are a notice
+ lodged with the Exchange and a Part A statement registered by the
+ ASC. A Part A statement becomes public on registration because it
+ can be inspected by the public at that time (s1274(2)(a)) and ASC
+ Alert may tell people immediately. A notice may also be made public
+ by being published overseas in such a way that its contents become
+ known in Australia (s110D).
+
+
+ Announcement made by the offeror
+ RG 59.17    The second test is that the announcement must have
+ been made public by the prospective offeror.
+
+ RG 59.18       The second test is satisfied when an announcement is
+ published as the ordinary result of having been communicated
+ privately. For example, a communication to a director of a possible
+ target company will trigger s746 if:
+
+ (a) the company is a disclosing entity; and
+ (b) the communication is sufficiently definite to constitute a notice of
+     an intention to make a takeover bid.
+ This is because a company which receives a notice of this kind must
+ immediately give copies to the Exchange if it is listed and to the ASC
+ if it is not. (See Listing Rules 3A(1) and 3R(2), s1001A, s1001B and
+ ASC v Mt Burgess Mining Co (1994) 15 ACSR 714.)
+
+ RG 59.19       The second test is not satisfied by:
+
+ (a) a confidential communication to a director of a possible target in
+     the course of discussions which may lead to a bid being made,
+     when the communication is not sufficiently definite (see
+     para 18(b));
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                         Page 8
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ (b) a confidential application to the ASC for relief regarding a
+     contemplated bid, or consultation with an affected person in
+     confidence about that application; or
+ (c) a genuinely private communication (eg, a confidential
+     communication to an advisor) which is published without
+     authority and promptly retracted.
+ Although these communications do not trigger s746, the offeror may
+ still have to make an announcement to the market explaining its
+ intentions (see Listing Rule 3A(1), s1001B and para 7).
+
+
+ Announcement that the offeror proposes to bid
+ RG 59.20      The third test is that the offeror must announce that it
+ proposes to make a takeover bid. This means that s746 may be
+ triggered even if the announcement does not:
+
+ (a) contain details of the consideration or other terms to be offered; or
+ (b) announce a definite intention to bid.
+ RG 59.21       This is because the word “propose” allows something
+ less than a fixed and settled intention which is not likely to be
+ changed: Commerce Commission v Fletcher Challenge Ltd [1989] 2
+ NZLR 545 at 606–607, Hooker Rex P/L v SA Land Commission
+ (1976) 14 SASR 63 at 68–70 and Ex parte Christensen [1984] 1 Qd R
+ 382 at 387. The idea must have gone past the mere discussion stage. It
+ must involve something more than a mere inward thought, or a
+ tentative, vague and unsettled notion. However, the thinking or
+ discussion of the idea need not yet have resolved all relevant matters,
+ including matters of detail. The plan can also be tentative (eg, a final
+ decision has not yet been made whether or not it will proceed) or
+ contingent (eg, on obtaining the necessary finance).
+
+ RG 59.22       A broad construction of the word “propose” is necessary
+ because:
+
+ (a) a statute must not be interpreted in a way which makes it
+     ineffectual (ABC Staff Association v Bonner (1984) 54 ALR 653
+     at 658 and Gifford’s Statutory Interpretation (1990) at 68–69);
+     and
+ (b) a narrow construction would make s 746 ineffectual by allowing a
+     potential offeror to avoid the section by:
+      (i) announcing a bid but deliberately leaving some details open
+          (Commerce Commission v Fletcher Challenge Ltd [1989] 2
+          NZLR 545 at 607); or
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                         Page 9
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+      (ii) expressing its intention to bid in qualified language. For
+           example, it could say that it is contemplating making a bid, or
+           will contemplate making a bid if a certain event occurs (eg, if
+           it obtains approval from the Australian Competition and
+           Consumer Commission).
+ The broad construction is therefore necessary to achieve the policy of
+ s 746: see para 3–5.
+
+
+ How can s746(4) be satisfied?
+ RG 59.23      Subsection 746(4) requires a bid to be made in
+ accordance with a public announcement. The bid must therefore be
+ made on terms not substantially less favourable than those referred to
+ in the announcement: s746(1)(b). This means a bid on terms as
+ favourable as those announced (both as to price and as to defeating
+ conditions) except in minor or insignificant respects.
+
+ RG 59.24       Subsection 746(4) is satisfied if:
+
+ (a) a person who announces a bid causes a second person to actually
+     make the bid; and
+ (b) the second person is an associate of the first person rather than a
+     rival bidder “flushed out” by the public announcement.
+ This is because a reference to doing something includes a reference to
+ causing it to be done: s52, s746(1)(a)(ii) and the definition of “make”
+ in s9. However, this does not allow the first person to avoid other
+ liabilities which may arise under s746. For example, the first person is
+ still liable if the bid was announced without the person having
+ reasonable grounds for believing that the obligations under the bid
+ could be performed: s746(2)(b).
+
+ RG 59.25      The ASC considers that an offeror can satisfy s746(4)
+ by making a bid that is different in procedural respects from that
+ mentioned in the public announcement. For example, the offeror can
+ publicly announce a Part C bid but eventually make an unconditional
+ cash Part A bid.
+
+ RG 59.26       Similarly, it is acceptable for the bid consideration to be
+ different from but as attractive as, the consideration mentioned in the
+ public announcement. An offeror can more easily satisfy this
+ requirement when it wants to change the consideration offered from
+ scrip to cash of an equivalent value. However, it will be much harder
+ to satisfy when the offeror wants to change from cash to scrip. This is
+ because of the market’s preference for liquidity: see TNT Australia
+ Pty Ltd v Normandy Resources NL (1989) 1 ACSR 1.
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 10
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ RG 59.27       Subsection 746(4) does not necessarily require an
+ offeror which has served a Part A statement on a target company to
+ make offers under that statement. The offeror may comply with the
+ subsection by making its bid under another Part A statement (time
+ permitting). However, the terms of the bid must be as favourable as
+ those referred to in the first Part A statement: see RG 59.23.
+
+
+ What happens if s746 is breached?
+ RG 59.28      The ASC may take enforcement action if it appears that
+ the Law has been breached in relation to an announced bid. For
+ example, it may apply to the Court for orders under s1114 and 1324
+ for a suspected breach of s746(2) and 995: ASC v Mt Burgess Mining
+ Co (1994) 15 ACSR 714.
+
+ RG 59.29       Breach of s746(2) or (4) is a criminal offence
+ (s1311(1)). It also gives rise to civil liability: s746(8) and 746(9).
+ However, a mandatory injunction to force the bid to proceed cannot be
+ obtained under s1324: s746(11). Nor can it be obtained as a remedial
+ order: s613.
+
+ RG 59.30       The prescribed penalty for the offence created by
+ s746(2) is the heaviest under Ch 6. It aligns that offence with the
+ market manipulation offences in Div 2 of Pt 7.11. The mental element
+ of the offence is:
+
+ (a) the awareness that the bid may not proceed as announced for
+     whatever reason; or
+ (b) the absence of reasonable grounds to believe that the offeror will
+     be able to meet its obligations.
+ Conduct which breaches s746(2) will usually breach s999 as well.
+
+ RG 59.31       An offeror can apply to the ASC for relief from s746.
+ That relief will rarely be given and cannot be given after the section
+ has been breached (para 69–75). The only exception is that the ASC
+ can extend the time limit in s746(4) after it has expired (s70). The
+ offeror can also apply to the ASC for a no-action letter, although these
+ will rarely be given (para 76). The ASC does not have a special power
+ to consent to a bid not being made.
+
+
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 11
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ Part IV: Conditional bids
+ RG 59.32       An offeror generally assumes the risks of publicly
+ announcing a bid unless it anticipates those risks by announcing that it
+ intends to make a bid subject to specified conditions. This part
+ explains why that presumption applies and what results it can have. In
+ this part, “specified conditions” refers to conditions which are
+ specified in the public announcement of a bid. It includes
+ preconditions (ie, the bid will only be made after a certain event
+ occurs) and defeating conditions.
+
+
+ Why does the presumption apply?
+ RG 59.33       The presumption applies because:
+
+ (a) a false market may arise if the offeror is able to abandon the bid
+     other than in accordance with the terms of its public
+     announcement (para 3–5);
+ (b) the offeror must make a bid on terms and conditions as favourable
+     as those publicly announced (s746(1)(b), 746(4) and para 23);
+ (c) the offeror can avoid having to make an announced bid if
+     specified conditions are not satisfied and it can make out the
+     defence in s746(10) (para 56 and 57); and
+ (d) the offeror will be liable if it announces a bid without reasonable
+     grounds for believing that it will be able to perform obligations
+     arising from the bid if a substantial proportion of its offers are
+     accepted (s746(2)(b) and see para 12). It will also be liable if it
+     later introduces conditions which are uncertain or unlikely to be
+     fulfilled. Those conditions will tend to make the offers illusory
+     (see para 36 and s662(2)).
+
+
+ Results of presumption
+ RG 59.34      By way of example, the presumption can lead to the
+ following results.
+
+
+ Bid announced as being subject to specified
+ conditions
+ RG 59.35      An offeror announces a bid to be made subject to
+ specified conditions. The market is entitled to assume that the offeror
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 12
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ has mentioned all of the conditions to the bid in its announcement
+ (ie, that no other conditions will apply to the bid). A false market will
+ arise if the offeror can add other conditions later. Section 746 will
+ therefore be infringed if:
+
+ (a) the specified conditions are satisfied but the bid is not made at all;
+     or
+ (b) when the bid is made, it is subject to some condition not
+     mentioned in the public announcement.
+
+
+ Conditional bid announced but conditions
+ unspecified
+ RG 59.36       An offeror announces a conditional bid but does not
+ specify the relevant conditions. Defeating conditions may be included
+ in the takeover offers when they are made. This is because the market is
+ on notice that unspecified conditions will be introduced. Section 746
+ will be infringed, however, if the offeror attempts to avoid having to
+ complete the bid by introducing conditions which are not reasonably
+ capable of satisfaction.
+
+
+ Bid announced with no mention of conditions
+ RG 59.37       An offeror announces a bid but does not mention any
+ conditions. Section 746 will not be infringed if the bid is made subject
+ to conditions which the market would anticipate as a matter of course
+ in a bid of the kind announced. For example, s746 is not infringed if:
+
+ (a) an offeror announces a Part A bid and does not mention any
+     defeating conditions; and
+ (b) the takeovers offers are conditional, but only as to prescribed
+     occurrences and the offeror obtaining control (ie, more than 50%
+     acceptances).
+ RG 59.38       The ASC will not give advice as to other conditions it
+ will accept for this purpose, whether in general terms or in relation to
+ particular cases. This is because the ASC cannot predict:
+
+ (a) what conditions the market will anticipate; or
+ (b) how the market will understand or misunderstand a public
+     announcement.
+ An offeror should err on the side of caution in announcing a bid which
+ will be subject to conditions. This is because the offeror is responsible
+ for the consequences of its public announcement.
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 13
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ Unconditional bid announced
+ RG 59.39       An offeror announces an unconditional bid. Section 746
+ will be infringed if the offeror subsequently makes the bid subject to
+ any defeating condition.
+
+ RG 59.40      Some offerors regard it as commercially attractive to
+ announce that their bids will be unconditional. That is a commercial
+ decision which they are entitled to take but they must also take the
+ consequences of their decision. The factors which make an
+ unconditional bid attractive will contribute to a false market if
+ conditions are later introduced and the offeror does not proceed with
+ the bid because the conditions are not met.
+
+
+ When should an offeror specify conditions when
+ announcing a bid?
+ RG 59.41       An offeror which will only be able to make a bid if a
+ certain event occurs should state in its public announcement that this
+ event is a precondition or defeating condition of the bid. It should also
+ ensure that the condition is clearly explained and sufficiently definite
+ (see s662(2)).
+
+ RG 59.42       Consider the example of an offeror which will only be
+ able to make a bid if it obtains approval under the Foreign
+ Acquisitions and Takeovers Act 1975 (Cth), Banks (Shareholdings)
+ Act 1972 (Cth), Broadcasting Act 1942 (Cth), Trade Practices Act
+ 1974 (Cth). Alternatively, the offeror may only be able to bid lawfully
+ if it gets ASC relief (eg, relief to extend s629 to a takeover made
+ under an overseas regime).
+
+ RG 59.43       When announcing its bid, the offeror should say that the
+ approval is a precondition or defeating condition of the bid. It may
+ otherwise be liable as follows.
+ (a) The offeror may be liable under s746(2) because it knows or
+ should reasonably know that it can only proceed with the bid if it gets
+ the approval. In other words, if the offeror announces the bid without
+ making it conditional on getting the approval, the offeror may have
+ breached the subsection by:
+
+      (i) making a false announcement or making an announcement
+          with reckless indifference as to whether it is true or false
+          (s746(2)(a)); or
+      (ii) announcing a bid without reasonable grounds for believing
+           that it will be able to perform its obligations under the bid if a
+           substantial proportion of its offers are accepted (s746(2)(b)).
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 14
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+      An offeror which announces a takeover bid which it may not be
+      able to complete because of a foreseen risk, therefore comes
+      within the words of s746(2). But if the announcement adequately
+      discloses that risk, it comes within an implied exception to
+      s746(2) (see also para 7).
+ (b) The offeror may also be liable under s746(4) if it fails to make the
+     bid because the approval is not obtained (see para 56–59).
+
+
+ Bid subject to preconditions and time limit in
+ s746(4)
+ RG 59.44       Without relief, an offeror has to make a bid “before the
+ end of 2 months after the day on which the announcement was made”
+ (s746(4)). This is the case even if the offeror announces that the bid
+ will be subject to a specified precondition. If the precondition cannot
+ be satisfied within that time, the offeror has to apply to the ASC for
+ relief (see para 69–76).
+
+ RG 59.45       The ASC will only give relief if the announcement of
+ the bid specifies when the condition is likely to be satisfied and why
+ (see also s705, 765 and 995). Relief will be conditional on the offeror:
+
+ (a) keeping the market informed (see para 6–10); and
+ (b) using its best endeavours to ensure that the condition is satisfied
+     within the specified time (see also para 56(c)).
+ RG 59.46      Subsections 746(2) and 746(4) do not prohibit an
+ offeror from mentioning conditions which are not fundamental when
+ announcing a bid.
+
+
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 15
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ Part V: When does the defence in
+ s746(10) apply?
+ RG 59.47        Subsection 746(10) gives an offeror a defence against
+ the offeror’s liability to pay compensation under s746(8) for a breach
+ of s746. It also provides a defence against a prosecution for breach of
+ s746(4), but not against a prosecution for breach of s746(2).
+
+ RG 59.48      To rely on the defence, the offeror has to make out the
+ elements in s746(10).
+
+
+ Changed or newly discovered
+ circumstances
+ RG 59.49       The first element is that there must have been either:
+
+ (a) a change in circumstance after the public announcement was
+     made, over which the offeror had no control (BT Australia Ltd v
+     Bell Bros Pty Ltd (1981) 27 SASR 557), that is, a change in
+     circumstance not caused by the offeror; or
+ (b) circumstances existing when the announcement was made, of
+     which the offeror was not aware and could not reasonably have
+     been expected to have been aware.
+ RG 59.50       This means that an offeror cannot establish the defence
+ by relying on pre-existing circumstances which it could have
+ discovered by making usual inquiries. A failure to make these usual
+ inquiries may also attract s746(2). Nor can the offeror rely on
+ s746(10) if it does not proceed with the bid simply because it has
+ changed its mind; eg, changing its evaluation of relevant
+ circumstances or the inferences which it has drawn from those
+ circumstances.
+
+
+ Unreasonable to expect offeror to
+ proceed
+ RG 59.51        The second element is that, as at the time that the bid is
+ abandoned, it must be unreasonable to expect the offeror to proceed
+ with the bid (either within the two month time limit or at all). In
+ particular, it must be unreasonable because of the changed or newly
+ discovered circumstances.
+
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 16
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ RG 59.52] It is normally reasonable to expect an offeror to proceed
+ with an announced bid. This is based on the policy of s746 (para 3–5).
+ It is also based on the fact that:
+
+ (a) an offeror can choose the time and content of its public
+     announcement, and include any conditions it thinks prudent or
+     desirable; and
+ (b) the balance of convenience normally favours requiring the offeror
+     to bid because:
+      (i) if the offeror does not make a bid, offerees lose the chance to
+          sell at the bid price. However, they will have no effective
+          recourse if it later emerges that the bid should have
+          proceeded; and
+      (ii) if the bid proceeds despite a possibility that contracts
+           resulting from acceptances will be voidable, the offeror can
+           protect itself by applying for court orders setting aside the
+           contracts. In most cases, the cost of applying for those orders
+           will be less than the overall opportunity cost to offerees of the
+           offers being abandoned.
+ The ASC will therefore not be easily persuaded that the offeror can
+ prove the second element of the defence in s746(10). This is relevant
+ when it is considering whether to take enforcement proceedings.
+
+
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 17
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ Part VI: When is it unreasonable to
+ expect an offeror to proceed?
+ RG 59.53       There are four classes of cases in which it is
+ unreasonable to expect an offeror to proceed with an announced bid.
+ This is the second element of the defence in s746(10) (para 51 and
+ 52).
+
+
+ Making the bid would be futile
+ RG 59.54       The first class of cases is where it would be futile to
+ make offers under the bid because enforceable contracts would not
+ result from acceptances of the offers. Examples are when the contracts
+ would be frustrated or subject to unsatisfied defeating conditions. In
+ those situations, the cost of making the offers would be thrown away
+ without any corresponding benefit to offerees.
+
+
+ Contracts would be frustrated
+ RG 59.55       The City Panel on Takeovers and Mergers (the body
+ responsible for administering the City Code) “would normally require
+ some circumstance of an entirely exceptional nature, and amounting to
+ something of the kind that would frustrate a legal contract” to justify
+ an offeror failing to bid in accordance with a public announcement.
+ Similarly, s684 deems offers under a Part C bid to be withdrawn if the
+ offeror is:
+
+ (a) a natural person who dies, becomes bankrupt or is declared
+     incapable of managing his or her affairs; or
+ (b) a company which has been put into certain kinds of external
+     administration.
+ The ASC will apply this policy by analogy to s746(10) as the occasion
+ arises.
+
+
+ Contract would be subject to unsatisfied
+ conditions
+ RG 59.56       An offeror can use the defence in s746(10) if:
+
+ (a) an event occurs between the public announcement of a takeover
+     bid and the making of offers under that bid, which triggers a
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 18
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+      specified precondition or specified defeating condition (see
+      para 35);
+ (b) the event was not caused by the offeror (eg, failing to take action
+     required to fulfil the conditions); and
+ (c) the condition and its failure are sufficiently certain (eg, the
+     condition is not of the type mentioned in s662(2)).
+ RG 59.57     The condition must generally be specified in the public
+ announcement. However, the offeror can fail to make the bid without
+ breaching s746(4) if:
+
+ (a) the announcement makes it possible for the offeror to make a bid
+     which is conditional as to prescribed occurrences (see para 36–
+     38); and
+ (b) a prescribed occurrence occurs before the bid is made.
+
+
+ Illegality
+ RG 59.58       The second class of cases is where it would be illegal
+ for the offeror to proceed with the bid, either within the two month
+ time limit or at all.
+
+ RG 59.59         For example, it may be illegal because permission is not
+ available under a statute which otherwise prohibits the bid (eg, the
+ Foreign Acquisitions and Takeovers Act 1975 (Cth)). The offeror must
+ still establish the first element of the defence in s746(10) (para 49). It
+ must therefore establish that the permission was not available because
+ of:
+
+ (a) a change in circumstance after the public announcement was
+     made, over which the offeror had no control (the offeror will not
+     be able to establish this if it failed to get permission because of its
+     own fault or improvidence); or
+ (b) circumstances existing when the announcement was made, of
+     which the offeror was not aware and could not reasonably have
+     been expected to have been aware.
+ If the offeror should have known that permission was required and did
+ not make this a condition of its public announcement, the defence will
+ not be available (see para 41–43).
+
+ RG 59.60        Alternatively, it may be illegal because a court order has
+ been made or an undertaking given to prevent the making of an order.
+ In this situation, however, the offeror will not have a defence if it can
+
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 19
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ comply with the court’s requirements simply by providing additional
+ information.
+
+
+ Overbid
+ RG 59.61       The third class of cases is where the offeror can no
+ longer get control of the target company; eg, because it has been
+ clearly overbid. However, the mere public announcement of a rival
+ bid at a higher price will not be sufficient for this purpose.
+
+ RG 59.62       The ASC will not require an offeror to make
+ unnecessary offers where it has been clearly overbid (see Hasbro Ltd
+ UK v Harris & Anor [1994] BCC 839). The offeror is not under an
+ obligation to cap a better offer. Further expenditure in pursuit of a bid
+ at the lower price would therefore be money thrown away. It is not
+ part of the policy of s746 that an underbidder must give a successful
+ bidder the opportunity to off load the target company. On the contrary,
+ s686 allows one bidder to sell out to a later (normally higher) bidder.
+
+ RG 59.63       In particular, the ASC may decide not to require an
+ offeror to proceed with a scrip bid if:
+
+ (a) the offeror has been overbid; and
+ (b) forcing the offeror to proceed would enable the successful bidder
+     to make a reverse takeover of the underbidder. The ASC will
+     generally treat this as unacceptable if it is clear that control would
+     pass to the successful bidder (see para 85).
+ RG 59.64       If a rival bidder makes offers at a higher price but with
+ other features which are less attractive (eg, scrip consideration,
+ defeating conditions or a partial offer), the ASC may require the first
+ bidder to proceed. This is so that the choice between the offers is left
+ to the market and not made by the ASC (see para 84 and 85).
+
+
+ Change in commercial circumstances
+ RG 59.65       The fourth class of cases is when there is a change (or a
+ newly discovered change) in the commercial circumstances making it
+ unreasonable to require the offeror to proceed with a bid. This must be
+ a change which directly affects either the offeror or the target
+ company. One example is where intervention by a government
+ authority destroys the commercial benefits to the offeror of an
+ otherwise successful bid. Another example is where there has been a
+
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 20
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ change in the fundamental nature of the target or the fundamental
+ basis for the target’s attractiveness to the offeror.
+
+
+ Is a material change in target’s financial position
+ sufficient?
+ RG 59.66       It will usually be reasonable to expect an offeror to
+ proceed with its bid even if a material adverse change in the target’s
+ financial position has occurred or is reported. This is because the
+ offeror voluntarily assumes the risk of an adverse change in the
+ target’s financial position, when publicly announcing the bid
+ (para 52).
+
+ RG 59.67        An offeror has access to at least as much information
+ about the target company as most shareholders in the target, and
+ probably has greater skills in interpreting that information. This
+ suggests that the offeror and not the shareholders should accept the
+ risk that the target company may be worth less than it seems to be.
+ This will particularly be the case if the offeror has special access to
+ information about the target.
+
+ RG 59.68      However, it may be unreasonable to expect the offeror
+ to proceed with its bid if it had announced that the bid would be
+ conditional on there being no such change (see Garden City Shopping
+ Centre Pty Ltd v Woolworths Ltd (1983) 1 ACLC 801) and either:
+
+ (a) no-one could have foreseen the relevant change; or
+ (b) the offeror ignored the risk of the change on reasonable grounds
+     (eg, because of information given to it by the target company).
+ This is an example of the general position regarding conditional
+ announcements (see para 32–43).
+
+
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 21
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ Part VII: When will the ASC give
+ relief from s746?
+ Relief from obligation to bid
+ RG 59.69         The ASC doubts that a proper case will ever arise to
+ justify relief from s746(2). This is because the policy of the subsection
+ is to prevent the manipulation or disruption of the market by
+ irresponsible or deceptive announcements (para 3–5).
+
+ RG 59.70       The ASC will not grant relief under s728 or s730 or
+ extend time under s746(4), if an offeror merely claims that it cannot
+ reasonably be expected to make a bid at all. The reason is that the
+ offeror already has a defence under s746(10). While relief would
+ bolster that defence, it would also deprive an offeree of a possible
+ civil action under s746(8). The ASC would also be imposing its
+ judgement on a matter which should properly be determined by the
+ Court.
+
+
+ Extension of time limit in s746(4)
+ RG 59.71       The ASC can extend the two month time limit under
+ s746(4), s728 or s730. This can even be done after the two month time
+ limit expires if relief is given under s746(4) (s70). The ASC may
+ impose conditions on the relief. These may be conditions imposed on
+ an exemption (s728), preconditions (s746(4)), or obligations written
+ into a modification (s730).
+
+ RG 59.72       The ASC will not extend the time limit when it is
+ reasonable to require the offeror to proceed without delay. This is
+ because the policy of s746(4) is to prevent a bid being withheld for an
+ unreasonably long time after it is publicly announced (ie, more than
+ two months), while prospective offerees take or abstain from action in
+ reliance on the announcement.
+
+ RG 59.73        However, the ASC will generally extend the time limit
+ if an offeror is held up due to reasons beyond its control and not its
+ own fault or improvidence. For example, the offeror may be prevented
+ from dispatching offers by an interim injunction which will continue
+ until a court challenge to the Part A statement is resolved. If the
+ offeror can get the interim injunction lifted by making additional
+ disclosures, the ASC will only extend the time limit for long enough
+
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 22
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ to enable the offeror to include those disclosures in the Part A
+ statement.
+
+ RG 59.74       The ASC may also extend the time limit if this would
+ benefit offerees by allowing them to have all of the relevant
+ information given to them at the same time. For example, it may give
+ relief to enable a Part B statement or other additional information to
+ be dispatched with, or included in, the Part A statement.
+
+ RG 59.75        If takeover documents have been registered, an
+ extension of time under s746(4) does not affect the time allowed for
+ their dispatch. The time allowed is up to seven weeks from
+ registration: three weeks to serve (s637(1)). See Superseded Policy
+ Statement 57 [SPS 57.32]–[SPS 57.35] for when the ASC will extend
+ that time.
+
+
+ No-action letter
+ RG 59.76       The offeror may apply to the ASC for a no-action letter
+ if it has not made or will not be making a bid within the two month
+ limit (s746(4)). The ASC will only consider giving a no-action letter if
+ the offeror clearly makes out that:
+
+ (a) it has kept the market informed; and
+ (b) s746(10) applies.
+ No-action letters will rarely be given (see Regulatory Guide 108).
+
+
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 23
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ Part VIII: Withdrawal of offers
+ (s653)
+ RG 59.77       Parts I–VII of this guide have concerned the conduct of
+ a potential offeror before it makes a takeover bid; ie, before it makes
+ offers to offerees. This part is about how an offeror making a Part A
+ bid can withdraw takeover offers after they have been sent to offerees.
+ This guide does not specifically address how an offeror can withdraw
+ offers made under a Part C bid (see s684). However, if the offeror
+ applies for ASC consent to the withdrawal under s684(7), the ASC
+ will consider similar policy to that discussed in para 80–83.
+
+ RG 59.78       A purported withdrawal of a takeover offer is
+ ineffective unless the ASC has given its written consent (s653). That
+ consent may be given subject to any conditions specified. The ASC
+ considers that the offeror has a positive obligation to meet these
+ conditions if it purports to rely on the consent (s104 and 653). If the
+ offeror does not meet the conditions, the ASC may apply to the Court
+ for orders (s739(2)).
+
+ RG 59.79       Withdrawing outstanding offers brings forward the close
+ of the offer period. If the offers are still conditional, this will accelerate
+ the application of s663(9) and invalidate contracts resulting from
+ accepted offers. Whether or not the offers are conditional, it will also
+ bring forward the end of the restriction imposed by s686. Section 653
+ does not appear to change the common law position that an offer cannot
+ be withdrawn after acceptance.
+
+
+ When will the ASC give consent under
+ s653?
+ RG 59.80       Before giving consent, the ASC will consider similar
+ matters to those discussed above as to when an offeror can avoid
+ having to make offers in accordance with the public announcement of
+ a bid (s746(10)). Those matters are set out in para 47–68 (especially
+ note para 52).
+
+ RG 59.81        The weight to be given to those matters in the context of
+ s653 is much the same as in the context of a public announcement.
+ However, even more market disruption may result from the
+ withdrawal of offers which have already been made than from a
+ failure to make offers in accordance with a public announcement. The
+ reason is that if unconditional offers are withdrawn, offerees who
+ accept before the withdrawal are better off than offerees who do not.
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 24
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ This is because an offer cannot be withdrawn after it has been
+ accepted. However, that is a difference of degree and not of kind. If a
+ false market results from the public announcement of a bid which
+ does not eventuate, some shareholders may receive a similar windfall
+ by selling on market.
+
+ RG 59.82      The balance of convenience (see para 52(b)) is strongly
+ against the ASC consenting to the withdrawal of offers when the
+ application for relief is based on the fact that the cost to the offeror of
+ continuing the bid would be thrown away. The ASC will only consent
+ to a withdrawal of offers in that situation if:
+
+ (a) it is a practical certainty that the cost to the offeror of continuing
+     the bid would be thrown away; and
+ (b) significant costs are still accruing to the offeror while the bid
+     continues.
+ Otherwise, the ASC would be imposing its judgment on a matter
+ which should properly be determined by the Court.
+
+ RG 59.83       The ASC may make its consent to the withdrawal of
+ offers conditional on the offeror disposing of any shares it has
+ acquired under either the bid or s620.
+
+
+ Will the ASC give consent if the offeror
+ is overbid?
+ RG 59.84       The ASC may consent to the withdrawal of offers which
+ have been overbid (see also para 61–64). If the offers are still
+ conditional, the relief will:
+
+ (a) bring forward the close of the offer period and accelerate the
+     application of s663(9); and
+ (b) in turn, allow scrip in the target company to be returned to
+     accepting shareholders in time for them to accept the higher rival
+     bid.
+ RG 59.85       In particular, the ASC may consent where the
+ consideration under the original offers is shares in the underbidder.
+ This is so as to prevent unacceptable changes in the underbidder’s
+ own register.
+
+
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 25
+REGULATORY GUIDE 59: Announcing and withdrawing takeover bids (s653 and s746)
+
+
+
+
+ How should an offeror withdraw
+ takeover offers?
+ RG 59.86      The legislation does not directly regulate the withdrawal
+ of a takeover offer (compare s21 of CASA as originally enacted).
+ Under common law principles, the offeror must undoubtedly bring the
+ withdrawal to the attention of offerees. The ASC will also impose
+ conditions specifying how the offeror must deal with the
+ consequences of the withdrawal as regards offerees, the target
+ company and the market.
+
+ RG 59.87       The ASC will normally require a notice of withdrawal
+ to be given in the same way as a notice of a variation (see s657(1)). It
+ will also require the offeror to send a copy of the notice to the
+ Exchange if either the offeror or the target company is listed.
+
+
+ Applications
+ RG 59.88       An application under this release may be lodged with
+ any Regional Office. If a bid has already been made, the application
+ will normally be referred on to the Regional Office handling that
+ takeover. In most cases, this will be the office where the offeror
+ lodged the takeover documents. It will therefore be quicker to apply
+ directly to that office.
+
+
+
+
+                  © Australian Securities and Investments Commission August 1995
+                                                                        Page 26
+

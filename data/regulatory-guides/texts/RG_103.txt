@@ -1,0 +1,892 @@
+REGULATORY GUIDE 103
+
+Confidentiality and release of
+information
+ASIC Law
+Issued 27/11/1995
+Updated 26/2/1996
+
+From 5 July 2007, this document may be referred to as Regulatory
+Guide 103 (RG 103) or Policy Statement 103 (PS 103). Paragraphs in
+this document may be referred to by their regulatory guide number
+(e.g. RG 103.1) or their policy statement number (e.g. PS 103.1).
+
+Editor’s note: This guide replaces Superseded Policy Statement 17
+[SPS 17], Superseded Policy Statement 78 [SPS 78], and the memo
+“Section 127 of ASIC Law and liaison with other government agencies”.
+
+
+Headnotes
+ASIC Law s13, 18, 19, 25, 26, 28, 37, 49, 50, 68, 69, 76-83, 127,
+127A; Corporations Law s313, 477(3), 788, 815 and 1181;
+confidentiality; authorised use and disclosure; reputation; procedural
+fairness; examinations and transcripts of examinations and related
+books; documents obtained under notice; compulsory powers;
+Director of Public Prosecutions; liquidators; Australian Stock
+Exchange Ltd; Sydney Futures Exchange Ltd; costs; Johns v ASC; Ex
+parte Wardley; Marcel v Commissioner of Police; NCSC v News
+Corporation; Re Pergamon Press; Re Mining Houses of Australia; Re
+Arrows Ltd (No 4); Rank Film Distributors v Video Information
+Centre; Jarrett v Seymour; Martin v Pharmacy Restructuring
+Authority; Pharmacy Restructuring Authority and Anor v Martin;
+FCT v Nestle; Smith Kline & French Laboratories (Australia) Ltd and
+Ors v Secretary, Department of Community Services and Health;
+Shapowloff v Stirling Henry Ltd (in liq.).
+
+             © Australian Securities and Investments Commission February 1996
+                                                                       Page 1
+             REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+               Contents
+                        Purpose .........................................................................2
+               Part I: Confidentiality.............................................................3
+                      Information obtained under the co-operative scheme...5
+               Part II: ASIC’s disclosure powers ........................................6
+                      Release of transcripts and related books ......................6
+                      Release of books produced under notice or warrant ....7
+                      Disclosure permitted or required by other laws.............8
+                      Disclosure for ASIC’s functions .....................................8
+                      Disclosure to other agencies .........................................9
+                      Disclosure to securities exchanges and futures
+                      exchanges .....................................................................9
+               Part III: Procedural fairness ..................................................11
+                      Generally .......................................................................11
+                      Matters affecting ASIC’s procedural fairness
+                      obligations .....................................................................12
+                      Extent of procedural fairness obligations in certain
+                      circumstances................................................................14
+               Part IV: Applications..............................................................18
+                     Generally .......................................................................18
+
+
+
+
+Purpose
+RG 103.1        In this guide ASIC indicates the practices it will adopt
+in relation to the disclosure of information obtained by the exercise of
+its compulsory powers. The practices are adopted in the light of the
+High Court’s decision in Johns v ASC (1993) 178 CLR 408.
+
+RG 103.2      This guide is divided into the following parts:
+
+(a) Part I describes ASIC’s confidentiality obligations, in particular
+    s127 of ASIC Law and the Johns v ASC case (RG 103.4–
+    RG 103.14);
+(b) Part II outlines the operation of the various disclosure powers of
+    ASIC (RG 103.15–RG 103.28); and
+(c) Part III discusses how ASIC will carry out its procedural fairness
+    obligations (RG 103.29–RG 103.53).
+RG 103.3   In this guide, references to provisions are references to
+ASIC Law unless otherwise specified.
+
+
+
+
+              © Australian Securities and Investments Commission February 1996
+                                                                        Page 2
+                      REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+Part I: Confidentiality
+         RG 103.4      ASIC must take reasonable measures to prevent
+         unauthorised use and disclosure of information it receives in
+         confidence in connection with its statutory functions: s127(1). Certain
+         uses and disclosures are taken to be authorised (s127(2)–(6)); see
+         RG 103.23–RG 103.28.
+
+         RG 103.5      Section 127 adopts, as a starting point, the equitable
+         doctrine of confidentiality under which use and disclosure of
+         information can be restrained if:
+
+         (a) the information is confidential in fact (that is, not widely
+             available); and
+         (b) ASIC has received the information under circumstances which
+             allowed its use and disclosure for limited purposes only.
+         However s127 alters the equitable doctrine in two ways. It imposes a
+         statutory obligation on ASIC to take all reasonable measures to
+         prevent unauthorised use and disclosure of confidential information. It
+         also authorises ASIC to make certain uses and disclosures of
+         information, notwithstanding that it is confidential.
+
+         RG 103.6      Dicta in Johns v ASC (1993) 178 CLR 408 suggest that,
+         like the majority in the Federal Court, their Honours read s127(1)
+         applying to information:
+
+         (a) if ASIC receives it in the course of its statutory functions
+             (whether or not in confidence); or
+         (b) if it is received in confidence (whether or not in the course of
+             ASIC’s statutory functions).
+         RG 103.7       A more natural reading of the section is that it applies
+         only to information which is received both in confidence and in the
+         course of ASIC’s functions. Their Honours did not discuss this
+         reading and ASIC does not regard the issue as finally settled. In most
+         circumstances the difference between the two readings will be less
+         than it may seem. Where ASIC receives information in confidence,
+         but outside its statutory functions, its obligations under the general
+         law of confidentiality are similar to those under s127(1).
+
+         RG 103.8       Where ASIC receives information in the course of its
+         statutory functions free from any obligation of confidence, use or
+         disclosure of the information is necessarily authorised, so s127(1)
+         does not apply in any case. It is ASIC’s view that s127(1) does not
+         impose obligations of confidentiality where the information itself is
+         not in fact confidential. Information obtained under ASIC’s
+
+                       © Australian Securities and Investments Commission February 1996
+                                                                                 Page 3
+             REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+compulsory powers will not necessarily be confidential. Thus, for
+example, if under one of its compulsory notices ASIC obtains a file of
+newspaper clippings, the fact that the clippings were obtained
+compulsorily does not mean that the information in the clippings
+becomes confidential when it has already been publicly disclosed.
+(The existence and composition of the file might be confidential,
+however.)
+
+RG 103.9        Nor does s127 impose an obligation on ASIC not to
+disclose information in circumstances where the relationship between
+the person who provided the information to ASIC and the person to
+whom ASIC discloses it is such that no obligation of confidentiality
+can arise. For example, if ASIC learns some sensitive business
+information about a company in the course of an examination, and the
+liquidator of the company wants access to that information, ASIC
+owes the company no duty to withhold the information from the
+liquidator, as the company itself has no right to withhold any of its
+confidences from the liquidator. (However, it may be that a person
+other than the company is owed a duty of confidentiality with respect
+to the same information.)
+
+RG 103.10 ASIC (and its staff) may be provided with information
+which is confidential in two ways:
+
+(a) voluntarily — for example, information provided in support of
+    applications for discretionary relief and in respect of some
+    complaints of alleged breaches of the law; and
+(b) under compulsion — for example, under a notice to produce
+    documents or during the course of an examination. (Compulsory
+    powers for purposes relating to investigations are set out in Pt 3 of
+    ASIC Law. Information may also be compulsorily obtained for
+    purposes other than an investigation under various provisions of
+    ASIC Law (such as the hearings power in Div 6 of Pt 3 and s49)
+    and the Corporations Law (such as s313 and s788).)
+RG 103.11 In Johns v ASC (1993) 178 CLR 408 the High Court
+held that ASIC is authorised to use and disclose information for the
+purposes for which it was obtained under ASIC Law or the
+Corporations Law. Accordingly, if ASIC obtains information with a
+view to instituting criminal, civil or administrative proceedings, the
+use of the information in those proceedings is authorised use and any
+disclosure incidental to the proceedings is authorised disclosure.
+
+RG 103.12 Under equitable principles, ASIC would be able to use
+confidential information it obtained either voluntarily or compulsorily
+only for the purposes for which it was obtained, unless some other use
+was impliedly or expressly authorised by the person who provided it,
+
+              © Australian Securities and Investments Commission February 1996
+                                                                        Page 4
+             REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+or the disclosure was to a person who was legally entitled to the
+information. Section 127 extends the purposes for which ASIC may
+use information it has obtained.
+
+RG 103.13 The Court in Johns v ASC (1993) 178 CLR 408
+emphasised that s127 does not restrain ASIC from making authorised
+use and disclosure of information. Section 127(3) makes it clear that
+ASIC may use confidential information in its possession for any of its
+functions and powers. In addition to the authorised uses specified in
+s127(2), (3), (4) and (4B), ASIC Law also specifically provides
+(s127(6)) that nothing in any of these sections is to limit what might
+otherwise constitute authorised use or disclosure. For example, ASIC
+is entitled to rely on actual authorisation given by the person affected.
+
+
+Information obtained under the co-
+operative scheme
+RG 103.14 Information which was obtained under the co-operative
+scheme laws and which has since been provided to ASIC is affected
+by s127A: see s127(7). The nature of the obligation and the test for
+release are different. Section 127A imposes a prohibition on
+unauthorised disclosure rather than a positive duty to prevent
+unauthorised use or disclosure as with s127. Additionally, the
+categories of disclosure of confidential information which are
+permitted in s127A are markedly different to those in s127. However,
+the content of procedural fairness in relation to proposed releases is
+the same. ASIC proposes to administer s127A consistently with s127,
+as far as possible.
+
+
+
+
+              © Australian Securities and Investments Commission February 1996
+                                                                        Page 5
+                        REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+Part II: ASIC’s disclosure powers
+         RG 103.15 ASIC has express power under s25, 37 and 127 to
+         disclose certain information for certain purposes. ASIC will exercise
+         its powers and functions in the light of the decision of the High Court
+         in Johns v ASC (1993) 178 CLR 408 and other authorities and, where
+         there are no decisions, analogies from the decided cases. ASIC’s
+         powers may be exercised either on the application of a relevant party
+         or at the discretion of ASIC. The following paragraphs outline the
+         nature of each of these powers.
+          [Historical note: RG 103.15 amended 26/2/1996 by adding before the last sentence
+         the words, “ASIC’s powers may be exercised either on the application of a relevant
+         party or at the discretion of ASIC”.]
+
+
+         Release of transcripts and related
+         books
+         RG 103.16 ASIC may release transcripts or related books as an
+         authorised disclosure under s127 or under s25(1). Under s25(1) ASIC
+         may release transcripts of examinations conducted by it under s19 and
+         related books to a person’s lawyer if the lawyer satisfies ASIC that the
+         person is carrying on, or is contemplating in good faith, a proceeding in
+         respect of a matter to which the examination related. Subsection 25(2)
+         limits the use which may be made of copies released under s25(1).
+         ASIC may also impose additional conditions on the release of
+         documents: see RG 103.37. In ASIC’s view plaintiffs/applicants and
+         defendants/respondents to an action are entitled to apply for transcripts
+         as well as intending plaintiffs and applicants: see Wardley v ASC (1991)
+         9 ACLC 1565.
+
+         RG 103.17 ASIC considers that the words “related books” refer to
+         documents formally identified and incorporated in the record of
+         examination, and also to documents referred to directly or indirectly in
+         the record which would help people to understand the record. For
+         example, if an officer of a company refers to a meeting which
+         occurred on a particular day, the minutes of that meeting would
+         constitute a related book.
+
+         RG 103.18 In exercising its discretion as to whether it should
+         release copies of transcripts using the power in s25(1), ASIC:
+
+         (a) must be satisfied that the person is carrying on, or contemplating,
+             a proceeding;
+
+
+
+
+                         © Australian Securities and Investments Commission February 1996
+                                                                                   Page 6
+             REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+(b) must be satisfied that the proceeding is in respect of a matter to
+    which the examination (or part of an examination) is related;
+(c) will consider whether any of ASIC’s enforcement requirements
+    — relating to the continued investigation, prosecution, instituting
+    or intervening in civil proceedings or taking of administrative
+    action — would be jeopardised by the release of the transcripts;
+    and
+(d) will consider whether other persons may be adversely affected by
+    the release of the transcripts (see RG 103.52).
+ASIC will also have a general discretion, taking into account factors
+such as:
+
+(a) its functions and powers;
+(b) the objects of the Corporations Law and ASIC Law;
+(c) interpretations by the court in decisions such as Wardley and
+    Johns; and
+(d) the public interest generally.
+While ASIC will take all these factors into account, in the absence of
+compelling reasons to the contrary ASIC will generally assist litigants
+by disclosing transcripts as contemplated by s25(1).
+
+RG 103.19 Section 25(3) provides ASIC with a general ability to
+release transcripts and related books. In Johns v ASC (1993) 178 CLR
+408, the High Court held that s25(3) is a machinery or facultative
+provision: it merely enables the provision of transcripts and books and
+the imposition of conditions, where the release is for a purpose
+authorised in some other way (eg by one of the provisions of s127).
+ASIC may impose conditions on releases under s25(3). A
+contravention of a condition imposed under s25(3) is an offence
+against s26.
+
+
+Release of books produced under
+notice or warrant
+RG 103.20 Section 37(4) provides that where ASIC has books
+obtained under notice or warrant it may use them, or permit the use of
+them, for the purposes of a proceeding. Section 37 is within Div 3 of
+Pt 3, and the exercise of powers within this division is prima facie to
+be exercised only for the purposes provided in s28. However, s37(4)
+appears not to be affected by s28 because s37(4) itself states the
+
+
+
+              © Australian Securities and Investments Commission February 1996
+                                                                        Page 7
+             REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+purposes for which ASIC may use the power which that subsection
+confers.
+
+RG 103.21 A person has a right to inspect documents which are in
+ASIC’s possession if the person would otherwise be entitled to inspect
+the documents (s37(7)(a)). The right may be exercised at any reasonable
+time. Thus, for example, a liquidator would be able to rely on the power
+to inspect given in s477(3) of the Corporations Law. The right to inspect
+in s37(7)(a) also includes the right to obtain copies of documents.
+
+RG 103.22 Section 37(7)(b) gives ASIC a general power to allow
+any person to inspect documents in its possession. ASIC applies the
+High Court’s conclusion on s25(3)–(7)(b), that is, it is a machinery or
+facultative power which may only be used where the inspection is for
+a purpose authorised in some other way.
+
+
+Disclosure permitted or required by
+other laws
+RG 103.23 Section 127(2) authorises use and disclosure of
+information as permitted or required under other laws of the
+Commonwealth (and prescribed laws of the states, but none have been
+prescribed). This provision authorises release for purposes to which
+other Commonwealth laws relate. These other provisions may confer
+discretions on ASIC which are wide or narrow, or no discretion at all.
+
+
+Disclosure for ASIC’s functions
+RG 103.24 ASIC can disclose information for the purposes of
+performing the functions of ASIC: s127(3). The effect of this
+subsection is that where ASIC obtains information in the course of the
+exercise of one of its statutory functions, it is entitled to use that
+information for any of its other functions and powers. This provision
+authorises release for purposes to which other national scheme law
+provisions relate which may confer discretions which are wide or
+narrow or no discretion at all. Section 127(3) is the power by which
+ASIC is authorised to disclose confidential information to the Director
+of Public Prosecutions (DPP).
+
+RG 103.25 Section 11 of ASIC Law delineates the functions and
+powers of ASIC. In general terms the functions and powers of ASIC
+are those which are conferred on it by the Corporations Law and ASIC
+Law. Subsection 1(2) sets out the broad goals for which ASIC must
+strive in performing its functions and exercising its powers. In
+
+              © Australian Securities and Investments Commission February 1996
+                                                                        Page 8
+            REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+addition to functions specifically authorised by statute (eg s815 and
+1181 of the Corporations Law) ASIC may disclose information in the
+performance of various incidental powers and duties such as fulfilling
+obligations to provide documents for administrative review processes:
+see FCT v Nestle (1986) 69 ALR 445 at 448; or providing information
+to a person for the purpose of satisfying the requirements of
+procedural fairness: Martin v Pharmacy Restructuring Authority
+(1994) 34 ALD 534 at 536.
+
+
+Disclosure to other agencies
+RG 103.26 ASIC can disclose information to Australian and
+overseas governments and their agencies, to enable or assist them to
+perform their functions and exercise their powers (s127(4)). In Johns v
+ASC (1993) 178 CLR 408, the High Court held that s127(4) specifies
+a proper purpose for which information may be released. This means
+that s127(1) does not prevent ASIC from releasing information in
+accordance with a decision properly made under s127(4). “Agency” is
+defined in s5 of ASIC Law as “an agency, authority, body or person”
+and will include most requesting parties connected with a government.
+
+
+RG 103.27 Information may be disclosed under s127(4) only if it
+would “enable or assist” the performance or exercise of a function or
+power of a government or agency. Where ASIC is aware that information
+in its possession falls within the functions or powers of a government or
+agency it will be able to determine whether this requirement has been
+met. However, in most circumstances ASIC will ask the requesting
+agency to confirm that the disclosure of the information will enable or
+assist the agency to perform or exercise one or more of its functions or
+powers: see RG 103.56. ASIC has signed Memoranda of Understanding
+with a number of Australian and overseas agencies to facilitate the
+operation of s127(4).
+
+
+Disclosure to securities exchanges and
+futures exchanges
+RG 103.28 Section 127(4B) permits disclosure to a stock market or
+futures market or a securities clearing house or the clearing house of a
+futures exchange. Disclosure is permitted where the information will
+enable or assist an exchange to monitor compliance with, enforce or
+perform functions or exercise powers under the Corporations Law or the
+
+
+
+              © Australian Securities and Investments Commission February 1996
+                                                                        Page 9
+             REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+business rules, or listing rules of the exchange. The same principles apply
+to a release under s127(4B) as to a release under s127(4).
+
+
+
+
+              © Australian Securities and Investments Commission February 1996
+                                                                      Page 10
+                      REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+Part III: Procedural fairness
+         Generally
+         RG 103.29 Use or disclosure of information for the purposes
+         mentioned above is for a proper purpose. However, if ASIC must
+         make a decision before it can use or disclose the information, a person
+         directly and materially adversely affected by the decision should
+         normally be accorded procedural fairness.
+
+         RG 103.30 The content of procedural fairness will differ widely
+         between different cases, depending on the effect on the person and the
+         use or disclosure proposed to be made. Since use or disclosure which
+         a person has authorised does not adversely affect their rights and
+         expectations, no question of procedural fairness arises before ASIC
+         may act on the authorisation. Where ASIC has no discretion whether
+         or not to release information, and thus the content of procedural
+         fairness is nil, it may be required to inform the person of the
+         forthcoming disclosure in order that the person can take whatever
+         action may be necessary to protect their interests: Marcel v
+         Commissioner for Police [1992] 1 All ER 72.
+
+
+         Person affected
+         RG 103.31 In ASIC’s view a person whose reputation or
+         confidences (among other things) would be directly adversely affected
+         is entitled to procedural fairness. The person could be affected by
+         disclosure of personal or business secrets, injury to their reputation or
+         in other ways. However procedural fairness does not oblige ASIC to
+         notify and hear every person whose economic interests may be
+         affected by a particular decision: Pharmacy Restructuring Authority
+         and Anor v Martin (1994) 53 FCR 589 at 597. The person affected is
+         not always the person who provided the information. For instance,
+         information obtained from an employee or bank may relate to the
+         affairs of the employer or the bank’s client, but not to those of the
+         employee or bank. Alternatively another person could be the subject
+         of comments by an examinee which could cause damage to their
+         reputation. In this case, ASIC would consider the interests of the
+         person affected and accord that person procedural fairness.
+
+
+
+
+                       © Australian Securities and Investments Commission February 1996
+                                                                               Page 11
+             REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+Matters affecting ASIC’s procedural
+fairness obligations
+
+Nature of the decision
+RG 103.32 The purpose of giving a hearing to a person potentially
+directly and materially adversely affected by an ASC decision is to
+enable that person to make submissions on how ASIC should exercise
+its discretion. There is no purpose in giving a person a hearing if the
+person’s interests would be an improper consideration in making a
+decision, or if ASIC has no discretion to exercise.
+
+RG 103.33 Even if the person affected has no right to a hearing by
+ASIC, the person’s interests should not be affected any more than is
+necessary. ASIC may impose conditions on the use which may be
+made of the information which is disclosed. It may be obliged to
+ensure that the person is informed of the proposed publication: Marcel
+v Commissioner for Police [1992] 1 All ER 72.
+
+
+Conditions
+RG 103.34 Whenever ASIC has a discretion to release confidential
+information it also has the power to impose conditions.
+Sections 127(4A) and 127(4D) provide specifically that ASIC may
+impose conditions in relation to releases under s127(4) and 127(4B)
+respectively. Section 25(3) allows ASIC to impose conditions on the
+release of transcripts and related books. In Johns v ASC (1993) 178
+CLR 408 the High Court decided that part of the requirement for
+procedural fairness was that the person be able to make submissions
+concerning the conditions which should be imposed in the event that
+ASIC decides to release information. The Court also held that the
+relaxation of any condition is subject to the same requirements to
+exercise discretion and provide procedural fairness as is the release of
+information.
+
+RG 103.35 A person who has a copy of a transcript or related book
+provided under s25(1) must not use or disclose it except in connection
+with the relevant proceeding: s25(2). Also, a person who has custody
+of a copy of a transcript or related book provided under s25(3) must
+not contravene a condition ASIC has imposed under that subsection:
+s26. In addition, a person must comply with conditions imposed in
+relation to a release under s127(4B): s127(4E). Each of these
+provisions creates an offence for misuse of the relevant information.
+
+
+              © Australian Securities and Investments Commission February 1996
+                                                                      Page 12
+             REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+RG 103.36 The conditions ASIC imposes may relate to the manner
+in which the information may be used or may require an undertaking
+that ASIC be notified before the information is published (for
+example, used in open court). Additionally, ASIC may first delete
+those portions of the information which contain confidences of other
+persons. The conditions or deletions may nullify the potential for the
+release to have a direct and material adverse effect on any person, in
+which case no obligation of procedural fairness will arise.
+
+RG 103.37 When releasing information to a statutory authority
+ASIC may rely on statutory provisions imposing restrictions on the
+use which the agency, or its staff, may make of information provided
+to it. Alternatively, ASIC may release information on condition that
+the agency only uses the material internally. In these circumstances
+the release may not cause any detriment to any interested person, thus
+averting any need to consult that person. If the agency later wishes to
+use the information for other purposes or ASIC relaxes a condition
+limiting its use, ASIC may have to accord procedural fairness to the
+affected person or notify them of the intended use of the information.
+
+RG 103.38 When ASIC discloses documents for use in proceedings
+under s37(4), it will impose conditions similar to those in s25(2).
+
+
+Publication
+RG 103.39 A person is usually more directly and materially
+adversely affected by the general publication of information affecting
+them than by the restricted disclosure of the information. ASIC will
+consider this when it is deciding what the requirements of procedural
+fairness are in relation to the release.
+
+RG 103.40 When there is a large volume of documents in ASIC’s
+possession which are potentially relevant to a request for disclosure,
+ASIC may permit the applicant to conduct a preliminary inspection of
+documents, for the purpose of reducing the volume of documents to be
+released. Before the inspection can occur, ASIC will have to be
+satisfied that the disclosure falls within one of the authorised
+categories referred to above.
+
+RG 103.41 The person inspecting will be required to give
+undertakings to use the information disclosed only for the purpose of
+identifying those documents which are required. As this is only a
+restricted disclosure the ASC believes that the content of procedural
+fairness will generally be nil. Once the documents which are to be
+considered for release are identified, procedural fairness will be
+accorded if appropriate.
+
+
+              © Australian Securities and Investments Commission February 1996
+                                                                      Page 13
+             REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+RG 103.42 ASIC usually imposes a standard condition on releases
+under s25(1) or s127(4). This condition is that a person who would be
+affected by information being published (typically, when it is
+produced in open court) should be given notice before it is used in
+court. This will allow the person to apply to the court for orders to
+protect their interests: Marcel v Commissioner of Police [1992] 1 All
+ER 72. This will apply to other releases where it is likely that the
+information would be published.
+
+RG 103.43 Under Div 1 of Pt 3 ASIC is empowered to prepare a
+report to the Minister in respect of matters which it has investigated.
+As such a report may be published, prior to being sent to the Minister,
+ASIC will provide any person directly and materially adversely
+affected by the publication of the report an opportunity to make
+submissions seeking to correct or contradict any material prejudicial
+to them: NCSC v News Corporation (1984) 156 CLR 296 and Re
+Pergamon Press [1971] 1 Ch 388.
+
+
+Extent of procedural fairness
+obligations in certain circumstances
+
+Internal use by ASIC
+RG 103.44 When ASIC uses a person’s information without
+disclosing it to anyone but ASC staff, it will not consider the effect on
+the relevant person. This is because internal use is authorised and no
+decision has been made to release the information. ASIC will apply
+the same principle when it gives information in confidence to counsel
+and similar outside experts retained to advise it. The principle also
+applies to briefs sent to the DPP, since ASIC initiates prosecutions
+under s49 and the DPP then takes them over.
+
+
+Internal use by other agencies
+RG 103.45 Disclosures to other agencies for use in the
+administration of Commonwealth, state or overseas law are made
+under s127(4), which is a discretionary power. As noted in para 37,
+release for the internal use of an agency may not directly and
+materially adversely affect any person. If, however, the use of the
+material by the agency would have such a material and adverse affect
+on a person, ASIC may give the person affected opportunity to make
+submissions on:
+
+(a) whether the conditions for release are satisfied;
+
+              © Australian Securities and Investments Commission February 1996
+                                                                      Page 14
+             REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+(b) whether the public interest in the disclosure of the information
+    outweighs the prejudice to that person;
+(c) whether any information should be withheld; and
+(d) what conditions should be imposed.
+Where ASIC does not consider that it has an obligation to provide an
+opportunity to be heard, ASIC may notify the person of the intended
+release of the information.
+
+RG 103.46 However, if the administration of justice would be
+adversely affected by ASIC inviting the person to make submissions,
+or notifying them of the proposed release because it would require the
+disclosure of such things as:
+
+(a) the identity of the agency to which the material is to be disclosed;
+(b) confidential information provided by other persons;
+(c) the nature of the information to be released; and
+(d) background information which they would require in order to
+    assess the effect on them and what submissions to make,
+ASIC will not provide the person with the opportunity to be heard, or
+notify them of the proposed release. ASIC will however consider the
+person’s interests in deciding what to release and what conditions to
+impose on its use.
+
+
+Civil proceedings by ASIC
+RG 103.47 Where confidential information is to be used as
+evidence by the ASC in civil proceedings, ASIC does not believe that
+a person will be adversely affected and does not believe that it is
+obliged to accord procedural fairness. A person’s rights or reasonable
+expectations are not adversely affected merely because a person is
+required to provide evidence for court proceedings: Shapowloff v
+Stirling Henry Ltd (in liq) [1972] 2 NSWLR 691. In general the
+interests of a person whose evidence is to be used in litigation are
+adequately protected by the investigation process itself: NCSC v News
+Corporation Ltd (1984) 156 CLR 296; Re Pergamon Press [1971] 1
+Ch 388; Re Mining Houses of Australia Ltd (1981) 5 ACLR 560. In
+addition, if ASIC believes that a person may be adversely affected by
+the use of information in evidence by ASIC it will either seek to have
+restrictions imposed on the use of the information, or notify the
+potentially affected party so that they are able to take steps to protect
+their interests.
+
+
+              © Australian Securities and Investments Commission February 1996
+                                                                      Page 15
+             REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+Criminal prosecutions
+RG 103.48 The use of confidential information in criminal
+prosecutions is authorised, since the civil courts in general will not
+attempt to control criminal proceedings: Re Arrows Ltd (No 4) [1993]
+3 All ER 861; Rank Film Distributors Ltd v Video Information Centre
+[1981] 2 All ER 76; Jarrett v Seymour (1993) 119 ALR 10. The
+prosecutor’s duty to disclose all material necessary to ensure a fair
+trial means that ASIC has little discretion as to the disclosure of
+information to a defendant and thus the requirement for procedural
+fairness is minimal. However ASIC will generally have an obligation
+to notify an affected party of a proposed disclosure to a defendant.
+
+
+Release under s25(1)
+RG 103.49 If a person would be adversely affected by a release
+under s25(1) and the purposes for which the material is released
+include use in civil litigation, the person will generally be given the
+opportunity to make submissions as to:
+
+(a) whether the pre-conditions for release are satisfied;
+(b) the scope of the release; and
+(c) the conditions, if any, that should be imposed.
+The affected person will be entitled to receive all information
+necessary to enable them to make submissions to ASIC. However,
+where draft pleadings have been provided to ASIC by the applicant on
+a confidential basis, ASIC will not provide these to an affected party.
+
+
+Provision of books to liquidators
+RG 103.50 Liquidators pose a special problem, because they often
+approach ASIC to say they are considering legal action, but not in
+sufficient detail to attract s25(1). In such cases, ASIC will consider
+whether the information is confidential in relation to the liquidator,
+given that it may be the company’s information and the company has
+no right to withhold information from the liquidator.
+
+RG 103.51 ASIC may release information to the proper officer of
+the company entitled to it, because the release is an authorised
+disclosure at general law. Therefore, there is no question of procedural
+fairness, unless different persons’ confidences are mixed or the
+reputation of another person may be affected. In this case, ASIC will
+seek submissions in respect of the disclosure or will consider
+
+
+
+              © Australian Securities and Investments Commission February 1996
+                                                                      Page 16
+            REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+protecting the other person affected by imposing conditions or
+deleting the matter concerning the other person.
+
+
+Disclosure of privileged information
+RG 103.52 ASIC Law contains a legislative scheme under which
+ASIC may compel disclosure of certain information, although at
+common law it would be subject to privilege against self-
+incrimination or to legal professional privilege: s68 and 69. That
+scheme also governs how information that was obtained under
+compulsion may be used in proceedings: Pt 3 Div 9.
+
+RG 103.53 In ASIC’s view, the rights and reasonable expectations
+of a person are not adversely affected by the use of information in
+accordance with s68 and 69. Accordingly, it does not regard the
+partial loss of the benefit of privilege in those circumstances as
+attracting the obligation to afford procedural fairness. However ASIC
+may be obliged to ensure that the person is informed of the proposed
+use of the information to enable them to take steps to protect their
+interests.
+
+
+
+
+             © Australian Securities and Investments Commission February 1996
+                                                                     Page 17
+                      REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+Part IV: Applications
+         Generally
+         RG 103.54 Requests for the release of information should cover any
+         of the matters mentioned above which are relevant to the particular
+         case. Applications should:
+
+         (a) provide a detailed description of the information sought;
+         (b) explain how the applicant proposes to use the information;
+         (c) set out the power under which the release is authorised and any
+             facts necessary to substantiate that the release is within that
+             power;
+         (d) set out the purpose for which the release is authorised and any
+             facts necessary to substantiate that the release is within the scope
+             of that purpose;
+         (e) indicate, if known, the identity of any persons whose interests
+             may be affected by the release of the information to the applicant
+             and, if relevant, any submissions as to why these persons should
+             not be contacted as part of ASIC’s obligation to provide
+             procedural fairness;
+         (f) undertake to give persons affected the opportunity to oppose
+             publication of information in court where relevant; and
+         (g) specify any grounds for limiting the scope of procedural fairness
+             in relation to the release (eg prejudice to the applicant).
+         RG 103.55 Applications should be made in writing addressed to the
+         Regional Commissioner of the relevant Regional Office.
+
+
+         Section 127(4) applications
+         RG 103.56 A government or agency of the Commonwealth or state
+         seeking release under s127(4) or an exchange seeking release under
+         s127(4B) should make an application in accordance with Pro Forma
+         138 and Pro Forma 139 respectively. Where ASIC has an agreement
+         with the applicant governing the procedures for the release of
+         information, the application should be made in accordance with that
+         agreement. Such letters should be addressed to the Regional
+         Commissioner of the relevant Regional Office of ASIC. An
+         application made by a foreign government or agency should be
+
+
+
+                       © Australian Securities and Investments Commission February 1996
+                                                                               Page 18
+               REGULATORY GUIDE 103: Confidentiality and release of information
+
+
+
+
+addressed to the Manager, International, in the Office of the
+Chairman, Sydney.
+[Historical note: RG 103.56 amended 26/2/1996 by deleting the words “providing
+the details set out in para 54.” from the end of the first sentence, and replacing them
+with “in accordance with Pro Formas 138 and 139 respectively.”.]
+
+RG 103.57 An application under s127(4) should specify which
+persons would be affected by the release. It should also indicate
+whether the administration of justice would be prejudiced by giving
+any person affected an opportunity to oppose the release, and if so,
+which person or persons. Any additional information needed to meet
+the policy set out in this guide should be added.
+
+
+Section 25(1) applications
+RG 103.58        An application under s25(1) should set out:
+
+(a) the applicant’s client or clients;
+(b) the persons whose records of examination and related books are
+    required (if known);
+(c) the nature of the proceedings which the applicant is carrying on or
+    contemplating;
+(d) a copy of the statement of claim and all other pleadings filed in
+    those proceedings (if the proceedings identified within the request
+    are already in progress) and an indication as to whether the
+    applicant consents to the provision of these documents to other
+    persons as part of the procedural fairness process;
+(e) a copy of any draft statement of claim intended to be filed on
+    commencement of proceedings (if proceedings are being
+    contemplated), and an indication as to whether the applicant
+    consents to the provision of these documents to other persons as
+    part of the procedural fairness process; and
+(f) a statement explaining why the information is relevant to those
+    proceedings, in the opinion of the applicant.
+
+
+Costs
+RG 103.59 If ASIC releases documents or transcript to a person, it
+will normally charge the person an amount to recoup its costs
+(including transcription, time and copying expenses).
+
+
+
+
+                 © Australian Securities and Investments Commission February 1996
+                                                                         Page 19
+

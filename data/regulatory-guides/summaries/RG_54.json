@@ -1,0 +1,35 @@
+{
+  "citation": "RG 54",
+  "title": "Principles for cross-border financial regulation",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide sets out ASIC's approach to recognising overseas regulatory regimes for the purpose of facilitating cross-border financial regulation. It explains ASIC's role in regulating financial facilities, services and products across borders.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth) and the ASIC Act. It is intended for entities seeking regulatory relief or recognition for cross-border financial activities, including foreign providers and Australian market operators. The purpose is to outline the principles ASIC uses to assess whether to recognise an overseas regulatory regime unilaterally or under a mutual recognition arrangement.",
+  "ruling": "ASIC will consider recognising an overseas regulatory regime if it is sufficiently equivalent to the Australian regime and if effective cooperation arrangements exist between regulators. Unilateral recognition allows ASIC to grant relief to foreign entities based on their home regulation, while mutual recognition involves reciprocal arrangements between jurisdictions. ASIC applies principles such as comparable regulatory outcomes, enforcement cooperation, and investor protection. The guide details the factors ASIC will assess, including the legal framework, supervisory practices, and information-sharing mechanisms. ASIC states that it will not grant relief where it would undermine Australian regulatory objectives or create regulatory arbitrage.",
+  "date_of_effect": "2012-06",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 601QA",
+    "Corporations Act 2001 (Cth) s 710",
+    "Corporations Act 2001 (Cth) s 760A(a)",
+    "Corporations Act 2001 (Cth) s 795B(1)",
+    "Corporations Act 2001 (Cth) s 795B(2)",
+    "Corporations Act 2001 (Cth) s 824B(2)",
+    "Corporations Act 2001 (Cth) s 881A",
+    "Corporations Act 2001 (Cth) s 888A",
+    "Corporations Act 2001 (Cth) s 911A(2)(h)",
+    "Corporations Act 2001 (Cth) s 912A(2)",
+    "Corporations Act 2001 (Cth) s 912B",
+    "Australian Securities and Investments Commission Act 2001 (Cth)",
+    "Corporations Regulations 2001 (Cth)"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "RG 121",
+    "RG 172",
+    "RG 176",
+    "RG 177",
+    "RG 178",
+    "RG 190",
+    "RG 211"
+  ]
+}

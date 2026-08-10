@@ -1,0 +1,2000 @@
+REGULATORY GUIDE 111
+
+Content of expert reports
+
+October 2020
+
+
+
+
+About this guide
+This is a guide for any person who commissions, issues or uses an expert
+report.
+
+It provides guidance on the content of an expert report and how an expert
+can help security holders make informed decisions about transactions.
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This version was issued in October 2020 and is based on legislation and
+                             regulations as at the date of issue.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 111, issued October 2007, reissued
+                                     March 2011
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                           Page 2
+                                                                               REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+Contents
+                             A      Overview ........................................................................................... 4
+                                    Reports covered by this guide ........................................................... 4
+                             B      Analysing a transaction .................................................................. 7
+                                    A recommended approach ................................................................ 7
+                                    Control transactions ........................................................................... 8
+                                    Demergers and demutualisations .................................................... 13
+                                    Approval of a sale of securities under item 7 of s611 ...................... 14
+                                    Compulsory acquisitions and buy-outs ............................................ 15
+                                    Related party transactions ............................................................... 16
+                                    Transfer of shares under s444GA ................................................... 18
+                             C      Methodologies and assumptions ................................................. 21
+                                    Choice of methodology .................................................................... 21
+                                    Assumptions .................................................................................... 23
+                                    Value ranges .................................................................................... 24
+                                    Valuing assets ................................................................................. 24
+                             D      Other key requirements ................................................................ 25
+                                    Clear, concise and effective communication ................................... 25
+                                    Statements should be supportable .................................................. 27
+                                    Changes in circumstances............................................................... 30
+                                    Inclusion of other information........................................................... 30
+                                    Expertise .......................................................................................... 32
+                                    Working papers ................................................................................ 33
+                             E      Regulatory action .......................................................................... 35
+                             Key terms ............................................................................................... 36
+                             Related information ............................................................................... 38
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                                                        Page 3
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               This guide gives ASIC’s views on how an expert can help security holders
+                               make informed decisions about transactions.
+
+                               It gives guidance to experts on how to draft an expert report that satisfies
+                               the requirements of the Corporations Act 2001 (Corporations Act).
+
+                               This guide outlines our views on:
+                               • how experts should analyse a proposed transaction (see Section B);
+                               • the different valuation methodologies used by experts and the treatment
+                                 of assumptions (see Section C);
+                               • general requirements for all expert reports (see Section D); and
+                               • the regulatory action we might take against an expert (see Section E).
+
+
+
+
+Reports covered by this guide
+              RG 111.1       This guide focuses on reports prepared for transactions under Chs 2E, 5, 6
+                             and 6A of the Corporations Act, whether the reports are required by the
+                             Corporations Act or are commissioned voluntarily. The principles in this
+                             guide may also be relevant to independent expert reports commissioned for
+                             other purposes—for example, specialist reports like geologist reports or
+                             traffic forecast reports for inclusion in Ch 6D disclosure documents and Ch 7
+                             product disclosure statements.
+
+              RG 111.2       This guide does not apply to independent or investigating accountant reports.
+
+              RG 111.3       Examples of transactions for which entities are required to commission an
+                             independent expert report or may do so voluntarily to assist security holders
+                             to make an informed choice are takeover bids, compulsory acquisitions and
+                             buy-outs, schemes of arrangement, related party transactions and capital
+                             reorganisations: see Table 1.
+
+              RG 111.4       Where the Corporations Act or Australian Securities Exchange Limited
+                             (ASX) Listing Rules require an entity to commission an independent expert
+                             report, this is generally to ensure that shareholders receive an independent
+                             analysis of transactions involving related parties or other persons of influence.
+                             For example, s640 of the Corporations Act requires an independent expert
+                             report where the bidder has a 30% voting power in the target company or the
+                             bidder and target have common directors. It is important that an expert applies
+                             close scrutiny to a transaction involving a related party or other person of
+                             influence and critically analyses the information provided to it.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                           Page 4
+                                                                      REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+Table 1:     Examples of transactions for which entities commission an independent expert report
+
+ Transaction                               Circumstances
+
+ Takeover bids                              The target must commission an expert report when the bidder’s
+                                             voting power in the target is at least 30% of the target or when the
+                                             bidder and the target have common directors: s640.
+                                            The bidder must commission an expert report when the
+                                             consideration paid by the bidder for acquiring a pre-bid stake
+                                             includes unquoted securities: s636(1)(h)(iii) and 636(2).
+                                            Targets often commission expert reports to assist security holders,
+                                             even if there is no requirement to do so.
+                                            In joint bids the bidders must use their best endeavours to have the
+                                             target engage an independent expert to prepare a report on whether
+                                             the joint bid is fair and reasonable to target shareholders who are not
+                                             associates of the bidders: see Table 9 in Regulatory Guide 9
+                                             Takeover bids (RG 9) and RG 9.649.
+
+ Schemes of arrangement                     The scheme company must commission an expert report when the
+                                             other party to the scheme holds at least 30% of the voting shares of
+                                             the scheme company or when they have common directors: reg 5.1.01
+                                             and Sch 8, cls 8303 and 8306 of the Corporations Regulations 2001
+                                             (Corporations Regulations).
+                                            Scheme companies often commission an expert report when
+                                             transactions are complex or effect a takeover.
+
+ Compulsory acquisitions or buy-outs       The bidder in a compulsory acquisition must commission an expert
+                                           report under s663B, 664C, 665B and 667A.
+
+ Acquisitions approved by security         The company commissions an expert report (or, if it has the expertise,
+ holders under item 7 of s611              a director’s report to the same standard) to discharge the requirement
+                                           to disclose all material information on how to vote on the resolution:
+                                           item 7(b) of s611.
+
+ Selective capital reductions              An expert report should usually accompany the explanatory
+                                           memorandum to satisfy the information requirements of fairness under
+                                           s256C(4).
+
+ Related party transactions                An expert report may be supplied to members as part of the material to
+                                           accompany the notice of meeting: s218, 219, 220 and 221.
+
+ Transactions with persons in a            Notices of meeting for approvals under ASX Listing Rule 10.10 must be
+ position of influence                     accompanied by an expert report: ASX Listing Rule 10.10.2.
+
+ Demutualisations of financial             An expert report must accompany a notice of meeting for a
+ institutions                              demutualisation of a financial institution or friendly society: Sch 4, cl 29(4).
+
+ Buy-backs                                 If a company proposes to buy-back a significant percentage of
+                                           securities or the holdings of a major shareholder, it should consider
+                                           providing an independent expert report with a valuation of the shares:
+                                           Regulatory Guide 110 Share buy-backs (RG 110) at RG 110.18 and
+                                           RG 110.20.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                                     Page 5
+                                                                     REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+ Transaction                               Circumstances
+
+ Share transfers under s444GA              Share transfers under s444GA that require relief from s606 will
+                                           generally require an expert report to help:
+                                            ASIC in determining whether to grant relief from s606;
+                                            members, creditors, interested persons and ASIC in their decision to
+                                             oppose leave of the court; and
+                                            the court in its decision to grant leave.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                              Page 6
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+B          Analysing a transaction
+
+                               Key points
+
+                               An expert should focus on the issues facing the security holders for whom
+                               the report is being prepared: see RG 111.5–RG 111.7.
+
+                               An expert should focus on the substance of the transaction rather than the
+                               legal mechanism used to achieve that purpose: see RG 111.8–RG 111.34.
+
+                               Some transactions will require a different form of analysis, particularly:
+                               • demergers and demutualisations (see RG 111.35–RG 111.40);
+                               • approval of a sale of securities under item 7 of s611 (see RG 111.41–
+                                 RG 111.46);
+                               • compulsory acquisitions and buyouts (see RG 111.47–RG 111.51); and
+                               • share transfers under s444GA (see RG 111.64–RG 111.80).
+
+                               When assessing whether a related party transaction is ‘fair and
+                               reasonable’, an expert should consider the overall effect of the transaction:
+                               see RG 111.53–RG 111.63.
+
+
+
+
+A recommended approach
+              RG 111.5       In deciding on the appropriate form of analysis for a report, an expert should
+                             bear in mind that the main purpose of the report is to adequately deal with
+                             the concerns that could reasonably be anticipated of those persons affected
+                             by the proposed transaction. An expert should focus on the purpose and
+                             outcome of the transaction, that is, the substance of the transaction, rather
+                             than the legal mechanism used to effect the transaction.
+
+              RG 111.6       The Corporations Act requires an expert to express the opinion using
+                             particular language depending on the type of transaction. For example:
+                             (a)   whether a takeover bid is ‘fair and reasonable’ under s640;
+                             (b)   whether a scheme of arrangement is in ‘the best interests of the
+                                   members of the company’ under Sch 8, cl 8303 of the Corporations
+                                   Regulations; and
+                             (c)   whether the proposed terms in the buy-out or acquisition notice give a
+                                   ‘fair value’ for the securities under s667A(1).
+
+              RG 111.7       Nevertheless, the form of analysis an expert uses to evaluate a transaction
+                             should address the issues faced by security holders. The rest of this section
+                             sets out our guidance on the form of analysis an expert should use for
+                             particular types of transactions.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                           Page 7
+                                                                       REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+Control transactions
+              RG 111.8       A control transaction, when a person acquires, or increases, a controlling
+                             stake in a company, can be achieved by way of a number of different legal
+                             mechanisms, including, for example:
+                             (a)   a takeover bid under Ch 6;
+                             (b)   a scheme of arrangement under Pt 5.1;
+                             (c)   approval of an issue of shares using item 7 of s611; and
+                             (d)   a selective capital reduction or selective buy-back under Ch 2J.
+
+                                   Note 1: Ch 6 extends to listed managed investment schemes and listed bodies that are
+                                   not companies. For the purposes of this regulatory guide, references to a ‘company’ in
+                                   the context of Ch 6 takeovers can be read as references to these bodies or schemes,
+                                   when appropriate.
+
+                                   Note 2: Not all transactions under item 7 of s611 involve the issue of shares. For those
+                                   transactions that do not involve the issue of shares, see RG 111.41–RG 111.46.
+
+              RG 111.9       It is important for an expert to focus on the substance of a control
+                             transaction, rather than the legal mechanism used to effect it.
+
+
+                             Takeover bids
+
+              RG 111.10      It has long been accepted in Australian mergers and acquisitions practice that
+                             the words ‘fair and reasonable’ in s640 establish two distinct criteria for an
+                             expert analysing a control transaction:
+                             (a)   is the offer ‘fair’; and
+                             (b)   is it ‘reasonable’?
+
+                             That is, ‘fair and reasonable’ is not regarded as a compound phrase.
+
+              RG 111.11      Under this convention, an offer is ‘fair’ if the value of the offer price or
+                             consideration is equal to or greater than the value of the securities the subject
+                             of the offer. This comparison should be made:
+                             (a)   assuming a knowledgeable and willing, but not anxious, buyer and a
+                                   knowledgeable and willing, but not anxious, seller acting at arm’s
+                                   length; and
+
+                                   Note: Any special value of the ‘target’ to a particular ‘bidder’ (e.g. synergies that are
+                                   not available to other bidders) should not be taken into account under this comparison,
+                                   but see RG 111.13(e).
+
+                             (b)   assuming 100% ownership of the ‘target’ and irrespective of whether
+                                   the consideration is scrip or cash. The expert should not consider the
+                                   percentage holding of the ‘bidder’ or its associates in the target when
+                                   making this comparison. For example, in valuing securities in the target
+                                   entity, it is inappropriate to apply a discount on the basis that the shares
+                                   being acquired represent a minority or ‘portfolio’ parcel of shares.
+
+
+
+© Australian Securities and Investments Commission October 2020                                                       Page 8
+                                                                        REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+              RG 111.12      An offer is ‘reasonable’ if it is fair. It might also be ‘reasonable’ if, despite
+                             being ‘not fair’, the expert believes that there are sufficient reasons for
+                             security holders to accept the offer in the absence of any higher bid before
+                             the close of the offer.
+
+              RG 111.13      When deciding whether an offer is reasonable, an expert might consider:
+                             (a)   the bidder’s pre-existing voting power in securities in the target;
+                             (b)   other significant security holding blocks in the target;
+                             (c)   the liquidity of the market in the target’s securities;
+                             (d)   taxation losses, cash flow or other benefits through achieving 100%
+                                   ownership of the target;
+                             (e)   any special value of the target to the bidder, such as particular
+                                   technology, the potential to write off outstanding loans from the
+                                   target, etc;
+                             (f)   the likely market price if the offer is unsuccessful; and
+                             (g)   the value to an alternative bidder and likelihood of an alternative offer
+                                   being made
+
+              RG 111.14      For example, a bidder who controls a target and makes a takeover bid may
+                             offer a price which is ‘not fair’ as it includes a minority discount. The offer
+                             price may, however, be greater than the price at which the securities were
+                             trading before the takeover bid was made. In such circumstances, it is
+                             appropriate for the expert to consider whether the market price may fall if
+                             the offer is unsuccessful: see RG 111.13(f). It would also be appropriate for
+                             the expert to consider the matters set out in RG 111.13(d) and RG 111.13(f)
+                             in assessing the likelihood that the bidder would increase its offer price,
+                             including to a price that an expert would assess as ‘fair’.
+
+              RG 111.15      A bidder may also offer a price which is ‘not fair’ where the target is in
+                             financial distress. This is because the fair value of the target securities should
+                             be determined on the basis of a knowledgeable and willing, but not anxious,
+                             seller that is able to consider alternative options to the bid (e.g. an orderly
+                             realisation of the target’s assets). Such an offer may nonetheless be
+                             reasonable if the alternative methods of remedying the financial distress are
+                             likely to be less attractive to security holders than a successful offer.
+
+                                   Note: For the avoidance of doubt, funding requirements for a target that is not in
+                                   financial distress (e.g. capital that is required to develop a project) should generally be
+                                   taken into account when determining the fair value of target securities: see Northern
+                                   Energy Corporation Limited [2011] ATP 2. Such funding requirements will generally
+                                   be relevant to determining the value of the target securities assuming knowledgeable
+                                   and willing, but not anxious, parties. These funding requirements will often be
+                                   implicitly reflected in certain methodologies (e.g. the quoted price for listed securities).
+                                   The expert may need to expressly determine to take funding requirements into account
+                                   when using other methodologies (e.g. the discounted cash flow methodology).
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                                         Page 9
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+              RG 111.16      An expert concluding that an offer is not fair, but reasonable, should clearly
+                             explain the meaning of this opinion, why the expert has reached this
+                             conclusion and the significance of the conclusion to the decision to be made
+                             by security holders (e.g. what it might mean for the security holder’s
+                             decision making). Otherwise, depending on the circumstances, the report
+                             might be misleading or deceptive. In describing the factors that are relevant
+                             to a conclusion that an offer is reasonable, an expert should generally only
+                             include the factors that are material to this conclusion.
+
+              RG 111.17      To the extent reasonably practicable, and where it can do so with sufficient
+                             precision to assist security holders, the expert should quantify the
+                             reasonableness factors it considers to be material. For example:
+                             (a)   if the expert comments that the share price may fall if the bid is
+                                   unsuccessful, the expert should consider providing quantitative
+                                   information such as the pre-announcement share price (or volume
+                                   weighted average price) and the liquidity profile of the target’s shares;
+                                   and
+                             (b)   if the bidder controls the target, the expert should consider quantifying
+                                   the size of the minority discount.
+
+
+                             Control transactions by way of a scheme of arrangement
+
+              RG 111.18      Schemes of arrangement can be used as an alternative to a Ch 6 takeover bid
+                             to achieve substantially the same outcome. In these circumstances, we
+                             expect the form of analysis to be substantially the same as for a takeover bid,
+                             even though the wording of the opinion will also be whether the proposed
+                             scheme is ‘in the best interests of the members of the company’. This
+                             reflects that the legislative test for schemes of arrangement differs from that
+                             applicable to a Ch 6 takeover bid.
+
+              RG 111.19      When an expert report is required in a scheme of arrangement involving a
+                             change of control, the expert is expected to apply the analysis and provide an
+                             opinion as to whether the proposal is ‘fair and reasonable’ as set out in
+                             RG 111.10–RG 111.17 as if:
+                             (a)   the ‘bidder’ was the ‘other party’; and
+                             (b)   the ‘target’ was the company that is the subject of the proposed scheme.
+
+              RG 111.20      If an expert would conclude that a proposal was ‘fair and reasonable’ if it
+                             was in the form of a takeover bid, it will also be able to conclude that the
+                             scheme is in the best interests of the members of the company.
+
+              RG 111.21      If an expert would conclude that the proposal was ‘not fair but reasonable’ if
+                             it was in the form of a takeover bid using the analysis described in
+                             RG 111.10–RG 111.17, it is still open to the expert to also conclude that the
+                             scheme is ‘in the best interests of the members of the company’. The expert
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                          Page 10
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+                             should clearly say that the consideration is not equal to or greater than the
+                             value of the securities the subject of the scheme, but there are sufficient
+                             reasons for security holders to vote in favour of the scheme in the absence of
+                             a higher offer.
+
+              RG 111.22      If an expert concludes that a scheme proposal is ‘not fair and not
+                             reasonable’, then the expert would conclude that the scheme is not in the
+                             best interests of the members of the company.
+
+              RG 111.23      When a scheme of arrangement is used to acquire or increase a party’s
+                             control, the report should address the interests of members who are bound to
+                             give up rights under the scheme. The expert should separately consider the
+                             interests of each class of those members under the scheme.
+
+
+                             Other control transactions
+
+              RG 111.24      An issue of shares by a company otherwise prohibited under s606 may be
+                             approved under item 7 of s611 and the effect on the company’s shareholding
+                             is comparable to a takeover bid. Examples of such issues approved under
+                             item 7 of s611 that are comparable to takeover bids under Ch 6 include:
+                             (a)   a company issues securities to the vendor of another entity or to the
+                                   vendor of a business and, as a consequence, the vendor acquires over
+                                   20% of the company incorporating the merged businesses. The vendor
+                                   could have achieved the same or a similar outcome by launching a scrip
+                                   takeover for the company; and
+                             (b)   a company issues securities in exchange for cash and, as a consequence,
+                                   the allottee acquires over 20% of the company. The allottee could have
+                                   achieved the same or a similar outcome by using a cash-rich entity to
+                                   make a scrip takeover bid for the company.
+
+              RG 111.25      If this is the case, an expert should apply the analysis outlined in
+                             RG 111.10–RG 111.17 —that is, the transaction should be analysed as if it
+                             was a takeover bid under Ch 6. However, references to, for example, the
+                             ‘bidder’ and the ‘target’ should be taken to mean the ‘allottee’ and
+                             ‘company’ respectively.
+
+              RG 111.26      An issue of shares for cash may have other benefits that should be
+                             considered in deciding whether the transaction is reasonable. These benefits
+                             may include:
+                             (a)   the provision of new capital to exploit business opportunities;
+                             (b)   a reduction in debt and interest payments; or
+                             (c)   a needed injection of working capital.
+
+              RG 111.27      There may be circumstances in which the allottee will acquire 20% or more
+                             of the voting power of the securities in the company following the allotment
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                          Page 11
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+                             or increase an existing holding of 20% or more, but does not obtain a
+                             practical measure of control or increase its practical control over that
+                             company. If the expert believes that the allottee has not obtained or increased
+                             its control over the company as a practical matter, then the expert could take
+                             this outcome into account in assessing whether the issue price is ‘reasonable’
+                             if it has assessed the issue price as being ‘not fair’ applying the test in
+                             RG 111.11.
+
+              RG 111.28      A transaction otherwise prohibited under s606 for which approval is sought
+                             under item 7 of s611 will not always involve the issue of shares. For the
+                             analysis of other transactions under item 7 of s611, see RG 111.41–
+                             RG 111.46.
+
+              RG 111.29      Similar considerations apply in relation to control transactions by way of a
+                             selective capital reduction or selective buy-back under Ch 2J.
+
+
+                             Assessing non-cash consideration in control transactions
+
+              RG 111.30      If the bidder is offering non-cash consideration in a control transaction, the
+                             expert should examine the value of that consideration and compare it with
+                             the valuation of the target’s securities, whether the transaction is effected by
+                             a takeover bid, a scheme of arrangement or an issue of shares.
+
+              RG 111.31      The comparison should be made between the value of the securities being
+                             offered (allowing for a minority discount) and the value of the target entity’s
+                             securities, assuming 100% of the securities are available for sale. This
+                             comparison reflects the fact that:
+                             (a)   the acquirer is obtaining or increasing control of the target; and
+                             (b)   the security holders in the target will be receiving scrip constituting
+                                   minority interests in the combined entity.
+
+                             However, the expert may need to assess whether a scrip takeover is in effect
+                             a merger of entities of equivalent value when control of the merged entity
+                             will be shared equally between the ‘bidder’ and the ‘target’. In this case, the
+                             expert may be justified in using an equivalent approach to valuing the
+                             securities of the ‘bidder’ and the ‘target’.
+
+              RG 111.32      If the expert uses the market price of securities as a measure of the value of
+                             the offered consideration, the expert should consider and comment on:
+                             (a)   the depth of the market for those securities;
+                             (b)   the volatility of the market price; and
+                             (c)   whether or not the market value is likely to represent the value if the
+                                   takeover bid is successful.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                          Page 12
+                                                                    REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+              RG 111.33      For example, trading after a bid is announced may reflect some of the
+                             benefits of the combined entity, depending on whether the market has
+                             confidence that the transaction will proceed.
+
+              RG 111.34      If, in a scrip bid, the target is likely to become a controlled entity of the
+                             bidder, the bidder’s securities can also be valued assuming a notionally
+                             combined entity. However, the expert should still allow for the fact that
+                             accepting holders are likely to hold minority interests in that combined
+                             entity. The comparison should include the assets and liabilities of the target
+                             and the dilution effect of the acquisition on the target’s earnings, asset
+                             backing and dividends. The expert should also discuss the bases for
+                             calculating the dilutions.
+
+                                   Note: Reverse takeovers (either by takeover bid or scheme of arrangement) can raise
+                                   special issues: see Regulatory Guide 60 Schemes of arrangement (RG 60) at RG 60.35–
+                                   RG 60.37.
+
+
+
+
+Demergers and demutualisations
+              RG 111.35      Demergers and demutualisations might not involve:
+                             (a)   a change in the underlying economic interests of security holders;
+                             (b)   a change of control; or
+                             (c)   selective treatment of different security holders.
+
+              RG 111.36      In the absence of these factors, the issue of ‘value’ may be of secondary
+                             importance (particularly in demutualisations). The expert should provide an
+                             opinion as to whether the advantages of the transaction outweigh the
+                             disadvantages. In some cases, it might still be appropriate to carry out a
+                             valuation. In a demerger, the expert may still choose to value the demerged
+                             businesses to test whether the value of the sum of the parts (the demerged
+                             entities) is greater or less than the whole (the existing entity). If the expert
+                             does not undertake such a valuation, to the extent reasonably practicable, and
+                             where it can do so with sufficient precision to assist security holders, the
+                             expert should quantify the advantages and disadvantages that it considers to
+                             be material. For example, the expert may comment on the likelihood of a
+                             ‘market re-rating’ by analysing the post-transaction performance of other de-
+                             mergers.
+
+              RG 111.37      If the demerger or demutualisation involves a scheme of arrangement and
+                             the expert concludes that the advantages of the transaction outweigh the
+                             disadvantages, the expert should say that the scheme is in the best interests
+                             of the members.
+
+              RG 111.38      In a demerger, security holders will typically have to balance issues such as
+                             the benefits of a greater focus afforded to the demerged entities against
+                             increased costs and reduction in diversified earnings streams.
+
+
+
+© Australian Securities and Investments Commission October 2020                                               Page 13
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+              RG 111.39      In a demutualisation, the advantages and disadvantages to be considered
+                             might include questions of unlocking value for members and greater
+                             management accountability as reasons to demutualise, as compared to the
+                             loss of the benefits of being a mutual organisation.
+
+              RG 111.40      An expert might need to consider whether using the form of analysis
+                             described at RG 111.10–RG 111.17 is appropriate when demergers and
+                             demutualisations involve one or more of:
+                             (a)   a change in the underlying economic interests of security holders;
+                             (b)   a change of control; or
+                             (c)   selective treatment of different security holders.
+
+
+Approval of a sale of securities under item 7 of s611
+              RG 111.41      Approval for a sale of securities that would otherwise contravene s606 may
+                             be sought under item 7 of s611. Item 7 of s611 envisages that security
+                             holders not associated with such a transaction may approve it. In doing so,
+                             these security holders may be forgoing:
+                             (a)   the opportunity of receiving a takeover bid; and
+                             (b)   sharing in any premium for control.
+
+              RG 111.42      The expert should identify the advantages and disadvantages of the proposal
+                             to security holders not associated with the transaction. In contrast with the
+                             analysis for an issue of shares approved under item 7 of s611, the expert
+                             should provide an opinion either:
+                             (a)   that the advantages of the proposal outweigh the disadvantages; or
+                             (b)   that the disadvantages of the proposal outweigh the advantages.
+
+              RG 111.43      A specific issue the expert should determine is whether the vendor is to
+                             receive a premium for control.
+
+              RG 111.44      The greater the control premium, the greater the advantages of the transaction
+                             to the non-associated holders would need to be to support a finding that the
+                             advantages of the proposal outweighed the disadvantages. These other
+                             advantages may come, for example, from a better long-term profit outlook as
+                             the incoming security holder offers superior management skills.
+
+              RG 111.45      The expert should also inquire whether further transactions are planned
+                             between the entity, the vendor or any of their associates. If any are
+                             contemplated, the expert should determine whether those transactions would
+                             be on an arm’s length basis. If not, an implication arises that they may
+                             compensate a vendor for a price that is too low.
+
+              RG 111.46      An expert should also consider whether any proposed acquisition by way of
+                             sale, if approved, might deter the making of a takeover bid for the entity.
+
+
+
+© Australian Securities and Investments Commission October 2020                                          Page 14
+                                                                      REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+Compulsory acquisitions and buy-outs
+              RG 111.47      Chapter 6A prescribes the steps an expert must take in reaching an opinion
+                             for compulsory acquisitions and buy-outs. Section 667A(1) requires an
+                             expert to:
+                             (a)   provide an opinion on whether the proposed terms in the buy-out or
+                                   acquisition notice give a ‘fair value’ for the securities; and
+                             (b)   set out the reasons for its opinion.
+
+              RG 111.48      To determine what is ‘fair value’, s667C requires that an expert:
+                             (a)   first assess the value of the entity as a whole;
+                             (b)   then allocate that value among the classes of issued securities in the
+                                   company (taking into account the relative financial risk and the voting
+                                   and distribution rights of the classes); and
+                             (c)   then allocate the value of each class pro rata among the securities in that
+                                   class (without allowing any premium or applying a discount for
+                                   particular securities or interest in that class).
+
+              RG 111.49      In determining the fair value for securities, an expert must also take into
+                             account the prices paid for securities in that class in the previous six months:
+                             s667C(2).
+
+              RG 111.50      The weight of judicial authority is that an expert should not reflect ‘special
+                             value’ that might accrue to the acquirer (e.g. Capricorn Diamonds
+                             Investments Pty Ltd v Catto (2002) 41 ACSR 376 at 431; Winpar Holdings
+                             Ltd v Austrim Nylex Ltd [2005] VSCA 211 at [11]–[37]; Teh v Ramsay
+                             Centauri (2002) 42 ACSR 354 at 359). In practice, the issue of ‘special
+                             value’ might not be a critical issue. Special value might not be material once
+                             it has been allocated pro rata to each security in the class, including the
+                             securities of the party seeking to make the compulsory acquisition. An
+                             expert should not add any premium for forcible divestment: see Capricorn
+                             at 432.
+
+                                   Note: Similar considerations apply as to whether consideration under a capital reduction
+                                   ‘is fair and reasonable to the company’s shareholders as a whole’: see s256B(1)(a) and
+                                   Re Goldfields Kalgoorlie; Winpar Holdings Ltd v Goldfields Kalgoorlie Ltd (2000)
+                                   34 ACSR 737 at [69].
+
+              RG 111.51      Our approach to nominating experts to provide valuations under Ch 6A is set
+                             out in Regulatory Guide 10 Compulsory acquisitions and buyouts (RG 10) at
+                             RG 10.173–RG 10.178.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                                    Page 15
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+Related party transactions
+              RG 111.52      Experts who are asked to prepare a report for the following transactions
+                             should comply with RG 111.53–RG 111.63:
+                             (a)   a transaction with a related party that requires member approval under
+                                   Ch 2E (including as modified by Pt 5C.7 for registered managed
+                                   investment schemes); or
+                             (b)   a transaction with a person in a position of influence that requires
+                                   member approval under ASX Listing Rule 10.
+
+              RG 111.53      When analysing related party transactions, it is important that an expert
+                             focuses on the substance of the related party transaction, rather than the legal
+                             mechanism. For example, where a related party transaction is made up of a
+                             number of separate components, the expert should consider the overall effect
+                             of the related party transaction.
+
+              RG 111.54      Where the related party transaction is one component of a broader
+                             transaction or a series of transactions involving non-related parties (such as a
+                             control transaction), the expert should carefully consider what level of
+                             analysis of the related party aspect is required: see also RG 111.4. In this
+                             consideration, the expert should bear in mind whether the report has been
+                             sought to ensure that members are provided with sufficient information to
+                             decide whether to approve giving a financial benefit to the related party as
+                             well as the broader transaction.
+
+
+                             ‘Fair’ and ‘reasonable’ test
+
+              RG 111.55      Generally, ASIC expects an expert who is asked to analyse a related party
+                             transaction to express an opinion on whether the transaction is ‘fair and
+                             reasonable’ from the perspective of non-associated members. This analysis
+                             is specifically required where the report is also intended to accompany
+                             meeting materials for member approval of an asset acquisition or disposal
+                             under ASX Listing Rule 10.1.
+
+              RG 111.56      Where an expert assesses whether a related party transaction is ‘fair and
+                             reasonable’ (whether for the purposes of Ch 2E or ASX Listing Rule 10.1),
+                             this should not be applied as a composite test—that is, there should be a
+                             separate assessment of whether the transaction is ‘fair’ and ‘reasonable’, as
+                             in a control transaction. An expert should not assess whether the transaction
+                             is ‘fair and reasonable’ based simply on a consideration of the advantages
+                             and disadvantages of the proposal, as we do not consider this provides
+                             members with sufficient valuation information. See Regulatory Guide 76
+                             Related party transactions (RG 76) at RG 76.105–RG 76.112 for further
+                             details.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                           Page 16
+                                                                      REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+              RG 111.57      A proposed related party transaction is ‘fair’ if the value of the financial
+                             benefit to be provided by the entity to the related party is equal to or less
+                             than the value of the consideration being provided to the entity. This
+                             comparison should be made:
+                             (a)   assuming a knowledgeable and willing, but not anxious, buyer and a
+                                   knowledgeable and willing, but not anxious, seller acting at arm’s
+                                   length; and
+
+                                   Note: This is a separate test to the consideration of relevant factors and circumstances
+                                   when determining whether the transaction is on ‘arm’s length’ terms for the purposes of
+                                   s210: see Section C of RG 76.
+
+                             (b)   for control transactions, on the basis referred to in RG 111.11.
+
+              RG 111.58      Where the proposed transaction consists of an asset acquisition by the entity,
+                             it is ‘fair’ if the value of the financial benefit being offered by the entity to
+                             the related party is equal to or less than the value of the assets being
+                             acquired. Where the financial benefit given by the entity is securities in the
+                             entity and the consideration is securities in another entity held by a related
+                             party, the value of the entity’s securities should be compared to the value of
+                             the securities it is purchasing. If the expert uses the market price of either of
+                             the securities as a measure of their value, it should consider, among other
+                             things, the factors set out in RG 111.32(a)–RG 111.32(b).
+
+              RG 111.59      In valuing the financial benefit given and the consideration received by the
+                             entity, an expert should take into account all material terms of the proposed
+                             transactions.
+
+              RG 111.60      A proposed related party transaction is ‘reasonable’ if it is ‘fair’. It might
+                             also be ‘reasonable’ if, despite being ‘not fair’, the expert believes there are
+                             sufficient reasons for members to vote for the proposal.
+
+              RG 111.61      If an expert concludes that a related party transaction is not fair, but
+                             reasonable, it should clearly explain the meaning of this opinion, why the
+                             expert has reached this conclusion, and the significance of the conclusion to
+                             the decision to be made by security holders (e.g. what it might mean for the
+                             security holders’ decision-making): see also RG 111.16–RG 111.17.
+
+              RG 111.62      When deciding whether a proposed transaction is ‘reasonable’, factors that
+                             an expert might consider include:
+                             (a)   the financial situation and solvency of the entity, including the factors
+                                   set out in RG 111.26, if the consideration for the financial benefit is
+                                   cash;
+                             (b)   opportunity costs;
+                             (c)   the alternative options available to the entity and the likelihood of those
+                                   options occurring;
+                             (d)   the entity’s bargaining position;
+
+
+
+© Australian Securities and Investments Commission October 2020                                                    Page 17
+                                                                     REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+                             (e)   whether there is selective treatment of any security holder, particularly
+                                   the related party;
+                             (f)   any special value of the transaction to the purchaser, such as particular
+                                   technology or the potential to write off outstanding loans from the
+                                   target; and
+                             (g)   the liquidity of the market in the entity’s securities.
+
+              RG 111.63      Generally an expert need only conduct one analysis of whether the
+                             transaction is ‘fair and reasonable’, even if the report has been prepared for a
+                             reason other than the transaction being a related party transaction (e.g. if
+                             item 7 of s611 approval is also required).
+
+
+
+Transfer of shares under s444GA
+              RG 111.64      Section 444GA allows shares of a company in administration to be
+                             transferred by an administrator as part of a deed of company arrangement
+                             (DOCA). The transfer may only occur if shareholders consent or when the
+                             court is satisfied that the transfer would not ‘unfairly prejudice’ the interests
+                             of shareholders.
+
+              RG 111.65      Where a transfer under s444GA will result in a person acquiring a relevant
+                             interest in voting shares in a company subject to Ch 6 above 20%, relief
+                             from s606 must be granted by ASIC.
+
+              RG 111.66      ASIC generally requires an expert’s report to be prepared for s444GA
+                             transactions to assist in determining whether to grant relief from s606. The
+                             expert’s report is also included as part of an explanatory statement to:
+                             (a)   assist members, creditors, interested persons and ASIC in determining
+                                   whether to oppose the application for leave of the court under s444GA;
+                                   and
+                             (b)   provide further evidence to assist the court in its assessment of granting
+                                   leave under s444GA.
+
+                                   Note: Regulatory Guide 6 Takeovers: Exceptions to the general prohibition (RG 6) at
+                                   RG 6.202(b) provides more information on the requirements for the explanatory
+                                   statement.
+
+              RG 111.67      In exceptional circumstances, where a company clearly holds assets of
+                             negligible value and/or has no business, there may be limited benefit in
+                             providing an expert’s report. In these circumstances, you should approach
+                             ASIC early in the process to discuss whether or not an expert’s report is
+                             required.
+
+              RG 111.68      Provided the requirements in RG 6.202(b) are met, ASIC will generally grant
+                             relief from s606 where the expert’s report concludes that shareholders’ equity
+                             has no residual value. This aligns with the position of the courts when
+
+
+© Australian Securities and Investments Commission October 2020                                                 Page 18
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+                             considering whether unfair prejudice exists. The courts consider that the
+                             possibility of prejudice to a shareholder only arises if there is some residual
+                             equity in the company: see Martin CJ in Weaver v Noble Resources Ltd [2010]
+                             WASC 182 and White J in Lewis, In the matter of Diverse Barrel Solutions
+                             Pty Ltd (subject to a Deed of Company Arrangement) [2014] FCA 53.
+
+              RG 111.69      Experts who are asked to prepare a report for share transfers using s444GA
+                             should generally comply with RG 111.70–RG 111.80.
+
+
+                             Form and content of report
+
+              RG 111.70      An expert’s report should provide an independent opinion of the value, if
+                             any, of shareholders’ residual equity. The expert is not required to form a
+                             view on the ‘fairness’ or ‘reasonableness’ of the transaction.
+
+              RG 111.71      Shareholders’ residual equity should be derived by assessing the value of the
+                             company’s assets and/or business operations, less borrowings, other
+                             liabilities and creditors’ claims.
+
+              RG 111.72      The value of shareholders’ residual equity should be assessed on the basis
+                             that the company is in administration.
+
+              RG 111.73      Consistent with the approach of the courts, an expert should generally value
+                             shareholders’ residual equity in a company under administration on a ‘winding
+                             up’ or ‘liquidation’ basis where that is the likely or necessary consequence of
+                             the transfer of shares not being approved: see Re Mirabela Nickel Ltd (subject
+                             to deed of company arrangement) [2014] NSWSC 836 at [42]; Re Nexus
+                             Energy Limited (2014) 105 ACSR 246 at 254 [24].
+
+              RG 111.74      Experts should:
+                             (a)   value any underlying assets, and where necessary business(es), using
+                                   the guidance in Part C, including crosschecks;
+                             (b)   consider valuation evidence provided by the sales process conducted by
+                                   the administrator (if any) as well as the value (if any) of potential
+                                   recoveries for voidable transactions; and
+                             (c)   seek specialist technical assistance, where relevant, consistent with the
+                                   requirements in Section E of Regulatory Guide 112 Independence of
+                                   experts (RG 112).
+
+              RG 111.75      The selection of the appropriate approach and methods to value company
+                             assets and/or businesses will depend on the facts and circumstances
+                             involved, available data and the professional judgement of the expert. The
+                             rationale for the selection of the approach and method used should be fully
+                             disclosed in the report.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                          Page 19
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+                             Asset and business valuations
+
+              RG 111.76      We expect in many cases that it will be clear from the administration process
+                             whether the company under administration holds a business (or businesses)
+                             capable of sale or, rather, a series of assets that, but for the proposed DOCA,
+                             would otherwise be sold on a piecemeal basis to realise value (if any).
+
+              RG 111.77      Where a company under administration holds assets that form a business, the
+                             expert should generally base the assessment on the higher of;
+                             (a)   the sum of liquidation value of the underlying business assets; and
+                             (b)   the value of the business as a whole.
+
+              RG 111.78      A business will likely be subject to various constraints associated with the
+                             company being under administration. These may affect the expected
+                             performance of the business directly and/or perceptions of business risk to
+                             potential acquirers. These should be considered by the expert in deriving the
+                             expected sale value of the business and should be disclosed in the report.
+
+              RG 111.79      Any assets that do not form part of the business may be valued assuming
+                             liquidation value. Liquidation value is defined by the International Valuation
+                             Standard 104: Bases of Value (effective 31 January 2020) at paragraph 80.1
+                             as:
+                                   the amount that would be realised when an asset or group of assets are sold
+                                   on a piecemeal basis. Liquidation Value should take into account the costs
+                                   of getting the assets into saleable condition as well as those of the disposal
+                                   activity. Liquidation Value can be determined under two different premises
+                                   of value:
+                                   (a) an orderly transaction with a typical marketing period, or
+                                   (b) a forced transaction with a shortened marketing period.
+
+              RG 111.80      Valuations of residual company assets should generally be determined using
+                             the premise of, ‘… an orderly transaction with a typical marketing period’.
+                             The marketing period assumption should be disclosed by the expert.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                           Page 20
+                                                                      REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+C          Methodologies and assumptions
+
+                               Key points
+
+                               An expert should:
+                               • if possible use more than one valuation methodology and compare the
+                                 values derived from using different methodologies to minimise the risk
+                                 that the opinion is unreliable; and
+                               • justify its choice of methodologies and describe the methods used: see
+                                 RG 111.81–RG 111.90.
+
+                               An expert’s opinion should be based on reasonable assumptions and all
+                               material assumptions should be disclosed: see RG 111.91–RG 111.94.
+
+                               An expert should usually give a range of values and that range should be
+                               as narrow as possible: see RG 111.95–RG 111.96.
+
+                               An expert might need to value individual assets in certain circumstances:
+                               see RG 111.97–RG 111.100.
+
+
+
+
+Choice of methodology
+              RG 111.81      An expert should use its skill and judgment to select the most appropriate
+                             methodology or methodologies in its report. The expert must have a
+                             reasonable (or tenable) basis for choosing its valuation methodologies: Re
+                             Matine (1998) 28 ACSR 268 at 290–291. An inappropriate choice might be
+                             misleading: Re EPHS Ltd [2002] ATP 12. It might also lead to liability
+                             because the expert did not take sufficient care and skill in the preparation of
+                             the report: Duke Group Ltd v Pilmer (1999) 31 ACSR 213.
+
+              RG 111.82      We consider that an expert should, when possible, use more than one
+                             valuation methodology. We consider that this reduces the risk that the
+                             expert’s opinion is distorted by its choice of methodology. We also consider
+                             that an expert should compare the figures derived from using the different
+                             methodologies and comment on any differences. Further, if the expert’s
+                             valuation of a company’s securities differs materially from the price of the
+                             company’s securities in the period leading up to the announcement of the
+                             proposed transaction (together with a typical premium for control for such a
+                             transaction), the expert should comment on this difference and the factors
+                             underlying it. The expert should also comment if its valuation is less than the
+                             price of the company’s securities in the period leading up to the
+                             announcement of the transaction.
+
+                                   Note: The expert should also consider whether the price of the company’s securities is
+                                   an appropriate valuation methodology: see RG 111.86(d).
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                                    Page 21
+                                                                     REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+              RG 111.83      However, we will not prescribe the valuation methodologies that an expert
+                             should use in preparing its report since an expert should exercise its own
+                             skill and judgment to choose methodologies that are appropriate in the
+                             circumstances of the entity or the asset being valued.
+
+              RG 111.84      An expert should justify its choice of methodology or methodologies
+                             (including when the expert has used only one methodology, the basis for
+                             doing so) and describe the method or methods used in the report. We
+                             consider that an expert report that does this allows security holders to better
+                             understand the expert report and determine the weight to be attached to the
+                             report. It also allows another expert, professional adviser or institutional
+                             investor to replicate the expert’s work and assess the valuation.
+
+              RG 111.85      An expert should discuss how much weight is being placed on each
+                             methodology used in the valuation. For instance, one methodology may be
+                             identified as the primary methodology whereas another is used to provide a
+                             cross-check to the valuation.
+
+              RG 111.86      It is generally appropriate for an expert to consider using the following
+                             methodologies:
+                             (a)   the discounted cash flow method (see also RG 111.112–RG 111.118)
+                                   and the estimated realisable value of any surplus assets;
+                             (b)   the application of earnings multiples (appropriate to the business or
+                                   industry in which the entity operates) to the estimated future
+                                   maintainable earnings or cash flows of the entity, added to the estimated
+                                   realisable value of any surplus assets;
+                             (c)   the amount that would be available for distribution to security holders
+                                   on an orderly realisation of assets;
+                             (d)   the quoted price for listed securities, when there is a liquid and active
+                                   market and allowing for the fact that the quoted price may not reflect
+                                   their value, should 100% of the securities be available for sale; and
+                             (e)   any recent genuine offers received by the target for the entire business,
+                                   or any business units or assets as a basis for valuation of those business
+                                   units or assets.
+
+                                   Note: Some valuation methodologies include a premium for control while others do not.
+                                   An expert needs to ensure that the choice of methodology or methodologies is
+                                   appropriate for the circumstances of the transaction.
+
+              RG 111.87      The amount an alternative bidder might be willing to offer if all the
+                             securities in the target were available for purchase may provide a useful
+                             framework for the application of methodologies (e.g. in selecting earnings
+                             multiples) and in underpinning any overall judgment as to value.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                                 Page 22
+                                                                    REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+              RG 111.88      An expert should not take into account highly speculative alternative
+                             proposals which are so unformulated that no sensible value could be placed
+                             on them.
+
+              RG 111.89      If an entity has recently conducted a sale process without success or has been
+                             ‘in play’ for some period without an alternative bid emerging, it may be
+                             possible to comment that no alternative acquirer appears likely to offer a
+                             higher price.
+
+
+                             Option valuations
+
+              RG 111.90      The most commonly used methodologies for valuing unlisted or thinly
+                             traded options are the Binomial Model and the Black–Scholes Model. In
+                             selecting an approach, an expert should assess whether the assumptions used
+                             in the methodology are appropriate for the options being valued.
+
+
+
+Assumptions
+              RG 111.91      An expert’s opinion should be based on reasonable assumptions. This
+                             reduces the risk that the report will be misleading: s670A(2); s12DA of the
+                             Australian Securities and Investments Commission Act 2001 (ASIC Act);
+                             MGICA (1992) Ltd v Kenny & Good Pty Ltd (1996) 140 ALR 313 at 356;
+                             RAIA Insurance Brokers v FAI General Insurance Co Ltd (1993) 112 ALR
+                             511 at 522.
+
+              RG 111.92      An expert should disclose all material assumptions on which its report is
+                             based. This allows security holders to assess the reasonableness of the report
+                             and its main uncertainties: Re BNQ Sugar Pty Ltd and Others (1994) 12
+                             ACSR 695 at 702; GIO Australia Holdings Pty Ltd v AMP Insurance
+                             Investment Holdings Pty Ltd (1998) 29 ACSR 584 at 621–622.
+
+              RG 111.93      The material assumptions disclosed should be specific and definite. All-
+                             embracing assumptions of no specific relevance to the entity being valued
+                             should not be included (e.g. the continued absence of war or the non-
+                             occurrence of natural disasters). However, assumptions concerning specific
+                             future economic conditions (such as assumed interest rates, exchange rates
+                             and commodity prices) and the assessment of their impact on the report
+                             should be disclosed.
+
+              RG 111.94      If changes in material assumptions are likely to materially impact on a
+                             report’s valuation (e.g. changes in the exchange rate or interest rate
+                             assumptions), an expert should consider including a sensitivity analysis
+                             which sets out the impact of such changes.
+
+                                   Note: See Regulatory Guide 170 Prospective financial information (RG 170) at
+                                   RG 170.65–RG 170.66.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                                   Page 23
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+Value ranges
+              RG 111.95      An expert should usually give a range of values. The value of securities is
+                             typically subject to uncertainty and volatility. Placing a precise dollar value
+                             on them is likely to imply a misleading accuracy to a valuation.
+
+              RG 111.96      Nevertheless, the range of values should be as narrow as possible. If an
+                             expert cannot give a narrow range because of uncertainty (e.g. start-up
+                             companies), the expert should prominently explain in its report what factors
+                             create this uncertainty and how the expert is able to justify its findings
+                             despite the uncertainty. In our view, a broad range of values undermines the
+                             usefulness of the report.
+
+
+
+Valuing assets
+              RG 111.97      An expert might need to value individual assets in undertaking the analysis
+                             required to prepare its report, for example, if the assets are considered
+                             ‘surplus’ to other business activities being valued. In valuing individual
+                             assets, an expert may need to quantify and discuss any material differences
+                             between its valuation and the market value of the asset used for accounting
+                             purposes.
+
+              RG 111.98      An expert may also need to assess the carrying value of an entity’s assets if
+                             the primary valuation methodology it has employed results in a value that is
+                             less than the entity’s reported net assets (after allowing for reasonable
+                             realisation costs).
+
+              RG 111.99      In such circumstances, the expert should ensure that it has the expertise to
+                             value the assets (e.g. to value real property or exploration mining tenements)
+                             or retain a specialist to do so.
+
+              RG 111.100     Real property assets that are planned or are in the process of development
+                             should be valued on the basis of their current market value rather than on an
+                             ‘as complete’ basis.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                          Page 24
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+D          Other key requirements
+
+                               Key points
+
+                               An expert report should help security holders make their decision by clearly
+                               disclosing key information: see RG 111.101–RG 111.106.
+
+                               An expert’s opinion should be based on reasonable grounds. These
+                               grounds should be discussed in the report: see RG 111.107–RG 111.118.
+
+                               An expert might need to act on changes in circumstances after issuing its
+                               report: see RG 111.119–RG 111.121.
+
+                               Particular considerations apply to the inclusion of certain information
+                               (e.g. disclaimers): see RG 111.122–RG 111.133.
+
+                               An expert should have the relevant expertise to prepare the expert report:
+                               see RG 111.134–RG 111.139.
+
+                               An expert should maintain adequate records of the work undertaken to
+                               prepare the expert report: see RG 111.140–RG 111.144.
+
+
+
+
+Clear, concise and effective communication
+              RG 111.101     An expert report should help security holders make their decision. The report
+                             should:
+                             (a)   address the varying information needs of a report’s audience;
+                             (b)   clearly explain the meaning of the expert’s opinion and the significance
+                                   of that opinion to the decision to be made by security holders;
+                             (c)   highlight key information;
+                             (d)   be easy to navigate and understand (e.g. through including an up-front
+                                   summary of the expert’s opinion and the reasons for the opinion, the use
+                                   of content tables, signposting, cross-references, numbered sections, sub-
+                                   sections and the avoidance of jargon); and
+                             (e)   be as brief as possible.
+
+              RG 111.102     An expert report should only contain information that relates directly to the
+                             decision to be made by security holders. Including extraneous information in
+                             an expert report undermines the effectiveness of that report. Santow J dealt
+                             with this issue in Re Australian Co-operative Foods Ltd (2001) 38 ACSR 71
+                             at 77 in the following terms:
+                                   Experts are responsible for what they say in their reports. They must ensure
+                                   that their reports deal adequately with the kind of concerns that could
+                                   reasonably be anticipated from those affected by the scheme, in reporting
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                          Page 25
+                                                                     REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+                                   on whether the relevant scheme proposal is fair and reasonable from their
+                                   viewpoint … This is so those members can then make an informed decision
+                                   with the benefit of a report that is as simple, clear and useful as possible. A
+                                   plethora of peripheral information is more likely to distract than illuminate.
+
+              RG 111.103     For example, an analysis of the industry in which the company (i.e. the
+                             subject of the opinion) operates might be useful. However, copying material
+                             out of an industry research database may merely add to the length of reports.
+                             An expert should include an analysis of the material and relate the material
+                             directly to its opinion.
+
+
+                             Technical terms
+
+              RG 111.104     Technical terms should be avoided when possible. If the expert uses
+                             technical terms, it should use them consistently in a report and consistently
+                             with the way they are used in the relevant industry. When appropriate, the
+                             expert should provide a glossary, especially when the definition or
+                             interpretation of specific terms is central to its report.
+
+
+                             Concise or short form expert report
+
+              RG 111.105     We encourage an expert to consider preparing a concise or short form expert
+                             report. The commissioning party would make a longer expert report
+                             containing additional, more technical or detailed information available on
+                             request free of charge or ensure it is accessible online. This reflects a
+                             developing market practice.
+
+                                   Note: See RG 60.84 for information about the use of concise expert reports in schemes
+                                   of arrangement.
+
+              RG 111.106     The concise report would still need to contain sufficient information to help
+                             security holders make their decision. The concise report should include the
+                             information that we emphasise in the rest of this guide and in RG 112 (e.g.
+                             material assumptions). If the longer report contained any ‘surprises’ for the
+                             security holder who only read the concise report, this would indicate the
+                             concise report was inadequate or misleading. Table 2 contains examples of
+                             types of information that an expert might consider including and leaving out
+                             of the concise report. Determining what information to include in the concise
+                             report and what to leave out is a matter for the expert’s professional
+                             judgment in the particular circumstances of the report. However, we are
+                             happy to work with experts on these issues.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                                  Page 26
+                                                                      REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+Table 2:     Examples of information that an expert might consider putting in and leaving out of
+             a concise expert report
+
+ Include in the concise expert         Expert’s conclusion
+ report                                Meaning of conclusion and significance for the decision to be made
+                                       Summary of reasons for conclusion
+                                       Summary of valuation including:
+                                         − methodologies used;
+                                         − material assumptions; and
+                                         − a justification of these
+                                       Financial Services Guide
+
+ Leave out of the concise              Industry overview
+ expert report                         Disclaimers
+                                       Detailed financial information
+                                       Detailed profile of parties to the transaction
+                                       Qualifications, declarations (e.g. indemnities) and consents
+                                       Detailed share price analysis
+                                       Details of capital structure (e.g. shareholder spread and directors’
+                                        relevant interests if not linked to the expert’s analysis)
+                                       List of previous ASX announcements
+                                       List of sources of information
+
+
+
+
+Statements should be supportable
+                             Reasonable grounds
+
+              RG 111.107     An expert’s opinion should be based on reasonable grounds. These grounds
+                             should be set out in the report.
+
+              RG 111.108     We consider that setting out the reasons for the opinion will assist security
+                             holders to understand the expert’s opinion, to assess the weight to attach to that
+                             opinion and to evaluate the validity of the expert’s conclusions: s636(2); 640(1);
+                             667A(1)(c); Sch 8, cl 8303 of the Corporations Regulations and Makita
+                             (Australia) Pty Ltd v Sprowles (2001) 52 NSWLR 705 at 729 and following.
+                             Further, security holders cannot make an informed decision without the benefit
+                             of ‘sufficient supporting information’: Australian Co-operative Foods at 77.
+
+                             Review of information
+
+              RG 111.109     We expect an expert to:
+                             (a)   critically evaluate the information provided to it; and
+                             (b)   take note of any grounds held for questioning the truth, accuracy and
+                                   completeness of the information.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                                Page 27
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+              RG 111.110     An expert should conduct such critical analysis of the information on which
+                             it relied to prepare the report as is reasonable in the circumstances and as the
+                             law requires: Australian Co-operative Foods at 77. The more material the
+                             information is to the conclusions reached by the expert, the greater the
+                             responsibility on the expert to be satisfied that the information is not
+                             materially inaccurate. If there are indications suggesting that the information
+                             in question may not be reasonably relied on, then the expert should make
+                             additional enquiries. We do not expect an expert to conduct an audit of the
+                             subject matter of the report.
+
+              RG 111.111     For example, the expert must review directors’ valuations and management
+                             accounts, partly to detect changes in the way those valuations and accounts
+                             have been prepared from period to period: see RG 111.113. If there are no
+                             indications of irregularities or omissions, an expert will ordinarily be entitled
+                             to take at face value valuations previously prepared by outside experts,
+                             audited financial statements and the accounting records of the company. An
+                             expert may also rely on management accounts if it has established
+                             reasonable grounds: see RG 111.113.
+
+
+                             Forward-looking information and use of the discounted
+                             cash flow methodology
+
+              RG 111.112     An expert should not include prospective financial information (including
+                             forecasts and projections) or any other statements or assumptions about
+                             future matters (together, ‘forward-looking information’) in its report unless
+                             there are reasonable grounds for the forward-looking information. Otherwise
+                             the opinion will be misleading under s670A(2) of the Corporations Act or
+                             s12DA of the ASIC Act.
+
+              RG 111.113     An expert should make sufficient inquiries to satisfy itself that forward-
+                             looking information on which it has relied was prepared on a reasonable
+                             basis. It is important that those producing such information to the expert
+                             have used methods of analysis and presentations previously used by the
+                             company (unless there is a sound reason to use a different approach), and
+                             have not used new systems or approaches which favour their objectives. If
+                             there are any material variations in method or presentation, the expert should
+                             adjust for or comment on them in the report.
+
+              RG 111.114     RG 170 gives detailed guidance on what we consider is a reasonable basis
+                             for stating prospective financial information. While RG 170 is expressed to
+                             apply to fundraising documents under Chs 6D and 7, it provides useful
+                             guidance for inclusion of prospective financial information in expert reports.
+                             We also consider that RG 170 provides useful guidance for inclusion of
+                             forward-looking information that does not fall within the definition of
+                             ‘prospective financial information’.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                          Page 28
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+              RG 111.115     However, we recognise that using the discounted cash flow (DCF)
+                             methodology will involve the use of forward-looking information and
+                             assumptions over a longer period than the two-year period in RG 170: see
+                             RG 170.39–RG 170.41. As long as the focus of the disclosure in the expert
+                             report is on the valuation rather than forward-looking information that
+                             supports it, the expert does not need to commission an independent
+                             accountant report for the DCF methodology: see RG 170.41. However, the
+                             expert should undertake a critical analysis of the forward-looking
+                             information used in applying the DCF methodology to ensure it is based on
+                             reasonable grounds.
+
+              RG 111.116     ASIC recognises that there may be a reasonable basis for the use of DCF
+                             methodologies before a project generates cash flows as long as, at the date of
+                             reporting, the expert has reasonable grounds for the forward-looking
+                             information. Where the expert does not have reasonable grounds, other
+                             valuation methodologies should be used.
+
+              RG 111.117     When an expert includes forward-looking information in its report, the report
+                             should include all information that may be required for users of the report to
+                             assess the reasonableness of the methodology and assumptions used,
+                             including:
+                             (a)   the nature of the information, its limitations and the reason for its
+                                   inclusion in the report;
+                             (b)   the material inputs and assumptions used and the reason for using those
+                                   assumptions;
+                             (c)   if applicable, the discount rate selected and rationale;
+                             (d)   the extent and nature of the adjustments made to the DCF (if any) to
+                                   allow for the development stage risks attaching to these cash flows
+                                   (whether through risk weighting cash flows, adjustments to discount
+                                   rates or other methods);
+                             (e)   the extent of inquiries and research undertaken by the expert and the
+                                   compiler of that information;
+                             (f)   the technical and financial qualifications of the expert and the compiler
+                                   in relation to the relevant industry and asset; and
+                             (g)   the specific period to which the information relates and the reason for
+                                   the use of that period.
+
+              RG 111.118     Full disclosure of the types of matters raised in RG 111.117 and any other
+                             risk disclosure, warnings or cautionary language does not affect the
+                             requirement for forward-looking information to be based on reasonable
+                             grounds. It will also not prevent particular information from being
+                             misleading.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                            Page 29
+                                                                    REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+Changes in circumstances
+              RG 111.119     An expert who has delivered its report to the commissioning party should
+                             notify that party as soon as possible if the expert becomes aware of a
+                             significant change affecting the information in its report or if the expert
+                             believes that a material statement in the report is misleading or deceptive.
+                             The commissioning party should also notify the expert if that party becomes
+                             aware of a significant change affecting the information in the expert report
+                             prior to a meeting being held or during the offer period.
+
+              RG 111.120     When a material change in circumstances has arisen since a report was
+                             prepared, a failure by the expert to provide a supplementary report to its client
+                             may constitute misleading or deceptive conduct. Security holders will rely on an
+                             expert report when making their decision, not when they first receive the report:
+                             ASIC v Solution 6 Holdings Ltd (1999) 30 ACSR 605 at 611. If an expert
+                             becomes aware of a material change in circumstances, then depending on the
+                             circumstances, it may be appropriate for a commissioning party to send a
+                             supplementary report, even if security holders would receive the report:
+                             (a)   shortly before a meeting is held; or
+                             (b)   towards the end of an offer period.
+
+                             See Troy Resources NL v Taipan Resources NL (2000) 36 ACSR 197.
+
+                                   Note: Commissioning parties should consider what period is appropriate for security
+                                   holders to have to consider any supplementary information: see also RG 60.92–RG 60.93.
+
+              RG 111.121     Changes affecting valuations in reports are more likely to trigger the
+                             supplementary report obligation than tactical events in the progress of
+                             transactions, for example, the level of acceptances in a bid.
+
+
+Inclusion of other information
+
+                             Confidential information
+
+              RG 111.122     While an expert should not omit material information from its report merely
+                             because it is confidential, the expert may be able to adequately support an
+                             opinion by careful disclosure without revealing confidential information.
+
+
+                             Disclaimers
+
+              RG 111.123     The purpose of an expert report is to give security holders an assessment on
+                             which they can rely. A disclaimer defeats this purpose.
+
+              RG 111.124     An expert cannot limit its statutory liability for the report through
+                             disclaimers (e.g. that the expert will not be liable for any loss incurred
+                             through reliance on its report). An expert report that purports to exclude the
+                             expert from liability may be misleading.
+
+
+© Australian Securities and Investments Commission October 2020                                                Page 30
+                                                                      REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+              RG 111.125     An expert should consider refusing to give a report when it has not been given:
+                             (a)   sufficient information or unimpeded access to an entity’s records; or
+                             (b)   enough time to prepare the report.
+
+              RG 111.126     When an expert decides that its report will assist security holders despite
+                             limitations that the expert cannot resolve (e.g. because the expert does not
+                             have time to investigate the reliability of certain information), the expert
+                             should prominently explain the nature of the uncertainties and the impact on
+                             its opinion so that security holders can assess what weight to attach to the
+                             opinion.
+
+              RG 111.127     When an expert is retained to provide a report on a limited matter, the expert
+                             may disclaim responsibility for matters outside the scope of its retainer.
+
+
+                             Indemnities
+
+              RG 111.128     An expert may take an indemnity from the commissioning party (or any
+                             other person) under which it is to be compensated for certain liability. An
+                             acceptable indemnity would cover liability that arises because:
+                             (a)   the expert relied on information provided by the person; or
+                             (b)   the person did not provide the expert with material information.
+
+              RG 111.129     Such an indemnity will not diminish the liability of an expert to security
+                             holders. Nor will it reduce the expert’s responsibility to ensure that it has
+                             reasonable grounds for its opinion and that the report is not misleading or
+                             deceptive.
+
+              RG 111.130     An expert report that implies that an indemnity relieves the expert from
+                             liability to security holders is potentially misleading. ASIC expects reports to
+                             explain the effect of any indemnity.
+
+
+                             Additional disclosures
+
+              RG 111.131     Security holders will generally expect that an expert report will have been
+                             prepared on the following basis:
+                             (a)   the expert has made all the inquiries that it believes are desirable and
+                                   appropriate in order to prepare the report; and
+                             (b)   the report has not omitted any matter that the expert regards as material
+                                   to security holders’ assessment of the expert’s conclusions.
+
+                                   Note: To the extent that there are any normally applicable standards and guidelines for
+                                   valuing a particular class of assets (e.g. the Valmin Code for valuations involving
+                                   mineral and hydrocarbon assets), security holders will generally expect that these have
+                                   been complied with. The report should disclose if that is not the case as that will be a
+                                   matter that is relevant to security holders’ assessment of the expert’s conclusions.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                                     Page 31
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+              RG 111.132     If an expert report has not been prepared on this basis, the report should
+                             prominently explain why this is the case and the impact of this on the report.
+                             If the report is unable to be prepared on such a basis, the expert may need to
+                             consider refusing to give the report: see RG 111.125–RG 111.126.
+
+              RG 111.133     An expert should also disclose to security holders, to the extent necessary to
+                             help them assess what weight to give to reports:
+                             (a)   the source of material used in the reports;
+                             (b)   the inquiries made by the expert;
+                             (c)   any unacceptable or unusual time constraints the expert worked under;
+                             (d)   whether the expert is dissatisfied with the quality of the information
+                                   used for the report; and
+                             (e)   whether any concerned party to the relevant transaction has refused to
+                                   provide adequate:
+                                   (i)    access to information; or
+                                   (ii)   explanations;
+
+                                   if the information or the explanations might have impacted on the
+                                   report’s conclusions.
+
+
+
+Expertise
+              RG 111.134     ASIC expects an expert preparing an expert report to be, in fact, an expert in
+                             the relevant field. Section 9 defines an expert as ‘a person whose profession
+                             or reputation gives authority to a statement made by him or her’. To this end,
+                             we expect an expert and the commissioning party to ensure that:
+                             (a)   the expert’s profession or reputation is relevant to the matters upon
+                                   which the expert is to report;
+                             (b)   the expert holds the licences or authorities necessary for providing the
+                                   type of advice sought; and
+                             (c)   the expert states in the report its qualifications and experience or, if the
+                                   report is made by a corporation or firm, the qualifications and
+                                   experience of the individuals responsible for preparing the report.
+
+              RG 111.135     Gyles J observed in Reiffel v ACN 075 839 266 Ltd (2003) 45 ACSR 67 at 87:
+                                   It is implicit … that such an expert will exercise the care, skill and
+                                   judgment appropriate to the relevant field of expertise in forming and
+                                   expressing the opinion.
+
+              RG 111.136     For technical matters beyond the expert’s expertise, an expert should retain a
+                             specialist to advise them (e.g. a geologist to provide an opinion on
+                             recoverable ore the subject of mining tenements, or a traffic forecast report
+                             in relation to a toll road): see RG 112.67–RG 112.70.
+
+
+© Australian Securities and Investments Commission October 2020                                          Page 32
+                                                                      REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+              RG 111.137     An expert should ensure that staff preparing and supervising the preparation
+                             of the report have sufficient skill, knowledge and experience to perform the
+                             expert’s role.
+
+              RG 111.138     Expert reports typically constitute the giving of financial product advice so
+                             an expert must hold an Australian financial services (AFS) licence. An AFS
+                             licensee should have sufficient human and technological resources to
+                             provide the services specified in its licences and should ensure its staff are
+                             adequately trained and competent to provide those services: s912A(1).
+                                   Note: ASIC has taken action against an expert when the expert lacked the expertise to
+                                   complete the task, failed to comply with the law and did not meet standards of good
+                                   practice.
+
+              RG 111.139     Detailed guidance on how we consider these licence obligations can be met
+                             are contained in Regulatory Guide 104 AFS licensing: Meeting the general
+                             obligations (RG 104), Regulatory Guide 105 AFS licensing: Organisational
+                             competence (RG 105) and Regulatory Guide 146 Licensing: Training of
+                             financial product advisers (RG 146).
+
+
+
+Working papers
+              RG 111.140     In preparing an expert report, an expert should document its work and
+                             maintain adequate working papers that record the basis of the report. The
+                             expert should be able to readily draw on its working papers to demonstrate
+                             that its opinion is reasonably based.
+                                   Note: Much of the expert’s analysis will be described in the report. The requirement to
+                                   document and maintain adequate working papers does not detract from the obligations
+                                   of an expert with respect to the contents of an expert report.
+
+              RG 111.141     Maintaining adequate working papers is an important aspect of an expert’s
+                             quality control and review process. In our view, the duties imposed by the
+                             Corporations Act on AFS licensees require licensees to keep adequate
+                             records about their financial services business: see Regulatory Guide 175
+                             Licensing: Financial product advisers—Conduct and disclosure (RG 175) at
+                             RG 175.97 and RG 175.145.
+
+              RG 111.142     Maintaining adequate working papers will also assist the expert in
+                             demonstrating compliance with its legal obligations (including the
+                             obligations described in this guide and RG 112 and its obligations as an AFS
+                             licensee) and its internal procedures and processes.
+
+              RG 111.143     Working papers should be compiled so that someone with no prior
+                             involvement with the transaction can review them and understand the major
+                             issues. They should include, for example:
+                             (a)   documents supporting the expert’s choice of methodology;
+                             (b)   documents supporting significant assumptions underpinning the
+                                   expert’s opinion;
+
+
+
+© Australian Securities and Investments Commission October 2020                                                    Page 33
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+                             (c)   factual information relied on, or used by, the expert in preparing the
+                                   report and material documenting the inquiries made by the expert in
+                                   relation to that information;
+                             (d)   analysis of any financial models that the expert has relied on. Where the
+                                   expert has relied on a financial model, the expert should undertake a
+                                   review of the model and document its analysis, including which aspects
+                                   of the model have been reviewed by the expert and the extent of the
+                                   review. We do not expect an expert to conduct an audit of the model;
+                                   and
+                             (e)   file notes of discussions and correspondence between the expert and the
+                                   commissioning party: see RG 112.47.
+
+              RG 111.144     All records relevant to the preparation of an expert report may be subject to
+                             review by ASIC. Even where we do not have any particular concerns about
+                             an expert report, we may review the report, the working papers and the
+                             independence of the expert as part of our regular review of the independent
+                             expert sector.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                          Page 34
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+E          Regulatory action
+
+                               Key points
+
+                               We will consider regulatory action if we consider there are material issues
+                               with the content of an expert report or have concerns about the
+                               independence of an expert.
+
+
+              RG 111.145     We will consider regulatory action if we consider that there are material
+                             issues with the content of the report (e.g. as to the adequacy and the
+                             completeness of the expert’s analysis) or if we have concerns about the
+                             independence of an expert.
+
+              RG 111.146     We might write to the expert or the commissioning party or both to raise
+                             concerns or request changes to an expert report. However, when delay might
+                             prejudice the interests of security holders or the market, we might take
+                             enforcement action without consulting the expert or the commissioning
+                             party.
+
+              RG 111.147     The action we might take could be one or more of the following:
+                             (a)   in a takeover bid, an application to the Takeovers Panel for a
+                                   declaration of unacceptable circumstances;
+                             (b)   in a scheme of arrangement, opposition to the scheme at a court
+                                   hearing;
+                             (c)   action for contravention of misleading or deceptive conduct provisions;
+                             (d)   action by us to revoke, suspend the expert’s licence or add a condition
+                                   after a hearing: s915C; or
+                             (e)   action by us to cease or suspend nominating the expert to prepare
+                                   reports in compulsory acquisitions: s667AA and RG 10.173.
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                          Page 35
+                                                                     REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+Key terms
+
+                           Term                          Meaning in this document
+
+                           administrator                 Has the meaning given in s9 of the Corporations Act
+                                                           Note: The definition in s9 includes both deed administrators and
+                                                           voluntary administrators.
+
+                           AFS licence                   An Australian financial services licence under s913B of the
+                                                         Corporations Act that authorises a person who carries out a
+                                                         financial services business to provide financial services
+                                                           Note: This is a definition contained in s761A of the Corporations
+                                                           Act.
+
+                           AFS licensee                  A person who holds an Australian financial services licence
+                                                         under s913B of the Corporations Act
+                                                           Note: This is a definition contained in s761A of the Corporations
+                                                           Act.
+
+                           ASIC                          Australian Securities and Investments Commission
+
+                           ASIC Act                      Australian Securities and Investments Commission Act 2001
+
+                           ASX                           Australian Securities Exchange Limited
+
+                           bidder                        Has the meaning given in s9 of the Corporations Act
+
+                           Corporations Act              Corporations Act 2001, including regulations made for the
+                                                         purposes of that Act
+
+                           Corporations Regulations      Corporations Regulations 2001
+
+                           DOCA                          A deed of company arrangement
+
+                           DOCA proposal                 A proposed DOCA or proposed variation of a DOCA
+
+                           DOCA proponent                A person who advocates for the DOCA proposal
+
+                           expert                        Has the meaning given in s9 of the Corporations Act
+
+                           prospective financial         Financial information of a predictive character based on
+                           information                   assumptions about events that may occur in the future and
+                                                         on possible actions by an entity
+
+                           related party                 Has the meaning given in s228 of the Corporations Act
+
+                           reg 5.1.01 (for example)      A regulation of the Corporations Regulations (in this example
+                                                         numbered 5.1.01)
+
+                           RG 175 (for example)          An ASIC regulatory guide (in this example numbered 175)
+
+                           s648A (for example)           A section of the Corporations Act (in this example, numbered
+                                                         648A), unless otherwise specified
+
+                           Sch 4 (for example)           A schedule of the Corporations Act (in this example
+                                                         numbered 4), unless otherwise specified
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                                     Page 36
+                                                                     REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+                           Term                          Meaning in this document
+
+                           scheme of arrangement         A scheme of arrangement conducted under Pt 5.1
+
+                           securities                    Has the meaning given in s9 of the Corporations Act
+
+                           security holder               The holder of interests or securities
+
+                           target                        Has the meaning given in s9 of the Corporations Act
+
+                           Valmin Code                   Code for the Technical Assessment and Valuation of Mineral
+                                                         and Petroleum Assets and Securities for Independent Expert
+                                                         Reports
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                             Page 37
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+Related information
+                             Headnotes
+
+                             experts, expert report, analysis of control transactions, substance of
+                             transaction not legal mechanism used, assumptions, methodology, valuing
+                             assets, clear communication, incorporation by reference, supportable
+                             statements, prospective financial information, disclaimers, indemnities,
+                             expertise, related party transactions
+
+
+                             Regulatory guides
+
+                             RG 6 Takeovers: Exceptions to the general prohibition
+
+                             RG 9 Takeover bids
+
+                             RG 10 Compulsory acquisitions and buyouts
+
+                             RG 60 Schemes of arrangement
+
+                             RG 74 Acquisitions agreed to by shareholders
+
+                             RG 76 Related party transactions
+
+                             RG 104 AFS licensing: Meeting the general obligations
+
+                             RG 105 AFS licensing: Organisational competence
+
+                             RG 110 Share buy-backs
+
+                             RG 112 Independence of experts
+
+                             RG 146 Licensing: Training of financial product advisers
+
+                             RG 170 Prospective financial information
+
+                             RG 175 Licensing: Financial product advisers—Conduct and disclosure
+
+
+                             Legislation
+
+                             ASIC Act, s12DA
+
+                             Corporations Act, Chs 2E, 2J, 6 and 7; Pt 5.3A; s9, 210, 218, 219, 220, 221,
+                             256C(4), 444GA, 606, item 7(b) of 611, 636(1)(g), 636(1)(h)(iii), 636(2),
+                             640, 663B, 664C, 665B, 667A, 667C, 670A(2), 766B(3), 766(4), 912A(1)
+                             and Sch 4, cl 29(4)
+
+                             Corporations Regulations, reg 5.1.01, Sch 8, cls 8303 and 8306
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                          Page 38
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+                             Cases
+                             ASIC v Solution 6 Holdings Ltd (1999) 30 ACSR 605
+
+                             Re Australian Co-operative Foods Ltd (2001) 38 ACSR 71
+
+                             Re BNQ Sugar Pty Ltd and Others (1994) 12 ACSR 695
+
+                             Capricorn Diamonds Investments Pty Ltd v Catto (2002) 41 ACSR 376
+
+                             Duke Group v Pilmer (1999) 31 ACSR 213
+
+                             Lewis, In the matter of Diverse Barrel Solutions Pty Ltd (subject to a Deed
+                             of Company Arrangement) [2014] FCA 53
+
+                             Re EPHS Ltd [2002] ATP 12
+
+                             Re Goldfields Kalgoorlie; Winpar Holdings Ltd v Goldfields Kalgoorlie Ltd
+                             (2000) 34 ACSR 737
+
+                             Re Mirabela Nickel Ltd (subject to a Deed of Company Arrangement) [2014]
+                             NSWSC 836
+
+                             Re Nexus Energy Limited (2014) 105 ACSR 246
+
+                             GIO Australia Holdings Pty Ltd v AMP Insurance Investment Holdings Pty
+                             Ltd (1998) 29 ACSR 584
+
+                             Makita (Australia) Pty Ltd v Sprowles (2001) 52 NSWLR 705
+
+                             Re Matine (1998) 28 ACSR 268
+
+                             MGICA (1992) Ltd v Kenny & Good Pty Ltd (1996) 140 ALR 313
+
+                             Northern Energy Corporation Limited [2011] ATP 2
+
+                             RAIA Insurance Brokers v FAI General Insurance Co Ltd (1993) 112 ALR 511
+
+                             Reiffel v ACN 075 839 266 Ltd (2003) 45 ACSR 67
+                             Teh v Ramsay Centauri (2002) 42 ACSR 354
+                             Troy Resources NL v Taipan Resources NL (2000) 36 ACSR 197
+
+                             Weaver v Noble Resources Ltd [2010] WASC 182
+                             Winpar Holdings Ltd v Austrim Nylex Ltd [2005] VSCA 211
+
+
+                             Consultation papers and reports
+                             CP 62 Better experts’ reports
+
+                             CP 142 Related party transactions
+
+                             CP 143 Expert reports and independence of experts: Updates to RG 111 and RG 112
+
+                             CP 326 Chapter 6 relief for share transfers using s444GA of the Corporations Act
+
+
+
+© Australian Securities and Investments Commission October 2020                                          Page 39
+                                                                  REGULATORY GUIDE 111: Content of expert reports
+
+
+
+
+                             REP 233 Response to submissions on CP 142 Related party transactions
+
+                             REP 234 Response to submissions on CP 143 Expert reports and independence of
+                             experts
+
+                             REP 670 Response to submissions on CP 326 Chapter 6 relief for share transfers
+                             using s444GA of the Corporations Act
+
+
+                             Miscellaneous
+                             ASX Listing Rule 10
+                             International Valuation Standard 104: Bases of Value (effective 31 January
+                             2020)
+
+
+
+
+© Australian Securities and Investments Commission October 2020                                          Page 40
+

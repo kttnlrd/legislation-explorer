@@ -1,0 +1,40 @@
+{
+  "citation": "RG 115",
+  "title": "Audit relief for proprietary companies",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide explains the circumstances under which proprietary companies can obtain relief from the requirement to have their financial reports audited under the Corporations Act 2001. It covers both class relief provided by ASIC Corporations (Audit Relief) Instrument 2016/784 and individual relief granted on a case-by-case basis under s340 of the Corporations Act.",
+  "background": "The guide is issued under the Corporations Act 2001, specifically Chapter 2M which sets out financial reporting and audit requirements. It is intended for proprietary companies and their auditors, and explains ASIC's approach to granting audit relief where compliance imposes an 'unreasonable burden' on the company.",
+  "ruling": "ASIC states that it will provide class relief to eligible proprietary companies that meet specified criteria under ASIC Corporations (Audit Relief) Instrument 2016/784, relieving them from the requirement to have a financial report audited. For proprietary companies that do not meet the class relief conditions, ASIC may grant individual relief on a case-by-case basis under s340 of the Corporations Act. ASIC interprets 'unreasonable burden' as requiring a company to demonstrate that the cost of an audit would be disproportionate to the benefits, considering factors such as the company's size, nature of operations, and the interests of shareholders. The guide details the application process and the conditions that must be satisfied for both class and individual relief.",
+  "date_of_effect": "2020-06 (issued, then updated with a note inserted 2020-07-27)",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 340",
+    "Corporations Act 2001 (Cth) s 342",
+    "Corporations Act 2001 (Cth) s 301(1)",
+    "Corporations Act 2001 (Cth) s 307",
+    "Corporations Act 2001 (Cth) s 308",
+    "Corporations Act 2001 (Cth) s 314",
+    "Corporations Act 2001 (Cth) s 315",
+    "Corporations Act 2001 (Cth) s 316",
+    "Corporations Act 2001 (Cth) s 319",
+    "Corporations Act 2001 (Cth) s 45A",
+    "Corporations Act 2001 (Cth) s 9",
+    "Corporations Act 2001 (Cth) s 588G",
+    "Corporations Act 2001 (Cth) s 109Y",
+    "Corporations Act 2001 (Cth) s 111AC",
+    "Corporations Act 2001 (Cth) s 220",
+    "Old Corporations Law s 319(4)"
+  ],
+  "cases_referenced": [
+    "Mazda Australia Pty Ltd v ASC (1992) 8 ACSR 613"
+  ],
+  "related_rulings": [
+    "RG 43",
+    "RG 51",
+    "RG 108",
+    "ASIC Corporations (Audit Relief) Instrument 2016/784",
+    "ASIC Corporations (Wholly-owned Companies) Instrument 2016/785",
+    "PF 183 Deed of subordination",
+    "INFO 225"
+  ]
+}

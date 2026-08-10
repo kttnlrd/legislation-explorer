@@ -1,0 +1,41 @@
+{
+  "citation": "RG 9",
+  "title": "Takeover bids",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide discusses ASIC's regulatory role, interpretation, and administration of the takeover provisions in Chapter 6 of the Corporations Act 2001 (Cth). It also explains how ASIC exercises its discretionary powers, including the power to grant exemptions or modifications to the takeover provisions.",
+  "background": "The guide is issued under the legislative framework of the Corporations Act 2001 (Cth), specifically Chapter 6 which regulates takeover bids. It is intended for listed and unlisted entities, their advisers, and investors involved in takeover bids.",
+  "ruling": "ASIC states its regulatory role in relation to takeover bids, including how it interprets and administers the requirements of the takeover provisions. The guide explains the principles underlying ASIC’s approach to exercising its discretionary powers, such as granting relief from or modifying the operation of the law. ASIC provides practical guidance on compliance with the takeover provisions and outlines the steps it expects regulated entities to follow. ASIC emphasizes that it will take a principles-based approach to enforcement, focusing on the policy objectives of the takeover provisions. The guide also details ASIC's expectations regarding disclosure, equality of treatment, and the conduct of bidders and targets.",
+  "date_of_effect": "2024-03-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) Ch 6",
+    "Corporations Act 2001 (Cth) s 633(2)"
+  ],
+  "cases_referenced": [
+    "Re iSOFT Group Ltd [2011] FCA 680",
+    "Re Pinnacle VRB Ltd (No 3) [2001] ATP 2",
+    "Re Venturex Resources Ltd (2009) 177 FCR 391",
+    "S.A. Liquor Distributors Ltd [2002] ATP 22",
+    "Sagasco Amadeus Pty Ltd v Magellan Petroleum Australia Pty Ltd (1993) 177 CLR 508",
+    "Savage Resources Ltd v Pasminco Investments Pty Ltd (1998) 30 ACSR 1",
+    "Skywest Limited 01 [2004] ATP 10",
+    "Skywest Limited 04 [2004] ATP 26",
+    "Sovereign Life Assurance Co v Dodd [1892] 2 QB 573",
+    "Stirling Resources NL v Capital Energy NL (1996) 19 ACSR 701",
+    "Sturla v Freccia [1874-80] All ER Rep 657",
+    "Taipan Resources NL (No 3) [2000] ATP 17",
+    "Taipan Resources NL (No 10) [2001] ATP 5",
+    "Taipan Resources NL (No 11) [2001] ATP 5",
+    "TNT Australia Pty Ltd v Normandy Resources NL (1989) 7 ACLC 309",
+    "Tower Software Engineering Pty Ltd 01 [2006] ATP 20",
+    "Wright Heaton Ltd v PDS Rural Products Ltd [1982] 2 NSWLR 301"
+  ],
+  "related_rulings": [
+    "GN 6",
+    "GN 14",
+    "GN 18",
+    "GN 20",
+    "GN 21",
+    "GN 22"
+  ]
+}

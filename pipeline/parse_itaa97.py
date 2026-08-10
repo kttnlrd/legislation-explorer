@@ -29,7 +29,7 @@ from dictionary_utils import starts_new_definition
 # Part/Division/Subdivision — match both em-dash (TOC) and space (body) variants.
 RE_PART = re.compile(r"^Part\s+(\d+-\d+)\s*[\u2014\u2013\-]?\s*(.+)$")
 RE_DIVISION = re.compile(r"^Division\s+(\d+[A-Z]*)\s*[\u2014\u2013\-]?\s*(.+)$")
-RE_SUBDIVISION = re.compile(r"^Subdivision\s+(\d+-[A-Z])\s*[\u2014\u2013\-]?\s*(.+)$")
+RE_SUBDIVISION = re.compile(r"^Subdivision\s+(\d+[A-Z]*-[A-Z])\s*[\u2014\u2013\-]?\s*(.+)$")
 
 # Section header: "6-5 Income according to ordinary concepts"
 # Must start at column 0 (body headers are not indented).
@@ -126,6 +126,7 @@ def is_page_header_noise(line: str) -> bool:
     if stripped in (
         "Introduction and core provisions",
         "Liability rules of general application",
+        "Liability rules of general application Chapter 2",
         "Specialist liability rules",
         "Business and investment income",
         "International",
@@ -142,6 +143,15 @@ def is_page_header_noise(line: str) -> bool:
     if re.match(r"^(Dictionary definitions|Definitions|Rules for interpreting this Act) (Part|Division) \d+(-\d+)?$", stripped):
         return True
     if re.match(r"^Section \d+[A-Z]*-\d+[A-Z]*(?:\d+)?$", stripped):
+        return True
+    # Bare "Part X-XX" running headers (no trailing text)
+    if re.match(r"^Part \d+-\d+$", stripped):
+        return True
+    # Running headers with structural marker embedded (e.g. "Employee share schemes Division 83A")
+    if re.match(r"^\w.*\s+(Division|Subdivision)\s+\d+[A-Z]*-?[A-Z]*\d*$", stripped):
+        return True
+    # Continuation lines of page headers after form feed
+    if re.match(r"^Rules affecting employees", stripped):
         return True
     return False
 
@@ -346,12 +356,28 @@ def parse_volume(
         if after_form_feed:
             if part_match and part_match.group(1) == ctx.part:
                 i += 1
+                # Skip continuation lines of repeated page header
+                while i < len(lines):
+                    peek = lines[i].rstrip("\r").strip()
+                    if not peek or RE_PART.match(lines[i]) or RE_DIVISION.match(lines[i]) or RE_SUBDIVISION.match(lines[i]) or RE_SECTION.match(lines[i]):
+                        break
+                    i += 1
                 continue
             if div_match and div_match.group(1) == ctx.division:
                 i += 1
+                while i < len(lines):
+                    peek = lines[i].rstrip("\r").strip()
+                    if not peek or RE_SUBDIVISION.match(lines[i]) or RE_SECTION.match(lines[i]):
+                        break
+                    i += 1
                 continue
             if sub_match and sub_match.group(1) == ctx.subdivision:
                 i += 1
+                while i < len(lines):
+                    peek = lines[i].rstrip("\r").strip()
+                    if not peek or RE_SECTION.match(lines[i]):
+                        break
+                    i += 1
                 continue
             # Any other line after form feed that isn't noise resets the flag
             after_form_feed = False
@@ -445,6 +471,15 @@ def parse_volume(
 
         # Body line belongs to current section.
         if current is not None:
+            # Skip footer/header noise that leaks into section body
+            stripped = line.strip()
+            if (
+                RE_FOOTER_SEPARATOR.match(stripped)
+                or RE_ASTERISK_FOOTER.match(stripped)
+                or RE_NOISE.match(stripped)
+            ):
+                i += 1
+                continue
             current.lines.append(line)
 
         i += 1

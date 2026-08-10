@@ -1,0 +1,24 @@
+{
+  "citation": "RG 44",
+  "title": "Annual general meeting—extension of time",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide sets out the procedural requirements for a public company applying for an extension of time to hold its annual general meeting (AGM) and the criteria ASIC uses to determine such applications.",
+  "background": "The guide is issued under the Corporations Law (now Corporations Act 2001) and addresses the statutory obligations of public companies under s250N to hold an AGM within five months of the end of their financial year. It is intended for public companies, their directors, and officers who need to apply for relief under s250P when they cannot meet the statutory deadline.",
+  "ruling": "ASIC will generally grant an extension of time for holding an AGM if the company demonstrates a genuine need, such as a change in financial year, receivership, or other exceptional circumstances. For companies in receivership where the receiver controls all day-to-day operations, ASIC is inclined to grant an extension of up to six months, conditional on the directors sending certain reports to members. Where directors retain some control, an extension of up to two months may be given if the receivership caused the delay. ASIC also considers applications where a company cannot hold an AGM in a particular calendar year due to a change in financial year or synchronisation with a foreign parent, and will generally grant relief to allow the AGM in the following calendar year. Applications must be submitted via the ASIC Regulatory Portal (from 27 July 2020) and must address all factors outlined in the guide; incomplete applications will not be considered until all relevant information is provided.",
+  "date_of_effect": "1998-11-04",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 250N",
+    "Corporations Act 2001 (Cth) s 250P",
+    "Corporations Act 2001 (Cth) s 323D",
+    "Corporations Act 2001 (Cth) s 1317B",
+    "ASIC Class Order [CO 98/96]"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "RG 51",
+    "RG 58",
+    "Superseded Policy Statement 13 [SPS 13]",
+    "Superseded Policy Statement 68 [SPS 68]"
+  ]
+}

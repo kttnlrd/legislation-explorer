@@ -1,0 +1,33 @@
+{
+  "citation": "RG 43",
+  "title": "Financial reports and audit relief",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide explains how ASIC may exercise its powers to grant relief from the financial reporting and audit requirements of Parts 2M.2, 2M.3 and 2M.4 (other than Division 4) of the Corporations Act 2001. It covers the statutory pre-conditions for relief, the application process, and the nature of relief available, including class orders and individual orders.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth) and is intended for companies, registered schemes, disclosing entities, their directors, and auditors. It provides regulatory guidance on ASIC's approach to granting relief from financial reporting and audit obligations, aiming to balance the objectives of financial reporting with the need to avoid unnecessary or unduly burdensome compliance.",
+  "ruling": "ASIC will consider applications for relief on a case-by-case basis, and may grant class orders to provide relief for common situations where compliance would be unnecessary or unduly burdensome and not contrary to the public interest. Relief may be subject to conditions, and ASIC may revoke or suspend an order if circumstances change. The guide outlines the statutory pre-conditions under sections 340, 341 and 342 of the Corporations Act, and the criteria ASIC will consider when deciding whether to grant relief. ASIC has issued several class orders providing specific relief, such as for synchronisation of financial years with foreign parents, audit relief for proprietary companies, and relief for wholly-owned entities. Applicants must follow the prescribed application procedure, including submitting through the ASIC Regulatory Portal from 27 July 2020.",
+  "date_of_effect": "2011-05-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) Ch 2M, Pts 2M.2, 2M.3, 2M.4, 2M.6, s111AT",
+    "Corporate Law Reform Act 1988 (Cth)",
+    "Corporations (Fees) Regulations 2001 (Cth)",
+    "Trade Practices Act 1974 (Cth)"
+  ],
+  "cases_referenced": [
+    "Australian Newsprint Mills Ltd, Re (1988) 14 ACLR 355",
+    "Incat Australia Pty Ltd and Another and ASIC, Re (1999) 33 ACSR 132",
+    "Incat Australia Pty Ltd v ASIC (2000) 33 ACSR 462",
+    "Liquid Air (WA) Pty Ltd, Directors of v Commissioner for Corporate Affairs (1989) 15 ACLR 29",
+    "Mazda Australia Pty Ltd and ASC, Re (1992) 29 ALD 57; (1992) 8 ACSR 613",
+    "SRKKK and Another and ASIC, Re (2002) 68 ALD 671; (2002) 42 ACSR 551"
+  ],
+  "related_rulings": [
+    "RG 51",
+    "RG 44",
+    "RG 58",
+    "RG 95",
+    "RG 108",
+    "RG 115",
+    "RG 174"
+  ]
+}

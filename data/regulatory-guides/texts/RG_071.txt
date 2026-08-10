@@ -1,0 +1,1497 @@
+REGULATORY GUIDE 71
+
+Downstream acquisitions
+
+August 2016
+
+
+
+
+About this guide
+This guide is for companies, listed managed investment schemes, investors
+and their advisers who are involved in, or affected by, downstream
+acquisitions.
+
+In some circumstances, a downstream acquisition may breach s606 of the
+Corporations Act.
+
+This guide explains:
+   the downstream acquisition exemption in item 14 of s611 (item 14);
+   when we may grant relief;
+   the conditions that may apply to our relief; and
+   how to apply for relief.
+                                                                   REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in August 2016 and is based on legislation and
+                             regulations as at the date of issue. On 27 July 2020, we updated the process
+                             for submitting an application for relief in RG 71.89.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 71, issued May 2012
+                                    Superseded Policy Statement 71, issued 15 November 1993, reissued
+                                     1 July 1996, rebadged as a regulatory guide 5 July 2007
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                           Page 2
+                                                                                REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+Contents
+
+
+
+                             A      Overview ........................................................................................... 4
+                                    What is a downstream acquisition? ................................................... 4
+                                    Purposes of Ch 6 ............................................................................... 5
+                                    The exemption in item 14 .................................................................. 6
+                                    When ASIC may grant relief .............................................................. 6
+                                    Conditions of relief that may apply .................................................... 6
+                                    Applying for relief ............................................................................... 6
+                             B      The exemption in item 14 ................................................................ 7
+                                    The exemption in item 14 .................................................................. 7
+                                    Our approach to the exemption ......................................................... 8
+                                    Scope of the exemption ..................................................................... 8
+                             C      When ASIC may grant relief.......................................................... 11
+                                    Our approach to relief applications .................................................. 11
+                                    When we may grant relief ................................................................ 12
+                                    Key concepts relevant to our decision about relief and conditions.. 13
+                                    When we will not grant relief ............................................................ 15
+                             D      Conditions of relief ........................................................................ 16
+                                    What conditions may apply? ............................................................ 16
+                                    Downstream bid condition ............................................................... 17
+                                    Standstill and voting conditions ....................................................... 22
+                                    Other conditions that may apply ...................................................... 24
+                             E      Applying for relief .......................................................................... 25
+                                    How to apply for relief ...................................................................... 25
+                                    Information applicants should provide ............................................. 25
+                                    Procedural fairness .......................................................................... 26
+                                    Approving a foreign exchange ......................................................... 27
+                             Key terms ............................................................................................... 28
+                             Related information ............................................................................... 30
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                                                        Page 3
+                                                                         REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               A person may acquire a relevant interest in the shares of a downstream
+                               company as a result of an acquisition of a relevant interest in an upstream
+                               entity.
+
+                               This guide explains:
+                               • downstream acquisitions and when a person may breach s606 as a
+                                 result of an upstream acquisition (see RG 71.1–RG 71.4);
+                               • the exemption for downstream acquisitions in item 14 of s611 (item 14),
+                                 our approach to the exemption, the scope of the exemption, and when
+                                 we may apply to the Takeovers Panel for a declaration of unacceptable
+                                 circumstances even though the exemption in item 14 is satisfied (see
+                                 Section B);
+                               • when we may grant relief to allow downstream acquisitions that would
+                                 breach s606 because they do not satisfy the exemption in item 14 (see
+                                 Section C);
+                               • the conditions that may apply to our relief (see Section D); and
+                               • how to apply for relief (see Section E).
+
+
+
+
+What is a downstream acquisition?
+              RG 71.1        A downstream acquisition occurs when a person acquires a relevant interest
+                             in the shares of a downstream company as a result of an acquisition in an
+                             upstream entity (downstream acquisition).
+
+              RG 71.2        This is because a person is deemed under s608(3) of the Corporations Act
+                             2001 (Corporations Act) to have the same relevant interests in securities that
+                             an upstream entity has if they have voting power above 20% in, or control,
+                             the entity.
+
+                                   Note: For ease of reference, we have generally used the term ‘company’ and ‘shares’
+                                   when referring to the downstream company because this is consistent with the language
+                                   adopted in Ch 6 of the Corporations Act. However, Ch 6 and this guide also apply to the
+                                   acquisition of relevant interests in voting securities of listed bodies and voting interests
+                                   of listed managed investment schemes: s603 and 604. In relation to the upstream
+                                   company, body or scheme, Ch 6 uses the terms ‘listed company’ and ‘body corporate’.
+                                   For ease of reference, we have used the term ‘upstream entity’ throughout this guide.
+
+              RG 71.3        The downstream acquisition will breach s606 in circumstances where the
+                             relevant interest in the downstream company exceeds the thresholds in s606,
+                             unless an exemption in s611 applies. Item 14 of s611 (item 14) provides an
+                             exemption for certain downstream acquisitions.
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                                         Page 4
+                                                                      REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+              RG 71.4        Two examples of downstream acquisitions that may breach the thresholds in
+                             s606 are set out below.
+
+                               Example 1: Acquiring a relevant interest in an upstream entity
+
+                               Company A acquires a relevant interest in 40% of the securities in Entity B
+                               where Entity B has a relevant interest in 25% of the shares in Company C.
+                               This will result in Company A acquiring a relevant interest in 25% of the
+                               shares in Company C (by the application of s608(3)(a)).
+
+
+                               Example 2: Acquiring control of an upstream managed investment
+                               scheme
+
+                               Company A acquires control of Scheme 1 where Scheme 1 has a relevant
+                               interest in 25% of the interests in Scheme 2 (a listed managed investment
+                               scheme). This will result in Company A acquiring a relevant interest in 25%
+                               of the interests in Scheme 2 (by application of s608(3)(b)).
+
+                                   Note: It is assumed in each example that Company A did not have an existing relevant
+                                   interest in the shares in Company C or in the interests in Scheme 2.
+
+
+
+
+Purposes of Ch 6
+              RG 71.5        The purposes of Ch 6 as set out in s602 are relevant to downstream
+                             acquisitions. This is because a downstream acquisition may result in:
+                             (a)   an upstream acquirer obtaining control over a substantial interest in
+                                   the downstream company without downstream shareholders being
+                                   given an opportunity to consider the proposal, contrary to the principle
+                                   in s602(b); or
+                             (b)   the downstream holders not being given an equal opportunity to share
+                                   in any premium for control of the downstream shares that is reflected
+                                   in the price paid for the upstream acquisition, contrary to the principle
+                                   in s602(c).
+
+              RG 71.6        A downstream acquisition that satisfies the exemption in item 14 may
+                             nonetheless give rise to unacceptable circumstances if the acquisition
+                             offends the principles in s602. We will also consider the purposes of Ch 6
+                             when considering whether to give relief to a downstream acquisition that
+                             does not satisfy the exemption in item 14 and the conditions that should
+                             apply to our relief.
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                                    Page 5
+                                                                 REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+The exemption in item 14
+              RG 71.7        The exemption in item 14 applies where the upstream entity is included in
+                             the official list of a prescribed financial market or a foreign body conducting
+                             a financial market approved by us. ASIC’s list of approved foreign financial
+                             markets is set out in ASIC Corporations (Approved Foreign Financial
+                             Markets) Instrument 2015/1071.
+
+              RG 71.8        When considering whether a downstream acquisition is exempt from the
+                             prohibition in s606, persons acquiring a relevant interest in an upstream entity
+                             should be aware that there are limits to the scope of the exemption in item 14,
+                             and a downstream acquisition may risk an application to the Takeovers Panel
+                             for a declaration of unacceptable circumstances even though the exemption
+                             applies. For a discussion of the downstream acquisition exemption in item 14
+                             and the circumstances in which it should apply, see Section B.
+
+
+
+When ASIC may grant relief
+              RG 71.9        ASIC has discretionary powers under s655A to grant relief from the
+                             requirements of Ch 6. The circumstances where we may grant case-by-case
+                             relief to permit a downstream acquisition that does not satisfy the exemption
+                             in item 14 are discussed in Section C. We will continue to monitor
+                             downstream acquisition transactions and consider new developments in this
+                             area, as appropriate.
+
+
+
+Conditions of relief that may apply
+              RG 71.10       The types of conditions that we may impose on any relief we grant will
+                             depend on the circumstances of the downstream acquisition: see Section D.
+                             Table 1 in Section D summarises when certain conditions will apply and
+                             where to find more information on the conditions.
+
+
+
+Applying for relief
+              RG 71.11       Applications for relief should be made before the upstream acquisition is
+                             made. For details on how to apply for relief, see Section E.
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                          Page 6
+                                                                       REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+B          The exemption in item 14
+
+                               Key points
+
+                               Item 14 provides an exemption from s606 for downstream acquisitions
+                               where the upstream entity is listed on a prescribed financial market or on
+                               an approved foreign financial market.
+
+                               This section explains:
+                               • the exemption in item 14 (see RG 71.12–RG 71.15);
+                               • our approach to the exemption (see RG 71.16–RG 71.18); and
+                               • the scope of the exemption, including when we may apply to the
+                                 Takeovers Panel for a declaration of unacceptable circumstances
+                                 (see RG 71.19–RG 71.24 and RG 71.26–RG 71.28).
+
+
+
+The exemption in item 14
+              RG 71.12       Item 14 exempts a downstream acquisition from breaching s606 where the
+                             acquisition results from an upstream acquisition of a relevant interest in
+                             voting shares of a body corporate that is included in the official list of:
+                             (a)   a prescribed financial market; or
+                             (b)   a foreign body conducting a financial market that is a body approved in
+                                   writing by us.
+
+              RG 71.13       The exemption in item 14 was introduced following a period of uncertainty
+                             in the law and recommendations by the Legal Committee of the Companies
+                             and Securities Advisory Committee (CASAC) in its paper Anomalies in the
+                             takeovers provisions of the Corporations Law (March 1994).
+
+              RG 71.14       We have approved a list of foreign financial markets for the purposes of
+                             item 14: see ASIC Corporations (Approved Foreign Financial Markets)
+                             Instrument 2015/1071. All of the foreign bodies conducting a financial
+                             market included in this list are also included in the list of approved foreign
+                             markets in Regulatory Guide 72 Foreign securities: Disclosure relief
+                             (RG 72).
+                                   Note: Unless otherwise stated, our relief only extends to the main board of these markets.
+
+              RG 71.15       In approving the list of foreign financial markets, we took into account the
+                             criteria set out at RG 72.58 because we consider that the extension of the
+                             item 14 exemption to foreign exchanges that meet these criteria satisfies the
+                             policy behind the exemption in item 14: see RG 71.17. For a discussion of
+                             when we may approve a new foreign market for the purposes of item 14, see
+                             RG 71.96–RG 71.98.
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                                       Page 7
+                                                                     REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+Our approach to the exemption
+              RG 71.16       Our approach to the exemption for downstream acquisitions in item 14 is to
+                             uphold the policy behind the exemption while also taking into account the
+                             investor protections afforded to downstream shareholders in s602.
+
+              RG 71.17       The policy behind the exemption in item 14 is designed to:
+                             (a)   preserve the free flow of shares in widely held entities listed on
+                                   appropriate exchanges;
+                             (b)   prevent companies constructing a takeover defence through the
+                                   acquisition of strategic parcels in downstream companies; and
+                             (c)   enhance international comity through the removal of obstacles to
+                                   primarily foreign business transactions.
+
+                                   Note: See the Legal Committee of CASAC, Anomalies in the takeovers provisions of
+                                   the Corporations Law (March 1994) at pp. 30–2 and the Explanatory Memorandum,
+                                   Corporations Bill 1988, cl 1966.
+
+              RG 71.18       International comity considerations underpin the extension of the exemption
+                             in item 14 to downstream acquisitions occurring as a result of an acquisition
+                             in a foreign entity listed on an approved foreign financial market. This is
+                             because Australian securities regulation should not impose excessive costs or
+                             regulatory obstacles on primarily foreign corporate transactions.
+
+
+
+Scope of the exemption
+              RG 71.19       When considering whether a downstream acquisition is exempt from the
+                             prohibition in s606, persons acquiring a relevant interest in an upstream
+                             entity should be aware that:
+                             (a)   the upstream entity must have a primary listing (and not only a
+                                   secondary listing) on a prescribed financial market or an approved
+                                   foreign financial market;
+                             (b)   we will not consider that a downstream acquisition should be exempt
+                                   from s606 merely because another exemption in s611 may apply to the
+                                   upstream acquisition; and
+                             (c)   a downstream acquisition may risk an application to the Takeovers
+                                   Panel for a declaration of unacceptable circumstances even if it satisfies
+                                   the exemption in item 14.
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                                 Page 8
+                                                                 REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+                             Secondary listings
+
+              RG 71.20       Class Order [CO 13/520] Relevant interests, voting power and exceptions to
+                             the general prohibition modifies item 14 to exclude secondary listings from
+                             the scope of the exemption. This is because the place of incorporation and
+                             the listing rules of the exchange on which the upstream entity has its primary
+                             listing may not satisfy the policy behind the exemption in item 14. This
+                             means that the item 14 exemption will not apply if the upstream entity only
+                             has a secondary listing on a prescribed financial market or on an approved
+                             foreign exchange: see [CO 13/520].
+
+              RG 71.21       Where a person makes an upstream acquisition and the upstream entity has
+                             only a secondary listing on a prescribed financial market or an approved
+                             foreign financial market, the acquirer may apply to us for individual
+                             downstream acquisition relief: see Section C.
+
+
+                             Upstream acquisitions where another exemption in s611
+                             applies
+
+              RG 71.22       We may not consider that a downstream acquisition should be exempt from
+                             s606 merely because another exemption in s611 applies to the upstream
+                             acquisition.
+
+              RG 71.23       Downstream acquisitions will most often arise when a person makes a
+                             takeover offer for an upstream entity. There is an exemption from s606 for
+                             acquisitions that result from the acceptance of a takeover offer made under
+                             Ch 6: see item 1 of s611.
+
+              RG 71.24       We do not consider that a downstream acquisition will be exempt from the
+                             prohibition in s606 merely because an exemption in s611 other than item 14
+                             applies to the upstream acquisition. This is because there is a separate
+                             express exemption for downstream acquisitions in item 14. However, we
+                             acknowledge that there are different views on this issue.
+
+              RG 71.25       An acquirer who cannot rely on item 14 but seeks to rely on another
+                             exemption in s611 in relation to a downstream acquisition may risk regulatory
+                             action by us, including an application to the Takeovers Panel for a declaration
+                             of unacceptable circumstances.
+
+
+                             Unacceptable circumstances
+
+              RG 71.26       A downstream acquisition may give rise to unacceptable circumstances even
+                             if it satisfies the exemption in item 14. An application to the Takeovers
+                             Panel for a declaration of unacceptable circumstances and orders (which
+                             include remedial orders) in relation to the affairs of a company can be made
+                             by ASIC or any other interested person: see Pt 6.10, Div 2, Subdiv B.
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                         Page 9
+                                                                        REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+              RG 71.27       Whether the circumstances of a downstream acquisition are unacceptable
+                             will depend on the particulars of each case. However, the Takeovers Panel
+                             will have regard to the purposes of Ch 6 set out in s602 when considering an
+                             application for a declaration of unacceptable circumstances. The Takeovers
+                             Panel stated in Australian Pipeline Trust 01R [2006] ATP 29 at [106] that:
+                                   … there is clear indication in the explanatory memoranda and the relevant
+                                   extrinsic material (for the Corporations Act and its preceding legislation)
+                                   that the legislature was concerned that the exemption set out in Item 14 not
+                                   be abused and the intent of Chapter 6 not be avoided.
+
+              RG 71.28       The types of circumstances in which we may consider applying to the
+                             Takeovers Panel for a declaration of unacceptable circumstances despite the
+                             exemption in item 14 applying include where:
+                             (a)   control of the downstream company is a significant purpose of the
+                                   upstream acquisition (see, for example, the discussion in Leighton
+                                   Holdings Limited 02R [2010] ATP 14 at 67 and 70–86, and Leighton
+                                   Holdings 01, 02, 03 [2010] ATP 13 at 55); and/or
+                                   Note: If the downstream shares comprise over 50% of the assets of the upstream entity, the
+                                   Takeovers Panel will consider if (among other factors) reliance on item 14 is unacceptable
+                                   in the circumstances: see the discussion in Leighton Holdings Limited 02R [2010] ATP 14.
+
+                             (b)   the downstream acquisition technically satisfies the exemption in item 14
+                                   but subverts or otherwise does not meet the policy basis for reliance on
+                                   the exemption in item 14, such as where the upstream entity is listed in
+                                   name only and is closely held (see Cape Lambert Minsec Pty Ltd [2009]
+                                   ATP 12 at 40).
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                                      Page 10
+                                                                 REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+C          When ASIC may grant relief
+
+                               Key points
+
+                               Relief will be required where a downstream acquisition does not satisfy the
+                               exemption in item 14.
+                               This section explains:
+                               • our approach to relief (see RG 71.29–RG 71.33);
+                               • when we may grant relief (see RG 71.34–RG 71.36);
+                               • key concepts relevant to our decision whether to grant relief (see
+                                 RG 71.37–RG 71.47); and
+                               • when we will not grant relief (see RG 71.48).
+
+
+
+Our approach to relief applications
+              RG 71.29       A person may apply for relief to make a downstream acquisition that would
+                             otherwise result in the person breaching s606. This will be required if the
+                             upstream entity is unlisted or does not have a primary listing on a prescribed
+                             financial market or on an approved foreign financial market.
+
+              RG 71.30       In deciding whether to grant relief for a downstream acquisition that does
+                             not satisfy the exemption in item 14, we will consider:
+                             (a)   the policy objectives of the exemption in item 14 (see RG 71.16–
+                                   RG 71.18); and
+                             (b)   the purposes of Ch 6, as set out in s602 (see RG 71.5–RG 71.6).
+
+              RG 71.31       A prerequisite to relief will be compliance by the party applying for relief
+                             with the disclosure obligations discussed below.
+
+
+                             Disclosure obligations
+              RG 71.32       Before we grant relief for a downstream acquisition that does not satisfy
+                             item 14, the applicant must satisfy us that the market for the shares in the
+                             downstream company is adequately informed about the upstream acquisition.
+
+              RG 71.33       We will not grant relief unless the acquirer of the upstream entity discloses
+                             to the downstream company details about the timing and terms of the
+                             upstream acquisition at the time the upstream acquisition is announced. If
+                             the downstream company is listed, this will enable the downstream company
+                             to make an announcement to the relevant financial market about the
+                             upstream acquisition and the implications for the downstream shareholders.
+                             If the downstream company is not listed, the provision of this information
+                             will enable the downstream company to communicate directly with its
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                        Page 11
+                                                                       REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+                             members about the upstream acquisition and the potential implications of the
+                             upstream acquisition on the downstream company.
+
+
+
+When we may grant relief
+              RG 71.34       We may grant relief subject to conditions appropriate to the circumstances if
+                             we are satisfied that the policy and investor protections identified in this
+                             guide will be upheld.
+
+              RG 71.35       We will consider the following factors when deciding whether to grant relief:
+                             (a)   whether the upstream entity is listed or unlisted. We will be more likely
+                                   to grant relief if the upstream entity is listed;
+                             (b)   international comity considerations;
+                             (c)   whether control of the downstream company appears to be a significant
+                                   purpose of the upstream acquisition or whether the downstream shares
+                                   are a substantial part of the upstream entity’s assets;
+                                   Note: If we grant relief despite these factors being present, we would be likely to
+                                   impose a downstream bid condition to ensure that the principles in s602 will be upheld.
+
+                             (d)   the alternatives that are available to the acquirer. There may be other
+                                   ways to structure a transaction so that relief is not required, such as
+                                   where the downstream shares can be simply and efficiently separated
+                                   from the other assets of the upstream entity. In these circumstances, we
+                                   may refuse relief as unnecessary. However, we understand that
+                                   negotiations to separate the downstream shares from the assets of an
+                                   upstream entity may be impracticable in the circumstances;
+                             (e)   whether the regulation that applies to the upstream acquisition achieves
+                                   similar regulatory outcomes to Australian takeovers regulation;
+                             (f)   whether the upstream entity is widely or closely held—for example:
+                                   (i)    we will be unlikely to grant relief where the upstream entity is
+                                          unlisted and closely held or listed in name only and closely held; and
+                                   (ii)   where the upstream entity is closely held, it may also be easier for
+                                          the acquirer to negotiate to separate the shares in the downstream
+                                          company from the other assets of the upstream entity and relief
+                                          would be unnecessary; and
+                             (g)   any other circumstances that we consider relevant to the particular case.
+
+              RG 71.36       We may grant relief without conditions in rare and exceptional
+                             circumstances. The circumstances where we may grant relief without
+                             conditions are where:
+                             (a)   we are in the process of approving the relevant financial market for the
+                                   purposes of item 14; or
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                                    Page 12
+                                                                  REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+                             (b)   the upstream entity has a secondary listing on a prescribed financial
+                                   market or approved foreign financial market, which in the
+                                   circumstances is effectively the primary regulation that applies to the
+                                   upstream entity.
+
+
+
+Key concepts relevant to our decision about relief and conditions
+              RG 71.37       When deciding whether to grant relief and the conditions that may apply, the
+                             following concepts are relevant:
+                             (a)   whether control of the downstream company may be regarded as a
+                                   significant purpose of the upstream acquisition (this is relevant to both
+                                   whether we will grant relief and the conditions that may apply);
+                             (b)   whether the downstream shares are a substantial part of the upstream
+                                   entity’s assets (this is relevant to both whether we will grant relief and
+                                   the conditions that may apply); and
+                             (c)   whether the acquirer will obtain effective control of the downstream
+                                   company as a result of the upstream acquisition (this is relevant to the
+                                   conditions that may apply).
+
+              RG 71.38       For a discussion of the conditions that may apply to our relief, see Section D.
+                             For guidance on the information that should be provided to us when
+                             applying for relief, see Section E.
+
+
+                             Control purpose
+
+              RG 71.39       If there is a control purpose in relation to the downstream company, we may
+                             refuse to grant relief, or grant relief subject to conditions that ensure that the
+                             principles in s602 will be upheld (such as requiring that the acquirer make a
+                             downstream bid).
+
+              RG 71.40       When assessing whether control of the downstream company may be
+                             regarded as a significant purpose of the upstream acquisition, we will take
+                             into account all the relevant circumstances. These will include whether the
+                             circumstances suggest that the upstream acquisition has been structured or
+                             designed to avoid complying with Ch 6 in relation to the downstream company.
+
+              RG 71.41       The following factors may suggest to us that control of the downstream
+                             company is a significant purpose of the upstream acquisition:
+                             (a)   the percentage of shares in the downstream company held by the
+                                   upstream entity, including whether the shares comprise a substantial
+                                   part of the assets of the upstream entity;
+                             (b)   the voting power of the acquirer in the downstream company at the time
+                                   of the application, as well as the voting power of the acquirer following
+                                   the upstream acquisition;
+
+
+
+© Australian Securities and Investments Commission August 2016                                          Page 13
+                                                                  REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+                             (c)   the nature of the assets of the upstream entity, other than the shares in
+                                   the downstream company (i.e. whether they are highly liquid, or are
+                                   readily procurable or saleable commodities otherwise than through the
+                                   upstream acquisition);
+                             (d)   any association or aggregation of relevant interests or voting power
+                                   caused by the downstream acquisition; and
+                             (e)   cross-shareholdings, common board memberships and any other
+                                   common significant management or other relevant relationships
+                                   between any of the following:
+                                   (i)     the acquirer;
+                                   (ii)    the upstream entity;
+                                   (iii)   the downstream company; or
+                                   (iv)    their associates.
+
+
+                             Substantial assets
+
+              RG 71.42       If the downstream shares comprise a substantial part of the assets of the
+                             upstream entity, we may refuse relief or grant relief subject to conditions that
+                             ensure that the principles in s602 will be upheld (such as requiring that the
+                             acquirer make a downstream bid).
+
+              RG 71.43       We will normally regard 50% of the upstream entity’s assets as the threshold
+                             for determining whether the downstream shares constitute ‘a substantial part
+                             of the assets of the upstream entity’. If the market value of the downstream
+                             shares constitutes more than 50% of the value of the assets of the upstream
+                             entity, we will be more likely to determine that control of the downstream
+                             company is a significant purpose of the upstream acquisition.
+
+              RG 71.44       While 50% or more of the assets of the upstream entity is the threshold for
+                             determining whether the downstream shares constitute a substantial part of
+                             the assets of the upstream entity, we may choose to lower this figure taking
+                             into account the practical circumstances of the proposed acquisitions (e.g. if
+                             the upstream entity has significant cash assets).
+
+
+                             Effective control
+
+              RG 71.45       If the acquirer will obtain effective control of the downstream company as a
+                             result of an upstream acquisition, any relief granted would generally be
+                             subject to a condition that the acquirer make a downstream bid for the
+                             downstream company.
+
+              RG 71.46       When determining whether the acquirer will obtain effective control of the
+                             downstream company, we will generally regard voting power of 50% or
+                             above as constituting effective control. This is because the acquirer will have
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                        Page 14
+                                                                  REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+                             absolute or effective control over the downstream company with control
+                             over 50% or more of the voting shares.
+
+              RG 71.47       We may choose a figure lower than 50% if it appears to us that effective
+                             control over the downstream company, such as is envisaged under s50AA or
+                             the accounting standards dealing with controlling entities, may be exercised
+                             with less than 50% of the voting shares in the downstream company. We
+                             will also consider the circumstances of the downstream company, including
+                             the share register and whether there are any other substantial shareholdings
+                             in the downstream company.
+
+
+
+When we will not grant relief
+              RG 71.48       We will not grant relief to facilitate a downstream acquisition where:
+                             (a)   relief would be inconsistent with the policy behind the exemption in
+                                   item 14 and the principles in s602; or
+                             (b)   after considering all the relevant circumstances, we are not satisfied that
+                                   the regulatory detriment is minimal or clearly outweighed by the
+                                   resulting commercial benefit (see Regulatory Guide 51 Applications for
+                                   relief (RG 51), in particular RG 51.57–RG 51.62); or
+                             (c)   the upstream acquisition is not legal in the jurisdiction where it is to
+                                   take place; or
+                             (d)   it appears to us that the downstream acquisition may give rise to
+                                   unacceptable circumstances.
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                          Page 15
+                                                                      REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+D          Conditions of relief
+
+                               Key points
+
+                               This section explains the factors we will consider when determining the
+                               types of conditions that may apply to our relief: see RG 71.49–RG 71.52.
+
+                               The conditions that may apply to our relief are:
+                               • a downstream bid condition (see RG 71.53–RG 71.72); or
+                               • standstill and voting conditions (see RG 71.73–RG 71.81); and/or
+                               • other conditions instead of, or in addition to, these conditions, including
+                                 a sell-down condition (see RG 71.82–RG 71.85).
+
+
+
+What conditions may apply?
+              RG 71.49       Before we grant relief to allow a downstream acquisition that does not
+                             satisfy item 14, the applicant must satisfy us that the market for the shares in
+                             the downstream company will be adequately informed about the upstream
+                             acquisition. This will generally require the applicant to comply with certain
+                             disclosure obligations: see RG 71.32–RG 71.33.
+
+              RG 71.50       Where we grant relief to allow a downstream acquisition that does not
+                             satisfy the exemption in item 14, our relief will be subject to:
+                             (a)   a downstream bid condition; or
+                             (b)   standstill and voting conditions; and/or
+                             (c)   other types of conditions (including a sell-down condition) instead of,
+                                   or in addition to, the above conditions on a case-by-case basis.
+
+              RG 71.51       When determining the conditions that should apply, we will consider:
+                             (a)   whether control of the downstream company may be regarded as a
+                                   significant purpose of the upstream acquisition (see RG 71.39–RG 71.41);
+                             (b)   whether the downstream shares represent a substantial part of the assets
+                                   of the upstream entity (see RG 71.42–RG 71.44);
+                             (c)   whether the downstream shares to be acquired through the upstream
+                                   acquisition will give the acquirer effective control of the downstream
+                                   company (see RG 71.45–RG 71.47);
+                             (d)   the effect of the acquisition on the other downstream shareholders;
+                             (e)   whether the conditions are practical in the circumstances; and
+                             (f)   any other circumstances that we consider relevant to the particular case.
+
+                                   Note: When calculating the downstream shares to which the upstream acquirer is
+                                   entitled to, or becomes entitled to following the downstream acquisition, we will
+                                   include the shares and interests in the downstream company referred to in RG 71.41.
+
+
+
+© Australian Securities and Investments Commission August 2016                                                   Page 16
+                                                                     REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+              RG 71.52       Table 1 summarises the different types of conditions that may apply to
+                             our relief.
+
+Table 1:     Conditions that may apply
+
+ Conditions                                 When they may apply
+
+ Downstream bid condition                   This condition will generally apply when:
+ (see RG 71.53–RG 71.72)                     control of the downstream company appears to be a significant
+                                              purpose; or
+                                             downstream shares are a substantial part of the upstream entity’s
+                                              assets; or
+                                             effective control of the downstream company will be obtained.
+
+ Standstill and voting conditions           These types of conditions will generally apply when:
+ (see RG 71.73–RG 71.81)                     control of the downstream company does not appear to be a
+                                              significant purpose;
+                                             downstream shares are not a substantial part of the upstream
+                                              entity’s assets; and
+                                             effective control of the downstream company will not be obtained.
+
+ Other types of conditions                  We will apply other types of conditions on a case-by-case basis, as
+ (including a sell-down condition)          appropriate. These conditions may be instead of, or in addition to, the
+ (see RG 71.82–RG 71.85)                    above conditions.
+
+
+
+
+Downstream bid condition
+              RG 71.53       A downstream bid condition will require the acquirer to make a takeover bid
+                             for the downstream company on terms consistent with the policy set out
+                             below. The purpose of the downstream bid condition is to ensure that, as far
+                             as is practicable, the downstream shareholders share equally in the benefits
+                             being offered to the upstream holders under the upstream acquisition. Our
+                             guidance on the terms of the downstream bid is based on the Federal Court
+                             decision in BTR Plc v Westinghouse Brake and Signal Co (Australia) Ltd
+                             (1992) 106 ALR 35.
+
+              RG 71.54       Where our relief is subject to a downstream bid condition, we may also
+                             impose a voting condition that would generally prevent the acquirer from
+                             being able to exercise, or procure the exercise of, the votes attached to the
+                             downstream shares in excess of 20% until the close of the downstream bid.
+                             This condition is to ensure fairness between the acquirer and the other
+                             downstream shareholders during the downstream bid period.
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                                Page 17
+                                                                  REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+                             Type of bid
+              RG 71.55       A downstream bid must be an offer to acquire all (and not a specified
+                             proportion) of the bid class securities that the acquirer does not otherwise
+                             have a relevant interest in and that exist or will exist at the date specified in
+                             the bidder’s statement lodged with ASIC.
+
+                             Pricing of downstream bid
+              RG 71.56       We will normally require a downstream bid to be cash or include a cash
+                             alternative that is not less than the fair value ascribed to the downstream
+                             shares by an independent expert approved by us, or the ‘effective’ price.
+
+
+                             ‘Effective’ price
+
+              RG 71.57       If the price effectively being offered to the upstream shareholders for the
+                             shares in the downstream company held by the upstream entity can be
+                             clearly and accurately determined from the upstream acquisition price, we
+                             will allow the downstream bid to be made at the ‘effective’ price (i.e. where
+                             the upstream entity is a listed investment entity and the upstream acquisition
+                             price does not indicate that the market price for each of the investments is
+                             unreliable).
+
+              RG 71.58       We reserve the discretion in such cases to alter the pricing mechanism for
+                             the downstream bid if later information indicates that the ‘effective’ price
+                             paid for the downstream shares is not as transparent as represented to us in
+                             the application. Any uncertainty about the price will be reduced if we have
+                             the opportunity to obtain submissions from third parties who may be affected
+                             by our decision before we alter the pricing mechanism for the downstream
+                             bid. These submissions would be on the mechanism for determining the
+                             price of the downstream bid.
+
+              RG 71.59       If the upstream acquisition price is ‘see-through’ and is increased during the
+                             course of the upstream acquisition, the increase must be reflected in an
+                             increase in the downstream bid price.
+
+
+                             Independent expert’s valuation to determine fair value
+
+              RG 71.60       It will often not be possible to clearly and accurately determine the
+                             ‘effective’ price being offered for the downstream shares from the upstream
+                             acquisition price. Where this is the case, we will generally require that the
+                             consideration for the downstream bid must not be less than the fair value
+                             ascribed to the shares in the downstream company as determined by an
+                             independent expert approved by us.
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                          Page 18
+                                                                   REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+              RG 71.61       In determining the fair value of shares in the downstream company:
+                             (a)   the independent expert should follow the guidance in Regulatory
+                                   Guide 111 Content of expert reports (RG 111);
+                             (b)   the independent expert must determine the value per share, inclusive of
+                                   a premium for control, regardless of percentage ownership of the
+                                   downstream company (because this valuation method, by definition,
+                                   distributes any control premium equally between all shareholders);
+                             (c)   the independent expert must determine the value per share on the basis of
+                                   information that was available to the acquirer at the time the acquirer was
+                                   fixing the price of the upstream acquisition (the independent expert is not
+                                   limited to information that was used by the acquirer);
+                             (d)   the acquirer must ensure that the independent expert is provided with all
+                                   information about the downstream company that was available to the
+                                   acquirer when the acquirer was fixing the price of the upstream acquisition;
+                             (e)   the independent expert report must include a prominent statement that:
+                                   (i)    the purpose of the report is to set the price of the downstream bid
+                                          and has not been prepared for the purpose of providing an opinion
+                                          as to whether the downstream bid is fair and reasonable within the
+                                          meaning of s640; and
+                                   (ii)   that the report has been prepared on the basis of information
+                                          available to the acquirer at the time the upstream acquisition price
+                                          was fixed and therefore will not take into account any new
+                                          circumstances that occur in relation to the downstream company,
+                                          which may affect the fair value of the downstream shares;
+                             (f)   the acquirer of the upstream entity must pay the independent expert’s
+                                   fees; and
+                             (g)   the independent expert report must be included in the acquirer’s
+                                   bidder’s statement for the downstream company.
+
+              RG 71.62       If the independent expert gives a range of values, calculated by one valuation
+                             methodology, generally the price shall be the midpoint of the range. This is
+                             because, where it is not possible to determine an ‘effective’ price, the independent
+                             expert report serves the function of determining a fair value for the downstream
+                             shares. If the independent expert gives different values or different midpoints
+                             calculated by different methodologies, we consider that the highest value or
+                             highest midpoint should be used. We may consider requests to vary the terms of
+                             the relief for the selection of the downstream bid price and will consider the
+                             independent expert’s advice in determining these applications.
+
+              RG 71.63       The independent expert must determine the fair value of the downstream
+                             shares as at the time when the acquirer was fixing the price of the upstream
+                             acquisition. If the price of the upstream acquisition is subsequently increased,
+                             the expert must determine the fair value of the downstream shares at the time
+
+
+
+© Australian Securities and Investments Commission August 2016                                          Page 19
+                                                                 REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+                             of the increase and prepare a revised independent expert report. If necessary,
+                             the price of the downstream bid must be increased so that it is at least equal
+                             to this new value.
+
+              RG 71.64       In this situation, we will generally require the preparation of a revised
+                             independent expert report (which may be done by way of a supplementary
+                             report), and the value of the downstream bid must not be less than the updated
+                             fair value of the downstream shares as at the time when the acquirer was
+                             fixing the increased price of the upstream acquisition.
+
+              RG 71.65       New circumstances may arise during the downstream bid period that could
+                             have a material impact on the independent expert’s assessment of the fair
+                             value of the downstream company’s shares. Where the price of the upstream
+                             acquisition is not increased as a result of the new circumstances, we will not
+                             require the downstream bid price to be increased because there is no increase
+                             in the benefit being offered to the upstream shareholders. We consider that it
+                             may be appropriate for the independent expert to make a statement as to the
+                             status of the independent expert report in light of the new circumstances.
+
+              RG 71.66       The new circumstances may be information that downstream shareholders
+                             and their professional advisers might reasonably require to make an
+                             informed assessment whether to accept the downstream bid. Accordingly,
+                             the directors of the downstream company will need to:
+                             (a)   consider whether to revise their recommendation in relation to the
+                                   downstream bid; and
+                             (b)   provide shareholders with a supplementary target’s statement
+                                   explaining the effect of the new circumstances and consider whether
+                                   valuation information should be provided where the new circumstances
+                                   affect whether the downstream bid price is fair or reasonable.
+
+
+                             Other terms of downstream bid
+
+              RG 71.67       We will normally require a downstream bid to meet the following other
+                             conditions:
+                             (a)   Duration: The legislature has determined that one month is the
+                                   minimum period to satisfy s602(b): see s624(1)(b). However, if an
+                                   acquirer makes its downstream bid before the upstream acquisition
+                                   becomes unconditional, the acquirer must ensure that its downstream bid
+                                   remains open long enough for shareholders to consider that bid in light of
+                                   significant events in the upstream acquisition. The downstream bid
+                                   should remain open for at least two weeks after the acquirer becomes
+                                   unconditionally entitled to more than 20% of the voting shares in the
+                                   upstream entity or the upstream acquisition becomes unconditional
+                                   (whichever is the later).
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                        Page 20
+                                                                       REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+                             (b)   Dispatch: Offers must be dispatched no later than four weeks after the
+                                   acquirer becomes entitled to more than 20% of the voting shares in the
+                                   upstream entity or the upstream acquisition is declared unconditional
+                                   (whichever is the earlier).
+
+                                   Note: If an upstream offer is made in a foreign jurisdiction where the takeover threshold
+                                   is greater than 20%, we may increase the relevant references in this guide to 20% of the
+                                   voting shares in the upstream entity.
+
+
+                             Permissible defeating conditions of downstream bid
+
+              RG 71.68       Our relief will normally limit the defeating conditions that the acquirer may
+                             place on the downstream bid. However, provided that it undertakes in its
+                             offer to use its best endeavours to satisfy them, our relief will generally
+                             allow an acquirer to impose the following defeating conditions on its
+                             downstream bid:
+                             (a)   the upstream acquisition is successful (providing that success is defined
+                                   as being unconditionally entitled to more than 20% of the voting shares
+                                   in the upstream entity);
+                             (b)   no prescribed occurrence occurs. The condition may relate to events
+                                   that occur from the date of the announcement of the upstream
+                                   acquisition, but must be worded to lapse once the acquirer has achieved
+                                   control of the downstream company via the upstream acquisition; and
+                             (c)   requisite regulatory approval is gained (e.g. from the Foreign
+                                   Investment Review Board or the Australian Competition and Consumer
+                                   Commission).
+
+              RG 71.69       We will not allow a downstream bid to be subject to a defeating condition
+                             for minimum acceptances or that the acquirer achieve the thresholds for
+                             compulsory acquisition set out in s661A(1).
+
+                                   Note: In BTR Plc v Westinghouse Brake and Signal Co (Australia) Ltd (1992) 106 ALR
+                                   35, the Federal Court held that the predecessor of ASIC, the Australian Securities
+                                   Commission, was entitled to refuse to permit an acquirer to make a downstream bid
+                                   subject to a compulsory acquisition condition.
+
+
+                             Related relief for downstream company: Expert report
+                             under s640
+
+              RG 71.70       To satisfy s640, the downstream target may be required to provide an expert
+                             report that states whether in the expert’s opinion, the takeover offers are fair
+                             and reasonable and gives the reasons for forming that opinion. We may
+                             exempt the downstream target from the provisions of s640 if the expert
+                             report is required only because the acquirer became a major shareholder of
+                             the downstream company as a result of the upstream acquisition. In these
+                             cases, the protection of an expert report under s640 is not required. Also, the
+                             pricing of the downstream bid would have been determined in accordance
+                             with our policy.
+
+
+© Australian Securities and Investments Commission August 2016                                                      Page 21
+                                                                  REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+              RG 71.71       This relief may be inappropriate if material changes to the target company
+                             occur between the date of the expert report and the date for dispatch of the
+                             target’s statement.
+
+              RG 71.72       We will not grant this relief where s640 would require an expert report for
+                             any reason other than that the acquirer became a major shareholder of the
+                             downstream company as a result of the upstream acquisition. In these cases,
+                             the acquirer may be assumed to have had access to confidential information
+                             about the downstream company and to have been in a position to control or
+                             influence the actions and responses of both the target boards for the duration
+                             of the offer.
+
+
+
+Standstill and voting conditions
+              RG 71.73       Where our relief is subject to standstill and voting conditions, we will
+                             consider whether the acquirer will obtain absolute or effective control of the
+                             ‘upstream entity’ before deciding what types of standstill and voting
+                             conditions will apply.
+
+              RG 71.74       Where the acquirer will obtain absolute or effective control of the upstream
+                             entity (e.g. the acquirer will acquire a relevant interest in 80% of the
+                             upstream entity, which holds a relevant interest in 20% of the shares in the
+                             downstream company), our relief will be subject to:
+                             (a)   a ‘standstill condition’ that, for a specified period (see RG 71.76), the
+                                   acquirer will not acquire, or procure the upstream entity to acquire, a
+                                   relevant interest in any more shares in the downstream company; and
+                             (b)   a ‘voting condition’ that, for the specified period, the acquirer will not
+                                   exercise, control the exercise, or procure the exercise, of any votes
+                                   attached to the shares in the downstream company in which it acquired
+                                   a relevant interest in as a result of the upstream acquisition.
+
+              RG 71.75       Where the acquirer will not obtain absolute or effective control of the
+                             upstream entity (e.g. the acquirer will acquire a relevant interest in 30% of
+                             the upstream entity, which holds a relevant interest in 20% of the shares in
+                             the downstream company), our relief will be subject to:
+                             (a)   a standstill condition that, for a specified period (see RG 71.76), the
+                                   acquirer will not acquire a relevant interest in any more shares in the
+                                   downstream company, other than an increase in the relevant interest
+                                   arising because the upstream entity increases its relevant interest in the
+                                   downstream company under an exemption in s611, such as item 7 or
+                                   item 9; and
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                         Page 22
+                                                                   REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+                             (b)   either:
+                                   (i)    a voting condition that applies to the upstream entity for the
+                                          specified period, where the upstream entity supports the
+                                          application and agrees to such a condition being imposed; or
+                                   (ii)   some other type of condition, such as a condition that the acquirer
+                                          must not procure the exercise of any votes attached to the
+                                          downstream shares it acquired a relevant interest in as a result of
+                                          the upstream acquisition during the specified period.
+
+              RG 71.76       The specified period will be equivalent to the minimum period of time
+                             within which the applicant could have acquired the same number of voting
+                             shares using the 3% creep exemption in item 9 of s611.
+
+              RG 71.77       The purpose of standstill and voting conditions is to protect the interests of
+                             downstream company shareholders in circumstances where the upstream
+                             acquirer has obtained a relevant interest in more than 20% of the
+                             downstream company. The interests of downstream shareholders are
+                             protected because standstill and voting conditions reduce the control effect
+                             of the downstream acquisition.
+
+              RG 71.78       We consider that different types of standstill and voting conditions should
+                             apply depending on whether the acquirer obtains absolute or effective control
+                             of the upstream entity. This is because, where the acquirer obtains absolute or
+                             effective control of the upstream entity, the acquirer is in a position to control
+                             the affairs of the upstream entity, including decisions about acquiring a further
+                             relevant interest in the shares of the downstream company and exercising,
+                             controlling, or procuring the exercise by the upstream entity of, the votes
+                             attached to the shares in the downstream company.
+
+              RG 71.79       In contrast, we consider that less restrictive standstill and voting conditions
+                             are appropriate where the acquirer does not obtain absolute or effective
+                             control of the upstream entity. In these cases, we consider that a less
+                             restrictive standstill condition is appropriate because of the impact such a
+                             condition may have on the upstream entity (i.e. in these cases, our relief
+                             should not prevent the upstream entity from relying on exemptions in s611
+                             that would otherwise be available). In addition, we consider that a voting
+                             condition may be of limited benefit because it will be the upstream entity not
+                             the acquirer that will control the power to exercise the votes attached to the
+                             downstream shares.
+
+              RG 71.80       In relation to applying a voting condition on the upstream entity, we
+                             acknowledge that this may cause the potential for conflicts of interest to
+                             arise for the directors of the upstream entity. However, we consider that this
+                             condition or an appropriate alternative condition (such as the one discussed
+                             at RG 71.75(b)(ii)) will ensure that the interests of downstream shareholders
+                             are adequately protected.
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                             Page 23
+                                                                      REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+              RG 71.81       When considering whether to impose standstill and voting conditions on our
+                             relief, we will consider all the relevant circumstances, including submissions
+                             from the upstream entity. We will also consider the impact of the conditions
+                             on the downstream company, including their impact on the distribution of
+                             voting power in the downstream company. We will take into account the aim
+                             of protecting the interests of downstream holders by reducing the effect of
+                             the upstream acquisition on control of the downstream company and the
+                             effect of our relief on the upstream entity. When granting relief, we aim to
+                             reduce the risk that our relief is abused by seeking to ensure that an acquirer
+                             is not permitted to act in a manner contrary to the basis on which our relief
+                             was granted.
+
+
+Other conditions that may apply
+              RG 71.82       We may consider that the conditions discussed above are not appropriate in
+                             the circumstances of a particular application. We may also consider that,
+                             given the particular circumstances of a proposed downstream acquisition,
+                             other conditions should apply to our relief in addition to standstill, voting or
+                             downstream bid conditions. We may apply other conditions to our relief on a
+                             case-by-case basis.
+
+                             Sell-down condition
+
+              RG 71.83       One type of condition we may consider applying as an alternative to a
+                             downstream bid condition is a sell-down condition. We expect that we will
+                             grant relief subject to a sell-down condition in limited circumstances.
+                                   Note: When considering whether to impose a sell-down condition, we may consult with
+                                   affected third parties such as the downstream company and substantial shareholders of
+                                   the downstream company.
+
+              RG 71.84       Where our relief is subject to a sell-down condition, the condition will require
+                             the acquirer to sell down its interest in the downstream company within a
+                             specified time (and if this is not achieved, the acquirer or a subsidiary will be
+                             required to make a downstream bid consistent with the policy in this guide).
+
+              RG 71.85       If the acquirer is required to sell down its interest in the downstream
+                             company, our condition will normally state that the acquirer must:
+                             (a)   appoint a broker to reduce the acquirer’s voting power in the
+                                   downstream company to 20% or less within 14 days of acquiring
+                                   control of the upstream entity (or otherwise acquiring the power to
+                                   control the disposal of the downstream shares);
+                             (b)   not exercise, or procure the exercise of, any voting rights attached to the
+                                   downstream shares in excess of 20% without our consent; and
+                             (c)   in selling any downstream shares acquired under the relief, ensure that
+                                   the broker appointed uses its best endeavours to obtain as wide a
+                                   placement as practicable, for the highest practicable price.
+
+
+© Australian Securities and Investments Commission August 2016                                                  Page 24
+                                                                  REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+E          Applying for relief
+
+                               Key points
+
+                               This section sets out the process for applying for relief from s606 in relation
+                               to a downstream acquisition that does not satisfy the exemption in item 14.
+
+
+
+How to apply for relief
+              RG 71.86       We have discretionary power to grant relief from the requirements of Ch 6 in
+                             the form of an exemption from specified provisions, or a declaration that
+                             varies or modifies specified provisions as they apply to a person: see s655A.
+
+              RG 71.87       Downstream acquisitions generally involve complex transactions and issues.
+                             Applicants should ensure that there will be sufficient time for us to consider
+                             an application for individual downstream acquisition relief. Applications
+                             should normally be lodged no later than 28 days before the relevant upstream
+                             acquisition is to be made. Additional time should be allowed for applications
+                             that are outside the scope of our existing policy.
+
+              RG 71.88       Applicants seeking relief should approach us before the upstream acquisition
+                             takes place. We do not generally have power to grant retrospective relief.
+                             This means that we are unlikely to grant relief to allow a downstream
+                             acquisition if a breach of s606 has already occurred. Applicants should also
+                             refer to RG 51 before deciding on a course of action or timetable for any
+                             acquisition.
+
+              RG 71.89       Applicants should submit their applications for relief through the ASIC
+                             Regulatory Portal. They will need to pay fees for an application. We have
+                             provided details about payment options in the portal. For more information,
+                             see how you apply for relief.
+
+
+
+Information applicants should provide
+              RG 71.90       When applying for relief, applicants should refer to Section C and Section D
+                             of this guide and provide full particulars of the proposed upstream and
+                             downstream acquisitions (including the timing, extent and price of the
+                             proposed acquisitions) and drafts of the relevant upstream acquisition
+                             transaction documents.
+
+              RG 71.91       An applicant should also provide particulars of:
+                             (a)   its voting power in the downstream company at the date of its
+                                   application; and
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                         Page 25
+                                                                  REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+                             (b)   all acquisitions and disposals, by the applicant and any associate, of
+                                   securities in the downstream company and in the upstream entity in the
+                                   four months before the date of its application.
+
+              RG 71.92       To assist us in determining whether control over the downstream shares is
+                             a significant purpose of the upstream acquisition, applicants must provide
+                             us with:
+                             (a)   a clear breakdown of the assets of the upstream target with absolute and
+                                   percentage values for the major items and for the downstream shares;
+                             (b)   information as to the intrinsic value of the assets of the upstream target
+                                   to the acquirer other than the downstream shares; and
+                             (c)   a list of the top 20 shareholders of the downstream company, and any
+                                   associations between them and the applicant.
+
+              RG 71.93       An application should clearly explain the regulatory regime under which
+                             the upstream acquisition will take place. The application should especially
+                             explain:
+                             (a)   the disclosure regime; and
+                             (b)   the nature of any provisions equivalent to the principles in s602 and
+                                   provisions equivalent to s621 and 623.
+
+
+
+Procedural fairness
+              RG 71.94       In some circumstances, we will consider that we are required to consult with
+                             the downstream company, the shareholders of the downstream company or
+                             other potentially adversely affected third parties: see Regulatory Guide 92
+                             Procedural fairness to third parties (RG 92).
+
+              RG 71.95       The directors of the target company will normally be assumed to be suitable
+                             representatives of the interests of the downstream shareholders. However,
+                             this may not be the case where:
+                             (a)   the acquirer of the upstream entity has been a substantial shareholder of
+                                   the upstream target and the upstream target has been in a position to
+                                   control or influence the composition of the board of the downstream
+                                   company;
+                             (b)   the acquirer has been in a position to control the downstream board in
+                                   any other way; or
+                             (c)   there is evidence or we have been made aware of a dispute between
+                                   shareholders and the board of the company about the management and
+                                   corporate governance of the company.
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                         Page 26
+                                                                 REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+Approving a foreign exchange
+              RG 71.96       We have approved a list of foreign markets for the purposes of item 14: see
+                             ASIC Corporations (Approved Foreign Financial Markets) Instrument
+                             2015/1071. Unless otherwise stated, our relief applies to the main board of
+                             these markets (e.g. our relief will not extend to debt listings).
+
+              RG 71.97       In approving the list of foreign markets included in the instrument we took
+                             into account the criteria set out at RG 72.58, because the extension of the
+                             item 14 exemption to foreign financial markets that meet these criteria
+                             satisfies the policy behind the exemption in item 14: see RG 71.17.
+
+              RG 71.98       A foreign body conducting a financial market may apply to us for approval
+                             for the purposes of item 14. A foreign body corporate may also apply, but
+                             the assistance of the foreign body conducting the financial market is highly
+                             desirable. An application to approve a new foreign financial market will be a
+                             new policy application: see RG 51 for guidance on making new policy
+                             applications.
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                       Page 27
+                                                                      REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+Key terms
+
+
+                               Term                      Meaning in this document
+
+                               ASIC                      Australian Securities and Investments Commission
+
+                               CASAC                     Companies and Securities Advisory Committee
+
+                               Ch 6 (for example)        A chapter of the Corporations Act (in this example
+                                                         numbered 6)
+
+                               [CO 13/520] (for          An ASIC class order (in this example numbered 13/520)
+                               example)                    Note: Legislative instruments made from 2015 are referred to
+                                                           as ASIC instruments.
+
+                               Corporations Act          Corporations Act 2001, including regulations made for the
+                                                         purposes of that Act
+
+                               downstream                An acquisition of a relevant interest in the shares of a
+                               acquisition               downstream company as a result of an acquisition in an
+                                                         upstream entity
+
+                               downstream company        An Australian company, listed body or listed managed
+                                                         investment scheme with some of its shares or voting
+                                                         interests owned by an upstream entity
+
+                               effective price           A price for the downstream shares that is able to be
+                                                         clearly and accurately determined from the upstream
+                                                         acquisition price
+
+                               item 14                   Item 14 of s611 of the Corporations Act
+
+                               prescribed financial      An Australian financial market prescribed by the
+                               market                    Corporations Regulations 2001
+
+                               Pt 5.1 (for example)      A part of the Corporations Act (in this example numbered
+                                                         5.1)
+
+                               relevant interest         Has the meaning given by s608 and 609 of the
+                                                         Corporations Act
+
+                               RG 51 (for example)       An ASIC regulatory guide (in this example numbered 51)
+
+                               s611 (for example)        A section of the Corporations Act (in this example
+                                                         numbered 611), unless otherwise specified
+
+                               sell down                 An acquirer reduces its voting power in a downstream
+                                                         company
+
+                               standstill condition      A condition that we may impose on our relief preventing
+                                                         the acquirer from acquiring a relevant interest in any
+                                                         more shares in the downstream company
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                                   Page 28
+                                                                     REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+                               Term                      Meaning in this document
+
+                               Takeovers Panel           The panel established under s171 of the Australian
+                                                         Securities and Investments Commission Act 2001 and
+                                                         given various powers under Pt 6.10 of the Corporations
+                                                         Act
+
+                               upstream acquisition      An acquisition of a relevant interest or control in an
+                                                         Australian or foreign upstream entity
+
+                               upstream entity           An Australian or foreign company or body corporate or
+                                                         managed investment scheme that holds shares in a
+                                                         downstream company or voting interests in a downstream
+                                                         Australian listed managed investment scheme
+
+                               voting condition          A condition that we may impose on our relief preventing
+                                                         the acquirer (and in some circumstances, the upstream
+                                                         entity) from exercising or procuring the exercise of any
+                                                         votes attached to the shares in the downstream company
+
+                               voting power              Has the meaning given in s610 of the Corporations Act
+
+                               voting share              Has the meaning given in s9 of the Corporations Act
+
+
+
+
+© Australian Securities and Investments Commission August 2016                                                    Page 29
+                                                                 REGULATORY GUIDE 71: Downstream acquisitions
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             conditions of relief, disclosure to market, downstream acquisition,
+                             downstream company, foreign body, international comity, listed companies,
+                             policy for granting relief, prohibition on breach of ‘20% threshold’,
+                             takeovers, unacceptable circumstances, unlisted companies, upstream
+                             acquisition, upstream entity
+
+                             Legislative instruments
+
+                             [CO 13/520] Relevant interests, voting power and exceptions to the general
+                             prohibition
+
+                             ASIC Corporations (Approved Foreign Financial Markets) 2015/1071
+
+                             Regulatory guides
+
+                             RG 51 Applications for relief
+
+                             RG 72 Foreign securities: Disclosure relief
+
+                             RG 92 Procedural fairness to third parties
+
+                             RG 111 Content of expert reports
+
+
+                             Legislation
+
+                             Corporations Act, Ch 6; Pt 6.10, Div 2, SubdivB; s50AA, 602(b), 602(c),
+                             603, 604, 606, 608, 608(3)(a), 608(3)(b), 611 (items 1, 7, 9 and 14), 621,
+                             623, 624(1)(b), 640, 655A, 657A, 661A(1)
+
+                             Cases
+                             Australian Pipeline Trust 01R [2006] ATP 29
+
+                             BTR Plc v Westinghouse Brake and Signal Co (Australia) Ltd (1992) 106 ALR
+
+                             Cape Lambert Minsec Pty Ltd [2009] ATP 12
+
+                             Leighton Holdings Limited 01, 02 and 03 [2010] ATP 13
+
+                             Leighton Holdings Limited 02R [2010] ATP 14
+
+                             Reports
+
+                             CASAC, Anomalies in the takeovers provisions of the Corporations Law,
+                             March 1994
+
+
+
+© Australian Securities and Investments Commission August 2016                                       Page 30
+

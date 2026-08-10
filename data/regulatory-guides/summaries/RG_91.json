@@ -1,0 +1,37 @@
+{
+  "citation": "RG 91",
+  "title": "Horse breeding schemes and horse racing syndicates",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide sets out ASIC's approach to regulating horse breeding schemes and horse racing syndicates under the Corporations Act 2001, including relief from managed investment, AFS licensing, and product disclosure provisions.",
+  "background": "The guide is issued under the Corporations Act 2001 and explains ASIC's regulatory approach to small-scale horse breeding schemes and horse racing syndicates. It is intended for promoters, managers, and participants in these schemes, and outlines co-regulatory arrangements with lead regulators.",
+  "ruling": "ASIC provides conditional relief for certain horse breeding schemes (e.g., private broodmare schemes and stallion schemes) and horse racing syndicates from the managed investment scheme, AFS licensing, and product disclosure requirements. For horse racing syndicates, ASIC relies on co-regulatory arrangements with lead regulators (e.g., state racing authorities) who approve syndicate agreements. The relief is subject to conditions such as limits on the number of members, disclosure requirements, and compliance with the syndicate agreement. ASIC expects promoters to ensure that schemes are not structured to avoid regulatory obligations and that investors receive adequate information.",
+  "date_of_effect": "2016-08-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 9",
+    "Corporations Act 2001 (Cth) s 708(1)",
+    "Corporations Act 2001 (Cth) s 1012E",
+    "Corporations Act 2001 (Cth) s 1012E(2)",
+    "Corporations Act 2001 (Cth) s 1012E(5)",
+    "Corporations Act 2001 (Cth) s 1017D",
+    "Corporations Act 2001 (Cth) s 1017E",
+    "Corporations Act 2001 (Cth) s 1017F",
+    "Corporations Act 2001 (Cth) s 1020D",
+    "Corporations Act 2001 (Cth) Ch 5C",
+    "Corporations Act 2001 (Cth) Ch 7",
+    "Corporations Act 2001 (Cth) Pt 7.9",
+    "Corporations Regulations 2001 (Cth) reg 1.0.02(1)",
+    "Corporations Regulations 2001 (Cth) Sch 10A",
+    "Corporations Regulations 2001 (Cth) Sch 10E"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "RG 1",
+    "INFO 225",
+    "CO 02/178",
+    "CO 02/319",
+    "ASIC Corporations (Horse Schemes) Instrument 2016/790",
+    "CP 242",
+    "REP 491"
+  ]
+}

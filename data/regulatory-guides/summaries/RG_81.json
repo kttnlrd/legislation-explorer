@@ -1,0 +1,19 @@
+{
+  "citation": "RG 81",
+  "title": "External administration: Early destruction of books",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses applications by external administrators for consent to destroy company books before the standard five-year retention period ends. It outlines the process, requirements, and factors ASIC considers when deciding whether to grant early destruction.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth) and provides guidance on s70-35 of Sch 2. It is intended for external administrators (including liquidators and provisional liquidators) who wish to destroy books of a company that has been subject to external administration before the five-year retention period expires.",
+  "ruling": "ASIC states that it can only consent to early destruction of books where the company is or was in liquidation or provisional liquidation. ASIC will generally not consent to the early destruction of books of the external administration itself within the retention period, as these records are needed to answer future questions about the administration. For company books, ASIC will consider the matters listed in s70-35(3) of Sch 2, including the likely value of the books to creditors, ASIC, or other interested parties. If an application is made before the company's affairs are fully wound up, ASIC will not consent until winding up is complete, except where outstanding matters cannot be progressed without a decision. Where consent is granted conditionally before winding up is finalised, the administrator must lodge Form 5603 within 12 months, or the consent lapses.",
+  "date_of_effect": "2023-07-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) Sch 2 s70-35",
+    "Corporations Act 2001 (Cth) Sch 2 s70-10"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "Superseded PS 81",
+    "RG 1"
+  ]
+}

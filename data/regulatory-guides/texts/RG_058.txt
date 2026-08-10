@@ -1,0 +1,1058 @@
+REGULATORY GUIDE 58
+
+
+Reporting by registered
+foreign companies and
+Australian companies with
+foreign shareholders
+
+June 2020
+
+
+
+
+About this guide
+This guide is for registered foreign companies and companies in which a
+foreign company has an interest.
+
+It describes the relief we may grant to:
+    exempt these companies from certain financial reporting obligations in
+     the Corporations Act 2001 (Corporations Act); and
+    allow the financial year of a company, registered managed investment
+     scheme or disclosing entity to be synchronised with that of its foreign
+     parent company.
+
+Note: From 27 July 2020, applications for relief should be submitted through
+the ASIC Regulatory Portal. For more information, see how you apply for
+relief.
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                      explaining when and how ASIC will exercise specific powers under
+                                       legislation (primarily the Corporations Act)
+                                      explaining how ASIC interprets the law
+                                      describing the principles underlying ASIC’s approach
+                                      giving practical guidance (e.g. describing the steps of a process such
+                                       as applying for a licence or giving practical examples of how
+                                       regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in June 2020 and is based on legislation and
+                             regulations as at the date of issue. The note on the front page was inserted
+                             on 27 July 2020.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 58, Reporting requirements: Registered
+                                     foreign companies and Australian companies, issued January 2008,
+                                     reissued November 2009, May 2011 and July 2018
+                                    Superseded Policy Statement 58, issued June 1993, reissued May
+                                     1997, September 1998, April 2000 and February 2005, rebadged as a
+                                     regulatory guide 5 July 2007
+                                    Superseded Policy Statement 36, issued October 1992, incorporated
+                                     into Regulatory Guide 58 in June 1993 and withdrawn
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                  Page 2
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+Contents
+                             A      Overview ........................................................................................... 4
+                                    Financial reporting obligations ........................................................... 4
+                                    Relief from reporting obligations ........................................................ 5
+                                    Synchronising a financial year with a foreign parent ......................... 5
+                             B      Financial reporting obligations ...................................................... 6
+                                    Who has to prepare annual financial reports and directors’ reports .. 6
+                                    What is a ‘large group’? ..................................................................... 7
+                             C      Relief from reporting obligations ................................................. 10
+                                    Registered foreign companies ......................................................... 10
+                                    Large proprietary companies with foreign company shareholders .. 11
+                                    Small proprietary companies controlled by foreign companies ....... 11
+                                    Audit relief: ASIC Corporations (Audit Relief) Instrument 2016/784 14
+                             D      Synchronising a financial year with a foreign parent ................ 15
+                                    Financial year length ........................................................................ 15
+                                    Relief under ASIC Corporations (Synchronisation of Financial Years)
+                                    Instrument 2016/189 ........................................................................ 15
+                                    Individual relief ................................................................................. 16
+                             Appendix: General reporting requirements ........................................ 19
+                             Key terms ............................................................................................... 21
+                             Related information ............................................................................... 23
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                                          Page 3
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               This guide explains the relief we give to:
+                               • registered foreign companies and companies in which a foreign
+                                 company has an interest from certain financial reporting obligations in
+                                 the Corporations Act 2001 (Corporations Act); and
+                               • a company, registered managed investment scheme (registered
+                                 scheme) or disclosing entity to allow its financial year to be
+                                 synchronised with that of its foreign parent company.
+
+
+
+
+Financial reporting obligations
+              RG 58.1        Under s292(2)(b), a small proprietary company that is controlled by a
+                             foreign company must prepare and lodge a financial report if:
+                             (a)   it was controlled by a foreign company for all or part of the year; and
+                             (b)   it is not consolidated for that period in financial statements lodged with
+                                   ASIC for that year by a registered foreign company, company,
+                                   registered scheme or disclosing entity.
+
+              RG 58.2        Registered foreign companies or small proprietary companies that are
+                             controlled by a foreign company may be eligible for relief from preparing
+                             and lodging financial reports if they are not part of a ‘large group’ under
+                             ASIC Corporations (Foreign-Controlled Company Reports)
+                             Instrument 2017/204. We use the test in s45A(3) to define when a group is a
+                             ‘large group’: see Section B.
+
+              RG 58.3        While ASIC may provide relief to registered foreign companies from some
+                             or all of the requirements of s601CK, the relief may not be granted where it
+                             results in a registered foreign company lodging less information than an
+                             equivalent Australian company.
+
+              RG 58.4        ASIC Corporations (Foreign-Controlled Company Reports)
+                             Instrument 2017/204 also puts the reporting requirements of small
+                             proprietary companies that are controlled by a foreign company on par with
+                             other Australian small proprietary companies.
+
+                                   Note: See the appendix for an overview of the general financial reporting requirements
+                                   for registered foreign companies and small proprietary companies that are controlled by
+                                   a foreign company if no relief is applied.
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                       Page 4
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+Relief from reporting obligations
+              RG 58.5        We give relief from certain financial reporting obligations to:
+                             (a)   registered foreign companies;
+                             (b)   large proprietary companies that have foreign company shareholders;
+                                   and
+                             (c)   small proprietary companies that are controlled by foreign companies.
+
+              RG 58.6        Registered foreign companies or companies must notify us when the relief
+                             will be applied and when it will cease. We may also notify a registered
+                             foreign company or a company that it cannot rely on the relief for a specific
+                             financial year: see Section C.
+
+
+
+Synchronising a financial year with a foreign parent
+              RG 58.7        A company, registered scheme or disclosing entity may synchronise its
+                             financial year with a foreign parent if it is eligible under ASIC Corporations
+                             (Synchronisation of Financial Years) Instrument 2016/189, or by applying
+                             for individual relief if the instrument does not apply: see Section D.
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                  Page 5
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+B          Financial reporting obligations
+
+                               Key points
+
+                               A small proprietary company that is controlled by a foreign company must
+                               apply the principles in s292(2)(b) when lodging financial statements.
+
+                               Registered foreign companies or small proprietary companies that are
+                               controlled by a foreign company may be eligible for relief from preparing
+                               and lodging financial reports if they are not part of a ‘large group’ under
+                               ASIC Corporations (Foreign-Controlled Company Reports)
+                               Instrument 2017/204. We use the test in s45A(3) to define when a group is
+                               a ‘large group’.
+
+
+
+
+Who has to prepare annual financial reports and directors’ reports
+              RG 58.8        Under s292(2)(b), a small proprietary company that is controlled by a
+                             foreign company must prepare and lodge a financial report only if:
+                             (a)   it was controlled by a foreign company for all or part of the year; and
+                             (b)   it is not consolidated for that period in financial statements lodged with
+                                   ASIC for that year by a registered foreign company, company,
+                                   registered scheme or disclosing entity.
+
+              RG 58.9        For the purposes of s292(2)(b) and using the definition of ‘control’ in s9, the
+                             control test in s50AA must be used to determine whether a small proprietary
+                             company is controlled by a foreign company.
+
+              RG 58.10       Section 292(2)(b) was not intended to allow a foreign company to lodge its
+                             financial statements with ASIC under the Corporations Act. It also does not
+                             permit a small proprietary company to lodge the financial statements of a
+                             foreign parent company under its Australian Company Number (ACN).
+                             However, under s3CA of the Tax Administration Act 1953, significant global
+                             entities must lodge their general purpose financial statements with the
+                             Commissioner of Taxation for income tax purposes. A copy of an entity’s
+                             general purpose financial statements is provided to ASIC—it appears on the
+                             register and is available to the public.
+
+              RG 58.11       The Corporations Act only requires the lodgement of financial reports by
+                             companies that are registered foreign companies. We therefore cannot accept
+                             financial statements lodged by non-registered foreign companies in place of
+                             the financial, directors’ and auditors’ reports of a controlled small
+                             proprietary company.
+
+              RG 58.12       Registered foreign companies must lodge financial information once in
+                             every calendar year and at intervals of no more than 15 months: see s601CK.
+
+
+
+© Australian Securities and Investments Commission June 2020                                                  Page 6
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+                             However, an Australian small proprietary company that is controlled by a
+                             foreign company must lodge four months after the end of the financial year.
+                             This means that if a registered foreign company plans to lodge consolidated
+                             financial statements:
+                             (a)   the Australian small proprietary company it controls does not have to
+                                   prepare and lodge its own financial, directors’ and auditors’ reports; and
+                             (b)   the registered foreign company must lodge its consolidated financial
+                                   statements within four months after the end of the financial year of the
+                                   Australian small proprietary company.
+
+              RG 58.13       We will consider applications for individual relief under s340 to extend this
+                             time: see Regulatory Guide 43 Financial reports and audit relief (RG 43)
+                             and Regulatory Guide 51 Applications for relief (RG 51). Pre-conditions for
+                             relief under s340 are set out in s342. The Corporations Act sets out specific
+                             deadlines in which a statutory financial report must be lodged with ASIC.
+                             Only in rare circumstances will we grant an extension of this time on the
+                             basis that it is an unreasonable burden. In the case of a disclosing entity any
+                             relief is unlikely to be for more than four weeks.
+
+              RG 58.14       When it lodges its consolidated financial statements, the controlling foreign
+                             company does not have to be a registered foreign company at the end of the
+                             controlled small proprietary company’s financial year. However, the foreign
+                             company needs to be registered under Pt 5B.2 when it lodges its
+                             consolidated financial statements.
+
+
+
+What is a ‘large group’?
+              RG 58.15       Registered foreign companies or small proprietary companies that are
+                             controlled by a foreign company may be eligible for relief from preparing
+                             and lodging financial reports if they are not part of a ‘large group’ in
+                             Australia under ASIC Corporations (Foreign-Controlled Company Reports)
+                             Instrument 2017/204. This stops companies that are foreign controlled
+                             separating into smaller companies to avoid their financial reporting
+                             obligations.
+
+              RG 58.16       Under ASIC Corporations (Foreign-Controlled Company Reports)
+                             Instrument 2017/204, a ‘group’ comprises:
+                             (a)   the entity in question;
+                             (b)   entities that control the entity in question and are incorporated or
+                                   formed in Australia or carry on business in Australia;
+                             (c)   any other entities (the other entities) controlled by any foreign company
+                                   that controls the entity in question that are incorporated, formed or
+                                   carrying on business in Australia; and
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                  Page 7
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+                             (d)   any entities that are controlled by the entity in question or the other
+                                   entities.
+
+              RG 58.17       To be included in the group, the controlled entities of the entity in question
+                             and the other entities do not have to be incorporated, formed or carrying on
+                             business in Australia.
+
+              RG 58.18       For financial years commencing on or after 1 July 2019, a group is a ‘large
+                             group’ when, on a combined basis, it satisfies at least two of the following
+                             criteria for the financial year of the company in question:
+                             (a)   its combined revenue for the financial year is $50 million, or other
+                                   amount prescribed by the regulations, or more;
+                             (b)   the combined value of its gross assets at the end of the financial year is
+                                   $25 million, or other amount prescribed by the regulations, or more;
+                                   and/or
+                             (c)   it has 100, or any other prescribed number, or more, employees at the
+                                   end of the financial year (part-time employees are counted as an
+                                   appropriate fraction of a full-time equivalent).
+
+              RG 58.19       For financial years commencing before 30 June 2019, a group is a ‘large
+                             group’ when, on a combined basis, it satisfies at least two of the following
+                             criteria for the financial year of the company in question:
+                             (a)   its combined revenue for the financial year is $25 million, or other
+                                   amount prescribed by the regulations, or more;
+                             (b)   the combined value of its gross assets at the end of the financial year is
+                                   $12.5 million, or other amount prescribed by the regulations, or more;
+                                   and/or
+                             (c)   it has 50, or any other prescribed number, or more, employees at the
+                                   end of the financial year (part-time employees are counted as an
+                                   appropriate fraction of a full-time equivalent).
+
+                                   Note: The above size criteria are based on the size criteria for financial reporting by
+                                   proprietary companies under s45A(3).
+
+              RG 58.20       Combining the financial information of the group is a process similar to
+                             consolidation. Groups which cannot be combined are:
+                             (a)   foreign parent companies that do not carry on business in Australia
+                                   unless they are controlled by an entity operating or incorporated in
+                                   Australia; and
+                             (b)   entities controlled by a foreign company that are not incorporated,
+                                   formed or do not carry on business in Australia unless those entities are
+                                   controlled through an entity that is incorporated or formed in Australia
+                                   or carries on business in Australia.
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                           Page 8
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+              RG 58.21       As part of the consolidation process, elimination entries required by
+                             Australian Accounting Standard AASB 10 Consolidated financial statements
+                             should be made—for example, inter-company debts, investments and
+                             revenue.
+
+              RG 58.22       Entities should be included in the group only for the part of the year when
+                             they were controlled by the common foreign company. Entities incorporated,
+                             formed or carrying on business in Australia for only part of the year should
+                             be included in the group—together with the entities which they control—for
+                             that part of the year, even if they ceased to operate in Australia and/or were
+                             deregistered before the end of the financial year.
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                  Page 9
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+C          Relief from reporting obligations
+
+                               Key points
+
+                               We provide conditional relief from financial or audit reporting obligations to
+                               registered foreign companies, large proprietary companies that have
+                               foreign company shareholders and small proprietary companies that are
+                               controlled by foreign companies.
+
+                               Registered foreign companies or companies must notify us when the relief
+                               will be applied and when it will cease. We may also notify a registered
+                               foreign company or a company that it cannot rely on the relief for a
+                               specified financial year.
+
+
+
+
+Registered foreign companies
+              RG 58.23       Registered foreign companies must lodge a balance sheet, profit and loss
+                             statement, and cash flow statement with ASIC: see s601CK. This should
+                             include all notes to the financial statement. We may provide relief to
+                             registered foreign companies from this requirement: see s601CK(7).
+
+              RG 58.24       We are unlikely to give relief to a registered foreign company carrying on
+                             business in Australia if it means that the registered foreign company would
+                             lodge less information with ASIC than an equivalent Australian company
+                             would: see s601CK(7). This is particularly the case for registered foreign
+                             companies where relief would result in them lodging less information than
+                             equivalent ‘non-grandfathered’ Australian proprietary companies that are
+                             controlled by foreign companies.
+
+              RG 58.25       We have therefore provided relief under s601CK(7) only for registered
+                             foreign companies that:
+                             (a)   are subject to provisions corresponding with, and no less strict than,
+                                   those imposed on Australian proprietary companies by s113;
+                             (b)   are not required to prepare any one or more of the following under the
+                                   law applicable to the company in their place of origin:
+                                   (i)     a balance sheet at the end of their last financial year;
+                                   (ii)    a profit and loss statement for their last financial year; or
+                                   (iii)   a cash flow statement for their last financial year;
+                             (c)   have not been a disclosing entity, borrowing corporation or guarantor of
+                                   a borrowing corporation at any time during the calendar year;
+                             (d)   are not large under a test similar to that applied to proprietary
+                                   companies under s45A; and
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                 Page 10
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+                             (e)   are either:
+                                   (i)    not a part of a group that is a large group (see RG 58.15–
+                                          RG 58.21); or
+                                   (ii)   have been consolidated for their entire financial year in
+                                          consolidated financial statements lodged with ASIC by one or
+                                          more parents of the company that are registered foreign companies,
+                                          companies or disclosing entities.
+
+                                   Note: See ASIC Corporations (Foreign-Controlled Company Reports)
+                                   Instrument 2017/204.
+
+              RG 58.26       Registered foreign companies eligible for relief under the instrument must
+                             lodge an annual return in the prescribed form, Form 406 Annual return of a
+                             foreign company, with ASIC at least once in each calendar year: see
+                             s601CK(9).
+
+
+
+Large proprietary companies with foreign company shareholders
+              RG 58.27       Parliament has granted ‘grandfathered’ large proprietary companies some
+                             exemptions from lodging financial reports, provided they meet specific
+                             criteria. These criteria include meeting their obligations to ensure their
+                             financial reports are audited before the deadline for reporting to members,
+                             and that their ownership structures remain private.
+
+              RG 58.28       In limited circumstances, ASIC Corporations (Exempt Proprietary
+                             Companies) Instrument 2015/840 provides relief to preserve the
+                             ‘grandfathered’ status of certain large proprietary companies from the
+                             obligation to lodge their annual report with ASIC when they have not met
+                             the ‘grandfathering’ conditions. This relief is provided in particular and in
+                             very limited circumstances that do not detract from the conditions
+                             underlying their exempt status: see s319(1).
+
+
+
+Small proprietary companies controlled by foreign companies
+              RG 58.29       Certain small proprietary companies that are controlled by foreign
+                             companies are required to prepare and lodge an audited financial report and
+                             a directors’ report with us: see s292(2)(b). Within the context of this
+                             legislative framework, we have executed two instruments to ensure parity,
+                             ASIC Corporations (Foreign-Controlled Company Reports) Instrument
+                             2017/204 and ASIC Corporations (Audit Relief) Instrument 2016/784.
+
+              RG 58.30       Section 292(2)(b) requires a small proprietary company that was controlled
+                             by a foreign company for all or part of a financial year to comply with the
+                             financial reporting obligations under Pt 2M.3 unless it was consolidated for
+
+
+
+© Australian Securities and Investments Commission June 2020                                                 Page 11
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+                               that period in financial statements lodged with ASIC by a registered foreign
+                               company, a company, a disclosing entity or a registered scheme.
+
+              RG 58.31         ASIC Corporations (Foreign-Controlled Company Reports) Instrument
+                               2017/204 makes sure that the reporting requirements of small proprietary
+                               companies controlled by a foreign company that are not part of a ‘large
+                               group’ are equal to other Australian small proprietary companies. Under this
+                               instrument these companies are eligible for relief from:
+                               (a)   preparing and lodging a financial and directors’ report with ASIC; and
+                               (b)   the requirement to have their financial report audited.
+
+
+                               Notification requirements
+
+              RG 58.32         Registered foreign companies or companies must notify us when the relief
+                               will be applied and when it will cease. We may also notify a registered
+                               foreign company or a company that it cannot rely on the relief for a specific
+                               financial year. Table 1 outlines the process for applying and ceasing to apply
+                               the relief.
+
+Table 1:     Process for applying the relief under ASIC Corporations (Foreign-Controlled
+             Company Reports) Instrument 2017/204
+
+ Situation                       Process requirements
+
+ How to apply the relief         Directors must resolve to apply the relief no earlier than three months before the
+ in the first financial year     first financial year to which it is to apply.
+
+                                 The company must lodge Form 384 Resolution by directors of a small proprietary
+                                 company controlled by a foreign company which is not part of a ‘large group’ no
+                                 earlier than three months before the start of the first relevant financial year and no
+                                 later than four months after the end of the first relevant financial year.
+
+ How to apply the relief         If the relief was applied in the immediately preceding financial year and the
+ in subsequent financial         company is continuing to apply the relief, the directors must resolve to apply the
+ years                           relief no earlier than three months before each financial year to which it is to
+                                 apply. Form 384 does not need to be lodged again.
+
+ How to discontinue the          If the company does not or cannot continue to apply the relief, it must lodge:
+ application of the relief        Form 394 Notice of cessation of reliance on ASIC Corporations (Foreign-
+ in a subsequent                   Controlled Company Reports) Instrument 2017/204 during the period
+ financial year                    three months before the start of the relevant financial year and ending
+                                   four months after the end of the relevant financial year (and lodge an annual
+                                   financial report within the reporting deadline under Ch 2M); or
+                                  an annual financial report prepared under Ch 2M—if we have given notice that
+                                   the relief does not apply for a specified financial year.
+
+                                 Failure to do either of these things means the company will be unable to reapply
+                                 the relief in future years.
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                      Page 12
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+ Situation                     Process requirements
+
+ How to reapply the            To reapply the relief in future years, the directors must again:
+ relief in future years         resolve to apply the relief no earlier than three months before each financial
+ after a discontinuation         year to which it is to apply; and
+                                lodge Form 384 (for the first relevant financial year) no earlier than three months
+                                 before the start of the financial year and no later than four months after the end
+                                 of the financial year.
+
+
+
+                             Conditions of relief
+
+              RG 58.33       The Corporations Act requires small proprietary companies that are
+                             controlled by foreign companies to prepare and lodge audited financial
+                             statements and reports. Relief from these requirements under ASIC
+                             Corporations (Foreign-Controlled Company Reports) Instrument 2017/204 is
+                             a privilege rather than a right. In order to take advantage of that privilege
+                             companies must lodge, as relevant, Form 384 or Form 394 on time.
+
+              RG 58.34       Lodging Form 384 or Form 394 and the processing of these forms onto the
+                             ASIC database does not indicate that we have given any form of approval
+                             and does not enable a company to take advantage of relief under ASIC
+                             Corporations (Foreign-Controlled Company Reports) Instrument 2017/204.
+                             A company will only have the benefit of relief if it meets all of the
+                             instrument’s requirements.
+
+              RG 58.35       Even if the relief applies, shareholders holding 5% or more of the voting
+                             shares in the company may ask the company to prepare a financial report and
+                             directors’ report, and to have the financial report audited.
+
+
+                             Notification not to rely on relief
+
+              RG 58.36       Consistent with other instruments providing financial reporting and audit
+                             relief, ASIC Corporations (Foreign-Controlled Company Reports)
+                             Instrument 2017/204 allows us to notify individual registered foreign
+                             companies and small proprietary companies that are controlled by foreign
+                             companies that they may not rely on the relief provided by the instrument for
+                             a specified financial year.
+
+              RG 58.37       In deciding whether to notify an entity that it may not rely on the relief for a
+                             specified financial year, we consider the information needs of users and
+                             potential users of the financial report. Users may include creditors, suppliers,
+                             other regulators and the public. In making our decision, we may use
+                             information provided by other regulators, such as the Australian Taxation
+                             Office (ATO). For example, we would consider if the information in the
+                             financial report would assist the public and provide more transparency so
+                             that they can understand the extent to which the company is paying tax on
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                 Page 13
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+                             revenue derived from Australian sources. We will also seek, and consider,
+                             any comments from the affected entity before issuing any notice.
+
+              RG 58.38       The likelihood of us being asked by the ATO to notify an entity that it may
+                             not rely on the relief has diminished with amendments to income taxation
+                             legislation, which require large global entities to lodge general purpose
+                             financial statements with the ATO. The requirement to lodge financial
+                             statements under income tax legislation applies irrespective of any relief or
+                             exemptions under the Corporations Act.
+
+                                   Note: Visit the ATO’s website for information on the provision of general purpose
+                                   financial statements by significant global entities.
+
+
+
+
+Audit relief: ASIC Corporations (Audit Relief) Instrument 2016/784
+              RG 58.39       Small proprietary companies that are controlled by foreign companies may
+                             be eligible for relief from having their financial reports audited: see ASIC
+                             Corporations (Audit Relief) Instrument 2016/784 and Regulatory Guide 115
+                             Audit relief for proprietary companies (RG 115).
+
+              RG 58.40       One condition of the relief is that shareholders and directors must
+                             unanimously resolve to take advantage of this relief within the 19-month
+                             period, commencing three months immediately before the start of the
+                             relevant financial year and no later than four months after the end of the
+                             financial year.
+
+              RG 58.41       The company must notify ASIC of this resolution, using Form 382
+                             Notification of resolutions for audit relief: Proprietary companies, within
+                             the specified timeframe: see RG 115.44.
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                     Page 14
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+D          Synchronising a financial year with a foreign
+           parent
+
+                               Key points
+
+                               A company, registered scheme or disclosing entity may synchronise its
+                               financial year with a foreign parent if it is eligible under ASIC Corporations
+                               (Synchronisation of Financial Years) Instrument 2016/189 or by applying
+                               for individual relief if the instrument does not apply.
+
+
+
+
+Financial year length
+              RG 58.42       The first financial year for a company, registered scheme or disclosing entity
+                             starts on the day of its registration: see s323D. The first financial year may
+                             last for 12 months or for a period no longer than 18 months, determined by
+                             the directors: see s323D(1).
+
+              RG 58.43       Under s323D(2), each subsequent financial year must:
+                             (a)   start at the end of the previous financial year; and
+                             (b)   be 12 months long.
+
+              RG 58.44       Exceptions to the 12-month rule under s323D(2) may exempt some entities
+                             from having a financial year of 12 months.
+
+              RG 58.45       Section 323D(2A) allows a financial year of an entity to be less than
+                             12 months if there has not been a financial year of less than 12 months in the
+                             last five years, and the change is made in good faith and in the best interests
+                             of the entity. If an entity cannot rely on ASIC Corporations (Synchronisation
+                             of Financial Years) Instrument 2016/189 to synchronise its financial year
+                             with that of a foreign parent, it can normally rely on s323D(2A) to do so.
+
+
+
+Relief under ASIC Corporations (Synchronisation of Financial
+Years) Instrument 2016/189
+              RG 58.46       A company, registered scheme or disclosing entity must ensure the financial
+                             years of its consolidated entities are synchronised with its own financial
+                             year: see s323D(3).
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                 Page 15
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+              RG 58.47       Under ASIC Corporations (Synchronisation of Financial Years)
+                             Instrument 2016/189 and subject to certain conditions, an entity may
+                             synchronise its financial year with that of a foreign parent where:
+                             (a)   the entity’s foreign parent is required by the law in its place of origin to
+                                   cause the financial year of the entity to be changed; and
+                             (b)   the financial year of the entity is changed in accordance with that
+                                   requirement.
+
+
+
+Individual relief
+              RG 58.48       We may be asked to provide case-by-case relief where an entity cannot rely
+                             on our relief under the ASIC Corporations (Synchronisation of Financial
+                             Years) Instrument 2016/189 or under s323D(2A). We may grant this relief
+                             so an entity can change its financial year by way of a transitional period of
+                             14 months or less, where the applicant can demonstrate that complying with
+                             the requirement for a 12-month financial year would impose unreasonable
+                             burdens. We do not usually grant this relief with a transitional period of
+                             longer than 14 months. This is because s323D(2A) expresses a legislative
+                             preference for transitional periods to be less than 12 months.
+
+              RG 58.49       When applying to ASIC for individual relief, the directors of an entity
+                             should include:
+                             (a)   a realistic estimate of the additional costs of preparing the required
+                                   consolidated financial statements by a foreign parent and the realistic
+                                   additional costs of an audit of that information, when applicable. These
+                                   costs should only be those in excess of costs associated with normal
+                                   management reporting;
+                             (b)   if a financial year of greater than 12 months is requested, the reasons
+                                   why the entity’s directors believe that users of the financial report—
+                                   including investors, creditors, employees, potential investors, potential
+                                   creditors and potential employees—will not be disadvantaged;
+                             (c)   if a financial year of greater than 12 months is requested, whether the
+                                   entity has been, or is expected to be, affected by any material, unusual
+                                   transactions or events, extraordinary items, significant operating losses,
+                                   acquisitions or sales of major assets (including businesses and
+                                   controlled entities) and any factors which significantly affect the
+                                   financial condition of the company;
+                             (d)   whether, in the directors’ opinion, there are reasonable grounds to
+                                   believe that the entity will be able to pay its debts as and when they
+                                   become due and payable;
+                             (e)   if the entity is a proprietary company, whether the change in financial
+                                   year will result in the company being treated as a small proprietary
+
+
+
+© Australian Securities and Investments Commission June 2020                                                 Page 16
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+                                   company when it would otherwise be a large proprietary company
+                                   (see RG 58.18–RG 58.19);
+                             (f)   whether all other entities controlled by the entity’s ultimate foreign
+                                   parent will be synchronised with the ultimate foreign parent at the same
+                                   time—and, if not, the reasons why not;
+                             (g)   any other information that may be relevant to our decision whether to
+                                   grant relief; and
+                             (h)   written confirmation from the ultimate foreign parent that all group
+                                   entities worldwide are synchronising, and that synchronisation is not
+                                   required by law in the place of origin of the ultimate parent or of any
+                                   other parents of the company seeking relief.
+
+                                   Note: See RG 43.37–43.51 for the definition of ‘unreasonable burden’.
+
+              RG 58.50       Applications for relief which result in the financial year of an entity being
+                             unsynchronised with that of a parent will only be considered in rare and
+                             exceptional circumstances.
+
+              RG 58.51       When applying for relief, entities should comply with s323D(2A) of the
+                             Corporations Act and follow our guidance in RG 43 and RG 51.
+
+              RG 58.52       A proprietary company may apply for a financial year of less than
+                             12 months: see s323D(2A). This may result in the company being treated as
+                             a small proprietary company under s45A(2) for the financial year when it
+                             may otherwise have been expected to be a large proprietary company. This
+                             could occur when, for example:
+                             (a)   for financial years commencing on or after 1 July 2019:
+                                   (i)    the company’s revenue is $50 million, or other amount prescribed
+                                          by the regulations, or more, for a 12-month period; or
+                                   (ii)   the company has assets of $25 million, or other amount prescribed
+                                          by the regulations, or more, and wants to extend its financial year
+                                          in anticipation of having less than $25 million, or other amount
+                                          prescribed by the regulations, of assets at the end of subsequent
+                                          financial years; and/or
+                             (b)   for financial years commencing before 30 June 2019:
+                                   (i)    the company’s revenue is $25 million, or other amount prescribed
+                                          by the regulations, or more, for a 12-month period; or
+                                   (ii)   the company has assets of $12.5 million, or other amount
+                                          prescribed by the regulations, or more, and wants to extend its
+                                          financial year in anticipation of having less than $12.5 million, or
+                                          other amount prescribed by the regulations, of assets at the end of
+                                          subsequent financial years.
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                 Page 17
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+              RG 58.53       If we were to grant unconditional relief, the company would not be required
+                             to prepare and lodge an audited financial report or a directors’ report unless:
+                             (a)   it is controlled by a foreign company;
+                             (b)   it is not part of a ‘large group’; and
+                             (c)   its parent does not lodge consolidated financial statements with ASIC.
+
+              RG 58.54       In these cases, we may grant relief but are likely to either impose a condition
+                             or make a direction under s294 requiring the company to prepare and lodge
+                             an audited financial report and a directors’ report for the financial year.
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                 Page 18
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+Appendix: General reporting requirements
+
+              RG 58.55          Section 292 requires all disclosing entities, public companies, companies
+                                limited by guarantee (except small companies limited by guarantee), all large
+                                proprietary companies that are not disclosing entities, all registered schemes
+                                and small proprietary companies that are controlled by a foreign company to
+                                prepare financial reports.
+
+              RG 58.56          Section 601CK requires registered foreign companies to lodge balance
+                                sheets, profit and loss statements, cash flow statements and other documents
+                                with ASIC.
+
+              RG 58.57          In limited circumstances, under the Corporations Act, specific companies are
+                                exempt from the requirement to prepare and lodge financial reports or be
+                                audited.
+
+              RG 58.58          Table 2 summaries the financial reporting requirements of registered foreign
+                                companies and other registered companies. Table 3 summarises the financial
+                                reporting requirements of small proprietary companies that are controlled by
+                                foreign companies and are not disclosing entities.
+
+Table 2:     Reporting requirements of registered foreign companies and other registered
+             foreign companies
+
+ Entity description                  Reporting requirements                Do you need to       Do you need to be
+                                                                           prepare reports      audited under the
+                                                                           under Ch 2M?         Corporations Act?
+
+ Registered foreign companies        Lodge annual return, Form 406,        No                   No
+ where s601CK(7) declaration         but no financial report with ASIC
+ applies
+
+ All other registered foreign        Lodge financial report with ASIC,     Yes—if a             Only if an audit is
+ companies                           prepared under the law in your        financial report     required in your place
+                                     place of origin. If they are not      is not required in   of origin, no financial
+                                     required in your place of origin or   your place of        report needs to be
+                                     if ASIC directs, prepare a            origin or if ASIC    prepared in your
+                                     financial report under Ch 2M          directs              place of origin, or
+                                                                                                ASIC requires an
+                                                                                                audit
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                     Page 19
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+Table 3:     Reporting requirements of small proprietary companies that are controlled by
+             foreign companies and are not disclosing entities
+
+ Entity description                  Reporting requirements                 Do you need     Do you need to be
+                                                                            to prepare      audited under the
+                                                                            reports under   Corporations Act?
+                                                                            Ch 2M?
+
+ Small proprietary companies         Not required to prepare or lodge       No              No
+ controlled by foreign companies     financial reports if directors
+ that are not part of a large        resolve to apply relief under
+ group                               ASIC Corporations (Foreign-
+                                     Controlled Company Reports)
+                                     Instrument 2017/204. Lodge
+                                     notice of that resolution within the
+                                     timeframe and meet all other
+                                     conditions of the instrument
+
+ Small proprietary companies         Not required to appoint auditors,      No              No
+ controlled by foreign companies     or to prepare or lodge financial
+ where a parent company, which       reports
+ must be an Australian company
+ or a registered foreign
+ company, lodges consolidated
+ financial statements covering
+ the small proprietary company
+ for the year with ASIC
+
+ Other small proprietary             Lodge unaudited financial reports      Yes             No—if the conditions
+ companies controlled by foreign     with ASIC if all the conditions                        under ASIC
+ companies that have not been        under ASIC Corporations (Audit                         Corporations
+ audited in any financial year       Relief) Instrument 2016/784 are                        (Audit relief)
+ since 1993, with the exception      met                                                    Instrument 2016/784
+ of a year ending after                                                                     are met
+ 9 December 1995 and before
+ 24 April 1997
+
+ All other small proprietary         Lodge audited financial reports        Yes             Yes
+ companies controlled by foreign     with ASIC
+ companies
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                 Page 20
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+Key terms
+
+                                Term                      Meaning in this document
+
+                                AASB                      Australian Accounting Standards Board
+
+                                AASB 10 (for              An accounting standard issued by the Australian
+                                example)                  Accounting Standards Board (in this example numbered
+                                                          10)
+
+                                accounting standards      Standards issued by the Australian Accounting Standards
+                                                          Board under s334 of the Corporations Act
+
+                                ACN                       Australian Company Number
+
+                                ASIC                      Australian Securities and Investments Commission
+
+                                ATO                       Australian Taxation Office
+
+                                Ch 2M (for example)       A chapter of the Corporations Act (in this example
+                                                          numbered 2M), unless otherwise specified
+
+                                Corporations Act          Corporations Act 2001, including regulations made for the
+                                                          purposes of that Act
+
+                                disclosing entity         Has the meaning given in s111AC of the Corporations
+                                                          Act
+
+                                financial report          The documents referred to in s295 and 303 of the
+                                                          Corporations Act—that is, financial statements, notes to
+                                                          the financial statements and the directors’ declaration
+                                                          about the statements and notes
+
+                                financial statements      The statements required by accounting standards—that
+                                                          is, the statement of financial position, the statement of
+                                                          comprehensive income, the statement of changes in
+                                                          equity and the statement of cash flows
+                                                               Note: This excludes the directors’ declaration and the
+                                                               notes to the financial statements.
+
+                                individual relief         Relief given by ASIC to individual parties on application to
+                                                          ASIC
+
+                                large proprietary         Has the meaning given in s45A(3) of the Corporations Act
+                                company
+
+                                Pt 5B.2 (for example)     A part of the Corporations Act (in this example numbered
+                                                          5B.2), unless otherwise specified
+
+                                registered foreign        Has the meaning given in s9 of the Corporations Act
+                                company
+
+                                registered scheme         A managed investment scheme that is registered under
+                                                          s601EB of the Corporations Act
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                      Page 21
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+                                Term                      Meaning in this document
+
+                                RG 43 (for example)       An ASIC regulatory guide (in this example numbered 43)
+
+                                s601CK(7) (for            A section of the Corporations Act (in this example
+                                example)                  numbered 601CK(7)), unless otherwise specified
+
+                                small proprietary         Has the meaning given in s45A(2) of the Corporations Act
+                                company
+
+
+
+
+© Australian Securities and Investments Commission June 2020                                                   Page 22
+    REGULATORY GUIDE 58: Reporting by registered foreign companies and Australian companies with foreign shareholders
+
+
+
+
+Related information
+                             Headnotes
+
+                             audit relief, foreign company, large proprietary company, registered foreign
+                             company, small proprietary company, synchronisation of financial year
+
+                             Instruments
+
+                             ASIC Corporations (Audit Relief) Instrument 2016/784
+
+                             ASIC Corporations (Exempt Proprietary Companies) Instrument 2015/840
+
+                             ASIC Corporations (Foreign-Controlled Company Reports) Instrument
+                             2017/204
+
+                             ASIC Corporations (Synchronisation of Financial Years) Instrument
+                             2016/189
+
+                             Regulatory guides
+
+                             RG 43 Financial reports and audit relief
+
+                             RG 51 Applications for relief
+
+                             RG 115 Audit relief for proprietary companies
+
+                             Legislation
+
+                             Corporations Act, Ch 2M, Pts 2M.3, 5B.2, s9, 45A, 45A(2), 45A(3), 113,
+                             292, 292(2)(b), 294, 319(1), 323D, 323D(1), 323D(2), 323D(2A), 323D(3),
+                             340, 342, 50AA, 601CK, 601CK(7), 601CK(9)
+
+                             Tax Administration Act 1953, s3CA
+
+                             ASIC forms
+                             Form 382 Notification of resolutions for audit relief: Proprietary companies
+
+                             Form 384 Resolution by directors of a small proprietary company controlled
+                             by a foreign company which is not part of a ‘large group’
+
+                             Form 394 Notice of cessation of reliance on ASIC Corporations (Foreign-
+                             Controlled Company Reports) Instrument 2017/204
+
+                             Form 406 Annual return of a foreign company
+
+                             Accounting standards
+
+                             AASB 10 Consolidated financial statements
+
+
+
+© Australian Securities and Investments Commission June 2020                                                 Page 23
+

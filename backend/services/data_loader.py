@@ -112,6 +112,15 @@ def load_tree(act: str) -> dict:
 
 
 @functools.lru_cache(maxsize=None)
+def _normalize_term_key(key: str) -> str:
+    """Normalize a definition term key for lookup: lowercase + Unicode quote normalization.
+    
+    PDF-extracted text commonly uses curly apostrophes (U+2019) which must
+    be normalized to ASCII apostrophes (U+0027) for index matching.
+    """
+    return key.lower().replace("\u2018", "'").replace("\u2019", "'")
+
+
 def load_definitions(act: str) -> dict[str, dict]:
     # Prefer the combined definitions_all.json; fall back to the act-keyed
     # definitions.json when the combined file is absent (both share the
@@ -124,7 +133,7 @@ def load_definitions(act: str) -> dict[str, dict]:
     data = json.loads(path.read_text(encoding="utf-8"))
     act_data = data.get(act, {})
     terms = act_data.get("terms", {})
-    return {term.lower(): {**info} for term, info in terms.items()}
+    return {_normalize_term_key(term): {**info} for term, info in terms.items()}
 
 
 def _all_definition_acts() -> list[str]:
@@ -559,7 +568,17 @@ def load_rulings() -> list[dict]:
             for i, ln in enumerate(lines):
                 ln = ln.strip()
                 # Find the citation line, take the next non-empty line as the title
-                if re.match(r'^[A-Z]+ \d{4}/\d+', ln) or re.match(r'^\w{2,4} \d{4}/\d+', ln) or re.match(r'^ATO ID \d{4}/\d+', ln) or re.match(r'^PS LA \d{4}/\d+', ln):
+                _citation_re = r'^[A-Z]+ \d{4}/\d+'  # TR 2020/1, TD 1994/82, etc.
+                _citation_2yr_re = r'^[A-Z]+ \d{2}/\d+'  # TD 94/82 (2-digit year)
+                _citation_sequential_re = r'^[A-Z]+ \d+ -'  # IT 2346 - (sequential no year)
+                _citation_ato_id_re = r'^ATO ID \d{4}/\d+'
+                _citation_psla_re = r'^PS LA \d{4}/\d+'
+                if re.match(_citation_re, ln) or re.match(_citation_2yr_re, ln) or re.match(_citation_sequential_re, ln) or re.match(_citation_ato_id_re, ln) or re.match(_citation_psla_re, ln) or re.match(r'^\w{2,4} \d{4}/\d+', ln):
+                    # If the citation and title are on the same line (e.g. "IT 2346 - Income tax..."),
+                    # extract the title directly from the citation line
+                    title_from_citation = None
+                    if ' - ' in ln:
+                        title_from_citation = ln.split(' - ', 1)[1].strip()
                     for j in range(i + 1, min(i + 10, len(lines))):
                         next_ln = lines[j].strip()
                         if not next_ln:
@@ -572,9 +591,12 @@ def load_rulings() -> list[dict]:
                             # Check if the next line is indented (actual title) - if so, skip this category header
                             if j + 1 < len(lines) and lines[j + 1].startswith(' ') and lines[j + 1].strip():
                                 continue
-                        if next_ln and not next_ln.startswith("Please") and not next_ln.startswith("PDF") and not next_ln.startswith("This ATO ID") and not next_ln.startswith("This document") and not re.match(r'^[A-Z]+ \d{4}/\d+', next_ln) and not re.match(r'^={3,}', next_ln):
+                        if next_ln and not next_ln.startswith("Please") and not next_ln.startswith("PDF") and not next_ln.startswith("This ATO ID") and not next_ln.startswith("This document") and not re.match(_citation_re, next_ln) and not re.match(_citation_2yr_re, next_ln) and not re.match(r'^={3,}', next_ln):
                             full_title = next_ln
                             break
+                    # If no title found on the next line, use the citation line's title (after " - ")
+                    if full_title == title and title_from_citation:
+                        full_title = title_from_citation
                     break
             withdrawn = _check_withdrawn(content)
             rulings.append({
@@ -602,12 +624,20 @@ def load_rulings() -> list[dict]:
                 full_title = title
                 for i, ln in enumerate(lines):
                     ln = ln.strip()
-                    if re.match(r'^[A-Z]+ \d{4}/\d+', ln) or re.match(r'^\w{2,4} \d{4}/\d+', ln):
+                    _citation_re = r'^[A-Z]+ \d{4}/\d+'
+                    _citation_2yr_re = r'^[A-Z]+ \d{2}/\d+'
+                    if re.match(_citation_re, ln) or re.match(_citation_2yr_re, ln) or re.match(r'^\w{2,4} \d{4}/\d+', ln):
+                        # If the citation and title are on the same line, extract from the citation line
+                        title_from_citation = None
+                        if ' - ' in ln:
+                            title_from_citation = ln.split(' - ', 1)[1].strip()
                         for j in range(i + 1, min(i + 5, len(lines))):
                             next_ln = lines[j].strip()
                             if next_ln and not next_ln.startswith("Please") and not next_ln.startswith("PDF"):
                                 full_title = next_ln
                                 break
+                        if full_title == title and title_from_citation:
+                            full_title = title_from_citation
                         break
                 year_match = re.search(r'(\d{4})', f.stem)
                 year = int(year_match.group(1)) if year_match else 0
@@ -639,6 +669,9 @@ def load_rulings() -> list[dict]:
         "TA": "TPA",
         "SGR": "SGR",
         "AID": "AID",
+        "ATOID": "AID",
+        "CR": "CLR",
+        "PR": "PRR",
     }
 
     def _ato_url(rtype: str, prefix: str, year: int | None, num: str) -> str | None:
@@ -650,7 +683,7 @@ def load_rulings() -> list[dict]:
         """
         if rtype == "IT":
             docid = f"ITR/IT{num}/NAT/ATO/00001"
-        elif rtype == "AID":
+        elif rtype in ("AID", "ATOID"):
             return f"https://www.ato.gov.au/law/view/document?docid=AID/AID{year}{num}/00001"
         else:
             code = _ato_doc_map.get(rtype)
@@ -667,6 +700,14 @@ def load_rulings() -> list[dict]:
             "PCG": f"ATOPCG/{year}/PCG{docid_num}.html",
             "LCG": f"ATOLCG/{year}/LCG{docid_num}.html",
             "LCR": f"ATOLCR/{year}/LCR{docid_num}.html",
+            "PR": f"ATOPR/{year}/PR{docid_num}.html",
+            "CR": f"ATOCR/{year}/CR{docid_num}.html",
+            "GSTR": f"ATOGSTR/{year}/GSTR{docid_num}.html",
+            "MT": f"ATOMT/{year}/MT{docid_num}.html",
+            "TA": f"ATOTA/{year}/TA{docid_num}.html",
+            "SGR": f"ATOSGR/{year}/SGR{docid_num}.html",
+            "ATOID": f"ATOAID/{year}/AID{docid_num}.html",
+            "AID": f"ATOAID/{year}/AID{docid_num}.html",
             "PS LA": None,
             "PS_LA": None,
         }
@@ -841,7 +882,7 @@ def get_definition_text(act: str, term: str) -> dict | None:
     defs = load_definitions(act)
     if not defs:
         return None
-    info = defs.get(term.lower())
+    info = defs.get(_normalize_term_key(term))
     if not info:
         return None
     section = info.get("section", "")
@@ -862,8 +903,14 @@ def get_definition_text(act: str, term: str) -> dict | None:
         body = content[fm_end.end():] if fm_end else content
     else:
         body = content
+    # Normalize Unicode apostrophes/quotes in body text to match term keys
+    body = body.replace("\u2018", "'").replace("\u2019", "'")
+    body = body.replace("\u201c", '"').replace("\u201d", '"')
+    # Strip standalone asterisk markers — they're PDF cross-reference artifacts
+    # that appear inline within terms (e.g. "*life insurance policies means")
+    body = body.replace("*", "")
 
-    term_lower = term.lower()
+    term_lower = _normalize_term_key(term)
     escaped = re.escape(term_lower)
     # Patterns for definition anchors
     patterns = [
@@ -905,37 +952,35 @@ def get_definition_text(act: str, term: str) -> dict | None:
     #   3. End of body
     rest = body[idx + len(m.group()):]
 
-# Find the closest defined term appearing after the current match in the body text.
-    # We search for ALL defined terms in the same section (not just the alphabetically-next
-    # one) because definitions in the body are not always in alphabetical order — e.g. in
-    # section 995-1, "emissions unit" (e) appears in the text *after* "market value" (m).
-    # Using the alphabetical-only next term would skip intermediate terms and bleed text.
+    # Use the sorted definitions index keys to determine the boundary.
+    # Collect all terms in the same section, sort alphabetically,
+    # and find the alphabetically-next term's definition anchor.
     end_pos = len(body)
-    current_lower = term.lower()
-    for candidate_term, candidate_info in defs.items():
-        if candidate_info.get("section") != section:
-            continue
-        if candidate_term == current_lower:
-            continue
-        escaped_t = re.escape(candidate_term)
-        # Search for this term's definition at a line boundary (possibly with bullet prefix)
-        # or inline after a period+space
+    current_lower = _normalize_term_key(term)
+    same_section_terms = sorted([
+        t for t, info in defs.items()
+        if info.get("section") == section
+    ])
+    try:
+        cur_idx = same_section_terms.index(current_lower)
+    except ValueError:
+        cur_idx = -1
+    if cur_idx >= 0 and cur_idx + 1 < len(same_section_terms):
+        next_term = same_section_terms[cur_idx + 1]
+        escaped_t = re.escape(next_term)
         term_match = re.search(
             rf'(?:\n(?:[-•*]\s+)?|\.\s+)({escaped_t}\s+(?:has\s+(?:(?:the|a)\s+)?(?:same\s+)?meaning|means|includes)(?:\s|:|$))',
             rest,
             re.IGNORECASE,
         )
         if not term_match:
-            # Try colon-only definitions (e.g. "acquire:", "adjustable value:")
             term_match = re.search(
                 rf'(?:\n(?:[-•*]\s+)?|\.\s+)({escaped_t}\s*:)',
                 rest,
                 re.IGNORECASE,
             )
         if term_match:
-            candidate_pos = idx + len(m.group()) + term_match.start()
-            if candidate_pos < end_pos:
-                end_pos = candidate_pos
+            end_pos = idx + len(m.group()) + term_match.start()
 
     # Fallback: next definition anchor or heading
     if end_pos == len(body):

@@ -1,0 +1,22 @@
+{
+  "citation": "RG 137",
+  "title": "Constitution requirements for schemes registered before 1 October 2013",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses the constitution content requirements under the Corporations Act for registered managed investment schemes that were registered before 1 October 2013. It explains ASIC's approach to compliance with sections 601GA and 601GB of the Act for these schemes.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth) and is intended for responsible entities of registered managed investment schemes registered before 1 October 2013, and their advisers. It sets out the requirements that applied to constitutions under the superseded Regulatory Guide 134 as at September 2000, and explains ASIC's regulatory approach to these legacy schemes.",
+  "ruling": "ASIC states that for schemes registered before 1 October 2013, it will not deregister the scheme or take action against a responsible entity or its officers solely because the constitution does not comply with sections 601GA and 601GB of the Corporations Act. The guide explains that the constitution must include an appropriate complaints handling system as a right of members, and that the compliance plan must include adequate measures to ensure compliance with that system. Regarding winding up, ASIC considers that provision for independent sign-off of winding-up accounts is part of adequately dealing with winding up. For withdrawal rights, ASIC considers that the basis for the withdrawal price must be independently verifiable based on the terms of the constitution, and withdrawal provisions must be consistent with Part 5C.6 which restricts withdrawal from non-liquid schemes.",
+  "date_of_effect": "2018-07-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 601GA",
+    "Corporations Act 2001 (Cth) s 601GB",
+    "Corporations Act 2001 (Cth) s 331AD",
+    "Corporations Act 2001 (Cth) Pt 5C.6",
+    "Corporations Act 2001 (Cth) Pt 5C.9"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "RG 134",
+    "ASIC Corporations (Managed Investment Product Consideration) Instrument 2025/629"
+  ]
+}

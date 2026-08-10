@@ -1,0 +1,46 @@
+{
+  "citation": "RG 111",
+  "title": "Content of expert reports",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses the required content and standards for expert reports prepared for security holders in transactions under the Corporations Act. It covers how experts should analyze various transactions to help security holders make informed decisions.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth) to provide guidance to any person who commissions, issues or uses an expert report. Its purpose is to explain ASIC's expectations for the content of expert reports, ensuring they contain sufficient information for security holders to make informed decisions about transactions.",
+  "ruling": "ASIC states that expert reports should comply with the disclosure principles in the Corporations Act and provide clear, objective analysis. The guide outlines a recommended approach for analyzing transactions, including control transactions, demergers, related party transactions, and compulsory acquisitions. ASIC expects experts to use appropriate methodologies, clearly state assumptions, and ensure the report is understandable to security holders. The guide emphasizes that experts must be independent and that reports should address all relevant factors for the specific transaction type.",
+  "date_of_effect": "2020-10-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 611",
+    "Corporations Act 2001 (Cth) s 444GA",
+    "Corporations Act 2001 (Cth) s 912A"
+  ],
+  "cases_referenced": [
+    "Re BNQ Sugar Pty Ltd and Others (1994) 12 ACSR 695",
+    "Capricorn Diamonds Investments Pty Ltd v Catto (2002) 41 ACSR 376",
+    "Duke Group v Pilmer (1999) 31 ACSR 213",
+    "Lewis, In the matter of Diverse Barrel Solutions Pty Ltd (subject to a Deed of Company Arrangement) [2014] FCA 53",
+    "Re EPHS Ltd [2002] ATP 12",
+    "Re Goldfields Kalgoorlie; Winpar Holdings Ltd v Goldfields Kalgoorlie Ltd (2000) 34 ACSR 737",
+    "Re Mirabela Nickel Ltd (subject to a Deed of Company Arrangement) [2014] NSWSC 836",
+    "Re Nexus Energy Limited (2014) 105 ACSR 246",
+    "GIO Australia Holdings Pty Ltd v AMP Insurance Investment Holdings Pty Ltd (1998) 29 ACSR 584",
+    "Makita (Australia) Pty Ltd v Sprowles (2001) 52 NSWLR 705",
+    "Re Matine (1998) 28 ACSR 268",
+    "MGICA (1992) Ltd v Kenny & Good Pty Ltd (1996) 140 ALR 313",
+    "Northern Energy Corporation Limited [2011] ATP 2",
+    "RAIA Insurance Brokers v FAI General Insurance Co Ltd (1993) 112 ALR 511",
+    "Reiffel v ACN 075 839 266 Ltd (2003) 45 ACSR 67",
+    "Teh v Ramsay Centauri (2002) 42 ACSR 354",
+    "Troy Resources NL v Taipan Resources NL (2000) 36 ACSR 197",
+    "Weaver v Noble Resources Ltd [2010] WASC 182",
+    "Winpar Holdings Ltd v Austrim Nylex Ltd [2005] VSCA 211"
+  ],
+  "related_rulings": [
+    "RG 112",
+    "CP 62",
+    "CP 142",
+    "CP 143",
+    "CP 326",
+    "REP 233",
+    "REP 234",
+    "REP 670"
+  ]
+}

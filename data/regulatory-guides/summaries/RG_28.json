@@ -1,0 +1,29 @@
+{
+  "citation": "RG 28",
+  "title": "Relief from dual lodgment of financial reports",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide sets out arrangements agreed between ASIC and ASX to avoid the need for dual lodgment of the same financial reports, directors' reports and auditors' reports with both bodies in certain circumstances for listed disclosing entities.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth) and explains how ASIC has appointed ASX as its agent to receive certain reports of disclosing entities, so that lodgment with ASX within the prescribed time under the Act constitutes lodgment with ASIC. It is intended for listed disclosing entities that must report under Chapter 2M of the Act.",
+  "ruling": "ASIC has appointed ASX as its agent under Class Order [CO 98/104] to receive certain reports from disclosing entities, so that lodgment with ASX satisfies the requirement to lodge with ASIC under s319(1) or s320 of the Corporations Act 2001. The dual lodgment relief arrangements apply only to listed disclosing entities that lodge signed reports with ASX; they do not relieve entities from preparing reports under Parts 2M.2 and 2M.3. For listed disclosing entities that are not companies or registered schemes (listed bodies), the arrangements apply only to half-year reports, not full financial year reports, because a fee is required for full-year lodgment by such bodies. Monitoring of the arrangements is conducted jointly by ASX and ASIC.",
+  "date_of_effect": "2003-07-31",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 285(2)",
+    "Corporations Act 2001 (Cth) s 302",
+    "Corporations Act 2001 (Cth) s 303(4)",
+    "Corporations Act 2001 (Cth) s 319(1)",
+    "Corporations Act 2001 (Cth) s 320",
+    "Corporations Act 2001 (Cth) s 792C",
+    "Corporations Act 2001 (Cth) s 1274(11)",
+    "Corporations Regulations 2001 (Cth) reg 1.0.08",
+    "Corporations Regulations 2001 (Cth) reg 1.0.09",
+    "Corporations (Fees) Regulations (Cth)"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "CO 98/104",
+    "CO 99/90",
+    "IR 99/11",
+    "INFO 30"
+  ]
+}

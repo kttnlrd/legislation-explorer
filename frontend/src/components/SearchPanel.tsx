@@ -116,7 +116,9 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
   const handleSelect = (r: FlatResult) => {
     setQuery('')
     setResults([])
-    if (r.section) {
+    if (r.type === 'case' && r.section) {
+      onNavigate('tax-cases', r.section)
+    } else if (r.section) {
       onNavigate(r.act, r.section)
     }
   }
@@ -317,11 +319,14 @@ export default function SearchPanel({ acts, onNavigate, isMobile, onResultsChang
                 'Sec'
               const isRuling = r.type === 'ruling' || r.act === 'rulings'
               const isCchGuide = r.act.startsWith('master-')
-              const sectionDisplay = isRuling
-                ? r.section
-                : isCchGuide
-                  ? shortActName(r.act)
-                  : `${shortActName(r.act)} s${r.section}`
+              const isCase = r.type === 'case'
+              const sectionDisplay = isCase
+                ? r.title || r.section
+                : isRuling
+                  ? r.section
+                  : isCchGuide
+                    ? shortActName(r.act)
+                    : `${shortActName(r.act)} ${r.section}`
               return (
               <div
                 key={`${r.act}-${r.section}-${pageStart + i}`}

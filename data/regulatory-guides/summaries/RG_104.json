@@ -1,0 +1,38 @@
+{
+  "citation": "RG 104",
+  "title": "AFS licensing: Meeting the general obligations",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide describes ASIC's approach to assessing compliance with most of the general obligations under s912A(1) of the Corporations Act for Australian financial services (AFS) licensees and applicants.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth) and is intended for AFS licensees and licence applicants. It explains how ASIC interprets the law and what it looks for when assessing compliance with the general obligations, excluding those covered in separate guides.",
+  "ruling": "ASIC expects licensees to have measures in place to ensure compliance with their obligations, and what is required depends on the nature, scale and complexity of the business. Licensees can outsource functions but cannot outsource responsibility. ASIC will assess compliance based on whether the licensee has adequate resources, risk management systems, and arrangements for dealing with clients. The guide outlines key compliance concepts and provides practical guidance on meeting the obligations.",
+  "date_of_effect": "2022-06",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 912A",
+    "Corporations Act 2001 (Cth) s 9",
+    "Corporations Act 2001 (Cth) s 601FB",
+    "Corporations Act 2001 (Cth) s 761A",
+    "Corporations Act 2001 (Cth) s 769B",
+    "Corporations Act 2001 (Cth) s 910A",
+    "Corporations Act 2001 (Cth) s 911B",
+    "Corporations Act 2001 (Cth) s 913B",
+    "Corporations Act 2001 (Cth) s 914A",
+    "Corporations Act 2001 (Cth) s 915C",
+    "Corporations Act 2001 (Cth) s 1112",
+    "Corporations Act 2001 (Cth) s 1112A",
+    "Corporations Regulations 2001 (Cth) reg 7.6.03",
+    "Corporations Regulations 2001 (Cth) reg 7.6.04",
+    "Australian Securities and Investments Commission Act 2001 (Cth)",
+    "National Consumer Credit Protection Act 2009 (Cth)",
+    "Superannuation Industry (Supervision) Act 1993 (Cth)",
+    "Australian Prudential Regulation Authority Act 1998 (Cth) s 3(2)"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "RG 267",
+    "RG 271",
+    "RG 265",
+    "RG 266",
+    "INFO 257"
+  ]
+}

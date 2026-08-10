@@ -1,0 +1,50 @@
+{
+  "citation": "RG 25",
+  "title": "Takeovers: false and misleading statements",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses 'truth in takeovers' by providing guidance on false and misleading statements made during takeover bids. It covers last and final statements, making/correcting/updating statements, and other misleading statements such as confusing or ambiguous statements and statements about acceptances.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth), particularly Chapter 6 (Takeovers) and Chapter 6B (Rights and liabilities in relation to Chapter 6 and 6A matters). It is intended for market participants including bidders, targets, and substantial holders, and aims to clarify ASIC's regulatory approach to statements commonly made during takeover bids that may be misleading or deceptive.",
+  "ruling": "ASIC states that a market participant making a last and final statement (e.g., a 'no increase statement') risks regulatory action for contravening misleading or deceptive conduct provisions (s670A and 1041H) or an application to the Takeovers Panel for unacceptable circumstances if it departs from that statement. A departure occurs when the participant's conduct is inconsistent with the statement. To reserve the right to depart upon a specified event, the participant must clearly qualify the statement; stating 'we presently intend that' is not sufficient. Bidders and targets must make, correct, or update material statements during the offer period via a supplementary bidder's or target's statement. ASIC's policy primarily focuses on statements made during the offer period, not on content requirements under s636 or 638 of the Corporations Act.",
+  "date_of_effect": "2002-08-22",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 624",
+    "Corporations Act 2001 (Cth) s 636",
+    "Corporations Act 2001 (Cth) s 638",
+    "Corporations Act 2001 (Cth) s 643",
+    "Corporations Act 2001 (Cth) s 644",
+    "Corporations Act 2001 (Cth) s 670A",
+    "Corporations Act 2001 (Cth) s 670B",
+    "Corporations Act 2001 (Cth) s 670D",
+    "Corporations Act 2001 (Cth) s 674",
+    "Corporations Act 2001 (Cth) s 675",
+    "Corporations Act 2001 (Cth) s 1041E",
+    "Corporations Act 2001 (Cth) s 1041F",
+    "Corporations Act 2001 (Cth) s 1041H",
+    "Trade Practices Act 1974 (Cth) s 52",
+    "ASIC Act 2001 (Cth) s 12DA",
+    "ASIC Act 2001 (Cth) s 30"
+  ],
+  "cases_referenced": [
+    "Annand & Thompson Pty Ltd v TPC (1979) 25 ALR 91",
+    "Equity Access Pty Ltd v Westpac Banking Corp (1990) ATPR 40-994",
+    "Futuretronics International Pty Ltd v Gadzhis (1992) 2 VR 217",
+    "Global Sportsman Pty Ltd v Mirror Newspapers Ltd (1984) 55 ALR 25",
+    "Holt v Biroka Pty Ltd (1988) 13 NSWLR 629",
+    "James v ANZ Banking Group Ltd (1986) 64 ALR 347",
+    "Lezam Pty Ltd v Seabridge Australia Pty Ltd (1992) 35 FCR 535",
+    "Parkdale Custom Build Furniture Pty Ltd v Puxu Pty Ltd (1982) 149 CLR 191",
+    "Pinnacle VRB Ltd (Re) (No 9 & 9B) (2001) 40 ACSR 56",
+    "Poseidon Ltd v Adelaide Petroleum NL (1991) 105 ALR 25",
+    "Scott v HS Lawrence & Sons Pty Ltd (1982) 6 ACLR 579",
+    "Siddons Pty Ltd v Stanley Works Pty Ltd (1991) 99 ALR 497",
+    "Taipan Resources NL (Re) (No 6) (2000) 36 ACSR 716",
+    "Thompson v Mastertouch TV Services Pty Ltd (1977) 15 ALR 487",
+    "Wheeler Grace & Pierucci Pty Ltd v Wright (1989) ATPR 40-940"
+  ],
+  "related_rulings": [
+    "RG 159",
+    "RG 168",
+    "RG 170"
+  ]
+}

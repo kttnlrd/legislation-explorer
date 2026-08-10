@@ -1,0 +1,1287 @@
+REGULATORY GUIDE 16
+
+External administrators and
+controllers: Reporting of
+possible offences and
+misconduct
+
+July 2025
+
+
+
+
+About this guide
+This guide is for liquidators, voluntary administrators, receivers and
+managing controllers.
+
+It provides guidance on their reporting obligations under s422, 438D, 500AE
+and 533 of the Corporations Act and reg 5.5.05 of the Corporations
+Regulations.
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+                                  About ASIC regulatory documents
+
+                                  In administering legislation ASIC issues the following types of regulatory
+                                  documents.
+                                  Consultation papers: seek feedback from stakeholders on matters ASIC
+                                  is considering, such as proposed relief or proposed regulatory guidance.
+                                  Regulatory guides: give guidance to regulated entities by:
+                                      explaining when and how ASIC will exercise specific powers under
+                                       legislation (primarily the Corporations Act)
+                                      explaining how ASIC interprets the law
+                                      describing the principles underlying ASIC’s approach
+                                      giving practical guidance (e.g. describing the steps of a process such
+                                       as applying for a licence or giving practical examples of how
+                                       regulated entities may decide to meet their obligations).
+                                  Information sheets: provide concise guidance on a specific process or
+                                  compliance issue or an overview of detailed guidance.
+                                  Reports: describe ASIC compliance or relief activity or the results of a
+                                  research project.
+
+
+
+                              Document history
+                              This guide was issued in July 2025 and is based on legislation and
+                              regulations as at the date of issue.
+
+                              Previous versions:
+                                     Superseded Regulatory Guide 16 External administrators: Reporting
+                                      and lodging, issued on 1 July 2008, reissued September 2024.
+                                     Practice Note 50 rebadged as Regulatory Guide 16 on 5 July 2007.
+
+
+                              Disclaimer
+                              This guide does not constitute legal advice. We encourage you to seek your
+                              own professional advice to find out how the Corporations Act and other
+                              applicable laws apply to you, as it is your responsibility to determine your
+                              obligations.
+
+                              Examples in this guide are purely for illustration; they are not exhaustive and
+                              are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                    Page 2
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+Contents
+
+
+                              A      Overview ........................................................................................... 4
+                                     Who this guide applies to................................................................... 4
+                                     Purpose of the reporting obligations .................................................. 5
+                                     Overview of the reporting obligations ................................................ 5
+                              B      Initial statutory report ...................................................................... 7
+                                     In what circumstances is an initial statutory report required to be
+                                     lodged with ASIC? ............................................................................. 7
+                                     Guidance for preparing the initial statutory report ............................. 9
+                              C      Supplementary statutory report ................................................... 14
+                                     In what circumstances is a supplementary statutory report required
+                                     to be lodged with ASIC? .................................................................. 14
+                                     Guidance for preparing the supplementary statutory report ............ 15
+                              D      Lodging an initial statutory report or supplementary statutory
+                                     report with ASIC ............................................................................. 18
+                                     Timeframes for lodging reports ........................................................ 18
+                                     How to lodge the reports .................................................................. 20
+                              E      How ASIC uses initial statutory reports and supplementary
+                                     statutory reports ............................................................................ 21
+                                     How we use information in reports lodged under this guide............ 21
+                                     Use of the information for enforcement or regulatory action ........... 21
+                                     Use of information for intelligence and statistical purposes ............ 22
+                                     Release of information ..................................................................... 23
+                              Key terms ............................................................................................... 24
+                              Related information ............................................................................... 25
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                                           Page 3
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+A          Overview
+
+
+                               Key points
+
+                               External administrators and controllers are required to report to ASIC if it
+                               appears to them that a person may have committed an offence or engaged
+                               in misconduct in relation to the company.
+
+                               This guide explains:
+                               • our expectations for preparing the initial statutory report (see Section B);
+                               • when and how to prepare a supplementary statutory report (see
+                                 Section C);
+                               • how to lodge reports with ASIC (see Section D); and
+                               • how we deal with the reports we receive and the information we will
+                                 publish about your reports (see Section E).
+
+
+
+
+Who this guide applies to
+               RG 16.1        This guide applies to liquidators, voluntary administrators, receivers and
+                              managing controllers.
+
+                                   Note: In this guide, we refer collectively to liquidators, voluntary administrators,
+                                   receivers and managing controllers as ‘external administrators and controllers’.
+
+               RG 16.2        It explains the process for complying with the obligation to report possible
+                              offences and misconduct to ASIC under s422, 438D, 500AE and 533 of the
+                              Corporations Act 2001 (Corporations Act) and reg 5.5.05 of the
+                              Corporations Regulations 2001 (Corporations Regulations), referred to in
+                              this guide as the ‘reporting obligations’.
+
+               RG 16.3        External administrators and controllers have a range of other obligations
+                              under the Corporations Act. This guide focuses on the reporting obligations.
+
+                                   Note: For additional resources on the obligations of external administrators and
+                                   controllers, see Information Sheet 29 External administration, controller appointments
+                                   and schemes of arrangement: Most commonly lodged forms (INFO 29), Regulatory
+                                   Guide 258 Registered liquidators: Registration, ongoing obligations, disciplinary
+                                   actions and insurance requirements (RG 258) and the Insolvency information on the
+                                   ASIC website.
+               RG 16.4        As part of their duties and functions, an external administrator or controller
+                              will investigate the company’s affairs to identify property that may be
+                              recovered to form part of the funds in the administration to be distributed in
+                              accordance with the law. As part of these investigations, information or
+                              evidence may be identified that enables them to form a view that it appears
+                              an offence has been committed or misconduct has occurred that must be
+                              reported.
+
+
+© Australian Securities and Investments Commission July 2025                                                              Page 4
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+Purpose of the reporting obligations
+               RG 16.5        The reporting obligations are an important source of ‘front line’ information
+                              for ASIC about possible breaches of the Corporations Act and the Australian
+                              Securities and Investments Commission Act 2001 (ASIC Act) by persons
+                              involved with the company. If other breaches of the law are identified, we
+                              can also share this information with relevant agencies, as appropriate. The
+                              reports we receive further provide us with key information to identify
+                              systemic issues and risks and to enable us to provide transparency to
+                              stakeholders through our ability to publish aggregated information.
+
+               RG 16.6        The reporting obligations contribute to:
+                              (a)   maintaining the integrity of the marketplace; and
+                              (b)   promoting investor and consumer confidence.
+
+               RG 16.7        For the reporting obligations to be effective, external administrators and
+                              controllers should assess the appropriate level of inquiries to undertake,
+                              according to the circumstances of the company. Information provided about
+                              possible offences and misconduct should be specific and timely.
+
+
+
+Overview of the reporting obligations
+               RG 16.8        An external administrator or controller may be required to lodge the
+                              following reports with ASIC to comply with the reporting obligations:
+                              (a)   an initial statutory report after forming a view that possible offences or
+                                    misconduct occurred (s422(1), 438D(1) and 533(1), or s500AE(3)(f)
+                                    and reg 5.5.05(2)) (see Section B);
+                              (b)   an initial statutory report by the liquidator of an insolvent company after
+                                    forming a view that the company may be unable to pay its unsecured
+                                    creditors more than 50 cents in the dollar (s533(1)(c)) (see Section B); and
+                                    Note: Data obtained from final returns (Form 5603 End of administration return) shows
+                                    over 95% disclose actual dividends paid to unsecured creditors in insolvent liquidations
+                                    of 50 cents in the dollar or less.
+
+                              (c)   a supplementary statutory report with greater detail of possible offences
+                                    and misconduct when, in the opinion of the external administrator or
+                                    controller, it is desirable to bring a matter to the notice of ASIC
+                                    (s422(2), 438D(2) and 533(2), or s500AE(3)(f) and reg 5.5.05(3)) (see
+                                    Section C).
+
+               RG 16.9        The reporting obligations, as outlined in RG 16.8, apply to:
+                              (a)   a receiver of property of a corporation (s422);
+                              (b)   a managing controller of property of a corporation (s422);
+                              (c)   an administrator of a company under administration (s438D);
+
+
+
+© Australian Securities and Investments Commission July 2025                                                         Page 5
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+                              (d)   a liquidator of a company (s533); and
+                              (e)   a liquidator of a simplified liquidation process (s500AE(3)(f) and
+                                    reg 5.5.05).
+
+                                    Note: If the external administrator is the liquidator of a pooled group of companies, they
+                                    must lodge a report in respect of each company in the group, unless the court makes an
+                                    order to the contrary. This is because the obligation in s533 to lodge a report on possible
+                                    misconduct refers to a particular company in the singular, not a pooled group of
+                                    companies.
+
+               RG 16.10       The Corporations Act does not require reports of possible offences and
+                              misconduct to be lodged by:
+                              (a)   a controller who is neither a receiver nor a managing controller;
+                              (b)   a provisional liquidator;
+                              (c)   a restructuring practitioner for a company;
+                              (d)   the restructuring practitioner for a restructuring plan that has been made
+                                    in relation to the company; or
+                              (e)   an administrator of a deed of company arrangement.
+
+               RG 16.11       Initial statutory reports and supplementary statutory reports are to be lodged
+                              using the ASIC Regulatory Portal. For information on the timeframes and
+                              process for lodging the reports, see Section D.
+
+               RG 16.12       ASIC may use the information from initial statutory reports and
+                              supplementary statutory reports to commence an investigation and take
+                              further action in relation to identified breaches. For information on the way
+                              that ASIC uses information in the reports: see Section E.
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                            Page 6
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+B          Initial statutory report
+
+
+                               Key points
+
+                               Extensive investigations are not required to be undertaken, or significant
+                               costs incurred, in completing the initial statutory report.
+
+                               An initial statutory report is required to be lodged with ASIC by:
+                               • external administrators and controllers—after forming a view that a
+                                 person may have committed an offence in relation to the company or
+                                 engaged in misconduct;
+                               • liquidators—after forming a view that the company may be unable to
+                                 pay its unsecured creditors more than 50 cents in the dollar; and
+                               • liquidators in a simplified liquidation process—after forming an opinion
+                                 that an offence has occurred that may have a material adverse effect on
+                                 the interests of creditors.
+
+                               External administrators and controllers must use their reasonably formed
+                               professional judgement in investigating and reporting possible offences and
+                               misconduct.
+
+
+
+
+In what circumstances is an initial statutory report required to be
+lodged with ASIC?
+
+                              Obligation on liquidators
+
+               RG 16.13       A liquidator of a company (other than a liquidator in a simplified liquidation
+                              process) must:
+                              (a)   lodge an initial statutory report with ASIC as soon as practicable, and in
+                                    any event within six months, after it appears to the liquidator that:
+                                    (i)    a past or present officer or employee, or a member or contributory,
+                                           of the company may have been guilty of an offence under
+                                           Australian law in relation to the company; or
+                                    (ii)   a person who has taken part in the formation, promotion,
+                                           administration, restructuring, management or winding up of the
+                                           company may have:
+                                           (A)   misapplied or retained, or become liable or accountable for,
+                                                 money or property of the company; or
+                                           (B)   been guilty of any negligence, default, breach of duty or
+                                                 breach of trust in relation to the company; or
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                    Page 7
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+                                    (iii)   the company may be unable to pay its unsecured creditors more
+                                            than 50 cents in the dollar (see s533(1)); and
+                              (b)   state in any initial statutory report lodged whether they propose to make
+                                    an application for an examination or order under s597 (see s533(1)(d)).
+
+               RG 16.14       A liquidator of a company in a simplified liquidation process must lodge an
+                              initial statutory report with ASIC as soon as practicable, and in any event
+                              within six months, after first forming the opinion that there are reasonable
+                              grounds to believe that a person may have engaged in conduct constituting
+                              an offence that has had, or is likely to have, a material adverse effect on the
+                              interests of creditors as a whole, or a class of creditors as a whole: see
+                              s500AE(3)(f) and reg 5.5.05(2).
+
+
+                              Obligation on voluntary administrators, receivers and
+                              managing controllers
+
+               RG 16.15       Voluntary administrators, receivers and managing controllers must lodge an
+                              initial statutory report with ASIC as soon as practicable after forming an
+                              opinion that:
+                              (a)   a past or present officer or employee, or a member, of the company may
+                                    have been guilty of an offence under Australian law in relation to the
+                                    company; or
+                              (b)   a person who has taken part in the formation, promotion,
+                                    administration, management or winding up of the company may have:
+                                    (i)     misapplied, retained, or become liable or accountable for, money
+                                            or property of the company; or
+                                    (ii)    been guilty of any negligence, default, breach of duty or breach of
+                                            trust in relation to the company: see s422(1) and 438D(1).
+
+
+                              Court direction for lodgement
+
+               RG 16.16       The court may also, on the application of an interested person, direct an
+                              external administrator or controller to lodge a report if:
+                              (a)   it appears to the court that an offence may have been committed or a
+                                    person has engaged in misconduct in relation to the company; and
+                              (b)   the external administrator or controller has not lodged a report about the
+                                    matter: see s422(3)–(4), 438D(3) and 533(3), or s500AE(3)(f) and
+                                    reg 5.5.05(4).
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                    Page 8
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+Guidance for preparing the initial statutory report
+               RG 16.17       The Corporations Act does not specify the information to be included in the
+                              initial statutory report other than to require the external administrator or
+                              controller to report and to give ASIC such information, and such access to—
+                              and facilities for—inspecting and taking copies of any documents required:
+                              see s422(1)(d), 438D(1)(d) and 533(1)(e), or s500AE(3)(f) and
+                              reg 5.5.05(2)(d).
+
+               RG 16.18       We have set out in RG 16.19–RG 16.41 our expectations about the exercise
+                              of professional judgement and the minimum steps required to complete and
+                              lodge the initial statutory report.
+
+
+                              What inquiries are required?
+
+               RG 16.19       An external administrator or controller is not required to carry out extensive
+                              investigations prior to lodging the initial statutory report. It is also not
+                              necessary for the external administrator or controller to have completed all
+                              inquiries or to have formed definitive views for the initial statutory report.
+
+               RG 16.20       We expect that external administrators and controllers will complete the
+                              following steps:
+                              (a)   Exercise professional judgement in deciding what investigations to
+                                    undertake, taking into account available information on the size and
+                                    nature of the company’s business and the extent of company property.
+                                    The use of available funds to complete inquiries should be carefully
+                                    considered against the use of funds for other purposes—including, the
+                                    potential for returns to creditors and members.
+                              (b)   Seek access to the books and records of the company.
+                              (c)   Interview the director(s) and staff holding key roles (if within
+                                    jurisdiction) and maintain a written record of the information obtained.
+                              (d)   Consider whether any offences or misconduct have occurred and
+                                    whether evidence exists, or is likely to be obtained, to support further
+                                    action by ASIC.
+
+                                    Note: An external administrator or controller may consider that more extensive inquiries
+                                    are required to be undertaken in the circumstances following receipt of the books and
+                                    records and information gained in the interviews.
+
+               RG 16.21       In complying with the reporting obligations, the courts have held the
+                              following in respect of the obligation on liquidators under s533(1) (which is
+                              similar to the obligation on other external administrators and controllers
+                              under s422(1) and 438D(1)):
+                              (a)   It is not necessary for a liquidator to form a ‘concrete opinion’ before
+                                    reporting—only to report if it appears certain things may have occurred.
+                                    Further, it is not necessary to express any view or opinion in the report,
+
+
+
+© Australian Securities and Investments Commission July 2025                                                         Page 9
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+                                    or to set out the basis for the view or opinion expressed. Nor is the
+                                    liquidator required to have reasonable grounds for holding the opinions
+                                    or views. However, a liquidator is obliged to act bona fide and must not
+                                    express views which are not genuinely held.
+
+                                    Note 1: See Murdaca v Australian Securities and Investments Commission [2009]
+                                    FCAFC 92 at [100].
+
+                                    Note 2: In considering whether an offence or misconduct should be reported, we
+                                    encourage external administrators to have regard to the guidance relating to reports
+                                    funded under the Assetless Administration Fund in Annexure A to Grant Guidelines:
+                                    Allegations of possible misconduct—Substantiation guide (PDF 495 KB) on the ASIC
+                                    website. However, it is not necessary to hold the evidence set out in the guidance when
+                                    reporting a matter in the initial statutory report, as long as the view expressed is
+                                    genuinely held.
+
+                              (b)   If a liquidator has suspicions rather than opinions this should be made
+                                    clear in the report. If a liquidator expresses an opinion based on
+                                    supporting evidence, they should believe the evidence is reliable.
+
+                                    Note: See Joubert and Members of the Companies Auditors and Liquidators
+                                    Disciplinary Board [2018] AATA 944 at 94.
+
+                              (c)   A liquidator may form a view before they obtain all the books and
+                                    records of the company. The liquidator is required to investigate the
+                                    affairs of the company in liquidation, but the extent of investigation
+                                    undertaken will be constrained by the available resources.
+
+                                    Note: See Australian Securities and Investments Commission v Bettles [2023] FCA 975
+                                    at 745 to 746.
+
+                              (d)   A liquidator is not required to incur significant expense in getting the
+                                    books for the purpose of preparing a report.
+
+                                    Note: See the cases cited in Australian Securities and Investments Commission v Wily &
+                                    Hurst [2019] NSWSC 521 at 83 to 87.
+
+                              (e)   A liquidator is required to perform their duties in accordance with high
+                                    standards of impartiality, probity and competence.
+
+                                    Note: See Australian Securities and Investments Commission v Robert John Edge
+                                    [2007] VSC 170 at 639.
+
+
+                              How do I complete the initial statutory report?
+
+               RG 16.22       ASIC has a form (also referred to as a ‘transaction’) available on the
+                              ASIC Regulatory Portal that external administrators and controllers must use
+                              to complete the initial statutory report. The form uses conditional logic, with
+                              ongoing questions dependent on the answers to earlier questions. There is an
+                              option to provide attachments, if required.
+
+                                    Note: See Section D for further information on lodging the initial statutory report.
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                          Page 10
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+               RG 16.23       Our user guide, Completing an initial statutory report through the ASIC
+                              Regulatory Portal (PDF 6.4 MB), provides details on how to answer each
+                              question and the level of investigation a liquidator might need to perform,
+                              noting that the liquidator must exercise their own professional judgment as
+                              to the appropriate level of investigation.
+
+               RG 16.24       We encourage external administrators and controllers to select from the
+                              standard response options where possible and to keep any free text responses
+                              brief (i.e. a maximum of two paragraphs). The information gathered through
+                              this form, together with other information known to ASIC, is used to
+                              consider what action, if any, will be taken in response to the report.
+
+
+                              What if no possible offences or misconduct are identified
+                              (or the only issue is that the company may be unable to
+                              pay unsecured creditors more than 50 cents in the dollar)?
+
+               RG 16.25       We do not expect that an external administrator or controller will identify
+                              possible reportable offences or misconduct in all appointments requiring
+                              them to lodge an initial statutory report. We consider that the mere fact that a
+                              company has failed does not in and of itself create evidence that an offence
+                              or misconduct has occurred.
+
+               RG 16.26       If the only issue identified by a liquidator is that the company may be unable
+                              to pay its unsecured creditors more than 50 cents in the dollar, the liquidator
+                              will need to lodge an initial statutory report only selecting this option (i.e.
+                              not selecting any offences) and complete the relevant questions. For further
+                              explanation, see Completing an initial statutory report through the ASIC
+                              Regulatory Portal (PDF 6.4 MB).
+
+
+                              What if there are no company books?
+
+               RG 16.27       An external administrator or controller has powers under the Corporations
+                              Act to obtain and inspect the books of a company to which they have been
+                              appointed: see s431, 438B, 477(3) and 530A–530C.
+
+               RG 16.28       An external administrator or controller should take steps to obtain and
+                              conduct preliminary investigations into the company’s books and affairs
+                              before lodging an initial statutory report that alleges possible offences or
+                              misconduct. However, it is not necessary to have reviewed all of the books
+                              and records prior to reporting.
+
+                                   Note: The level and nature of the investigations conducted will depend on the type of
+                                   appointment, the company’s circumstances and the extent of company property: see
+                                   RG 16.20–RG 16.21.
+
+               RG 16.29       If an external administrator or controller needs assistance to obtain a
+                              report on company activities and property or the company books, they can
+                              submit a Request assistance for external administration transaction through
+
+
+
+© Australian Securities and Investments Commission July 2025                                                       Page 11
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+                              the ASIC Regulatory Portal. For assistance with preparing this transaction,
+                              see: request assistance for external administration on the ASIC website.
+
+               RG 16.30       Any failure of the company to maintain adequate books and records is an
+                              offence and should be reported to ASIC in the initial statutory report.
+
+                                   Note: A person commits an offence if they fail to keep written financial records that:
+                                   •   correctly record and explain the company’s transactions and financial position and
+                                       performance; and
+                                   •   would enable true and fair financial statements to be prepared and audited: see s286.
+
+
+                              What if there are insufficient assets?
+
+               RG 16.31       In many external administration or controller appointments there may be
+                              insufficient property available to pay the expenses and remuneration of the
+                              external administrator or controller (an unfunded appointee). An unfunded
+                              appointee must still comply with their statutory obligation to prepare and
+                              lodge an initial statutory report of possible offences or misconduct.
+
+               RG 16.32       Where there is finite property available, the level of inquiries that are
+                              required to be undertaken will be more limited: see RG 16.20–RG 16.21.
+
+                                   Note: Nothing in s545(1) relieves a liquidator of the obligation to report under any
+                                   provision of the Corporations Act, even if the liquidator is unfunded: see s545(3).
+
+
+                              What if there are concurrent or subsequent appointments?
+
+               RG 16.33       Multiple external administrators or controllers can be appointed to a
+                              company, either concurrently or at different times.
+
+               RG 16.34       Each external administrator or controller must report possible offences. For
+                              joint and several appointments, the external administrators or controllers can
+                              report jointly and severally.
+
+               RG 16.35       If a first appointee is subsequently replaced, the incoming external
+                              administrator or controller should consider whether they need to lodge a
+                              report to comply with the reporting obligations. The reporting obligations do
+                              not provide that an incoming external administrator or controller can rely on
+                              a report lodged by the first appointee. It will be necessary for the incoming
+                              external administrator to lodge their own report if required: see s422(1),
+                              438D(1) and 533(1), or s500AE(3)(f) and reg 5.5.05.
+
+               RG 16.36       We consider it is appropriate for the incoming appointee to take into account
+                              the information in any prior report submitted and any available work papers
+                              as a starting point for their reporting to ASIC. The incoming appointee
+                              should then exercise their discretion to determine whether any further
+                              inquiries are necessary, or would be duplicative or costly.
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                        Page 12
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+                              What happens after an initial statutory report is lodged?
+
+               RG 16.37       We will acknowledge lodgement of the initial statutory report. The
+                              automated acknowledgement email will ask registered liquidators to apply
+                              their professional judgment to determine whether to submit a supplementary
+                              statutory report and provide information to assist with making that
+                              assessment. An example of this email can be accessed on our website: New
+                              ISR acknowledgement email (PDF 94.4 KB).
+
+               RG 16.38       ASIC will use the information in the initial statutory report for the purposes
+                              outlined in Section E. In a small number of cases, ASIC may make a
+                              proactive request that further information be submitted in a supplementary
+                              statutory report through the ASIC Regulatory Portal (see Section D).
+
+               RG 16.39       If ASIC does not request a supplementary statutory report do not assume that
+                              a supplementary statutory report is not of value to ASIC.
+
+               RG 16.40       We consider that, in most cases, external administrators and controllers who
+                              submit an initial statutory report will have complied with their obligation to
+                              report possible offences and misconduct and that no further steps are required.
+
+               RG 16.41       An external administrator or controller may consider that, after completing and
+                              submitting the initial statutory report through the ASIC Regulatory Portal, there are
+                              other matters that should be brought to ASIC’s attention. In these circumstances,
+                              the external administrator or controller should consider submitting either:
+                              (a)   another initial statutory report focusing on possible offences or
+                                    misconduct; or
+                              (b)   a supplementary statutory report: see Section D.
+
+                                    Note: External administrators and controllers may lodge multiple initial statutory reports
+                                    with ASIC if they identify possible offences or misconduct that must be reported.
+
+
+                              What if I have further questions in relation to preparing an
+                              initial statutory report?
+
+               RG 16.42       If you have additional questions in relation to the preparation of an initial
+                              statutory report, you can email ISRandSSR.Questions@asic.gov.au.
+
+
+                              Qualified privilege
+
+               RG 16.43       In the absence of malice on their part, an external administrator or controller
+                              who lodges a report of possible offences or misconduct for the purpose of
+                              satisfying the reporting obligations will have statutory immunity (qualified
+                              privilege) from liability for defamation in respect of statements made or
+                              matters contained in the report: see s426, 442E or 535.
+
+               RG 16.44       Only external administrators, controllers and provisional liquidators have
+                              statutory qualified privilege.
+
+
+
+© Australian Securities and Investments Commission July 2025                                                         Page 13
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+C          Supplementary statutory report
+
+
+                               Key points
+
+                               A supplementary statutory report expands upon the information provided in
+                               the initial statutory report.
+
+                               An external administrator or controller may lodge a supplementary statutory
+                               report about matters desirable to bring to our attention or may be directed
+                               to lodge the report by the court.
+
+                               In most cases, we do not expect that it will be necessary for an external
+                               administrator or controller to lodge a supplementary statutory report.
+
+                               We may request lodgement of a supplementary statutory report. We expect
+                               external administrators and controllers to critically assess any request from
+                               ASIC to lodge a supplementary statutory report and notify us if there are
+                               grounds that the report should not be lodged.
+
+
+
+
+In what circumstances is a supplementary statutory report required
+to be lodged with ASIC?
+               RG 16.45       An external administrator or controller may lodge a supplementary statutory
+                              report specifying any other matter that, in their opinion, is desirable to bring
+                              to our notice: see s422(2), 438D(2) and 533(2), or s500AE(3)(f) and
+                              reg 5.5.05(3). If there are concurrent or subsequent appointments, the
+                              external administrators or controllers of each appointment must assess
+                              whether a supplementary statutory report is required.
+
+               RG 16.46       A supplementary statutory report may be lodged:
+                              (a)   at the exercise of the external administrator’s or controller’s discretion
+                                    (which may be informed by a request from ASIC); or
+                              (b)   when a court, on the application of an interested person, directs an
+                                    external administrator or controller to lodge a report: see s422(3)–(4),
+                                    438D(3)and 533(3), or s500AE(3)(f) and reg 5.5.05(4).
+
+                                    Note: An external administrator or controller may lodge multiple supplementary statutory
+                                    reports if they form the view that there are other matters to bring to ASIC’s attention.
+
+               RG 16.47       We do not generally expect that it will be necessary for external administrators
+                              and controllers to lodge a supplementary statutory report with ASIC.
+
+               RG 16.48       The exceptions are where the court has directed lodgement of a report on a
+                              matter not covered in any earlier report, or the external administrator or
+                              controller considers there are additional matters that in their opinion are
+                              desirable to bring to ASIC’s attention.
+
+
+
+© Australian Securities and Investments Commission July 2025                                                      Page 14
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+               RG 16.49       We may assess the information provided in the initial statutory report and/or
+                              other intelligence available to ASIC, and may request further information in
+                              the form of a supplementary statutory report. This request may also inform
+                              the decision of an external administrator or controller to lodge a report.
+                                    Note 1: When we request a supplementary statutory report, an external administrator or
+                                    controller may submit a notice of intention not to lodge a supplementary report
+                                    transaction: see RG 16.53–RG 16.55.
+
+                                    Note 2: It may be appropriate for an external administrator or controller to lodge a
+                                    supplementary statutory report even when we have not requested a report and have
+                                    advised that we will take no further action in relation to the initial statutory report. An
+                                    external administrator or controller may still conclude that it is desirable to bring any
+                                    other matter to the notice of ASIC, by lodging a supplementary statutory report.
+
+
+
+
+Guidance for preparing the supplementary statutory report
+               RG 16.50       If an external administrator or controller decides to lodge a supplementary
+                              statutory report, we request that the report focus on providing additional
+                              information on possible offences and misconduct and supporting evidence.
+                              We cannot act on every report of possible offences and misconduct and a
+                              concise report that focuses on information that is likely to support the
+                              existence of a breach will assist us to take further action where appropriate.
+                              If we require additional information to assist our assessment, we will contact
+                              the external administrator or controller. We do not expect that extensive time
+                              and costs should be incurred in preparing the report.
+
+               RG 16.51       In deciding whether to report, external administrators and controllers should
+                              carefully assess:
+                              (a)   the costs associated with undertaking any additional investigations required
+                                    to prepare the report. The use of available funds to complete further
+                                    inquiries should be carefully considered against the use of funds for other
+                                    purposes—including the potential for returns to creditors and members;
+                              (b)   whether there is significant new information to report, given the content
+                                    of the initial statutory report;
+                              (c)   whether there is sufficient supporting evidence in relation to the
+                                    possible misconduct; and
+                              (d)   if unfunded, whether to apply for a grant under the Assetless Administration
+                                    Fund for funding to carry out investigations and report (see RG 16.56).
+                                    Note 1: In considering whether to prepare a supplementary statutory report, we encourage
+                                    external administrators and controllers to consider the guidance relating to reports funded
+                                    under the Assetless Administration Fund in Annexure A to Grant Guidelines: Allegations
+                                    of possible misconduct—Substantiation guide (PDF 495 KB) on the ASIC website.
+
+                                    Note 2: Information Sheet 151 ASIC’s approach to enforcement (INFO 151) sets out
+                                    guidance for people who report misconduct to ASIC and may also assist external
+                                    administrators and controllers in assessing whether to complete a supplementary
+                                    statutory report.
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                             Page 15
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+                              Qualified privilege
+               RG 16.52       Qualified privilege will also generally attach to the supplementary statutory
+                              report: see RG 16.43–RG 16.44.
+
+
+                              What if ASIC requests a supplementary statutory report
+                              and no grounds exist to lodge one, or there are no funds to
+                              prepare it?
+
+               RG 16.53       If we request that a supplementary statutory report be lodged, we recognise
+                              that an external administrator or controller may take the view that:
+                              (a)   they hold no further information or evidence to support the matters
+                                    reported in their initial statutory report and the matters do not warrant
+                                    further inquiries by ASIC;
+                              (b)   they have insufficient funds to meet the cost of preparing the
+                                    supplementary statutory report; or
+                              (c)   for other reasons, it is not appropriate for the supplementary statutory
+                                    report to be prepared.
+
+               RG 16.54       In those cases, we request that an external administrator or controller submit
+                              a Notice of intention not to lodge a supplementary report transaction through
+                              the ASIC Regulatory Portal as soon as practicable (and prior to commencing
+                              any work on preparing the supplementary statutory report). This notice
+                              should clearly specify the reasons why they do not propose to lodge a
+                              supplementary statutory report.
+                                    Note: For assistance with preparing this transaction, see Notice of intention not to lodge
+                                    an insolvency supplementary report on the ASIC website.
+
+               RG 16.55       Where there are insufficient funds, an unfunded appointee (but not a
+                              voluntary administrator or controller) should consider whether it is
+                              appropriate to apply for grant funding from the Assetless Administration
+                              Fund to investigate and prepare a supplementary statutory report. To be
+                              eligible for funding, the initial statutory report must have been lodged with
+                              ASIC. If an unfunded appointee’s application for funding is approved, we
+                              may have specific requests regarding the content of the report, which we will
+                              discuss with them separately.
+                                    Note: See the guidance relating to the Assetless Administration Fund on the ASIC
+                                    website for further details. If you have questions in relation to making an application to
+                                    the Assetless Administration Fund, you can email AAF@asic.gov.au.
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                           Page 16
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+                              What happens after a supplementary statutory report is
+                              lodged?
+               RG 16.56       We will assess the supplementary statutory report once it is lodged.
+
+               RG 16.57       Following our assessment, we may:
+                              (a)   use the information in the report for the purposes outlined in Section E; or
+                              (b)   advise that we propose to take no further action.
+
+
+                              What if I have further questions in relation to preparing a
+                              supplementary statutory report?
+
+               RG 16.58       If you have additional questions in relation to the preparation of a
+                              supplementary statutory report, you can email.
+                              ISRandSSR.Questions@asic.gov.au.
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                   Page 17
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+D          Lodging an initial statutory report or
+           supplementary statutory report with ASIC
+
+
+                               Key points
+
+                               External administrators and controllers (other than liquidators) are required
+                               to lodge the initial statutory report as soon as practicable after forming the
+                               view that a possible offence or misconduct has occurred. Specific
+                               timeframes apply to lodgements by liquidators.
+
+                               We strongly encourage external administrators and controllers to lodge the
+                               initial statutory report within four months of their appointment to assist our
+                               timely assessment of the issues raised in the report.
+
+                               There is no specific timeframe for lodgement of the supplementary
+                               statutory report. However, we strongly encourage external administrators
+                               and controllers to lodge the report within three months of lodging the initial
+                               statutory report or receiving a request to lodge from ASIC.
+
+                               Initial statutory reports and supplementary statutory reports should be
+                               lodged through the ASIC Regulatory Portal.
+
+
+
+
+Timeframes for lodging reports
+
+                              Timeframe for lodging the initial statutory report
+
+               RG 16.59       The statutory timeframe for lodging the initial statutory report is as follows:
+                              (a)   For external administrators and controllers that are not liquidators—as
+                                    soon as practicable after forming an opinion that a possible offence or
+                                    misconduct has occurred.
+                              (b)   For liquidators (other than a simplified liquidation process)—as soon as
+                                    practicable and in any event within six months after forming an
+                                    opinion that a possible offence or misconduct has occurred, or it
+                                    appears that the company may be unable to pay its unsecured creditors
+                                    more than 50 cents in the dollar.
+                              (c)   For liquidators in a simplified liquidation process—as soon as
+                                    practicable and in any event within six months after first forming the
+                                    opinion that a person may have engaged in conduct that constitutes an
+                                    offence that has, or is likely to have, a material adverse effect on the
+                                    interests of creditors as a whole, or a class of creditors as a whole.
+
+               RG 16.60       Notwithstanding the statutory timeframes, we strongly encourage liquidators
+                              to lodge the initial statutory report within four months of the date of
+                              appointment. We also encourage voluntary administrators, receivers and
+
+
+
+© Australian Securities and Investments Commission July 2025                                                   Page 18
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+                              managing controllers, to report within four months of the date of
+                              appointment if their appointment will extend beyond four months.
+
+                                    Note: We consider this timeframe is appropriate for liquidators given their separate
+                                    obligation to report to creditors within three months of appointment: see s70-50 of Sch 2.
+
+               RG 16.61       Lodging within four months enables us to promptly receive information
+                              about possible offences and misconduct and, where appropriate, either
+                              request a supplementary statutory report, commence an investigation or take
+                              further action.
+
+               RG 16.62       When we decide whether to investigate or take further action in relation to a
+                              report, we consider:
+                              (a)   the passage of time since the misconduct occurred;
+                              (b)   the availability of witnesses to give evidence; and
+                              (c)   whether documentary evidence is in our possession, or likely to become
+                                    available, to prove the alleged misconduct.
+
+                                    Note: INFO 151 sets out our approach to enforcement.
+
+               RG 16.63       Our ability to take action for older misconduct can be limited or have less
+                              impact simply due to the passage of time. Further, with the passage of time
+                              the reliability of witnesses to give accurate evidence can also be impacted.
+
+               RG 16.64       Timely lodgement may also assist external administrators and controllers to
+                              manage the cost of investigation and reporting.
+
+
+                              Timeframe for lodging the supplementary statutory report
+
+               RG 16.65       There is no specific timeframe specified in the Corporations Act for lodging
+                              the supplementary statutory report.
+
+               RG 16.66       We strongly encourage an external administrator or controller to lodge the
+                              report within three months of:
+                              (a)   lodging the initial statutory report; or
+                              (b)   receiving a request from ASIC to prepare the supplementary statutory
+                                    report, if applicable.
+
+                                    Note: If a report is prepared with funding from the Assetless Administration Fund, the
+                                    report should be prepared within the timeframe specified in the grant agreement.
+
+               RG 16.67       We consider that this timeframe will generally be achievable for an external
+                              administrator or controller based on the level of inquiries expected to be
+                              undertaken. Again, the timely provision of information to ASIC is important
+                              and assists us to commence an investigation or take further action, where
+                              appropriate.
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                           Page 19
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+               RG 16.68       We recognise that in some cases external administrators and controllers may
+                              need additional time to lodge the report. For example, public examinations
+                              or litigation may result in further information and a decision to lodge the
+                              report at a later time. It may be appropriate to report to ASIC as and when
+                              information becomes available.
+
+
+
+How to lodge the reports
+               RG 16.69       Initial statutory reports and supplementary statutory reports should be
+                              submitted electronically through the ASIC Regulatory Portal.
+
+               RG 16.70       Electronic lodgement allows us to:
+                              (a)   capture data in a consistent, structured and timely manner; and
+                              (b)   quickly analyse information provided by external administrators and
+                                    controllers and initiate regulatory and enforcement responses where
+                                    appropriate.
+
+               RG 16.71       Where an external administrator or controller is, for good reason, unable to
+                              lodge through the ASIC Regulatory Portal, we may accept a report in paper
+                              form if it includes the same information as requested in the online report.
+                              A copy of the paper form should be sent to ISRandSSR.Questions@asic.gov.au.
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                   Page 20
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+E          How ASIC uses initial statutory reports and
+           supplementary statutory reports
+
+
+                               Key points
+
+                               We may investigate matters raised in reports of possible offences and
+                               misconduct lodged by external administrators and controllers.
+
+                               We cannot act on every report of possible offences and misconduct. We
+                               consider a range of factors when deciding whether to investigate, and what
+                               enforcement action to take, if any, in relation to reports lodged by external
+                               administrators and controllers.
+
+                               We also use information from these reports for other regulatory, statistical
+                               and intelligence purposes.
+
+
+
+
+How we use information in reports lodged under this guide
+               RG 16.72       We use the information in reports of possible offences and misconduct to:
+                              (a)   decide whether further action is required in relation to the affairs of an
+                                    insolvent company;
+                              (b)   identify areas for future regulatory action or to provide information
+                                    and/or guidance; and
+                              (c)   collate information and use it for statistical purposes. We publish these
+                                    insolvency statistics on our website.
+
+               RG 16.73       Our decision about whether further action is required in relation to the affairs
+                              of a company is assisted by the provision of specific and timely information.
+
+
+
+Use of the information for enforcement or regulatory action
+               RG 16.74       Under s13 or 15 of the ASIC Act, we may investigate matters raised in
+                              reports of possible offences and misconduct lodged by external
+                              administrators and controllers and may take one or more of the following
+                              actions:
+                              (a)   institute enforcement proceedings against a person (by commencing
+                                    appropriate civil, criminal or administrative proceedings);
+                              (b)   release information to a more appropriate law enforcement agency in
+                                    accordance with s127 of the ASIC Act;
+                              (c)   release (under s25 of the ASIC Act) copies of transcripts of relevant
+                                    examinations conducted under s19 of the ASIC Act, and of related
+
+
+
+© Australian Securities and Investments Commission July 2025                                                   Page 21
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+                                    books, to the lawyer of an external administrator or controller or
+                                    another person who is conducting proceedings, or is contemplating
+                                    them in good faith; or
+                              (d)   having considered the report, inform the external administrator or
+                                    controller that the matter is one in respect of which we do not intend to
+                                    institute proceedings or release information.
+
+                                    Note 1: An external administrator or controller can take action under the general law
+                                    and/or s534 (if they are the liquidator of the company) by commencing legal
+                                    proceedings in relation to the misconduct. In addition, they may apply under div 1 of
+                                    Pt 5.9 (if they are an eligible applicant) for an officer or former officer of the company
+                                    to which they have been appointed (or a person who may have been guilty of
+                                    misconduct in relation to the company) to be examined in court about the company’s
+                                    examinable affairs.
+
+                                    Note 2: A liquidator may only begin a prosecution under s534 if ASIC has informed the
+                                    liquidator that it appears to ASIC that the matter is not one in respect of which a
+                                    prosecution ought to be begun. The liquidator must receive a statement from ASIC to
+                                    this effect before proceeding.
+
+               RG 16.75       We cannot act on every report of possible offences and misconduct. Factors
+                              we consider when deciding whether to investigate, and what enforcement
+                              action to take, if any, vary according to the nature and circumstances of the
+                              suspected misconduct. Relevant factors are set out in INFO 151.
+
+               RG 16.76       Information we receive in statutory reports from external administrators and
+                              controllers, whether we take further action or not, may inform other
+                              regulatory operations and be used to:
+                              (a)   select future cases for investigation and enforcement action (including
+                                    sharing of intelligence with other enforcement agencies and taskforces
+                                    where appropriate and in accordance with the legislative requirements
+                                    for sharing that information);
+                              (b)   identify future targets for surveillance and inspection; and
+                              (c)   shape future education campaigns or inform our public
+                                    communications, warnings and guidance.
+
+
+
+Use of information for intelligence and statistical purposes
+               RG 16.77       We use the information we receive in initial statutory reports for intelligence
+                              and statistical purposes. If we publish statistics based on the information we
+                              receive in a report, the data is collated in an aggregated and anonymous form
+                              and does not identify information about an individual company or person.
+
+                                    Note: For example, information from the initial statutory reports is aggregated and
+                                    published as Series 3 statistics on the ASIC website.
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                           Page 22
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+               RG 16.78       The information we gather and publish from the initial statutory reports
+                              provides valuable information to stakeholders about the size and nature of
+                              company failures in Australia.
+
+               RG 16.79       To ensure that the information we review and publish is accurate and
+                              current, we encourage external administrators and controllers to lodge the
+                              initial statutory report within four months from appointment: see Section D.
+
+               RG 16.80       In addition to using supplementary statutory reports to decide whether
+                              further regulatory or enforcement action is required, we also extract
+                              information and use it for intelligence purposes.
+
+
+
+Release of information
+               RG 16.81       The statutory reports lodged with ASIC are not available on ASIC’s public
+                              register and the fact that the reports may have been lodged is also not
+                              publicly available.
+
+               RG 16.82       However, reports and other documents that are not made available on ASIC
+                              public registers may be disclosed to persons outside of ASIC in limited
+                              circumstances, for example:
+                              (a)   during ASIC-initiated enforcement proceedings;
+                              (b)   where compelled by compulsory notice (e.g. by subpoena); or
+                              (c)   in response to a request made under the Freedom of Information Act 1982
+                                    (FOI request); or
+                              (d)   a release otherwise permitted under the ASIC Act.
+
+                                    Note 1: Before disclosing a report of possible misconduct under an FOI request, we will
+                                    generally consult with the external administrator or controller to enable them to make
+                                    submissions about the FOI request.
+
+                                    Note 2: For further information on the release of information in accordance with the ASIC
+                                    Act, see Regulatory Guide 103 Confidentiality and release of information (RG 103).
+
+               RG 16.83       We will also share intelligence obtained from the statutory reports with other
+                              agencies as appropriate and permitted under law.
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                        Page 23
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+Key terms
+
+
+                               Term                       Meaning in this document
+
+                               ASIC                       Australian Securities and Investments Commission
+
+                               ASIC Act                   Australian Securities and Investments Commission Act
+                                                          2001
+
+                               ASIC public registers      The prescribed registers ASIC maintains under the
+                                                          Corporations Act, including registers of companies,
+                                                          auditors, liquidators and company charges, which are
+                                                          accessible by the public
+
+                               controller                 For the purposes of this guide, a receiver or managing
+                                                          controller appointed in relation to property of a
+                                                          corporation
+
+                               controller                 Where a receiver or managing controller has been
+                               appointment                appointed in relation to property of a corporation
+
+                               Corporations Act           Corporations Act 2001, including regulations made for the
+                                                          purposes of the Act
+
+                               external                   For the purposes of this guide, a voluntary administration,
+                               administration             and liquidation (but not including a provisional liquidation)
+
+                               external administrator     A voluntary administrator and liquidator (but not including
+                                                          a provisional liquidator)
+
+                               reg 5.5.05 (for            A provision of the Corporations Regulations 2001 (in this
+                               example)                   example, number 5.5.05)
+
+                               registered liquidator      A person registered by ASIC under Div 20-30 of Sch 2
+
+                               RG 16 (for example)        A regulatory guide (in this example, numbered 16)
+
+                               s422 (for example)         A section of the Corporations Act (in this example,
+                                                          numbered 422), unless otherwise specified
+
+                               Sch 2                      Schedule 2 of the Corporations Act
+
+                               voluntary                  An administrator of a company but not of a deed of
+                               administrator              company arrangement
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                    Page 24
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+Related information
+
+
+                              Headnotes
+
+                              external administrators, reporting obligations, initial statutory reports,
+                              possible offences and misconduct by a company, dividends of 50 cents in the
+                              dollar, supplementary statutory reports, controllers, managing controllers,
+                              receivers, receivers and managers, voluntary administrators, administrators
+                              of a deed of company arrangement, liquidators, provisional liquidators,
+                              qualified privilege
+
+
+                              Regulatory guides
+
+                              RG 103 Confidentiality and release of information
+
+                              RG 258 Registered liquidators: Registration, ongoing obligations,
+                              disciplinary actions and insurance requirements
+
+
+                              Information sheets
+
+                              INFO 29 External administration, controller appointments and schemes of
+                              arrangement: Most commonly lodged forms
+
+                              INFO 151 ASIC’s approach to enforcement
+
+
+                              Consultation papers
+
+                              CP 377 Guidance for reporting by external administrators and controllers:
+                              Updates to RG 16
+
+
+                              Reports
+
+                              REP 793 Response to submissions on CP 377 Guidance for reporting by
+                              external administrators and controllers
+
+
+                              Legislation
+
+                              Australian Securities and Investments Commission Act 2001, s13, 15, 19, 25, 127
+
+                              Corporations Act 2001, s286, 422, 426, 431, 438D, 442E, 477(3). 500AE,
+                              530A–530C, 533, 534, 535, 545, 597
+
+                              Corporations Regulations 2001, reg 5.5.05
+
+                              Freedom of Information Act 1982
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                   Page 25
+            REGULATORY GUIDE 16: External administrators and controllers: Reporting of possible offences and misconduct
+
+
+
+
+                              Cases
+
+                              Australian Securities and Investments Commission v Bettles [2023] FCA 975
+
+                              Australian Securities and Investments Commission v Robert John Edge
+                              [2007] VSC 170
+
+                              Australian Securities and Investments Commission v Wily & Hurst [2019]
+                              NSWSC 521
+
+                              Joubert and Members of the Companies Auditors and Liquidators
+                              Disciplinary Board [2018] AATA 944
+
+                              Murdaca v Australian Securities and Investments Commission [2009]
+                              FCAFC 92
+
+
+
+
+© Australian Securities and Investments Commission July 2025                                                   Page 26
+

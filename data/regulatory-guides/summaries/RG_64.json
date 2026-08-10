@@ -1,0 +1,27 @@
+{
+  "citation": "RG 64",
+  "title": "Failure to lodge documents",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide explains ASIC's policy on actions taken when a company fails to lodge required documents, such as annual returns and changes to officeholders. It also covers when ASIC will withdraw proceedings against a company secretary for breaches of lodgment obligations.",
+  "background": "The guide is issued under the Corporations Law (now Corporations Act 2001) and sets out ASIC's enforcement approach to ensure compliance with document lodgment requirements. It is intended for company secretaries, directors, and external administrators who are responsible for lodging documents with ASIC.",
+  "ruling": "ASIC will issue penalty notices to company secretaries for failure to lodge annual returns, changes to officeholders, or registered office notifications, and will prosecute if documents remain outstanding. If no secretary is appointed or the address is inaccurate, ASIC may proceed against directors under sections 232, 240, or 1274. For non-lodgment of annual returns for four months after a penalty notice, ASIC may consider deregistration under s601AB(1). ASIC may withdraw proceedings against a secretary for breach of s345 if compassionate grounds or personal hardship are demonstrated, or if all outstanding documents, fees, penalties, and costs are paid at least seven working days before the hearing. Withdrawal will not be granted to repeat offenders.",
+  "date_of_effect": "2000-01-21",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 142",
+    "Corporations Act 2001 (Cth) s 145",
+    "Corporations Act 2001 (Cth) s 232",
+    "Corporations Act 2001 (Cth) s 240",
+    "Corporations Act 2001 (Cth) s 242",
+    "Corporations Act 2001 (Cth) s 319",
+    "Corporations Act 2001 (Cth) s 345",
+    "Corporations Act 2001 (Cth) s 601AB(1)",
+    "Corporations Act 2001 (Cth) s 601AH",
+    "Corporations Act 2001 (Cth) s 1274"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "RG 83",
+    "IR 00/1"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "citation": "RG 78",
+  "title": "Breach reporting by AFS licensees and credit licensees",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses the obligation of Australian financial services (AFS) licensees and Australian credit licensees to report certain breaches of the law to ASIC. It provides guidance on when and how to report breaches under the Corporations Act 2001 and the National Consumer Credit Protection Act 2009.",
+  "background": "The guide is issued under ASIC's powers to administer the Corporations Act 2001 and the National Consumer Credit Protection Act 2009. It is intended for AFS licensees and credit licensees to help them understand their breach reporting obligations under Division 3 of Part 7.6 of the Corporations Act and Division 5 of Part 2-2 of the National Credit Act.",
+  "ruling": "ASIC expects licensees to have robust systems and processes in place to identify, investigate, and report breaches promptly. The guide clarifies that a 'reportable situation' includes breaches of core obligations, significant breaches, and certain prescribed circumstances. ASIC interprets the law to require reporting when a licensee has actual knowledge or a reasonable suspicion of a reportable situation. ASIC states it will take a risk-based approach to enforcement, focusing on systemic failures to report rather than isolated administrative errors. The guide also details the specific timeframes for reporting and the information that must be included in a breach report.",
+  "date_of_effect": "2023-12-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) Div 3 of Pt 7.6",
+    "National Consumer Credit Protection Act 2009 (Cth) Div 5 of Pt 2-2",
+    "Corporations Act 2001 (Cth) s 912A",
+    "Corporations Regulations 2001 (Cth) regs 7.6.02A, 7.6.04",
+    "Criminal Code Act 1995 (Cth) s 5.3, 5.4",
+    "Insurance Contracts Act 1984 (Cth) s 33C, 58",
+    "National Consumer Credit Protection Act 2009 (Cth) s 5, 47, 48, 50A, 50B, 50C, 50D, 51B, 53, 104, 113, 160D, 324",
+    "National Credit Code s 23, 85, 111",
+    "National Consumer Credit Protection Regulations 2010 (Cth) regs 9, 12A, 12B",
+    "Retirement Savings Accounts Act 1997 (Cth) s 47",
+    "Superannuation Industry (Supervision) Act 1993 (Cth) s 101"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "RG 34",
+    "INFO 225",
+    "ASIC Corporations and Credit (Breach Reporting–Reportable Situations) Instrument 2024/620",
+    "ASIC Corporations and Credit (Reference Checking and Information Sharing Protocol) Instrument 2024/647",
+    "ASIC Corporations, Credit and Superannuation (Internal Dispute Resolution) Instrument 2020/98",
+    "ASIC Corporations (Internal Dispute Resolution Data Reporting) Instrument 2022/205",
+    "[CO 14/923] Record-keeping obligations for Australian financial services licensees when giving personal advice"
+  ]
+}

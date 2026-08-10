@@ -1,0 +1,1252 @@
+REGULATORY GUIDE 110
+
+Share buy-backs
+
+July 2007
+
+
+
+
+About this guide
+This is a guide for companies, their advisers and investors involved in or
+affected by share buy-backs.
+
+This guide explains what a company should do to comply with Div 2 of
+Pt 2J.1 (the buy-back provisions) of the Corporations Act, including the
+procedures that a company needs to follow in conducting a buy-back and
+the information that must be disclosed to shareholders. It also explains how
+ASIC may exercise its powers to grant relief from certain requirements to
+obtain shareholder approval.
+                                                                       REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+                               About ASIC regulatory documents
+
+                               In administering legislation ASIC issues the following types of regulatory
+                               documents.
+                               Consultation papers: seek feedback from stakeholders on matters ASIC
+                               is considering, such as proposed relief or proposed regulatory guidance.
+                               Regulatory guides: give guidance to regulated entities by:
+                                    explaining when and how ASIC will exercise specific powers under
+                                     legislation (primarily the Corporations Act)
+                                    explaining how ASIC interprets the law
+                                    describing the principles underlying ASIC’s approach
+                                    giving practical guidance (e.g. describing the steps of a process such
+                                     as applying for a licence or giving practical examples of how
+                                     regulated entities may decide to meet their obligations).
+                               Information sheets: provide concise guidance on a specific process or
+                               compliance issue or an overview of detailed guidance.
+                               Reports: describe ASIC compliance or relief activity or the results of a
+                               research project.
+
+
+
+                              Document history
+                              This guide was issued in July 2007 and is based on legislation and
+                              regulations as at the date of issue. In August 2017, we removed the
+                              reference to Regulatory Guide 52 Enforcement action submissions (RG 52)
+                              in RG 110.56 because this regulatory guide was withdrawn. On 27 July
+                              2020, we updated the process for lodging fundraising and corporate finance
+                              documents in RG 110.5 and submitting an application for relief in
+                              RG 110.54–RG 110.55. We also updated the references to the regulatory
+                              guide and relief instrument in RG 110.18 and RG 110.61. On 3 June 2021,
+                              we corrected the information at RG 110.5 on how to lodge documents and
+                              updated Rows D and E of Table 1.
+
+                              Previous versions:
+                                 Superseded Policy Statement 110, issued May 1996, August 1997 and
+                                  October 1998, rebadged as a regulatory guide on 5 July 2007
+
+
+                              Disclaimer
+                              This guide does not constitute legal advice. We encourage you to seek your
+                              own professional advice to find out how the Corporations Act and other
+                              applicable laws apply to you, as it is your responsibility to determine your
+                              obligations.
+
+                              Examples in this guide are purely for illustration; they are not exhaustive and
+                              are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                           Page 2
+                                                                                         REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+Contents
+                              A      Overview—Complying with the buy-back provisions .................. 4
+                                     Getting shareholder approval and lodging notices ............................ 4
+                                     Cancelling shares .............................................................................. 6
+                                     ASIC’s role ......................................................................................... 6
+                                     What you can do now ........................................................................ 7
+                              B      Disclosing information to shareholders........................................ 8
+                                     The disclosure provisions .................................................................. 8
+                                     What to disclose ................................................................................ 9
+                              C      Future buy-backs ........................................................................... 11
+                                     12-month limit on approval or notice ............................................... 11
+                                     Meeting the disclosure requirements ............................................... 12
+                              D      Selective buy-backs—relief from need to obtain shareholder
+                                     approval .......................................................................................... 14
+                                     When we may give relief.................................................................. 14
+                                     How a selective buy-back works ..................................................... 16
+                                     Equal access scheme as a selective buy-back ............................... 17
+                                     How to apply for relief ...................................................................... 19
+                              E      Other aspects of share buy-backs ............................................... 20
+                                     100% buy-backs .............................................................................. 20
+                                     Changes in control ........................................................................... 20
+                                     Dual-listed companies ..................................................................... 20
+                                     Limit-based equal access schemes ................................................. 21
+                                     Minimum period for buy-back offers ................................................ 22
+                                     Resolutions without meetings .......................................................... 23
+                              Key terms ............................................................................................... 24
+                              Related information ............................................................................... 25
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                                                            Page 3
+                                                                       REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+A          Overview—Complying with the buy-back
+           provisions
+
+                               Key points
+
+                               In buying back its own shares a company must:
+                               • get approval from shareholders in certain circumstances (see RG 110.4);
+                               • lodge notices with ASIC (see RG 110.4–RG 110.8); and
+                               • disclose information to shareholders if their approval is required or if
+                                 offers are being made to them (see Section B, RG 110.18–RG 110.25).
+
+                               ASIC may take action if it becomes aware of deficient lodged documents, a
+                               buy-back proceeding in breach of the buy-back provisions or unacceptable
+                               circumstances in a buy-back: see RG 110.10.
+
+
+               RG 110.1       The buy-back provisions protect the interests of creditors and shareholders
+                              by:
+                              (a)   addressing the risk of buy-back activity leading to the company’s
+                                    insolvency;
+                              (b)   seeking to ensure fairness between the company’s shareholders; and
+                              (c)   requiring the company to disclose all material information.
+
+               RG 110.2       The buy-back provisions do not distinguish between proprietary and public
+                              companies. Parliament intends that proprietary companies should be subject
+                              to the same requirements as public companies.
+
+               RG 110.3       A company may only buy back its own shares if it follows the procedures in
+                              Div 2 of Pt 2J.1. If it does not comply with these procedures it will
+                              contravene the prohibition against self-acquisition of shares, which may
+                              result in enforcement action against officers involved in the contravention:
+                              s257A, 259A and 259F.
+
+
+
+Getting shareholder approval and lodging notices
+               RG 110.4       Table 1 summarises the requirements according to the type of buy-back. See
+                              s9 for definitions of the different types of buy-back.
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                            Page 4
+                                                                            REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+Table 1:     Summary of requirements under the buy-back provisions
+
+ Shareholder                What to lodge with ASIC                                   When to lodge it
+ approval required
+
+ A. Employee share scheme or on-market buy-back (within 10/12 limit)
+ None                       A notice indicating the company intends to carry out      At least 14 days before the
+                            a buy-back (Form 281). The notice must:                   buy-back agreement is
+                             specify a date or period for the proposed buy-back;     entered into: s257F(1)(b).
+                              and
+                             may cover buy-backs carried out:
+                               − under a particular scheme; or
+                               − as part of particular on-market buy-back activity.
+
+ B. Employee share scheme or on-market buy-back (over 10/12 limit)
+ By ordinary resolution:    A notice with details of share buy-back (Form 280).       Before the notice of meeting
+ s257C                      The notice must:                                          is sent to shareholders:
+                             specify a date or period for the proposed buy-back;     s257C(3). You may meet the
+                              and                                                     requirement in s257F(1) to
+                                                                                      give ASIC 14 days notice by
+                             be accompanied by:
+                                                                                      lodging the notice as for ‘A’
+                               − the notice of meeting; and                           in advance of other
+                               − any other documents relating to the buy-back         documents: s257F(2)(b).
+                                 that will accompany it.
+
+ C. Equal access scheme (within 10/12 limit)
+ None                       A notice with details of share buy-back (Form 280)        Before the buy-back
+                            accompanied by:                                           agreement is entered into:
+                             the document setting out the terms of the offer; and    s257E. You may meet the
+                                                                                      requirement in s257F(1) to
+                             any other documents that will accompany the offer.
+                                                                                      give ASIC 14 days notice by
+                                                                                      lodging the notice as for ‘A’
+                                                                                      in advance of other
+                                                                                      documents: s257F(2)(b).
+
+ D. Equal access scheme (over 10/12 limit)
+ By ordinary resolution:    A notice with details of share buy-back (Form 280)        As for both ‘B’ and ‘C’. You
+ s257C                      accompanied by:                                           may meet the requirement
+                             the notice of meeting;                                  in s257F(1) to give ASIC
+                                                                                      14 days notice by lodging
+                             any other documents relating to the buy-back that
+                                                                                      notice as for ‘A’ in advance
+                              will accompany it;
+                                                                                      of other documents:
+                             the document setting out the terms of the offer; and    s257F(2)(b).
+                             any other documents that will accompany the offer.
+
+ E. Selective buy-back
+ By special or              A notice with details of share buy-back (Form 280)        As for both ‘B’ and ‘C’. You
+ unanimous resolution       accompanied by:                                           may meet the requirement
+ unless exempted:            the notice of meeting;                                  in s257F(1) to give ASIC
+ s257D                                                                                14 days notice by lodging the
+                             any other documents relating to the buy-back that
+                                                                                      notice as for ‘A’ in advance
+ (See Section C for           will accompany it;
+                                                                                      of other documents:
+ our policy on relief)       the document setting out the terms of the offer; and    s257F(2)(b).
+                             any other documents that will accompany the offer.
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                                   Page 5
+                                                                              REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+                              How to lodge documents
+
+               RG 110.5       Before the buy-back, lodge all required forms, notices and accompanying
+                              documents by post to:
+
+                                    Australian Securities and Investments Commission
+                                    PO Box 4000
+                                    Gippsland Mail Centre VIC 3841.
+
+                                    Note: For more information, see Form 280 Notification of share buy-back details and
+                                    Form 281 Notice of intention to carry out a share buy-back.
+
+               RG 110.6       There is no fee for lodging forms or accompanying notices or documents.
+
+               RG 110.7       After the buy-back, lodge a notice of change to company details.
+
+               RG 110.8       Contact the ASIC Infoline on 1300 300 630 for information and assistance.
+
+
+
+Cancelling shares
+               RG 110.9       Whenever a company buys back shares, it must cancel them (s257H(3)) and
+                              notify ASIC within one month after cancelling the shares (s254Y). There are
+                              no other requirements for a minimum holding buy-back.
+
+
+ASIC’s role
+               RG 110.10      If we become aware of deficient lodged documents, a buy-back proceeding
+                              in breach of the buy-back provisions or unacceptable circumstances in a buy-
+                              back, we may take appropriate action by:
+
+                              (a)   asking the company to take remedial action;
+
+                              (b)   taking civil or criminal action in the courts against officers involved; or
+
+                              (c)   applying to the Takeovers Panel.
+
+               RG 110.11      We will not pre-vet notices of meetings or other documents relating to buy-
+                              backs. We will post-vet some documents as part of surveillance activities or
+                              in response to complaints.
+
+               RG 110.12      If a company proceeds with a buy-back after we have returned incomplete
+                              forms or it has lodged deficient documents, the buy-back is not invalidated
+                              but the company will contravene the prohibition against self-acquisition of
+                              shares, and any person who is involved in the company’s contravention is
+                              guilty of an offence.
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                                       Page 6
+                                                                     REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+What you can do now
+               RG 110.13      Complying with the buy-back provisions involves the following steps:
+                              Identify type of buy-back
+                              Determine approval requirement—if selective you may apply for relief
+                              Determine lodging and notice requirements
+                              Lodge notices
+                              Disclose information to shareholders
+                              Obtain approval if necessary
+                              Conduct buy-back
+                              Cancel shares
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                         Page 7
+                                                                          REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+B          Disclosing information to shareholders
+
+                               Key points
+
+                               Under the buy-back provisions, a company is required to disclose
+                               information to shareholders in certain circumstances: see RG 110.14–
+                               RG 110.17. This Section sets out the minimum information ASIC expects
+                               companies to give shareholders: see RG 110.18–RG 110.25.
+
+                               The disclosure requirements for future buy-backs are set out in Section C.
+
+
+The disclosure provisions
+               RG 110.14      Under the buy-back provisions, a company must provide certain information
+                              to shareholders when:
+                              (a)   obtaining shareholder approval for:
+                                    (i)    an employee share scheme, on-market or equal access scheme buy-
+                                           back over the 10/12 limit; or
+                                    (ii)   a selective buy-back; and
+                              (b)   making offers under an equal access scheme or selective buy-back.
+
+                              See s257C(2), 257D(2) and 257G.
+
+               RG 110.15      The provisions do not specify the information to be sent to shareholders, just
+                              that the statement must contain all information known to the company that is
+                              material to the decision whether to vote in favour of the resolution or accept
+                              the offer.
+
+               RG 110.16      For shareholder approval to be effective, the resolution must approve a
+                              transaction whose consequences were known at least to those who voted for
+                              it.
+
+                                    Note: See ANZ Nominees Pty Ltd v Wormald International Ltd (1988) 13 ACLR 698
+                                    at 704-5 and NSCS v Consolidated Gold Mining Areas NL (No 2) (1985) 1 NSWLR 622
+                                    at 625.
+
+               RG 110.17      If the statement accompanies a notice of meeting, the company does not
+                              have to include information previously disclosed to shareholders if it would
+                              be unreasonable to do so: s257C(2) and 257D(2). However, this exclusion
+                              does not apply to a statement accompanying an offer: s257G.
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                                Page 8
+                                                                              REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+What to disclose
+               RG 110.18       Table 2 sets out what we expect a company to provide when disclosing
+                               information to shareholders with a notice of meeting (see s257C(2) and
+                               s257D(2) or a buy-back offer (see s257G).
+
+Table 2:     What to disclose
+
+ Details of the buy-back                                       Independent report
+
+ A company should disclose:                                    If a company proposes to buy back a significant
+  the number of shares on issue;                              percentage of shares or the holdings of a major
+  the number and percentage of shares to be bought            shareholder, it should consider providing:
+   back;                                                        a report by its independent directors about whether
+  particulars of the terms of the buy-back;                     shareholders should vote in favour of the buy-back,
+                                                                 particularly regarding how much the company is
+  the offer price or a simple formula to calculate the
+                                                                 paying for the shares; and
+   price;
+  the reasons for the buy-back (as a matter of best            an independent expert’s report with a valuation of
+   practice, this should include a short description of          the shares.
+   why other ways of returning excess capital have not              Note: For our policy on experts’ reports, see
+   been chosen);                                                    Regulatory Guide 111 Content of expert reports
+  the interests of any director who may participate in             (RG 111).
+   the buy-back agreement;
+  the financial effect of the buy-back on the company
+   (including on the level of franking credits to be           Non-cash consideration
+   expended);
+  the source of the funds for the buy-back;                   To fulfil the disclosure requirements, directors will
+                                                               usually need to provide:
+  if shareholder approval is required, the advantages
+   and disadvantages of the buy-back;                           a valuation of the assets offered as consideration
+                                                                 for the buy-back; and
+  for a selective buy-back:
+   − the effect the buy-back will have on the control of        an assessment of the effect on the company of the
+     the company; and                                            assets being transferred.
+   − the identity of the selling shareholders;
+  for an equal access scheme or an on-market buy-
+   back, the date the offer will start and close;
+  if the company must lodge audited financial
+   statements, its latest set of audited financial
+   statements (unless they have been recently given to
+   the shareholders); and
+  if the company is listed, information about the
+   current share price and any additional information
+   required by the relevant financial market’s listing
+   rules.
+
+
+
+               RG 110.19       We consider that the information in Table 2 is material to a shareholder’s
+                               decision whether to vote in favour of a resolution or accept a buy-back offer.
+                               It will also help creditors to assess any implications the buy-back may have
+                               for them, consistent with the purpose of the buy-back provisions.
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                                         Page 9
+                                                                      REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+               RG 110.20      For buy-backs of a significant proportion of a company’s shares, or
+                              transactions with a major shareholder, it is usually appropriate for
+                              shareholders to have the benefit of independent advice on whether to vote
+                              for a buy-back.
+
+               RG 110.21      Directors may expose themselves to the civil and criminal liabilities
+                              associated with the buy-back and other relevant provisions if they fail to
+                              ensure shareholders and creditors have sufficient information to assess the
+                              effects of the buy-back.
+
+
+                              When previously disclosed information is overtaken by
+                              events
+
+               RG 110.22      If an event occurs in the 12 months after shareholders approve the buy-back
+                              that makes any previously disclosed information misleading or deceptive,
+                              the company can no longer rely on that approval to carry out a valid buy-
+                              back.
+
+
+                              Non-cash consideration
+
+               RG 110.23      A company may pay for shares under a buy-back with non-cash
+                              consideration. However, valuing non-cash assets and making sufficient
+                              disclosure about non-cash assets is more difficult than for cash consideration.
+                              Therefore using non-cash consideration may expose directors to significantly
+                              greater liability and responsibility to ensure the objectives of the buy-back
+                              provisions are met. Non-cash consideration is usually offered in selective buy-
+                              backs and frequently to related parties. These are additional reasons for
+                              directors to consider their obligations and duties more carefully.
+
+
+                              Confidential information
+
+               RG 110.24      There is no confidentiality exemption from the buy-back disclosure
+                              requirements. If a company is concerned about disclosing confidential
+                              information, the directors or an expert may summarise this information for
+                              shareholders. However, the company must ensure it does not breach the
+                              disclosure requirements by omitting detailed information that would
+                              influence the decision to vote on a buy-back or accept a buy-back offer. We
+                              will not exempt a company from the disclosure requirements of the buy-back
+                              provisions because information is confidential.
+
+
+                              Future buy-backs
+
+               RG 110.25      See Section C for the disclosure requirements where a company proposes to
+                              buy back shares in the future or continuously over a period of time.
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                         Page 10
+                                                                             REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+C          Future buy-backs
+
+                               Key points
+
+                               A company can rely on a shareholder approval or notice of a share buy-
+                               back to continue to buy back shares for up to 12 months. After that period,
+                               a further approval or fresh notice will be required if the company intends to
+                               continue buying back shares: see RG 110.26–RG 110.30. However, the
+                               company must commence buying back shares under a notice within two
+                               months or the notice will expire and a fresh notice will be required before
+                               the company can buy back shares: see RG 110.31 to RG 110.34.
+
+                               A continuous buy-back within the 12-month period may also require further
+                               disclosures of information to shareholders, particularly where previously
+                               disclosed information is overtaken by events: see RG 110.35–RG 110.37.
+
+
+
+
+12-month limit on approval or notice
+               RG 110.26      Sometimes a company will seek shareholder approval or give notice of a
+                              buy-back that may take place in the future on undecided terms and in
+                              relation to an unknown number of shares. For example, a continuous buy-
+                              back where a company regularly buys back shares (usually on-market) over
+                              a period of time, or a non-concrete proposal for an equal access scheme at
+                              some time in the future.
+
+                                   Note: A continuous equal access scheme is not possible because the buy-back
+                                   agreement cannot be entered into until the offer period closes: s257B(2)(d). On-market
+                                   buy-backs are, almost by definition, continuous. Minimum holding, employee share
+                                   scheme and selective buy-backs may be structured as continuous buy-backs.
+
+               RG 110.27      The Corporations Act does not give a deadline for offers to be made, or
+                              specify when offers must close, after a company gives notice of a buy-back
+                              (s257F) or receives shareholder approval (s257C or 257D). Therefore a
+                              company may rely on one notice or resolution to buy back shares
+                              continuously over a period of time, or at some point in the future.
+
+               RG 110.28      However, a company cannot use shareholder approval or a single notice to
+                              give itself an open-ended ‘blank cheque’ to buy back shares. After
+                              12 months we consider that approval or notice of a buy-back will be ‘stale’
+                              (i.e. the approval or notice will likely no longer provide the intended
+                              protection for shareholders and creditors). A 12-month period is also
+                              consistent with the operation of the 10/12 limit.
+
+               RG 110.29      Where shareholder approval is required, shareholders are approving the
+                              terms of the buy-back agreement: see s257C(1) and 257D(1). This means the
+                              terms of the agreement must be sufficiently certain for shareholder approval
+                              to be effective.
+
+
+
+© Australian Securities and Investments Commission July 2007                                                      Page 11
+                                                                             REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+               RG 110.30      We therefore consider that a company can only rely on approval or notice for
+                              up to 12 months. After 12 months, further approval or a fresh notice will be
+                              required if the company intends to continue buying back shares.
+
+
+                              If a company has not commenced buying back shares after
+                              two months the notice will expire
+
+               RG 110.31      If a company has not commenced buying back shares under a notice of a
+                              buy-back after two months, we will regard the notice as having expired. We
+                              will calculate the two month period from:
+                              (a)   if the notice specifies a date for the proposed buy-back (Form 281)—the
+                                    date specified; or
+                              (b)   if the notice does not specify a date (Form 280)—the date we receive
+                                    the notice.
+
+                                    Note: Notice of a buy-back must be given using Form 280 or Form 281 (see Table 1). Only
+                                    Form 281 requires a company to specify a date for the proposed buy-back.
+
+               RG 110.32      In both cases, the company must lodge a fresh notice for any subsequent
+                              buy-back.
+
+               RG 110.33      After two months shareholders and creditors may reasonably expect that a
+                              buy-back not is not proceeding. It is also consistent with s631(1) for
+                              announcements about proposed takeovers. If a buy-back starts some time
+                              (e.g. more than two months) after a notice intended to provide two weeks
+                              notice, it is likely not to be a complying buy-back. It will breach the
+                              prohibition against self-acquisition of shares: see s259A.
+
+               RG 110.34      We recognise that in some cases a company may not be able to accurately
+                              specify the date on which the buy-back will take place (e.g. if a buy-back is
+                              conditional on a circulating resolution, the company may only be able to
+                              specify when the resolution is expected to be signed by the last member).
+
+
+
+Meeting the disclosure requirements
+               RG 110.35      The company must consider how it can comply with the disclosure
+                              requirements where shareholder approval is needed if information is given to
+                              shareholders up to 12 months in advance of the buy-back, when material terms
+                              may not be settled or known to the company. We expect a company to disclose
+                              the information in Section B. However, the company does not have to disclose
+                              information where it would be impossible (e.g. where all the terms of the future
+                              buy-back have not yet been determined). In this situation, we expect a company
+                              to ensure that:
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                                    Page 12
+                                                                         REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+                              (a)   its notice of meeting specifies the terms of the buy-back with enough
+                                    clarity so shareholders clearly understand what they are approving,
+                                    including:
+                                    (i)     the maximum proportion of the company’s share capital to be
+                                            bought back;
+                                    (ii)    the maximum price the company will pay and, if possible, a simple
+                                            formula to calculate the price; and
+                                    (iii)   the effect of the buy-back on the company, assuming the maximum
+                                            number of shares is bought at the maximum price;
+                              (b)   any information disclosed when the buy-back is approved will apply for
+                                    the whole of the 12-month period; and
+                              (c)   possible vendors are clearly identified.
+
+               RG 110.36      If shareholder approval is required (see s257B(1)), the company must
+                              provide to shareholders all information material to deciding how to vote on
+                              the resolution: s257C(2) and s257D(2). Shareholders are being asked to
+                              approve an acquisition of shares that will or may affect the value of their
+                              shares and so must have enough information to make an informed decision.
+
+
+                              Disclosure to the market
+
+               RG 110.37      A listed company must also make appropriate ongoing disclosure to the
+                              market to:
+                              (a)   comply with continuous disclosure requirements of the Corporations
+                                    Act and the listing rules of the relevant financial market; and
+                              (b)   assure the market it is not buying back shares while possessing inside
+                                    information in breach of the insider trading provisions: s1043A.
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                           Page 13
+                                                                           REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+D          Selective buy-backs—relief from need to obtain
+           shareholder approval
+
+                               Key points
+
+                               To undertake a selective buy-back, companies are generally required to
+                               obtain shareholder approval at a meeting: see RG 110.42–RG 110.43.
+
+                               Companies may obtain relief from this requirement in certain
+                               circumstances, where the buy-back is consistent with the principles
+                               underlying the buy-back provisions: see RG 110.38–RG 110.41.
+
+                               Companies seeking relief must apply to ASIC before entering into a buy-
+                               back agreement: see RG 110.54–RG 110.55.
+
+
+
+
+When we may give relief
+               RG 110.38      We may exempt a company from all or some aspects of the requirement for
+                              shareholder approval for a selective buy-back at a meeting, with or without
+                              conditions.
+
+               RG 110.39      Our relief will allow a company to conduct a buy-back despite it not fully
+                              complying with the provisions due to a minor or technical aspect where the
+                              buy-back is consistent with the underlying principles in RG 110.1. We will
+                              take these underlying principles into account when considering applications
+                              for relief.
+
+               RG 110.40      Note that:
+                              (a)   Our policy applies equally to proprietary and public companies, and we
+                                    will not give an exemption under s257D merely because a company is a
+                                    proprietary company.
+                              (b)   A company that is exempted under our policy from the requirement for
+                                    shareholder approval of a selective buy-back must still:
+                                    (i)     give at least 14 days notice of the buy-back: s257F(1);
+                                    (ii)    lodge offer documents with us: s257E; and
+                                    (iii)   supply relevant information to shareholders who are sent offers:
+                                            s257G.
+                              (c)   We do not have the power to exempt a company from compliance with
+                                    these requirements or the notice required by s257F(2).
+
+               RG 110.41      Table 3 sets out some examples of when we may give exemptions.
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                             Page 14
+                                                                              REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+Table 3:     Examples of possible exemptions
+
+ Minimum holding buy-back by unlisted company:
+
+ We may exempt an unlisted company from the                    We will only give this exemption if:
+ requirement to obtain shareholder approval to buy              each parcel bought back is the whole of a person’s
+ back small parcels of shares if there is an urgent need         holding;
+ to make the buy-back and the buy-back cannot wait
+                                                                no parcel is bought back for more than $500 in total
+ until the company’s next general meeting.
+                                                                 value;
+ Our relief is consistent with the approach to minimum          the directors have determined the price is fair to all
+ holding buy-backs for a listed company under s257B.             shareholders;
+ We will apply a limit of 1% in a 12-month period
+                                                                no more than 1% in aggregate of the company’s
+ because substantive commercial decisions should
+                                                                 shares is bought back in a 12 month period,
+ remain in the hands of shareholders.
+                                                                 calculated in accordance with s257B(4); and
+                                                                there is no secondary market in the shares.
+
+ Shareholder approval without holding a meeting:
+
+ We may exempt a public company from holding a                 If we give this exemption, the company must:
+ meeting to obtain shareholder approval for a buy-back          give shareholders the information that would be
+ if we are satisfied shareholders can approve the buy-           required to be given under s257D(2) if a meeting
+ back in another way, for example:                               had been held; and
+  by endorsing a circulating memorandum via                    lodge with ASIC a copy of the notice of proposed
+   facsimile or email in accordance with the company’s           resolution and information documents sent to
+   constitution; or                                              shareholders.
+  if there are no more than 50 shareholders in the
+   company entitled to vote, all of them indicating in
+   writing that they approve the terms of the buy-back
+   agreement and waive the right to a meeting.
+
+ Voting by an associate of the selling shareholder:
+
+ We may exempt a company to enable an associate of             There are no standard conditions on this exemption.
+ the selling shareholder to vote on a buy-back when
+ the association is merely technical (e.g. if a
+ company’s constitution means that all shareholders
+ are associates because they have pre-emptive voting
+ rights).
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                                      Page 15
+                                                                             REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+ Equal access scheme as a selective buy-back:
+
+ (See next section for further detail on this type of buy-back)
+
+ We may exempt a company from the requirement for              We will only give each exemption if the company:
+ shareholder approval if:                                       complies with the buy-back provisions as though
+  the buy-back is in essence an equal access                    the buy-back were an equal access scheme
+   scheme; but                                                   (including ordinary shareholder approval if over the
+  the buy-back does not meet all the requirements for           10/12 limit); and
+   an equal access scheme under s257B(2), so is                 complies as closely as possible with the
+   technically a selective buy-back.                             requirements for an equal access scheme (see
+                                                                 RG 110.45–RG 110.46).
+ For example, we may give this exemption to enable a
+ company to:
+  if the company is a listed company (we give
+   separate relief for unlisted companies to do a
+   minimum holding buy-back—see above), buy back
+   a small parcel of shares from each shareholder
+   (see RG 110.47);
+  avoid shareholders being left with small parcels
+   after a buy-back by selectively scaling back shares
+   to be acquired where the buy-back is over-
+   subscribed (see RG 110.47);
+  buy back shares by way of a tender offer, usually
+   through a ‘Dutch auction’ (see RG 110.49–
+   RG 110.51);
+  allow shareholders to give irrevocable acceptances
+   before the offer period closes if it is impractical or
+   unreasonably costly to comply strictly with the equal
+   access scheme requirements (see RG 110.52–
+   RG 110.53); and
+  exclude overseas shareholders from a buy-back
+   where the company cannot make an offer to some
+   shareholders because of the laws of the country in
+   which they reside.
+
+
+
+How a selective buy-back works
+               RG 110.42      In a selective buy-back, the number of shares purchased from one
+                              shareholder need not relate to the number (if any) purchased from other
+                              shareholders. Therefore, shareholders will not be treated equally, and the
+                              potential for (and risk of) abuse increases.
+
+               RG 110.43      Under s257D(1), an agreement for a selective buy-back must be approved, or
+                              be conditional on approval, at a general meeting by:
+                              (a)   a special resolution of shareholders with no votes cast in favour of the
+                                    resolution by a selling shareholder or their associates; or
+                              (b)   a unanimous resolution by all ordinary shareholders in the company.
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                                   Page 16
+                                                                          REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+               RG 110.44      ASIC has the power to give a company a whole or part exemption (with or
+                              without conditions) from the requirement to obtain shareholder approval for
+                              a selective buy-back at a meeting: s257D(4).
+
+
+
+Equal access scheme as a selective buy-back
+               RG 110.45      In an equal access scheme:
+                              (a)   the offers under the scheme must relate only to ordinary shares;
+                              (b)   the offers must be made to every person who holds ordinary shares to
+                                    buy back the same percentage of their ordinary shares;
+                              (c)   all of those persons must have a reasonable opportunity to accept the
+                                    offers made to them;
+                              (d)   buy-back agreements must not be entered into until a specified time for
+                                    acceptances of offers has closed; and
+                              (e)   the terms of all the offers must be the same: s257B(2).
+
+               RG 110.46      In some cases, a company might be prevented from carrying out a buy-back
+                              as an equal access scheme because of these requirements, even though the
+                              buy-back is in essence an equal access scheme. In such cases, we will use
+                              our power to give exemptions from the requirement for shareholder approval
+                              for a selective buy-back to treat the buy-back as an equal access scheme.
+
+
+                              Small parcels
+
+               RG 110.47      For the purposes of our relief, the maximum value of a small parcel is:
+                              (a)   for companies with a market capitalisation of less than $1 billion:
+                                    (i)    $2,000 for shares to be bought back from each participating
+                                           shareholder, including the entire holding of participating
+                                           shareholders whose holding is less than $2,000 (threshold parcel);
+                                           and
+                                    (ii)   $500 where a participating shareholder’s remaining shares are
+                                           worth less than $500 after the threshold parcel is bought back
+                                           (residual parcel); and
+                              (b)   for companies with a market capitalisation of more than $1 billion:
+                                    (i)    $5,000 for threshold parcels; and
+                                    (ii)   $2,000 for residual parcels.
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                              Page 17
+                                                                              REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+               RG 110.48      The company’s market capitalisation and the size of the parcel of shares to
+                              be bought back should be determined using a weighted average five-day
+                              trading share price, calculated four weeks before the announcement of the
+                              buy-back.
+
+                                   Note: The limits set out above only apply to our relief to enable a company to buy back
+                                   small parcels or to selectively scale-back a buy-back to avoid holders being left with small
+                                   parcels. They do not apply to minimum holding buy-backs, either by a listed company
+                                   under the Act (where the limit is the size of a marketable parcel) or by an unlisted company
+                                   relying on the relevant relief set out in Table 3 (where the limit is $500).
+
+
+                              Tender offers and ‘Dutch auctions’
+               RG 110.49      In a tender offer buy-back, the company invites each shareholder to tender
+                              their shares for sale, rather than offering to buy back shares. If more shares
+                              are tendered than the company wants to buy, the company will use a scale-
+                              back mechanism (to ensure it does not buy back more shares than it wanted):
+                              see RG 110.62. Often the scale-back is selective to avoid shareholders being
+                              left with small parcels: see RG 110.47.
+
+               RG 110.50      A tender offer buy-back cannot be an equal access scheme because the
+                              company does not ‘offer’ to buy shares but rather invites shareholders to
+                              offer to sell shares. This means a tender offer buy-back is a selective buy-
+                              back and, without relief, would need special shareholder approval under
+                              s257D.
+                                   Note: A company can achieve a similar result by conducting a limit-based equal access
+                                   scheme: see RG 110.62.
+
+               RG 110.51      In a ‘Dutch auction’ tender offer, the company invites each shareholder to
+                              tender their shares at a price nominated by the shareholder. Usually
+                              shareholders choose from a range of prices set by the company, where each
+                              price is a certain discount to the market price at the time of the buy-back.
+                              The company then calculates the lowest price (i.e. the biggest discount to the
+                              market price) at which it can buy back the desired number of shares, and
+                              buys shares at that price (the final price) from each shareholder who
+                              nominated a price at or below the final price.
+
+                              Irrevocable acceptances
+
+               RG 110.52      In an equal access scheme, buy-back agreements are not entered into until
+                              the offer period has closed: s257B(2)(d). If a company allows shareholders
+                              to give irrevocable acceptances during the offer period, the buy-back
+                              agreement is entered into when the company receives the acceptance.
+                              Accordingly, the buy-back is technically a selective buy-back and would,
+                              without our relief, require shareholder approval.
+
+               RG 110.53      Because some agreements will be entered into while offers are still open, we
+                              will only give an exemption on condition that the company does not change
+                              the terms of the offers without our consent.
+
+
+© Australian Securities and Investments Commission July 2007                                                       Page 18
+                                                                       REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+How to apply for relief
+               RG 110.54      You should submit your application for relief through the ASIC Regulatory
+                              Portal. You will need to pay fees for your application. We have provided
+                              details about payment options in the portal. For more information, see how
+                              you apply for relief.
+
+               RG 110.55      If you are applying for an exemption from s257D, you must:
+                              (a)   do so before entering into the buy-back agreement (s257D(4)(b)); and
+                              (b)   allow enough time for us to consider the application, bearing in mind
+                                    that you must give 14 days notice of an intended buy-back (s257F).
+
+               RG 110.56      For our general policy on applications for relief and giving no-action letters,
+                              see Regulatory Guide 51 Applications for relief (RG 51) and Regulatory
+                              Guide 108 No-action letters (RG 108).
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                           Page 19
+                                                                       REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+E          Other aspects of share buy-backs
+
+                               Key points
+
+                               This section provides further information on:
+                               • 100% buy-backs (see RG 110.57);
+                               • changes in control (see RG 110.58);
+                               • dual-listed companies (see RG 110.59–RG 110.61);
+                               • limit-based equal access schemes (see RG 110.62);
+                               • minimum period for buy-back offers (see RG 110.63–RG 110.69); and
+                               • resolutions without meetings (see RG 110.70).
+
+
+
+
+100% buy-backs
+               RG 110.57      Because a company must have at least one member (s114), a company may
+                              not buy back all of its shares (e.g. as an alternative to winding up).
+
+
+
+Changes in control
+               RG 110.58      A buy-back will not breach the takeovers prohibition in s606 if it is carried
+                              out in accordance with the buy-back provisions: s611, item 19. However, we
+                              may apply to the Takeovers Panel for a declaration of unacceptable
+                              circumstances if we consider the buy-back is unreasonable having regard to:
+                              (a)   its effect on the control of the company or another company;
+                              (b)   whether there was equal opportunity for shareholders to participate in
+                                    the benefits; and
+                              (c)   whether the disclosure and other procedural aspects of the buy-back
+                                    would have substantially satisfied the requirements for a takeover in
+                                    Ch 6 (regardless of whether they satisfy the requirements of the buy-
+                                    back provisions).
+
+
+
+Dual-listed companies
+               RG 110.59      An Australian incorporated company listed in Australia and overseas may
+                              carry out an on-market buy-back in both markets if:
+                              (a)   the buy-back is available in both markets at the same time; and
+                              (b)   we have declared in writing that the overseas market is an approved
+                                    overseas financial market (see Table 4): s257B(7).
+
+
+
+© Australian Securities and Investments Commission July 2007                                          Page 20
+                                                                           REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+               RG 110.60      The buy-back on the overseas financial market must be ‘in the ordinary
+                              course of trading’: s257B(7). It is the company’s responsibility to ensure,
+                              before it starts a buy-back on a foreign exchange, that the ‘ordinary course of
+                              trading’ on the overseas financial market meets the criteria implied by this
+                              phrase under Australian case law.
+
+               RG 110.61      In Australia, this phrase means that the trading is in strict order of price and
+                              time priority, with indifference as to the identity of counterparties, and no
+                              pre-agreements or selection of counterparties: see Attorney-General (Vic) v
+                              Walsh’s Holdings Ltd [1973] VR 137.
+
+                              Table 4:     Approved overseas financial markets
+
+                                American Stock Exchange                   London Stock Exchange
+                                Borsa Italiana                            NASDAQ Stock Market
+                                Bursa Malaysia Main Board and             New York Stock Exchange
+                                 Bursa Malaysia Second Board               New Zealand Exchange
+                                Euronext Amsterdam                        Singapore Exchange
+                                Euronext Paris                            SWX Swiss Exchange
+                                Frankfurt Stock Exchange                  Tokyo Stock Exchange
+                                Hong Kong Stock Exchange                  Toronto Stock Exchange
+                                JSE
+
+                              Note: See ASIC Corporations (Approved Foreign Markets—Buy-backs and Takeovers)
+                              Instrument 2015/1071: s257B(7).
+
+
+
+
+Limit-based equal access schemes
+               RG 110.62      The Corporations Act places very few restrictions on the terms a company
+                              may insert into an equal access scheme buy-back. For example, a company
+                              may set a maximum number, value or percentage of shares it will buy back
+                              and makes it a term of the offer that if (at the close of offers) the company
+                              has received acceptances for more shares than the specified limit, the
+                              number of each acceptor’s shares will be reduced by the same proportion
+                              needed to ensure the company buys back no more than the specified limit
+                              (i.e. a scale-back).
+
+                               Example
+
+                               A company with 100 shares and 10 equal shareholders invites each
+                               shareholder to tender some or all of their shares, up to a total maximum of
+                               30 shares with a proportionate scaling back if there are excessive shares
+                               tendered. If up to three shareholders tender all their shares, the company
+                               will buy back all 10 shares from each participating shareholder. If six
+                               shareholders tender all their shares, the company will buy back only five
+                               shares from each participating shareholder, and so on.
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                                   Page 21
+                                                                        REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+Minimum period for buy-back offers
+               RG 110.63      There is no specified minimum period of time a buy-back must be open.
+                              However, we will presume a buy-back offer is open for a reasonable period
+                              if it is open for one month based on:
+                              (a)   the ‘reasonable opportunity’ requirement for equal access schemes
+                                    under s257B(2)(c); and
+                              (b)   similar provisions in the takeovers regime and listing rules.
+
+               RG 110.64      The shorter the period under one month for members to consider the buy-
+                              back offer, the greater the onus on the company to justify why the
+                              circumstances of the company are such that the period is reasonable.
+
+
+                              ‘Reasonable opportunity’
+
+               RG 110.65      Under an equal access scheme (including one requiring shareholder
+                              approval), a company must give all ordinary shareholders ‘a reasonable
+                              opportunity to accept the offers made to them’: s257B(2)(c). There is no case
+                              law on the term ‘reasonable opportunity’. However, it is clearly relevant to
+                              look at:
+                              (a)   the number of shareholders;
+                              (b)   their closeness to the decision to commence a share buy-back;
+                              (c)   the amount and complexity of information provided to them; and
+                              (d)   their knowledge of the company.
+
+               RG 110.66      For very small companies, when shareholders are in close contact with
+                              management and the operations of a company, or are themselves the
+                              management, the company’s directors may have a reasonable basis for
+                              holding the offer open for a shorter period than one month.
+
+
+                              Takeovers regime and listing rules
+
+               RG 110.67      Under the takeovers regime, the legislature has determined one month as the
+                              minimum period for offerees to consider a takeover offer: s624(1)(b).
+
+               RG 110.68      Under ASX Listing Rules Appendix 7A, shareholders must have at least
+                              15 business days after the record date to accept an equal access buy-back
+                              offer (the record date must be at least nine business days after the buy-back
+                              is announced). However, because unlisted companies do not have the
+                              continuous disclosure obligations or the ongoing liquid market listed
+                              companies have, the period for an equal access buy-back by a listed
+                              company of 15 business days is likely to be insufficient for unlisted
+                              companies.
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                          Page 22
+                                                                       REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+                              Selective buy-backs
+
+               RG 110.69      For selective buy-backs, the legislature appears to consider the time period
+                              for a general meeting to be a minimum for notice of the buy-back decision:
+                              s257D(1). However, if the members and the offeree(s) agree, it may be
+                              acceptable to leave the offers open for a very short period after the resolution
+                              is passed.
+
+
+
+Resolutions without meetings
+               RG 110.70      A proprietary or single shareholder company can satisfy the shareholder
+                              approval requirement without holding a meeting: s249A and s249B.
+                              However, it must still comply with the lodgement and disclosure
+                              requirements in s257E and 257G. In the case of a single shareholder
+                              company, although the shareholder should be expected to know all the
+                              information about the company and the buy-back, lodging this information
+                              will help creditors.
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                           Page 23
+                                                                             REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+Key terms
+
+
+                               Term                       Meaning in this document
+
+                               10/12 limit                The 10/12 limit as defined in s257B(4)
+
+                               ASIC                       The Australian Securities and Investments Commission
+
+                               associate                  An associate as defined in s10–17
+
+                               buy-back                   A share buy-back under Div 2 of Pt 2J.1 of the
+                                                          Corporations Act
+
+                               the buy-back               Div 2 of Pt 2J.1 of the Corporations Act
+                               provisions
+
+                               Corporations Act           The Corporations Act 2001 (Cth) including regulations
+                                                          made for the purposes of the Act
+
+                               disclosure                 The requirements in s257C(2), 257D(2) or 257G
+                               requirements
+
+                               Div 2                      A division of a part of the Corporations Act (in this
+                                                          example, numbered 2)
+
+                               ordinary shareholder       Approval by shareholders for a buy-back under s257C(1)
+                               approval
+
+                               Pt 2J.1                    A part of the Corporations Act (in this example, numbered
+                                                          2J.1)
+
+                               RG 110                     An ASIC regulatory guide (in this example, numbered
+                                                          110)
+
+                               s257D(4) (for              A section of the Corporations Act (in this example,
+                               example)                   numbered 257D(4))
+
+                               special shareholder        Approval by shareholders for a selective buy-back under
+                               approval                   s257D(1)
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                                      Page 24
+                                                                     REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+Related information
+
+                              Headnotes
+
+                              10/12 limit, continuous buy-back, disclosure, Dutch auction, employee share
+                              scheme buy-back, equal access scheme, minimum holding buy-back, on-
+                              market buy-back, selective buy-back, share buy-back, shareholder approval,
+                              small parcel, tender offer
+
+
+                              ASIC instruments
+
+                              ASIC Corporations (Approved Foreign Markets—Buy-backs and Takeovers)
+                              Instrument 2015/1071
+
+
+                              Regulatory guides
+
+                              RG 51 Applications for relief
+
+                              RG 108 No-action letters
+
+                              RG 111 Content of expert reports
+
+
+                              Information sheets
+
+                              INFO 30 Fees for commonly lodged documents
+
+
+                              ASIC forms
+
+                              Form 280 Notification of share buy-back details
+
+                              Form 281 Notification of intention to carry out a share buy-back
+
+
+                              Legislation
+
+                              Corporations Act, Div 2 of Pt 2J.1, Ch 6, s114, 257B, 257C, 257D, 257E,
+                              257F, 257G, 259A, 259F, 606, 611 item 19, 624(1)(b), 631(1), 1043A
+
+
+                              Cases
+
+                              ANZ Nominees Pty Ltd v Wormald International Ltd (1988) 13 ACLR 698
+
+                              Attorney-General (Vic) v Walsh’s Holdings Ltd [1973] VR 137
+
+                              NSCS v Consolidated Gold Mining Areas NL (No 2) (1985) 1 NSWLR 622
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                       Page 25
+                                                                    REGULATORY GUIDE 110: Share buy-backs
+
+
+
+
+                              Consultation papers and reports
+
+                              CP 57 Buy backs: Small parcels (December 2004)
+
+                              Report on the Public Hearing February 1992 on the Promotion and Sale of
+                              Foreign Securities in Australia 1992 ASC Digest PH 58
+
+
+                              Media and information releases
+
+                              MR 05-44 ASIC’s position on off-market share buy-backs incorporating
+                              fully franked dividends (3 March 2005)
+
+                              IR 04-64 ASIC calls for public comment on share buy-back proposal
+                              (13 December 2004)
+
+                              IR 05-18 ASIC announces new limits on share buy-back relief for small
+                              parcels (6 May 2005)
+
+
+
+
+© Australian Securities and Investments Commission July 2007                                      Page 26
+

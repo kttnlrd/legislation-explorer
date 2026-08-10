@@ -8,6 +8,7 @@ from __future__ import annotations
 import json
 import logging
 import subprocess
+import threading
 from typing import Any
 
 import psycopg2
@@ -16,14 +17,67 @@ import psycopg2.extras
 logger = logging.getLogger(__name__)
 
 _PSQL = [
-    "docker", "exec", "cadena-postgres",
+    "docker", "exec", "-i", "cadena-postgres",
     "psql", "-U", "postgres", "-d", "cadena_knowledge",
     "-t", "-F", "\x01", "-A",  # tuples-only, SOH-sep, unaligned
 ]
 
+# Module-level psycopg2 connection for fast reads
+_reader_conn: object | None = None
+_reader_lock = threading.Lock()
+
+
+def _get_reader() -> object:
+    """Return a shared psycopg2 connection (reuse, not docker exec)."""
+    global _reader_conn
+    with _reader_lock:
+        if _reader_conn is not None:
+            try:
+                cur = _reader_conn.cursor()
+                cur.execute("SELECT 1")
+                cur.close()
+                return _reader_conn
+            except Exception:
+                # Connection stale — reconnect
+                try:
+                    _reader_conn.close()
+                except Exception:
+                    pass
+                _reader_conn = None
+        try:
+            import os
+            host = os.environ.get("PGHOST", "127.0.0.1")
+            port = int(os.environ.get("PGPORT", "5432"))
+            user = os.environ.get("PGUSER", "postgres")
+            password = os.environ.get("PGPASSWORD", "")
+            dbname = os.environ.get("PGDATABASE", "cadena_knowledge")
+            _reader_conn = psycopg2.connect(
+                host=host, port=port, user=user, password=password, dbname=dbname,
+                connect_timeout=5,
+            )
+            _reader_conn.set_session(autocommit=True, readonly=True)
+        except Exception:
+            _reader_conn = None
+        return _reader_conn
+
 
 def _sql(query: str) -> list[list[str]]:
-    """Run a SQL query via docker exec. Returns rows as list of string lists."""
+    """Run a SQL query via psycopg2 (fast, no docker exec overhead).
+
+    Falls back to docker exec on failure.
+    Returns rows as list of string lists (same format as before).
+    """
+    conn = _get_reader()
+    if conn is not None:
+        try:
+            cur = conn.cursor()
+            cur.execute(query)
+            rows = [[str(cell) if cell is not None else "" for cell in row] for row in cur.fetchall()]
+            cur.close()
+            return rows
+        except Exception as e:
+            logger.warning(f"psycopg2 query failed, falling back to docker exec: {e}")
+    # Fallback: docker exec
     try:
         result = subprocess.run(
             _PSQL + ["-c", query],

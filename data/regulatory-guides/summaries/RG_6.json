@@ -1,0 +1,53 @@
+{
+  "citation": "RG 6",
+  "title": "Takeovers: Exceptions to the general prohibition",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses the exceptions to the general prohibition on acquisitions of relevant interests in voting shares in a company set out in s606 of the Corporations Act 2001. It covers circumstances where a person may acquire relevant interests without triggering the takeover provisions, including on-market purchases during a bid period. The guide is intended for entities, investors, and advisers involved in transactions that may rely on these exceptions.",
+  "background": "The guide operates within the legislative framework of Chapter 6 of the Corporations Act 2001, particularly s606 which prohibits acquisitions that exceed the 20% voting power threshold unless an exception applies. ASIC has the role of administering these exceptions, including the power to modify their operation or grant exemptions under s655A. The guide is for listed and unlisted entities, investors, and their advisers seeking to rely on certain exceptions to the general prohibition.",
+  "ruling": "ASIC explains its regulatory approach to administering the exceptions to the general prohibition in s606, including how it interprets the relevant provisions and the circumstances in which it may exercise its discretionary powers. The guide outlines the specific exceptions, such as those for on-market purchases during the bid period, and sets out the conditions that must be satisfied for a person to rely on them. ASIC states that it will consider granting relief under s655A where appropriate, including modifications to the operation of the exceptions, and emphasises that each application will be assessed on its merits. The guide also notes that the exceptions are not exhaustive and that other provisions of the Corporations Act may apply. ASIC clarifies that this guide does not constitute legal advice and that entities should seek their own professional advice.",
+  "date_of_effect": "2024-03-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 606",
+    "Corporations Act 2001 (Cth) s 609",
+    "Corporations Act 2001 (Cth) s 611",
+    "Corporations Act 2001 (Cth) s 613",
+    "Corporations Act 2001 (Cth) s 615",
+    "Corporations Act 2001 (Cth) s 625(3)",
+    "Corporations Act 2001 (Cth) s 651A",
+    "Corporations Act 2001 (Cth) s 652C",
+    "Corporations Act 2001 (Cth) s 655A",
+    "Corporations Act 2001 (Cth) s 671B",
+    "Corporations Act 2001 (Cth) s 9",
+    "Corporations Act 2001 (Cth) s 9A",
+    "Corporations Act 2001 (Cth) s 228",
+    "Corporations Act 2001 (Cth) s 229",
+    "Corporations Act 2001 (Cth) s 444GA",
+    "Corporations Act 2001 (Cth) s 602",
+    "Corporations Regulations 2001 (Cth) reg 6.2.01",
+    "Corporations Regulations 2001 (Cth) reg 6.2.02",
+    "Insolvency Practice Rules (Corporations) 2016 (Cth) Rule 75-225(3)"
+  ],
+  "cases_referenced": [
+    "Aberfoyle Ltd v Western Metals Ltd (1998) 28 ACSR 187",
+    "Anemtech Ltd v Eyres Reed McIntosh Ltd (1986) 10 ACLR 780",
+    "Australian Investment Trust Ltd v Strand and Pitt Street Properties Ltd (1931) 31 SR (NSW) 266",
+    "Bisalloy Steel Group Limited [2008] ATP 29",
+    "CMI Limited [2011] ATP 4",
+    "Dromana Estate Limited 01R [2006] ATP 8",
+    "MacarthurCook Property Securities Fund 01 & 02 [2012] ATP 7",
+    "Orion Telecommunications Limited [2006] ATP 23",
+    "Phosphate Resources Limited [2003] ATP 3",
+    "Re Licensed Victuallers' Mutual Trading Association; Ex parte Audain (1889) 42 Ch D 1",
+    "The President's Club Limited [2012] ATP 10",
+    "Weaver v Noble Resources Ltd [2010] WASC 182",
+    "Westgold Resources NL v Precious Metals Australia Ltd (2002) 41 ACSR 672",
+    "World Oil Resources Limited [2013] ATP 1"
+  ],
+  "related_rulings": [
+    "RG 112",
+    "RG 189",
+    "RG 228",
+    "INFO 225"
+  ]
+}

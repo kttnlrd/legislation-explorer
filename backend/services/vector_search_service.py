@@ -106,10 +106,11 @@ def search(query: str, limit: int = 50) -> list[dict]:
     for idx in top_idx:
         emb_id = int(_ids[idx])
         m = _meta[emb_id]
+        source_type = m.get("source_type", "section")
         results.append({
             "embedding_id": emb_id,
-            "source_type": m.get("source_type", "section"),
-            "act": m["act"],
+            "source_type": source_type,
+            "act": "tax-cases" if source_type == "case" else ("rulings" if source_type == "ruling" else m["act"]),
             "section": m["section"],
             "title": m["section_title"],
             "score": float(scores[idx]),

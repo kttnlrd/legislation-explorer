@@ -1,0 +1,2278 @@
+REGULATORY GUIDE 36
+
+Licensing: Financial product
+advice and dealing
+
+June 2016
+
+
+
+
+About this guide
+This guide is for persons who provide financial product advice or deal in a
+financial product as defined in the Corporations Act 2001 (Corporations Act)
+and their professional advisers (such as lawyers).
+
+It gives guidance on the meaning of ‘provide financial product advice’ and
+the meaning of ‘deal in a financial product’. It also provides guidance on the
+obligations that apply to providers of financial services.
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in June 2016 and is based on legislation and
+                             regulations as at the date of issue. Notes were added at RG 36.63 and
+                             RG 36.64 on 20 November 2020 to refer to a new information sheet,
+                             Information Sheet 251 AFS licensing requirement for trustees of
+                             unregistered managed investment schemes (INFO 251). In March 2022 we
+                             updated RG 36.96(a) (including Note 1) to reflect the breach reporting
+                             reforms that commenced on 1 October 2021.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 36, issued April 2011, reissued August
+                                     2013
+                                    Superseded guide Licensing: The scope of the licensing regime:
+                                     Financial product advice and dealing, issued November 2001, reissued
+                                     November 2002, May 2005 and May 2007, and rebadged as a
+                                     regulatory guide 5 July 2007
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                    Page 2
+                                                     REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+Contents
+
+                             A      Overview ........................................................................................... 4
+                                    What is a ‘financial service’?.............................................................. 4
+                                    What is the meaning of ‘provide financial product advice’? ............... 5
+                                    What is the meaning of ‘deal in a financial product’? ........................ 5
+                                    What is the meaning of ‘arranging’? .................................................. 6
+                                    What obligations apply to providers of financial services? ................ 6
+                             B      What is the meaning of ‘provide financial product advice’? ....... 7
+                                    What is financial product advice? ...................................................... 7
+                                    When do you ‘provide’ financial product advice? ............................ 12
+                             C      What is the meaning of ‘deal in a financial product’? ............... 16
+                                    What is dealing? .............................................................................. 16
+                                    What is arranging? ........................................................................... 16
+                                    What conduct is exempt from the definition of dealing? .................. 17
+                             D      What is the meaning of ‘arranging’? ........................................... 19
+                                    What is arranging? ........................................................................... 19
+                                    What is not arranging? ..................................................................... 20
+                                    Examples of our approach to determining what is arranging .......... 22
+                             E      What obligations apply to providers of financial services?...... 26
+                                    The need to hold an AFS licence .................................................... 26
+                                    When do you satisfy the business test? .......................................... 26
+                                    Does an exemption from the requirement to hold an AFS licence
+                                    apply? .............................................................................................. 27
+                                    What obligations are imposed on licensees? .................................. 33
+                                    When do representatives need to hold an authorisation? ............... 36
+                                    What obligations are imposed on representatives? ........................ 37
+                             Key terms ............................................................................................... 38
+                             Related information ............................................................................... 41
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                                              Page 3
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               To determine your obligations under the licensing provisions you first need to
+                               consider whether you provide a ‘financial service’: see RG 36.1–RG 36.2.
+
+                               You provide a financial service if (among other things) you:
+                               • ‘provide financial product advice’ (see RG 36.3–RG 36.6); or
+                               • ‘deal in a financial product’ (see RG 36.7–RG 36.8).
+                               Arranging for a person to engage in certain conduct, such as applying for or
+                               acquiring a financial product (see RG 36.36), will constitute dealing unless
+                               it amounts to providing financial product advice or is exempt: see RG 36.9–
+                               RG 36.11.
+                               If you provide a financial service you need to consider whether you must
+                               hold an Australian financial services (AFS) licence or hold an authorisation
+                               from a licensee: see RG 36.12–RG 36.14.
+                               Licensees and their representatives must comply with certain obligations:
+                               see RG 36.15–RG 36.18.
+
+
+
+
+What is a ‘financial service’?
+              RG 36.1        To determine your obligations under the licensing provisions you first need
+                             to consider whether you provide a ‘financial service’.
+
+              RG 36.2        Generally, a person provides a financial service if they:
+                             (a)   provide financial product advice;
+                             (b)   deal in a financial product;
+                             (c)   make a market for a financial product;
+                             (d)   operate a registered scheme;
+                             (e)   provide a custodial or depository service;
+                             (f)   provide traditional trustee company services; or
+                             (g)   engage in conduct of a kind prescribed in the Corporations Regulations
+                                   2001 (Corporations Regulations) (see s766A of the Corporations Act
+                                   2001 (Corporations Act)).
+
+                                   Note: This guide does not provide guidance on the types of financial service set out in
+                                   RG 36.2(c)–RG 36.2(g).
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                           Page 4
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+What is the meaning of ‘provide financial product advice’?
+              RG 36.3        The licensing provisions apply to persons who ‘provide financial product
+                             advice’. To determine whether you provide financial product advice, it is
+                             necessary to separately consider two questions:
+                             (a)   What is ‘financial product advice’?
+                             (b)   When do you ‘provide’ financial product advice?
+
+
+                             What is financial product advice?
+
+              RG 36.4        A recommendation or a statement of opinion, or a report of either of those
+                             things, constitutes financial product advice under s766B if:
+                             (a)   it is intended to influence a person or persons in making a decision about
+                                   a particular financial product or class of financial products, or an interest
+                                   in a particular financial product or class of financial products, or could
+                                   reasonably be regarded as being intended to have such an influence; and
+                             (b)   it is not exempted from the definition of ‘financial product advice’.
+
+
+                             When do you ‘provide’ financial product advice?
+
+              RG 36.5        The licensing provisions apply to persons who ‘provide’ financial product
+                             advice. The person who provides the advice will generally include the
+                             author(s) of the advice as well as the principal for whom they act. It also
+                             includes any other person who endorses the advice, or any person who
+                             causes or authorises the provision of the advice: see s52. However, a person
+                             does not provide financial product advice in certain circumstances specified
+                             in the Corporations Act (e.g. where the person’s conduct occurs in the course
+                             of work of a kind ordinarily done by clerks and cashiers).
+
+              RG 36.6        The meaning of ‘provide financial product advice’ is considered in more
+                             detail in Section B.
+
+
+
+What is the meaning of ‘deal in a financial product’?
+              RG 36.7        The licensing provisions apply to persons who ‘deal in a financial product’.
+                             To determine whether you deal in a financial product it is necessary to
+                             consider the following questions:
+                             (a)   What is ‘dealing’ within the meaning of s766C(1)?
+                             (b)   What is ‘arranging’ within the meaning of s766C(2)?
+                             (c)   What conduct is exempt from the definition of ‘dealing’?
+
+              RG 36.8        The meaning of ‘deal in a financial product’ is considered in more detail in
+                             Section C.
+
+
+
+Australian Securities and Investments Commission June 2016                                                    Page 5
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+What is the meaning of ‘arranging’?
+              RG 36.9        ‘Arranging’ for a person to engage in certain conduct, such as applying for
+                             or acquiring a financial product (see RG 36.36), constitutes dealing unless:
+                             (a)   the actions concerned amount to providing financial product advice
+                                   (s766C(2)); or
+                             (b)   the conduct is exempt from the definition of dealing—for example, if
+                                   the clerks and cashiers exemption applies (s766A(3)).
+
+              RG 36.10       Arranging occurs when a person brings into effect the issue, variation,
+                             disposal or acquisition of, or application for, a financial product. Ultimately,
+                             whether a person’s activities constitute arranging is a question of degree.
+
+              RG 36.11       The meaning of ‘arranging’ is considered in more detail in Section D.
+
+
+
+What obligations apply to providers of financial services?
+              RG 36.12       If you provide a financial service you may need to hold an AFS licence.
+
+              RG 36.13       You will need to hold an AFS licence if you carry on a financial services
+                             business in this jurisdiction, unless an exemption in s911A(2) (or regulations
+                             made for the purposes of that provision) applies. For example, due to the
+                             exemption in s911A(2)(a), you do not need an AFS licence to provide
+                             financial services as a representative of a licensee.
+
+              RG 36.14       To determine whether you need to hold an AFS licence to provide a financial
+                             service it is necessary to consider the following questions:
+                             (a)   When do you satisfy the business test? (see RG 36.59)
+                             (b)   Does an exemption from the requirement to hold an AFS licence apply?
+                                   (see RG 36.60)
+
+              RG 36.15       Licensees must comply with various obligations, including the general
+                             licensee obligations set out in s912A and 912B.
+
+              RG 36.16       If you provide financial services as a representative of a licensee, you may
+                             need to hold an authorisation from that licensee.
+
+              RG 36.17       While the primary obligation to ensure compliance with the financial
+                             services laws is imposed on licensees, some obligations in the law apply
+                             directly to representatives.
+
+              RG 36.18       The obligations that apply to providers of financial services are considered in
+                             more detail in Section E.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                    Page 6
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+B          What is the meaning of ‘provide financial
+           product advice’?
+
+                               Key points
+
+                               The licensing provisions apply to persons who ‘provide financial product
+                               advice’.
+
+                               To determine whether you provide financial product advice it is necessary
+                               to separately consider two questions:
+                               • What is financial product advice? (see RG 36.19–RG 36.32); and
+                               • When do you ‘provide’ financial product advice? (see RG 36.33–
+                                 RG 36.35).
+
+
+
+
+What is financial product advice?
+              RG 36.19       A recommendation or a statement of opinion, or a report of either of those
+                             things, constitutes financial product advice under s766B if:
+                             (a)   it is intended to influence a person or persons in making a decision
+                                   about a particular financial product or class of financial products, or an
+                                   interest in a particular financial product or class of financial products, or
+                                   could reasonably be regarded as being intended to have such an
+                                   influence; and
+                             (b)   it is not exempted from the definition of financial product advice.
+
+                                   Note: There are two types of financial product advice under the Corporations Act—
+                                   personal advice and general advice: see s766B(2)–(4). For a brief description of these
+                                   two types of advice, see RG 36.97–RG 36.100. These paragraphs describe some key
+                                   obligations that apply depending on whether a person is providing personal or general
+                                   advice. For further guidance about the distinction between personal advice and general
+                                   advice and your obligations, see Regulatory Guide 175 Licensing: Financial product
+                                   advisers—Conduct and disclosure (RG 175) and Regulatory Guide 244 Giving
+                                   information, general advice and scaled advice (RG 244).
+
+              RG 36.20       Financial product advice will generally involve a qualitative judgement
+                             about, or an evaluation, assessment or comparison of, some or all of the
+                             features of one or more financial product(s).
+
+                                   Note: For example, a service that involves rating some or all of the features of one or
+                                   more superannuation products will generally constitute financial product advice. Such a
+                                   service involves making an evaluation, assessment or comparison of some or all of the
+                                   features of one or more financial products.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                         Page 7
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                             Consider the overall impression and circumstances
+
+              RG 36.21       You will need to take into account the overall impression created by a
+                             communication, and all the surrounding circumstances in which it is
+                             provided, to determine whether it constitutes financial product advice under
+                             the test set out in s766B.
+
+              RG 36.22       This will mean you need to consider, among other things:
+                             (a)   the means by which the provider(s) of the communication (and their
+                                   associates) are remunerated; and
+                             (b)   any representations made to the person to whom the communication is
+                                   provided (who may be a retail or wholesale client).
+
+                             For example, a communication is more likely to be financial product advice
+                             if its provider (or associate) is remunerated by the client or stands to benefit
+                             depending on the decisions made by a client. This is because an intention to
+                             influence may be more readily inferred.
+
+                             The distinction between factual information and financial
+                             product advice
+
+              RG 36.23       If a communication is a recommendation or a statement of opinion, or a
+                             report of either of those things, that is intended to, or can reasonably be
+                             regarded as being intended to, influence a client in making a decision about a
+                             particular financial product or class of financial product (or an interest in
+                             either of these), it is financial product advice. Communications that consist
+                             only of factual information (i.e. objectively ascertainable information whose
+                             truth or accuracy cannot be reasonably questioned) will generally not
+                             involve the expression of an opinion or a recommendation and will not,
+                             therefore, constitute financial product advice.
+
+                                   Note: For example, factual information will generally include information about the
+                                   rights and obligations of persons under relevant legislation (such as the Superannuation
+                                   Guarantee (Administration) Act 1992).
+
+              RG 36.24       However, in some circumstances, a communication that consists only of
+                             factual information may amount to financial product advice. Where factual
+                             information is presented in a manner that may reasonably be regarded as
+                             suggesting or implying a recommendation to buy, sell or hold a particular
+                             financial product or class of financial products, the communication may
+                             constitute financial product advice (e.g. where the features of two financial
+                             products are described in such a manner as to suggest that one compares
+                             more favourably than the other).
+
+              RG 36.25       We will not treat factual information given by you as general or personal
+                             advice if:
+                             (a)   you clarify at the outset that you are giving the client factual
+                                   information where there is a reasonable likelihood of doubt; and
+
+
+Australian Securities and Investments Commission June 2016                                                          Page 8
+                                                  REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                             (b)   the information is not intended to imply any recommendation or
+                                   opinion about a financial product.
+
+                                   Note: See RG 244.29–RG 244.32 for more guidance on how we distinguish factual
+                                   information from general or personal advice.
+
+              RG 36.26       The examples in Table 1 illustrate the distinction between factual
+                             information and financial product advice.
+
+Table 1:     Examples of the distinction between factual information and financial advice
+
+ Example                     Explanation of the distinction between factual information and financial advice
+
+ Superannuation              A client asks a fund representative about salary sacrifice arrangements and
+                             superannuation. The representative informs the client what is generally understood
+                             by the term ‘salary sacrifice arrangement’. This is likely to constitute the provision of
+                             factual information.
+
+                             If, however, the representative expresses a qualitative or comparative judgement
+                             about salary sacrifice arrangements (e.g. ‘sacrificing salary into a superannuation
+                             fund is very tax effective’ or ‘sacrificing salary into a superannuation fund is more tax
+                             effective than negative gearing’), this would be likely to constitute the provision of
+                             financial product advice.
+
+ Call centres and            A client contacts a call centre wanting to buy insurance for their motor vehicle. The
+ general insurance           client asks the operator to explain the difference between third-party liability and
+                             comprehensive cover and asks for two quotes.
+                               Note: Telling an inquirer the cost or estimated cost of a financial product does not constitute
+                               the provision of financial product advice: see s766B(6).
+
+                             The operator simply explains the differences in policy coverage between the two
+                             policies and provides the requested quotations. This is likely to constitute the
+                             provision of factual information.
+
+                             However, suppose the client has obtained two quotes to insure their motor vehicle:
+                             one covers third-party liability, the other is for comprehensive cover. The client asks
+                             whether it is worth taking out comprehensive cover. The operator explains the
+                             differences in policy coverage between the two policies. Without referring to any
+                             particular circumstances of the client, the operator says that comprehensive cover is
+                             the best choice for most people. This is likely to constitute the provision of financial
+                             product advice, because the context in which the response is given suggests a
+                             value judgement about the comparative merits of the two policies.
+
+ Branch staff and a          A client visits their local bank branch with $10,000 to deposit. The client asks for the
+ spare $10,000               different interest rates on a savings account and a term deposit and is referred to a
+                             customer service officer. The officer provides the interest rates for each of these
+                             facilities. This is likely to constitute the provision of factual information.
+
+                             However, suppose the officer not only explains the interest rates for each of these
+                             facilities but also adds that there is an ‘attractive special rate’ available on term
+                             deposits for a six-month term. This is likely to constitute the provision of financial
+                             product advice because it is a matter of opinion as to whether the special rate is
+                             ‘attractive’ and the teller could reasonably be regarded as intending to influence the
+                             client to choose the term deposit.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                               Page 9
+                                                     REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+ Example                       Explanation of the distinction between factual information and financial advice
+
+ Seminars                      A financial institution organises a seminar on investment. Fifteen people attend the
+                               seminar. The presenter merely provides a general description of the different types
+                               of financial products that are available for investment purposes. This is likely to
+                               constitute the provision of factual information only.
+
+                               However, suppose the presenter claims that, during periods of stock market
+                               volatility, property trusts are more desirable than shares because they offer more
+                               consistent returns. This is likely to constitute the provision of financial product
+                               advice. The desirability of property trusts is a matter of opinion and the presenter’s
+                               statements could reasonably be regarded as intending to influence the attendees to
+                               invest in property trusts.
+
+ Cross-selling                 A client approaches a financial institution to ask about a home mortgage. The client
+                               also asks the customer service representative about income protection insurance.
+                               The representative confirms that the financial institution also offers income
+                               protection insurance products. This is likely to constitute the provision of factual
+                               information.
+
+                               However, suppose that the customer service representative suggests that the client
+                               should consider taking out income protection insurance because it can give ‘peace
+                               of mind’ in meeting mortgage payments. This is likely to constitute the provision of
+                               financial product advice because whether income protection insurance provides
+                               peace of mind or not is a matter of opinion. The representative’s suggestion could
+                               reasonably be regarded as intending to influence the client to purchase income
+                               protection insurance.
+
+Note: For further guidance and examples illustrating the difference between factual information and financial product advice,
+see RG 244.
+
+
+
+                                A decision on a particular financial product or class
+
+                RG 36.27        A specific issue that arises is the meaning in s766B(1) of ‘decision in
+                                relation to a particular financial product or class of financial products, or an
+                                interest in a particular financial product or class of financial products’. This
+                                expression includes any decision to buy, sell or hold a particular financial
+                                product or class of financial products. Examples include a decision to:
+                                (a)   exercise a right or option to acquire or dispose of a financial product;
+                                (b)   acquire an equitable interest in a financial product; or
+                                (c)   accept or reject a takeover offer.
+
+                RG 36.28        Section 766B(1) encompasses decisions made by consumers to make
+                                additional payments or contributions in relation to financial products held by
+                                them (whether or not the making of such additional payments or
+                                contributions involves the issue of a financial product: see s761E). It also
+                                encompasses decisions made by consumers about investment strategies or
+                                options that they may select within a fund.
+
+                RG 36.29        In the context of superannuation, s766B(1) encompasses (but is not limited
+                                to) decisions made by consumers about:
+                                (a)   joining a superannuation fund;
+
+
+Australian Securities and Investments Commission June 2016                                                              Page 10
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                             (b)   the level of contributions to be paid to a superannuation fund (including
+                                   altering the level of contributions);
+                             (c)   selecting a particular investment or insurance option within a
+                                   superannuation fund;
+                             (d)   moving funds between sub-plans within a fund;
+                             (e)   claiming superannuation benefits; and
+                             (f)   moving funds from one fund to another fund.
+
+              RG 36.30       Clearly, decisions that relate only to things that are not financial products
+                             (e.g. a credit facility as defined in s765A(1)(h)(i) and related regulations) are
+                             not caught by s766B(1). However, these may be caught by other legislation
+                             such as the National Consumer Credit Protection Act 2009.
+
+
+                             Use of disclaimers
+
+              RG 36.31       If your communications include information about financial products, but do
+                             not constitute financial product advice, you should consider giving
+                             consumers a disclaimer to the effect that you are not providing financial
+                             product advice, and that consumers should consider obtaining independent
+                             advice before making any financial decisions. This will help avoid
+                             misleading or confusing consumers about the purpose of the communication.
+
+                                   Note: A disclaimer will not, of itself, determine whether a communication constitutes
+                                   financial product advice.
+
+
+                             When is a communication exempt from the definition of
+                             financial product advice?
+
+              RG 36.32       A communication is exempt from the definition of financial product advice
+                             in s766B if it is:
+                             (a)   advice given by a lawyer in the circumstances set out in s766B(5)(a) or
+                                   (b);
+                             (b)   advice given by a registered tax agent in the circumstances set out in
+                                   s766B(5)(c); or
+                             (c)   a quote relating to the cost of a financial product or the rate of return on
+                                   a financial product in the circumstances set out in s766B(6) or (7).
+
+                                   Note: Apart from these exemptions, you will not be providing financial product advice
+                                   in any of the circumstances listed in RG 36.34. Even if you are providing financial
+                                   product advice, you may not need an AFS licence or authorisation, depending on the
+                                   circumstances: see Section E.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                        Page 11
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+When do you ‘provide’ financial product advice?
+              RG 36.33       The licensing provisions apply to persons who ‘provide’ financial product
+                             advice. The person who provides the advice will generally include the
+                             author(s) of the advice as well as the principal for whom they act. It also
+                             includes any other person who endorses the advice, or any person who
+                             causes or authorises the provision of the advice: see s52.
+
+                                   Note 1: For further guidance on s52 and the provision of financial services through a
+                                   licensed intermediary, see RG 175.
+
+                                   Note 2: Financial product advice may be provided by traditional means (e.g. verbally or
+                                   by paper) or electronically (e.g. via a website).
+
+
+                             Circumstances where a person does not provide financial
+                             product advice
+
+              RG 36.34       You are not providing financial product advice when:
+                             (a)   you provide an exempt document or statement (s766B(1A)). The
+                                   expression ‘exempt document or statement’ is defined in reg 7.1.08;
+
+                                   Note 1: We have given relief from the requirement to hold an AFS licence for the issue
+                                   of certain documents that contain general advice (e.g. documents prepared for the
+                                   purposes of the Corporations Act): see ASIC Corporations (Financial Product Advice—
+                                   Exempt Documents) Instrument 2016/356 and [CO 03/911] Licensing relief for self-
+                                   dealers who provide general product advice about own securities.
+
+                                   Note 2: A recommendation or statement of opinion made by an ‘outside expert’
+                                   (defined in s766B(9)(b)), or a report of such a recommendation or statement of opinion,
+                                   that is included in an exempt document or statement is financial product advice. Under
+                                   the law, the advice is provided by the outside expert and not the issuer of the exempt
+                                   document: see also reg 7.6.01(1)(u).
+
+                             (b)   you provide certain kinds of business, structural and risk-related advice
+                                   in the circumstances set out in reg 7.1.29(3);
+
+                                   Note: These services are an ‘exempt service’ within the meaning of reg 7.1.29(1).
+
+                             (c)   you are registered as an auditor under Pt 9.2 and perform any of the
+                                   functions of a cover pool monitor mentioned in s30(4) of the Banking
+                                   Act 1959 (reg 7.1.29(3A));
+                             (d)   the conduct is the provision of advice about the taxation implications of
+                                   a financial product in the circumstances set out in reg 7.1.29(4);
+
+                                   Note: This is an ‘exempt service’ within the meaning of reg 7.1.29(1).
+
+                             (e)   you provide advice about the establishment, operation, structuring or
+                                   valuation of a superannuation fund (other than advice for inclusion in an
+                                   exempt document or statement) in the circumstances set out in reg
+                                   7.1.29(5);
+
+                                   Note 1: This is an ‘exempt service’ within the meaning of reg 7.1.29(1).
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                         Page 12
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                                   Note 2: The requirement in reg 7.1.29(5)(c)(ii) (that the advice does not include a
+                                   recommendation that a person acquire or dispose of a superannuation product) does not
+                                   apply to a recommendation by a recognised accountant in relation to a self-managed
+                                   superannuation fund: see reg 7.1.29A. The term ‘recognised accountant’ is defined in
+                                   reg 7.1.29A(2).
+
+                             (f)   your conduct consists only of passing on, publishing, distributing or
+                                   otherwise disseminating a document that contains financial product
+                                   advice in the circumstances described in reg 7.1.31. This may include a
+                                   publisher or internet portal operator;
+                             (g)   your conduct occurs in the course of work of a kind ordinarily done by
+                                   clerks and cashiers (s766A(3) and RG 36.35);
+                             (h)   your conduct consists only of advising another person about the manner
+                                   in which voting rights attaching to securities or interests in managed
+                                   investment schemes may or should be exercised in the circumstances
+                                   set out in reg 7.1.30;
+                             (i)   you provide advice to another person that relates only to the structuring of
+                                   remuneration packages for that other person’s employees (reg 7.1.32);
+                             (j)   your conduct consists only of providing a recommendation or statement
+                                   of opinion in the course of, and as a necessary or incidental part of, the
+                                   handling or settlement of claims or potential claims for an insurance
+                                   product (reg 7.1.33(1));
+                             (k)   your conduct consists only of providing a recommendation or statement
+                                   of opinion about the allocation of the funds among the general asset
+                                   types listed in reg 7.1.33A. This exemption does not apply if the
+                                   recommendation or statement of opinion relates to specific financial
+                                   products or specific classes of financial product;
+                             (l)   you prepare general advice, as a product issuer, about your own
+                                   product(s), but only where a third party licensee gives the advice to its
+                                   recipients (reg 7.1.33B). In this situation the licensee will be taken to be
+                                   the provider of the financial product advice;
+                             (m)   you provide advice about the existence of a custodial or depository
+                                   service in the circumstances set out in reg 7.1.33E;
+                             (n)   you provide general advice intended to influence a decision on school
+                                   banking and you are employed by a school or provide the service on
+                                   behalf of a school in the circumstances set out in reg 7.1.33F;
+                             (o)   you provide general advice that is not about a particular financial
+                                   product and is not intended to influence a person in making a decision
+                                   about a particular financial product or an interest in a particular
+                                   financial product (or could not reasonably be regarded as being
+                                   intended to have such an influence), and you or your associate does not
+                                   receive any remuneration, commission or other benefit for the advice
+                                   (reg 7.1.33G); or
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                      Page 13
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                             (p)   you provide general advice, as a product issuer, about your own
+                                   products in circumstances where you are not licensed to provide
+                                   financial product advice and, at the time of giving the advice, advise the
+                                   client that you are not licensed, recommend that the client obtain and
+                                   read a copy of the Product Disclosure Statement (PDS) or Short-Form
+                                   PDS for the product before making a decision about the product and
+                                   notify the client about any cooling-off period (reg 7.1.33H).
+
+                                   Note 1: Apart from the circumstances set out in RG 36.34, you will not be providing
+                                   financial product advice if the communication in question falls within an exemption
+                                   listed in RG 36.32. Even if you are providing financial product advice, you may not
+                                   need an AFS licence or authorisation, depending on the circumstances: see Section E,
+                                   especially RG 36.60.
+
+                                   Note 2: The list of circumstances in RG 36.34 that do not amount to financial product
+                                   advice under the Corporations Act is not exhaustive. In determining whether or not your
+                                   conduct constitutes financial product advice you should look at the Corporations Act,
+                                   relevant regulations and ASIC instruments, as well as other ASIC publications. ASIC
+                                   instruments and other ASIC publications are available at www.asic.gov.au.
+
+                                   Note 3: Certain products are subject to specific disclosure regimes. Superannuation
+                                   products, simple managed investment schemes and margin lending facilities are subject
+                                   to a shorter PDS regime. For more information on the shorter PDS regime that applies
+                                   to these products, see Information Sheet 133 Shorter PDS regime: Superannuation,
+                                   managed investment schemes and margin lending (INFO 133). A modified disclosure
+                                   regime also applies to general insurance products: see Pt 7.9 of the Corporations
+                                   Regulations.
+
+
+                             Clerks and cashiers
+
+              RG 36.35       A person’s conduct occurs in the course of work of a kind ordinarily done by
+                             clerks and cashiers (and, therefore, the person does not ‘provide financial
+                             product advice’) if it merely involves:
+                             (a)   posting, handing out, or otherwise distributing or displaying, documents
+                                   such as prospectuses, PDSs, Short-Form PDSs or Financial Services
+                                   Guides (FSGs);
+                             (b)   answering routine questions from consumers by giving factual
+                                   information (see RG 36.23–RG 36.25), such as minimum investment
+                                   amounts of funds accepted, whether a particular offer is still open or the
+                                   nature of investments made by a specific trust;
+                             (c)   collecting payments (e.g. subscription money) and issuing receipts;
+                             (d)   performing the routine or administrative function of assisting
+                                   consumers to complete application forms and send completed
+                                   application forms to the relevant product issuer; or
+
+                                   Note: This applies only where the consumer has already made the decision to acquire
+                                   the financial product. It does not apply where the person helps the consumer make their
+                                   decision to acquire the financial product.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                        Page 14
+                                                  REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                             (e)   performing other routine or administrative functions that do not involve
+                                   a judgement about what financial products, or classes of financial
+                                   products, are appropriate or should be considered by a consumer.
+
+                                   Note: This is not intended to be an exhaustive list of conduct that may fall within
+                                   s766A(3). In interpreting s766A(3), it is important to note that the provision is prefaced
+                                   with the words ‘to avoid doubt’. Licensees must monitor and supervise their clerks and
+                                   cashiers to ensure that the licensee complies with its obligations relating to the provision
+                                   of financial services: see Regulatory Guide 104 Licensing: Meeting the general
+                                   obligations (RG 104) and Regulatory Guide 105 Licensing: Organisational competence
+                                   (RG 105).
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                            Page 15
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+C          What is the meaning of ‘deal in a financial
+           product’?
+
+                               Key points
+
+                               The licensing provisions apply to persons who deal in a financial product.
+
+                               To determine whether you deal in a financial product it is necessary to
+                               consider the following questions:
+                               • What is dealing within the meaning of s766C(1)? (see RG 36.36);
+                               • What is arranging within the meaning of s766C(2)? (see RG 36.37–
+                                 RG 36.40); and
+                               • What conduct is exempt from the definition of dealing? (see RG 36.41).
+
+
+
+
+What is dealing?
+              RG 36.36       The following conduct constitutes dealing in a financial product within the
+                             meaning of s766C(1) (unless the conduct is exempt from the definition of
+                             dealing: see RG 36.41):
+                             (a)   applying for or acquiring a financial product;
+                             (b)   issuing a financial product;
+                             (c)   for securities or managed investment schemes, underwriting the
+                                   securities or interests;
+                             (d)   varying a financial product; or
+                             (e)   disposing of a financial product.
+
+
+
+What is arranging?
+              RG 36.37       Arranging for a person to engage in conduct referred to in RG 36.36 also
+                             constitutes dealing unless:
+                             (a)   the actions concerned amount to providing financial product advice
+                                   (s766C(2)); or
+                             (b)   the conduct is exempt from the definition of dealing—for example, if
+                                   the clerks and cashiers exemption applies (s766A(3)).
+
+              RG 36.38       Arranging refers to the process by which a person negotiates for, or brings
+                             into effect, a dealing in a financial product (e.g. an issue, variation, disposal,
+                             acquisition or application). The person who is arranging may be acting for a
+                             product issuer, seller or consumer.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                   Page 16
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+              RG 36.39       Arranging includes ‘arranging contracts of insurance’ as that expression has
+                             been interpreted in relation to the Insurance (Agents and Brokers) Act 1984
+                             (now repealed). However, arranging is not limited to arranging contracts of
+                             insurance—it extends to all financial products.
+
+              RG 36.40       For further guidance on our approach to arranging, see Section D.
+
+
+
+What conduct is exempt from the definition of dealing?
+              RG 36.41       You are not dealing when:
+                             (a)   you deal on your own behalf, unless you are a product issuer dealing in
+                                   your own products (s766C(3));
+                             (b)   you are a government or local government authority, a public authority
+                                   or instrumentality or agency of the Crown, or a body corporate or an
+                                   unincorporated body, and you deal in your own securities (s766C(4));
+
+                                   Note: A body corporate or an unincorporated body is not exempt under s766C(4) if it is
+                                   an investment company: see s766C(5).
+
+                             (c)   you act as a sub-underwriter (s766C(6));
+                             (d)   your conduct occurs in the course of work of a kind ordinarily done by
+                                   clerks and cashiers (s766A(3): see RG 36.35);
+                             (e)   you arrange for another person to deal in interests in a self-managed
+                                   superannuation fund in the circumstances set out in regs 7.1.29(5)(b)
+                                   and (c) (reg 7.1.29(3)(f));
+                             (f)   you arrange for another person to deal in a financial product by
+                                   preparing a document of registration or transfer in order to complete
+                                   administrative tasks on instruction from the person (reg 7.1.29(3)(g));
+                             (g)   you deal in an insurance product as a necessary or incidental part of
+                                   handling or settling insurance claims or potential claims (reg 7.1.33(2));
+                             (h)   you arrange for the issue or acquisition of a school banking product and
+                                   are employed by a school or provide the service on behalf of a school in
+                                   the circumstances set out in reg 7.1.33F;
+                             (i)   you enforce rights under a credit facility, including under a power of
+                                   attorney (reg 7.1.34(2)(a));
+                             (j)   you dispose of a financial product that is subject to a mortgage or
+                                   transfer such a product to the mortgagor, whether the disposal or
+                                   transfer is carried out at the direction of the mortgagor or occurs as a
+                                   result of the mortgagor fulfilling its obligations under the mortgage
+                                   (reg 7.1.34(2)(b));
+
+                                   Note: Regulations 7.1.34(2)(a) and 7.1.34(2)(b) do not apply to a margin lending
+                                   facility.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                        Page 17
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                             (k)   you deal in a product held on trust for another person and the holding of
+                                   the financial product does not constitute the provision of a custodial or
+                                   depository service under reg 7.1.40 (reg 7.1.35(1)); or
+                             (l)   you are a lawyer and you arrange for a person to deal in a financial
+                                   product or you deal in a financial product as the agent of a client, an
+                                   associate of a client or a relative of a client, and you do so in the
+                                   circumstances set out in reg 7.1.35A.
+
+                                   Note 1: Even if you are dealing, you may not need an AFS licence or authorisation,
+                                   depending on the circumstances: see Section E, especially RG 36.60.
+
+                                   Note 2: The list of circumstances in RG 36.41 that do not amount to dealing under the
+                                   Corporations Act is not exhaustive. In determining whether or not your conduct
+                                   constitutes dealing in a financial product, see the Corporations Act, relevant regulations
+                                   and ASIC instruments, as well as other ASIC publications at www.asic.gov.au.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                           Page 18
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+D          What is the meaning of ‘arranging’?
+
+                               Key points
+
+                               ‘Arranging’ is a broad concept under the Corporations Act. Whether a
+                               person’s activities constitute arranging is a question of degree.
+
+                               This section details the indicators we look for when assessing whether a
+                               person is arranging (see RG 36.45), as well as indicators that conduct may
+                               amount to arranging (see RG 36.46).
+
+                               Some types of conduct are not arranging within the meaning of the
+                               Corporations Act: see RG 36.47. However, this conduct may constitute the
+                               provision of another financial service.
+
+                               The final part of this section contains examples to help determine whether
+                               particular conduct is arranging: see RG 36.55–RG 36.56.
+
+
+
+
+What is arranging?
+              RG 36.42       Arranging is a broad concept under the Corporations Act and its scope has
+                             not been fully determined by the courts. Arranging occurs when a person
+                             brings into effect the issue, variation, disposal or acquisition of, or
+                             application for, a financial product.
+
+              RG 36.43       Your conduct may constitute arranging if:
+                             (a)   your involvement in the chain of events leading to the relevant dealing
+                                   is of sufficient importance that without that involvement the transaction
+                                   would probably not take place (e.g. where you are the main or only
+                                   person consumers deal directly with in a particular transaction);
+                             (b)   your involvement significantly ‘adds value’ for the person for whom
+                                   you are acting; and
+                             (c)   you receive benefits depending on the decisions made by the person for
+                                   whom you are acting.
+
+                                   Note: This is not intended to be an exhaustive list of potentially relevant factors. In
+                                   determining whether you are arranging, the presence (or absence) of any one or more of
+                                   the listed factors is not conclusive.
+
+              RG 36.44       As an example, the activities of an order router will generally involve
+                             arranging (i.e. where a service provider takes steps to bring into effect an
+                             acquisition or disposal of a financial product, albeit that another intermediary
+                             is also involved in the process and executes the customer’s order). On the
+                             other hand, the operator of a business introduction service will probably not
+                             be arranging where the operator does not play a significant role and does not
+                             benefit from investment decisions made by consumers.
+
+
+
+Australian Securities and Investments Commission June 2016                                                        Page 19
+                                                  REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+              RG 36.45       Table 2 shows what we look for when assessing whether a person is
+                             arranging, to assist you in understanding our approach. Ultimately, whether a
+                             person’s activities constitute arranging is a question of degree.
+
+Table 2:     Indicators of arranging
+
+ Indicator                     Behaviours that exemplify this conduct
+
+ The intermediary plays        The consumer communicates with the intermediary as a key person about the
+ an important role for the     transaction
+ consumer in relation to
+ the financial product and
+ the transaction probably
+ would not have
+ proceeded without the
+ intermediary’s
+ involvement
+
+ The intermediary adds         The intermediary negotiates the terms of the financial product between the product
+ value for one or more of      issuer and the consumer. Generally, the more active the intermediary is in
+ the parties to the            facilitating the transaction between a consumer and a product issuer, the more
+ transaction                   likely their activity is to be arranging
+
+
+              RG 36.46       Table 3 shows indicators that particular conduct may amount to arranging,
+                             especially when they occur alongside other activities. Ordinarily, one of
+                             these indicators alone would not amount to arranging.
+
+Table 3:     Indicators that conduct may amount to arranging
+
+ Indicator                     Behaviours that may exemplify this conduct
+
+ The collection and            The intermediary receives money and passes it on to the product issuer to pay for
+ transmission of money         the acquisition of a financial product
+
+ Receipt of benefits based     The intermediary is paid by the product issuer if a person purchases a financial
+ on sales.                     product. The receipt of benefits is an indication of the intermediary’s motivation to
+                               effect a transaction and may suggest a more active involvement by the
+                               intermediary in the completion of the transaction
+                                 Note: This kind of benefit could amount to conflicted remuneration if the intermediary is
+                                 providing financial product advice to a retail client and would be banned unless it falls
+                                 under an exclusion, such as benefits for advice on some basic banking products. See
+                                 Regulatory Guide 246 Conflicted remuneration (RG 246) for more information.
+
+
+
+
+What is not arranging?
+              RG 36.47       The conduct listed and described in RG 36.48–RG 36.54 is not arranging
+                             within the meaning of the Corporations Act. However, it is important to note
+                             that this conduct may constitute the provision of another financial service.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                            Page 20
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                             Dealing in a financial product as principal
+
+              RG 36.48       Dealing in financial products in your own name is not arranging. In most
+                             cases, dealing as principal does not require a licence: see s766C(3)–(5).
+
+
+                             Dealing in a financial product as agent
+
+              RG 36.49       When you are dealing as agent you are not arranging. Dealing as agent
+                             includes issuing, applying for, acquiring or disposing of a financial product
+                             in a second person’s name where you have power to bind that second person.
+                             Example 1 sets out when an agent may require an AFS licence or
+                             authorisation from an AFS licensee.
+
+                               Example 1: Dealing in a financial product as agent
+
+                               Scenario
+
+                               A consumer appoints a real estate professional (the agent) to manage a
+                               rental property on the consumer’s behalf. As part of this arrangement, the
+                               agent has the power to bind the consumer in relation to a number of
+                               transactions, including acquiring insurance for loss of income should the
+                               rental property become vacant (usually by organising the insurance cover
+                               and paying the premium out of the rent account managed by the real estate
+                               agent).
+
+                               Commentary
+
+                               Here, the agent has acquired a financial product (general insurance) as
+                               agent for the consumer, and the agent would need a licence with an
+                               authorisation to deal (by acquiring a financial product) on behalf of another,
+                               or be authorised to provide that service on behalf of a licensee with the
+                               relevant authorisation.
+
+                               A person acting as agent may also engage in conduct that amounts to
+                               arranging. The licence authorisation to ‘deal on behalf of another’ also
+                               covers arranging activities.
+
+
+                             Making a recommendation or statement of opinion about a
+                             financial product
+
+              RG 36.50       Where conduct amounts to the provision of financial product advice, that
+                             conduct is not arranging: see s766C(2). This will occur where your conduct
+                             is intended to influence a decision about a financial product or if it could be
+                             reasonably construed as such: see s766B.
+
+
+                             Merely providing purely factual information
+
+              RG 36.51       Providing a person with information that is objectively ascertainable (i.e.
+                             information whose truth or accuracy cannot be reasonably questioned) is
+                             unlikely to constitute arranging.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                   Page 21
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                                   Note: See Section B of RG 244 for more guidance on providing factual information.
+
+
+                             Acting within the scope of the clerks and cashiers
+                             exemption
+
+              RG 36.52       The clerks and cashiers exemption is set out in s766A(3): see RG 36.35. This
+                             kind of work is generally of a merely routine and administrative nature or a
+                             merely processing or receipting nature. It does not generally require
+                             technical competence or skills. This conduct is of a kind that typically is
+                             carried on by individual staff members, rather than by corporations or other
+                             operators of businesses.
+
+              RG 36.53       We consider that, in the case of a corporation or a business, the aggregation
+                             of the individual clerical activities carried out within that economic entity
+                             may (in many, but not all, cases) amount to a financial services business of
+                             dealing, arranging and/or advising, even if each individual clerical activity is
+                             itself exempt under s766A(3).
+
+
+                             Operating a market or a licensed clearing and settlement
+                             facility
+
+              RG 36.54       Operating a market may constitute arranging and/or dealing; however, a
+                             person who provides a service that is (or that is provided incidentally to) the
+                             operation of a licensed market is exempt: see s911A(2)(d). Operating a
+                             licensed clearing and settlement facility is also exempt. If your arranging
+                             activity involves the operation of a financial market, you will need to comply
+                             with Pt 7.2: see Regulatory Guide 172 Australian market licences:
+                             Australian operators (RG 172).
+
+
+
+Examples of our approach to determining what is arranging
+              RG 36.55       The examples in Table 4 illustrate our general approach to determining
+                             whether particular activities constitute arranging.
+
+Table 4:     Examples to help determine whether particular activities are arranging
+
+ Example                       Scenario                                     Commentary
+
+ Completing an                 You assist a consumer to complete an         Without any further actions, this is likely
+ application form              application form for a financial product     to be merely processing at the direction
+                               by pointing out where the consumer           of the consumer and unlikely to be
+                               should complete their details on a form,     arranging.
+                               or typing those details into an electronic
+                               form (e.g. the details of the client’s
+                               name and address).
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                      Page 22
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+ Example                       Scenario                                    Commentary
+
+ Completing an                 You assist a consumer to complete an        Without any further actions, this is likely
+ application form with         application form by explaining the          to be merely processing at the direction
+ explanation                   meaning of questions on the form or         of the consumer and unlikely to be
+                               suggesting answers to those questions.      arranging.
+                               Where the form involves a choice, you
+                               guide the consumer in their choice.
+
+ Displaying brochures          You display brochures and advertising       Without any further actions, you are
+ and advertising               literature for another person’s products.   unlikely to be arranging, as your
+ literature for another        You have no other role in relation to       conduct does not provide a sufficiently
+ person’s products             these products.                             close connection in facilitating any
+                                                                           subsequent transaction between the
+                                                                           consumer and product issuer. In this
+                                                                           instance the consumer independently
+                                                                           decides whether to purchase the
+                                                                           advertised product. This is the case
+                                                                           whether or not you actively refer the
+                                                                           consumer to the existence of the
+                                                                           advertising material.
+
+ Forwarding brochures          You forward brochures and advertising       You are not likely to be arranging if you
+ and advertising               literature for another person’s products.   merely direct the consumer to the
+ literature for another        You have no other role in relation to       product issuer and you have nothing
+ person’s products             these products.                             further to do with the transaction.
+
+ Displaying or                 You display brochures and advertising       Without any further actions, you are not
+ forwarding brochures          literature for another person’s financial   likely to be arranging.
+ and receiving benefits        products, or forward that material to
+                               consumers, and you receive benefits
+                               based on sales of the financial products
+                               attributable to you.
+
+ Forwarding brochures          You forward brochures and advertising       You are more likely to be arranging as
+ with your contact             literature for another person’s products    you are taking on a more active role in
+ details                       to consumers and you include                bringing into effect a dealing in a
+                               instructions for consumers to contact       financial product. One reason for this is
+                               you if they wish to acquire the product.    that the transaction would be less likely
+                                                                           to occur if you had not been involved
+                                                                           (because you are likely to be a key
+                                                                           person with whom the consumer
+                                                                           communicates about the particular
+                                                                           transaction)
+
+ Displaying advertising        You display advertising material relating   When this conduct is viewed as a whole
+ material and receiving/       to the insurance product, you receive       it is highly likely to amount to arranging
+ transmitting premium          the premium for the insurance product
+                               and transmit that premium to the
+                               relevant insurance company
+
+ Providing direct access       You provide a computer or telephone         Without further action, this is not likely
+ to a product issuer           on your premises so a consumer can          to be arranging. This is the case
+                               contact a product issuer directly.          whether or not you actively refer the
+                                                                           person to the existence of the link to a
+                                                                           product issuer.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                      Page 23
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+ Example                       Scenario                                    Commentary
+
+ Providing direct access       You provide a computer as an internet       You are not likely to be arranging, as
+ to a product issuer           link between the consumer and the           this is merely a processing task which
+                               product issuer. Either the consumer or      the consumer could have done
+                               a clerk enters the consumer’s details       themselves on their own computer.
+                               and their credit card details to pay for
+                               the product. The consumer acquires the
+                               product when the computer notifies that
+                               payment has been accepted.
+
+ Providing direct access       You provide a computer as a special         You are likely to be arranging, as you
+ to a product issuer           direct link between the consumer and        have a sufficiently close connection
+                               the product issuer. The link cannot be      with the completion of the relevant
+                               accessed in any way apart from              transaction. The transaction is unlikely
+                               through your business.                      to occur without that special link. In this
+                                                                           example, the activities of your business
+                                                                           (which are likely to amount to
+                                                                           arranging) should not be confused with
+                                                                           the activities of individual staff members
+                                                                           who undertake some of the routine or
+                                                                           administrative activities that would fall
+                                                                           within the scope of the clerks and
+                                                                           cashiers exemption (and would not be
+                                                                           arranging).
+
+ Payment facilities            A financial intermediary offers a general   Without further action, this is not likely
+                               purpose facility for making payments        to be arranging for the purpose of the
+                               that can be used to purchase                end-product. Your bank is not arranging
+                               insurance.                                  for you to purchase insurance merely
+                                                                           because it pays an insurer on a cheque
+                                                                           you write or it makes available a facility
+                                                                           for electronic transfer of funds to the
+                                                                           insurer.
+
+
+              RG 36.56       Example 2 sets out the type of different activities that, although they
+                             individually do not constitute arranging, when taken together are highly
+                             likely to constitute arranging.
+
+                               Example 2: Collection and transmission of money
+
+                               Scenario
+
+                               A travel agency business organises the travel insurance for its clients (by
+                               having travel insurance brochures on the front desk and assisting the
+                               consumer to fill in the application form). The travel agent is paid the
+                               premium that the travel agency then forwards to a product issuer.
+
+                               Commentary
+
+                               The travel agency business is highly likely to be arranging. Where you
+                               receive money and pass it on to the product issuer to pay for the
+                               acquisition of a financial product and you combine this activity with other
+                               conduct that relates to the dealing in that product, even though that activity
+                               might not by itself be arranging, those activities in combination are highly
+
+
+
+Australian Securities and Investments Commission June 2016                                                     Page 24
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                               likely to be arranging. This is because the travel agency business is taking
+                               on a role where its involvement is fundamental to the finalisation of the
+                               relevant transaction. We consider that the consumer protection protections
+                               afforded by the AFS licensing regime are intended to apply where
+                               intermediaries are collecting and transmitting money on behalf of other
+                               parties.
+
+                               The activities of the travel agency should not be confused with the activities
+                               of the individual clerk or cashier who actually receives the money on behalf
+                               of the agency. The mere receipt of money is work ordinarily done by clerks
+                               and cashiers and should be distinguished from the collection and
+                               transmission of money on behalf of third parties, which requires additional
+                               skill and a system within the organisation as a whole. In this example, the
+                               travel agency business is highly likely to need a licence with an
+                               authorisation to deal by arranging, or be authorised to arrange general
+                               insurance products on behalf of a licensee with the relevant authorisation.
+                               Individual staff members may require an authorisation if the conduct they
+                               engage in extends beyond mere receipting and includes arranging.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                   Page 25
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+E          What obligations apply to providers of financial
+           services?
+
+                               Key points
+
+                               If you provide a financial service you may need to hold an AFS licence: see
+                               RG 36.57–RG 36.58.
+
+                               To determine whether you need to hold an AFS licence to provide a
+                               financial service it is necessary to consider the following questions:
+                               • When do you satisfy the business test? (see RG 36.59); and
+                               • Does an exemption from the requirement to hold an AFS licence apply?
+                                 (see RG 36.60–RG 36.93).
+
+                               Licensees must comply with the various obligations, including the general
+                               licensee obligations set out in s912A and 912B: see RG 36.94–RG 36.100.
+
+                               If you provide financial services as a representative of a licensee, you may
+                               need to hold an authorisation from that licensee: see RG 36.101–RG 36.104.
+
+                               Some obligations in the law apply directly to representatives: see RG 36.105.
+
+
+
+
+The need to hold an AFS licence
+              RG 36.57       You will need to hold an AFS licence if you carry on a financial services
+                             business in this jurisdiction, unless an exemption in s911A(2) (or regulations
+                             made for the purposes of that provision) applies. For example, due to the
+                             exemption in s911A(2)(a), you do not need an AFS licence to provide
+                             financial services as a representative of a licensee.
+
+              RG 36.58       In the absence of an exemption, you will need to hold an AFS licence
+                             whether you provide financial services to retail or wholesale clients
+                             (provided the business test is satisfied).
+
+
+
+When do you satisfy the business test?
+              RG 36.59       The business test is satisfied where a person provides financial services with
+                             system, repetition and continuity. Paragraph 11.5 of the Explanatory
+                             Memorandum to the Financial Services Reform Bill 2001 states that ‘one-off
+                             transactions relating to the provision of financial services and financial
+                             products are unlikely to be caught by the new regime’. There is no
+                             requirement for a profit motive for the business test to be satisfied.
+
+                                   Note: For more guidance on the business test, see Regulatory Guide 121 Doing
+                                   financial services business in Australia (RG 121).
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                        Page 26
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+Does an exemption from the requirement to hold an AFS licence
+apply?
+
+                             Exemptions under s911A(2)
+
+              RG 36.60       The exemptions from the requirement to hold an AFS licence are set out in
+                             s911A(2) and regulations made for the purposes of that provision.
+                             RG 36.63–RG 36.88 set out the circumstances in which you do not need to
+                             hold an AFS licence.
+
+              RG 36.61       You need to consider this list of exemptions only if you are providing a
+                             financial service. If you are not providing a financial service, you do not
+                             need to hold an AFS licence.
+
+              RG 36.62       This list of exemptions is not exhaustive. To determine whether or not your
+                             conduct is exempt from the requirement to hold an AFS licence, see the
+                             Corporations Act, relevant regulations and ASIC instruments, as well as
+                             other ASIC publications at www.asic.gov.au.
+
+                             Representatives of licensees
+
+              RG 36.63       If you provide financial services as a representative of a licensee (or as a
+                             representative of a person exempt from the requirement to hold an AFS
+                             licence), you do not need to hold an AFS licence: see s911A(2)(a). See
+                             RG 36.90–RG 36.93 for more information.
+
+                                   Note: For more information on the application of the exemption in s911A(2)(a) to
+                                   trustees issuing, varying or disposing of interests in unregistered managed investment
+                                   schemes that are financial products, see Information Sheet 251 AFS licensing
+                                   requirement for trustees of unregistered managed investment schemes (INFO 251).
+
+
+                             Product providers
+
+              RG 36.64       If you are a product provider who issues, varies or disposes of a financial
+                             product under an arrangement with a licensee as specified in s911A(2)(b),
+                             you do not need to hold an AFS licence.
+
+                                   Note: For more information on the application of the exemption in s911A(2)(b) to
+                                   trustees issuing, varying or disposing of interests in unregistered managed investment
+                                   schemes that are financial products, see INFO 251.
+
+
+                             Product issuers
+
+              RG 36.65       You do not need to hold an AFS licence if you are a product issuer who
+                             varies or disposes of a financial product at the direct request of the product
+                             holder (rather than through an intermediary): see s911A(2)(c). An AFS
+                             licence is also not required for providing general advice in the media in the
+                             circumstances set out in reg 7.6.01(1)(o).
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                         Page 27
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                             Providing general advice
+
+              RG 36.66       You do not need to hold an AFS licence if you provide general advice:
+                             (a)   by publishing a newspaper or periodical that is generally available to
+                                   the public (otherwise than only on subscription) and where the sole or
+                                   principal purpose of the newspaper or periodical is not the provision of
+                                   financial product advice (s911A(2)(ea));
+                             (b)   in transmissions made by means of an information service where the
+                                   transmissions are generally available to the public and where the sole or
+                                   principal purpose of the transmissions is not the provision of financial
+                                   product advice (s911A(2)(eb)); or
+                             (c)   in sound recordings, video recordings or data recordings that are made
+                                   publicly available and where the sole or principal purpose of the
+                                   recordings is not the provision of financial product advice
+                                   (s911A(2)(ec)).
+
+                                   Note: The media exemptions referred to in RG 36.66 are subject to a condition
+                                   concerning the disclosure of remuneration and pecuniary or other interests set out in
+                                   reg 7.6.01B.
+
+
+                             Wholesale clients
+
+              RG 36.67       If you provide the service only to wholesale clients and you are a body
+                             regulated by the Australian Prudential Regulation Authority (APRA) and the
+                             service is one for which APRA has regulatory or supervisory responsibilities
+                             (s911A(2)(g)), you do not need to hold an AFS licence. Similarly, if you are
+                             regulated by an overseas regulatory authority, and the provision of the
+                             service is covered by an exemption specified by ASIC (s911A(2)(h)), you do
+                             not need to hold an AFS licence.
+
+                                   Note: For information about our approach to applications under this provision, see
+                                   Regulatory Guide 176 Licensing: Discretionary powers—Wholesale foreign financial
+                                   services providers (RG 176).
+
+
+                             Dealing in a financial product
+
+              RG 36.68       You do not need to hold an AFS licence if you deal in a financial product in
+                             the capacity of trustee of a non-public offer superannuation entity
+                             (reg 7.6.01(1)(a)) or a pooled superannuation trust (PST) where:
+                             (a)   the PST is not used for the investment of assets of a regulated
+                                   superannuation fund (reg 7.6.01(1)(d));
+                             (b)   the regulated superannuation fund investing its assets in the PST has net
+                                   assets of at least $10 million (reg 7.6.01(1)(b)); or
+                             (c)   the regulated superannuation fund investing its assets in the PST has net
+                                   assets of at least $5 million where you reasonably expect that the
+                                   superannuation fund will have net assets of at least $10 million within
+                                   three months (reg 7.6.01(1)(c));
+
+
+
+Australian Securities and Investments Commission June 2016                                                          Page 28
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+              RG 36.69       If you are a trustee of a superannuation fund dealing in a financial product
+                             only by paying the benefits of a member into a superannuation product or
+                             retirement savings account (RSA) product (reg 7.6.01(1)(ha)), you do not
+                             need to hold an AFS licence.
+
+              RG 36.70       You do not need to hold an AFS licence if you are an employer-sponsor
+                             dealing in a financial product only by:
+                             (a)   paying contributions on behalf of an employee into a superannuation
+                                   product or RSA product (reg 7.6.01(1)(h)); or
+                             (b)   arranging for the issue of a superannuation product to an employee
+                                   (reg 7.6.01(1)(hc));
+
+              RG 36.71       If you are an RSA provider dealing in a financial product only by paying the
+                             benefits of an RSA product holder into a superannuation product or RSA
+                             product (reg 7.6.01(1)(hb)), you do not need to hold an AFS licence.
+
+                             Referrals
+
+              RG 36.72       You do not need to hold an AFS licence if you provide a financial service
+                             that consists only of a referral—that is:
+                             (a)   informing another person that a licensee (or one of its representatives) is
+                                   able to provide a particular financial service or class of financial
+                                   services; and
+                             (b)   giving that other person contact details for the licensee or
+                                   representative.
+
+              RG 36.73       Unless you are a representative of the licensee (or a related body corporate
+                             of the licensee), you must disclose any benefits (including commission) that
+                             you (and your associates) are to receive in respect of, or that are attributable
+                             to, the service: regs 7.6.01(1)(e) and 7.6.01(1)(ea).
+
+                             Sub-custodians
+
+              RG 36.74       If you provide the service as a sub-custodian in the circumstances set out in
+                             reg 7.6.01(1)(k), you do not need to hold an AFS licence.
+
+                             Non-cash payment systems
+
+              RG 36.75       You do not need to hold an AFS licence if you advise other persons about,
+                             and arrange for the use of, non-cash payment facilities in the ordinary course
+                             of your business, but only if you do not provide financial services as a
+                             significant part of your business (reg 7.6.01(1)(l)).
+
+                                   Note: See also regs 7.6.01(1)(la), 7.6.01(lb) and 7.6.01(lc) and ASIC Corporations
+                                   (Non-cash Payment Facilities) Instrument 2016/211 for other licensing exemptions for
+                                   the provision of financial services in relation to non-cash payment facilities.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                      Page 29
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                             Dealing on your own behalf
+
+              RG 36.76       You do not need to hold an AFS licence if you deal on your own behalf in
+                             (but do not make a market in) derivatives or foreign exchange contracts for
+                             the purpose of managing a financial risk that arises in the ordinary course of
+                             a business, but only if you do not deal in derivatives or foreign exchange
+                             contracts as a significant part of your business (reg 7.6.01(1)(m)).
+
+                             Dealing in regulated emissions units
+
+              RG 36.77       You do not need to hold an AFS licence if you deal in regulated emissions
+                             on your own behalf (e.g. acquiring regulated emissions units for your own
+                             use). This does not constitute dealing and is not an activity that requires an
+                             AFS licence (s766C(3)). However, this exemption does not extend to
+                             dealings that involve the issue of derivatives over emissions units. When two
+                             parties enter into a derivative contract, both are considered to be issuing a
+                             financial product. Both parties may require a licence, if they are carrying on
+                             a financial services business.
+
+                                   Note: See also reg 7.6.01(1)(ma) for the circumstances in which dealing in regulated
+                                   emissions units or their derivatives is exempt. For more guidance on AFS licensing
+                                   exemptions for types of dealings in regulated emissions units by particular entities, see
+                                   Section E of Regulatory Guide 236 Do I need an AFS licence to participate in carbon
+                                   markets?
+
+
+                             Takeover bids or offers
+
+              RG 36.78       If you provide advice in a document that is issued in connection with a
+                             takeover bid or an offer of a financial product and the advice relates to matters
+                             other than financial products (e.g. a geologist’s report) in the circumstances set
+                             out in reg 7.6.01(1)(u), you do not need to hold an AFS licence.
+
+                             Nominee companies
+
+              RG 36.79       You do not need to hold an AFS licence if you are a nominee company that
+                             is a wholly owned subsidiary of a licensed market participant and you hold a
+                             financial product, or the beneficial interest in a financial product, on trust for
+                             a client of the participant in the circumstances set out in reg 7.6.01(1)(v).
+
+                             Entities located and providing financial services outside Australia
+
+              RG 36.80       You do not need to hold an AFS licence if you are located and provide a
+                             financial service outside Australia to a person who is an Australian citizen or
+                             resident in Australia and you do not engage in conduct that is intended to or
+                             likely to induce people in Australia to use the service: reg 7.6.02AG, which
+                             inserts s911A(2A) into the Corporations Act.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                           Page 30
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+              RG 36.81       Similarly, you do not need to hold an AFS licence if you provide the
+                             financial service to another person and you:
+                             (a)   believe on reasonable grounds that the person to whom you are
+                                   providing the financial service is also not located in Australia;
+                             (b)   are a participant in a financial market in Australia that is licensed under
+                                   s795B(2); and
+                             (c)   provide a financial service that relates to a financial product traded on
+                                   the licensed market (reg 7.6.02AG, which inserts s911A(2B) into the
+                                   Corporations Act).
+
+              RG 36.82       You will also not need to hold an AFS licence if you provide the financial
+                             service to another person who holds an AFS licence, or is exempt from the
+                             requirement to hold a licence under s911A(2)(h), and is not, in relation to the
+                             service:
+                             (a)   acting as a trustee;
+                             (b)   acting as a responsible entity of a registered managed investment
+                                   scheme; or
+                             (c)   otherwise acting on someone else’s behalf (reg 7.6.02AG, which inserts
+                                   s911A(2C) into the Corporations Act).
+
+              RG 36.83       If you are providing the financial service to another person in Australia and
+                             the service relates to a financial product acquired while the person was not in
+                             Australia or on the application or enquiry of the person and you do not
+                             actively solicit the person or persons in Australia in relation to financial
+                             products (reg 7.6.02AG, which inserts s911A(2D) into the Corporations
+                             Act), you will not need to hold an AFS licence.
+
+              RG 36.84       You do not need to hold an AFS licence if you are providing the financial
+                             service to another person who is a professional investor and the service
+                             consists only of any or all of the following:
+                             (a)   dealing in derivatives or foreign exchange contracts;
+                             (b)   providing advice on derivatives or foreign exchange contracts; or
+                             (c)   making a market in derivatives or foreign exchange contracts
+                                   (reg 7.6.02AG, which inserts s911A(2E) into the Corporations Act).
+
+                             Eligible employee share schemes
+
+              RG 36.85       If you are giving general advice in connection with an eligible employee
+                             share scheme and you are the issuer of the financial products covered by the
+                             scheme (e.g. you are the employer) or an entity controlled by the issuer
+                             (s911A(2)(ed)), you do not need to hold an AFS licence.
+
+                                   Note: Eligible employee share scheme is defined in s9 of the Corporations Act.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                          Page 31
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+              RG 36.86       You do not need to hold an AFS licence if you are dealing in a financial
+                             product in connection with an eligible employee share scheme where:
+                             (a)   the scheme requires that any purchase or disposal of the financial
+                                   product under the scheme occurs through either an AFS licensee or a
+                                   foreign entity licensed to deal in their own country; and
+                             (b)   you are the issuer of the financial products covered by the scheme (e.g.
+                                   you are the employer) or an entity controlled by the issuer
+                                   (s911A(2)(ee)).
+
+              RG 36.87       You do not need to hold an AFS licence if you are providing a custodial or
+                             depository service dealing in a financial product in connection with an
+                             eligible employee share scheme and you are the issuer of the financial
+                             products covered by the scheme (e.g. you are the employer) or an entity
+                             controlled by the issuer: see s911A(2)(ef).
+
+              RG 36.88       If you are dealing in an interest in a contribution plan that you operate in
+                             relation to an eligible employee share scheme and you are the issuer of the
+                             financial products covered by the scheme (e.g. you are the employer) or an
+                             entity controlled by the issuer (s911A(2)(eg)), you do not need to hold an
+                             AFS licence.
+
+                             Power to exempt
+
+              RG 36.89       We have the power to exempt a person or a class of persons from the need to
+                             hold an AFS licence for conduct that amounts to the provision of a financial
+                             service. See Regulatory Guide 167 Licensing: Discretionary powers (RG
+                             167) for details about how we might use our exemption power.
+
+
+                             Factors to consider to determine whether you are acting as
+                             a principal or representative
+
+              RG 36.90       In order to determine whether the exemption from the requirement to hold an
+                             AFS licence in s911A(2)(a) applies, you need to consider whether you are
+                             acting as a principal or as a representative of a principal. The exemption
+                             applies only if you are acting as a representative of a principal.
+
+              RG 36.91       You may be acting as a principal and not as a representative if:
+                             (a)   your conduct is not monitored and supervised by someone else;
+                             (b)   you hold out that you are a principal;
+                             (c)   your conduct is not covered by anyone else’s compensation
+                                   arrangements (e.g. professional indemnity insurance);
+                             (d)   client assets are held in an account in your name;
+                             (e)   clients are directed to pay any fees owing for the provision of financial
+                                   services to you or into an account in your name;
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                   Page 32
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                             (f)   you receive commissions directly from product issuers; and
+                             (g)   you have ownership of, access to, or liability for, client information.
+
+                                   Note: This is not intended to be an exhaustive list of potentially relevant factors. In
+                                   determining whether you are acting as a principal, the presence (or absence) of any one
+                                   or more of the listed factors is not conclusive.
+
+              RG 36.92       You may handle money without being treated as a principal; specifically,
+                             when you perform purely administrative or mechanical functions, such as
+                             accepting and banking cheques drawn in favour of a licensee or accepting
+                             and depositing insurance premiums in an insurance broker’s trust account.
+
+              RG 36.93       You will not be holding yourself out to be a principal merely by placing your
+                             name on your business documentation (such as letterhead, business cards
+                             and promotional material) provided:
+                             (a)   the documentation makes it clear that you are acting as a representative
+                                   of a licensee (and not as a principal); and
+                             (b)   the licensee for whom you act is clearly disclosed.
+
+                                   Note: It is also important to ensure that the documentation is not confusing or
+                                   misleading to consumers.
+
+
+
+
+What obligations are imposed on licensees?
+
+                             General licensee obligations
+
+              RG 36.94       If you are a licensee you must comply with the obligations set out in s912A
+                             and 912B, which may be summarised as follows. You must:
+                             (a)   do all things necessary to ensure that the financial services covered by
+                                   the AFS licence are provided efficiently, honestly and fairly;
+                             (b)   have adequate arrangements in place to manage your conflicts of interest;
+                             (c)   comply with your AFS licence conditions;
+                             (d)   comply with the financial services laws;
+                             (e)   take reasonable steps to ensure that your representatives comply with
+                                   the financial services laws;
+                             (f)   have available adequate resources;
+                             (g)   maintain the competence to provide the financial services;
+                             (h)   adequately train your representatives and ensure that they are competent
+                                   to provide the financial services;
+                             (i)   have a dispute resolution system that satisfies s912A(2) where financial
+                                   services are provided to retail clients;
+                             (j)   have adequate risk management systems; and
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                           Page 33
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                             (k)   have compensation arrangements where financial services are provided
+                                   to retail clients. The type of compensation arrangement that a licensee
+                                   must have is set out in s912B, which is affected by regs 7.6.02AA and
+                                   7.6.02AAA.
+
+                                   Note 1: RG 36.94(f) and RG 36.94(j) do not apply if the licensee is a body regulated by APRA
+                                   within the meaning of s3(2) of the Australian Prudential Regulation Authority Act 1998.
+
+                                   Note 2: For information about how to comply with these obligations, see our other
+                                   regulatory guides on licensing under ‘Related information’.
+
+              RG 36.95       The licensee remains ultimately responsible for all the financial services
+                             provided under its AFS licence, regardless of how those services are provided.
+
+
+                             Conduct and disclosure obligations
+
+              RG 36.96       Licensees must also comply with various obligations under the Corporations
+                             Act and other financial services laws, including (but not limited to):
+                             (a)   various obligations in Pt 7.6, including the obligation to notify us of
+                                   reportable situations, the obligation to provide us with assistance and
+                                   the obligation to quote the AFS licence number in documents under
+                                   s912F;
+                                   Note 1: Section 912DAA sets out the obligation to notify ASIC of reportable situations.
+                                   For guidance on complying with this obligation, see Regulatory Guide 78 Breach
+                                   reporting by AFS licensees and credit licensees (RG 78).
+
+                                   Note 2: For details about the obligation to cite AFS licence numbers in documents, see
+                                   s912F and reg 7.6.01C.
+
+                             (b)   the financial services disclosure obligations in Pt 7.7 where the licensee
+                                   is the providing entity. This includes an obligation, in most
+                                   circumstances, for the providing entity to give an FSG where the
+                                   financial service is being provided to a retail client (s941A);
+                                   Note: For information about complying with the FSG and other disclosure obligations
+                                   in Pt 7.7, see RG 175.
+
+                             (c)   the further financial services conduct obligations set out in Pt 7.8;
+                             (d)   some product disclosure obligations under Ch 6D (in the case of
+                                   securities) or Pt 7.9 (in other cases);
+                                   Note: For further information about complying with the product disclosure obligations
+                                   in Pt 7.9 and how we will approach applications for relief, see our regulatory guides on
+                                   disclosure under ‘Related information’.
+
+                             (e)   the market misconduct and other prohibited conduct provisions in
+                                   Pt 7.10; and
+                             (f)   the consumer protection provisions of the Australian Securities and
+                                   Investments Commission Act 2001 (ASIC Act).
+
+                                   Note: Some of these obligations also apply to persons other than licensees.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                          Page 34
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                             Additional obligations: Financial product advice
+
+              RG 36.97       There are additional obligations under Pts 7.7 and 7.7A where the providing
+                             entity or advice provider provides financial product advice to retail clients.
+                             These obligations vary depending on whether the advice is personal advice
+                             or general advice. Personal advice is financial product advice given or
+                             directed to a person (including by electronic means) in circumstances where:
+                             (a)   the advice provider has considered one or more of the person’s
+                                   objectives, financial situation and needs; or
+                             (b)   a reasonable person might expect the provider to have considered one or
+                                   more of those matters (s766B(3)).
+
+                             All other financial product advice is general advice.
+
+                                   Note 1: The definition of ‘financial product advice’ is set out in RG 36.19.
+
+                                   Note 2: For further information about the distinction between personal and general
+                                   advice, see Section B of RG 175.
+
+              RG 36.98       Generally, if you are the providing entity and the financial service is the
+                             provision of personal advice to a retail client, you must give the client a
+                             Statement of Advice: see s946A.
+
+              RG 36.99       Generally, if you are the advice provider and the financial service is the
+                             provision of personal advice to a retail client, you must:
+                             (a)   act in the best interests of your client (s961B);
+                             (b)   provide the client with appropriate advice (s961G);
+                             (c)   warn the client if the advice is based on incomplete or inaccurate
+                                   information (s961H); and
+                             (d)   where there is a conflict with their own interests, or those of one of their
+                                   related parties, prioritise the client’s interests (s961J).
+
+                                   Note: For further information about complying with these additional obligations, see
+                                   Sections D and E of RG 175.
+
+              RG 36.100      If the advice is general advice, you do not need to comply with the
+                             obligations referred to in RG 36.98–RG 36.99. However, if general advice is
+                             provided to a retail client, the providing entity must warn the client that the
+                             advice does not take account of the client’s objectives, financial situation or
+                             needs: see s949A.
+
+                                   Note 1: For further information about complying with this obligation, see Section B of
+                                   RG 175.
+
+                                   Note 2: We have granted relief to simplify the warning where oral general advice is
+                                   provided to a retail client. See ASIC Corporations (General Advice Warning)
+                                   Instrument 2015/540.
+
+                                   Note 3: We have granted relief so that no general advice warning is required where a
+                                   product issuer gives general financial product advice in advertisements. See ASIC
+
+
+
+Australian Securities and Investments Commission June 2016                                                        Page 35
+                                                  REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                                   Corporations (Advertising by Product Issuers) Instrument 2015/539. The relief in this
+                                   legislative instrument is not restricted to a particular form of advertising.
+
+
+
+
+When do representatives need to hold an authorisation?
+              RG 36.101      In general, if you provide financial services in this jurisdiction as a
+                             representative of another person (a principal), you need to hold an
+                             authorisation under the Corporations Act from that principal (who must in
+                             general hold an AFS licence). You do not need to hold an authorisation if
+                             you:
+                             (a)   are not providing financial services;
+                             (b)   are an employee or director of the principal (or a related body corporate
+                                   of the principal) and the principal holds an AFS licence and the other
+                                   requirements of s911B(1)(a) are satisfied;
+                             (c)   are an employee of an authorised representative of the principal, but
+                                   only if the principal holds an AFS licence, the other requirements of
+                                   s911B(1)(c) are satisfied and the financial service is the provision of a:
+                                   (i)     basic deposit product;
+                                   (ii)    facility for making non-cash payments that is related to a basic
+                                           deposit product; or
+                                   (iii)   travellers’ cheque;
+                             (d)   you are a licensee providing the financial service under your own AFS
+                                   licence (s911B(1)(d) and 911B(3)); or
+
+                                   Note: As a licensee you cannot be the authorised representative of another licensee
+                                   except in relation to a binder: see s916D and 916E.
+
+                             (e)   provide financial services that would be exempt under s911A(2) if they
+                                   were instead provided by the principal (s911B(1)(e)).
+
+              RG 36.102      Accordingly, if you provide financial services as a representative of a
+                             licensee, you will generally need to hold an authorisation from that licensee
+                             (unless you are an employee or director of that licensee or a related body
+                             corporate).
+
+              RG 36.103      We have given relief to allow licensees who are authorised to deal in basic
+                             deposit and general insurance products to appoint distributors to deal in these
+                             products on their behalf without the need to appoint the distributors as
+                             authorised representatives. However, those distributors must still be
+                             authorised by the licensee in writing: see ASIC Corporations (Basic Deposit
+                             and General Insurance Product Distribution) Instrument 2015/682.
+
+              RG 36.104      Under s766A(4) a person is not regarded as operating a registered scheme
+                             merely because they act as an agent or employee of another person who
+                             does. This means that if an agent of the operator of a registered scheme
+
+
+
+Australian Securities and Investments Commission June 2016                                                         Page 36
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                             merely acts in connection with the operation of the scheme, and does not
+                             provide a financial service of a type referred to in s766A(1)(a), (b), (c), (e) or
+                             (f), they will not have to hold an authorisation.
+
+                                   Note: The responsible entity remains responsible for the acts of its agents: see
+                                   s601FB(2).
+
+
+
+
+What obligations are imposed on representatives?
+              RG 36.105      The primary obligation to ensure compliance with the financial services laws
+                             is imposed on licensees, who are responsible for the conduct of their
+                             representatives (as defined in s910A). However, some obligations in the law
+                             apply directly to representatives, including (but not limited to):
+                             (a)   the financial services disclosure obligations in Pt 7.7 where the
+                                   representative is the providing entity (including the additional
+                                   obligations relating to financial product advice described in RG 36.97–
+                                   RG 36.100);
+                             (b)   the best interests duty and related obligations in Pt 7.7A;
+                             (c)   the hawking prohibitions in Pt 7.8;
+
+                                   Note: For further information about the hawking prohibitions, see Regulatory Guide 38
+                                   The hawking prohibitions (RG 38).
+
+                             (d)   some product disclosure obligations under Ch 6D (in the case of
+                                   securities) or Pt 7.9 (in other cases);
+                             (e)   the market misconduct and other prohibited conduct provisions in
+                                   Pt 7.10; and
+                             (f)   the consumer protection provisions in Div 2 of Pt 2 of the ASIC Act
+                                   (e.g. the prohibition against misleading or deceptive conduct in s12DA).
+
+                                   Note: Some of these obligations also apply to persons other than representatives.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                            Page 37
+                                                   REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+Key terms
+
+
+                               Term                       Meaning in this document
+
+                               advice provider            A person to whom the obligations in Div 2 of Pt 7.7A of
+                                                          the Corporations Act apply when providing personal
+                                                          advice to the client. This is generally the individual who
+                                                          provides the personal advice. However, if there is no
+                                                          individual that provides the advice, which may be the
+                                                          case if advice is provided through a computer program,
+                                                          the obligations in Div 2 of Pt 7.7A apply to the legal
+                                                          person that provides the advice (e.g. a corporate licensee
+                                                          or authorised representative)
+
+                               AFS licence                An Australian financial services licence under s913B of
+                                                          the Corporations Act that authorises a person who carries
+                                                          on a financial services business to provide financial
+                                                          services
+                                                             Note: This is a definition contained in s761A of the
+                                                             Corporations Act.
+
+                               APRA                       Australian Prudential Regulation Authority
+
+                               ASIC                       Australian Securities and Investments Commission
+
+                               ASIC Act                   Australian Securities and Investments Commission Act
+                                                          2001
+
+                               authorised                 A person authorised in accordance with s916A or 916B of
+                               representative of a        the Corporations Act to provide a financial service or
+                               licensee                   financial services on behalf of the licensee
+                                                             Note: This is a definition contained in s761A of the
+                                                             Corporations Act.
+
+                               [CO 00/241]                An ASIC class order (in this example numbered 00/241)
+                               (for example)                 Note: Legislative instruments made from 2015 are referred to
+                                                             as ASIC instruments.
+
+                               Corporations Act           Corporations Act 2001, including regulations made for the
+                                                          purposes of that Act
+
+                               Corporations               Corporations Regulations 2001
+                               Regulations
+
+                               financial product          Generally a facility through which, or through the
+                                                          acquisition of which, a person does one or more of the
+                                                          following:
+                                                           makes a financial investment (see s763B);
+                                                           manages financial risk (see s763C);
+                                                           makes non-cash payments (see s763D)
+                                                             Note: See Div 3 of Pt 7.1 of the Corporations Act for the exact
+                                                             definition.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                           Page 38
+                                                  REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                               Term                      Meaning in this document
+
+                               Financial Services        A document that must be given to a retail client in relation
+                               Guide                     to the provision of a financial service in accordance with
+                                                         Div 2 of Pt 7.7 of the Corporations Act
+                                                             Note: See s761A of the Corporations Act for the exact
+                                                             definition.
+
+                               FSG                       Financial Services Guide
+
+                               licensee                  A person who holds an AFS licence
+
+                               licensing provisions      The financial services licensing regime under Pts 7.6–7.8
+                                                         of the Corporations Act (including regulations made for
+                                                         the purposes of those parts)
+
+                               Pt 7.9 (for example)      A part of the Corporations Act (in this example numbered
+                                                         7.9)
+
+                               PDS                       Product Disclosure Statement
+
+                               Product Disclosure        A document that must be given to a retail client in relation
+                               Statement                 to the offer or issue of a financial product in accordance
+                                                         with Div 2 of Pt 7.9 of the Corporations Act
+                                                             Note: See s761A of the Corporations Act for the exact
+                                                             definition.
+
+                               providing entity          A person to whom the obligations in Pt 7.7 of the
+                                                         Corporations Act apply. This is the AFS licensee or an
+                                                         authorised representative that provides the financial
+                                                         product advice.
+
+                               PST                       A pooled superannuation trust as defined in the
+                                                         Superannuation Industry (Supervision) Act 1993
+
+                               reg 7.6.04                A regulation of the Corporations Regulations (in this
+                               (for example)             example numbered 7.6.04)
+
+                               regulated emissions       A carbon unit, an Australian carbon credit unit or an
+                               units                     eligible international emissions unit, which are:
+                                                          emissions units recognised under the Clean Energy
+                                                           Legislative Package; and
+                                                          financial products under the Corporations Act
+
+                               representative of a       Means:
+                               licensee                   an authorised representative of the licensee; or
+                                                          an employee or director of the licensee; or
+                                                          an employee or director of a related body corporate of
+                                                           the licensee; or
+                                                          any other person acting on behalf of the licensee
+                                                             Note: This is a definition contained in s910A(a) of the
+                                                             Corporations Act.
+
+                               RG 175 (for example)      An ASIC regulatory guide (in this example, numbered 175)
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                             Page 39
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                               Term                      Meaning in this document
+
+                               RSA                       Retirement savings account as defined in the Retirement
+                                                         Savings Accounts Act 1997
+
+                               s912A (for example)       A provision of the Corporations Act (in this example
+                                                         numbered 912A), unless otherwise specified
+
+                               Short-Form Product        A PDS that complies with the requirements set out in
+                               Disclosure Statement      Div 3A of Pt 7.9 of the Corporations Act, which were
+                               (Short-Form PDS)          introduced by the Corporations Amendment Regulations
+                                                         2005 (No. 5), and which provide issuers with the option of
+                                                         giving retail clients a Short-Form PDS (unless excluded)
+                                                         as long as a full PDS is available on request: see s1017H
+                                                         as inserted by Sch 10BA of the Corporations Regulations
+
+                               shorter PDS               A PDS that is required to comply with the shorter PDS
+                                                         regime
+
+                               shorter PDS regime        The requirements set out in Div 3A of Pt 7.9 of the
+                                                         Corporations Act as modified by Subdivs 4.2 to 4.2C and
+                                                         Sch B, C, D and E of the Corporations Regulations, which
+                                                         prescribe the content and length of the PDS for margin
+                                                         loans, superannuation products and simple managed
+                                                         investment schemes
+
+                               Statement of Advice       A document that must be given to a retail client for the
+                                                         provision of personal advice under Subdiv C and D of
+                                                         Div 3 of Pt 7.7 of the Corporations Act
+                                                             Note: See s761A of the Corporations Act for the exact
+                                                             definition.
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                           Page 40
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             arranging, authorisation, best interests duty, business test, clerks and
+                             cashiers, conduct and disclosure obligations, dealing in a financial product,
+                             factual information, financial product advice, general licensee obligations,
+                             licensing exemptions, obligations that apply to providers of financial
+                             services, principal, provide financial product advice, representative
+
+
+                             ASIC instruments and pro formas
+
+                             ASIC Corporations (Advertising by Product Issuers) Instrument 2015/539
+
+                             ASIC Corporations (Basic Deposit and General Insurance Product
+                             Distribution) Instrument 2015/682
+
+                             ASIC Corporations (General Advice Warning) Instrument 2015/540
+
+                             ASIC Corporations (Non-cash Payment Facilities) Instrument 2016/211
+
+                             ASIC Corporations (Financial Product Advice—Exempt Documents)
+                             Instrument 2016/356
+
+                             [CO 03/911] Licensing relief for self-dealers who provide general product
+                             advice about own securities
+
+                             [PF 209] Australian financial services licence conditions
+
+
+                             Regulatory guides
+
+                             RG 1–RG 3 AFS Licensing Kit
+
+                             RG 38 The hawking prohibitions
+
+                             RG 51 Applications for relief
+
+                             RG 78 Breach reporting by AFS licensees and credit licensees
+
+                             RG 79 Research report providers: Improving the quality of investment
+                             research
+
+                             RG 90 Example Statement of Advice: Scaled advice for a new client
+
+                             RG 98 Licensing: Administrative action against financial services providers
+
+                             RG 104 Licensing: Meeting the general obligations
+
+                             RG 105 Licensing: Organisational competence
+
+
+
+Australian Securities and Investments Commission June 2016                                                   Page 41
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                             RG 121 Doing financial services business in Australia
+
+                             RG 126 Compensation and insurance arrangements for AFS licensees
+
+                             RG 146 Licensing: Training of financial product advisers
+
+                             RG 165 Licensing: Internal and external dispute resolution
+
+                             RG 166 Licensing: Financial requirements
+
+                             RG 167 Licensing: Discretionary powers
+
+                             RG 168 Disclosure: Product Disclosure Statements (and other disclosure
+                             obligations)
+
+                             RG 169 Disclosure: Discretionary powers
+
+                             RG 172 Australian market licences: Australian operators
+
+                             RG 175 Licensing: Financial product advisers—Conduct and disclosure
+
+                             RG 176 Licensing: Discretionary powers—Wholesale foreign financial
+                             services providers
+
+                             RG 181 Managing conflicts of interest
+
+                             RG 182 Dollar disclosure
+
+                             RG 183 Approval of financial services sector codes of conduct
+
+                             RG 236 Do I need an AFS licence to participate in carbon markets?
+
+                             RG 244 Giving information, general advice and scaled advice
+
+                             RG 246 Conflicted remuneration
+
+
+                             Information sheets
+
+                             INFO 133 Shorter PDS regime: Superannuation, managed investment
+                             schemes and margin lending
+
+                             INFO 251 AFS licensing requirement for trustees of unregistered managed
+                             investment schemes
+
+
+                             Legislation
+
+                             ASIC Act, Pt 2, Div 2, s12DA
+
+                             Australian Prudential Regulation Authority Act 1998, s3(2)
+
+                             Banking Act 1959, s30(4)
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                   Page 42
+                                                 REGULATORY GUIDE 36: Licensing: Financial product advice and dealing
+
+
+
+
+                             Corporations Act, Pts 7.1, 7.6, 7.7, 7.7A, 7.8, 7.9, 7.10, s52, 766A, 766B,
+                             766C, 910A, 911A, 911B, 912A, 912B, 912DAA, 912F, 946A, 949A, 961B,
+                             961G, 961H, 961J
+
+                             Corporations Regulations, regs 7.1.08, 7.1.29–7.1.35, 7.1.40, 7.6.01,
+                             7.6.02AG, 7.9.61AA, Sch 10BA
+
+                             Insurance (Agents and Brokers) Act 1984 (now repealed)
+
+                             National Consumer Credit Protection Act 2009
+
+                             Retirement Savings Accounts Act 1997
+
+                             Superannuation Guarantee (Administration) Act 1992
+
+
+                             Consultation papers and reports
+
+                             REP 51 Report to the Parliamentary Joint Committee on late 2004 (and
+                             early 2005) superannuation switching advice surveillance
+
+                             REP 69 Shadow shopping survey on superannuation advice
+
+
+
+
+Australian Securities and Investments Commission June 2016                                                   Page 43
+

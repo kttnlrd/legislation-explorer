@@ -82,14 +82,15 @@ DEFAULT_SOURCES = {
 # ---------------------------------------------------------------------------
 
 # Predicate style: "<term> means/includes/has the meaning ...".
+# Include Unicode curly quotes (U+2018/U+2019) commonly found in PDF-extracted text.
 PREDICATE_RE = re.compile(
-    r"^([A-Za-z0-9*][\w%*'() -]{0,80}?)\s+"
+    r"^([A-Za-z0-9*][\w%*\u2018\u2019'() -]{0,80}?)\s+"
     r"(has (?:the|a) meaning given by|has (?:the|a) meaning affected by|"
     r"has the same meaning as(?: in)?|means|includes)\b"
 )
 
 # Colon style: "<term>: ...".
-COLON_RE = re.compile(r"^([A-Za-z0-9*][\w%*'() -]{0,80}?):\s")
+COLON_RE = re.compile(r"^([A-Za-z0-9*][\w%*\u2018\u2019'() -]{0,80}?):\s")
 
 # Strip trailing predicate words accidentally captured in a colon-style term
 # (kills the "payment means" junk class).
@@ -172,10 +173,16 @@ def reject_key(key: str) -> bool:
 def normalize(raw_term: str) -> tuple[str, str]:
     """Return (key, display) for a captured raw term.
 
-    key     = stars removed, lowercased, whitespace-collapsed, stripped.
-    display = stars removed, original casing, whitespace-collapsed, stripped.
+    key     = stars removed, lowercased, whitespace-collapsed, stripped,
+              Unicode quotes/apostrophes normalized to ASCII.
+    display = stars removed, original casing, whitespace-collapsed, stripped,
+              Unicode quotes/apostrophes normalized to ASCII.
     """
-    display = re.sub(r"\s+", " ", raw_term.replace("*", "")).strip()
+    stripped = raw_term.replace("*", "")
+    # Normalize typographic quotes to ASCII
+    stripped = stripped.replace("\u2018", "'").replace("\u2019", "'")
+    stripped = stripped.replace("\u201c", '"').replace("\u201d", '"')
+    display = re.sub(r"\s+", " ", stripped).strip()
     key = display.lower()
     return key, display
 

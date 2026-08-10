@@ -30,11 +30,18 @@ def rulings_for_section(act: str, section: str, limit: int = 50, offset: int = 0
             richer_rulings.append(found)
         else:
             # Include basic info even without full manifest entry
+            # Extract year from citation when possible (e.g. "TR_2024_1" → 2024)
+            fallback_year = 0
+            yr_m = re.match(r'^[A-Za-z]+_(\d{2,4})_', r["citation"])
+            if yr_m:
+                fallback_year = int(yr_m.group(1))
+                if fallback_year < 100:
+                    fallback_year += 1900 if fallback_year >= 90 else 2000
             richer_rulings.append({
                 "citation": r["citation"],
                 "title": r.get("title", r["citation"]),
                 "type": "ruling",
-                "year": 0,
+                "year": fallback_year,
                 "ato_url": "",
             })
     return {
@@ -176,8 +183,13 @@ def download_ruling(citation: str):
     import re as _re
     citation = citation.replace("%20", " ")
     normalized = _re.sub(r'[\s/]+', '_', citation).strip('_')
+    candidates = {normalized}
+    # Alias resolution: AID → ATOID, LCR → LCG
+    prefix_m = _re.match(r'^([A-Za-z]+)_(.*)$', normalized)
+    if prefix_m and prefix_m.group(1).upper() in CITATION_ALIASES:
+        candidates.add(f"{CITATION_ALIASES[prefix_m.group(1).upper()]}_{prefix_m.group(2)}")
     for r in load_rulings():
-        if r["citation"] in {normalized}:
+        if r["citation"] in candidates:
             path = Path(r["source"])
             if path.exists():
                 return FileResponse(

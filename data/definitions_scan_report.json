@@ -1,0 +1,34 @@
+{
+  "total_raw": 1888,
+  "total_unique": 1752,
+  "acts": {
+    "aml-ctf-2006": {
+      "display": "AML/CTF Act 2006",
+      "definitions_found": 1
+    },
+    "corporations-act-2001": {
+      "display": "Corporations Act 2001",
+      "definitions_found": 391
+    },
+    "gst-1999": {
+      "display": "GST Act 1999",
+      "definitions_found": 1
+    },
+    "itaa-1936": {
+      "display": "ITAA 1936",
+      "definitions_found": 2
+    },
+    "itaa-1997": {
+      "display": "ITAA 1997",
+      "definitions_found": 1478
+    },
+    "nz-it-2007": {
+      "display": "NZ IT Act 2007",
+      "definitions_found": 12
+    },
+    "taa-1953": {
+      "display": "TAA 1953",
+      "definitions_found": 3
+    }
+  }
+}

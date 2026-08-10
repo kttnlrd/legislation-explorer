@@ -1,0 +1,1842 @@
+REGULATORY GUIDE 101
+
+Managed investment scheme
+buy-backs
+
+December 2016
+
+
+
+
+About this guide
+This guide is for responsible entities of registered managed investment
+schemes, including schemes that form part of a stapled group, and their
+advisers involved in buy-backs of interests in such schemes.
+
+It explains:
+    the relief we have given in ASIC Corporations (ASX-listed Schemes On-
+     market Buy-backs) Instrument 2016/1159 from certain provisions of the
+     Corporations Act 2001 and what a responsible entity of an ASX-listed
+     scheme should do in conducting an on-market buy-back; and
+    our policy on applications for individual relief for scheme buy-backs.
+
+Note: From 27 July 2020, applications for relief should be submitted through
+the ASIC Regulatory Portal. For more information, see how you apply for
+relief.
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (for example, describing the steps of a
+                                      process such as applying for a licence or giving practical examples of
+                                      how regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in December 2016 and is based on legislation and
+                             regulations as at the date of issue. The note on the front page was inserted
+                             on 27 July 2020.
+
+                             Previous version:
+                                    Superseded Regulatory Guide 101 On-market buy-backs by ASX-listed
+                                     schemes, issued December 2007
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                        Page 2
+                                                            REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+Contents
+                             A      Overview .................................................................................................4
+                                    Purpose of this guide and our relief .........................................................4
+                                    Types of scheme buy-backs ....................................................................5
+                                    Overview of our relief ...............................................................................6
+                                    Overview of conditions of relief ................................................................8
+                             B      ASIC relief for scheme buy-backs .....................................................10
+                                    Relief for on-market buy-backs of ASX-listed schemes ........................10
+                                    Relief for other types of scheme buy-backs (individual relief) ...............11
+                             C      Conditions of relief for scheme buy-backs .......................................16
+                                    Scheme buy-back must be in accordance with the constitution ............16
+                                    Scheme buy-back must not materially prejudice creditors ....................16
+                                    Listed scheme buy-backs must be in the ‘ordinary course of trading’ ...17
+                                    Purchase price must be paid from scheme property .............................17
+                                    Listed scheme buy-backs must comply with listing rules ......................17
+                                    Interests must not be disposed of and must be cancelled ....................18
+                                    Member approval must be sought in certain circumstances .................18
+                                    Notification requirements .......................................................................24
+                             D      Applying for individual relief ..............................................................26
+                                    Types of individual relief applications we will consider ..........................26
+                                    Considerations linked to our conditions of relief ....................................26
+                                    Other relevant considerations ................................................................27
+                                    How to apply for individual relief ............................................................31
+                             Key terms .....................................................................................................32
+                             Related information .....................................................................................34
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                                                      Page 3
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+A          Overview
+
+                              Key points
+
+                              To enable a responsible entity of an ASX-listed registered managed
+                              investment scheme to buy back interests in the scheme on-market, we
+                              provide conditional relief in ASIC Corporations (ASX-listed Schemes On-
+                              market Buy-backs) Instrument 2016/1159 from certain requirements in the
+                              Corporations Act 2001 (Corporations Act) to facilitate the scheme buy-
+                              back.
+
+                              We consider applications for individual relief, subject to conditions, for a
+                              range of other types of scheme buy-backs, such as off-market scheme buy-
+                              backs, selective scheme buy-backs or scheme buy-backs involving stapled
+                              securities.
+
+
+
+
+Purpose of this guide and our relief
+              RG 101.1       This guide will assist a responsible entity of a registered managed
+                             investment scheme (scheme), including one that forms part of a stapled
+                             group, and its advisers, to understand ASIC relief to facilitate a buy-back of
+                             interests in the scheme. This guide explains:
+                             (a)   the relief in ASIC Corporations (ASX-listed Schemes On-market Buy-
+                                   backs) Instrument 2016/1159, which is available to a responsible entity
+                                   of an ASX-listed scheme to carry out an on-market buy-back of
+                                   interests in the scheme; and
+                             (b)   our policy on applications for individual relief to facilitate other types
+                                   of buy-backs of interests in a scheme.
+
+              RG 101.2       The Corporations Act defines a ‘buy-back’ as an acquisition by a company
+                             of shares in itself. We use the term ‘scheme buy-back’ in this guide to refer
+                             to the acquisition by a responsible entity of interests in the scheme that are
+                             paid for using scheme property.
+
+              RG 101.3       Our policy on scheme buy-backs is broadly consistent with our policy on
+                             share buy-backs: see Regulatory Guide 110 Share buy-backs (RG 110) at
+                             RG 110.1 and s256B.
+
+              RG 101.4       In granting the relief covered by this guide, our intention is to:
+                             (a)   enable a responsible entity to utilise a cost-effective, transparent and
+                                   fair means of returning capital to members;
+                             (b)   avoid placing a scheme at a regulatory disadvantage to a company in
+                                   relation to capital management techniques where there is no regulatory
+                                   reason for different treatment; and
+
+
+
+© Australian Securities and Investments Commission December 2016                                         Page 4
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                             (c)   ensure that the special regulatory protections that Parliament intended
+                                   for schemes are not undermined but operate in a commercially sensible
+                                   manner.
+
+
+                             What this guide does not cover
+
+              RG 101.5       This guide does not cover share buy-backs. Where a proposed scheme buy-
+                             back also involves a buy-back of shares (e.g. a buy-back of stapled
+                             securities), this guide should be read in conjunction with RG 110.
+
+              RG 101.6       A scheme buy-back will at times be a part of a broader transaction involving
+                             other activities. For example, a transaction might also involve a change in
+                             responsible entity of the scheme or some other capital raising activity. These
+                             other activities may separately require additional ASIC relief. Although a
+                             responsible entity might apply for other relief relevant to a broader
+                             transaction proposal, this guide is limited to the scheme buy-back portion of
+                             the overall transaction.
+
+              RG 101.7       Employee share scheme buy-backs and minimum holding buy-backs are also
+                             not specifically covered by this guide.
+
+
+
+Types of scheme buy-backs
+
+                             On-market scheme buy-backs
+
+              RG 101.8       We consider that a buy-back by the responsible entity of a scheme listed on a
+                             prescribed financial market in the ordinary course of trading on that market
+                             is an on-market buy-back. An on-market scheme buy-back is generally a
+                             continuous buy-back, where the responsible entity regularly buys back
+                             interests over a period of time.
+
+
+                             Equal access scheme buy-backs
+
+              RG 101.9       Generally, an equal access scheme buy-back is an offer to every member to
+                             buy back a fixed percentage of the interests held by each member of the
+                             scheme. It is not a continuous buy-back given the buy-back agreements are
+                             not entered into until a specified time for acceptance of offers has closed.
+                             Every member must have a reasonable opportunity to accept the offer.
+
+
+                             Selective scheme buy-backs
+
+              RG 101.10      In a selective scheme buy-back, the number of interests purchased from one
+                             member need not relate to the number (if any) purchased from other
+                             members. This means members will be treated selectively, and the potential
+                             for (and risk of) abuse increases.
+
+
+
+© Australian Securities and Investments Commission December 2016                                        Page 5
+                                                      REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+              RG 101.11      For a company, a selective buy-back is a buy-back that does not come within
+                             one of the other types of buy-back provided for in the Corporations Act—
+                             that is, it is not an equal access buy-back, a minimum holding buy-back, an
+                             on-market buy-back or an employee share scheme buy-back. We apply
+                             similar concepts for a scheme buy-back.
+
+              RG 101.12      Typically, selective scheme buy-backs are subject to greater regulation
+                             because they offer certain members the right to withdraw their capital
+                             without making the same offer to all members. Table 1 sets out some
+                             examples of selective scheme buy-backs.
+
+Table 1:    Examples of selective scheme buy-backs
+
+  Type of buy-back        Description
+
+  Tender offer            In a tender offer scheme buy-back, the responsible entity invites each member to
+                          tender their interests for sale, rather than offering to buy back interests. We consider
+                          that a tender offer scheme buy-back cannot be an equal access scheme buy-back
+                          because the responsible entity does not ‘offer’ to buy interests, but rather invites
+                          members to offer to sell interests. This means it is a selective scheme buy-back.
+
+  ‘Dutch auction’         In a Dutch auction tender offer scheme buy-back, the responsible entity invites each
+  tender offer            member to tender their interests at a price nominated by the member. Usually,
+                          members choose from a range of prices set by the responsible entity, where each price
+                          is a certain discount to the market price at the time of the buy-back. The responsible
+                          entity then calculates the lowest price (i.e. the biggest discount to the market price) at
+                          which it can buy back the desired number of interests, and buys interests at that price
+                          (the final price) from each member who nominated a price at or below the final price.
+
+  Irrevocable             In an equal access scheme buy-back, agreements are not entered into until the offer
+  acceptances are         period has closed. If a responsible entity allows members to give irrevocable
+  allowed                 acceptances during the offer period, the buy-back agreement is entered into when the
+                          responsible entity receives the acceptance. Accordingly, we consider the buy-back is
+                          technically a selective scheme buy-back.
+
+
+
+
+Overview of our relief
+              RG 101.13      We grant relief to facilitate scheme buy-backs because although the
+                             Corporations Act does not specifically prohibit a scheme buy-back, certain
+                             requirements in the Act have the effect of preventing or making it
+                             commercially difficult for a responsible entity to carry out a scheme buy-
+                             back.
+
+              RG 101.14      We have provided conditional relief for on-market buy-backs of ASX-listed
+                             schemes in ASIC Corporations (ASX-listed Schemes On-market Buy-backs)
+                             Instrument 2016/1159. We will consider granting conditional individual
+                             relief in appropriate circumstances for a range of other types of scheme buy-
+                             backs, including off-market scheme buy-backs, selective scheme buy-backs
+                             and a scheme buy-back involving stapled securities.
+
+
+
+© Australian Securities and Investments Commission December 2016                                                Page 6
+                                                       REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                                   Note: Where a scheme has more than one class of interests, the responsible entity has a
+                                   duty under s601FC(1)(d) to treat members of each class fairly.
+
+
+                             Relief for on-market buy-backs of ASX-listed schemes
+
+              RG 101.15      ASIC Corporations (ASX-listed Schemes On-market Buy-backs) Instrument
+                             2016/1159 gives relief from the following requirements in the Corporations
+                             Act to enable responsible entities of ASX-listed schemes to carry out on-
+                             market buy-backs of interests in those schemes:
+                             (a)   the requirement that a scheme’s constitution must specify any right to
+                                   withdraw and set out adequate procedures for making and dealing with
+                                   withdrawal requests under s601GA(4) (see RG 101.22–RG 101.23);
+                             (b)   the withdrawal procedures for non-liquid schemes in Pt 5C.6 (see
+                                   RG 101.24–RG 101.27); and
+                             (c)   the takeovers prohibited acquisition provisions in s606 (see RG 101.28–
+                                   RG 101.29).
+
+
+                             Individual relief for other types of scheme buy-backs
+
+              RG 101.16      We consider applications for individual relief from a range of requirements
+                             that may be granted to a responsible entity as appropriate in the
+                             circumstances of the particular scheme buy-back proposal.
+
+              RG 101.17      For a scheme buy-back that is not an on-market buy-back of an ASX-listed
+                             scheme, we may grant relief similar to that provided for on-market buy-
+                             backs of ASX-listed schemes in ASIC Corporations (ASX-listed Schemes
+                             On-market Buy-backs) Instrument 2016/1159. We may also extend relief
+                             provided to on-market buy-backs of ASX-listed schemes to schemes listed
+                             on other financial markets: see RG 101.46.
+
+              RG 101.18      We may also grant relief:
+                             (a)   from the requirement to treat members equally under s601FC(1)(d) (see
+                                   RG 101.31–RG 101.37);
+                             (b)   from the prohibition on a responsible entity from acquiring interests in
+                                   the scheme for less consideration than another person under
+                                   s601FG(1)(a) (see RG 101.38–RG 101.40);
+                             (c)   from the prohibition on unsolicited offers to purchase products off-
+                                   market under Div 5A of Pt 7.9 (see RG 101.41–RG 101.43);
+                             (d)   from the requirement to give the offer to all members of the scheme or
+                                   to all members of a particular class (see RG 101.44);
+                             (e)   to facilitate a shorter offer period (RG 101.45); and
+                             (f)   for scheme buy-backs involving stapled and unstapled securities (see
+                                   RG 101.47–RG 101.48).
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                                    Page 7
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+              RG 101.19      Section D provides details of the factors we will consider when deciding
+                             applications for individual relief for a scheme buy-back.
+
+
+
+Overview of conditions of relief
+              RG 101.20      Our relief in ASIC Corporations (ASX-listed Schemes On-market Buy-
+                             backs) Instrument 2016/1159 and individual relief is subject to conditions.
+                             Table 2 provides a summary of these conditions, which are described in
+                             more detail in Section C.
+
+Table 2:     Summary of key conditions of relief
+
+ Condition                   Conditions in ASIC Corporations          General conditions for               Reference
+                             (ASX-listed Schemes On-market            individual relief
+                             Buy-backs) Instrument 2016/1159
+
+ The scheme buy-back         The constitution must contain a power to allow the responsible entity to      RG 101.49–
+ must be in accordance       buy back the interests and the scheme buy-back must be carried out in         RG 101.50
+ with the constitution       accordance with the constitution.
+
+ The scheme buy-back         The scheme buy-back must not materially prejudice the responsible             RG 101.51–
+ must not materially         entity’s ability to pay the scheme’s creditors.                               RG 101.52
+ prejudice creditors
+
+ Listed scheme buy-          The scheme buy-back must be             On-market: The scheme buy-back        RG 101.53–
+ backs must be in the        carried out in the ordinary course of   must be carried out in the ordinary   RG 101.55
+ ‘ordinary course of         trading on ASX.                         course of trading on the
+ trading’                                                            prescribed financial market.
+                                                                     Off-market: The condition is not
+                                                                     imposed.
+
+ The price must be paid      The purchase price must be paid from the scheme property.                     RG 101.56
+ from scheme property
+
+ Listed scheme buy-          The responsible entity must comply       On-market and off-market: The        RG 101.57–
+ backs must comply with      with the ASX Listing Rules for an on-    condition applies generally to       RG 101.62
+ listing rules               market scheme buy-back as if the         scheme buy-backs (including off-
+                             scheme were a company listed on          market buy-backs) of a scheme
+                             ASX, including Rules 3.8A                listed on a prescribed financial
+                             (disclosure), 7.29 (recorded             market as if the buy-back were
+                             transactions) and 7.33 (buy-back         being carried out on the
+                             price). The responsible entity should    prescribed financial market. The
+                             also satisfy itself as to whether it     responsible entity should also
+                             would need to seek a waiver from         satisfy itself as to whether it
+                             any ASX Listing Rules.                   would need to seek a waiver
+                                                                      from any rule of the relevant
+                                                                      prescribed financial market from
+                                                                      the Australian market licensee.
+                                                                      Unlisted schemes: The condition
+                                                                      is not imposed.
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                             Page 8
+                                                      REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+ Condition                   Conditions in ASIC Corporations            General conditions for               Reference
+                             (ASX-listed Schemes On-market              individual relief
+                             Buy-backs) Instrument 2016/1159
+
+ Interests must not be       The responsible entity must:                                                    RG 101.63
+ disposed of and must         not dispose of the interests it buys back; and
+ be cancelled
+                              ensure that, immediately after registration of the transfer to the
+                               responsible entity of the interests bought back, the interests are
+                               cancelled.
+
+ Member approval must        If the ‘10/12 limit’ is exceeded:          If a selective scheme buy-back:      RG 101.67–
+ be sought for the            a valid resolution of members is          a valid special resolution of      RG 101.84
+ scheme buy-back in            required;                                  members is generally required;
+ certain circumstances
+                              members must be given all                 members must be given all
+                               information known to the                   information known to the
+                               responsible entity that is material        responsible entity that is
+                               to the decision on how to vote on          material to the decision on how
+                               the resolution; and                        to vote on the resolution; and
+                              member approval can only be               member approval can only be
+                               relied on for 12 months after it is        relied on for 12 months after it
+                               given.                                     is given.
+                                  Note: The 10/12 limit is 10% of the   If the 10/12 limit is exceeded:
+                                  smallest number of interests that
+                                  are on issue at any time during the    a valid resolution of members
+                                  previous 12 months.                     is generally required;
+                                                                         members must be given all
+                                                                          information known to the
+                                                                          responsible entity that is
+                                                                          material to the decision on how
+                                                                          to vote on the resolution; and
+                                                                         member approval can only be
+                                                                          relied on for 12 months after it
+                                                                          is given.
+
+ Notification                If the 10/12 limit is not exceeded:        If a listed scheme buy-back and      RG 101.85–
+ requirements                 the responsible entity must notify       the 10/12 limit is not exceeded:     RG 101.89
+                               the market at least 14 days before        the responsible entity must
+                               the scheme buy-back; and                   notify the prescribed financial
+                              the buy-back must commence                 market at least 14 days before
+                               within two months of the date the          the scheme buy-back; and
+                               buy-back was notified to the              the buy-back must commence
+                               market.                                    within two months of the date
+                                                                          the buy-back was notified to
+                                                                          the market.
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                               Page 9
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+B          ASIC relief for scheme buy-backs
+
+                              Key points
+
+                              For on-market buy-backs of ASX-listed schemes, we have provided relief in
+                              ASIC Corporations (ASX-listed Schemes On-market Buy-backs) Instrument
+                              2016/1159 from certain provisions of the Corporations Act: see RG 101.21–
+                              RG 101.29.
+
+                              For other types of scheme buy-backs, we will consider applications for
+                              individual relief: see RG 101.30–RG 101.48 and Section D.
+
+                              All relief is subject to a range of conditions, which are described in detail in
+                              Section C.
+
+
+Relief for on-market buy-backs of ASX-listed schemes
+              RG 101.21      ASIC Corporations (ASX-listed Schemes On-market Buy-backs) Instrument
+                             2016/1159 grants relief to responsible entities of ASX-listed schemes to
+                             carry out on-market scheme buy-backs.
+
+                             Relief from the requirements for withdrawal rights in
+                             s601GA(4)
+
+              RG 101.22      Section 601GA(4) requires that if members have a right to withdraw, the
+                             scheme’s constitution must specify the right and set out adequate procedures
+                             for withdrawal in a way that is fair to all members. However, the right to
+                             withdraw in an on-market scheme buy-back arises from the market contract
+                             rather than being specified in the constitution.
+
+                                  Note: See Regulatory Guide 134 Managed investments: Constitutions (RG 134) at
+                                  RG 134.146–RG 134.152.
+
+              RG 101.23      We have given relief from s601GA(4) because in our view compliance with
+                             this provision would be impracticable for an on-market scheme buy-back.
+
+                                  Note: See RG 134.134–RG 134.159 for our policy on withdrawal rights in s601GA(4).
+
+
+                             Relief from withdrawal procedures in Pt 5C.6
+
+              RG 101.24      A payment by a responsible entity out of scheme property to a member,
+                             where there is an act of volition by the member, in return for the member’s
+                             rights in the scheme will generally be a withdrawal for the purposes of
+                             Pt 5C.6. If the right to withdraw may be exercised while the scheme is non-
+                             liquid, the constitution must provide for the right to be exercised in
+                             accordance with the withdrawal procedures in Pt 5C.6.
+
+                                  Note: See MacarthurCook Fund Management Ltd v TFML Ltd (2014) 32 ACLC
+                                  14-023; [2014] HCA 17.
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                             Page 10
+                                                      REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+              RG 101.25      Many schemes listed on ASX may be classified as non-liquid schemes for
+                             the purposes of Pt 5C.6 because of the nature of the assets held by the
+                             scheme.
+
+              RG 101.26      In the absence of relief, s601KD may have the effect of preventing a non-
+                             liquid listed scheme from engaging in an on-market buy-back. On-market
+                             buy-backs by nature are continuous buy-backs rather than proportional.
+                             Trading system rules require trades to be settled within a certain number of
+                             days of the transaction. However, under s601KD, the responsible entity must
+                             not satisfy withdrawal requests until the close of the withdrawal offer period
+                             (which must be a minimum of 21 days) and the proportional satisfaction
+                             requirement could only be calculated at the end of the withdrawal offer
+                             period.
+
+              RG 101.27      We consider the policy objectives of Pt 5C.6 of fair and equal access to
+                             liquidity to be less relevant for non-liquid listed schemes because all
+                             members are likely to have the ability to liquidate their investment by selling
+                             on-market at any time.
+
+
+                             Takeovers relief from s606
+
+              RG 101.28      Section 606 prohibits certain acquisitions of relevant interests in voting
+                             interests. We consider this prohibition could make it difficult for schemes to
+                             engage in a scheme buy-back because it might mean that the proportionate
+                             share of those members who do not participate increases. The holding of
+                             those members could exceed the permitted threshold when there is not a
+                             takeover offer.
+
+                                  Note: Such a problem would also exist for share buy-backs were it not for the exception
+                                  in s611, item 19, which facilitates acquisitions that result from share buy-backs.
+
+              RG 101.29      For consistency with our policy on share buy-backs, we have given relief
+                             from the prohibition in s606 on certain acquisitions of relevant interests in
+                             listed schemes. Consequently, an acquisition of relevant interests in a listed
+                             scheme that results from a scheme buy-back complying with the terms of our
+                             relief is exempt from the prohibition in s606.
+
+
+Relief for other types of scheme buy-backs (individual relief)
+              RG 101.30      In addition to the relief provided in ASIC Corporations (ASX-listed
+                             Schemes On-market Buy-backs) Instrument 2016/1159, we may provide
+                             individual relief in appropriate circumstances where an application is made.
+
+
+                             Relief from the equal treatment requirements
+
+              RG 101.31      Section 601FC(1)(d) requires that members who hold interests of the same
+                             class be treated equally. This requirement may be difficult for a responsible
+
+
+
+© Australian Securities and Investments Commission December 2016                                                 Page 11
+                                                       REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                             entity to comply with in certain types of scheme buy-back situations, such as
+                             in a tender scale-back, where there are small parcels of interests or where
+                             there are foreign members.
+
+                             Tender scale-backs
+
+              RG 101.32      A responsible entity may set a maximum number, value or percentage of
+                             interests it will buy back and make it a term of the offer that if (at the close
+                             of offers) the responsible entity has received acceptances for more interests
+                             than the specified limit, the number of each acceptor’s interests will be
+                             reduced by the same proportion needed to ensure the responsible entity buys
+                             back no more than the specified limit (i.e. a ‘scale-back’). A proportional
+                             scale-back ensures that members are treated equally. However, we
+                             understand that sometimes a proportional scale-back may result in members
+                             ending up with small and unmarketable parcels after the scale-back.
+
+              RG 101.33      We consider that preferential treatment under the proposed scheme buy-back
+                             may be beneficial to small balance members but not unfair to other
+                             members. We would generally limit the preferential treatment to small
+                             balance members to a monetary cap appropriate in the circumstances of the
+                             scheme buy-back.
+
+              RG 101.34      Relief may also be appropriate for rounding any fractions of interests arising
+                             from calculating the number of interests to be bought back.
+
+                             Small parcels
+
+              RG 101.35      We may grant relief to enable a responsible entity to give priority to small
+                             parcels of interests or to selectively scale back a scheme buy-back to avoid
+                             members being left with small parcels following the scheme buy-back.
+
+                                   Note: The scheme’s market capitalisation and the size of the parcel of interests to be
+                                   bought back should be determined using the volume weighted average price (VWAP),
+                                   where the average is calculated over the last five days reasonably practicable before any
+                                   notice of meeting being issued to members proposing a resolution to carry out the
+                                   scheme buy-back or any announcement being made of the scheme buy-back.
+
+              RG 101.36      We would generally limit the relief so that the maximum value of a small
+                             parcel is:
+                             (a)   for schemes with a market capitalisation of less than $1 billion:
+                                   (i)    $2,000 for interests to be bought back from each participating
+                                          member, including the entire holding of participating members
+                                          whose holding is less than $2,000 (threshold parcel); and
+                                   (ii)   $500 where a participating member’s remaining interests are worth
+                                          less than $500 after the threshold parcel is bought back (residual
+                                          parcel); and
+                             (b)   for schemes with a market capitalisation of more than $1 billion:
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                                    Page 12
+                                                       REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                                   (i)     $5,000 for threshold parcels; and
+                                   (ii)    $2,000 for residual parcels.
+
+                             Excluding foreign members
+
+              RG 101.37      Relief may be required to enable a responsible entity to buy back interests in
+                             situations where:
+                             (a)   the responsible entity would be prohibited from making a payment
+                                   under relevant legislation, regulations or regulatory requirements in
+                                   Australia or the relevant foreign jurisdiction;
+                             (b)   the member resides in a jurisdiction where it would be prohibited from
+                                   making a payment under relevant legislation, regulations or regulatory
+                                   requirements to make an offer to the member to buy their interests; or
+                             (c)   the member does not reside in Australia and it would be unreasonable to
+                                   make the offer to the member having regard to each of the following:
+                                   (i)     the number of members in the jurisdiction in which the member
+                                           resides;
+                                   (ii)    the value of the interests held by members in that jurisdiction; and
+                                   (iii)   the cost of complying with relevant legislation, regulations or
+                                           regulatory requirements applicable to making the offer in that
+                                           jurisdiction.
+
+                                   Note: Additional relief may be required from Pt 5C.6 if the offer will not be made to all
+                                   members.
+
+
+                             Relief from the self-acquisition provisions
+
+              RG 101.38      Section 601FG(1)(a) requires that a responsible entity of a managed
+                             investment scheme may acquire and hold an interest in the scheme, but must
+                             only do so for not less than the consideration that would be payable if the
+                             interest were acquired by another person and subject to terms and conditions
+                             that would not disadvantage other members.
+
+              RG 101.39      In some scheme buy-backs the buy-back price may be set based by reference
+                             to the VWAP for a certain number of days leading up to the scheme buy-
+                             back. For example, the buy-back price might be set at a 5% premium to the
+                             VWAP in the five days leading up to the scheme buy-back: see RG 101.61.
+
+              RG 101.40      We consider there is a risk that changes in the market price in the days
+                             leading up to the scheme buy-back (e.g. if there is a substantial surge in the
+                             market price) at the time the units are transferred to the responsible entity
+                             may lead to a breach of s601FG(1)(a).
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                                    Page 13
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                             Relief from the prohibitions on unsolicited offers
+
+              RG 101.41      Division 5A of Pt 7.9 prohibits unsolicited offers to purchase financial
+                             products off-market. Division 5A establishes a disclosure regime to prevent
+                             persons profiting from an investor’s lack of knowledge of the market value
+                             of their financial products by offering to purchase their financial products at
+                             a grossly undervalued price. The offeror must disclose the current market
+                             price, or a fair estimate if not quoted on a market, in an offer document.
+
+              RG 101.42      The division was not intended to capture offers made under an off-market
+                             buy-back on the basis that such offers are subject to an adequate disclosure
+                             regime. Section 1019D(1)(d)(ii) provides a carve out to the anti-hawking
+                             provisions for equal access or selective access buy-backs for companies
+                             occurring under s257A.
+
+              RG 101.43      We consider that technically, by inviting members under a scheme buy-back
+                             to tender their interests, there is an unsolicited invitation of offers to sell
+                             financial products prohibited by the section. We consider that the rationale
+                             behind the carve out for company buy-backs may also be applicable to some
+                             scheme buy-backs.
+
+
+                             Relief from the requirement to make offer to all members
+
+              RG 101.44      Section 601KB(2) requires that the offer must be made to all scheme
+                             members. In our view, relief may be required where Pt 5C.6 applies if the
+                             offer will not be made to all members (e.g. if foreign members are
+                             excluded).
+
+
+                             Relief relating to the offer period
+
+              RG 101.45      Section 601KB(3)(a) requires that the offer period must remain open for
+                             21 days. In our view, relief may be required to facilitate differing timetable
+                             requirements for the particular scheme buy-back.
+
+
+                             Relief for schemes listed on financial markets other than
+                             ASX
+
+              RG 101.46      We will consider granting relief to facilitate a scheme buy-back for a scheme
+                             that is listed on a prescribed financial market other than ASX or an approved
+                             foreign market. This relief may be granted where the applicant demonstrates
+                             that the prescribed financial market is governed by investor protections
+                             comparable to ASX. We will consider applications for relief on a similar
+                             basis to the relief granted in ASIC Corporations (ASX-listed Schemes On-
+                             market Buy-backs) Instrument 2016/1159.
+
+                                  Note: See Regulatory Guide 72 Foreign securities disclosure relief (RG 72) at
+                                  RG 72.54 for a list of foreign markets we consider to be comparable to ASX in terms of
+                                  being fair, efficient, well-informed and internationally competitive.
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                                Page 14
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                             Relief for scheme buy-backs involving stapled and
+                             unstapled securities
+
+              RG 101.47      Where a proposed scheme buy-back is for a stapled security that involves an
+                             interest in a scheme and a share in a company, relief would be subject to the
+                             requirements set out in RG 110 as well as in this guide.
+
+              RG 101.48      In a small number of cases, we have provided limited relief to facilitate
+                             scheme buy-backs involving unstapled securities. These have generally
+                             been:
+                             (a)   to reduce complexity and corresponding complexity in the accounts and
+                                   in distributing payments to members; or
+                             (b)   where the commercial purpose of the unstapled securities no longer
+                                   existed.
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                       Page 15
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+C          Conditions of relief for scheme buy-backs
+
+                              Key points
+
+                              This section provides details of the conditions applicable under ASIC
+                              Corporations (ASX-listed Schemes On-market Buy-backs) Instrument
+                              2016/1159.
+
+                              For individual relief, we will adapt conditions relevant for each head of relief
+                              we grant as appropriate for the circumstances of the particular scheme
+                              buy-back. We may also impose additional conditions not described in this
+                              section where we consider it appropriate for the scheme buy-back.
+
+                              Table 2 in Section A provides an overview of:
+                              • the conditions of relief in ASIC Corporations (ASX-listed Schemes On-
+                                market Buy-backs) Instrument 2016/1159 for responsible entities of
+                                ASX-listed schemes conducting an on-market scheme buy-back; and
+                              • our approach to the conditions of individual relief for scheme buy-backs.
+
+
+
+
+Scheme buy-back must be in accordance with the constitution
+              RG 101.49      A scheme buy-back may only be carried out if the constitution gives the
+                             responsible entity power to buy back interests in the scheme. We have
+                             imposed this requirement to ensure that members have agreed that the
+                             responsible entity may buy back interests in the scheme when permitted by
+                             law.
+
+              RG 101.50      The responsible entity must not buy back an interest in the scheme in
+                             reliance on our relief except in accordance with the procedure outlined in the
+                             constitution and in our conditions of relief.
+
+
+
+Scheme buy-back must not materially prejudice creditors
+              RG 101.51      The responsible entity may only carry out a scheme buy-back if it does not
+                             materially prejudice the responsible entity’s ability to pay scheme creditors
+                             in relation to liabilities incurred or acquired by it as responsible entity of the
+                             scheme. The responsible entity will be liable for debts it incurred as
+                             responsible entity, but is usually entitled under the constitution to be
+                             indemnified from scheme property where it acts in the proper performance
+                             of its duties.
+
+              RG 101.52      We consider a scheme buy-back could adversely affect creditors of the
+                             responsible entity, and this might affect the ability of the responsible entity
+                             to operate the scheme and affect continuing members.
+
+
+
+© Australian Securities and Investments Commission December 2016                                        Page 16
+                                                       REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+Listed scheme buy-backs must be in the ‘ordinary course of
+trading’
+              RG 101.53      For an on-market scheme buy-back, the buy-back must be carried out in the
+                             ‘ordinary course of trading’ on the prescribed financial market.
+
+              RG 101.54      In Australia, this phrase means that the trading is in strict order of price and
+                             time priority, with indifference as to the identity of counterparties, and no
+                             pre-agreements or selection of counterparties: see Attorney-General (Vic) v
+                             Walsh’s Holdings Ltd [1973] VR 137.
+
+              RG 101.55      We consider that a scheme buy-back in the ‘ordinary course of trading’ does
+                             not extend to a situation where:
+                             (a)   the parties have negotiated or prearranged ‘crossings’ (where the broker
+                                   acts for both the buyer and the seller)—see Aberfoyle Ltd v Western
+                                   Metals Ltd (1998) 16 ACLC 1,335; or
+                             (b)   a transaction relying on the trade with ‘price improvement exception’ is
+                                   effected other than on an order book.
+
+                                   Note: See, for example, Rule 4.2.3 (‘Exception—Trades with price improvement’) of
+                                   ASIC Market Integrity Rules (Competition in Exchange Markets) 2011 and Regulatory
+                                   Guide 223 Guidance on ASIC market integrity rules for competition in exchange
+                                   markets (RG 223) at RG 223.195.
+
+
+
+
+Purchase price must be paid from scheme property
+              RG 101.56      To be within the scope of what is considered to be a scheme buy-back the
+                             purchase price must be paid from scheme property. For example, if the
+                             responsible entity bought units of the scheme using its own property (or
+                             property other than scheme property), then the transaction would not be
+                             equivalent to a company buying back shares in itself.
+
+
+
+Listed scheme buy-backs must comply with listing rules
+              RG 101.57      The responsible entity of a listed scheme must comply with the listing rules
+                             for a scheme buy-back as if the scheme were a company listed on a
+                             prescribed financial market. This avoids placing a listed scheme at a
+                             regulatory advantage or disadvantage to a listed company in relation to
+                             capital management techniques.
+
+                                   Note: A responsible entity should also satisfy itself as to whether it would need to seek
+                                   a waiver of any rule of the relevant prescribed financial market from the Australian
+                                   market licensee.
+
+              RG 101.58      For ASX-listed schemes, this includes Rules 3.8A, 7.29 and 7.33.
+
+                                   Note: There may be other listing rules that apply.
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                                     Page 17
+                                                       REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+              RG 101.59      Under Rule 3.8A, the responsible entity of a listed scheme must make
+                             appropriate ongoing disclosure to ASX to:
+                             (a)   comply with the continuous disclosure requirements of the Corporations
+                                   Act and the ASX Listing Rules; and
+                             (b)   assure the market it is not buying back interests while possessing inside
+                                   information in breach of the insider trading provisions (s1043A).
+
+              RG 101.60      Under Rule 7.29, the responsible entity of a listed scheme may only buy
+                             interests under a scheme buy-back if transactions in the interests in the listed
+                             scheme were recorded on a prescribed financial market on at least five days
+                             in the three months before it buys back the interests.
+
+              RG 101.61      Under Rule 7.33, the scheme buy-back price must not exceed 5% of the
+                             VWAP for interests (or stapled securities, if applicable), where the average
+                             is calculated over the last five days on which sales in the interests were
+                             recorded before the day on which the purchase is made.
+
+              RG 101.62      We consider that buying back interests for an amount that significantly
+                             exceeds their value might dilute the value of holdings of those members who
+                             do not participate in the scheme buy-back. This requirement prevents entities
+                             from using the scheme buy-back as a means of artificially increasing or
+                             manipulating the market price.
+
+                                   Note: Section 601FC(1A) notionally applying under Class Order [CO 13/657]
+                                   Discretions affecting the amount of consideration to acquire interests and withdrawal
+                                   amounts requires the responsible entity to ensure that the manner in which a discretion
+                                   affecting determination of the amount of consideration to acquire interests or the terms
+                                   of any payment or removal of liability arising from withdrawal from the scheme is
+                                   exercised as far as practicable consistently with ordinary commercial practice and is
+                                   reasonably current at the time of issue or withdrawal.
+
+
+
+Interests must not be disposed of and must be cancelled
+              RG 101.63      Interests bought back must not be disposed of and must be cancelled
+                             immediately upon registration of the transfer to the responsible entity. We
+                             impose this requirement to ensure that when scheme property is used to buy
+                             back interests in the scheme, the scheme receives the benefit of having fewer
+                             interests on issue that have rights in relation to the scheme.
+
+
+Member approval must be sought in certain circumstances
+              RG 101.64      Member approval for a scheme buy-back must be sought in the following
+                             circumstances:
+                             (a)   if the buy-back is a selective scheme buy-back (see RG 101.67–
+                                   RG 101.69); or
+                             (b)   if the ‘10/12 limit’ is exceeded (see RG 101.70–RG 101.73).
+
+
+
+© Australian Securities and Investments Commission December 2016                                                    Page 18
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+              RG 101.65      The responsible entity must ensure that:
+                             (a)   the approval is valid (see RG 101.74); and
+                             (b)   members are given all information known to it that is material to the
+                                   decision on how to vote on the resolution (see RG 101.75–RG 101.79).
+
+              RG 101.66      Member approval can only be relied on for 12 months after it is given: see
+                             RG 101.82.
+
+
+                             Circumstances that require member approval
+
+                             Special resolution required for selective scheme buy-backs
+
+              RG 101.67      For a selective buy-back of a company, a special resolution passed at a
+                             general meeting of the company of the terms of the buy-back agreement is
+                             generally required: see s257B.
+
+              RG 101.68      We consider that there may be cases where a proposed scheme buy-back is,
+                             but for technical exceptions, selective, but it is more appropriate to treat it as
+                             an equal access scheme buy-back (e.g. a tender offer that is in all material
+                             respects an equal access scheme buy-back: see Table 1). In appropriate
+                             circumstances, we will consider requiring a resolution of members of the
+                             terms of the buy-back arrangement, rather than a special resolution.
+
+                             Irrevocable acceptances
+
+              RG 101.69      As discussed in Table 1, because irrevocable acceptances would technically
+                             make the scheme buy-back selective, a special resolution would generally be
+                             required. Because some agreements will be entered into while offers are still
+                             open, we will generally require member approval.
+
+                             Members’ resolution required for scheme buy-backs that exceed the
+                             ‘10/12 limit’
+
+              RG 101.70      If a responsible entity proposes to buy back an interest in the scheme that
+                             would exceed the 10/12 limit, it must have obtained the approval of
+                             members passed at a meeting of members of the terms of the buy-back
+                             arrangement. This is consistent with our policy on share buy-backs: see
+                             s257B.
+
+              RG 101.71      We consider that a scheme buy-back that exceeds the 10/12 limit is more
+                             likely to give rise to significant control and dilution issues. In our view,
+                             members should have a right to vote on buy-backs that raise these issues. For
+                             example:
+                             (a)   where a responsible entity and its associates do not participate in the
+                                   scheme buy-back, there may be control or entrenchment issues; and
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                        Page 19
+                                                       REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                             (b)   when the buy-back price is higher than needed to effect the scheme
+                                   buy-back, members who do not participate in the scheme buy-back may
+                                   have the value of their interests diluted.
+
+                             Calculating the 10/12 limit
+
+              RG 101.72      The 10/12 limit for a responsible entity proposing a scheme buy-back is 10%
+                             of the smallest number of interests that are on issue at any time during the
+                             previous 12 months.
+
+              RG 101.73      A proposed scheme buy-back would exceed the 10/12 limit if the number of
+                             votes attaching to all the voting interests in the scheme that have been
+                             bought back in the last 12 months, and the voting interests that will be
+                             bought back if the proposed buy-back is made, would exceed the 10/12 limit.
+
+                              Example
+
+                              On 1 January, a listed scheme has 1,000 interests, each carrying one vote.
+                              The 10/12 limit would be exceeded if more than 100 interests were bought
+                              back (i.e. more than 10% of 1,000 interests).
+
+                              On 1 July, the responsible entity buys back 50 interests, which does not
+                              exceed the 10/12 limit because it has not exceeded 5% of the total 1,000
+                              interests and has not bought any other interests in the scheme in the
+                              previous 12 months. The scheme now has a total of 950 interests carrying
+                              one vote each.
+
+                              On 1 December, the scheme has 950 voting interests and the 10/12 limit is
+                              10% of 950. As the responsible entity has already bought back 50 interests
+                              during the previous 12 months, it would exceed the 10/12 limit if it bought
+                              back more than 45 interests.
+
+
+                             Ensuring the approval is valid
+
+              RG 101.74      For member approval to be effective, the resolution must approve a
+                             transaction the consequences of which were known at least to those who
+                             voted for it. This requires that the scheme buy-back proposal must be mature
+                             enough to be put before members. For example, where the substance of a
+                             key term of the proposed scheme buy-back has not yet been established, it
+                             would not be possible to make fair disclosures or to obtain the consent of
+                             members on an informed basis: see ANZ Nominees Pty Ltd v Wormald
+                             International Ltd (1988) 13 ACLR 698 at 704–5 and NSCS v Consolidated
+                             Gold Mining Areas NL (No. 2) [1985] 1 NSWLR 622 at 625.
+
+                                   Note 1: Section 253E imposes voting restrictions on the responsible entity and its
+                                   associates if they have an interest in the resolution other than as a member.
+
+                                   Note 2: See Ch 2G.4 for requirements for meetings of scheme members.
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                                   Page 20
+                                                      REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                              Disclosing all material information
+
+              RG 101.75       The notice of meeting or the explanatory material accompanying it must
+                              include all information known to the responsible entity that is material to the
+                              decision on how to vote on the scheme buy-back resolution. However, the
+                              responsible entity need not disclose information if it would be unreasonable
+                              to do so because the responsible entity had previously disclosed the
+                              information to members of the scheme.
+
+                                  Note: The disclosure requirement is equivalent to the disclosure required for a selective
+                                  share buy-back: see s257D(2).
+
+              RG 101.76       Information material to the decision on how to vote on the scheme buy-back
+                              requires an assessment of whether the information ‘would reasonably have
+                              affected the mind’ of a hypothetical member in determining whether they
+                              would support or oppose the scheme buy-back. This involves a wider inquiry
+                              than the likelihood the information would have led a member to oppose a
+                              resolution.
+
+                                  Note: See Lantern Hotel Group and Australian Securities and Investments Commission
+                                  [2015] AATA 428 (17 June 2015) at para 70.
+
+              RG 101.77       We consider that the information summarised in Table 3 is likely to be
+                              material to a member’s decision on how to vote on the scheme buy-back.
+
+Table 3:    Information to be provided to scheme members
+
+ Information required            Description
+
+ How a scheme buy-back           There should be an explanation of the type of scheme buy-back and how it works,
+ works                           including:
+                                  an explanation of the scope of the scheme buy-back and of the key points in the
+                                   terms and conditions;
+                                  if the scheme buy-back is on-market, details of how the responsible entity
+                                   proposes to purchase interests in the ordinary course of trading on the
+                                   prescribed financial market;
+                                  prominent disclosure of the reasons for any members proposed to be excluded
+                                   from the scheme buy-back, and reasons for any other unequal treatment of
+                                   members, such as a scale-back; and
+                                  details of how the procedures for scheme buy-back offers are fair to all members.
+
+ The number of interests on      The number of interests on issue and the number and percentage of interests to be
+ issue and the number and        bought back should be specified.
+ percentage to be bought
+                                 If it is not possible to specify the exact number and percentage of interests to be
+ back
+                                 bought back, the maximum proportion of the interests to be bought back within the
+                                 scope of the approval should be explained.
+
+                                 For a selective scheme buy-back, if the buy-back is to be scaled back details
+                                 should be provided of the method used to determine the number of interests to be
+                                 bought back by each member offering to sell.
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                                   Page 21
+                                                         REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+ Information required                Description
+
+ The objective for the               There should be a description of the objective of the scheme buy-back and reasons
+ scheme buy-back and                 why the proposal will achieve this objective, including advantages and
+ alternatives considered             disadvantages of the scheme buy-back.
+
+                                     This section should also include an evaluation of alternative options considered to
+                                     achieve the objective and a description of why other options have not been chosen.
+
+ Associated interests                There should be a description of the interests of the responsible entity and any
+                                     associate of the responsible entity who may participate in the scheme buy-back.
+                                     Among other things, the directors must make full and frank disclosure of their
+                                     interests in the reduction and in any scheme of which the reduction forms part.
+
+ Financial and other effects         There should be an explanation of:
+                                      the financial effect that the scheme buy-back will have on members, including on
+                                       any distributions; and
+                                      the effect the reduction will have on the scheme and on the control of the
+                                       scheme.
+
+ Source of funds for the             Details should be provided of the source of funds proposed to be used to pay for
+ scheme buy-back                     the scheme buy-back.
+
+                                     If an asset is proposed to be used to satisfy the liability to pay for interests bought
+                                     back, the amount of money expected to be available when the asset is converted
+                                     into cash should be specified.
+
+ Key dates                           The date the scheme buy-back offer will commence and close should be specified.
+                                     If the scheme buy-back will be open for an indefinite period of time until a certain
+                                     number and percentage of interests, or maximum proportion of the scheme’s funds,
+                                     are bought back, a statement of that fact should be made.
+
+ Scheme buy-back price and           Details should be provided of how the scheme buy-back price was determined. For
+ current market price                on-market buy-backs, details of any applicable pricing rules such as caps (e.g. the
+                                     requirement that the buy-back price does not exceed 5% of the VWAP for interests:
+                                     see RG 101.61) should be provided.
+
+                                     For a tender offer, details of the factors taken into account in determining the
+                                     tender range should be provided.
+
+                                     Information regarding the current market price of the interests, and for a listed
+                                     scheme buy-back any additional information that the listing rules of the prescribed
+                                     financial market require to be disclosed, should be included.
+
+Note: This information is similar to the information we expect a company to provide to shareholders when seeking shareholder
+approval and making offers under a share buy-back: see RG 110.18.
+
+
+                               Additional disclosures when buying back a significant percentage of
+                               interests
+
+               RG 101.78       If a responsible entity proposes to buy back a significant percentage of
+                               interests, it should consider including:
+                               (a)    a report by any of its directors who are independent about whether
+                                      members should vote in favour of the scheme buy-back, particularly
+                                      having regard to how much the responsible entity is paying for the
+                                      interests; and
+
+
+
+© Australian Securities and Investments Commission December 2016                                                     Page 22
+                                                       REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                             (b)   an independent expert report with a valuation of the interests.
+
+              RG 101.79      For scheme buy-backs of a significant percentage of the interests in a
+                             scheme or involving parties holding a significant interest, we consider it is
+                             usually helpful for members to have the benefit of independent advice on
+                             whether to vote for a scheme buy-back that sets out the expert’s opinion on
+                             whether the proposed terms give a ‘fair value’ for the interests and the
+                             reasons the expert holds this opinion.
+
+                                   Note: See Regulatory Guide 111 Content of expert reports (RG 111) and Regulatory
+                                   Guide 112 Independence of experts (RG 112).
+
+
+                             When previously disclosed information is overtaken by events
+
+              RG 101.80      We consider that if the information disclosed to members approving the
+                             scheme buy-back no longer adequately describes the circumstances
+                             surrounding the scheme buy-back, the responsible entity can no longer rely
+                             on that resolution in order to carry out a valid scheme buy-back. Any
+                             information disclosed to members must not be misleading or deceptive.
+
+                             Confidential information
+
+              RG 101.81      All information known to the responsible entity that is material to the
+                             decision to how to vote must be disclosed. There is no exclusion that would
+                             enable the responsible entity or expert to omit confidential information. If a
+                             responsible entity is concerned about disclosing detailed confidential
+                             information about the scheme, we consider the responsible entity or expert
+                             should summarise this information.
+
+
+                             Member approval can only be relied on for up to 12 months
+
+              RG 101.82      We impose a 12-month limit on any resolution approving the scheme buy-
+                             back given by members. After 12 months, we consider that an approval of a
+                             scheme buy-back may be ‘stale’ (i.e. the approval will likely no longer
+                             provide the intended protection for members and creditors). A 12-month
+                             period is also consistent with the operation of the 10/12 limit in s257B for
+                             companies.
+
+              RG 101.83      Where member approval is required, members are approving the terms of the
+                             scheme buy-back arrangement. This means the terms of the arrangement
+                             must be sufficiently certain for member approval to be effective. We
+                             consider that a responsible entity can only rely on approval for up to
+                             12 months.
+
+              RG 101.84      For continuous scheme buy-backs, after 12 months, further approval will be
+                             required if the responsible entity intends to continue buying back interests.
+
+                                   Note: For listed schemes, a further notice must be made to the prescribed financial
+                                   market after 12 months of the previous notice: see RG 101.87.
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                                   Page 23
+                                                       REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+Notification requirements
+
+                             Prescribed financial market must be notified for listed
+                             scheme buy-backs that do not exceed the 10/12 limit
+
+              RG 101.85      For a listed scheme buy-back that does not require member approval (i.e. the
+                             10/12 limit is not exceeded), the responsible entity must disclose in a notice
+                             to the prescribed financial market:
+                             (a)   the intention of the responsible entity to buy back interests;
+                             (b)   the number of interests in the scheme held by the responsible entity and
+                                   any associate; and
+                             (c)   the source of funds to pay for any interests to be bought back.
+
+                                   Note: See Appendix 3C of ASX Listing Rules (‘Announcement of buy-back’).
+
+              RG 101.86      The responsible entity must notify the prescribed financial market at least
+                             14 days before the scheme buy-back. This process will help to ensure that
+                             members are given sufficient time to be made aware of the intended scheme
+                             buy-back. Notification is intended to promote a reasonable opportunity for
+                             members to participate in the scheme buy-back having regard to the fact that
+                             the responsible entity is not required to send a withdrawal notice to scheme
+                             members under Pt 5C.6.
+
+                                   Note: A 14-day waiting period is consistent with the equivalent requirements for on-
+                                   market share buy-backs: s257F(1).
+
+
+                             Continuous scheme buy-backs
+
+              RG 101.87      For a continuous scheme buy-back, a new notice setting out the information
+                             in RG 101.85 must be made to the prescribed financial market if the scheme
+                             buy-back is to continue after 12 months from the date of the previous notice.
+
+                                   Note: See the corresponding 12-month limit on member approval at RG 101.82–
+                                   RG 101.84.
+
+
+                             When the responsible entity must start buying back interests
+
+              RG 101.88      The responsible entity must start buying back interests:
+                             (a)   at any date specified in the notice to the prescribed financial market; or
+                             (b)   otherwise, within two months of the date of the notice to the prescribed
+                                   financial market.
+
+                                   Note: We have imposed a two-month time limit because we consider that after two
+                                   months members may reasonably expect that a scheme buy-back is not proceeding if it
+                                   has not already commenced. A two-month timeframe is also consistent with s631(1) for
+                                   announcements about proposed takeovers. We do not believe it will be difficult to have
+                                   to lodge a further notice with the prescribed financial market if required.
+
+              RG 101.89      We will calculate the two-month period from:
+
+
+
+© Australian Securities and Investments Commission December 2016                                                  Page 24
+                                                      REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                             (a)   the date specified, if the disclosure to the prescribed financial market
+                                   specifies a date for the proposed scheme buy-back; or
+                             (b)   if no such date is specified, the date the scheme buy-back is announced.
+
+
+                             No notifications to ASIC are required
+
+              RG 101.90      A responsible entity carrying out an on-market scheme buy-back is not
+                             required to directly lodge any notices with ASIC. All relevant notices
+                             relating to the commencement, ongoing status and completion of the on-
+                             market scheme buy-back must be made through the prescribed financial
+                             market in accordance with the listing rules.
+
+                                   Note: See, for example, Rule 3.8A, Appendix 3C (‘Announcement of buy-back’),
+                                   Appendix 3D (‘Change relating to buy-back’), Appendix 3E (‘Daily notification’) and
+                                   Appendix 3F (‘Final notice’) of the ASX Listing Rules.
+
+
+                             Notification requirements for other types of scheme buy-
+                             backs
+
+              RG 101.91      For scheme buy-backs where there will not be notifications to a prescribed
+                             financial market of the scheme buy-back (e.g. an unlisted scheme), we may
+                             impose alternative notification requirements to promote members having a
+                             reasonable opportunity to participate in the scheme buy-back.
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                                Page 25
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+D          Applying for individual relief
+
+                              Key points
+
+                              We will consider applications for individual relief for scheme buy-backs in
+                              appropriate circumstances subject to the responsible entity being able to
+                              meet certain conditions: see Section C.
+
+                              We will exercise our discretionary power to grant individual relief after
+                              taking into account relevant considerations and the proper use of our
+                              discretionary power.
+
+                              This section provides details of the factors we will generally consider
+                              relevant to our consideration of applications for individual relief for scheme
+                              buy-backs. We may require additional information or consider further
+                              factors not set out in this section as required in the context of a particular
+                              relief application.
+
+
+
+
+Types of individual relief applications we will consider
+              RG 101.92      When considering applications for individual relief, we will consider the
+                             types of relief that would be required to facilitate the proposed scheme buy-
+                             back. The types of relief we will generally consider granting are described in
+                             Section B. Our considerations will include a general assessment of whether
+                             the proposed scheme buy-back would be consistent with our policy settings
+                             for scheme buy-backs: see RG 101.4.
+
+              RG 101.93      If we decide that relief would be appropriate for a particular scheme buy-
+                             back, we will consider how the conditions generally described in Section C
+                             should be applied to the circumstances of the particular proposal.
+
+
+
+Considerations linked to our conditions of relief
+              RG 101.94      When we assess an application for individual relief, we will consider the
+                             following factors linked to the conditions set out in Section C:
+                             (a)   whether the constitution includes a power for the responsible entity to
+                                   buy back interests (see RG 101.49–RG 101.50);
+                             (b)   whether the scheme buy-back materially prejudices scheme creditors
+                                   (see RG 101.51–RG 101.52);
+                             (c)   for listed schemes, whether the scheme buy-back will be in the ordinary
+                                   course of trading (see RG 101.53–RG 101.55);
+                             (d)   whether the purchase price will be paid from scheme property (see
+                                   RG 101.56);
+
+
+
+© Australian Securities and Investments Commission December 2016                                       Page 26
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                             (e)   for listed schemes, whether the scheme buy-back will comply with the
+                                   listing rules of the prescribed financial market (see RG 101.57–
+                                   RG 101.62);
+                             (f)   whether the interests will be disposed of and will be cancelled (see
+                                   RG 101.63);
+                             (g)   whether member approval will be required—we may review the draft
+                                   disclosure that the responsible entity proposes to give to members
+                                   eligible to participate in the scheme buy-back and consider whether the
+                                   draft disclosure contains all material information to assist a member to
+                                   make a decision to participate in the scheme buy-back (see RG 101.67–
+                                   RG 101.84); and
+                             (h)   for listed scheme buy-backs that do not require member approval, the
+                                   notifications proposed to be made to the prescribed financial market and
+                                   the timing of when the scheme buy-back is proposed to be carried out
+                                   (see RG 101.85–RG 101.89).
+
+
+
+Other relevant considerations
+              RG 101.95      The considerations in this section are linked to a corresponding disclosure
+                             requirement (where the proposed scheme buy-back requires member
+                             approval). For the factors in this section, in addition to the considerations set
+                             out in Table 3 and in RG 101.78–RG 101.79, we will also consider the
+                             following factors as relevant to the circumstances of the proposed scheme
+                             buy-back:
+                             (a)   the type of scheme buy-back and the type of relief required to facilitate
+                                   the scheme buy-back, and whether it will be carried out on-market or
+                                   off-market (see RG 101.96–RG 101.97);
+                             (b)   whether the scheme buy-back is fair to all members (see RG 101.98–
+                                   RG 101.105);
+                             (c)   documentation supporting the proposed scheme buy-back (see
+                                   RG 101.106);
+                             (d)   whether there is any report by independent directors about whether they
+                                   recommend members voting in favour of the scheme buy-back or an
+                                   independent expert has given an opinion that the scheme buy-back is
+                                   fair and reasonable (see RG 101.107–RG 101.108);
+                             (e)   the proposed scheme buy-back price and trading volumes (see
+                                   RG 101.109–RG 101.110);
+                             (f)   alternative options considered and reasons why each alternative option
+                                   was not considered to be appropriate (see RG 101.111); and
+                             (g)   appropriate conditions and limitations applicable to the relief sought
+                                   (see RG 101.112–RG 101.114).
+
+
+
+© Australian Securities and Investments Commission December 2016                                       Page 27
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                             Type and mode of scheme buy-back
+
+              RG 101.96      We will consider the type of scheme buy-back and whether it will involve
+                             stapled or unstapled securities. We will also form a view on the type of relief
+                             that will be required to facilitate the scheme buy-back.
+
+              RG 101.97      We will also consider whether the scheme buy-back is proposed to be
+                             carried out on-market or off-market or whether it is proposed to be
+                             conducted concurrently on-market and off-market. If the scheme buy-back is
+                             to be carried out on a prescribed financial market that is not ASX, we will
+                             consider whether the prescribed financial market has equivalent investor
+                             protections to ASX.
+
+
+                             Fairness to members
+
+              RG 101.98      We will consider whether the scheme buy-back is, and the scheme buy-back
+                             procedures are, fair and reasonable to members as a whole (to align with the
+                             general policy for share capital reductions in s256B(1)(a)) and whether the
+                             scheme buy-back proposes to treat any members differently: see
+                             s601FC(1)(d).
+
+                             Members have a reasonable opportunity to offer for sale their interests
+
+              RG 101.99      In our view, notification to members is generally required to promote a
+                             reasonable opportunity for members to participate in the scheme buy-back.
+
+              RG 101.100     Where approval is required to carry out the scheme buy-back, 21 days notice
+                             of the meeting to approve the scheme buy-back will generally be required to
+                             be given to members. Where member approval is not required, 14 days
+                             notice is generally required to be made. This notification process may be
+                             similar to the notification that would be required for a listed scheme buy-
+                             back: see RG 101.86.
+
+                             Equal treatment of members
+
+              RG 101.101     We will consider whether the proposed scheme buy-back is intended to treat
+                             all members equally, whether some members are proposed to be prioritised
+                             over others, and whether any members would be ineligible to participate in
+                             the scheme buy-back. We will assess whether any proposed unequal
+                             treatment of members is within our policy and whether equal treatment relief
+                             is appropriate: see RG 101.31–RG 101.37.
+
+              RG 101.102     We will carefully consider any unequal treatment of members, including the
+                             following factors:
+                             (a)   the overall number of interests and the total value of the scheme
+                                   interests;
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                       Page 28
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                             (b)   the relative number, and the value, of the holdings of groups of
+                                   members that will be treated in different ways; and
+                             (c)   reasons for the differences in how members will be treated under the
+                                   proposed scheme buy-back and how information about different
+                                   treatment of members is proposed to be disclosed.
+
+              RG 101.103     Typically, we will seek to apply reasonable limits on any relief we grant
+                             from the requirement to treat members equally as appropriate to the
+                             circumstances of the scheme buy-back.
+
+                             How the scheme buy-back is to be funded
+
+              RG 101.104     We will consider in detail how the proposed scheme buy-back is to be
+                             funded having regard to:
+                             (a)   whether the scheme buy-back is to be funded out of existing cash
+                                   holdings of scheme property;
+                             (b)   whether the scheme buy-back might prompt any realisation of assets
+                                   that could be disadvantageous to members; and
+                             (c)   the liquidity of the assets of the fund.
+
+                             Impact of the scheme buy-back
+
+              RG 101.105     We will consider the impact of the scheme buy-back on net asset value,
+                             including the risk that the asset backing of non-participating members may
+                             be diluted, change in control and how impacts are proposed to be disclosed
+                             to members.
+
+
+                             Documentation supporting the proposed scheme buy-back
+
+              RG 101.106     We may request copies of draft documentation relating to the proposed
+                             scheme buy-back, including:
+                             (a)   any notice of meeting of members, including any supporting statements
+                                   relating to a resolution to carry out the scheme buy-back or approve the
+                                   scheme buy-back terms or any other related approval (such as an
+                                   approval for a related party transaction—see Regulatory Guide 76
+                                   Related party transactions (RG 76));
+                             (b)   any draft changes proposed to be made to a scheme constitution; and
+                             (c)   any draft disclosure document related to the proposed scheme buy-back,
+                                   including any draft Product Disclosure Statement (PDS).
+
+
+                             Independent reports
+
+              RG 101.107     Depending on the circumstances of the proposed scheme buy-back, and
+                             whether an independent expert report is required, we may request a copy of
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                       Page 29
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                             any draft independent report proposed to be provided to members relating to
+                             the scheme buy-back: see RG 101.78–RG 101.79. We will consider any
+                             recommendation from the expert and reasons for the recommendation in
+                             relation to the scheme buy-back and whether the expert has given an opinion
+                             as to whether the scheme buy-back is fair and reasonable.
+
+              RG 101.108     We will similarly consider any report or recommendation by an independent
+                             director on how members should vote in a resolution relating to the proposed
+                             scheme buy-back.
+
+
+                             Scheme buy-back price
+
+              RG 101.109     In considering the scheme buy-back price, we will consider the following
+                             factors:
+                             (a)   potential impacts on the trading volume of the class of interests to be
+                                   bought back;
+                             (b)   how the scheme buy-back price is proposed to be determined;
+                             (c)   the extent of any proposed premium or discount to the average market
+                                   price;
+                             (d)   whether the scheme buy-back price complies with Rule 7.33 of the
+                                   ASX Listing Rules (see RG 101.61)—that is, the price does not exceed
+                                   5% of the VWAP for interests, where the average is calculated over the
+                                   last five days on which sales in the interests were recorded before the
+                                   day on which the purchase is made; and
+                             (e)   whether the scheme buy-back price is more than the net asset value of
+                                   the interest.
+
+              RG 101.110     Generally, the scheme buy-back price will not be at a discount to the average
+                             market price; however, if a discounted buy-back price is proposed we will
+                             consider the reasons for the discount. For example, a discounted price may
+                             be justified for a scheme with a history of being illiquid. Relief from the self-
+                             acquisition provisions in s601FG(1)(a) may be required where there is a
+                             proposed discount to the average market price: see RG 101.38–
+                             RG 101.40.
+
+
+                             Alternative options
+
+              RG 101.111     We will consider what other options are open to the responsible entity, the
+                             responsible entity’s assessment of these options and why the proposed
+                             scheme buy-back is considered the preferred option. Where an independent
+                             expert report is proposed to be provided to members, we may also consider
+                             the expert’s findings on any alternative options considered.
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                       Page 30
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                             Scheme buy-back conditions
+
+              RG 101.112     We will consider whether any special conditions or variations on the general
+                             conditions applicable to scheme buy-back relief set out in Section C would
+                             be appropriate in the circumstances.
+
+              RG 101.113     Standard conditions are typically adapted to the circumstances of the
+                             particular scheme buy-back in the following ways:
+                             (a)   determining the type of resolution if member approval is required and
+                                   whether the resolution should be a special resolution (see RG 101.67–
+                                   RG 101.71);
+                             (b)   establishing appropriate limits on any relief from the requirement to
+                                   treat members of the same class equally (see s601FC(1)(d))—for
+                                   example, setting appropriate limits on any tender scale-backs (see
+                                   RG 101.32–RG 101.33), or limits on the maximum value of a small
+                                   parcel where priority is proposed to be given for small parcels (see
+                                   RG 101.35–RG 101.36); and
+                             (c)   ensuring there are appropriate parameters around the scheme buy-back
+                                   price and the timing of the scheme buy-back, including any record date.
+
+              RG 101.114     We may as appropriate for a particular scheme buy-back apply different
+                             conditions that are not included in this guide.
+
+
+
+How to apply for individual relief
+              RG 101.115     To submit a relief application, you should:
+                             (a)   lodge an electronic copy to applications@asic.gov.au or a hard copy of
+                                   the document to an ASIC office in your state or territory;
+                             (b)   include the prescribed fee(s); and
+                             (c)   ensure that your application addresses the criteria in Regulatory
+                                   Guide 51 Applications for relief (RG 51) and this guide.
+
+              RG 101.116     If you are considering applying for relief, you should lodge your relief
+                             application well in advance of when you are considering commencing the
+                             scheme buy-back. We may also require additional time to consider any
+                             disclosure to be given to members.
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                       Page 31
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+Key terms
+
+                              Term                      Meaning in this document
+
+                              10/12 limit               10% of the smallest number of interests that are on issue
+                                                        at any time during the previous 12 months
+
+                              ASX                       ASX Limited or the exchange market operated by ASX
+                                                        Limited
+
+                              buy-back price            The amount to be paid to a member whose interest in the
+                                                        scheme is being purchased by the responsible entity of
+                                                        the scheme
+
+                              [CO 13/657] (for          An ASIC class order (in this example numbered 13/657)
+                              example)                       Note: Legislative instruments made from 2015 are referred
+                                                             to as ASIC instruments.
+
+                              constitution              A constitution of a scheme
+
+                              Corporations Act          Corporations Act 2001, including regulations made for the
+                                                        purposes of that Act
+
+                              employee share            Has the meaning given in s9
+                              scheme buy-back
+
+                              equal access scheme       Has the meaning given in s9 and as described in
+                                                        RG 101.9
+
+                              listed                    Has the meaning given in s9
+
+                              minimum holding buy-      Has the meaning given in s9
+                              back
+
+                              non-liquid scheme         Has the meaning given in s601KA(3)
+
+                              on-market                 Has the meaning given in s9
+
+                              prescribed financial      Has the meaning given in s9
+                              market
+
+                              Product Disclosure        A document that must be given to a retail client in relation
+                              Statement (PDS)           to the offer or issue of a financial product in accordance
+                                                        with Div 2 of Pt 7.9 of the Corporations Act
+                                                             Note: See s761A for the exact definition.
+
+                              responsible entity        Has the meaning given in s9
+
+                              RG 110 (for example)      An ASIC regulatory guide (in this example numbered
+                                                        110)
+
+                              Rule 3.8A (for            A rule of the ASX Listing Rules (in this example
+                              example)                  numbered 3.8A), unless otherwise specified
+
+                              s601GA(4) (for            A section of the Corporations Act (in this example
+                              example)                  numbered 601GA(4)), unless otherwise specified
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                               Page 32
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                              Term                      Meaning in this document
+
+                              scheme                    A registered managed investment scheme as defined in
+                                                        s9
+
+                              scheme buy-back           A scheme buy-back as described in RG 101.2
+
+                              scheme property           Has the meaning given in s9
+
+                              scheme’s creditor         A creditor of a responsible entity in relation to which the
+                                                        responsible entity has a right of indemnity for the liability
+                                                        out of scheme property
+
+                              selective buy-back        A selective buy-back as defined in s9 and described in
+                                                        RG 101.10–RG 101.12
+
+                              VWAP                      Volume weighted average price
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                                Page 33
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+Related information
+                             Headnotes
+
+                             10/12 limit, buy-back price, disclosure, discretion, managed investment
+                             scheme, market price, member approval, members, off-market scheme buy-
+                             back, on-market scheme buy-back, responsible entity, scheme buy-back,
+                             scheme constitution, withdrawal procedures, withdrawal requests
+
+
+                             Legislative instruments
+
+                             [CO 13/657] Discretions affecting the amount of consideration to acquire
+                             interests and withdrawal amounts
+
+                             ASIC Corporations (ASX-listed Schemes On-market Buy-backs) Instrument
+                             2016/1159
+
+
+                             Regulatory guides
+
+                             RG 51 Applications for relief
+
+                             RG 72 Foreign securities disclosure relief
+
+                             RG 76 Related party transactions
+
+                             RG 110 Share buy-backs
+
+                             RG 111 Content of expert reports
+
+                             RG 112 Independence of experts
+
+                             RG 134 Managed investments: Constitutions
+
+                             RG 223 Guidance on ASIC market integrity rules for competition in
+                             exchange markets
+
+
+                             Legislation
+
+                             Corporations Act, Ch 2G.4, Pt 5C.6, Div 5A of Pt 7.9, s253E, 256B,
+                             256B(1)(a), 257A, 257B, 257D(2), 257F(1), 601FC(1)(d), 601FC(1A),
+                             601FG(1)(a), 601GA(4), 601KB(2), 601KB(3)(a), 601KD, 606, item 19 of
+                             611, 631(1), 1019D(1)(d)(ii), 1043A
+
+
+                             Market integrity rules
+
+                             ASIC Market Integrity Rules (Competition in Exchange Markets) 2011
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                       Page 34
+                                                     REGULATORY GUIDE 101: Managed investment scheme buy-backs
+
+
+
+
+                             Cases
+
+                             Aberfoyle Ltd v Western Metals Ltd (1998) 16 ACLC 1,335
+
+                             ANZ Nominees Pty Ltd v Wormald International Ltd (1988) 13 ACLR 698
+
+                             Attorney-General (Vic) v Walsh’s Holdings Ltd [1973] VR 137
+
+                             Lantern Hotel Group and Australian Securities and Investments Commission
+                             [2015] AATA 428 (17 June 2015)
+
+                             MacarthurCook Fund Management Ltd v TFML Ltd (2014) 32 ACLC
+                             14-023; [2014] HCA 17
+
+                             NSCS v Consolidated Gold Mining Areas NL (No. 2) [1985] 1 NSWLR 622
+
+
+                             Consultation paper
+
+                             CP 269 Remaking ASIC class order on managed investment scheme buy-
+                             backs and updating related guidance
+
+
+
+
+© Australian Securities and Investments Commission December 2016                                       Page 35
+

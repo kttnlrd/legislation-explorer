@@ -1,0 +1,28 @@
+{
+  "citation": "RG 108",
+  "title": "No-action letters",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide explains the process for applying to ASIC for a no-action letter or class no-action position. It outlines the factors ASIC considers when deciding whether to grant such requests.",
+  "background": "ASIC administers various legislation, including the Corporations Act 2001 and the National Consumer Credit Protection Act 2009, and has powers to exercise discretion not to take regulatory action. This guide is intended for persons and their professional advisers who are seeking assurance that ASIC will not take enforcement action in relation to a specific proposed activity.",
+  "ruling": "ASIC states that a no-action letter is a written assurance that it does not intend to take regulatory action against a person in relation to a specific proposed activity, but it is not a ruling on the law. ASIC will consider factors such as the regulatory purpose and intent of the relevant legislation, the potential harm to consumers or the market, and the applicant's good faith and cooperation. For class no-action positions, ASIC considers the broader impact on industry participants and will generally publish such positions. ASIC retains discretion to withdraw or vary a no-action letter if circumstances change or if new information comes to light. The guide clarifies that no-action letters are distinct from other forms of ASIC correspondence, such as private rulings or relief instruments.",
+  "date_of_effect": "2025-02-01",
+  "legislation_referenced": [
+    "Australian Securities and Investments Commission Act 2001 (Cth) s 1(2), s 12A, s 127",
+    "Corporations Act 2001 (Cth) s 1318(2)",
+    "Corporations (Fees) Regulations 2001 (Cth) Sch 1",
+    "Insurance Act 1973 (Cth)",
+    "National Consumer Credit Protection Act 2009 (Cth) s 183",
+    "National Consumer Credit Protection (Fees) Regulations 2010 (Cth) Sch 1",
+    "National Consumer Credit Protection (Transitional and Consequential Provisions) Act 2009 (Cth)",
+    "Superannuation Industry (Supervision) Act 1993 (Cth)"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "RG 51",
+    "RG 78",
+    "RG 103",
+    "INFO 30",
+    "INFO 151"
+  ]
+}

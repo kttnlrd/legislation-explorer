@@ -1,0 +1,1676 @@
+REGULATORY GUIDE 98
+
+ASIC’s powers to suspend,
+cancel and vary AFS licences
+and make banning orders
+
+November 2022
+
+
+
+
+About this guide
+This guide is for AFS licensees, their representatives, and advisers.
+
+It describes the administrative powers available to ASIC to enforce
+compliance with the Corporations Act, including the financial services
+licensing provisions, by suspending, cancelling and varying AFS licences
+and making banning orders. It also indicates the matters ASIC generally
+takes into account when exercising these powers.
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This version was issued in November 2022 and is based on legislation and
+                             regulations as at the date of amendment.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 98, issued November 2010, reissued
+                                     July 2012, July 2013 and September 2018
+                                    Superseded ASIC guide Licensing: Administrative action against
+                                     financial services providers, issued 26 April 2006, rebadged as
+                                     Regulatory Guide 98 on 5 July 2007
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                           Page 2
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+Contents
+                             A      Overview ........................................................................................... 4
+                                    ASIC’s responsibilities ....................................................................... 5
+                                    ASIC’s administrative powers ............................................................ 7
+                                    When we will take administrative action ............................................ 7
+                                    A person’s rights in dealing with ASIC ............................................... 8
+                             B      Suspending, cancelling or varying an AFS licence ..................... 9
+                                    Power to suspend, cancel or vary an AFS licence ............................ 9
+                                    When we will suspend, cancel or vary an AFS licence ................... 12
+                             C      Banning orders .............................................................................. 17
+                                    Power to make a banning order ...................................................... 17
+                                    When we will make a banning order ................................................ 20
+                                    Varying or cancelling banning orders .............................................. 26
+                             D      Publicising our decisions ............................................................. 28
+                                    Public notification of decisions ......................................................... 28
+                                    Public comment ............................................................................... 29
+                             Key terms ............................................................................................... 30
+                             Related information ............................................................................... 33
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                                                      Page 3
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+A          Overview
+
+                              Key points
+
+                              ASIC is responsible for regulating persons who carry on a financial services
+                              business in Australia, including:
+                              • granting Australian financial services (AFS) licences to those persons;
+                              • monitoring AFS licensees for ongoing compliance with their licence
+                                conditions and other legal obligations as licensees; and
+                              • taking action, where appropriate, to enforce the laws ASIC administers
+                                when they are breached by an AFS licensee (or a person acting on their
+                                behalf).
+
+                              ASIC’s powers to take action to protect investors and consumers may
+                              involve the use of an administrative remedy, which may be in addition to
+                              civil or criminal remedies. These remedies may include suspending,
+                              cancelling or varying an AFS licence or making a banning order against a
+                              person.
+
+                              We will use a remedy, or combination of remedies, where it most effectively
+                              and efficiently achieves our aim of promoting the objects of Ch 7 of the
+                              Corporations Act 2001 (Corporations Act): see s760A. This includes by
+                              promoting compliance with the law through deterring misconduct and
+                              raising professionalism in the financial services industry.
+
+
+              RG 98.1        This guide provides guidance for participants in the financial services
+                             industry on ASIC’s administrative powers to:
+                             (a)   suspend, cancel or vary an AFS licence under s914A, 915B and 915C;
+                                   and
+                             (b)   make a banning order under s920A, prohibiting a person from:
+                                   (i)    providing financial services; or
+                                   (ii)   controlling, or performing functions involved in carrying on, a
+                                          financial services business (including, for example, as an officer or
+                                          employee).
+
+                                   Note: In this guide, references to sections (s), divisions (Div), chapters (Ch) and parts
+                                   (Pt) are to the Corporations Act, unless otherwise specified.
+
+              RG 98.2        It indicates the matters we generally take into account when exercising these
+                             powers, with some illustrative examples.
+
+                                   Note: This guide does not discuss the administrative powers that we may exercise in
+                                   relation to Australian credit licensees (credit licensees). These are explained in
+                                   Regulatory Guide 218 Licensing: Administrative action against persons engaging in
+                                   credit activities (RG 218).
+
+              RG 98.3        In this guide, we explain how we approach our task of promoting the objects
+                             of the financial services regime. This task includes protecting investors and
+
+
+© Australian Securities and Investments Commission November 2022                                                       Page 4
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+                             consumers, and reinforcing the integrity and reputation of the financial
+                             services industry.
+
+              RG 98.4        This guide should be read in conjunction with regulatory guides and
+                             information sheets we have published on how we will administer the
+                             financial services provisions of the Corporations Act: see ‘Related
+                             information’.
+
+              RG 98.5        This guide does not deal with decision making by the Financial Services and
+                             Credit Panel. It also does not deal with the broad range of other
+                             administrative actions that might be available to ASIC—including, for
+                             example:
+                             (a)   making a stop order;
+                             (b)   issuing an infringement notice;
+                             (c)   issuing warnings and reprimands; or
+                             (d)   for AFS licensees who are participants of a financial market, referring
+                                   alleged contraventions of the market integrity rules to the Markets
+                                   Disciplinary Panel.
+
+              RG 98.6        This guide also does not discuss ASIC’s complementary civil or criminal
+                             enforcement powers or its power to accept a court enforceable undertaking.
+
+                                   Note: For guidance on ASIC’s approach to enforcement more generally, see
+                                   Information Sheet 151 ASIC’s approach to enforcement (INFO 151). For guidance on
+                                   ASIC’s approach to court enforceable undertakings, see Regulatory Guide 100 Court
+                                   enforceable undertakings (RG 100). For guidance on referrals to the Markets
+                                   Disciplinary Panel, see Regulatory Guide 216 Markets Disciplinary Panel (RG 216).
+                                   For guidance on the Financial Services and Credit Panel, see Regulatory Guide 263
+                                   Financial Services and Credit Panel (RG 263).
+
+
+
+
+ASIC’s responsibilities
+              RG 98.7        We are responsible for regulating persons who carry on a financial services
+                             business in Australia, as well as those who provide financial services on
+                             behalf of persons who carry on a financial services business.
+
+              RG 98.8        Our regulatory responsibilities are underpinned by the objects of the
+                             financial services regime, which include promoting:
+                             (a)   investors and consumers making confident and informed decisions;
+                             (b)   fairness, honesty and professionalism by those who provide financial
+                                   services; and
+                             (c)   fair, orderly and transparent markets for financial products (see s760A).
+
+              RG 98.9        The financial services regime aims to ensure that investors and consumers
+                             can feel confident when dealing with participants in the financial services
+                             industry. To promote confidence, industry participants are subject to the
+
+
+© Australian Securities and Investments Commission November 2022                                               Page 5
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+                             legal obligations that attach to their participant status, such as their status as
+                             an AFS licensee or a financial services provider. ASIC’s powers to protect
+                             investors and consumers include the power to apply a variety of
+                             administrative remedies against financial services providers and other
+                             industry participants that breach or are likely to breach those obligations,
+                             where this is appropriate.
+
+              RG 98.10       To promote investor and consumer confidence in the financial services
+                             industry, we endeavour to ensure that industry participants comply with their
+                             obligations and meet community expectations. We educate investors and
+                             consumers so that they will be in a better position to make informed
+                             decisions. We also educate industry participants to raise compliance
+                             standards generally. Where necessary, we will take action to protect
+                             investors and consumers.
+
+              RG 98.11       The administrative action we take against a participant in the financial
+                             services industry demonstrates to the person, to industry participants more
+                             generally, and to investors and consumers, that the particular conduct is
+                             unacceptable. This in turn promotes the objects of the financial services
+                             regime and may deter industry participants from engaging in misconduct.
+
+                                  Note: In HIH Insurance Ltd and HIH Casualty and General Insurance Ltd, Re: ASIC v
+                                  Adler (2002) 42 ACSR 80, Santow J summarised the principles by which the
+                                  discretionary power to disqualify directors is exercised (at [56]). These principles are
+                                  applicable to ASIC’s exercise of administrative powers to cancel or suspend a licence or
+                                  to make a banning order.
+
+
+                             AFS licensees and their representatives
+
+              RG 98.12       Our regulatory role in relation to the financial services regime includes a
+                             responsibility for licensing persons who wish to carry on a business of
+                             providing financial services in Australia. These persons are generally
+                             required to hold an AFS licence: see s911A.
+
+              RG 98.13       We are also responsible for monitoring AFS licensees’ ongoing compliance
+                             with their licence and other legal obligations. To this end, among other
+                             things, we conduct surveillance and analyse the reports of misconduct we
+                             receive.
+
+              RG 98.14       Lastly, we are responsible for taking action, where appropriate, to enforce the
+                             law when it is breached by an AFS licensee or a person acting on behalf of an
+                             AFS licensee. If appropriate, that enforcement action may involve the use of
+                             an administrative remedy, sometimes in addition to civil or criminal remedies.
+
+              RG 98.15       When we seek a remedy, we will use the remedy or combination of remedies
+                             that best achieves the aims set out in RG 98.8–RG 98.14.
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                                   Page 6
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+ASIC’s administrative powers
+              RG 98.16       The financial services laws over which we have jurisdiction set out the
+                             remedies available to ASIC. These remedies can be broadly categorised as:
+                             (a)   criminal action;
+                             (b)   civil action; and
+                             (c)   administrative action.
+
+                             We may use these remedies in combination.
+
+              RG 98.17       Administrative actions that we may take against AFS licensees include:
+                             (a)   immediately suspending or cancelling an AFS licence in certain limited
+                                   circumstances;
+                             (b)   suspending or cancelling an AFS licence after offering a hearing; and
+                             (c)   varying AFS licence conditions after offering a hearing, including by
+                                   imposing additional licence conditions or removing licence
+                                   authorisations.
+
+              RG 98.18       ASIC’s administrative powers to suspend, cancel or vary an AFS licence are
+                             explained in more detail in Section B.
+
+              RG 98.19       An administrative action that we may take against a financial services
+                             provider or other industry participant is to make a banning order against that
+                             person. For example, the order may prohibit that person from:
+                             (a)   providing financial services; or
+                             (b)   controlling, or performing functions involved in carrying on, a financial
+                                   services business (including as an officer, manager, employee,
+                                   contractor or in some other capacity).
+
+              RG 98.20       ASIC’s administrative powers to make a banning order are explained in
+                             more detail in Section C.
+
+
+
+When we will take administrative action
+
+              RG 98.21       Whether we will take administrative action to suspend, cancel or vary an
+                             AFS licence or make a banning order will depend on the facts of each
+                             matter. Factors underlying our decision about whether to take this type of
+                             administrative action include:
+                             (a)   whether the proposed action is within ASIC’s powers;
+                             (b)   whether taking the action will promote the objects of the financial
+                                   services regime;
+                             (c)   whether taking the action will deter misconduct;
+                             (d)   the strategic significance of taking action;
+
+
+© Australian Securities and Investments Commission November 2022                                           Page 7
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+                             (e)   the need to protect investors and consumers; and
+                             (f)   whether taking the proposed action is preferable to taking another type
+                                   of administrative action, in terms of cost and timeliness.
+
+              RG 98.22       Any administrative action we take may be in addition to civil or criminal
+                             action we are taking against the person or business.
+
+
+
+A person’s rights in dealing with ASIC
+              RG 98.23       For information about a person’s rights in dealing with ASIC, see
+                             Information Sheet 9 ASIC decisions: Your rights (INFO 9) and Information
+                             Sheet 107 Guidelines for managing allegations of misconduct against ASIC
+                             officers (INFO 107).
+
+              RG 98.24       The person may have a right to complain to the Commonwealth Ombudsman
+                             or to seek other independent review of our decisions.
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                           Page 8
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+B          Suspending, cancelling or varying an AFS
+           licence
+
+                              Key points
+
+                              Where AFS licensees breach (or we have reason to believe that they are
+                              likely to breach) their legal obligations, ASIC’s powers include the power to:
+                              • suspend or cancel an AFS licence (with or without a hearing); and
+                              • vary or impose further conditions on an AFS licence.
+
+                              The factors we will take into account when deciding whether to suspend, cancel
+                              or vary an AFS licence will depend on the circumstances of each matter.
+
+                              Examples of factors we may consider when making these decisions include
+                              whether:
+                              • we detect non-compliance by an AFS licensee (or by a person acting on
+                                their behalf) and the nature and seriousness of that non-compliance;
+                              • the AFS licensee has notified ASIC of a reportable situation (previously
+                                by lodging a breach report), and the nature and seriousness of the
+                                reportable situation;
+                              • suspension, cancellation or variation is an appropriate remedy for us to
+                                pursue;
+                              • there is a more appropriate alternative remedy for us to pursue;
+                              • action is desirable to protect investors and consumers;
+                              • action is likely to promote confident and informed decision making by
+                                investors and consumers;
+                              • action may deter industry participants from engaging in misconduct; or
+                              • action is likely to promote fairness, honesty and professionalism by
+                                industry participants.
+
+                              Where we decide to take administrative action, the type of administrative
+                              action we take will depend on the nature and seriousness of the conduct
+                              involved.
+
+
+
+Power to suspend, cancel or vary an AFS licence
+
+                             Immediate suspension or cancellation
+
+              RG 98.25       If appropriate, we may suspend or cancel an AFS licence in certain
+                             circumstances without giving the AFS licensee the opportunity of a hearing
+                             or to make submissions: see s915B.
+
+              RG 98.26       The circumstances where we may immediately suspend or cancel an AFS
+                             licence vary according to whether the AFS licensee is a natural person, a
+                             partnership, a body corporate or a trustee.
+
+
+© Australian Securities and Investments Commission November 2022                                           Page 9
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+              RG 98.27       For instance, if the AFS licensee is a body corporate, we may suspend or
+                             cancel the licence without offering a hearing if:
+                             (a)   the body ceases to carry on the financial services business;
+                             (b)   the body becomes a Chapter 5 body corporate;
+                             (c)   an officer of the body becomes an insolvent under administration;
+                             (d)   the body is:
+                                   (i)     the responsible entity of a registered scheme whose members have
+                                           suffered, or are likely to suffer, loss or damage because the body
+                                           has breached the Corporations Act;
+                                   (ii)    the operator of a notified foreign passport fund whose members
+                                           have suffered, or are likely to suffer, loss or damage because the
+                                           body has breached the Corporations Act; or
+                                   (iii)   a trustee company whose clients have suffered, or are likely to
+                                           suffer, loss or damage because the company has breached the
+                                           Corporations Act or certain financial services laws relating to
+                                           traditional trustee company services;
+                             (e)   the body applies to ASIC to have the AFS licence cancelled or
+                                   suspended; or
+                             (f)   the body is liable to pay a levy imposed by the ASIC Supervisory Cost
+                                   Recovery Levy Act 2017 and has not paid in full at least 12 months after
+                                   the due date for payment:
+                                   (i)     the amount of the levy;
+                                   (ii)    the amount of any late payment penalty payable in relation to the
+                                           levy; and
+                                   (iii)   the amount of any shortfall penalty payable in relation to the levy.
+
+              RG 98.28       We may also cancel an AFS licence held by a body corporate if the body
+                             does not provide a financial service covered by the licence within six months
+                             after the licence is granted.
+
+                                   Note: See s915B for information on when an AFS licence held by a natural person, a
+                                   partnership or a trustee can be suspended or cancelled without a hearing.
+
+
+                             Suspension or cancellation after offering a hearing
+
+              RG 98.29       We may also suspend or cancel an AFS licence after giving the licensee an
+                             opportunity to appear or be represented at a private hearing before ASIC and
+                             to make submissions: see s915C.
+
+                                   Note: The principles and procedures we adopt for these hearings are set out in
+                                   Information Sheet 1 Administrative hearings (INFO 1) and Regulatory Guide 8
+                                   Administrative hearings: Principles and conduct (RG 8).
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                                    Page 10
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+              RG 98.30       For an AFS licensee, the following circumstances may give rise to
+                             suspension or cancellation under s915C:
+                             (a)   the licensee has not complied with, or we have reason to believe it is
+                                   likely to contravene, its obligations under s912A;
+                             (b)   the requirement in s913BA (fit and proper person test) is not satisfied in
+                                   relation to the licensee and the licence;
+                             (c)   we make a banning order, or a court makes a disqualification order,
+                                   under Div 8 of Pt 7.6 against the licensee;
+                             (d)   we make a banning order, or a court makes a disqualification order,
+                                   under Div 8 of Pt 7.6 against a representative of the licensee, and we
+                                   consider that the representative’s involvement in the provision of the
+                                   licensee’s financial services will significantly impair the licensee’s
+                                   ability to meet its obligations under Ch 7;
+                             (e)   the licensee is the operator of an Australian passport fund, or a person
+                                   with responsibilities in relation to an Australian passport fund, and each
+                                   of the following is satisfied:
+                                   (i)    a host regulator for the fund has notified ASIC about the person’s
+                                          or fund’s failure or potential failure to comply with law administered
+                                          by the host regulator, including applicable Passport Rules; and
+                                   (ii)   we are of the opinion that we should suspend or cancel the licence,
+                                          given the potential impact of the failure, or potential failure, to
+                                          comply on members or potential members of the fund;
+                             (f)   the application for the licence under s913A, or the licensee’s application
+                                   under s914A(2)(b) for ASIC to impose, vary or revoke conditions on
+                                   the licence:
+                                   (i)    was false in a material particular or materially misleading; or
+                                   (ii)   omitted a material matter; and
+                             (g)   any information, audit report or statement lodged with ASIC in
+                                   response to our request under s913B(3) in relation to the application for
+                                   the licence, or under s914B(3) in relation to the licensee’s application
+                                   about licence conditions:
+                                   (i)    was false in a material particular or materially misleading; or
+                                   (ii)   omitted a material matter.
+
+              RG 98.31       If we suspend or cancel an AFS licence, we may specify that the licence
+                             continues in effect for the purposes of specified provisions of the
+                             Corporations Act. This continuation will be in relation to specified matters
+                             or for a specified period, or both: see s915H.
+
+                                   Note: An example of when we might allow an AFS licence to continue in effect for a
+                                   specified purpose would be to enable investors and consumers affected by a licensee’s
+                                   conduct to have their complaints dealt with by the Australian Financial Complaints
+                                   Authority (AFCA). AFCA is the operator of the AFCA scheme, which is the external
+                                   dispute resolution scheme for which an authorisation under Pt 7.10A is in force.
+
+
+
+© Australian Securities and Investments Commission November 2022                                                  Page 11
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+                             Varying or imposing licence conditions
+
+              RG 98.32       We may impose conditions, or further conditions, on an AFS licence at any
+                             time. We may impose conditions when we grant the licence or subsequently,
+                             and may vary or revoke the conditions: see s914A(1).
+
+              RG 98.33       Before imposing any such conditions after the licence has been granted, or
+                             before varying any such conditions, we must give the AFS licensee an
+                             opportunity to appear or be represented at a private hearing before ASIC and
+                             to make submissions to ASIC: see s914A(3).
+
+              RG 98.34       If appropriate, we may use ASIC’s power to impose additional licence
+                             conditions to address compliance issues. These licence conditions may, for
+                             example:
+                             (a)   preclude the AFS licensee from providing certain types of financial
+                                   services; or
+                             (b)   impose different or additional compliance obligations on the licensee—
+                                   such as requiring the licensee to engage an independent external compliance
+                                   consultant and provide ASIC with ongoing reports of its progress in
+                                   remedying previously identified deficiencies in compliance measures.
+
+
+
+When we will suspend, cancel or vary an AFS licence
+
+                             Our approach
+
+              RG 98.35       The foundation of ASIC’s approach to taking administrative action to
+                             suspend, cancel or vary an AFS licence is to take action where necessary or
+                             desirable to promote the objects of the financial services regime: see s760A.
+
+                                   Note: ASIC’s approach is reflected in Sovereign Capital Limited and Australian
+                                   Securities and Investments Commission [2008] AATA 901 at [84]: ‘A licence should
+                                   only be suspended or cancelled if it is necessary to do so in order to accomplish the
+                                   objects of the legislative scheme’.
+
+              RG 98.36       We are likely to take administrative action in instances where there is a need
+                             to protect investors and consumers, where there is a need to deter
+                             misconduct, or where conduct of the licensee may result in investor or
+                             consumer detriment. Whether administrative action will be taken will
+                             depend on the facts of each matter. In general, we may consider:
+                             (a)   suspending, cancelling or varying an AFS licence where we have
+                                   concerns about the licensee, or the way their business is being or has
+                                   been conducted; and
+                             (b)   cancelling an AFS licence where we have concerns about the accuracy
+                                   and completeness of the application.
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                                   Page 12
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+                             Relevant factors ASIC will consider
+
+              RG 98.37       ASIC’s licensing powers were amended by the Corporations Amendment
+                             (Future of Financial Advice) Act 2012. Additional explanation about ASIC’s
+                             licensing powers is provided in paragraphs 2.17–2.27 of the Explanatory
+                             Memorandum to the Corporations Amendment (Future of Financial Advice)
+                             Bill 2011. In particular, the Explanatory Memorandum notes that in
+                             determining whether a licensee is likely to contravene an obligation under
+                             s912A, for the purpose of suspending or cancelling an AFS licence, ASIC
+                             may take into account any information relevant to this question. For example:
+                             (a)   conduct of the licensee that shows deliberation and planning in wilfully
+                                   disregarding the law;
+                             (b)   the extent of compliance by the licensee with analogous obligations in
+                                   another regime; or
+                             (c)   any other conduct of the licensee that may lead ASIC to conclude, on
+                                   reasonable grounds, that the applicant is not likely to comply.
+
+              RG 98.38       While it is not possible to identify all factors relevant to a decision to
+                             suspend, cancel or vary a licence, Table 1 sets out factors that may be taken
+                             into account.
+
+                                   Note: The list in Table 1 is not exhaustive and there will be other factors that are not
+                                   mentioned in this guide that could lead to these outcomes.
+
+
+Table 1:    Key factors we consider in deciding to suspend, cancel or vary a licence
+
+ Factors                              Relevant considerations
+
+ Nature and seriousness of the         Whether the conduct of the licensee shows deliberation and planning in
+ suspected misconduct                   wilfully disregarding the law
+                                       Whether there is evidence that the contravention involved dishonesty or was
+                                        intentional, reckless or negligent
+                                       Whether the misconduct poses an unacceptable risk to investors and
+                                        consumers
+                                       The amount of any benefit gained or detriment suffered as a result of the
+                                        misconduct
+                                       The amount of any loss caused to investors and consumers
+                                       The impact of the misconduct on the market, including potential loss of public
+                                        confidence
+                                       Whether the conduct is continuing or appears likely to recur
+                                       Whether the misconduct indicates systemic compliance failures
+                                       Whether the licensee has a poor compliance record (e.g. they have
+                                        previously engaged in misconduct)
+                                       The extent of compliance by the licensee with analogous obligations in
+                                        another regime
+                                       Whether the licensee has failed to manage a material conflict of interest
+                                       Whether information provided by the licensee to ASIC was false in a material
+                                        particular or materially misleading, or omitted material information
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                                      Page 13
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+ Factors                             Relevant considerations
+
+ Internal controls                    Whether the licensee had effective internal policies and procedures in place
+                                       to ensure that the licensee and its representatives complied with obligations
+                                       and that any breaches were detected
+                                      Whether those policies and procedures were complied with and whether any
+                                       breaches of obligations were detected
+                                      Whether the licensee notified ASIC of reportable situations (previously by
+                                       lodging a breach report)
+                                      If the misconduct was committed by a representative of a licensee, whether it
+                                       indicates a systemic failure of supervision by the licensee
+                                      Whether a corporate culture conducive to compliance with obligations is
+                                       evident (e.g. effective educational and compliance programs)
+
+ Conduct after the alleged            When and how the breach came to the attention of ASIC
+ contravention occurs                 The level of cooperation with our investigation
+                                      Whether timely and effective remedial steps have been taken
+                                      Whether the licensee has been proactive in making appropriate changes to
+                                       policies and procedures and, where applicable, changing its approach to
+                                       ensure the effective functioning of its dispute resolution systems
+                                      Whether the licensee has been proactive in compensating client losses and
+                                       in communicating with clients about the contravention
+
+ The expected level of public         The protective effect for investors and consumers
+ benefit                              The reinforcement of the integrity and reputation of the financial services
+                                       industry
+                                      Whether the case is likely to help participants in financial markets to better
+                                       understand their obligations and thereby promote compliance
+
+ Likelihood that:                     The compliance history of the licensee
+  the licensee’s behaviour           Whether there has been a change in control or management of the licensee
+   will change in response to a       Whether behaviour (of a licensee or broader industry) is more likely to
+   particular action; and/or           change if the licensee has their licence suspended or cancelled
+  other industry participants
+   will be deterred from
+   engaging in similar conduct
+   through greater awareness
+   of the consequences
+
+ Mitigating factors                   Whether the misconduct relates to an isolated complaint and investors and
+                                       consumers have generally not suffered substantial detriment or been placed
+                                       in a position of unacceptable risk
+                                      Whether the misconduct was inadvertent and the licensee undertakes to
+                                       cease or correct the conduct
+                                      If the licensee has not commenced to carry on a financial services business,
+                                       whether there are genuine reasons for the licensee not doing so
+
+
+
+                             Whether suspension, cancellation or variation is more
+                             appropriate: Considerations
+
+              RG 98.39       In deciding whether it is more appropriate to suspend or to cancel an AFS
+                             licence, we will consider the principle set out in Sovereign Capital Limited
+
+
+© Australian Securities and Investments Commission November 2022                                              Page 14
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+                             and Australian Securities and Investments Commission [2008] AATA 901.
+                             That is, that a suspension will ordinarily be preferable if there is a reasonable
+                             prospect that the licence holder can remedy the defects that prompted the
+                             concern. In considering whether there is a reasonable prospect that defects
+                             can be remedied, we will have regard to whether the AFS licensee has
+                             previously been subject to regulatory action. If so, cancellation of the AFS
+                             licence may be more likely to occur.
+
+              RG 98.40       In appropriate cases, the objects of the licensing regime may be satisfied by
+                             suspending rather than cancelling a licence (e.g. to enable necessary
+                             remedial or compliance measures to be put in place by the licensee).
+
+              RG 98.41       Similarly, in appropriate cases, the objects of the licensing regime may be
+                             satisfied by varying licence conditions under s914A rather than suspending
+                             or cancelling the licence (e.g. imposing special compliance consultant
+                             review and report conditions, or restrictive conduct and enhanced disclosure
+                             conditions, might be preferable to suspending or cancelling the licence).
+
+
+                             Examples of misconduct that may result in cancellation or
+                             suspension
+
+              RG 98.42       Examples of misconduct that may result in an AFS licence being cancelled
+                             or suspended include:
+                             (a)   dishonesty by a licensee;
+                             (b)   the licensee failing to implement and maintain effective compliance
+                                   measures;
+                             (c)   systemic or persistent breaches of the licensee’s obligations;
+                             (d)   the licensee, at senior levels of management, misleading or hindering
+                                   ASIC, including by concealing or deliberately destroying records it is
+                                   required to keep;
+                             (e)   there is actual or potential significant risk to investors and consumers
+                                   because the licensee does not comply with its obligations under s912A,
+                                   for example, by:
+                                   (i)    not having adequate resources, risk management arrangements or
+                                          arrangements to manage conflicts of interest to continue to meet its
+                                          obligations; or
+                                   (ii)   not complying with the conditions of its licence; and
+                             (f)   the licensee giving information to ASIC that is false in a material
+                                   particular or materially misleading, or omits a material matter.
+
+                                   Note: These examples are not exhaustive and are intended to only give an indication of
+                                   misconduct that might lead to ASIC taking administrative action.
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                                  Page 15
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+                             Administrative action may be taken even if breaches are
+                             rectified
+
+              RG 98.43       We may cancel, suspend or vary an AFS licence even if the licensee has
+                             rectified breaches. We may do so to deter the licensee or others from
+                             engaging in misconduct. In deciding whether to do so, we will consider,
+                             among other things, whether the licensee has been reactive rather than
+                             proactive in its approach to compliance. The attitude of an individual
+                             licensee to compliance and the organisational culture of a corporate licensee
+                             are examples of factors we will take into account when forming a view about
+                             whether the licensee has a reactive or proactive compliance approach.
+
+                                  Note: See Masu Financial Management Pty Ltd and Australian Securities and
+                                  Investments Commission [2017] AATA 97.
+
+
+                             Change in control does not neutralise history of non-
+                             compliance
+
+              RG 98.44       A change in the control or the management of a body corporate AFS licensee
+                             does not mean that ASIC will disregard the licensee’s history of non-
+                             compliance. In appropriate circumstances, ASIC may cancel, suspend or
+                             vary the licensee’s AFS licence even if there is a change in control or in
+                             management. This is because even if breaches occurred before the change,
+                             those breaches form part of the licensee’s compliance history and may
+                             remain relevant.
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                              Page 16
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+C          Banning orders
+
+                              Key points
+
+                              ASIC’s powers to protect investors and consumers include the power to
+                              make a temporary or permanent banning order prohibiting a person from
+                              providing all or specified financial services or controlling, or performing
+                              functions involved in carrying on a financial services business. We will
+                              consider using these powers where a person breaches (or we have reason
+                              to believe that they are likely to breach) their legal obligations, or is
+                              involved in another person’s contravention of financial services laws.
+
+                              The factors we will take into account when deciding whether to make a
+                              banning order will depend on the circumstances of each matter.
+
+                              Examples of factors we may consider when making these decisions include
+                              whether:
+                              • we detect non-compliance by the person;
+                              • a banning order would be an appropriate remedy for us to pursue;
+                              • there is a more appropriate alternative remedy for us to pursue;
+                              • action is desirable to protect investors and consumers;
+                              • action is likely to promote confident and informed decision making by
+                                investors and consumers;
+                              • action may deter industry participants from engaging in misconduct; or
+                              • action is likely to promote fairness, honesty and professionalism by
+                                industry participants.
+
+                              Where we decide to take administrative action, the type of banning order
+                              we make will depend on the nature and seriousness of the conduct
+                              involved.
+
+
+
+
+Power to make a banning order
+              RG 98.45       We can exclude a person from, or limit their participation in, the financial
+                             services industry by making one or more banning orders against them: see
+                             s920A and 920B.
+
+
+                             What is a banning order?
+
+              RG 98.46       A banning order is a written order by ASIC that prohibits the banned person
+                             from doing one or more of the following:
+                             (a)   providing any financial services;
+                             (b)   providing specified financial services in specified circumstances or
+                                   capacities;
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                          Page 17
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+                             (c)   controlling, whether alone or in concert with one or more other entities,
+                                   an entity that carries on a financial services business;
+                             (d)   performing any function involved in the carrying on of a financial
+                                   services business (including as an officer, manager, employee,
+                                   contractor or in some other capacity); and
+                             (e)   performing specified functions involved in the carrying on of a financial
+                                   services business.
+
+              RG 98.47       A banning order may be permanent or for a specified period. If the banning
+                             is because the person has been an officer of two or more corporations that
+                             have been unable to pay their debts and the criteria in s920A(1C) are met, a
+                             banning order may be for a specified period of up to five years: see s920B(2)
+                             and s920A(1)(k).
+
+              RG 98.48       We may also make a banning order that includes a provision allowing the
+                             banned person to do specified acts, or specified acts in specified
+                             circumstances, that the order would otherwise prohibit them from doing.
+                             This provision may be subject to any specified conditions.
+
+              RG 98.49       A banned person cannot be granted an AFS licence contrary to the banning
+                             order and must not engage in conduct in breach of the banning order: see
+                             s920C.
+
+
+                             Making a banning order
+
+              RG 98.50       We can make a banning order that has immediate effect, without giving the
+                             person the opportunity of a hearing, if the person has been convicted of
+                             serious fraud or the person’s AFS licence has been suspended or cancelled
+                             under s915B: see s920A(3).
+
+              RG 98.51       In other cases, we can only make a banning order after giving the person the
+                             opportunity to appear or to be represented at a private hearing before ASIC
+                             and to make submissions: see s920A(1)–(2).
+
+              RG 98.52       We can make a banning order in relation to a person under s920A when:
+                             (a)   we suspend or cancel an AFS licence held by the person;
+                             (b)   the person has not complied with their obligations under s912A;
+                             (c)   we have reason to believe that the person is likely to contravene their
+                                   obligations under s912A;
+                             (d)   the person becomes a Chapter 5 body corporate or an insolvent under
+                                   administration;
+                             (e)   the person is convicted of fraud;
+                             (f)   we have reason to believe that the person is not a fit and proper person
+                                   to:
+                                   (i)   provide one or more financial services;
+
+
+© Australian Securities and Investments Commission November 2022                                          Page 18
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+                                   (ii)    perform one or more functions as an officer of an entity that carries
+                                           on a financial services business; or
+                                   (iii)   control an entity that carries on a financial services business;
+
+                                   Note: For matters that we must take into account when considering whether a person is
+                                   not a fit and proper person, see s920A(1A).
+
+                             (g)   we have reason to believe that the person is not adequately trained, or is
+                                   not competent, to:
+                                   (i)     provide one or more financial services;
+                                   (ii)    perform one or more functions as an officer of an entity that carries
+                                           on a financial services business; or
+                                   (iii)   control an entity that carries on a financial services business;
+                             (h)   the person has not complied with any one or more of their obligations
+                                   under s921F (requirements relating to provisional relevant providers);
+                             (i)   both of the following apply:
+                                   (i)     a supervisor referred to in s921F has not complied with any one or
+                                           more of their obligations under that section in relation to a
+                                           provisional relevant provider; and
+                                   (ii)    both the supervisor and the provisional relevant provider are
+                                           authorised to provide personal advice to retail clients, on behalf of
+                                           the person, in relation to relevant financial products;
+                             (j)   both of the following apply:
+                                   (i)     a provisional relevant provider has not complied with their
+                                           obligations under s921F(7); and
+                                   (ii)    the provisional relevant provider is authorised to provide personal
+                                           advice to retail clients, on behalf of the person, in relation to
+                                           relevant financial products;
+                             (k)   we have reason to believe that the person was authorised, in
+                                   contravention of s921C(2), (3) or (4), to provide personal advice to
+                                   retail clients in relation to relevant financial products;
+                             (l)   the person has not complied with a financial services law (other than
+                                   s921E(3), which requires relevant providers to comply with the Code of
+                                   Ethics);
+                             (m)   we have reason to believe that the person is likely to contravene a
+                                   financial services law;
+                             (n)   the person has been involved in the contravention of a financial services
+                                   law by another person;
+                             (o)   we have reason to believe that the person is likely to become involved
+                                   in the contravention of a financial services law by another person;
+                             (p)   the person is the operator of, or another person connected with, an
+                                   Australian passport fund, and each of the following is satisfied:
+
+
+© Australian Securities and Investments Commission November 2022                                                 Page 19
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+                                   (i)     a host regulator for the fund has notified ASIC in writing that it is
+                                           of the opinion that the person or the fund has not complied, is not
+                                           complying or is not likely to comply with the law of that host
+                                           economy to the extent that the law is administered by the host
+                                           regulator for the fund (including the Passport Rules for the host); and
+                                   (ii)    we are of the opinion that we should make the banning order, given
+                                           the potential impact of the failure, or potential failure, to comply
+                                           on members or potential members of the fund;
+                             (q)   the person has at least twice been linked to a refusal or failure to give
+                                   effect to an AFCA determination relating to a complaint about:
+                                   (i)     a financial services business; or
+                                   (ii)    credit activities (within the meaning of the National Consumer
+                                           Credit Protection Act 2009 (National Credit Act)); or
+                             (r)   within the last seven years and in relation to two or more corporations:
+                                   (i)     the person was an officer of the corporation when the corporation
+                                           was:
+                                           (A)   carrying on a financial services business; or
+                                           (B)   engaging in credit activities (within the meaning of the
+                                                 National Credit Act);
+                                   (ii)    the corporation was wound up either:
+                                           (A)   while the person was an officer of the corporation; or
+                                           (B)   within the 12 months after the person ceased to be an officer
+                                                 of the corporation; and
+                                   (iii)   a liquidator lodged a report under s533(1) (including that
+                                           subsection as applied by s526-35 of the Corporations (Aboriginal
+                                           and Torres Strait Islander) Act 2006) about the corporation’s
+                                           inability to pay its debts.
+
+              RG 98.53       ASIC’s banning powers were amended by the Financial Sector Reform
+                             (Hayne Royal Commission Response—Stronger Regulators (2019 Measures))
+                             Act 2020. For an explanation of the amendments, see Chs 1 and 5 of the
+                             Explanatory Memorandum to the Financial Sector Reform (Hayne Royal
+                             Commission Response—Stronger Regulators (2019 Measures)) Bill 2019.
+
+
+
+When we will make a banning order
+
+                             Our approach
+
+              RG 98.54       The foundation of ASIC’s approach to taking administrative action to make
+                             a banning order is to take action where necessary or desirable to promote the
+                             objects of the financial services regime: see s760A.
+
+
+© Australian Securities and Investments Commission November 2022                                            Page 20
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+              RG 98.55       We are likely to take administrative action in instances where there is a need
+                             to protect investors and consumers, to deter misconduct, or where the
+                             person’s conduct may result in investor or consumer detriment. Whether
+                             administrative action will be taken will depend on the facts of each matter.
+                             In general, we may consider banning a person where we have concerns about
+                             the person, or the way their business is being or has been conducted.
+
+              RG 98.56       We may ban a person even if the person has rectified breaches or has taken
+                             steps to prevent further non-compliant conduct, such as by completing
+                             additional training. We may do so to deter misconduct by the person or
+                             others. In deciding whether to do so we will consider, among other things,
+                             whether the person has been reactive rather than proactive in their approach
+                             to compliance. The person’s attitude to compliance is an example of a factor
+                             we will take into account when forming a view about whether they have a
+                             reactive or proactive compliance approach.
+                                  Note: Consideration of deterring others from engaging in misconduct is fundamental in
+                                  determining whether to impose a banning order: see Australian Securities and
+                                  Investments Commission v McCormack [2017] FCA 672 at [47].
+
+
+                             Relevant factors ASIC will consider
+
+              RG 98.57       While it is not possible to identify all factors relevant to a decision to ban a
+                             person from providing financial services, controlling an entity that carries on
+                             a financial services business or performing functions involved in the
+                             carrying on of a financial services business, Table 2 sets out factors that may
+                             be taken into account.
+                                  Note: The list in Table 2 is not exhaustive and there will be other factors or conduct that
+                                  are not mentioned in this guide that could lead to a decision to ban a person from
+                                  providing financial services.
+
+
+Table 2:    Key factors we consider in deciding to make a banning order
+
+ Factors                                             Relevant considerations
+
+ Nature and seriousness of the suspected              Whether there is evidence that the contravention involved
+ misconduct                                            dishonesty or was intentional, reckless or negligent
+                                                      The amount of any benefit gained or detriment suffered as a
+                                                       result of the misconduct
+                                                      The amount of any loss caused to investors and consumers
+                                                      The impact of the misconduct on the market, including
+                                                       potential loss of public confidence
+                                                      Failing to discharge obligations on behalf of the financial
+                                                       services business
+                                                      Whether the conduct is continuing or likely to recur
+                                                      Whether the person has a poor compliance record (e.g. they
+                                                       have previously engaged in misconduct)
+                                                      Failing to manage a material conflict of interest
+
+ Internal controls                                    Whether the person complied with internal procedures
+
+
+
+© Australian Securities and Investments Commission November 2022                                                    Page 21
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+ Factors                                            Relevant considerations
+
+ Conduct after the alleged contravention             When and how the breach came to the attention of ASIC
+ occurs                                              The level of cooperation with our investigation
+                                                     Whether timely and effective remedial steps have been taken
+                                                     If in a position to do so, whether the person has been
+                                                      proactive in making appropriate changes to policies and
+                                                      procedures and, where applicable, changing their approach
+                                                      to ensure the effective functioning of their dispute resolution
+                                                      systems
+                                                     Whether the person has been proactive in compensating
+                                                      client losses and in communicating with clients about the
+                                                      contravention
+
+ The expected level of public benefit                The protective effect for investors and consumers
+                                                     The reinforcement of the integrity and reputation of the
+                                                      financial services industry
+                                                     Whether the case is likely to help participants in financial
+                                                      markets to better understand their obligations and thereby
+                                                      promote compliance
+
+ Likelihood that:                                    The compliance history of the person and their approach to
+  the person’s behaviour will change in              compliance
+   response to a particular action; and/or           Whether behaviour (of the person or broader industry) is
+  other industry participants will be                more likely to change if the person is banned
+   deterred from engaging in similar
+   conduct through greater awareness of
+   the consequences
+
+ Mitigating factors                                  The extent to which there would be any personal hardship
+                                                      were a banning order to be made
+                                                     Whether the misconduct relates to an isolated complaint
+                                                     Whether investors or consumers have generally not suffered
+                                                      substantial detriment or been placed in a position of
+                                                      unacceptable risk
+                                                     Whether the misconduct was inadvertent and the person
+                                                      undertakes to cease or correct the conduct
+
+
+
+                             Banning periods
+
+              RG 98.58       Our primary purpose in making banning orders is to promote the objects of
+                             the financial services regime. Banning orders protect investors and
+                             consumers and deter misconduct. In determining the period of a banning
+                             order, deterring others from engaging in misconduct is fundamental.
+
+                                  Note: See Australian Securities and Investments Commission v McCormack [2017]
+                                  FCA 672 at [47].
+
+              RG 98.59       It is also appropriate that we assess the risk that the person poses to investors
+                             and consumers if they are not banned. A longer banning period will apply to
+                             a person assessed as posing a higher risk.
+
+
+
+© Australian Securities and Investments Commission November 2022                                              Page 22
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+               RG 98.60      In our risk assessment, we consider what the person’s conduct shows about
+                             them, and about their motivation, if any, for engaging in the conduct. For
+                             example, we are likely to consider that a person who has acted dishonestly,
+                             or has chosen to engage in conduct despite knowing that it could potentially
+                             adversely affect others, poses a higher risk than a person who should have
+                             realised the potential for adverse consequences to others but did not, or a
+                             person whose misconduct is the result of being careless.
+
+               RG 98.61      In our risk assessment, we also consider the actual or potential impact of the
+                             person’s conduct on relevant persons (e.g. investors and consumers,
+                             licensees, ASIC and ASX). For example, conduct that has resulted in unfair
+                             enrichment—such as the person receiving excessive commissions—or that
+                             has the potential to lead to a loss of confidence in the integrity of a market
+                             for financial products is likely to lead to a longer banning period than
+                             conduct that has a minimal adverse impact. Actual investor or consumer loss
+                             is not a prerequisite for a period of banning.
+
+               RG 98.62      Multiple instances of misconduct can increase the seriousness of risk that the
+                             person poses to investors and consumers if they are not banned and may lead
+                             to a longer banning period.
+
+               RG 98.63      We emphasise that each case must depend on its particular circumstances
+                             and will be determined on a case-by-case basis.
+
+               RG 98.64      We may ban a person if they are involved in another person’s contravention
+                             or we have reason to believe that they are likely to become involved in
+                             another person’s contravention: see s920A(1)(g) and 920A(1)(h). We may
+                             impose a banning period on them that is similar to the banning period that
+                             we would impose on the person who engaged in the conduct.
+
+               RG 98.65      Table 3 sets out factors and examples of conduct and indicates the potential
+                             banning period that may follow from engaging in that conduct. These factors
+                             and examples are indicative only.
+
+Table 3:    Factors and examples of conduct relating to specific periods of banning
+
+ Outcome         Factors                                       Examples of conduct (indicative only)
+
+ Banning for      Conduct is the result of carelessness or     Giving a complying disclosure document, but not
+ less than         inadvertence                                  within the required time
+ 3 years          The person attempted to remedy the           Failing to lodge documents with ASIC as required
+                   contravention and has fully cooperated       Failing to notify ASIC about a representative’s
+                   with ASIC                                     breach of the licensee’s obligations
+                  No loss (or minimal loss) to client          Failing to perform the functions of an officer of a
+                                                                 financial services business
+                                                                Failing to keep records that must be kept
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                              Page 23
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+ Outcome         Factors                                       Examples of conduct (indicative only)
+
+ Banning for      Conduct is inconsistent with the orderly     Insider trading
+ 3–10 years        operation of a financial market              Market manipulation or other misconduct in
+                  Adverse impact on confidence in or the        relation to a financial product traded on a
+                   integrity of a financial market               financial market (e.g. s1041A–1041E)
+                  False, misleading or deceptive, or           At least twice being linked to a refusal or failure to
+                   unconscionable conduct                        give effect to a determination made by AFCA
+                  A deliberate course of conduct to             relating to a complaint that relates to a financial
+                   enrich themselves at others’ expense          services business or credit activities
+
+                  Conduct shows incompetence,                  Misconduct in relation to financial products or
+                   irresponsibility or a high level of           financial services (e.g. s1041F–1041H and Div 2
+                   carelessness, but with the possibility        of Pt 2 of the Australian Securities and
+                   that the person may develop requisite         Investments Commission Act 2001 (ASIC Act))
+                   skills and abilities                         Not acting in the best interests of the client in
+                  Disregard for the law and compliance          relation to any personal financial advice given
+                   with regulations                              (s961B–961F)
+                                                                Failing, in relation to any personal financial
+                                                                 advice provided, to give advice that is appropriate
+                                                                 (s961G)
+                                                                Failing, in relation to any personal financial
+                                                                 advice provided, to prioritise the client’s interests
+                                                                 (s961J)
+                                                                Failing to provide an advice warning where
+                                                                 personal financial advice is based on incomplete
+                                                                 or inaccurate information (s961H)
+                                                                Failing to comply with fee and remuneration
+                                                                 obligations in relation to any personal financial
+                                                                 advice given (s962–964E)
+                                                                Offering or recommending interests in a managed
+                                                                 investment scheme that needs to be registered,
+                                                                 but has not been
+                                                                Carrying on a financial services business without
+                                                                 holding an AFS licence
+                                                                Failing to perform the functions of an officer of a
+                                                                 financial services business
+                                                                Controlling a financial services business without
+                                                                 the requisite fitness and propriety
+                                                                Providing unauthorised financial services
+                                                                Providing financial services contrary to s911B
+                                                                Failing to keep records that must be kept
+                                                                Failing to comply with disclosure requirements,
+                                                                 including not disclosing commissions and other
+                                                                 benefits or relevant interests and associations
+                                                                Unauthorised discretionary trading
+                                                                Failure by an officer of the licensee to ensure the
+                                                                 licensee complies with its obligations
+                                                                Misleading clients about the nature of the
+                                                                 products being acquired or disposed of on their
+                                                                 behalf that are not for the clients’ benefit
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                               Page 24
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+ Outcome         Factors                                       Examples of conduct (indicative only)
+
+ Banning for      Any dishonest conduct                        Misappropriation of client funds or otherwise
+ 10 or more       Any intention to defraud                      engaging in fraud or theft
+ years and                                                      Falsification, concealment or deliberate
+                  Continued, knowing and wilful
+ permanent                                                       destruction of records required to be kept
+                   contraventions of the law, including
+ banning
+                   market integrity rules and disregard for     Engaging in a pattern of persistent contraventions
+                   legal obligations                             that indicates systemic failure or a general lack of
+                  Whether the person has previously             understanding of and regard for compliance
+                   contravened the law                          Substantial or ongoing carrying on of a financial
+                  Conduct shows serious incompetence            services business without holding an AFS licence
+                   and irresponsibility                         Substantial unauthorised discretionary trading
+                  Significant adverse impact on                Substantial insider trading
+                   confidence in or the integrity of the        Substantial market manipulation or other
+                   financial services industry                   significant misconduct in relation to a financial
+                  Significant adverse impact on                 product traded on a financial market
+                   confidence in or the integrity of a           (e.g. s1041A–1041E)
+                   financial market                             Failure to apply a client’s funds in accordance
+                  Conduct is significantly inconsistent         with the client’s instructions
+                   with the orderly operation of a financial    Forging a client’s signature
+                   market
+                                                                Providing clients with false documents
+                                                                Providing unauthorised financial services
+                                                                Providing ASIC with information that is false in a
+                                                                 material particular or materially misleading, or
+                                                                 omits material information
+                                                                Failing to perform the functions of an officer of a
+                                                                 financial services business
+
+
+
+                             Scope of banning orders
+
+               RG 98.66      ASIC has the power to impose a single banning order that prohibits a person
+                             from doing one or more of the things set out in RG 98.46: see s920B(1). We
+                             may also make more than one banning order against the same person,
+                             prohibiting different conduct. Thus, for example, a person may receive:
+                             (a)   a banning order that prohibits them from providing any financial
+                                   services; and
+                             (b)   a second order that prohibits them from controlling, whether alone or in
+                                   concert with one or more other entities, an entity that carries on a
+                                   financial services business.
+
+               RG 98.67      When we make a banning order or orders prohibiting more than one type of
+                             conduct, we may impose a different banning period for each prohibition.
+
+               RG 98.68      ASIC also has the power to impose a ‘permissive’ banning order. That is, we
+                             may impose a banning order that generally prohibits a person from doing an
+                             identified act, but also includes a provision allowing the person to perform
+                             specified acts, or specified acts in specified circumstances, that the order
+                             would otherwise prohibit them from doing: see s920B(3).
+
+
+
+© Australian Securities and Investments Commission November 2022                                              Page 25
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+              RG 98.69       When determining the scope of a banning order under s920B(1) or (3), we
+                             seek to ensure the order addresses our concerns about the person in question.
+                             In considering which orders are appropriate to make in any individual
+                             matter, we will take into account:
+                             (a)   the objects of the financial services regime;
+                             (b)   the factors set out in Table 2;
+                             (c)   whether such an order is consistent with deterring misconduct; and
+                             (d)   whether such an order is consistent with our priority of protecting
+                                   investors and consumers.
+
+
+
+Varying or cancelling banning orders
+              RG 98.70       We may vary or cancel a banning order if we are satisfied that ‘it is
+                             appropriate to do so because of a change in any of the circumstances based
+                             on which ASIC made the order’: see s920D(1). We may do so on our own
+                             initiative or if the person against whom the order was made lodges an
+                             application for us to cancel or vary the banning order.
+
+              RG 98.71       If we propose not to vary or cancel a banning order in accordance with an
+                             application lodged by a banned person, we must give the person an
+                             opportunity to appear or be represented at a private hearing and to make
+                             submissions: see s920D(3).
+
+              RG 98.72       Examples of matters that may be relevant to a decision whether to vary or
+                             cancel a banning order include:
+                             (a)   the seriousness of the misconduct that resulted in the order;
+                             (b)   the period that has elapsed since the order was made and whether the
+                                   person continues to pose a risk to investors and consumers or to
+                                   confidence in the financial system due to the conduct for which we
+                                   made the banning order;
+                             (c)   any action taken by the person to remedy the misconduct or the cause of
+                                   the misconduct (e.g. if the misconduct was the result of incompetence,
+                                   the person may have remedied this by satisfactorily completing relevant
+                                   training and obtaining relevant qualifications); and
+                             (d)   any information that, if it had been known to us at the time, would have
+                                   been relevant to our decision to make the banning order.
+
+              RG 98.73       If the person applying for the variation or cancellation of a banning order is
+                             doing so to work in the financial services industry, it is likely that we will
+                             want to take the following matters into account (as applicable):
+                             (a)   the nature of the financial services the person proposes to provide or be
+                                   involved in and the capacity in which they will do so;
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                          Page 26
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+                             (b)   the nature of any function the person proposes to perform in the
+                                   carrying on of a financial services business and the capacity in which
+                                   they will do so;
+                             (c)   if the person proposes to act as a representative of an AFS licensee, the
+                                   compliance record of the licensee; and
+                             (d)   details of the compliance and supervisory regime under which the
+                                   person would operate if their application is granted by ASIC, including
+                                   details of any independent auditing of the person’s activities.
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                          Page 27
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+D          Publicising our decisions
+
+                              Key points
+
+                              We will make public our decisions to vary, suspend or cancel an AFS
+                              licence or to make, vary or cancel a banning order by publishing a notice in
+                              the ASIC Gazette.
+
+                              We will not publicly comment on these administrative actions before these
+                              decisions are gazetted, or the relevant registers are updated.
+
+
+
+
+Public notification of decisions
+              RG 98.74       We are required to make public our decisions to vary, suspend or cancel an
+                             AFS licence or to make, vary or cancel an order banning a person by
+                             publishing a notice in the ASIC Gazette: see s915F and 920E.
+
+              RG 98.75       Such a notice will be gazetted no earlier than the second business day after
+                             the person concerned has been given notice of the decision. For example, if
+                             the banning decision is given to the person on a Wednesday, the notice will
+                             be gazetted no earlier than the following Friday.
+
+              RG 98.76       Similarly, we will update our publicly accessible registers with the relevant
+                             details of our administrative actions no earlier than the second business day
+                             after the person concerned has been given notice of the decision.
+
+                                  Note: We are required to establish one or more registers relating to financial services:
+                                  see s922A(1). A person may inspect the registers, and may make copies of or take
+                                  extracts from them: see s922B. The registers must include details about licensees and
+                                  people who have been banned: see regs 7.6.05 and 7.6.06 of the Corporations
+                                  Regulations 2001.
+
+              RG 98.77       As a general principle, it is our view that there is significant public interest in
+                             ensuring that investors, consumers and the broader community are aware of
+                             and informed about action we take. Transparency and disclosure are
+                             important factors in market integrity and investor and consumer confidence.
+                             They serve to educate, deter misconduct and promote compliance by
+                             demonstrating the regulatory consequences of engaging in unacceptable
+                             conduct.
+
+                                  Note: The importance of the public being promptly informed about our banning
+                                  decisions was confirmed by the Full Court of the Federal Court in Australian Securities
+                                  and Investments Commission v Administrative Appeals Tribunal (2009) 181 FCR 130.
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                                    Page 28
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+Public comment
+              RG 98.78       Our approach to public comment on our decisions to vary, cancel or suspend
+                             an AFS licence or to make, vary or cancel a banning order will be governed
+                             by our stated policy: see Information Sheet 152 Public comment on ASIC’s
+                             regulatory activities (INFO 152). As set out in INFO 152, we will not make
+                             a public comment before we gazette a notice of the decision or update the
+                             relevant register.
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                          Page 29
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+Key terms
+
+
+                              Term                      Meaning in this document
+
+                              AFCA                      Australian Financial Complaints Authority—the external
+                                                        dispute resolution scheme for which an authorisation
+                                                        under Pt 7.10A of the Corporations Act is in force
+
+                              AFS licence               An Australian financial services licence under s913B of
+                                                        the Corporations Act that authorises a person who carries
+                                                        on a financial services business to provide financial
+                                                        services
+                                                          Note: This is a definition contained in s761A.
+
+                              AFS licensee              A person who holds an Australian financial services
+                                                        licence under s913B
+
+                              ASIC                      Australian Securities and Investments Commission
+
+                              ASIC Act                  Australian Securities and Investments Commission Act
+                                                        2001
+
+                              Australian passport       A registered scheme that is also registered as a passport
+                              fund                      fund under Pt 8A.3 of the Corporations Act
+
+                              banning order             A written order by ASIC that prohibits a person from
+                                                        engaging in one or more of the types of conduct set out in
+                                                        s920B
+
+                              Corporations Act          Corporations Act 2001, including regulations made for the
+                                                        purposes of that Act
+
+                              court enforceable         A court enforceable undertaking that may be accepted by
+                              undertaking               ASIC under reg 7.2A.01 of the Corporations Regulations
+                                                        and s93A and s93AA of the ASIC Act
+
+                              credit licensee           A person who holds an Australian credit licence under
+                                                        s35 of the National Credit Act
+
+                              financial market          Has the meaning given in s767A of the Corporations Act,
+                                                        and includes a facility through which offers to acquire or
+                                                        dispose of financial products are regularly made or
+                                                        accepted
+
+                              financial product         Generally, a facility through which, or through the
+                                                        acquisition of which, a person does one or more of the
+                                                        following:
+                                                         makes a financial investment (see s763B);
+                                                         manages financial risk (see s763C);
+                                                         makes non-cash payments (see s763D)
+                                                          Note: See Div 3 of Pt 7.1 of the Corporations Act for the exact
+                                                          definition. In addition to the general categories above, this
+                                                          specifies certain things as being included or excluded from the
+                                                          definition.
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                                  Page 30
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+                              Term                      Meaning in this document
+
+                              financial service         Has the meaning given in Div 4 of Pt 7.1 of the
+                                                        Corporations Act
+
+                              financial services        A business of providing financial services
+                              business                    Note: This is a definition contained in s761A of the
+                                                          Corporations Act. The meaning of ‘carry on a financial
+                                                          services business’ is affected by s761C.
+
+                              financial services law    Has the meaning given in s761A
+
+                              financial services        A person who provides a financial service
+                              provider
+
+                              foreign passport fund     A passport fund with a home economy other than
+                                                        Australia
+
+                              infringement notice       An infringement notice issued under reg 7.2A.04 of the
+                                                        Corporations Regulations
+
+                              market integrity rules    Rules made by ASIC, under s798G of the Corporations
+                                                        Act, for trading on domestic licensed markets
+
+                              National Credit Act       National Consumer Credit Protection Act 2009
+
+                              Passport Rules            The requirements in Annex 3 to the Memorandum of
+                                                        Cooperation on the Establishment and Implementation of
+                                                        the Asia Region Funds Passport, as incorporated into the
+                                                        domestic law of a participating economy
+
+                              provide a financial       A person provides a financial service if they:
+                              service                    provide financial product advice;
+                                                         deal in a financial product;
+                                                         make a market for a financial product;
+                                                         operate a registered scheme;
+                                                         provide a custodial or depository service;
+                                                         provide a crowd-funding service;
+                                                         provide a claims handling and settling service;
+                                                         provide a superannuation trustee service; or
+                                                         as a trustee company, provide traditional trustee
+                                                          company services
+                                                          Note: This is a definition contained in s766A.
+
+                              reg 7.6.05 (for           A regulation of the Corporations Regulations (in this
+                              example)                  example numbered 7.6.05)
+
+                              representative (of an     Means:
+                              AFS licensee)              an authorised representative of the licensee;
+                                                         an employee or director of the licensee;
+                                                         an employee or director of a related body corporate of
+                                                          the licensee; or
+                                                         any other person acting on behalf of the licensee
+                                                          Note: This is a definition contained in s910A of the
+                                                          Corporations Act.
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                                   Page 31
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+                              Term                      Meaning in this document
+
+                              RG 100 (for example)      An ASIC regulatory guide (in this example numbered 100)
+
+                              s920A (for example)       A section of the Corporations Act (in this example
+                                                        numbered 920A), unless otherwise specified
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                             Page 32
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             administrative powers, AFS licensees, Australian financial services licence,
+                             banning orders, cancellation, licence conditions, licence variation, public
+                             comment, suspension
+
+
+                             Regulatory guides
+
+                             RG 8 Administrative hearings: Principles and conduct
+
+                             RG 100 Court enforceable undertakings
+
+                             RG 216 Markets Disciplinary Panel
+
+                             RG 218 Licensing: Administrative action against persons engaging in credit
+                             activities
+
+                             RG 263 Financial Services and Credit Panel
+
+
+                             Information sheets
+
+                             INFO 1 Administrative hearings
+
+                             INFO 9 ASIC decisions: Your rights
+
+                             INFO 107 Guidelines for managing allegations of misconduct against ASIC
+                             officers
+
+                             INFO 151 ASIC’s approach to enforcement
+
+                             INFO 152 Public comment on ASIC’s regulatory activities
+
+
+                             Legislation
+
+                             Australian Securities and Investments Commission Act 2001, Pt 2 Div 2
+
+                             Corporations Act 2001, Ch 7; Pt 7.6 Div 8; Pt 7.10A; s533, 760A, 911A,
+                             911B, 912A, 913A, 913B, 913BA, 914A, 914B, 915B, 915C, 915F, 915H,
+                             920A, 920B, 920C, 920D, 920E, 921C, 921E, 921F, 922A, 922B, 961B–
+                             961H, 961J, 962–964E, 1041A–1041H
+
+                             Corporations (Aboriginal and Torres Strait Islander) Act 2006, s526-35
+
+                             Corporations Amendment (Future of Financial Advice) Act 2012
+
+                             Corporations Regulations 2001, regs 7.6.05, 7.6.06
+
+
+
+© Australian Securities and Investments Commission November 2022                                          Page 33
+               REGULATORY GUIDE 98: ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders
+
+
+
+
+                             Explanatory Memorandum to the Corporations Amendment (Future of
+                             Financial Advice) Bill 2011, paragraphs 2.17–2.27
+
+                             Explanatory Memorandum to the Financial Sector Reform (Hayne Royal
+                             Commission Response—Stronger Regulators (2019 Measures)) Bill 2019
+
+                             Financial Sector Reform (Hayne Royal Commission Response—Stronger
+                             Regulators (2019 Measures)) Act 2020
+
+                             National Consumer Credit Protection Act 2009
+
+
+                             Cases
+
+                             Australian Securities and Investments Commission v Administrative Appeals
+                             Tribunal (2009) 181 FCR 130
+
+                             Australian Securities and Investments Commission v McCormack [2017]
+                             FCA 672
+
+                             HIH Insurance Ltd and HIH Casualty and General Insurance Ltd, Re: ASIC
+                             v Adler (2002) 42 ACSR 80
+
+                             Masu Financial Management Pty Ltd and Australian Securities and
+                             Investments Commission [2017] AATA 97
+
+                             Sovereign Capital Limited and Australian Securities and Investments
+                             Commission [2008] AATA 901
+
+
+
+
+© Australian Securities and Investments Commission November 2022                                          Page 34
+

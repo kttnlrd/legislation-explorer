@@ -1,0 +1,41 @@
+{
+  "citation": "RG 133",
+  "title": "Funds management and custodial services: Holding assets",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide explains the Australian financial services (AFS) licence obligations that apply to responsible entities of registered managed investment schemes, licensed custody providers, managed discretionary account providers, and investor directed portfolio service operators in relation to holding assets. It sets out minimum standards for asset holders.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth) and provides guidance on how ASIC interprets the law regarding the holding of assets by these entities. It is intended for responsible entities, licensed custody providers, MDA providers, and IDPS operators who are responsible to clients for assets held under their arrangements.",
+  "ruling": "ASIC sets out minimum standards for asset holders, including requirements for the holding of scheme property and client assets separately from the entity's own assets. The guide explains that responsible entities must comply with specific obligations under the Corporations Act, including sections 601FC and 601FF, and that licensed custody providers must meet the requirements of section 912A. ASIC expects asset holders to have robust systems and controls to ensure the safe custody of assets, and to provide clear disclosure to clients about how assets are held. The guide also addresses the use of sub-custodians and the need for regular reconciliations and reporting.",
+  "date_of_effect": "2024-12-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 601FB",
+    "Corporations Act 2001 (Cth) s 601FC",
+    "Corporations Act 2001 (Cth) s 601FF",
+    "Corporations Act 2001 (Cth) s 766E",
+    "Corporations Act 2001 (Cth) s 911B",
+    "Corporations Act 2001 (Cth) s 912A",
+    "Corporations Act 2001 (Cth) s 912D",
+    "Corporations Act 2001 (Cth) s 912DAA",
+    "Corporations Act 2001 (Cth) s 912E",
+    "Corporations Act 2001 (Cth) s 1211",
+    "Corporations Act 2001 (Cth) s 1211A",
+    "Corporations Regulations 2001 (Cth) reg 5C.2.01",
+    "Corporations Regulations 2001 (Cth) reg 5C.4.02",
+    "Corporations Regulations 2001 (Cth) reg 5C.5.01",
+    "Corporations Regulations 2001 (Cth) reg 7.6.01(1)(k)",
+    "Corporations Regulations 2001 (Cth) reg 8B.5.10(2)"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "RG 136",
+    "RG 166",
+    "RG 179",
+    "RG 181",
+    "RG 232",
+    "RG 259",
+    "INFO 141",
+    "INFO 225",
+    "INFO 238",
+    "INFO 239"
+  ]
+}

@@ -1,0 +1,2091 @@
+REGULATORY GUIDE 26
+
+Resignation, removal and
+replacement of auditors
+
+October 2024
+
+
+
+
+About this guide
+This is a guide for public companies, corporate directors of retail corporate
+collective investment vehicles, responsible entities of registered schemes,
+trustees of registrable superannuation entities, other AFS licensees, credit
+licensees, and their appointed auditors.
+
+It explains how we may exercise ASIC’s power to:
+   give consent to the resignation or removal of auditors under certain
+    provisions of the Corporations Act; and
+   approve the resignation or replacement of auditors under certain
+    provisions of the National Credit Regulations.
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This version was issued in October 2024 and is based on legislation and
+                             regulations as at the date of issue. In January 2026, we updated the guide to
+                             reflect the new AFS licence application process. We:
+                                    removed references to Form FS07 in Table 1 and RG 26.101;
+                                    removed references to Form FS09 in Table 1 and RG 26.102; and
+                                    updated legislative references in the note to RG 26.34(a).
+
+                             In February 2026, we made minor changes following the reissue of
+                             Regulatory Guide 34 Auditor obligations: Reporting to ASIC (RG 34).
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 26, issued 18 June 2015
+                                    Superseded Policy Statement 26, issued 22 June 1992, rebadged as a
+                                     regulatory guide July 2007
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                              Page 2
+                                                  REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+Contents
+                             A      Overview ........................................................................................... 4
+                                    Purpose of this guide ......................................................................... 4
+                                    Our general approach to change of auditor ....................................... 5
+                                    The role of directors and audit committees ....................................... 6
+                                    How the requirements apply .............................................................. 7
+                                    How to apply to ASIC for consent ...................................................... 7
+                             B      Our general approach to change of auditor................................ 11
+                                    When we will give our consent ........................................................ 11
+                                    Other circumstances that may result in change of auditor .............. 15
+                             C      The role of directors and audit committees ................................ 18
+                                    Auditor independence and audit quality .......................................... 18
+                                    Timing of change in auditor and maintaining members’ rights ........ 19
+                             D      How the requirements apply......................................................... 20
+                                    Auditors of public companies ........................................................... 20
+                                    Auditors of registered schemes or retail CCIVs (and their respective
+                                    compliance plans) ............................................................................ 24
+                                    Auditors of RSEs ............................................................................. 26
+                                    Auditors of AFS licensees................................................................ 28
+                                    Auditors of credit licensee trust accounts ........................................ 29
+                             E      How to apply to ASIC for consent ................................................ 31
+                                    When to lodge an application .......................................................... 31
+                                    How we assess an application......................................................... 32
+                                    What notification we will give of our decision .................................. 32
+                                    How to apply for a review of our decision ........................................ 33
+                             Appendix: Checklist of information to be provided with your
+                                application ...................................................................................... 34
+                             Key terms ............................................................................................... 35
+                             Related information ............................................................................... 38
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                                       Page 3
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               This guide explains the policies and principles that influence how we may
+                               exercise ASIC’s powers to give consent or approval to the resignation,
+                               removal or replacement of auditors.
+
+                               It explains how these policies and principles apply to auditors of:
+                               • public companies;
+                               • registered schemes and their compliance plans;
+                               • retail corporate collective investment vehicles (CCIVs) and their
+                                 compliance plans;
+                               • registrable superannuation entities (other than exempt public sector
+                                 superannuation schemes, excluded approved deposit funds and small
+                                 Australian Prudential Regulation Authority (APRA) funds) (RSEs);
+                               • Australian financial services (AFS) licensees; and
+                               • trust accounts of Australian credit licensees (credit licensee trust
+                                 accounts).
+
+                               We discuss considerations for directors and audit committees.
+
+                               We also give guidance about how to apply to ASIC for consent, including
+                               what information should be provided with the application.
+
+
+
+
+Purpose of this guide
+              RG 26.1        The Corporations Act 2001 (Corporations Act) and the National Consumer
+                             Credit Protection Regulations 2010 (National Credit Regulations) provide
+                             for the resignation, removal and replacement of auditors for different entities.
+
+              RG 26.2        This guide sets out the policies and principles that influence how we may
+                             exercise ASIC’s powers to give consent or approval in these circumstances
+                             under s329(6), 331AC(1)–(3) (including as they apply under s1232R(2)),
+                             331AK(1)–(2), 601HH(1)(b), 601HH(3), 990F(b), 990G(2), 1226J(1)(b) and
+                             1226J(4) of the Corporations Act, and regs 19(4)(d) and 19(4)(e) of the
+                             National Credit Regulations.
+
+                                   Note 1: In this guide, references to sections (s), chapters (Chs), divisions (Div),
+                                   subdivisions (subdiv) and parts (Pts) are to the Corporations Act, unless otherwise
+                                   specified. References to regulations (regs) are to the National Credit Regulations, unless
+                                   otherwise specified.
+
+                                   Note 2: In general, for the purposes of our guidance, ‘consent’ also includes ‘approval’
+                                   in the context of the National Credit Regulations.
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                       Page 4
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                                   Note 3: Div 7 of Pt 2M.4 of the Corporations Act applies to a retail CCIV as if the
+                                   CCIV were a registered scheme and the corporate director were the scheme’s
+                                   responsible entity: see s1232R(2).
+
+              RG 26.3        This guide does not deal with APRA’s regulatory decision making about
+                             auditors. This includes decisions that APRA may make:
+                             (a)   about audits of small APRA funds; and
+                             (b)   under provisions it administers of the Superannuation Industry
+                                   (Supervision) Act 1994 (SIS Act), Banking Act 1959 (Banking Act),
+                                   Insurance Act 1973 (Insurance Act), Life Insurance Act 1995 (Life
+                                   Insurance Act) and Retirement Savings Accounts Act 1997 (RSA Act).
+
+                                   Note: For information about APRA’s oversight of small APRA fund audits, see
+                                   Prudential Standard SPS 310 Audit and related matters.
+
+
+
+
+Our general approach to change of auditor
+              RG 26.4        Section B of this guide explains our general approach to a change of auditor,
+                             including:
+                             (a)   the matters we will consider in deciding whether to give our consent; and
+                             (b)   other circumstances that may result in a change of auditor.
+
+
+                             When we will give our consent
+
+              RG 26.5        In general, we will consent to the resignation, removal or replacement of an
+                             auditor at any time of the year if:
+                             (a)   our criteria for consent are satisfied;
+                             (b)   all relevant supporting information is provided with the application; and
+                             (c)   where relevant, disclosure of the removal of the auditor is made to ASIC
+                                   and the market or to members, as applicable.
+
+              RG 26.6        However, we will generally not consent to the resignation, removal or
+                             replacement of an auditor at any time of the year if:
+                             (a)   concerns are raised by the outgoing auditor about a disagreement with
+                                   management or directors; and/or
+                             (b)   other evidence indicates that we should not provide our consent.
+
+              RG 26.7        We expect an outgoing auditor to bring to our attention any matters
+                             connected with their ceasing to hold office that may impact on the integrity
+                             of the audit function. For example:
+                             (a)   if the outgoing auditor is aware that their resignation, removal or
+                                   replacement may be connected with ‘opinion shopping’;
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                      Page 5
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                             (b)   details of any disagreement with management or directors (including
+                                   management or directors of a responsible entity, corporate director,
+                                   superannuation trustee, AFS licensee or credit licensee); and
+                             (c)   any other circumstances or matters connected with the auditor ceasing
+                                   to hold office that should be brought to our attention.
+
+              RG 26.8        We will decide whether to consent to a resignation, removal or replacement
+                             on the merits of each case.
+
+              RG 26.9        Where our consent to a removal, resignation or replacement is required, the
+                             outgoing auditor appointment continues until we give our consent, and it
+                             ends in accordance with the terms of our consent: see s329(5), 331AC(1)–
+                             (2), 331AK(1)–(2), 601HH(1)(b), 601HH(2)(b), 990F(b), 990G(1) or
+                             1232R(2), 1226J(1), 1226J(3), and regs 19(4)(d) or 19(4)(e).
+
+              RG 26.10       In all cases, our consent should not be assumed and it is important that an
+                             outgoing auditor continues to act as auditor until we have given our consent.
+                             We will not give our consent merely because a proposed incoming auditor
+                             has commenced work. Giving consent in such circumstances would
+                             undermine the legislative requirement to obtain consent.
+
+
+                             Other circumstances that may result in change of auditor
+
+              RG 26.11       We also provide guidance on other circumstances that may result in a change
+                             of auditor, including:
+                             (a)   auditor ineligibility, incapacity or death;
+                             (b)   loss of auditor independence due to a conflict of interest situation;
+                             (c)   disqualification of an auditor by a court;
+                             (d)   deliberate disqualification by an auditor; and
+                             (e)   changes in the structure of an audit firm due to a merger, acquisition or
+                                   dissolution.
+
+
+
+The role of directors and audit committees
+              RG 26.12       It is important that directors and audit committees support auditor
+                             independence, audit quality, and the rights of members to decide on (or
+                             scrutinise in the case of RSEs) the appointment of an incoming auditor.
+                             Section C of this guide discusses considerations by directors and audit
+                             committees relating to a change of auditor.
+
+              RG 26.13       In particular, directors and audit committees of public companies should
+                             consider whether a change of auditor should occur only at an annual general
+                             meeting (AGM) of the company.
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                              Page 6
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+How the requirements apply
+              RG 26.14       Section D of this guide explains in more detail the requirements that apply to
+                             different types of auditors under the relevant legislation. That is, auditors of:
+                             (a)   public companies;
+                             (b)   registered schemes, retail CCIVs and their respective compliance plans;
+                             (c)   RSEs;
+                             (d)   AFS licensees; and
+                             (e)   credit licensee trust accounts.
+
+              RG 26.15       It also gives guidance on what should be addressed in the application for
+                             consent for each type of auditor and whether disclosure is required as a
+                             condition of our consent.
+
+              RG 26.16       Table 1 summarises the requirements and application processes for each type of
+                             auditor. It also specifies that our consent is not required for:
+                             (a)   the removal of an auditor of a company (other than the removal of an
+                                   auditor of a retail CCIV or proprietary company that is an AFS licensee,
+                                   or the replacement of an auditor of the trust account of a credit licensee
+                                   that is a company);
+                             (b)   the resignation of an auditor of a proprietary company or a small
+                                   company limited by guarantee (except where the proprietary company
+                                   is an AFS licensee or the company is a credit licensee); or
+                             (c)   the resignation or removal of an auditor of a self-managed
+                                   superannuation fund, exempt public sector superannuation scheme,
+                                   excluded approved deposit fund or small APRA fund.
+
+              RG 26.17       Applicants must lodge the forms listed in Table 1 with ASIC by mail at the
+                             address listed on each form, as applicable, or use the ASIC Regulatory
+                             Portal.
+
+
+
+How to apply to ASIC for consent
+              RG 26.18       Section E of this guide gives further guidance about the application process
+                             and other procedural matters, including:
+                             (a)   how and when to lodge an application;
+                             (b)   how we assess an application;
+                             (c)   what notification we will give of our decision;
+                             (d)   when the resignation, removal or replacement takes effect; and
+                             (e)   how to apply for a review of a decision if we refuse to give our consent.
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                              Page 7
+                                                                                                             REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+Table 1:     Overview of requirements and application process
+
+ Type of auditor               ASIC consent                  Information to be provided         Disclosure of resignation or removal              Relevant forms*
+
+ Public companies: see         Required for resignation      All the information in RG 26.34    No disclosure required if resignation at an       ASIC Regulatory Portal (‘Apply for
+ RG 26.57–RG 26.80             of auditor                    and RG 26.36–RG 26.37 if           AGM                                               ASIC consent to resign as an
+                                                             resignation is at an AGM           If resignation is other than at an AGM:           auditor of a public company or a
+                               Not required for removal
+                                                                                                                                                  registrable superannuation entity’)
+                               of auditor                    All the information in RG 26.34–   • Depending on the circumstances, a
+                                                             RG 26.37 if resignation is other     disclosing entity may be required to lodge a    Form 315
+                                                             than at an AGM                       continuous disclosure notice with ASIC or
+                                                                                                                                                  Form 1003
+                                                                                                  the relevant market operator
+                                                                                                • Even if a continuous disclosure notice is not
+                                                                                                  required, ASIC considers it best practice to
+                                                                                                  disclose to members (if the public company
+                                                                                                  is not a disclosing entity or is a disclosing
+                                                                                                  entity that does not need to lodge a
+                                                                                                  continuous disclosure notice)
+
+ Registered schemes and        Required for resignation      All the information in RG 26.34–   For resignation:                                  Form 1003
+ their compliance plans:       or removal of auditor         RG 26.37                           • Depending on the circumstances, a               Form 5112
+ see RG 26.81–RG 26.90                                                                            disclosing entity may be required to lodge a
+                                                                                                  continuous disclosure notice with ASIC or       Form 5113
+                                                                                                  the relevant market operator                    Form 5114
+                                                                                                • Even if a continuous disclosure notice is not
+                                                                                                                                                  Form 5132
+                                                                                                  required, ASIC considers best practice to
+                                                                                                  disclose to members (if the registered          Form 5133
+                                                                                                  scheme is not a disclosing entity or is a
+                                                                                                  disclosing entity that does not need to lodge
+                                                                                                  a continuous disclosure notice)
+
+                                                                                                For removal, disclosure to:
+                                                                                                • any relevant market operator; or
+                                                                                                • members
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                                                                             Page 8
+                                                                                                                  REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+ Type of auditor               ASIC consent                     Information to be provided         Disclosure of resignation or removal               Relevant forms*
+
+ Retail CCIVs and their        Required for resignation         All the information in RG 26.34–   For resignation:                                   Form 1003
+ compliance plans: see         or removal of auditor            RG 26.37                           • Depending on the circumstances, a                Form 5212
+ RG 26.81–RG 26.90                                                                                   disclosing entity may be required to lodge a
+                                                                                                     continuous disclosure notice with ASIC or        Form 5213
+                                                                                                     the relevant market operator                     Form 5214
+                                                                                                   • Even if a continuous disclosure notice is not
+                                                                                                                                                      Form 5230
+                                                                                                     required, ASIC considers it best practice to
+                                                                                                     disclose to members (if the retail CCIV is not   Form 5232
+                                                                                                     a disclosing entity or is a disclosing entity
+                                                                                                                                                      Form 5233
+                                                                                                     that does not need to lodge a continuous
+                                                                                                     disclosure notice)
+
+                                                                                                   For removal, disclosure to:
+                                                                                                   • Any relevant market operator; or members
+
+ RSEs: see RG 26.91–           Required for resignation         All the information in RG 26.34–   For resignation:                                   ASIC Regulatory Portal (‘Apply for
+ RG 26.98                      or removal of auditor            RG 26.37                           • No disclosure is required but ASIC considers     ASIC consent to resign as an
+                                                                                                     it best practice to make disclosure to members   auditor of a public company or a
+                                                                                                     of the RSE                                       registrable superannuation entity’,
+                                                                                                                                                      ‘Apply for ASIC consent to remove
+                                                                                                   For removal:                                       a registrable superannuation
+                                                                                                   • Disclosure to members of the RSE                 entity auditor’ and ‘Notify ASIC of
+                                                                                                                                                      removal, resignation or cessation
+                                                                                                                                                      of a registrable superannuation
+                                                                                                                                                      entity auditor’)
+
+ AFS licensees: see            Required for resignation         All the information in RG 26.34–   No disclosure required                             ASIC Regulatory Portal (‘Notify
+ RG 26.99–RG 26.107            or removal of auditor            RG 26.37                                                                              ASIC or apply to ASIC about
+                                 Note: If the AFS licensee is                                                                                         Australian financial services
+                                 a public company, see also                                                                                           licensee auditor appointments’)
+                                 the requirements for
+                                 auditors of public                                                                                                   Form FS08
+                                 companies above.
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                                                                                 Page 9
+                                                                                                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+ Type of auditor                   ASIC consent                      Information to be provided                 Disclosure of resignation or removal               Relevant forms*
+
+ Credit licensee trust             Required for resignation          All the information in RG 26.34–           No disclosure required                             Form CL17
+ accounts: see                     or replacement of auditor         RG 26.37
+                                                                                                                                                                   Form CL18
+ RG 26.108–RG 26.113                  Note: In this guide,
+                                      ‘consent’ includes
+                                      ‘approval’ in the context of
+                                      the National Credit
+                                      Regulations.
+
+ Proprietary companies or          Not required (unless the          —                                          —                                                  —
+ small companies limited           company is an AFS
+ by guarantee                      licensee (proprietary
+                                   company) or a credit
+                                   licensee: see above)
+
+ Exempt public sector              Not required                      —                                          —                                                  —
+ superannuation schemes
+
+ Excluded approved                 Not required                      —                                          —                                                  —
+ deposit funds
+
+ Self-managed                      Not required                      —                                          —                                                  —
+ superannuation funds
+
+ Small APRA funds                  Not required                      —                                          —                                                  —
+
+
+* For the full titles of forms, including forms relating to the appointment of auditors, see ‘Related information’ at the end of this guide.
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                                                                                             Page 10
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+B          Our general approach to change of auditor
+
+                               Key points
+
+                               This section explains our general approach when considering whether to
+                               give consent to the resignation, removal or replacement of an auditor.
+
+                               It gives guidance on:
+                               • when we will give our consent (see RG 26.19–RG 26.37); and
+                               • other circumstances that may result in a change of auditor (see
+                                 RG 26.38–RG 26.47).
+
+
+
+
+When we will give our consent
+
+                             Matters considered for all applications
+
+              RG 26.19       In exercising ASIC’s powers to consent to the resignation, removal or
+                             replacement of an auditor, our overriding concerns are to ensure that the
+                             quality and independence of the audit function are preserved.
+
+              RG 26.20       In particular, when deciding whether to consent to the resignation, removal
+                             or replacement of an auditor, we will consider:
+                             (a)   any threats to the independence of the auditor (see RG 26.48–RG 26.51);
+                             (b)   whether the timing of any change in auditor may have an impact on the
+                                   effective completion of an audit by the incoming auditor (see RG 26.53–
+                                   RG 26.56); and
+                             (c)   the statutory right of members of a public company to decide on the
+                                   appointment of new auditor at an AGM (see RG 26.53–RG 26.54).
+
+              RG 26.21       In general, we will give our consent to the resignation, removal or
+                             replacement of an auditor of a public company, registered scheme or retail
+                             CCIV (and their respective compliance plans), RSE, AFS licensee or credit
+                             licensee trust account if:
+                             (a)   we consider that there is no evidence of an actual or perceived
+                                   compromise of the auditor’s independence;
+                             (b)   there is no evidence of ‘opinion shopping’ (see RG 26.22–RG 26.25);
+                             (c)   we are not concerned by the nature and extent of any disagreements with
+                                   management or directors of the company, registered scheme’s responsible
+                                   entity, retail CCIV’s corporate director, superannuation trustee, AFS
+                                   licensee or credit licensee (see RG 26.26–RG 26.31);
+                             (d)   there is an inability by the auditor to fulfil all of their obligations under
+                                   relevant legislation and standards due to a genuine incapacity of the
+
+
+
+© Australian Securities and Investments Commission October 2024                                             Page 11
+                                                REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                                    auditor to complete the audit engagement that is beyond their control
+                                    (e.g. relocation of the audited entity to another state in which the auditor
+                                    has no office), as opposed to a disagreement with management or directors;
+                             (e)    given the timing of the proposed change in auditors, there is no reason
+                                    to suggest that the proposed incoming auditor could not conduct an
+                                    effective audit;
+                             (f)    all the information and documents have been provided with the
+                                    application, as applicable; and
+                             (g)    there are no other circumstances or matters connected with the auditor
+                                    ceasing to hold office that should be brought to our attention (see
+                                    RG 26.32–RG 26.37).
+
+
+                             Opinion shopping
+
+              RG 26.22       ‘Opinion shopping’ is the practice of searching for an auditor willing to
+                             support a particular accounting treatment. It involves an entity
+                             communicating with an auditor about their views on specific or proposed
+                             accounting treatments before a new appointment.
+
+              RG 26.23       We are unlikely to consent to the resignation, removal or replacement of an
+                             auditor that appears to be connected to opinion shopping.
+
+              RG 26.24       An auditor approached by an entity’s directors to be appointed as auditor
+                             should not in any way respond to requests from the entity to confirm whether
+                             any accounting treatments or proposed treatments are acceptable.
+
+                                   Note: This generally does not preclude an entity from obtaining accounting advice from
+                                   an independent source that is in no way connected with a possible future change in
+                                   auditors—see also Information Sheet 183 Directors and financial reporting (INFO 183).
+
+              RG 26.25       We will consider any modified audit opinion provided within the two most
+                             recent financial years (and any subsequent interim period) as part of our
+                             assessment of any application for the resignation, removal or replacement of
+                             an auditor.
+
+
+                             Disagreements
+
+              RG 26.26       For the purposes of RG 26.21(c), ‘disagreement’ includes any difference of
+                             opinion that (if not resolved to the satisfaction of the outgoing auditor)
+                             would have caused the auditor to refer to the subject matter of the
+                             disagreement in their audit report or in contravention notifications to ASIC
+                             (e.g. under s311).
+
+              RG 26.27       ‘Disagreement’, therefore, does not include a situation where:
+                             (a)    there is an initial difference of opinion based on incomplete facts or
+                                    preliminary information; and
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                   Page 12
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                             (b)   that difference of opinion is later resolved to the outgoing auditor’s
+                                   satisfaction due to additional relevant facts or information.
+
+              RG 26.28       Examples of disagreements that we would expect the outgoing auditor to tell
+                             ASIC about include:
+                             (a)   disagreements concerning a choice of accounting policies, principles or
+                                   practices;
+                             (b)   disagreements concerning accounting estimates or financial report
+                                   disclosure;
+                             (c)   officers not providing information or explanations to the auditor or
+                                   other difficulties obtaining information for the audit, including from
+                                   audited entity associates and/or advisers;
+                             (d)   limitations on the scope of the audit in the two most recent financial
+                                   years and any subsequent interim period;
+                             (e)   disagreements concerning whether a breach exists that needs to be
+                                   reported;
+                             (f)   disagreements about the auditor’s audit scope or procedures; or
+                             (g)   the auditor not being able to obtain sufficient appropriate evidence
+                                   about a component in the financial statements, which could result in
+                                   them modifying their audit opinion.
+
+                             This is not an exhaustive list. We encourage auditors to contact ASIC if they
+                             have doubt as to whether or not there is a disagreement.
+
+              RG 26.29       Matters notified to ASIC should include those that have been covered in the
+                             most recent audit or review report.
+
+              RG 26.30       Disagreements do not include disputes of a commercial nature between the
+                             auditor and the client (e.g. non-payment of audit fees).
+
+              RG 26.31       We are unlikely to consent to the resignation, removal or replacement of an
+                             auditor if the auditor is unable to fulfil all of their obligations under relevant
+                             legislation and standards due to a disagreement of the type referred to in
+                             RG 26.28.
+
+
+                             Information to be provided with applications
+              RG 26.32       An application for our consent to a resignation must be lodged by or on behalf
+                             of the appointed auditor. An application for our consent to a removal must be
+                             lodged by or on behalf of the audited entity.
+
+              RG 26.33       For the purposes of RG 26.21(f), the following information should be provided
+                             with any applications, as applicable:
+                             (a)   a statement from the outgoing auditor addressing key considerations
+                                   (see RG 26.34);
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                             Page 13
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                             (b)   additional information from the outgoing auditor (except where the
+                                   resignation of an auditor of a public company will take effect at an AGM)
+                                   (see RG 26.35);
+                             (c)   information from the entity (see RG 26.36); and
+                             (d)   confirmation of the proposed incoming auditor (see RG 26.37).
+
+                             Statement from the outgoing auditor
+
+              RG 26.34       The applicant seeking our consent to any resignation, removal or
+                             replacement of an auditor should provide a statement from the outgoing
+                             auditor as to:
+                             (a)   whether all matters that require reporting to ASIC and APRA under
+                                   relevant legislation and standards have been reported at the date of the
+                                   application, and that any further such matters that come to the outgoing
+                                   auditor’s attention before the resignation, removal or replacement will
+                                   be reported;
+                                   Note: Under s311, 324CA-CC, 324CE-CG, 601HG, 990K and 1226H of the Corporations
+                                   Act and s104 of the National Consumer Credit Protection Act 2009 auditors must report
+                                   certain matters to ASIC—see Regulatory Guide 34 Auditor obligations: Reporting to ASIC
+                                   (RG 34). Auditors also have obligations to report matters to APRA under legislation—see,
+                                   for example, s129–130AA, 130BA–130BAA and 130C–130CA of the SIS Act and s88 of
+                                   the Life Insurance Act.
+
+                             (b)   whether there are any disagreements with management or directors of
+                                   the public company, registered scheme’s responsible entity, retail
+                                   CCIV’s corporate director, superannuation trustee, AFS licensee or
+                                   credit licensee (see RG 26.26–RG 26.31);
+                             (c)   whether there is any evidence of opinion shopping (see RG 26.22–RG 26.25);
+                             (d)   whether there are any other circumstances or matters connected with the
+                                   auditor ceasing to hold office that should be brought to our attention
+                                   (see RG 26.38–RG 26.47);
+                             (e)   whether, for a resignation, the auditor has notified directors of the
+                                   public company, responsible entity, corporate director, superannuation
+                                   trustee, AFS licensee or credit licensee in writing of their application to
+                                   ASIC for consent to resign;
+                             (f)   whether the auditor is aware of any reasons the audit is unable to be
+                                   completed under relevant legislation and standards, including any
+                                   specific legislative requirements.
+
+                             Additional information from the outgoing auditor
+
+              RG 26.35       For resignations, other than for the resignation of the auditor of a public
+                             company that will take effect at an AGM, the outgoing auditor should
+                             provide the following additional information with their application:
+
+                             (a)   details of the timing of the proposed resignation; and
+
+
+
+© Australian Securities and Investments Commission October 2024                                                 Page 14
+                                                REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                             (b)   whether the auditor provided an adverse or disclaimer opinion or
+                                   qualification within the two most recent financial years and any
+                                   subsequent interim period.
+
+                             Information from the entity
+
+              RG 26.36       The directors of a public company, responsible entity, corporate director,
+                             superannuation trustee, AFS licensee or credit licensee should also provide
+                             the following information with the application:
+                             (a)   evidence that the entity has approved the appointment of the proposed
+                                   incoming auditor subject to our consent to the resignation, removal or
+                                   replacement of the outgoing auditor, as follows:
+                                   (i)     for a public company, a resolution of the directors which may
+                                           also have reference to the appointment being subject to approval
+                                           at an AGM;
+                                   (ii)    for a registered scheme or retail CCIV (and their respective
+                                           compliance plans), a resolution of the directors of the responsible
+                                           entity or the directors of the corporate director, as applicable;
+                                   (iii)   for an RSE, a resolution of the directors of the superannuation
+                                           trustee (or the individual trustees if the trustee is not a body
+                                           corporate); and
+                                   (iv)    for an AFS licensee or credit licensee trust account, a resolution of
+                                           the directors or members of a company, the partners of a
+                                           partnership or the individual who is the licensee; and
+                             (b)   whether there are any disagreements with the auditor.
+
+                             Confirmation of the proposed incoming auditor
+
+              RG 26.37       The application should be accompanied by a letter from the proposed
+                             incoming auditor:
+                             (a)   agreeing to be appointed, subject to our consent to the resignation,
+                                   removal or replacement of the outgoing auditor;
+                             (b)   confirming their ability to fulfil obligations they will have as auditor
+                                   under relevant legislation and standards; and
+                             (c)   if the change is close to the reporting deadline, confirming that they can
+                                   reasonably expect to conduct an effective audit before the reporting
+                                   deadline.
+
+
+
+Other circumstances that may result in change of auditor
+              RG 26.38       We have set out some other circumstances that may result in a change of
+                             auditor: see RG 26.39–RG 26.47. This is not an exhaustive list. In general,
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                              Page 15
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                             ASIC expects an entity to notify us within 14 days after an auditor ceases for
+                             one of these reasons, although there is a variation of this expectation for
+                             credit licensees: see Section D.
+
+
+                             Auditor ineligibility, incapacity or death
+
+              RG 26.39       An auditor’s appointment will automatically terminate as outlined in this
+                             guide if an auditor:
+                             (a)   ceases to meet the registration requirements under Division 2 of
+                                   Pt 2M.4;
+                             (b)   ceases to meet the eligibility requirements to perform an RSE audit
+                                   under Div 2A of Pt 2M.4 or other relevant legislation and standards;
+                             (c)   is an individual auditor and ceases to be eligible to play a significant
+                                   role in the audit of an entity due to auditor rotation obligations under
+                                   Div 5 of Pt 2M.4; or
+                             (d)   is an individual auditor and dies.
+
+                                   Note: There are obligations to notify APRA if an auditor ceases to meet eligibility
+                                   requirements in APRA prudential standards: see Prudential Standard CPS 520 Fit and
+                                   proper, Prudential Standard SPS 520 Fit and proper, Prudential Standard CPS 510
+                                   Governance and Prudential Standard SPS 510 Governance.
+
+
+                             Loss of independence
+
+              RG 26.40       An auditor must take reasonable steps as soon as practicable after becoming
+                             aware of a conflict of interest situation or circumstance, to bring that
+                             situation or circumstance to an end: see the auditor independence
+                             requirements in Div 3 of Pt 2M.4. If the situation or circumstance continues
+                             for more than seven days, the auditor must notify ASIC: see s327B(2A)–
+                             (2C), 331AAA(2A)–(2C) or 331AH(3)–(5). If the conflict of interest
+                             situation or circumstance is not resolved within the relevant timeframe, the
+                             appointment of the auditor ceases automatically and our consent to the
+                             resignation or removal is not required. For further guidance about auditor
+                             reporting obligations, see RG 34.
+
+                             Disqualification by a court
+
+              RG 26.41       An auditor may be disqualified from being, or acting as, an auditor of an
+                             RSE by a court under s130D and 130EA of the SIS Act. If this happens,
+                             section 35AC of the SIS Act requires the superannuation trustee to end the
+                             appointment of the RSE auditor. As the auditor is ineligible, the appointment
+                             of the auditor ceases and the trustee should notify ASIC within 14 days.
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                 Page 16
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                             Deliberate disqualification
+              RG 26.42       The appointed auditor of a company, registered scheme or RSE must not
+                             disqualify themselves deliberately from acting as auditor: see s324CM. That
+                             is, in the course of their appointment, an auditor must not bring about a state
+                             of affairs that would make the auditor contravene the registration and auditor
+                             independence requirements in Divs 2 and 3 of Pt 2M.4.
+
+              RG 26.43       An appointed auditor of an AFS licensee must not deliberately disqualify
+                             themselves from acting as the auditor of the licensee: see s990D(2).
+
+              RG 26.44       If it appears that the auditor may have deliberately disqualified themselves,
+                             we may take action in relation to the contravention. Our consent to the
+                             resignation or removal does not preclude ASIC from taking enforcement
+                             action in relation to a contravention of the law.
+
+
+                             Mergers, acquisitions and dissolutions of audit firms
+
+              RG 26.45       Mergers or acquisitions of audit firms do not just involve a name change for
+                             one of the firms: at least one firm will cease to exist. In this case, a change in
+                             auditors should be effected as outlined in this guide.
+
+              RG 26.46       An audit firm that is a partnership may be dissolved before our consent to
+                             the auditor’s resignation or removal has been obtained. If this happens, the
+                             audit appointment vests in each member of the firm who is a registered
+                             company auditor: see s324AB(1)–(2) and regs 7.8.15(2)–(3) of the
+                             Corporations Regulations 2001 (Corporations Regulations). The
+                             appointment of such a member as auditor is not affected by the dissolution
+                             (except in circumstances relating to reconstitution of the firm). We therefore
+                             expect the provisions of the Corporations Act on the resignation and removal
+                             of auditors to apply to each registered company auditor of the firm.
+
+              RG 26.47       If a firm is reconstituted through the normal withdrawal of a member, our
+                             consent to a resignation or removal is not required unless the withdrawing
+                             member is the last remaining registered company auditor: see s324AC and
+                             regs 7.8.15(4)–(5) of the Corporations Regulations.
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                             Page 17
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+C          The role of directors and audit committees
+
+                               Key points
+
+                               This section briefly discusses considerations for directors and audit
+                               committees in:
+                               • supporting auditor independence and audit quality (see RG 26.48–
+                                 RG 26.52); and
+                               • determining the timing of a change in auditor (see RG 26.53–RG 26.56),
+                                 including supporting the right of members of public companies to decide
+                                 on the appointment of a proposed incoming auditor.
+
+
+
+Auditor independence and audit quality
+              RG 26.48       Directors and audit committees can play an important role in:
+                             (a)   ensuring the independence of auditors from undue influence by
+                                   management and others; and
+                             (b)   promoting audit quality.
+
+              RG 26.49       Where there is good corporate governance, audit committees and directors
+                             can provide a measure of protection for members, as well as over the audit
+                             process. Auditor independence and audit quality are important to the quality
+                             of financial reporting.
+
+
+                             Auditor independence
+
+              RG 26.50       Auditor independence is fundamental to the credibility and reliability of an
+                             auditor’s report. An auditor must exercise objective and impartial judgement
+                             in conducting an audit and must be able to report the audit findings free from
+                             any pressure and undue influence from others. Auditors are also required to
+                             report attempts to unduly influence, interfere or mislead. For further
+                             guidance, see RG 34.
+
+              RG 26.51       For example, the threat of removal from office by directors of a company,
+                             responsible entity, corporate director or superannuation trustee, or other
+                             officers, could be used to exert pressure or influence on the auditor. If there
+                             is potential uncertainty about the continuation of an auditor at the time that a
+                             financial report is completed, this may create a threat to independence.
+
+
+                             Audit quality
+
+              RG 26.52       We have provided the following guidance on audit quality:
+                             (a)   Information Sheet 196 Audit quality: The role of directors and audit
+                                   committees (INFO 196) (includes information on matters that directors
+
+
+
+© Australian Securities and Investments Commission October 2024                                             Page 18
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                                   and audit committees may consider in connection with replacing
+                                   auditors);
+                             (b)   Information Sheet 222 Improving and maintaining audit quality
+                                   (INFO 222); and
+                             (c)   Information Sheet 223 Audit quality: The role of others (INFO 223).
+
+
+
+Timing of change in auditor and maintaining members’ rights
+
+                             Public companies
+
+              RG 26.53       Directors and audit committees of public companies should consider whether
+                             any resignation should take place at the next AGM to ensure that the rights
+                             of the members to appoint auditors are maintained and the independence and
+                             objectivity of auditors is protected.
+
+              RG 26.54       Members of public companies have the right to appoint auditors at an AGM.
+                             The resignation of an auditor during a financial year can lead to a new
+                             auditor being appointed by the directors and undertaking an audit before the
+                             appointment has been considered by the members at an AGM.
+
+
+                             Registered schemes, retail CCIVs and RSEs
+
+              RG 26.55       Registered schemes, retail CCIVs and RSEs do not have AGMs. The
+                             appointment of an auditor of a registered scheme or retail CCIV (and their
+                             respective compliance plans) or RSE is controlled by the applicable
+                             responsible entity, corporate director or superannuation trustee, and not by
+                             members.
+
+                                   Note: Trustees of RSEs (other than pooled superannuation trusts) must hold an annual
+                                   members’ meeting (AMM) for each year of income where members must be given
+                                   reasonable opportunities to ask questions—see s29P of the SIS Act. Unlike an AGM,
+                                   there is no formal voting on resolutions at AMMs.
+
+              RG 26.56       This does not mean that the independence of auditors and audit quality are
+                             less important. Directors of the responsible entity, corporate director or
+                             superannuation trustee should consider whether the auditor of a registered
+                             scheme or retail CCIV (and their respective compliance plans) or RSE as
+                             applicable should change immediately after completion of the audit report.
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                  Page 19
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+D          How the requirements apply
+
+                               Key points
+
+                               This section explains in more detail the requirements that apply and what
+                               should be addressed in the application for:
+                               • the resignation of an auditor of a public company under s329(5) and
+                                 329(6) (see RG 26.57–RG 26.80);
+                               • the resignation or removal of an auditor of a registered scheme or retail
+                                 CCIV (and their respective compliance plans) under s331AC (including
+                                 as it applies under s1232R(2)), 601HH and 1226J) (see RG 26.81–
+                                 RG 26.90);
+                               • the resignation or removal of an RSE auditor under s331AK(1) and
+                                 331AK(2) (see RG 26.91–RG 26.98);
+                               • the resignation or removal of an auditor of an AFS licensee under
+                                 s990F(b) and 990G(1) (see RG 26.99–RG 26.107); and
+                               • the resignation or replacement of an auditor of a credit licensee trust
+                                 account (trust account auditor) under regs 19(4)(d) and 19(4)(e) of the
+                                 National Credit Regulations (see RG 26.108–RG 26.113.
+
+
+Auditors of public companies
+              RG 26.57       The auditor of a public company may resign if the auditor has applied, in
+                             writing, to ASIC for our consent to the resignation and we have granted our
+                             consent: see s329(5) and 329(6).
+
+                                   Note: Our consent is not required for the resignation of an auditor of a proprietary
+                                   company or a small company limited by guarantee, except for an auditor of a
+                                   proprietary company that is an AFS licensee (see RG 26.99–RG 26.107) or an auditor
+                                   of a credit licensee trust account (see RG 26.108–RG 26.113).
+
+              RG 26.58       An auditor of a public company should submit their resignation application
+                             through the ASIC Regulatory Portal.
+
+                                   Note: For more information about lodging a resignation application as a public
+                                   company auditor, see Information Sheet 65 Resignation of an auditor of a public
+                                   company (INFO 65).
+
+              RG 26.59       In addition, the public company must:
+                             (a)   notify ASIC of the resignation using Form 315 Notification of
+                                   resignation, removal or cessation of auditor; and
+                             (b)   if applicable, give a trustee for the holders of debentures in the company
+                                   a copy of the Form 315 lodged with ASIC (see s329(11)).
+
+                             The company must do this within 14 days of receiving the auditor’s notice of
+                             resignation.
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                  Page 20
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+              RG 26.60       The appointment of an auditor is primarily a matter for the members. While
+                             the directors must fill any vacancy in the office of auditor that occurs other
+                             than at an AGM (s327C(1)), the incoming auditor’s term will expire at the
+                             next AGM. In this case, the members must appoint an auditor at the next
+                             AGM: see s327B(1)(b).
+
+                             Resignations that take effect at an AGM
+
+              RG 26.61       The auditor of a public company can apply for our consent to the resignation
+                             taking effect at the next AGM. The following information should be
+                             provided with the application:
+                             (a)   a statement by the outgoing auditor addressing key considerations (see
+                                   RG 26.34);
+                             (b)   information from the entity (see RG 26.36); and
+                             (c)   confirmation of the proposed incoming auditor (see RG 26.37).
+
+              RG 26.62       We would generally expect the auditor to lodge a resignation application
+                             before the auditor’s report is signed. This will help to minimise any impact
+                             an unresolved decision about the resignation might have on the
+                             independence of the auditor during the completion of the audit process and
+                             ensure that this decision and the appointment of an incoming auditor does
+                             not interfere with this process.
+
+              RG 26.63       In general, we will consent to the resignation of an auditor that takes effect at
+                             the next AGM, subject to the matters in RG 26.21.
+
+              RG 26.64       If a vacancy in the office of auditor of a public company occurs at the AGM,
+                             the company must appoint a new auditor: see s327B(1)(b). Under s328B, the
+                             nomination of an incoming auditor should be received by the company from
+                             a member of the company before the meeting is convened, or not less than
+                             21 days before the meeting.
+
+                             Resignations that take effect other than at an AGM
+
+              RG 26.65       If the auditor of a public company wishes to resign on a date other than at an
+                             AGM, they should provide the following information with the application:
+                             (a)   a statement by the outgoing auditor addressing key considerations (see
+                                   RG 26.34);
+                             (b)   additional information from the outgoing auditor (see RG 26.35);
+                             (c)   information from the entity (see RG 26.36); and
+                             (d)   confirmation of the proposed incoming auditor (see RG 26.37).
+
+              RG 26.66       In general, we will consent to the resignation of an auditor of a public
+                             company to take effect at any time of the year, subject to:
+                             (a)   the considerations in RG 26.21; and
+
+
+
+© Australian Securities and Investments Commission October 2024                                             Page 21
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                             (b)   the matters in RG 26.67–RG 26.69, as applicable.
+
+                             Effective date of resignation of auditor
+
+              RG 26.67       We may consent to the resignation of an auditor of a public company other
+                             than at an AGM. If we do, the resignation will take effect at the later of:
+                             (a)   the day of our consent;
+                             (b)   the day (if any) specified in the notice of resignation given by the
+                                   auditor to the company; or;
+                             (c)   a day that we specify (if any).
+
+              RG 26.68       If we consent to the resignation of an auditor of a public company that is a
+                             disclosing entity other than at an AGM then, depending on the
+                             circumstances, the public company may be required to lodge a continuous
+                             disclosure notice with ASIC or the relevant market operator, containing:
+                             (a)   details of the outgoing auditor;
+                             (b)   details of the proposed incoming auditor; and
+                             (c)   the reason for the change in auditor.
+                                   Note: An unlisted disclosing entity may notify ASIC using Form 1003 Disclosure
+                                   notice for unlisted disclosing entity.
+
+              RG 26.69       If we consent to the resignation of an auditor, other than at an AGM, for a
+                             public company that is not a disclosing entity or is a disclosing entity that
+                             does not need to lodge a continuous disclosure notice (see RG 26.68), ASIC
+                             considers it best practice to disclose the details in RG 26.68, at or around the
+                             date when the resignation takes effect, by public notice displayed
+                             prominently on the company’s website where the notice can reasonably be
+                             readily located and accessed by members.
+
+
+                             Single member public companies
+
+              RG 26.70       A single member public company can elect not to hold an AGM under
+                             s250N(4). However, our consent to the resignation of an auditor is still
+                             required under s329(5) to ensure that the auditor’s independence is preserved
+                             and the incoming auditor can conduct an effective audit.
+
+              RG 26.71       The auditor should provide the following information with the application:
+                             (a)   a statement by the outgoing auditor addressing key considerations (see
+                                   RG 26.34);
+                             (b)   additional information from the outgoing auditor (see RG 26.35);
+                             (c)   information from the entity (see RG 26.36); and
+                             (d)   confirmation of the proposed incoming auditor (see RG 26.37).
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                Page 22
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+              RG 26.72       In general, we will consent to the resignation of an auditor of a single
+                             member public company at any time of the year, subject to the matters in
+                             RG 26.21.
+
+                             Public companies registered with the Australian Charities
+                             and Not-for-Profits Commission (ACNC)
+
+              RG 26.73       The most common type of company structure used by charities that are
+                             registered with the ACNC is ‘a public company limited by guarantee’.
+                             Public companies limited by guarantee and registered with the ACNC, where
+                             they have an appointed auditor, will require our consent to the resignation of
+                             an auditor, under s329(5), and must follow the auditor removal process as set
+                             out in s329(1)–(4), see: RG 26.76–RG 26.80.
+
+                                   Note: For more information on companies limited by guarantee, including auditor
+                                   appointment, resignation and removals, see Information Sheet 131 Obligations of
+                                   companies limited by guarantee (INFO 131).
+
+              RG 26.74       The auditor should provide the information outlined in RG 26.34–RG 26.37
+                             with the resignation application.
+
+              RG 26.75       In general, we will consent to the resignation of an auditor of an ACNC
+                             public company limited by guarantee that takes effect at the next AGM or at
+                             any time of the year, subject to the matters in RG 26.21.
+
+                             Removal of an auditor
+
+              RG 26.76       Our consent is not required for the removal of an auditor of a company.
+
+                                   Note: Although a retail CCIV is a company, consent is required for the removal of a
+                                   retail CCIV auditor—see RG 26.81.
+
+              RG 26.77       Removal of an auditor of a company requires the approval of company
+                             members at a general meeting. The removal process is set out in s329(1)–(4),
+                             including the requirement to give the auditor the opportunity to provide
+                             written representations to be sent to all members and read out at the general
+                             meeting. The auditor also has the right to be heard at the general meeting.
+
+                                   Note: For more information on the steps involved in the removal process, including an
+                                   example notice of intention, see Information Sheet 62 Removal of an auditor of a
+                                   company (INFO 62).
+
+              RG 26.78       Directors or members of a company who want to remove the company’s
+                             auditor must give the company a notice of intention to remove the auditor as
+                             part of the removal process: see s329(1A). The company must also send a
+                             copy of this notice to the auditor and lodge it with ASIC as soon as possible:
+                             see s329(2). The address for lodgement is:
+                                   Australian Securities and Investments Commission
+                                   PO Box 4000
+                                   Gippsland Mail Centre
+                                   VIC 3841
+
+
+
+© Australian Securities and Investments Commission October 2024                                                   Page 23
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+              RG 26.79       If a resolution to remove an auditor is carried at a general meeting, the
+                             company must:
+                             (a)   notify ASIC of the removal using Form 315, and
+                             (b)   if applicable, give a trustee for the holders of debentures in the company
+                                   a copy of the Form 315 lodged with ASIC (see s329(11)).
+
+                             The company must do this within 14 days of removing the auditor.
+
+              RG 26.80       We may review the removal of an auditor where circumstances of the
+                             removal suggest that there may have been contraventions of the
+                             Corporations Act. If we find contraventions, we will take appropriate action.
+
+
+
+Auditors of registered schemes or retail CCIVs (and their respective
+compliance plans)
+              RG 26.81       If an auditor of a registered scheme or retail CCIV (and their respective
+                             compliance plans) wishes to resign, they must apply to ASIC in writing for
+                             our consent. If the responsible entity or corporate director wishes to remove
+                             an auditor of their entity or their compliance plan from office, they must also
+                             apply to ASIC in writing.
+
+                                   Note: See s331AC(1) and 331AC(2) (including as they apply under s1232R(2)),
+                                   601HH(2) and 1226J(3).
+
+              RG 26.82       A responsible entity or corporate director must notify ASIC within 14 days
+                             of receiving a notice of resignation or removing an auditor: see s331AC(7),
+                             including as it applies under s1232R(2). Responsible entities and corporate
+                             directors must also notify ASIC within 14 days of appointing an auditor of a
+                             registered scheme or retail CCIV to fill a vacancy: see reg 2M.4.01 of the
+                             Corporations Regulations and notional s1232R(3) (as inserted by ASIC
+                             Corporations (CCIV Auditors) Instrument 2024/668). In the case of the
+                             appointment of a retail CCIV auditor, corporate directors must notify ASIC
+                             within 14 days of the appointment.
+
+                                   Note: For more information about the process to resign as or remove an auditor of a
+                                   registered scheme or retail CCIV (and their respective compliance plans): see
+                                   Information Sheet 64 Resignation and removal of auditors of registered schemes, retail
+                                   CCIVs, compliance plans and registrable superannuation entities (INFO 64).
+
+              RG 26.83       Table 2 lists forms that the auditor of a registered scheme or retail CCIV (or
+                             their respective compliance plans), responsible entity or corporate director
+                             should lodge and their respective purposes:
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                   Page 24
+                                                     REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+Table 2:      List of ASIC forms
+
+ Registered schemes                                                  Retail CCIVs
+
+ Form 5132 Application for consent from ASIC for                     Form 5232 Application for consent from ASIC for
+ resignation or removal of registered scheme auditor                 resignation or removal of auditor for CCIV
+
+ Form 5112 Application for consent from ASIC to                      Form 5212 Application for consent from ASIC to
+ remove compliance plan auditor                                      remove compliance plan auditor of a CCIV
+
+ Form 5113 Application for consent from ASIC to                      Form 5213 Application for consent from ASIC to
+ resign as compliance plan auditor                                   resign as compliance plan auditor of a CCIV
+
+ Form 5114 Notification of request by responsible                    Form 5214 Notification of request by corporate
+ entity to change compliance plan auditor                            director to change compliance plan auditor of a CCIV
+
+ Form 5133 Notification of resignation, removal or                   Form 5230 Notification of appointment of auditor for a
+ cessation of a registered scheme auditor                            CCIV
+
+ Form 5137 Notification of appointment of scheme                     Form 5233 Notification of resignation, removal, or
+ auditor                                                             cessation of retail CCIV auditor
+
+Source: For the full titles of forms, see ‘Related information’ at the end of this guide.
+
+
+                 RG 26.84         The following information should be provided with any resignation or
+                                  removal application:
+                                  (a)   a statement by the outgoing auditor addressing key considerations (see
+                                        RG 26.34);
+                                  (b)   additional information from the outgoing auditor (see RG 26.35);
+                                  (c)   information from the entity (see RG 26.36); and
+                                  (d)   confirmation of the proposed incoming auditor (see RG 26.37).
+
+                 RG 26.85         In general, we will consent to the resignation or removal of an auditor of a
+                                  registered scheme or retail CCIV (and their respective compliance plans) to
+                                  take effect at any time of the year, subject to:
+                                  (a)   the considerations in RG 26.21; and
+                                  (b)   the matters in RG 26.87–RG 26.90, as applicable.
+
+                 RG 26.86         The auditor of a registered scheme or retail CCIV compliance plan may
+                                  become ineligible to act under s601HG(2) or 1226F(3). If this happens, the
+                                  responsible entity or corporate director (as applicable) must remove the
+                                  auditor: see s601HH(1)(a) and 1226J(1)(a). Our consent is not required in
+                                  this case.
+                                        Note: If the auditor of a registered scheme or retail CCIV has become ineligible to act
+                                        under Divs 2 or 3 of Pt 2M.4, the auditor ceases to hold office under s331AAA(2)
+                                        (including as it applies under s1232R(2)). The auditor of a registered scheme or a retail
+                                        CCIV ceases to hold office if the scheme or retail CCIV is wound up: see s331AD
+                                        (including as it applies under s1232R(2) and s1232S(2).
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                           Page 25
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                             Effective date of resignation or removal of an auditor
+
+              RG 26.87       If we consent to the resignation of an auditor of a registered scheme or retail
+                             CCIV (and their compliance plans), the resignation will take effect on the
+                             later of:
+                             (a)   the day of our consent; or
+                             (b)   the day (if any) specified in the notice of resignation given by the
+                                   auditor to the scheme or CCIV; or
+                             (c)   a day that we specify (if any).
+
+              RG 26.88       If we consent to the removal of an auditor of a registered scheme or retail
+                             CCIV (and their compliance plans), the removal will take effect when all of
+                             the consent conditions have been met. This will generally involve disclosure
+                             of the following details to any relevant market operator, or to members of
+                             the scheme or CCIV (as applicable), by a public notice displayed
+                             prominently on the responsible entity’s or corporate director’s website where
+                             the notice can reasonably be readily located and accessed by members:
+                             (a)   details of the outgoing auditor;
+                             (b)   details of the proposed incoming auditor, and
+                             (c)   the reason for the change in auditor.
+
+              RG 26.89       If we consent to the resignation of an auditor of a registered scheme or retail
+                             CCIV (and their compliance plans) that is a disclosing entity, then,
+                             depending on the circumstances, the responsible entity or corporate director
+                             may be required to lodge a continuous disclosure notice with ASIC or the
+                             relevant market operator containing the details listed at RG 26.88.
+                                   Note: An unlisted disclosing entity may notify ASIC using Form 1003 Disclosure notice
+                                   for unlisted disclosing entity.
+
+              RG 26.90       If we consent to the resignation of an auditor of a registered scheme or retail
+                             CCIV (and their compliance plans) that is not a disclosing entity, or is a
+                             disclosing entity that does not need to lodge a continuous disclosure notice,
+                             ASIC considers it best practice to disclose the details listed at RG 26.88, at
+                             or around the date when the resignation takes effect, by public notice
+                             displayed prominently on the responsible entity’s or corporate director’s
+                             website where the notice can reasonably be readily located and accessed
+                             by members.
+
+
+Auditors of RSEs
+              RG 26.91       On 1 July 2023, all RSE auditors that had been appointed under the SIS Act
+                             were deemed to be the appointed RSE auditors for their respective RSEs
+                             under Ch 2M of the Corporations Act: see s331AF(2). All such
+                             appointments were individuals. From 1 July 2023, an audit firm or company
+                             may be appointed as an RSE auditor when a vacancy arises.
+
+
+© Australian Securities and Investments Commission October 2024                                                 Page 26
+                                                REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+              RG 26.92       An RSE auditor who wishes to resign, or a superannuation trustee that
+                             wishes to remove an RSE auditor from office, must apply to ASIC for our
+                             consent: see s331AK(1) and 331AK(2). Both applications should be
+                             submitted through the ASIC Regulatory Portal.
+
+              RG 26.93       The applicant should provide the following information with their
+                             resignation or removal application:
+                             (a)   a statement by the outgoing RSE auditor addressing key considerations
+                                   (see RG 26.34);
+                             (b)   additional information from the outgoing RSE auditor (see RG 26.35);
+                             (c)   information from the superannuation trustee (see RG 26.36); and
+                             (d)   confirmation of the proposed incoming RSE auditor (see RG 26.37).
+
+                                   Note: For more information about the process to resign as, or remove, an RSE auditor,
+                                   see Information Sheet 288 Resignation and removal of auditors of registrable
+                                   superannuation entities (INFO 288).
+
+              RG 26.94       We may consult with APRA in relation to the resignation, removal or
+                             appointment of an RSE auditor. We will also consider obligations on RSE
+                             auditors in relevant APRA prudential standards.
+
+              RG 26.95       In general, we will consent to the resignation or removal of an RSE auditor
+                             to take effect at any time of the year, subject to:
+                             (a)   the considerations in RG 26.21; and
+                             (b)   the matters in RG 26.96–RG 26.98, as applicable.
+
+
+                             Effective date of resignation or removal of an auditor
+
+              RG 26.96       If we consent to the resignation of an RSE auditor, the resignation will take
+                             effect on the later of:
+                                   (i)     the day of our consent;
+                                   (ii)    the day (if any) specified in the notice of resignation given by the
+                                           auditor to the superannuation trustee; or;
+                                   (iii)   a day that we specify (if any).
+
+              RG 26.97       If we consent to the removal of an RSE auditor, the removal will take effect
+                             when all of the consent conditions have been met. This will generally
+                             involve disclosure of the following details to members of the RSE by a
+                             public notice displayed prominently on the RSE’s website where the notice
+                             can reasonably be readily located and accessed by members:
+                             (a)   details of the outgoing auditor;
+                             (b)   details of the proposed incoming auditor; and
+                             (c)   the reason for the change in auditor.
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                   Page 27
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+              RG 26.98       If we consent to the resignation of an RSE auditor, no disclosure is required,
+                             however, ASIC considers it best practice to make disclosure of the details in
+                             RG 26.97 to members of the RSE.
+
+
+
+Auditors of AFS licensees
+              RG 26.99       The audit of an AFS licensee involves conducting a financial audit and a
+                             compliance audit as to whether the licensee is complying with certain
+                             requirements of the Corporations Act and their AFS licence.
+
+              RG 26.100      An auditor of an AFS licensee may resign if the auditor has applied, in
+                             writing, to ASIC for our consent and we have granted our consent: see
+                             s990G(1). Our consent must also be obtained if an AFS licensee wishes to
+                             remove an auditor from office: see s990F.
+
+                                   Note 1: If an AFS licensee is a public company, s990B–990H do not apply (s990A), and
+                                   the resignation and removal of an auditor occurs under s329: see RG 26.57–RG 26.80.
+
+                                   Note 2: Where the AFS licensee is a proprietary company and engages an auditor under
+                                   s325 to audit its financial report, the resignation and removal of the auditor occurs under
+                                   s329. In this case, our consent is not required and the company must lodge Form 315
+                                   within 14 days after receiving the notice of resignation from the auditor or after the
+                                   removal: see s329(11)(c).
+
+              RG 26.101      An auditor of an AFS licensee can apply for ASIC consent to resign. The
+                             auditor must use Form FS08 Application for consent from ASIC to resign as
+                             an auditor of an Australian financial services licensee.
+
+              RG 26.102      In addition, the AFS licensee can apply for ASIC consent to remove an
+                             auditor from office. The AFS licensees must also notify ASIC as soon as
+                             practicable after being advised that an auditor:
+                             (a)   has died; or
+                             (b)   is prohibited from acting under s990D(1) (see reg 7.8.15(9) of the
+                                   Corporations Regulations).
+
+                             Both the application and notification by the AFS licensee must be submitted
+                             through the ASIC Regulatory Portal (‘Notify ASIC or apply to ASIC about
+                             Australian financial services licensee auditor appointments’).
+                                   Note: Once the position of auditor becomes vacant, a new auditor must be appointed
+                                   within 14 days—see s990B(2) and reg 7.8.15(8) of the Corporations Regulations. The
+                                   AFS licensee is then required to notify ASIC of the appointment, through the ASIC
+                                   Regulatory Portal (‘Notify ASIC or apply to ASIC about Australian financial services
+                                   licensee auditor appointments’) within 14 days of the appointment—see s990B(6)
+
+              RG 26.103      The applicant should provide the following information with the application:
+                             (a)   a statement by the outgoing auditor addressing key considerations (see
+                                   RG 26.34);
+                             (b)   additional information from the outgoing auditor (see RG 26.35);
+
+
+© Australian Securities and Investments Commission October 2024                                                      Page 28
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                             (c)   information from the entity (see RG 26.36); and
+                             (d)   confirmation of the proposed incoming auditor (see RG 26.37).
+
+                                   Note: For more information about the process to resign as, or remove, an auditor of an
+                                   AFS licensee, see Information Sheet 290 Resignation and removal of auditors of
+                                   Australian financial services licensees (INFO 290).
+
+              RG 26.104      In general, we will consent to the resignation or removal of an auditor of an
+                             AFS licensee to take effect at any time of the year, subject to:
+                             (a)   the considerations in RG 26.21; and
+                             (b)   the matters in RG 26.105–RG 26.106, as applicable.
+
+
+                             Effective date of resignation or removal of an auditor
+
+              RG 26.105      If we consent to the resignation of an auditor of an AFS licensee, the
+                             resignation will take effect on the later of:
+                             (a)   the day of our consent;
+                             (b)   the day (if any) specified in the notice of resignation given by the
+                                   auditor to the AFS licensee; or
+                             (c)   a day that we specify (if any).
+
+              RG 26.106      If we consent to the removal of an auditor of an AFS licensee, the removal
+                             will only take effect on the day we give consent.
+
+              RG 26.107      If the auditor of an AFS licensee has become ineligible to act under s990C
+                             and reg 7.8.16 of the Corporations Regulations, the licensee must remove the
+                             auditor: see s990F(a). Our consent is not required in this case.
+
+
+
+Auditors of credit licensee trust accounts
+              RG 26.108      If a person is appointed as the auditor of a credit licensee to prepare a trust
+                             account audit report, the appointment is continuous until the first of the
+                             following events occurs:
+                             (a)   the licensee is no longer required to keep a trust account;
+                             (b)   the auditor dies or otherwise ceases to engage in the business of being
+                                   an auditor;
+                             (c)   the auditor is unable to perform their duties as the licensee’s auditor;
+                             (d)   we approve the auditor’s resignation; or
+                             (e)   we approve a request by the licensee to replace the person as auditor.
+
+                                   Note: See reg 19(4) of the National Credit Regulations.
+
+              RG 26.109      A credit licensee trust account auditor may resign if the auditor has applied,
+                             in writing, to ASIC for our approval to the resignation, and we have granted
+
+
+
+© Australian Securities and Investments Commission October 2024                                                    Page 29
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                             approval: see reg 19(4)(d). A credit licensee can also replace a trust account
+                             auditor, subject to our approval of the auditor’s replacement: see
+                             reg 19(4)(e).
+
+              RG 26.110      Applications should be made using, as relevant:
+                             (a)   Form CL17 Australian credit licence—Application for approval from
+                                   ASIC to replace a trust account auditor; or
+                             (b)   Form CL18 Australian credit licence—Application for approval from
+                                   ASIC to resign as a trust account auditor.
+
+              RG 26.111      In addition, credit licensees must notify ASIC within 14 days after
+                             appointing a replacement for a trust account auditor whose appointment
+                             ceased under reg 19(4)(b)–(e) of the National Credit Regulations: see reg
+                             19(5)(b). The credit licensee must use Form CL16 Australian Credit
+                             Licence—Notification of appointment of a trust account auditor.
+
+                                   Note: A credit licensee must appoint a replacement trust account auditor who meets the
+                                   requirements in reg 19(2) within 28 days of the cessation of the original auditor’s
+                                   appointment—see reg 19(5)(a).
+
+              RG 26.112      The auditor must make the resignation application and the credit licensee
+                             must make the replacement application. The applicant should provide the
+                             following information with the application:
+                             (a)   a statement by the outgoing auditor addressing key considerations (see
+                                   RG 26.34);
+                             (b)   additional information from the outgoing auditor (see RG 26.35);
+                             (c)   information from the entity (see RG 26.36); and
+                             (d)   confirmation of the proposed incoming auditor (see RG 26.37).
+
+              RG 26.113      In general, we will approve the resignation or replacement of a credit
+                             licensee trust account auditor to take effect at any time of the year, subject to
+                             the matters outlined in RG 26.21.
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                   Page 30
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+E          How to apply to ASIC for consent
+
+                               Key points
+
+                               Applications for consent to the resignation, removal or replacement of an
+                               auditor should be lodged at least four weeks before the intended date of
+                               change: see RG 26.114–RG 26.116.
+
+                               We will assess each application based on the information submitted with it:
+                               see RG 26.117–RG 26.120.
+                               We will form a view about whether to give our consent and provide
+                               notification of our decision, including to APRA where required: see
+                               RG 26.121–RG 26.123.
+                               An outgoing auditor continues to act as auditor until we have granted
+                               consent: see RG 26.9–RG 26.10.
+                               Applicants may apply for a review of our decision if we refuse to give our
+                               consent: see RG 26.124–RG 26.126.
+
+
+
+
+When to lodge an application
+              RG 26.114      An application to ASIC for consent to the resignation, removal or replacement
+                             of an auditor may be lodged at any time of the year subject to the requirements
+                             in this guide that apply to the particular situation. An auditor continues to
+                             hold office until our consent to their resignation or removal has been
+                             granted. For this reason, auditor arrangements should not be changed before
+                             we have given our consent.
+
+              RG 26.115      ASIC does not have the power to allow a resignation, removal or
+                             replacement to take effect before the date on which we give consent, nor can
+                             we backdate our consent. It is therefore important that applicants lodge their
+                             applications within a reasonable time so we can give due consideration to the
+                             information provided and arrive at a decision.
+
+              RG 26.116      Generally, a reasonable time to apply for our consent is at least four weeks
+                             before the intended date of change. If you are using the ASIC Regulatory
+                             Portal for the first time to submit an application or notification, you should
+                             allow sufficient preparation time.
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                             Page 31
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+How we assess an application
+
+                             Incomplete or deficient applications
+
+              RG 26.117      If an applicant lodges an incomplete or deficient application with ASIC, we
+                             will send it back to the applicant for further information or correction.
+                             Examples of deficient applications include:
+                             (a)   failing to pay the application fee on lodgement;
+                             (b)   using an incorrect application form for the intended purpose; or
+                             (c)   providing incorrect or incomplete information on the application form.
+
+              RG 26.118      We will not assess applications that do not sufficiently address the matters
+                             referred to in this guide, or that are incomplete or deficient, until all relevant
+                             information is provided. In this case, we will seek correction of the
+                             deficiencies and ask for further information to support the application.
+
+
+                             Concerns about a change
+
+              RG 26.119      If we have concerns about the resignation, removal or replacement of an
+                             auditor—whether these are brought to our attention in the application or
+                             otherwise—we will assess the nature of the concerns before determining
+                             whether to consent to, or refuse, the application.
+
+              RG 26.120      We may initiate further procedures, and these may include one or more of
+                             the following:
+                             (a)   asking the auditor or the entity to provide additional information; and/or
+                             (b)   convening a hearing under s51 of the Australian Securities and
+                                   Investments Commission Act 2001.
+
+
+
+What notification we will give of our decision
+              RG 26.121      For applications for the resignation of an auditor, we will notify both the
+                             auditor and the entity in writing when our decision has been made.
+
+              RG 26.122      For applications for the removal or replacement of an auditor (other than for
+                             removal of the auditor of a public company under s329), we will notify the
+                             entity in writing of our decision. The entity should give written notice of our
+                             decision to the auditor. Such notice should not be given until after the entity
+                             has received notification of our decision.
+
+              RG 26.123      For applications for the removal or resignation of an RSE auditor, we must
+                             notify APRA of our decision as soon as practicable after giving consent to
+                             the removal or resignation: see s331AK(8).
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                             Page 32
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+How to apply for a review of our decision
+              RG 26.124      You can apply to the Administrative Appeals Tribunal (AAT) for a review
+                             under s1317B if you are not satisfied with our decision.
+
+              RG 26.125      You may apply to ASIC under s28 of the Administrative Appeals Tribunal
+                             Act 1975 (AAT Act) to obtain the reasons for our decision. An application
+                             for a statement of reasons should be made in writing and should be lodged
+                             with ASIC within 28 days after the date of our notice of refusal.
+
+              RG 26.126      If you choose to apply for a review of our decision without seeking a formal
+                             statement of reasons under s28 of the AAT Act, a written application should
+                             be lodged with the AAT within 28 days after the date of our decision.
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                             Page 33
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+Appendix: Checklist of information to be provided
+with your application
+Outgoing auditor statement: see RG 26.34
+
+   For all applications, ensure that you have included a statement from the outgoing auditor as to:
+    whether all matters that must be reported to ASIC under the relevant legislation have been reported at the
+     date of the application, and any such further matters will be reported if they come to your attention before
+     the resignation, removal or replacement;
+    whether there are any disagreements with management or directors, trustee or the licensee;
+    whether there is any evidence of opinion shopping;
+    whether there are any other circumstances or matters connected with the outgoing auditor ceasing to hold
+     office that should be brought to ASIC’s attention;
+    whether the auditor is unable to complete the audit under relevant legislation;
+    whether the auditor provided an adverse or disclaimer opinion or qualification within the two most recent
+     financial years and any subsequent interim period;
+    for resignations, whether the outgoing auditor has notified the directors or licensee in writing of the
+     application to ASIC for consent; and
+   For resignations that will take effect other than at an AGM,
+    details of the timing of the proposed resignation.
+
+
+Outgoing auditor additional information: see RG 26.35
+
+   For applications for the resignation of an auditor, other than for the resignation of an auditor of a public
+   company that takes effect at an AGM, ensure that you have included the following information from the
+   outgoing auditor:
+    details of the timing of the proposed resignation; and
+    whether the auditor has provided an adverse or disclaimer opinion or qualification within the two most
+     recent financial years and any subsequent interim period.
+
+
+Entity information: see RG 26.36
+
+   For all applications, ensure that you have included the following information from the entity:
+    evidence of a resolution that the appointment of the proposed incoming auditor has been approved by the
+     board of directors, superannuation trustee or the licensee, as relevant; and
+    whether there are any disagreements with the auditor.
+
+
+Proposed incoming auditor’s letter: see RG 26.37
+
+   For all applications, a letter from the proposed incoming auditor must include:
+    their agreement to the appointment subject to ASIC consent to the resignation, removal or replacement of
+     the outgoing auditor;
+    their ability to fulfil obligations as auditor under relevant legislation and standards; and
+    if the change is close to the reporting deadline, a statement that the incoming auditor can reasonably
+     expect to conduct an effective audit before the reporting deadline.
+
+
+Application form and lodgement fee
+
+   The required completed application form and relevant fee payment (other than in the case of the resignation or
+   removal of an RSE auditor, or for the resignation of a public company auditor).
+   Note: The ASIC Regulatory Portal provides details about payment options for applications submitted to it.
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                   Page 34
+                                                REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+Key terms
+
+
+                               Term                      Meaning in this document
+
+                               AAT                       Administrative Appeals Tribunal
+
+                               AAT Act                   Administrative Appeals Tribunal Act 1975
+
+                               AFS licence               An Australian financial services licence under s913B of the
+                                                         Corporations Act that authorises a person who carries on
+                                                         a financial services business to provide financial services
+                                                            Note: This is a definition contained in s9.
+
+                               AFS licensee              A person who holds an AFS licence under s913Bof the
+                                                         Corporations Act
+
+                               AGM                       Annual general meeting held by a public company
+
+                               AMM                       Annual member meeting
+
+                               APRA                      Australian Prudential Regulation Authority
+
+                               APRA prudential           Standards relating to prudential matters that APRA has
+                               standards                 determined under s34C of the SIS Act
+
+                               ASIC                      Australian Securities and Investments Commission
+
+                               auditor                   An individual who is a registered company auditor or the
+                                                         lead auditor of an authorised audit company
+
+                               Banking Act               Banking Act 1959
+
+                               CCIV                      A corporate collective investment vehicle—a company
+                                                         that is registered as a corporate collective investment
+                                                         vehicle under the Corporations Act
+                                                            Note: This is a definition in s9.
+
+                               Ch 2M (for example)       A chapter of the Corporations Act (in this example
+                                                         numbered 2M)
+
+                               compliance plan           A compliance plan of a registered scheme and/or a
+                                                         compliance plan of a retail CCIV, unless otherwise
+                                                         specified
+
+                               conflict of interest      Has the meaning given in s324CD of the Corporations
+                               situation                 Act
+                                                            Note: Subsection 324CD(2) is amended in relation to a retail
+                                                            CCIV by s1232N.
+
+                               Corporations Act          Corporations Act 2001, including regulations made for the
+                                                         purposes of that Act
+
+                               Corporations              Corporations Regulations 2001
+                               Regulations
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                    Page 35
+                                                 REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                               Term                       Meaning in this document
+
+                               corporate director         The company named in ASIC’s record of the CCIV’s
+                                                          registration as the corporate director or temporary
+                                                          corporate director of the CCIV
+                                                             Note: This is a definition in s1224(3).
+
+                               credit licence             An Australian credit licence under s35 of the National
+                                                          Credit Act that authorises a licensee to engage in
+                                                          particular credit activities
+
+                               credit licensee            A person who holds an Australian credit licence under
+                                                          s35 of the National Credit Act
+
+                               excluded approved          Has the meaning given in s10(1) of the SIS Act
+                               deposit fund
+
+                               exempt public sector       Has the meaning given in s10(1) of the SIS Act
+                               superannuation
+                               scheme
+
+                               financial year             Has the meaning given in s9 (companies, registered
+                                                          schemes, disclosing entities and AFS licensees) and in
+                                                          s323DAAA of the Corporations Act (RSEs)
+
+                               Insurance Act              Insurance Act 1973
+
+                               lead auditor               Has the meaning given in s324AF(1) of the Corporations
+                                                          Act
+
+                               Life Insurance Act         Life Insurance Act 1995
+
+                               National Credit            National Consumer Credit Protection Regulations 2010
+                               Regulations
+
+                               officer                    Has the meaning given in s9AD of the Corporations Act
+                                                             Note: The meaning of ‘officer’ for auditor independence
+                                                             purposes is modified in relation to RSEs by s324CLA of the
+                                                             Corporations Act and for retail CCIVs by s1232Q.
+
+                               pooled                     Has the meaning given in s10(1) of the SIS Act
+                               superannuation trust
+
+                               proprietary company        Has the meaning given in s9 of the Corporations Act
+
+                               Pt 2M.4 (for example)      A part of the Corporations Act (in this example numbered
+                                                          2M.4)
+
+                               public company             Has the meaning given in s9 of the Corporations Act
+
+                               reg 19(4) (for             A regulation of the National Credit Regulations (in this
+                               example)                   example numbered 19(4)), unless otherwise specified
+
+                               registered scheme          A managed investment scheme that is registered under
+                                                          s601EB of the Corporations Act
+
+                               relevant legislation       Means the Corporations Act, National Credit Regulations
+                               and standards              RSE licensee law and APRA prudential standards, as
+                                                          applicable
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                    Page 36
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                               Term                      Meaning in this document
+
+                               retail CCIV               A CCIV that satisfies the retail CCIV test in s1222K of the
+                                                         Corporations Act or is notified as a retail CCIV under
+                                                         s1222L of the Corporations Act
+                                                           Note: This is a definition in s1222J.
+
+                               RG 34 (for example)       An ASIC regulatory guide (in this example numbered 34)
+
+                               rights of review          The right to have ASIC’s decision reviewed by the AAT
+
+                               RSA Act                   Retirement Savings Account Act 1997
+
+                               RSE                       A registrable superannuation entity under s10(1) of the
+                                                         SIS Act (other than an exempt public sector
+                                                         superannuation scheme, excluded approved deposit fund
+                                                         or small APRA fund)
+
+                               RSE auditor               Has the meaning given in s10(1) of the SIS Act
+                                                           Note: An RSE auditor must be the same for RSE licensee law
+                                                           and Ch 2M purposes: see s35AC(8) of the SIS Act. An auditor
+                                                           ceases to be an RSE auditor under Ch 2M if they cease to be
+                                                           an RSE auditor under RSE licensee law, and vice versa: see
+                                                           s35AC(9) of the SIS Act and s331AH(2).
+
+                               RSE licensee law          Has the meaning given in s10(1) of the SIS Act
+
+                               s310 (for example)        A section of the Corporations Act (in this example
+                                                         numbered 310), unless otherwise specified
+
+                               SIS Act                   Superannuation Industry (Supervision) Act 1993
+
+                               small APRA fund           Has the meaning given in s1017BB(6) of the
+                                                         Corporations Act
+
+                               trust account auditor     Auditor of a credit licensee trust account
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                                 Page 37
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             AFS licensees, AGM, annual general meeting, application for consent,
+                             appointment of auditor, audit report, auditor independence, cessation of
+                             auditor, compliance plans, conflicts of interest, corporate director, credit
+                             licensees, CCIV, deliberate disqualification, directors’ resolution, lodgement
+                             of application, managed investment schemes, members’ resolution, opinion
+                             shopping, registered schemes, registrable superannuation entity, relocation,
+                             removal of auditor, replacement of auditor, resignation of auditor, rights of
+                             review, RSE, superannuation trustee, trust account audit report, trust
+                             account auditor
+
+
+                             Regulatory guides
+
+                             RG 34 Auditor obligations: Reporting to ASIC
+
+
+                             Legislation
+                             Administrative Appeals Tribunal Act 1975, s28
+
+                             Australian Securities and Investments Commission Act 2001, s51
+
+                             Banking Act 1959
+
+                             Corporations Act 2001, Ch 2M; Divs 2, 2A, 3, 5 and 7 of Pt 2M.4;
+                             s250N(4), 311, 324AB(1)–(2), 324AC, 324CA–CC, 324CE–CG, 324CM,
+                             325, 327B, 327C(1), 328B, 329, 331AAA, 331AC, 331AD, 331AF(2),
+                             331AH(2)–(5), 331AK, 601HG, 601HH, 990A, 990B, 990C, 990D, 990E,
+                             990F, 990G, 990H, 990K, 1226F(3), 1226H, 1226J, 1232R, 1232S(2),
+                             1317B
+
+                             Corporations Regulations 2001, regs 2M.4.01, 7.8.15, 7.8.16
+
+                             Insurance Act 1973
+
+                             Life Insurance Act 1995, s88
+
+                             National Consumer Credit Protection Act 2009, s104
+
+                             National Consumer Credit Protection Regulations 2010, reg 19
+
+                             Retirement Savings Account Act 1997
+
+                             Superannuation Industry (Supervision) Act 1993, s29P, 35AC, 129–130AA,
+                             130BA–130BAA, 130C–130CA, 130D, 130EA
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                             Page 38
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                             Information sheets
+
+                             INFO 62 Removal of an auditor of a company
+
+                             INFO 64 Resignation and removal of auditors of registered scheme financial
+                             report of a compliance plan
+
+                             INFO 65 Resignation of an auditor of a public company
+
+                             INFO 131 Obligations of companies limited by guarantee
+
+                             INFO 183 Directors and financial reporting
+
+                             INFO 196 Audit quality—The role of directors and audit committees
+
+                             INFO 222 Improving and maintaining audit quality
+
+                             INFO 223 Audit quality—The role of others
+
+                             INFO 288 Resignation and removal of auditors of registrable
+                             superannuation entities
+
+                             INFO 290 Resignation and removal of auditors of Australian financial
+                             services licensees
+
+                             ASIC forms
+
+                             Form 315 Notification of resignation, removal or cessation of auditor
+
+                             Form 1003 Disclosure notice for unlisted disclosing entity
+
+                             Form 5112 Application for consent from ASIC to remove compliance plan
+                             auditor
+
+                             Form 5113 Application for consent from ASIC to resign as compliance plan
+                             auditor
+
+                             Form 5114 Notification of request by responsible entity to change
+                             compliance plan auditor
+
+                             Form 5131 Application for appointment of scheme auditor by member of a
+                             registered scheme
+
+                             Form 5132 Application for consent from ASIC for resignation or removal of
+                             scheme auditor
+
+                             Form 5133 Notification of resignation, removal or cessation of a registered
+                             scheme auditor
+
+                             Form 5137 Notification of appointment of scheme auditor
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                             Page 39
+                                               REGULATORY GUIDE 26: Resignation, removal and replacement of auditors
+
+
+
+
+                             Form 5208 Notification of appointment of a temporary corporate director of
+                             a corporate collective investment vehicle
+
+                             Form 5212 Application for consent from ASIC to remove compliance plan
+                             auditor of a corporate collective investment vehicle
+
+                             Form 5213 Application for consent from ASIC to resign as compliance plan
+                             auditor of a corporate collective investment vehicle
+
+                             Form 5214 Notification of request by corporate director to change
+                             compliance plan auditor of a corporate collective investment vehicle
+
+                             Form 5230 Notification of appointment of auditor for a corporate collective
+                             investment vehicle
+
+                             Form 5231 Application for appointment of auditor by member of a corporate
+                             collective investment vehicle
+
+                             Form 5232 Application for consent from ASIC for resignation or removal of
+                             auditor for corporate collective investment vehicle
+
+                             Form 5233 Notification of resignation, removal, or cessation of auditor of a
+                             corporate collective investment vehicle
+
+                             Form CL16 Australian credit licence—Notification of appointment of a trust
+                             account auditor
+
+                             Form CL17 Australian credit licence—Application for approval from ASIC
+                             to replace a trust account auditor
+
+                             Form CL18 Australian credit licence—Application for approval from ASIC
+                             to resign as a trust account auditor
+
+                             Form FS08 Application for consent from ASIC to resign as an auditor of an
+                             Australian financial services licensee
+
+                             Other publications
+
+                             SPS 310 Audit and related matters
+
+                             CPS 510 Governance
+
+                             SPS 510 Governance
+
+                             CPS 520 Fit and proper
+
+                             SPS 520 Fit and proper
+
+
+
+
+© Australian Securities and Investments Commission October 2024                                             Page 40
+

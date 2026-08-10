@@ -19,11 +19,12 @@ import re
 # The colon alternative is only safe in combination with the stop-word guard in
 # starts_new_definition() — on its own it would false-split lines like "However:"
 # or "as follows:".
+# Include Unicode curly quotes (U+2018/U+2019) commonly found in PDF-extracted text.
 DEF_START_RE = re.compile(
     r"^"                                  # start of line
     r"\*?"                                # optional leading asterisk
     r"[\w%*-]"                            # first char of term
-    r"[\w\s%*()'-]{0,80}?"                # rest of term (non-greedy, bounded)
+    r"[\w\s%*()'\u2018\u2019-]{0,80}?"    # rest of term (non-greedy, bounded)
     r"(?:"
     r"\s+(?:"
     r"has the meaning given(?: by)?|"

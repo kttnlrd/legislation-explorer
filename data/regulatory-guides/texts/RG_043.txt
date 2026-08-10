@@ -1,0 +1,1196 @@
+REGULATORY GUIDE 43
+
+Financial reports and audit
+relief
+
+May 2011
+
+
+
+
+About this guide
+This is a guide for companies, registered schemes or disclosing entities; their
+directors; and auditors.
+
+It explains how ASIC may exercise its powers to grant relief from the financial
+reporting and audit requirements of Pt 2M.2, 2M.3 and 2M.4 (other than Div 4)
+of the Corporations Act 2001 (Corporations Act).
+
+Note: From 27 July 2020, applications for relief should be submitted through the
+ASIC Regulatory Portal. For more information, see how you apply for relief.
+                                                                REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                      explaining when and how ASIC will exercise specific powers under
+                                       legislation (primarily the Corporations Act)
+                                      explaining how ASIC interprets the law
+                                      describing the principles underlying ASIC’s approach
+                                      giving practical guidance (e.g. describing the steps of a process such
+                                       as applying for a licence or giving practical examples of how
+                                       regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This regulatory guide was issued in May 2011 and is based on legislation and
+                             regulations as at the issue date. The note on the front page was inserted on
+                             27 July 2020.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 43, issued 9 October 1998
+                                    Superseded Policy Statement 43, issued 18 January 1993, updated
+                                     17 June 1996, rebadged as Regulatory Guide 43 on 5 July 2007
+                                    Superseded Policy Statement 1, issued 8 March 1991.
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                                 Page 2
+                                                                             REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+Contents
+                             A      Overview .................................................................................................4
+                                    The objectives of financial reporting ........................................................4
+                                    Eligibility for relief .....................................................................................5
+                                    Applying for relief .....................................................................................5
+                                    Nature of relief .........................................................................................5
+                             B      Eligibility for relief .................................................................................6
+                                    Statutory pre-conditions ...........................................................................6
+                                    Compliance would make the financial report or other reports
+                                    misleading ................................................................................................6
+                                    Compliance would be inappropriate in the circumstances ......................7
+                                    Compliance would impose unreasonable burdens ..................................9
+                                    Our discretion to grant relief or not ........................................................15
+                             C      Applying for relief ................................................................................16
+                                    Basic considerations with applying for relief ..........................................16
+                                    Class order relief ....................................................................................17
+                                    Individual relief .......................................................................................18
+                             D      Nature of relief .....................................................................................21
+                                    Conditions of relief .................................................................................21
+                                    Duration of relief ....................................................................................21
+                                    Relief cannot be retrospective ...............................................................21
+                             Key terms .....................................................................................................22
+                             Related information .....................................................................................23
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                                                             Page 3
+                                                                     REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+A          Overview
+
+
+                               Key points
+
+                               Chapter 2M of the Corporations Act contains the financial reporting and audit
+                               requirements for companies, disclosing entities and registered schemes.
+                               These requirements are directed at maintaining investor confidence,
+                               enhancing market efficiency and ensuring the accountability of management.
+
+                               ASIC has discretion to grant relief from the financial reporting provisions in the
+                               Corporations Act.
+
+                               This relief can only be granted if certain statutory preconditions are satisfied.
+                               Even if they are satisfied, ASIC has an overriding discretion to decline the relief.
+
+                               The relief can be granted subject to conditions and for a particular duration.
+
+
+
+The objectives of financial reporting
+              RG 43.1        Chapter 2M of the Corporations Act 2001 (Corporations Act) contains the
+                             financial reporting and audit requirements for companies, disclosing entities and
+                             registered schemes:
+                             (a)   The financial reporting provisions impose requirements about keeping
+                                   financial records, annual financial reporting, half-yearly reporting and
+                                   disclosure obligations.
+                             (b)   The audit provisions provide users with an independent opinion on the
+                                   information in the financial report.
+
+                             These provisions are directed at maintaining investor confidence, enhancing
+                             market efficiency and ensuring the accountability of management through the
+                             provision of timely and reliable financial information.
+
+              RG 43.2        The purpose behind requiring entities to prepare and lodge with ASIC financial
+                             reports that comply with the requirements of Ch 2M is to make information
+                             available that is useful to a wide range of users, to help them make economic
+                             decisions. The legislative policy underlying these requirements indicates an
+                             expectation that there are ‘users’ of the financial reports.
+
+              RG 43.3        In Re Incat Australia Pty Ltd and Another and ASIC (1999) 33 ACSR 132
+                             (Incat (1999)) the Administrative Appeals Tribunal (AAT) stated that ‘users’
+                             should be given a wide interpretation, with the result that not only present and
+                             prospective shareholders, present and prospective creditors and customers were
+                             users, but that the term should also include employees of the company.
+
+                                   Note: A wide interpretation of users of financial statements is also adopted in the Australian
+                                   Accounting Standards Board’s (AASB) Framework for the preparation and presentation of
+
+
+
+© Australian Securities and Investments Commission May 2011                                                           Page 4
+                                                                    REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+                                   financial statements (Framework) at paragraphs 9–11. The Framework defines the users of
+                                   financial reports at paragraph 9 to include present and potential investors, employees,
+                                   lenders, suppliers and other trade creditors, customers, governments and their agencies and
+                                   the public.
+
+              RG 43.4        Each of the different types of users may have varying information requirements.
+
+
+
+Eligibility for relief
+              RG 43.5        We can grant relief from the requirements of Pts 2M.2, 2M.3 and 2M.4 (other
+                             than Div 4) to:
+                             (a)   a company, registered scheme or disclosing entity;
+                             (b)   its directors; and/or
+                             (c)   its auditor.
+
+              RG 43.6        This relief can be granted by class order (s341(1)) or on a case-by-case basis
+                             (s340(1)).
+
+
+                             Statutory pre-conditions for relief
+
+              RG 43.7        We can only grant relief if we are satisfied that complying with the
+                             Corporations Act would:
+                             (a)   render the financial report or other reports misleading (see RG 43.13–RG
+                                   43.14);
+                             (b)   be inappropriate in the circumstances (see RG 43.15–RG 43.21); or
+                             (c)   impose unreasonable burdens (see RG 43.22–RG 43.53): s342(1).
+
+
+                             Our discretion to grant relief or not
+
+              RG 43.8        We can still decline to grant relief even if we are satisfied that one or more of
+                             the statutory preconditions are met: see RG 43.54.
+
+
+
+Applying for relief
+              RG 43.9        If you are not able to take advantage of class order relief (see RG 43.59 and
+                             Table 1) from financial reporting and audit requirements, you may make an
+                             individual application to ASIC for relief: see RG 43.60–RG 43.73.
+
+
+
+Nature of relief
+              RG 43.10       Both class order relief and relief granted to an individual entity can be granted
+                             subject to conditions (see s340(2), 341(2), and RG 43.74–RG 43.75) and can be
+                             indefinite or for a limited period (see RG 43.76–RG 43.78).
+
+
+
+© Australian Securities and Investments Commission May 2011                                                         Page 5
+                                                               REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+B          Eligibility for relief
+
+
+                               Key points
+
+                               Before we can grant relief under Ch 2M of the Corporations Act we must be
+                               satisfied that compliance with the Act would:
+                               • render the financial report or other reports misleading (see RG 43.13–RG
+                                 43.14);
+                               • be inappropriate in the circumstances (see RG 43.15–RG 43.21); or
+                               • impose unreasonable burdens (see RG 43.22–RG 43.53): s342(1).
+
+                               However, we are not obliged to grant relief merely because one or more of the
+                               pre-conditions in s342(1) have been met: see RG 43.54.
+
+
+
+
+Statutory pre-conditions
+              RG 43.11       We can grant relief from all or some of the requirements of Pt 2M.2 ‘Financial
+                             records’, Pt 2M.3 ‘Financial reporting’ or Pt 2M.4 ‘Appointment and removal
+                             of auditors’ (other than Div 4) to:
+                             (a)   a company, registered scheme or disclosing entity;
+                             (b)   its directors; and/or
+                             (c)   its auditor.
+
+              RG 43.12       We can only grant relief if we are satisfied that the applying entity meets at least
+                             one of three statutory preconditions in s342(1) for relief. That is, that requiring
+                             the entity to comply with the Corporations Act would:
+                             (a)   render the financial report or other reports misleading (s342(1)(a));
+                             (b)   be inappropriate in the circumstances (s342(1)(b)); or
+                             (c)   impose unreasonable burdens (s342(1)(c)).
+
+
+
+Compliance would make the financial report or other reports
+misleading
+              RG 43.13       To satisfy the criterion in s342(1)(a), you must show that:
+                             (a)   strict compliance would make the financial report or other reports
+                                   misleading. For example, that it would lead readers to an incorrect
+                                   conclusion about the entity’s financial position. The fact that the disclosure
+                                   is uninformative or irrelevant is not of itself sufficient; and
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                                Page 6
+                                                               REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+                             (b)   the problem could not reasonably be remedied through explanations in the
+                                   notes to the financial statements necessary to give a true and fair view in
+                                   accordance with s295(3)(c) of the Corporations Act.
+
+              RG 43.14       We envisage that this criterion will rarely be satisfied.
+
+
+
+Compliance would be inappropriate in the circumstances
+              RG 43.15       Section 342(1)(b) will normally only apply where there is an anomaly in the law
+                             or when compliance with the law gives rise to consequences not intended by the
+                             legislature: see Re Mazda Australia Pty Ltd and ASC (1992) 8 ACSR 613. For
+                             example, s342(1)(b) would apply if a requirement of Ch 2M is in conflict with
+                             other legislative financial reporting requirements, and there is a clear legislative
+                             intent that the latter should take precedence.
+
+
+                             No purpose to disclosure
+
+              RG 43.16       It is not sufficient for you to show that the requirement is irrelevant or of no
+                             benefit to some users of the financial report or auditor’s report, or that those
+                             who need particular information already have access to it, so that there is no
+                             need for it to be publicly disclosed. For example:
+                             (a)   The fact that shareholders of a subsidiary company already have access to
+                                   the information required to be disclosed, through their board of directors, is
+                                   not sufficient if the shareholders of the ultimate holding company do not
+                                   also have access to the information: Re Australian Newsprint Mills Ltd
+                                   (1988) 6 ACLC 1205 (Australian Newsprint) at 1207.
+                             (b)   The needs of other users of the accounts—for example, creditors and
+                                   prospective shareholders—must also be taken into account.
+                             (c)   In Incat (1999) the AAT held (at 143) that the practice of providing special
+                                   purpose financial information, which was not available to other smaller
+                                   creditors or potential investors of the company, on a discretionary basis to
+                                   ‘selected groups’ such as financiers, major creditors and credit agencies
+                                   was ‘inconsistent with the intent of the legislation’. On appeal, the Federal
+                                   Court in Incat Australia Pty Ltd v ASIC (2000) 33 ACSR 462 (Incat
+                                   (2000)) confirmed that reasoning.
+                             (d)   In Re SRKKK and Another and ASIC (2002) 42 ACSR 551 (SRKKK), the
+                                   AAT confirmed ASIC’s decision not to grant relief from the various
+                                   financial reporting requirements even though the applicant had no
+                                   employees, customers or unsecured creditors. It was determined that this
+                                   was not sufficient reason to undermine the overall public policy objective
+                                   that large proprietary companies have reached a level of economic
+                                   significance and therefore must report in accordance with statutory
+                                   financial reporting requirements.
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                                Page 7
+                                                                     REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+                             Large proprietary companies
+
+              RG 43.17       The fact that a company must prepare financial reports only because of its
+                             classification as a large proprietary company under the Corporations Act is not
+                             of itself sufficient to satisfy the ‘inappropriate in the circumstances’ criterion.
+
+              RG 43.18       Companies that meet the criteria in the Corporations Act to be classified as
+                             large proprietary companies (even though they may be privately owned) are
+                             considered by legislation to be economically significant, and therefore are
+                             required to comply with statutory financial reporting requirements.
+
+              RG 43.19       The policy objective underlying the requirement that large proprietary
+                             companies lodge financial reports was described by the AAT in SRKKK at 559
+                             as:
+                                   intended to ensure that once companies reach a certain level of turnover,
+                                   presumably considered to be of economic significance, then those companies
+                                   should provide fuller financial accounts. Obviously, the provision of fuller
+                                   accounts facilitates oversight by regulatory bodies as well as providing useful
+                                   information for those conducting business or in a contractual relationship with
+                                   such companies.
+
+              RG 43.20       In Incat (1999), Incat sought relief in part under the ‘inappropriate to the
+                             circumstances’ criterion on the basis that it was not a ‘reporting entity’ under
+                             accounting standards and that the reporting entity test should be applied rather
+                             than the large proprietary company test. The AAT said at 136:
+                                   At the end of the day it is not a question of whether a company is a reporting
+                                   entity but whether or not it is a large proprietary company … The obligation to
+                                   lodge accounts flows from its status as a large proprietary company following
+                                   the legislative distinction made between small and large proprietary companies
+                                   not whether it is a reporting entity … Furthermore the legislative policy
+                                   underlying the requirement to lodge accounts is indicative of the expectation
+                                   that there are users of the accounts.
+
+                                   Note: On appeal from the AAT, the Federal Court (Heerey J) in Incat (2000) concluded that
+                                   the status of a company as a reporting entity was not definitive as to its obligations to lodge
+                                   accounts. Heerey J held at 471 that ‘the ultimate question is whether a company is a ‘large
+                                   proprietary company’’.
+
+
+                             Grandfathered large proprietary companies
+
+              RG 43.21       As a result of s1408(6) of the Corporations Act, some large proprietary
+                             companies are not required to lodge financial reports regardless of their
+                             economic significance. These companies are commonly referred to as
+                             ‘grandfathered’ large proprietary companies. This is a limited exemption
+                             provided by Parliament to companies that meet specific criteria. This should not
+                             be taken as a basis for granting relief to companies that do not meet the criteria.
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                                            Page 8
+                                                                REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+Compliance would impose unreasonable burdens
+              RG 43.22       Compliance with the Corporations Act may be burdensome in one of two ways:
+                             (a)   there may be a burden associated with complying with a particular
+                                   requirement; or
+                             (b)   a burden may result from having complied with the requirement.
+
+              RG 43.23       The burden may be imposed on the entity, an officer of the entity or the auditor
+                             of the entity.
+
+              RG 43.24       Before we will grant relief it must be demonstrated not only that compliance
+                             with the relevant requirement of Pts 2M.2, 2M.3 and 2M.4 would impose a
+                             burden, but also that the burden is unreasonable.
+
+              RG 43.25       Section 342(1)(c) requires that a causal connection be established between
+                             compliance with the relevant requirement and the ‘detriment’ that might
+                             constitute an unreasonable burden. The mere potential for a detriment to occur
+                             is not an unreasonable burden—there must be some reasonable prospect or
+                             likelihood of the detriment occurring: see Brightstar Logistics Pty Ltd v
+                             Australian Securities and Investments Commission (No 2) [2010] FCA 435 (7
+                             May 2010) at paragraphs 59–67.
+
+
+                             What is an ‘unreasonable’ burden?
+
+              RG 43.26       Incat (1999) gives the following interpretation of an ‘unreasonable’ burden at
+                             paragraph 20:
+                                   while a burden that is overwhelming is an unreasonable one the converse is not
+                                   necessarily true. Whether a burden may fairly be described as ‘unreasonable’
+                                   is essentially one of fact requiring an evaluation of the evidence, having regard
+                                   to the nature of the requirements to be performed, keeping in mind the policy
+                                   objective of the legislation that companies of economic significance lodge
+                                   accounts and the extent of economic detriment (if any) likely to flow to the
+                                   applicants as a result of compliance.
+
+                             This interpretation was approved by Heerey J in Incat (2000) at 465.
+
+              RG 43.27       Factors that are relevant in determining whether the requirements of Pts 2M.2,
+                             2M.3 and 2M.4 would impose an unreasonable burden include the:
+                             (a)   information needs of users and potential users of the financial report;
+                             (b)   objectives of the financial reporting and audit provisions; and
+                             (c)   intentions of the AASB and the Auditing and Assurance Standards Board
+                                   (AUASB).
+
+
+                             Users and their information needs
+
+              RG 43.28       A burden would be unreasonable if complying with the requirement will cause
+                             the entity serious economic detriment with little or no compensating benefit to
+
+
+
+© Australian Securities and Investments Commission May 2011                                                 Page 9
+                                                              REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+                             users of the financial reports: see Directors of Liquid Air (WA) Pty Ltd v
+                             Commissioner for Corporate Affairs (1989) 15 ACLR 29 (Liquid Air).
+
+              RG 43.29       We will consider who the users of the financial report are likely to be, what
+                             their information needs are, and how those users are likely to be impacted if
+                             relief is granted.
+
+              RG 43.30       Before granting relief, we will take into account the fact that financial reports
+                             provide information about the financial position, financial performance and
+                             cash flows of an entity that is useful to a wide range of users in making
+                             economic decisions. They also provide information for those users who wish to
+                             assess the accountability of management in order that they make economic
+                             decisions.
+
+              RG 43.31       The administrative cost of preparing and lodging financial reports or complying
+                             with a particular requirement (including paying for expert assistance) would
+                             rarely of itself be an unreasonable burden. It is a cost of doing business using a
+                             corporate structure. You must demonstrate that the administrative burden is out
+                             of all proportion to the value of the resultant disclosure to users of the financial
+                             report.
+
+
+                             The objectives of financial reporting
+
+              RG 43.32       We will consider the impact that granting relief would have on the objectives of
+                             the financial reporting and audit provisions. These objectives are discussed at
+                             RG 43.1–RG 43.4.
+
+              RG 43.33       For example, we would refuse to grant relief to dormant companies, on the basis
+                             that it would be inconsistent with the intention of the legislature. Amendments
+                             to the Corporations Act arising under the Corporate Law Reform Act 1988
+                             specifically removed the distinction between dormant companies and other
+                             companies. Dormant companies are now expected to comply with the same
+                             financial reporting requirements as other companies and therefore we will not
+                             generally grant relief to dormant companies from complying with the reporting
+                             and audit requirements of the Corporations Act.
+
+
+                             The intentions of the AASB and the AUASB
+
+              RG 43.34       Our general policy is that we will not grant relief that is inconsistent with any
+                             standards made by the AASB or the AUASB. Where either of these bodies have
+                             considered, but expressly declined to adopt a particular approach, we will
+                             generally not grant relief allowing an entity to adopt that approach.
+
+              RG 43.35       We are unlikely provide relief from compliance with Australian accounting
+                             standards based on International Financial Reporting Standards (IFRS), for
+                             example. For periods beginning on or after 1 January 2005, Australia has
+                             adopted Australian equivalents to IFRS. The adoption of IFRS is aimed at
+
+
+
+© Australian Securities and Investments Commission May 2011                                              Page 10
+                                                                REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+                             ensuring consistency and comparability of financial reporting across global
+                             financial markets; providing relief from compliance with these standards would
+                             be inconsistent with the intentions of the AASB.
+
+
+                             When relief will not be granted
+
+              RG 43.36       We will not grant relief solely because:
+                             (a)   there are difficulties arising from the way in which a company has
+                                   structured its operations (particularly its group structure) or as a result of a
+                                   policy determined by the directors; or
+                             (b)   the ultimate holding company, incorporated outside Australia, is not
+                                   required to provide similar disclosure.
+
+
+                             Examples of an unreasonable burden
+
+              RG 43.37       The following are examples of when relief from the financial reporting and
+                             audit requirements of Pts 2M.2, 2M.3 and 2M.4 may or may not be appropriate
+                             on the basis that compliance would impose an unreasonable burden.
+
+                             Competitive advantage or disadvantage
+
+              RG 43.38       Only in rare circumstances will we grant relief because a particular disclosure
+                             requirement might impose an unreasonable burden by allowing customers,
+                             competitors or suppliers to use the information disclosed to the applicant’s
+                             competitive disadvantage.
+
+              RG 43.39       An application for relief would need to demonstrate that if the disclosure
+                             requirement is complied with, competitors, suppliers or customers will be able
+                             to extract precise information of a specific nature—for example, profit per unit
+                             sold—from the financial statements, and that this information can then be used
+                             to gain an advantage over the applicant company, giving rise to detrimental
+                             consequences. Based on the decision in Liquid Air, this might happen where, for
+                             example, the company has only one customer, or the company provides a single
+                             service or product and information about the physical level of the applicant’s
+                             output is available to competitors.
+
+              RG 43.40       In considering whether to grant relief, the ability to calculate information such
+                             as profit per unit sold is only one consideration. We will consider all relevant
+                             circumstances, including the likelihood of the information being used to the
+                             company’s disadvantage and the factors outlined in RG 43.27–RG 43.35. For
+                             example, since Liquid Air there have been changes to the reporting
+                             requirements, which reflect the intention of the AASB that all reporting entities
+                             preparing financial reports under Ch 2M of the Corporations Act are
+                             specifically required to report information that enables the calculation of
+                             expenses and operating margins.
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                                Page 11
+                                                                  REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+              RG 43.41       We will generally not grant relief from a requirement to disclose information in
+                             the financial report because the information will enable competitors to derive
+                             unit costs of production (thus giving rise to competitive disadvantage), unless
+                             you can demonstrate that you meet the following requirements:
+                             (a)   you are a one-product or one-service entity. The product or service must be
+                                   homogenous. A product sold in both small and large quantities will not be
+                                   homogenous for this purpose;
+                             (b)   there is no significant means of product differentiation compared to
+                                   competitors’ products (including reputation of the company, use of brand
+                                   names, differences in quality and differences in styles);
+                             (c)   a very large majority of business is with one economically powerful
+                                   customer supplier, or you are a very small participant in an industry
+                                   dominated by one or two major and large competitors, who it is reasonable
+                                   to conclude would be willing and able to wage a price war. You must
+                                   consider factors such as:
+                                   (i)     protection provided by other legislation;
+                                   (ii)    price setting in the market;
+                                   (iii)   the willingness and ability of competitors to suffer losses in a price
+                                           war;
+                                   (iv)    the company’s margin relative to that of its competitors;
+                                   (v)     possible support for the company from a parent or other source; and
+                                   (vi)    whether customers would be willing to put sources of supply at risk or
+                                           risk the quality of their purchases;
+                             (d)   the only source of reliable information that competitors, suppliers and other
+                                   interested parties can use to estimate your production costs is your
+                                   financial reports. For example, competitors’ production or engineering staff
+                                   or consultants may be able to make estimates from:
+                                   (i)     knowledge of production techniques;
+                                   (ii)    size of operations;
+                                   (iii)   production volumes;
+                                   (iv)    grade or quality of inputs;
+                                   (v)     number of employees required for a given production level;
+                                   (vi)    costs of employees, machinery and goods or services needed for the
+                                           production process;
+                                   (vii) location; and
+
+                                   (viii) assessment of product characteristics and quality;
+
+                             (e)   you will suffer serious economic detriment as a consequence of the
+                                   competitors or customers being able to make the calculations and that
+                                   detriment is unlikely to occur if the financial report information is not
+
+
+
+© Australian Securities and Investments Commission May 2011                                                  Page 12
+                                                                REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+                                   available. We will consider whether the information can be ascertained
+                                   from sources other than the financial report;
+                             (f)   no small competitors, customers, suppliers or possible new market entrants
+                                   may be disadvantaged by the relief sought, or are required to comply with
+                                   the disclosure requirement in question; and
+                             (g)   the economic detriment to the entity far outweighs the value to users of the
+                                   financial reports and the legislature’s policy objective that certain
+                                   companies lodge financial reports.
+
+              RG 43.42       Even if the above circumstances can be demonstrated, relief may not be
+                             appropriate for other reasons, such as the following:
+                             (a)   ASIC is not the competition regulator. Our relief power will not be used as
+                                   a substitute for protections provided by other legislation intended to deal
+                                   with unfair competition. We will not give relief as a substitute for, or
+                                   supplement to, protection intended under the Trade Practices Act 1974.
+                             (b)   If the company has previously complied with the disclosure requirement
+                                   that is the subject of an application for relief, it would need to provide clear
+                                   evidence that it suffered severe economic detriment.
+
+              RG 43.43       We will also consider whether relief is likely to undermine the purpose of the
+                             statutory requirement that financial reports of economically significant
+                             proprietary companies be prepared in accordance with the financial reporting
+                             requirements of Ch 2M and be lodged with us.
+
+                             Disclosure of director and executive remuneration
+
+              RG 43.44       We will not grant relief from the disclosure of directors’ and executive
+                             remuneration, option details and loans based on the argument that compliance
+                             imposes an unreasonable burden on directors because the disclosure invades
+                             their privacy. This proposition has been considered in a number of cases and it
+                             has been held that the disclosure should be regarded as ‘an incident of
+                             commercial life’ and a cost of using a corporate structure to conduct business:
+                             see Australian Newsprint and SRKKK.
+
+              RG 43.45       We will also take into account the factors listed at RG 43.27–RG 43.35.
+                             Granting relief would be contrary to the purpose of the legislation and the
+                             accounting standards, given that Parliament and the AASB would have been
+                             aware of the arguments about privacy when the legislation was enacted and the
+                             standards were made.
+
+              RG 43.46       Similarly, arguments that disclosure would be prejudicial to the remuneration
+                             policies of the particular company or its holding company by enabling other
+                             entities to make offers to officers do not provide a sufficient basis for satisfying
+                             the unreasonable burdens criteria.
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                                Page 13
+                                                               REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+                             Adverse market conditions or poor financial condition
+
+              RG 43.47       We are unlikely to grant relief because an entity faces uncertainties in adverse
+                             market conditions or because the cost of complying with a financial reporting
+                             requirement would impose an unreasonable burden by reducing returns to
+                             members due to an entity’s poor financial condition. In these circumstances, it
+                             is important that the users of financial reports are fully informed of the
+                             circumstances through the information included in the report, which will assist
+                             them in making economic decisions and assessing the accountability of
+                             management.
+
+                             Relief from audit requirements for charitable and other not-for-profit
+                             organisations
+
+              RG 43.48       We are unlikely to grant relief to charitable or other not-for-profit organisations
+                             that argue that the requirement to have their financial report audited is an
+                             unreasonable burden because:
+                             (a)   they are not-for-profit and cannot afford to pay the audit fee; or
+                             (b)   their funds could be better used elsewhere.
+
+              RG 43.49       The cost of preparing and lodging audited financial reports with ASIC is a cost
+                             of doing business using a corporate structure, and while it may be a burden,
+                             such costs would rarely be considered to be an unreasonable one. Audited
+                             financial reports from these types of entities provide users, such as donors or
+                             potential donors, with a source of reliable information about the entities’
+                             operations and are an important part of the accountability of the directors of
+                             those entities.
+
+                             Extension of time to lodge a statutory financial report
+
+              RG 43.50       The Corporations Act sets out specific deadlines in which a statutory financial
+                             report must be lodged with ASIC. Only in rare circumstances will we grant an
+                             extension of this time on the basis that it is an unreasonable burden. We expect
+                             that entities will plan their financial reporting processes in a manner that allows
+                             the external auditor sufficient time to complete the audit and to meet the
+                             company’s reporting deadlines under the Corporations Act. In the case of a
+                             disclosing entity any relief is unlikely to be for more than four weeks: see
+                             RG 95.40(h).
+
+              RG 43.51       The following are examples where an extension of time is unlikely to be
+                             granted:
+                             (a)   if directors are absent from Australia. Suitable alternative arrangements
+                                   should be made to enable the financial report to be authorised by a
+                                   resolution of directors and signed by a director. In any event, any
+                                   application would need to be signed by a director (see s340(3)(a) and (b) of
+                                   the Corporations Act);
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                               Page 14
+                                                              REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+                             (b)   if an auditor states it cannot complete the audit work within the timeframe
+                                   set down in the Corporations Act; and
+                             (c)   if an entity wishes to await the outcome of future transactions or
+                                   agreements before lodging its financial report. If information about future
+                                   events is material, additional disclosure may be included in the financial
+                                   report, in accordance with Australian Accounting Standard AASB 110
+                                   Events after the balance sheet date.
+
+              RG 43.52       If a financial services licensee is required to lodge financial reports under s989B
+                             and Ch 2M of the Corporations Act, a separate extension of time may need to
+                             be sought under s989D(3).
+
+              RG 43.53       Where necessary, a separate application for extension of time to hold an annual
+                             general meeting must also be sought in accordance with s250P(2) of the
+                             Corporations Act: see also Regulatory Guide 44 Annual general meeting—
+                             extension of time (RG 44).
+
+
+
+Our discretion to grant relief or not
+              RG 43.54       We are not obliged to grant relief even if one or more of the pre-conditions in
+                             s342(1) have been met. We will take into account all of the relevant
+                             circumstances of the application when considering whether to exercise our
+                             discretion to grant relief under s340.
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                              Page 15
+                                                               REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+C          Applying for relief
+
+
+                               Key points
+
+                               Some entities may be entitled to rely on existing class order relief from
+                               financial reporting and audit requirements. However, entities not covered by
+                               class orders may still apply for individual relief. These applications are
+                               considered on a case-by-case basis.
+
+                               An application for relief must include all of the information set out in RG 43.62
+                               and be accompanied by the appropriate fee.
+
+                               This section also sets out the minimum information we would require for an
+                               application for relief:
+                               • for a change in financial year (see RG 43.64–RG 43.68);
+                               • by group companies (see RG 43.70–RG 43.71); and
+                               • by disclosing entities (see RG 43.72–RG 43.73).
+
+
+
+Basic considerations with applying for relief
+              RG 43.55       Relief from the reporting requirements in Ch 2M can be granted by class order
+                             (s341(1)) or on a case-by-case basis (s340(1)). We consider individual
+                             applications for relief on a case-by-case basis.
+
+              RG 43.56       You should first check whether you can claim relief under an existing class
+                             order. If not, you will need to make an individual application asking ASIC to
+                             grant you relief.
+
+
+                             Sufficient time
+
+              RG 43.57       You should ensure that there will be sufficient time for us to consider the
+                             application and serve notice of any order on the company, registered scheme or
+                             disclosing entity before any statutory timeframe for which the relief is required
+                             has expired. Section 340 applications should normally be lodged no later than one
+                             month before the end of the financial period for which the relief is being sought.
+
+              RG 43.58       Additional time should be allowed for applications that are novel or outside the
+                             scope of existing policy.
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                               Page 16
+                                                                   REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+Class order relief
+              RG 43.59       Table 1 lists some of the entities that may be eligible for class order relief and
+                             where further information may be found. This is not an exhaustive list.
+
+Table 1:    Entities that may be eligible for class order relief
+
+Disclosing entities          Class Order [CO 08/15] Disclosing entities—half-year financial reporting relief relieves a
+                             disclosing entity from the requirement to prepare and lodge a half-year financial report
+                             and directors’ report during the first financial year of the entity, where that first financial
+                             year lasts for eight months or less.
+                             Regulatory Guide 95 Disclosing entity provision relief (RG 95) discusses relief from the
+                             disclosing entity provisions as defined in s111AR of the Corporations Act.
+
+Externally administered      Class Order [CO 03/392] Externally administered companies: Financial reporting relief
+companies                    grants relief from the financial reporting obligations for companies subject to certain
+                             forms of external administration.
+                             Regulatory Guide 174 Externally administered companies: Financial reporting and AGM
+                             (RG 174) outlines what relief is available under the Corporations Act for externally
+                             administered companies from the financial reporting obligations in Pt 2M.3.
+
+Foreign companies            Regulatory Guide 58 Reporting requirements—registered foreign companies and
+                             Australian companies with foreign shareholders (RG 58) describes the relief from
+                             reporting obligations in the Corporations Act that may be granted to registered foreign
+                             companies and Australian companies with foreign shareholders. In particular, lodgement
+                             relief is available to certain registered foreign companies: see Class Order [CO 02/1432]
+                             Registered foreign companies—financial reporting requirements.
+
+                             Class Order [CO 98/96] Synchronisation of financial year with foreign parent company
+                             permits a company, registered scheme or disclosing entity to synchronise its financial
+                             year with that of its ultimate foreign parent entity in certain instances.
+
+Proprietary companies        Proprietary companies may seek relief from the requirement in the Corporations Act to
+                             have their financial report audited under Class Order [CO 98/1417] Audit relief for
+                             proprietary companies.
+
+                             They should consult Regulatory Guide 115 Audit relief for proprietary companies
+                             (RG 115).
+
+                             Lodgement relief is also available to certain small proprietary companies that are
+                             controlled by foreign companies: see Class Order [CO 98/98] Small proprietary
+                             companies which are controlled by a foreign company but which are not part of a large
+                             group.
+
+Wholly owned entities        Wholly owned companies seeking relief from the requirement in the Corporations Act to
+                             prepare and lodge a financial report should refer to Class Order [CO 98/1418] Wholly-
+                             owned entities.
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                                      Page 17
+                                                               REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+Individual relief
+
+                             Form and fees
+
+              RG 43.60       There is no prescribed application form for s340 applications.
+
+              RG 43.61       Each application must be accompanied by the appropriate fee, which is set out
+                             in Item 24 of the Schedule to the Corporations (Fees) Regulations 2001.
+
+
+                             Application requirements
+
+              RG 43.62       An application for relief under s340 must:
+                             (a)   be in writing and signed by at least one director (s340(3)(b));
+                             (b)   state that it is made in accordance with the authorisation of directors
+                                   (s340(3)(a));
+                             (c)   provide the reasons for seeking the relief and sufficient relevant
+                                   information to enable assessment of the merits of the application;
+                             (d)   state the legislative provision(s) from which relief is sought;
+                             (e)   state which of the three criteria in s342(1) has been met; and
+                             (f)   candidly address how any relief granted may affect the needs of users of
+                                   financial reports.
+
+              RG 43.63       Applicants and their advisers are responsible for:
+                             (a)   applying to ASIC for all appropriate relief; and
+                             (b)   including all the relevant information to support their application (see
+                                   Regulatory Guide 51 Applications for relief (RG 51) at RG 51.12–
+                                   RG 51.15).
+
+
+                             Specific considerations for some applications
+
+                             Change of financial year end
+
+              RG 43.64       Section 323D(2A) allows a financial year of an entity to be less than 12 months
+                             if there has not been a financial year of less than 12 months in the last five years
+                             and the change is made in good faith in the best interests of the entity.
+
+              RG 43.65       Since s323D(2A) provides entities with flexibility to change their financial
+                             years, we will rarely grant relief in connection with changes of financial year.
+                             However, we may consider granting relief where, for example:
+                             (a)   an entity wishes to change its financial year by way of a transitional period
+                                   of 14 months or less; or
+                             (b)   an entity wishes to synchronise its financial year with that of a foreign parent
+                                   but cannot rely on [CO 98/96] or s323D(2A) to do so (addressed in RG 58).
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                               Page 18
+                                                               REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+              RG 43.66       In some circumstances, s323D(2A) may impose unreasonable burdens on an
+                             entity by requiring it to change its financial year by way of a short transitional
+                             period of two months or less. We may grant case-by-case relief so an entity can
+                             change its financial year by way of a transitional period of 14 months or less.
+                             We will usually not grant relief so an entity can change its financial year by way
+                             of a transitional period longer than 14 months. We are also very unlikely to
+                             grant relief so that a change of financial year to end on 30 June rather than
+                             31 December (or vice versa) can be made by way of an 18 month transitional
+                             period. This is because s323D(2A) expresses a legislative preference for
+                             transitional periods to be less than 12 months.
+
+              RG 43.67       All applications for a change in financial year (except those by registered
+                             foreign companies and Australian companies with foreign shareholders, which
+                             are specifically addressed in RG 58) must address the following:
+                             (a)   why complying with the requirement for the entity’s financial year to be a
+                                   period of 12 months would impose unreasonable burdens;
+                             (b)   if a financial year of greater than 12 months is requested, the reasons why
+                                   the entity’s directors believe users of the financial report—such as present
+                                   and prospective shareholders, present and prospective creditors, customers
+                                   and employees—will not be disadvantaged;
+                             (c)   if a financial year of greater than 12 months is requested, whether that
+                                   entity has been, or is expected to be, affected by any material unusual
+                                   transactions or events, extraordinary items, significant operating losses,
+                                   acquisitions or sales of major assets (including businesses and controlled
+                                   entities), and any factors which significantly affect the financial condition
+                                   of the entity;
+                             (d)   whether, in the director’s opinion, there are reasonable grounds to believe
+                                   that the entity will be able to pay its debts as and when they become due
+                                   and payable;
+                             (e)   if the entity is a proprietary company, whether the change in financial year
+                                   will result in the company being treated as a small proprietary company
+                                   when it would otherwise be a large proprietary company (we will not grant
+                                   unconditional relief in these circumstances because then the company
+                                   would not be required to prepare and lodge an audited financial report or a
+                                   director’s report);
+                             (f)   whether the new financial year end would differ from that of a controlling
+                                   entity or an entity that has significant influence over the entity. The terms
+                                   ‘control’ and ‘significant influence’ are defined in Australian Accounting
+                                   Standard AASB 127 Consolidated and separate financial statements and
+                                   Australian Accounting Standard AASB 128 Investments in associates; and
+                             (g)   any other information that may be relevant to our decision to grant relief.
+
+              RG 43.68       It may be a condition of relief that a proprietary company that is considered
+                             ‘small’ under s45A(2) of the Corporations Act, because it has a financial year of
+
+
+
+© Australian Securities and Investments Commission May 2011                                               Page 19
+                                                              REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+                             less than 12 months, must prepare a financial report as if it were a large
+                             proprietary company for that financial year.
+
+              RG 43.69       We will not generally grant relief that allows an entity to have a financial year
+                             in excess of 18 months.
+
+                             Group companies
+
+              RG 43.70       Each company in a group seeking relief must make individual applications,
+                             although these applications may be in the same letter. The appropriate fee must
+                             accompany each application.
+
+              RG 43.71       The directors of a holding company cannot apply on behalf of the directors of
+                             its subsidiary companies. However, if the grounds for seeking relief are
+                             identical, the directors of a subsidiary company may adopt the reasons stated by
+                             the directors of the holding company.
+
+                             Disclosing entities
+
+              RG 43.72       Where relief from the financial reporting and audit provisions in Pts 2M.2,
+                             2M.3 and 2M.4 can be provided to disclosing entities under s340(1) or
+                             s111AT(1), it will be granted under s340(1) and not s111AT(1). Relief under
+                             s111AT(1) will only be given if we are satisfied that one of the criteria under
+                             s342(1) is satisfied. We will grant relief under s340(1) rather than s111AT(1)
+                             even if you originally made such an application under s111AT(1).
+
+              RG 43.73       For further examples of when relief under s340(1) will be granted to disclosing
+                             entities, refer to RG 95; in particular, see RG 95.40–RG 95.43.
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                              Page 20
+                                                              REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+D          Nature of relief
+
+
+                               Key points
+
+                               ASIC has the discretion to impose conditions on relief and relief may be
+                               granted for a limited period.
+
+
+
+Conditions of relief
+              RG 43.74       Any conditions imposed will depend on the circumstances of the application and
+                             the nature of the relief granted. It is likely that we will impose a condition that the
+                             directors’ report include a statement that explains the relief that has been granted
+                             by ASIC. This alerts users of the report that information has been omitted from the
+                             financial report.
+
+              RG 43.75       We may decide to grant relief with the condition that there is no change in the
+                             circumstances or facts on which the relief is based. We will impose this condition
+                             if we are of the view that a change in these circumstances or facts would
+                             significantly affect the need for relief or would have an adverse effect on the
+                             interests of users of the financial reports.
+
+
+
+Duration of relief
+              RG 43.76       Relief is not usually granted for an indefinite period. This is because changes in
+                             your circumstances or external factors (such as financial reporting requirements or
+                             legislation) could render the relief inappropriate in the circumstances or one of the
+                             criteria in s342(1) inapplicable.
+
+              RG 43.77       If relief has been granted for a limited period and further relief is required, you
+                             must submit a fresh application. An application that merely refers to the existence
+                             of the present order and the application that gave rise to that order will be
+                             insufficient to enable us to make a decision.
+
+              RG 43.78       We may, on application or of our own volition, revoke or suspend the operation of
+                             an order made under s340(1) or s341(1).
+
+
+
+Relief cannot be retrospective
+              RG 43.79       ASIC’s powers under s340 of the Corporations Act are prospective. ASIC has no
+                             power to grant retrospective relief. Relief will not remedy any past breach of the
+                             Corporations Act: see RG 51.54–RG51.62 for further details. In very limited
+                             circumstances, we may grant a no-action letter in relation to past breaches of the
+                             Corporations Act: see Regulatory Guide 108 No-action letters (RG 108).
+
+
+
+© Australian Securities and Investments Commission May 2011                                              Page 21
+                                                                  REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+Key terms
+
+                               Term                      Meaning in this document
+
+                               AASB                      Australian Accounting Standards Board
+
+                               AASB 110 (for             An Australian accounting standard made for the purposes
+                               example)                  of the Corporations Act (in this example number 110)
+
+                               AAT                       Administrative Appeals Tribunal
+
+                               ASIC                      Australian Securities and Investments Commission
+
+                               AUASB                     Auditing and Assurance Standards Board
+
+                               Ch 2M (for example)       A chapter of the Corporations Act (in this example
+                                                         numbered 2M)
+
+                               [CO 98/55] (for           An ASIC class order (in this example numbered 98/55)
+                               example)
+
+                               Corporations Act          Corporations Act 2001, including regulations made for the
+                                                         purposes of that Act
+
+                               Framework                 Framework for the preparation and presentation of
+                                                         financial statements
+
+                               Pt 2M.2 (for example)     A part of the Corporations Act (in this example numbered
+                                                         2M.2)
+
+                               RG 95 (for example)       An ASIC regulatory guide (in this example numbered 95)
+
+                               s340 (for example)        A section of the Corporations Act (in this example
+                                                         numbered 340)
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                                   Page 22
+                                                              REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+Related information
+
+
+                             Headnotes
+
+                             application procedure; conditions, revocation or suspension of order; criteria to
+                             be satisfied; s340, 341 and 342; where relief may be given
+
+
+                             Class orders
+
+                             [CO 98/96] Synchronisation of financial year with foreign parent company
+
+                             [CO 98/98] Small proprietary companies which are controlled by a foreign
+                             company but which are not part of a large group
+
+                             [CO 98/1417] Audit relief for proprietary companies
+
+                             [CO 98/1418] Wholly-owned entities
+
+                             [CO 02/1432] Registered foreign companies—financial reporting requirements
+
+                             [CO 03/392] Externally administered companies: Financial reporting relief
+
+                             [CO 08/15] Disclosing entities—half-year financial reporting relief
+
+
+                             Regulatory guides
+
+                             RG 51 Applications for relief
+
+                             RG 44 Annual general meeting: Extension of time
+
+                             RG 58 Reporting requirements: Registered foreign companies and Australian
+                             companies with foreign company shareholders
+
+                             RG 95 Disclosing entity provisions relief
+
+                             RG 108 No-action letters
+
+                             RG 115 Audit relief for proprietary companies
+
+                             RG 174 Externally administered companies: Financial reporting and AGMs
+
+
+                             Legislation
+
+                             Corporations Act 2001, Ch 2M, Pts 2M.2, 2M.3, 2M.4 and 2M.6, s111AT;
+                             Corporate Law Reform Act 1988; Corporations (Fees) Regulations 2001
+
+                             Trade Practices Act 1974
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                              Page 23
+                                                              REGULATORY GUIDE 43: Financial reports and audit relief
+
+
+
+
+                             Cases
+
+                             Australian Newsprint Mills Ltd, Re (1988) 14 ACLR 355
+
+                             Incat Australia Pty Ltd and Another and ASIC, Re (1999) 33 ACSR 132
+
+                             Incat Australia Pty Ltd v ASIC (2000) 33 ACSR 462
+
+                             Liquid Air (WA) Pty Ltd, Directors of v Commissioner for Corporate Affairs
+                             (1989) 15 ACLR 29
+
+                             Mazda Australia Pty Ltd and ASC, Re (1992) 29 ALD 57; (1992) 8 ACSR 613;
+
+                             SRKKK and Another and ASIC , Re (2002) 68 ALD 671; (2002) 42 ACSR 551
+
+
+                             Standards
+
+                             AASB 110 Events after the balance sheet date
+
+                             AASB 127 Consolidated and separate financial statements
+
+                             AASB 128 Investments in associates
+
+
+
+
+© Australian Securities and Investments Commission May 2011                                              Page 24
+

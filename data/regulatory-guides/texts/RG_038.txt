@@ -1,0 +1,2633 @@
+REGULATORY GUIDE 38
+
+The hawking prohibition
+
+September 2021
+
+
+
+
+About this guide
+This guide is for people who offer financial products for issue or sale. It sets
+out our guidance on the hawking provisions in s992A and 992AA of the
+Corporations Act.
+
+In particular, this guide explains how to comply with the hawking prohibition
+contained in s992A, a prohibition that aims to protect consumers from
+unsolicited offers of financial products.
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation, ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how regulated
+                                      entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in September 2021 and is based on legislation and
+                             regulations as at the date of issue.
+
+                             In March 2024 we deleted the previous RG 38.10, renumbering the
+                             preceding two paragraphs, and updated some legislative instruments.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 38 The hawking prohibitions, issued
+                                     December 2019
+                                    Superseded guide The hawking prohibitions: An ASIC guide, issued
+                                     July 2002 and reissued May 2005, and rebadged as a regulatory guide
+                                     5 July 2007
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                        Page 2
+                                                                                 REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+Contents
+
+                             A      Overview .................................................................................................4
+                                    Purpose of this guide ...............................................................................4
+                                    The hawking prohibition ...........................................................................5
+                                    General consumer protection provisions .................................................6
+                             B      Scope of the hawking prohibition ........................................................7
+                                    What the prohibition applies to ................................................................7
+                                    Interaction with personal financial advice ................................................8
+                                    Interaction with the deferred sales model regime for add-on
+                                    insurance products ..................................................................................9
+                                    Products and situations exempt from the hawking prohibition ................9
+                             C      Making offers because of or during unsolicited contact .................13
+                                    Forms of contact subject to the prohibition ............................................13
+                                    Real-time interaction in the nature of a conversation or discussion ......14
+                                    Offers, requests and invitations .............................................................14
+                                    Meaning of ‘because of’ in the hawking prohibition ...............................17
+                             D      Establishing consumer consent to be contacted.............................19
+                                    The giving of consent generally .............................................................19
+                                    Consent must be positive and voluntary ................................................20
+                                    Consent must be clear and reasonably understood ..............................23
+                                    Determining the scope of consent .........................................................29
+                                    Method of contact ..................................................................................35
+                                    Tracking consumer consent...................................................................36
+                             E      Consequences of breaching the hawking prohibition .....................39
+                                    Conduct that breaches the hawking prohibition.....................................39
+                                    General consequences of a breach .......................................................40
+                                    Return of a product ................................................................................40
+                                    Refunds to consumers ...........................................................................41
+                             Appendix: Products exempt from the hawking provision as a result
+                                of ASIC legislative instrument or class order ...................................44
+                             Key terms .....................................................................................................46
+                             Related information .....................................................................................48
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                                                     Page 3
+                                                                           REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+A          Overview
+
+                              Key points
+
+                              Under the hawking prohibition, a person must not, in the course of, or
+                              because of, an unsolicited contact with a retail client:
+                              • offer financial products for issue or sale; or
+                              • request or invite the client to ask or apply for financial products.
+
+                              The objective of the prohibition is for consumers to have greater control
+                              over their decisions to purchase financial products—the prohibition allows
+                              them to determine how they want to be contacted and the kinds of financial
+                              products they are offered.
+
+                              This guide explains:
+                              • the scope of the hawking prohibition;
+                              • how an offeror can comply with the prohibition; and
+                              • the consequences of a breach of the prohibition.
+
+
+
+
+Purpose of this guide
+              RG 38.1        This guide is for people who offer financial products for issue or sale, and
+                             concerns situations involving unsolicited contact with consumers.
+
+              RG 38.2        It sets out our guidance on the hawking provisions in s992A and 992AA of
+                             the Corporations Act 2001 (Corporations Act). In particular, this guide
+                             explains:
+                             (a)   the scope of the hawking prohibition in s992A (see Section B);
+                             (b)   what it means to make an offer because of or during an unsolicited
+                                   contact (see Section C);
+                             (c)   the nature of the consent a consumer must give in order for a contact not
+                                   to be unsolicited (see Section D); and
+                             (d)   the consequences of a breach of the prohibition, including a consumer’s
+                                   right to return a product and receive a refund (see Section E).
+
+                                   Note: In this guide, references to sections (s), divisions (Div) and parts (Pt) are to the
+                                   Corporations Act, unless otherwise specified.
+
+              RG 38.3        This document contains general guidance only. The application of the
+                             hawking prohibition will depend on the particular facts and circumstances of
+                             each case.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                                        Page 4
+                                                                         REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+              RG 38.4        In this guide, we have highlighted the core statutory provisions of the
+                             hawking regime (see, for example, at RG 38.5). Where we have done so, we
+                             have indicated the relevant subsections or paragraphs of s992A and 992AA
+                             to which we are referring.
+                                   Note: These core statutory provisions are highlighted at RG 38.5, RG 38.20, RG 38.34,
+                                   RG 38.39, RG 38.48, RG 38.57–RG 38.58, RG 38.63, RG 38.69, RG 38.85, RG 38.102,
+                                   RG 38.108, RG 38.111, RG 38.115, RG 38.127–RG 38.128, RG 38.129, RG 38.132–
+                                   RG 38.134, RG 38.135–RG 38.136.
+
+
+
+
+The hawking prohibition
+
+              RG 38.5        Under s992A(1), a person (the ‘offeror’) must not offer financial products
+                             for issue or sale to a retail client if the offer is made in the course of, or
+                             because of, an unsolicited contact.
+
+              RG 38.6        An offeror includes an issuer or seller of a financial product, as well as their
+                             agent or representative: see paragraph 5.31 of the Explanatory Memorandum
+                             to the Financial Sector Reform (Hayne Royal Commission Response) Bill
+                             2020 (Explanatory Memorandum). The prohibition also extends to
+                             requesting or inviting a retail client to ask or apply for or purchase a
+                             financial product: see paragraph 5.28 of the Explanatory Memorandum.
+
+              RG 38.7        ‘Unsolicited contact’ is contact by telephone, face-to-face, or any other real-
+                             time interaction in the nature of a discussion or conversation to which the
+                             consumer did not consent: see s992A(4).
+                                   Note: In this guide, a person who offers, issues or sells a product, or who invites or
+                                   requests a consumer to purchase or apply for a product is referred to as an ‘offeror’ and
+                                   an existing, potential or prospective retail client or customer is referred to as a
+                                   ‘consumer’, unless otherwise indicated.
+
+              RG 38.8        The hawking prohibition is intended to provide consumers with a degree of
+                             control over their decisions to purchase financial products—it allows them to
+                             determine how they want to be contacted and the kinds of products they are
+                             offered: see paragraph 5.4 of the Explanatory Memorandum.
+
+              RG 38.9        The prohibition aims to protect consumers from unsolicited offers of
+                             financial products, which often contribute to consumers purchasing products
+                             that do not meet their needs: see paragraph 5.16 of the Explanatory
+                             Memorandum.
+
+              RG 38.10       A failure to comply with the hawking prohibition is an offence of strict
+                             liability (see s992A(9)), and will give rise to a right of return on the part of
+                             the consumer: see s992AA(1).
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                                     Page 5
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+General consumer protection provisions
+              RG 38.11       This guide should be considered in the context of the general consumer
+                             protection provisions of the Corporations Act and the Australian Securities
+                             and Investments Commission Act 2001 (ASIC Act).
+
+              RG 38.12       Regardless of whether an offeror is subject to the hawking prohibition for a
+                             particular interaction, the offeror needs to ensure that they otherwise comply
+                             with:
+                             (a)   the product design and distribution obligations (see Pt 7.8A of the
+                                   Corporations Act); and
+                             (b)   the prohibitions on:
+                                   (i)     unconscionable conduct (see s12CA–12CC of the ASIC Act and
+                                           s991A of the Corporations Act);
+                                   (ii)    misleading or deceptive conduct (see s12DA–12DB of the ASIC
+                                           Act; s1041E–1041H of the Corporations Act); and
+                                   (iii)   harassment or coercion in connection with supply or payment for
+                                           financial services (see s12DJ of the ASIC Act).
+
+              RG 38.13       The obligations under the hawking regime are distinct from, and
+                             complementary to, the obligations above.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                        Page 6
+                                                                        REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+B          Scope of the hawking prohibition
+
+                              Key points
+
+                              The hawking prohibition applies when:
+                              • a consumer is offered a financial product during or because of
+                                unsolicited contact; or
+                              • a consumer is requested or invited to ask for, apply for or purchase a
+                                financial product, in the course of, or because of unsolicited contact.
+
+                              Offerors of certain types of products are exempt from the requirements
+                              under the hawking prohibition: see RG 38.23–RG 38.33.
+
+                              The hawking prohibition does not apply when the offer, request or invitation
+                              is made in the course of giving personal financial advice: see RG 38.20.
+
+
+
+
+What the prohibition applies to
+              RG 38.14       In general terms, the hawking prohibition in s992A(1) prohibits offers,
+                             requests or invitations to ask for, apply for or purchase a financial product in
+                             certain circumstances (‘offers, requests or invitations’). The prohibition
+                             applies where these offers, requests or invitations are made during or
+                             because of ‘unsolicited contact’ that is, partly or wholly, in the form of a
+                             real-time interaction in the nature of a conversation or discussion.
+
+                                   Note: The term ‘unsolicited contact’ is defined in s992A(4) and (5). See also Sections C
+                                   and D. In particular, for cases where consumers initiate contact, see RG 38.81–RG 38.84.
+
+              RG 38.15       The prohibition in s992A(1) applies to the making of offers, requests or
+                             invitations, not to the sale or issue that may result. This means that a breach
+                             happens when the offer, request or invitation is made. It is not a defence that
+                             a consumer had or was given time after an offer, request or invitation to
+                             consider whether to proceed, nor that the consumer was ultimately not issued
+                             or sold the product.
+
+              RG 38.16       Under s992A(1) ‘a person’ is prohibited from making these offers, requests
+                             or invitations. A person includes a body corporate. Paragraph 5.31 of the
+                             Explanatory Memorandum notes:
+                                   … Applying the prohibition to such persons means that it is not limited to
+                                   the provider of a financial service product—it can include, but is not
+                                   limited to, agents and representatives of the provider of a financial product.
+                                   Further, as entities are responsible for the actions of their agents and
+                                   representatives, the hawking prohibition cannot be circumvented by
+                                   engaging a third party to make offers on their behalf. Where there is no
+                                   such relationship between a provider of a financial product and a third
+                                   party who makes an offer, request or invitation, the third party will be
+                                   solely responsible for any contravention of the hawking prohibition.
+
+
+
+© Australian Securities and Investments Commission September 2021                                                   Page 7
+                                                                        REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                             Offers made to retail clients
+
+              RG 38.17       The hawking prohibition applies only to offers that are made to a retail
+                             client: see s992A(1)(a).
+
+                                   Note: ‘Retail client’ has the meaning given in s761G of the Corporations Act and Div 2
+                                   of Pt 7.1 of the Corporations Regulations 2001 (Corporations Regulations).
+
+              RG 38.18       For superannuation products, an offeror will not breach the hawking
+                             prohibition where they contact an employer to discuss the employer’s choice
+                             of default fund for employees who do not nominate a fund to receive
+                             payments.
+
+              RG 38.19       Although employers are generally considered to be retail clients within the
+                             meaning of the Corporations Act in respect of default fund arrangements,
+                             employers are not typically offered, or requested or invited to apply for an
+                             interest in the fund as part of these conversations. An employer selecting a
+                             superannuation fund as a default fund for its employees does not constitute
+                             the issue or sale of a financial product to that employer.
+
+                                   Note: Trustees are, however, subject to the prohibition under s68A of the
+                                   Superannuation Industry (Supervision) Act 1993 (SIS Act) regarding employer
+                                   inducements, as well as the obligation to give an employer a Product Disclosure
+                                   Statement (PDS) at or before the time they become an employer sponsor: see s1012I of
+                                   the Corporations Act.
+
+
+
+
+Interaction with personal financial advice
+              RG 38.20       Under s992A(2), the hawking prohibition does not apply to an offer, request,
+                             or invitation made in the course of giving personal advice to the consumer
+                             by a person who is required under Div 2 of Pt 7.7A to act in the consumer’s
+                             best interests.
+
+                                   Note 1: For further guidance on the best interests duty and related obligations for
+                                   financial advisers, see Regulatory Guide 175 Licensing: Financial product advisers—
+                                   Conduct and disclosure (RG 175).
+
+                                   Note 2: For more information on whether particular conduct amounts to the provision of
+                                   financial product advice, see Regulatory Guide 36 Licensing: Financial product advice
+                                   and dealing (RG 36).
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                                  Page 8
+                                                                       REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+Interaction with the deferred sales model regime for add-on
+insurance products
+              RG 38.21       An offer, request or invitation relating to an ‘add-on insurance’ product is
+                             not subject to the hawking prohibition during any ‘add-on insurance deferral
+                             period’: see s992A(2)(b) and 992A(3). Except when provided for by
+                             regulation, add-on insurance products will be subject to the hawking
+                             prohibition prior to, and after, any add-on insurance deferral period.
+
+                                   Note 1: Section 12DO of the ASIC Act defines an ‘add-on insurance product’ and
+                                   s12DP defines ‘add-on insurance deferral period’.
+
+                                   Note 2: It is a separate offence to offer an add-on insurance product during any
+                                   applicable add-on insurance deferral period (see s12DR of the ASIC Act). For further
+                                   information on the regulation of add-on insurance products, see Regulatory Guide 275
+                                   The deferred sales model for add-on insurance (RG 275).
+
+              RG 38.22       Where an add-on insurance product is exempt from the deferred sales model
+                             regime (such as by s12DX or 12DY of the ASIC Act), the hawking regime
+                             will generally apply to it: see paragraph 3.120 of the Explanatory
+                             Memorandum. An offeror must then consider whether the product is
+                             reasonably within scope of the consumer’s consent under the hawking
+                             regime: see s992A(5)(a)(ii) and (b)(ii).
+
+
+
+Products and situations exempt from the hawking prohibition
+              RG 38.23       Regulations may be made for the purpose of exempting products or classes
+                             of products from the hawking prohibition: see s992A(2)(c) and 992AA(3).
+
+
+                             Basic banking products
+
+              RG 38.24       The Corporations Regulations exempt certain offers, requests or invitations
+                             that relate to basic banking products, including certain deposit products: see
+                             reg 7.8.21A(h) and (i). This exemption applies to offers relating to what are
+                             commonly treated as ‘basic’ deposit products for the purposes of the
+                             Corporations Act, including term deposits where funds can only be
+                             withdrawn after giving the issuer 31 days’ notice: see Example 1.
+
+              RG 38.25       Under the exemption, any offer, request or invitation made in the course of
+                             contact that the consumer initiated is not subject to the hawking prohibition.
+
+                              Example 1: Basic banking product
+
+                              Tamanna has inherited a sum of money and attends her local bank branch
+                              to deposit it. In speaking to the bank teller, Hitesh, Tamanna mentions that
+                              she is looking to put it away for safe keeping. Hitesh notices that she is
+                              planning to deposit the money into a non-interest bearing account.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                                 Page 9
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                              Hitesh suggests that if she wants, he could arrange for the money to be put
+                              into a three-year term deposit that she could terminate within 31 days’
+                              notice. Hitesh informs Tamanna that, this way, she can get some interest on
+                              the money she is depositing, especially if she plans not to use it for some time.
+                              Hitesh’s conduct does not breach the prohibition, as the contact was initiated
+                              by Tamanna, and the product he introduces is a basic deposit product.
+
+
+                             Listed securities
+
+              RG 38.26       Offers, requests or invitations made to consumers by telephone in relation to
+                             listed securities or interests in listed managed investment schemes are
+                             exempt from the hawking prohibition: see reg 7.8.21A(a) of the
+                             Corporations Regulations.
+
+
+                             Certain offers of products to existing clients
+
+              RG 38.27       The hawking prohibition does not prevent contact with an existing client
+                             about a product already held by or on behalf of that client if the discussion
+                             does not involve an offer or invitation to apply for a new financial product:
+                             see paragraph 5.34 of the Explanatory Memorandum.
+
+              RG 38.28       In some cases, existing clients may need to be contacted in relation to
+                             product renewals. These renewals may involve the offer of a new financial
+                             product that is substantially similar to the one the consumer already holds. In
+                             such cases, the existing client can be contacted so long as they held the
+                             product to be renewed within the 30 days prior to the offer: see
+                             reg 7.8.21A(j) of the Corporations Regulations. This may arise:
+                             (a)   in the case of some types of financial products, when renewal of those
+                                   products by a consumer involves the issuing of a new financial product
+                                   (such as with term deposits or contracts for insurance);
+                             (b)   where the consumer is looking to renew a legacy product, and an offer
+                                   is made in respect of a non-legacy product equivalent; or
+                             (c)   where the product held by the consumer lapsed within the last 30 days,
+                                   and the ‘renewal’ requires the issuing (and therefore offering) of a new
+                                   financial product.
+
+                              Example 2: Insurance contract renewal
+
+                              Sam’s motor vehicle insurance is about to expire, and they are contacted
+                              by Rosita, a representative of their insurer. On that call, Sam indicates to
+                              Rosita that they are considering swapping insurers. In response to this,
+                              Rosita offers to renew Sam’s policy for another year at a discounted rate.
+
+                              The renewal involves the issuing of a new financial product. However, as
+                              Sam is an existing customer of Best Insurance and the offer made was in
+                              relation to a contract still in force, Rosita will not have breached the hawking
+                              prohibition in making the offer on the telephone call: see reg.7.8.21A(j).
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 10
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                              Example 3: Lapsed policy
+
+                              Lotte has pet insurance for her cat through Zel Insurance. The annual
+                              premium is paid every July by direct debit via her credit card. In April, Lotte
+                              decides to swap credit card providers, but forgets to change the direct debit
+                              information with Zel Insurance. In July, the payment of the insurance
+                              premium is declined by her old card issuer. As a result, her policy with Zel
+                              Insurance lapses.
+
+                              Three weeks later, Lotte receives a phone call from Fallon, a representative
+                              from Zel Insurance. Fallon indicates that he is calling because he noticed
+                              that the payment had been declined, and wanted to confirm with Lotte that
+                              she was aware that her insurance policy had lapsed. Lotte says she did not
+                              realise this had happened. Fallon says that he is able to reinstate Lotte’s
+                              policy if she would like. Lotte agrees.
+
+                              Fallon’s conduct in offering Lotte to reinstate her policy is not a breach of
+                              the hawking prohibition. Despite the fact that the reinstatement would
+                              involve the issue of a new financial product, the offer is permitted as it was
+                              in the nature of a renewal, involved a substantially similar policy to the one
+                              Lotte previously held, and was made within 30 days of the policy lapsing:
+                              see reg.7.8.21A(j).
+
+              RG 38.29       Where the offer is for the issue or sale of securities or interests in managed
+                             investment schemes, the hawking prohibition does not apply, if that offer is
+                             made to a client on whose behalf the offeror acquired or disposed of
+                             products in the last 12 months: see reg 7.8.21A(b) and (c).
+
+                              Example 4: Stockbrokers
+
+                              Juanita, an authorised representative of a market participant, calls a
+                              selection of her current clients—who Juanita has traded securities for in the
+                              past 12 months—to provide them with an offer to buy securities she
+                              thought they may be interested in. Some clients confirm their interest and
+                              ask to hear more about the offer. Juanita emails the relevant offer
+                              documents during the call, so that she can talk the client through the offer.
+
+                              This conduct is not subject to the hawking prohibition as reg 7.8.21A(b) of
+                              the Corporations Regulations allows for offers of securities to a client of an
+                              offeror through whom the client has bought or sold securities within the last
+                              12 months.
+
+
+                             Off-market unsolicited offers
+
+              RG 38.30       The prohibition does not apply to unsolicited offers to purchase financial
+                             products off-market under Div 5A of Pt 7.9. A person who makes an offer to
+                             purchase financial products from another person should consider how
+                             Div 5A applies to that offer.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 11
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                             Offers, requests or invitations made as result of a specific
+                             statutory requirement
+
+              RG 38.31       A superannuation trustee will not breach the hawking prohibition if it
+                             contacts a consumer to fulfil its statutory obligations as trustee, which may
+                             involve making an offer, request or invitation: see Example 5.
+
+                              Example 5: Unsolicited contact required by law
+
+                              Joe recently passed away. His superannuation fund Seraphic Super has a
+                              record of Joe’s binding death benefit nomination in which he nominated his
+                              husband, Jerry, as his beneficiary.
+
+                              Seraphic Super makes the relevant enquiries—which include contacting
+                              Jerry over the phone—and determines that Jerry is the person entitled to
+                              receive the benefit. Seraphic Super provides Jerry with a range of options
+                              for the payment of the benefit in accordance with Seraphic Super’s
+                              governing rules and the relevant requirements of the Superannuation
+                              Industry (Supervision) Regulations 1994.
+
+                              The hawking prohibition does not apply in this circumstance because there
+                              is a specific statutory obligation requiring contact (in contrast to a general
+                              prohibition). Seraphic Super has a statutory obligation to pay the benefit to the
+                              person entitled to receive it as soon as practicable after the member has died.
+                              Seraphic Super must contact the beneficiary to fulfil this statutory obligation.
+
+
+                             Other exemptions
+
+              RG 38.32       In addition to the exemptions mentioned above, the Corporations
+                             Regulations also exempt offers, requests or invitations in relation to:
+                             (a)   a crowd-sourced funding offer (see reg 7.8.21A(d));
+                             (b)   a financial product that is made under an eligible employee share
+                                   scheme (see reg 7.8.21A(e));
+                             (c)   medical indemnity insurance provided to a medical professional as
+                                   defined in the Medical Indemnity Prudential (Supervision and Product
+                                   Standards) Act 2003 (see reg 7.8.21A(f)); and
+                             (d)   an interest in a scheme that is in the nature of an insolvency litigation
+                                   funding scheme, or a litigation funding arrangement (where declared
+                                   not to be a managed investment scheme) (see reg 7.8.21A(g)).
+
+              RG 38.33       In addition, certain types of financial products and certain entities are
+                             exempt from the requirements of s992A and s992AA under ASIC legislative
+                             instruments: see Table 1 in the appendix. The legislative instruments listed
+                             in that table give broader relief from a range of regulatory requirements
+                             (e.g. disclosure obligations) as well as the hawking prohibition, to products
+                             the function or features of which are such that it is not appropriate for the
+                             whole (or part) of the financial product regulatory regime to apply. We have
+                             given relief where there is low risk of consumer harm.
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 12
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+C          Making offers because of or during unsolicited
+           contact
+
+                              Key points
+
+                              An offer, invitation or request that takes place in the course of, or because
+                              of, an unsolicited contact is prohibited by s992A: see RG 38.39–RG 38.42
+                              and RG 38.48–RG 38.56.
+
+                              For the purposes of the hawking regime, unsolicited contact is contact that
+                              takes place in real time to which the consumer did not consent: see
+                              RG 38.34–RG 38.38.
+
+                              The hawking prohibition does not generally apply to advertising or the mere
+                              provision of information: see RG 38.43–RG 38.47.
+
+                              The words ‘because of’ limit the breadth of offers that are prohibited to
+                              those where there is a ‘causal nexus’ between the unsolicited contact and
+                              the offer, request or invitation: see RG 38.48–RG 38.56.
+
+
+
+
+Forms of contact subject to the prohibition
+              RG 38.34       Under s992A(4)(a), unsolicited contact in connection with a financial
+                             product is one which is, wholly or partly, in the form of:
+                             (a)   a telephone call;
+                             (b)   a face-to-face meeting; or
+                             (c)   any other real-time interaction in the nature of a discussion or
+                                   conversation.
+
+              RG 38.35       An offeror is not prevented by the hawking prohibition from using
+                             communications that are not in real time to encourage consumers to request
+                             future contact: see Example 6. However, the offeror would need to ensure
+                             that any later offer, request, or invitation complies with the hawking
+                             prohibition.
+
+                              Example 6: Bulk mail-out
+
+                              Banksia Bank sends unsolicited letters and emails through a bulk mail-out
+                              to consumers. These letters and emails contain a reply slip for a consumer
+                              to request that Banksia call them at a future time and date convenient to
+                              the consumer to discuss certain types of products.
+
+                              Such letters and emails would not breach the hawking prohibition, as they
+                              do not constitute a real-time interaction. Further, if a consumer returns the
+                              reply slip and Banksia contacts them within six weeks of its return, the
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 13
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                              telephone call is not unsolicited, even though the consumer did not consent
+                              to receiving the original letter.
+
+                              By contrast, if the consumer had not returned the reply slip, but Banksia
+                              nonetheless called the consumer and offered them products for sale, this
+                              call would be unsolicited, and the offers would constitute hawking.
+
+
+
+
+Real-time interaction in the nature of a conversation or discussion
+              RG 38.36       The hawking prohibition is technology neutral. This means that, in addition
+                             to telephone calls and face-to-face meetings, the hawking prohibition also
+                             extends to other real-time interactions that are in the nature of a discussion or
+                             conversation, including instant messages, as well as through media that use
+                             artificial intelligence such as chat-bots: see s992A(4)(a)(iii).
+
+              RG 38.37       The hawking prohibition cannot be circumvented by engaging a third party
+                             to make offers on a person’s behalf (as their representative or agent): see
+                             paragraph 5.31 of the Explanatory Memorandum. We consider that this
+                             includes where third parties are contracted to develop artificial intelligence
+                             sales tools, such as chat-bots. In such cases, the person commissioning the
+                             chat-bot’s use, or under whose licence it operates will be responsible for any
+                             offer, request or invitation made by the chat-bot.
+
+              RG 38.38       Real-time interactions are ones where the offeror and consumer respond to
+                             each other continuously in real time, or where an expectation exists that both
+                             parties will provide an immediate response to each other: see paragraph 5.59
+                             of the Explanatory Memorandum. This includes both verbal and written
+                             communication. As a result, whether forms of contact, such as text
+                             messages, constitute real-time interactions for the purposes of s992A(4)
+                             depends on the circumstances. Some messages may create an expectation of
+                             an immediate response, while others may not.
+
+
+
+Offers, requests and invitations
+
+              RG 38.39       Section 992A(1) provides that a person must not offer a financial product for
+                             issue or sale to a consumer, or request or invite the consumer to ask or apply
+                             for a financial product or to purchase a financial product if the consumer is a
+                             retail client and the offer, request or invitation is made in the course of, or
+                             because of, an unsolicited contact with the consumer.
+
+              RG 38.40       The hawking prohibition cannot be avoided by approaching a consumer and
+                             inviting or requesting them to ask or apply for a financial product: see
+                             paragraph 5.28 of the Explanatory Memorandum.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 14
+                                                                        REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+              RG 38.41       Some of the factors involved in determining whether conduct constitutes an
+                             offer, request or invitation are likely to include the context of the interaction,
+                             behaviour of the consumer and offeror, as well as the actual words
+                             exchanged between the parties: see Example 7.
+
+              RG 38.42       However, there are certain practices we consider would generally constitute
+                             an offer, request or invitation. For example:
+                             (a)   providing a consumer with a quote (e.g. in the case of an insurance
+                                   product) (see Example 5.5 in the Explanatory Memorandum); or
+                             (b)   requesting or inviting a consumer to complete an application form (see
+                                   paragraph 5.28 and Example 5.2 in the Explanatory Memorandum).
+                                   Note: Consumers can still be provided with application forms, but they cannot be asked
+                                   to fill them out.
+
+
+                              Example 7: Welcome calls and service calls
+
+                              Minh recently took out insurance on her boat with Xenial Insurance. The
+                              representative Minh organised the insurance with, Damian, makes a
+                              welcome call to Minh to ensure the product has been set up correctly and
+                              to identify any further assistance or products Minh may require. Minh did
+                              not request this call.
+
+                              During the course of the conversation, Minh mentions that she has just
+                              bought a caravan, and Damian identifies that Minh may need caravan
+                              insurance. Damian explains what Xenial’s caravan insurance covers and
+                              gives Minh some general information about the product’s features.
+
+                              This call is unlikely to have breached the hawking prohibition, as Damian’s
+                              conduct did not amount to the making of an offer, request or invitation in
+                              relation to a financial product.
+
+                              However, if Damian used the welcome call as an opportunity to make an
+                              invitation, offer or request, that conduct would likely breach the hawking
+                              prohibition.
+
+
+                             Advertising or giving information
+
+              RG 38.43       An offeror can provide information to a consumer in real time—including
+                             discussing the existence, function and purpose or features of a product—
+                             without breaching the hawking prohibition provided that no offer, invitation
+                             or request is made, even when this contact is not requested by the consumer.
+
+              RG 38.44       For the avoidance of doubt, where advertising or giving information involves
+                             practices that are not in the nature of a conversation, discussion, or real-time
+                             interaction, such as brochures, television or radio advertising, that conduct is
+                             not within the scope of the prohibition.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                                Page 15
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+              RG 38.45       Depending on the circumstances, offers, requests or invitations made using
+                             non-real time channels (such as email) following an unsolicited contact may
+                             still constitute a breach of the hawking prohibition. This is because offers,
+                             requests or invitations cannot be made ‘because of’ an unsolicited contact
+                             that is in real time: see also RG 38.48––RG 38.56.
+
+                              Example 8: Promotional material
+
+                              One-Stop for Everything is a supermarket chain that offers a variety of
+                              insurance products and regularly has tables set up inside its stores to hand
+                              out pamphlets about their cover.
+
+                              Harish is doing his shopping and walks past a stall. Freya, a promoter for
+                              One-Stop for Everything, offers Harish a pamphlet about the chain’s
+                              insurance products, and asks if he knew that One-Stop for Everything
+                              offers insurance. Harish indicates that he did not, and Freya explains that
+                              they provide a variety of car, home building and contents, and pet
+                              insurance policies. Harish thanks Freya for her explanation, takes the
+                              pamphlet, and continues shopping.
+
+                              In providing factual information about One-Stop for Everything’s products,
+                              Freya has not breached the hawking prohibition. Her conduct is unlikely to
+                              have amounted to a request or invitation to apply for the product.
+
+
+                              Example 9: Following up information provided in real time with non-
+                              real-time communication
+
+                              Rocio visits her local bank branch to get a bank cheque and explains that
+                              she needs the cheque to purchase a car. Lowanna is a staff member at the
+                              branch. Lowanna asks if Rocio has organised car insurance. Rocio indicates
+                              that she has not, but that she would like information on how to get it.
+
+                              Lowanna provides Rocio with a brochure and asks if she can send Rocio
+                              an email with further benefits and features of the different options. Rocio
+                              agrees and provides her email address.
+
+                              The following day, Rocio receives an email containing a telephone number
+                              to call and a hyperlink to apply online. Rocio clicks the ‘apply here’ link and
+                              follows the instructions to fill in her details and generate a quote.
+
+                              It is unlikely that a contravention of the hawking prohibition has occurred in
+                              this scenario. Lowanna provided information in real time and followed up
+                              with information about the product not in real time. Rocio took an active
+                              step to apply for the product after being provided information.
+
+                              If Lowanna made Rocio an offer for car insurance during the real-time
+                              interaction in the branch, this would be unsolicited, and would likely breach
+                              the hawking prohibition.
+
+                              If the email Lowanna sent Rocio after their meeting contained a quote for
+                              car insurance, this would likely breach the hawking prohibition because a
+                              quote constitutes an offer, and was because of unsolicited contact.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 16
+                                                                       REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                              Example 10: Pop-up advertisements
+
+                              Donnah is checking her account balance on her investment loan on a
+                              personal banking app. A pop-up appears on her screen asking if she would
+                              like landlord insurance.
+
+                              The pop-up contains a link that allows Donnah to fill in her details and
+                              generate a quote for the insurance. There is also a button that allows
+                              Donnah to dismiss the pop-up.
+
+                              It is likely that this pop-up does not constitute a real-time interaction in the
+                              nature of a conversation or discussion; rather it is likely to be an
+                              advertisement. This is because the consumer and offeror are not
+                              responding to each other in real time, such that there is an expectation of
+                              immediate response: see paragraph 5.60 of the Explanatory Memorandum.
+                              As a result, the pop-up is unlikely to breach the hawking prohibition.
+
+              RG 38.46       The hawking prohibition does not apply to the advertising of an offer, or the
+                             publication of a statement about an offer that otherwise complies with or is
+                             subject to an exemption in s734 or s1018A: see s992A(7).
+                                   Note: See also Regulatory Guide 254 Offering securities under a disclosure document
+                                   (RG 254).
+
+              RG 38.47       When advertising or providing information, offerors still need to ensure that
+                             they comply with any other relevant laws, including the misleading or
+                             deceptive conduct and consumer protection provisions discussed at
+                             RG 38.11–RG 38.12. Offerors should also note ASIC’s guidance in relation
+                             to advertising financial products and services.
+                                   Note: See Regulatory Guide 234 Advertising financial products and services (including
+                                   credit): Good practice guidance (RG 234) for information on obligations relating to
+                                   advertising or promotional material.
+
+
+
+Meaning of ‘because of’ in the hawking prohibition
+
+              RG 38.48       Under s992A(1)(b), for a breach of the hawking prohibition to occur, the
+                             offer, request or invitation to the consumer must be made ‘because of’ or ‘in
+                             the course of’, an unsolicited contact.
+
+              RG 38.49       An offer, request or invitation made during an unsolicited contact with a
+                             consumer will constitute one made ‘in the course of’ that contact: see
+                             paragraph 5.52 of the Explanatory Memorandum.
+
+              RG 38.50       Paragraph 5.53 of the Explanatory Memorandum states that the words
+                             ‘because of’ limit the breadth of offers that are prohibited to those where
+                             there is a ‘causal nexus’ between the unsolicited contact and the offer,
+                             request, or invitation. In addition, the paragraph says that:
+                                   …[T]he inclusion of the words ‘because of’ seeks to address the situation
+                                   in which a person makes unsolicited contact with a consumer, but the
+                                   actual offer, request, or invitation is made during subsequent contact that is
+                                   solicited by the consumer.
+
+
+
+© Australian Securities and Investments Commission September 2021                                               Page 17
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+              RG 38.51       The prohibition may still apply to offers, requests, or invitations that take
+                             place through a medium other than one that is a real-time interaction. For
+                             example, emailing a consumer an offer during or directly after an unsolicited
+                             outbound sales call with them would likely be ‘because of’ that call.
+
+              RG 38.52       Ultimately, whether the offer is caused by, or is a result of, the unsolicited
+                             contact, will depend on the facts and circumstances of each case: see
+                             paragraph 5.54 of the Explanatory Memorandum.
+
+              RG 38.53       For example, the causal nexus will be broken if a consumer obtains personal
+                             advice about a product after the unsolicited contact, and subsequently
+                             consents to further contact in relation to that product: see paragraph 5.56 of
+                             the Explanatory Memorandum.
+
+              RG 38.54       The causal nexus may also be broken if, between an unsolicited contact and
+                             subsequent offer, request or invitation, the consumer has:
+                             (a)   taken active steps of their own accord to consent to further contact
+                                   regarding the offer, request or invitation;
+                             (b)   had a reasonable opportunity to consider any information that they have
+                                   been provided about a financial product; and
+                             (c)   had a reasonable opportunity to assess the product’s suitability prior to
+                                   receiving the offer: see paragraph 5.55 of the Explanatory
+                                   Memorandum.
+
+              RG 38.55       If during the course of an initial unsolicited contact, an offeror pressures or
+                             manipulates a consumer into providing consent to future contact in relation
+                             to a financial product, then any such future contact would continue to be
+                             unsolicited: see paragraph 5.57 of the Explanatory Memorandum.
+
+              RG 38.56       Generally, we consider that the following circumstances are unlikely, of
+                             themselves, to break the causal nexus:
+                             (a)   the consumer obtaining general advice;
+                             (b)   the consumer receiving a prospectus or PDS; or
+                             (c)   the offeror providing a disclaimer to the consumer, or obtaining a
+                                   declaration from the consumer, to the effect that the offer is not because
+                                   of the initial unsolicited contact.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 18
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+D          Establishing consumer consent to be contacted
+
+                              Key points
+
+                              In order to make an offer, request, or invitation in relation to a financial
+                              product, an offeror must receive consent from a consumer to contact them.
+                              The consent must be:
+                              • positive and voluntary (see RG 38.63–RG 38.68);
+                              • clear and such that a reasonable person would have understood that
+                                the consumer consented to the contact (see RG 38.69–RG 38.78); and
+                              • given before the start of such contact (see RG 38.57–RG 38.59).
+
+                              This consent can be withdrawn at any time prior to or during the course of
+                              the contact: see RG 38.115–RG 38.121.
+
+                              In turn, the contact must:
+                              • relate to financial products specifically consented to, or that are
+                                reasonably within the scope of the consent (see RG 38.85–RG 38.107);
+                                and
+                              • be by a method of communication set out in the consumer’s consent,
+                                where this is specified (see RG 38.108–RG 38.110).
+
+
+
+
+The giving of consent generally
+
+              RG 38.57       Under s992A(4)(b), contact with a consumer by an offeror is ‘unsolicited
+                             contact’ if the consumer did not consent to the contact.
+
+              RG 38.58       Under s992A(5)(c) and (h), the consent must be given prior to the contact.
+                             The consent must not have been withdrawn before the contact occurs.
+
+              RG 38.59       These requirements mean an offeror cannot elicit consent from a consumer
+                             for that or further contact: see paragraphs 5.72, 5.74 and 5.75 of the
+                             Explanatory Memorandum.
+
+              RG 38.60       If a consumer’s consent indicates the form of contact that the consumer
+                             wants, an offeror may only contact them in that form: see s992A(5)(f).
+
+              RG 38.61       Consent will be unsolicited unless it takes place after a consumer has given
+                             consent that is positive, voluntary, and clear. That consent must also be such
+                             that a reasonable person would have understood that the consumer was
+                             consenting to the contact: see s992A(5)(d)-(e), and paragraph 5.22 of the
+                             Explanatory Memorandum.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 19
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+              RG 38.62       A consumer may consent to a meeting, telephone call or other real-time
+                             interaction for one or more purposes, and the consent could take a number of
+                             forms. The consent may relate to a single instance or multiple instances of
+                             contact—for example, a request to receive telephone calls for a particular
+                             purpose over a period of time, not exceeding six weeks. In any case, the
+                             consent obtained should be positive, voluntary, and clear.
+
+
+
+Consent must be positive and voluntary
+
+              RG 38.63       Under s992A(5)(d), offerors may only rely on a consumer’s consent to be
+                             contacted if it is positive and voluntary.
+
+
+                             Positive consent
+
+              RG 38.64       Positive consent involves an active step by the consumer, such as initiating
+                             contact with the offeror through a telephone call or online form: see paragraph
+                             5.75 of the Explanatory Memorandum. This involves a conscious decision
+                             by the consumer, and cannot be given through silence or a failure to act.
+
+              RG 38.65       Consent cannot be provided in response to a leading question: see paragraph
+                             5.76 of the Explanatory Memorandum. This includes situations where a
+                             leading question is used to attempt to obtain a renewal of consent.
+
+              RG 38.66       Generally, positive consent may involve either:
+                             (a)   consent sought through a standalone communication or interaction that
+                                   demonstrates the consumer’s decision; or
+                             (b)   where consent is sought in a broader discussion or larger document
+                                   (e.g. forms relating to a separate product or service), clearly bringing to
+                                   the consumer’s attention the consent being sought, such that it allows
+                                   for an express decision to be made: see paragraph 5.73 of the
+                                   Explanatory Memorandum.
+
+              RG 38.67       A consumer’s failure to act does not constitute a positive act of providing
+                             consent for the contact: see paragraph 5.76 of the Explanatory Memorandum.
+                             For example, the fact that a consumer did not opt-out of receiving future
+                             telephone calls when given an opportunity to do so on an application form
+                             will not, on its own, mean that subsequent telephone calls from the offeror
+                             are solicited: see Example 11.
+
+                              Example 11: Opt-out notices
+
+                              Good Deal Derivatives recently bought a client book from a dormant over
+                              the counter (OTC) derivatives dealer, Dazzling Derivatives, to obtain new
+                              clients for their business. As a dormant dealer, Dazzling Derivatives has
+                              not made contact or sought consent from any clients in the last year.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 20
+                                                                     REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                              Good Deal Derivatives sends a letter to all individuals whose contact
+                              details it has acquired. In the letter, Good Deal Derivatives asks them to
+                              respond if they wish to opt-out of future financial product offers. A week
+                              later, Good Deal Derivatives calls all individuals in the client book, inviting
+                              them to start trading OTC derivatives using their platform. None of the
+                              recipients of the letter responded prior to receiving the telephone call.
+
+                              By telephoning these individuals with an invitation, Good Deal Derivatives
+                              has breached the hawking prohibition. The consumers did not clearly and
+                              positively consent to this real-time interaction. Failure to respond or an
+                              absence of objection does not constitute consent to be contacted by the
+                              offeror. Previous consents that may have been granted by individuals in
+                              relation to offers from Dazzling Derivatives would have expired six weeks
+                              after they were given. In any event, such consents would not extend to
+                              offers from Good Deal Derivatives.
+
+
+                              Example 12: Follow-up phone calls
+
+                              Natasha makes a phone call to her bank to query a transaction on her
+                              account, and speaks with a customer service representative, Pierre. In the
+                              course of the conversation, Natasha mentions that she will be starting a
+                              new job the following week. The conversation progresses as follows:
+
+                              Pierre:                  That’s exciting!
+
+                              Natasha:                 Yeah …
+
+                              Pierre:                  Given you’ll be starting a new job soon, perhaps you
+                                                       would like some information on our income protection
+                                                       options and for us to draw up some quotes?
+
+                              Natasha does not respond. Pierre notices the silence, and continues:
+
+                              Pierre:                  I know you might not have time to talk about it now,
+                                                       but I’ll give you a call tomorrow and we can have a
+                                                       chat about it then.
+
+                              Pierre calls Natasha the following day to make an offer for income
+                              protection. Pierre’s conduct has breached the hawking prohibition because
+                              the call on which the offer was made was unsolicited, as it did not take
+                              place in response to positive consent. Natasha did not decline Pierre’s
+                              proposed course of action, but this does not constitute positive consent.
+
+
+                             Voluntary consent
+
+              RG 38.68       The consumer must have voluntarily made the decision to be contacted. A
+                             consent is not valid if the consumer was forced, pressured, or manipulated
+                             into consenting to be contacted by an offeror, or induced to contact the
+                             offeror, so the consumer could, for example, receive another service or take
+                             up another opportunity: see paragraphs 5.57, 5.75, and 5.77 of the
+                             Explanatory Memorandum, Example 13 and Example 14. This includes
+                             situations where the consent is to further or future contact in which an offer
+                             is to be made: see Example 15.
+
+
+
+© Australian Securities and Investments Commission September 2021                                        Page 21
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                              Example 13: Timeshare presentation
+
+                              A promoter has a stall at a shopping centre with a banner about free movie
+                              tickets. The promoter approaches a consumer, Peter, about participating in
+                              a survey on holiday destinations and hearing information about holidays.
+                              The promoter offers Peter free movie tickets in return. The survey will take
+                              place at a nearby venue.
+
+                              Peter goes to the venue and is told that the survey will take place at the
+                              end of a presentation and the free movie tickets will be handed out then.
+                              Peter discovers that the presentation is about a time-sharing scheme and is
+                              invited to apply for an interest in the scheme during the presentation.
+
+                              Peter did not provide voluntary consent because it was not made clear that
+                              the consent being sought was for contact in relation to an offer to purchase
+                              an interest in a time-sharing scheme. In any case, the offer is ‘because of’
+                              the promoter’s initial, unsolicited contact with the consumer.
+
+                              Had the promoter properly informed Peter that the presentation was for the
+                              purposes of offering interests in, or inviting or requesting applications for
+                              interests in, a time-sharing scheme, then consent given by Peter would
+                              have been voluntary.
+
+
+
+                              Example 14: Price comparison website
+
+                              Hong wants to switch comprehensive car insurers. He searches the internet
+                              for more information and finds an insurance price comparison website, ‘Best
+                              Price Compare’. The homepage shows the logos of ten different insurance
+                              providers and describes the insurance that they offer. Hong clicks on a
+                              button that reads ‘Compare your quotes’. Once he clicks on this button a
+                              dialogue box appears:
+
+                              ‘By providing your details to Best Price Compare you are consenting to be
+                              contacted by telephone about offers of comprehensive car insurance by our
+                              Best Price Compare members. Do you wish to proceed?’
+
+                              Hong wants to receive the quotes from Best Price Compare so answers
+                              ‘yes’ and proceeds to fill out his details on a webform, and submits it. He
+                              then compares the quotes that now appear on the page. Hong
+                              subsequently receives a telephone call from three of the member insurance
+                              providers offering to complete the purchase process.
+
+                              These calls were solicited because Best Price Compare has made it clear
+                              to consumers that by answering ‘yes’ and filling out the form they will be
+                              contacted by telephone by Best Price Compare’s member insurance
+                              providers. Hong has taken positive action by acknowledging that he
+                              consents to being contacted by the member insurance providers, and
+                              subsequently voluntarily submitted his details on the webform.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 22
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                              Example 15: Eliciting consent for further contact
+
+                              Lerato calls Zaff Bank and asks for information about their term deposits
+                              and speaks with a sales representative, Akeno.
+
+                              At the end of the call, unprompted by Lerato, Akeno asks:
+
+                              ‘Can I call you tomorrow to discuss the superannuation products we offer?’
+
+                              Lerato agrees. The following day, Akeno calls Lerato and in the course of
+                              the call invites him to apply for a superannuation product, ‘Zaff MySuper’.
+
+                              This constitutes an unsolicited invitation to apply, despite Lerato’s consent
+                              to receive the call. This is because Akeno’s question elicited Lerato’s
+                              consent for the subsequent call: see paragraph 5.57 of the Explanatory
+                              Memorandum. Offerors cannot rely on consent that has been elicited.
+
+                              Had Akeno asked Lerato if there is anything else he wishes to discuss, and
+                              Lerato had positively, clearly and voluntarily indicated that he would like to
+                              discuss superannuation and that he would like a follow-up call, then the
+                              telephone call to Lerato the following day would not have been elicited.
+
+
+
+
+Consent must be clear and reasonably understood
+              RG 38.69       Under s992A(5)(e), a consumer’s consent must be clear, and such that a
+                             reasonable person would have understood that the consumer consented to the
+                             contact: see also paragraphs 5.79 and 5.81 of the Explanatory Memorandum.
+
+              RG 38.70       This means that a consumer’s consent must demonstrate that they understand
+                             they are consenting to being contacted for the purpose of being offered, or
+                             invited to purchase or apply for, a financial product. For consent to be clear,
+                             it must not be vague or ambiguous: see paragraph 5.79 of the Explanatory
+                             Memorandum.
+
+              RG 38.71       In addition, silence on the part of a consumer will generally not provide a
+                             clear basis for consent for contact in relation to the offer, request or
+                             invitation of a financial product.
+
+              RG 38.72       The purpose of the contact being consented to by the consumer should be
+                             clear from the language used to communicate it. The consumer must have
+                             clearly stated either the type of financial product they are interested in
+                             discussing or the type of outcome they wish to achieve through a financial
+                             product: see paragraph 5.80 of the Explanatory Memorandum and
+                             RG 38.86–RG 38.106. This means that an offeror cannot rely on broad
+                             consent solicited from a consumer that does not specify products or a
+                             particular consumer need.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 23
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+              RG 38.73       The effect of s992A(5)(e) is that an offeror must be satisfied on a reasonable
+                             basis that the consumer was sufficiently informed so as to understand that:
+                             (a)   they have provided consent to being contacted by the offeror; and
+                             (b)   the contact may result in an offer of a financial product or a request or
+                                   invitation to apply for a financial product (see paragraph 5.82 of the
+                                   Explanatory Memorandum).
+
+                              Example 16: Vague or ambiguous language for consent
+
+                              Ahmad is looking for home contents insurance. He uses the instant chat
+                              box function on Sibylline Insurance’s website to enquire. Farah from
+                              Sibylline Insurance responds. During the instant chat exchange, Ahmad
+                              mentions he has just purchased an engagement ring. Farah indicates that
+                              Sibylline Insurance also offers personal valuables insurance. The following
+                              conversation then takes place:
+
+                              Ahmad:        I don’t think I need personal valuables insurance. I’ll need to
+                                            check.
+
+                              Farah:        Well, I could call you tomorrow and run you through an
+                                            application if you like?
+
+                              Ahmad:        Ummm … I don’t know, maybe …
+
+                              Ahmad’s language does not indicate clear and positive consent to be
+                              contacted by Farah in relation to personal valuables insurance. If Farah
+                              calls Ahmad and offers him such a product, this contact would be
+                              unsolicited and would breach the hawking prohibition. If Farah was
+                              uncertain whether Ahmad properly understood that any subsequent
+                              telephone calls were for the purpose of signing up to personal valuables
+                              insurance, she could have simply provided further information about that
+                              insurance.
+
+              RG 38.74       Whether there is a reasonable basis for considering a consumer to have
+                             understood what they are consenting to will depend on the circumstances in
+                             each case. For example, where a consumer begins filling out an online form
+                             but does not submit it, the partial supply of information does not provide a
+                             reasonable basis for considering the consumer to have consented to contact.
+
+              RG 38.75       Equally, where a consumer is handed a pamphlet about a product without
+                             any context and asks what it is about and why they have been given it, this is
+                             not a reasonable basis for considering the consumer to have consented to
+                             contact.
+
+              RG 38.76       It is unlikely that a consumer would understand what they are consenting to
+                             if they are incentivised to consent hastily to contact about a financial product
+                             (e.g. as part of the terms and conditions of entering a competition): see
+                             paragraph 5.83 of the Explanatory Memorandum and RG 38.97.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 24
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                              Example 17: Competition form
+
+                              A company runs a campaign where a consumer can fill in a form to enter a
+                              draw to win a new car. Small print contained in the lengthy terms and
+                              conditions attached to the form states that, by submitting their entry, the
+                              consumer consents to being called about the sale or offer of financial products.
+
+                              Any telephone calls for the offer or sale of financial products that take place
+                              as a result of the information provided on the form would be considered
+                              unsolicited. The company did not specifically, or separately, draw the
+                              consumer’s attention to being contacted about financial products. As a
+                              result, no reasonable person would likely have understood that the
+                              consumer had consented to contact in relation to the offer of financial
+                              products.
+
+              RG 38.77       Where an offeror does not obtain consent personally from a consumer,
+                             because it is obtained through a third party (e.g. if they use a third party
+                             promoter or lead generator), it remains a matter for the offeror to establish
+                             that the consent was positive, voluntary, clear and reasonably understood
+                             prior to making an offer. An offeror may breach the prohibition even if they
+                             had not intended to rely on consent that had not been properly given by a
+                             consumer: see Example 18.
+
+                              Example 18: Website lead generator
+
+                              Taraji has heard on the news about a surge in retail securities trading and
+                              decides to search the internet for more information. A link for Quick Traders
+                              appears stating, ‘Learn about trading securities today!’. Taraji submits her
+                              contact details in a webform on the Quick Traders website.
+
+                              Taraji is surprised when she later receives a call from Zuri, a representative
+                              from Dealin’ Derivatives, who had used Quick Traders to generate leads.
+                              Zuri gives Taraji general information about securities trading, but in the
+                              course of this conversation invites Taraji instead to begin trading OTC
+                              derivatives using the Dealin’ Derivatives platform.
+
+                              Zuri’s invitation is unsolicited as it does not take place in response to a
+                              consent voluntarily given in relation to the invitation to trade financial
+                              products, or for that matter to be contacted about derivatives. This breach
+                              occurs regardless of whether Zuri believes that Quick Traders properly
+                              sought consent from Taraji.
+
+              RG 38.78       As a matter of good practice, we suggest that offerors:
+                             (a)   encourage consumers to specify which financial products or classes of
+                                   financial products they wish to discuss;
+                             (b)   provide consumers with enough information in a sufficiently prominent
+                                   way so as to allow them to carefully consider whether to consent to the
+                                   contact, and the form of that contact; and
+                             (c)   if in doubt, clarify and/or confirm the scope of the contact to which the
+                                   consumer gives consent.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 25
+                                                                       REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                             Clarifying the scope of a consumer’s consent
+
+              RG 38.79       It may be necessary to clarify or confirm the scope of the consumer’s
+                             consent where they use vague or ambiguous language, or where there may
+                             be a misunderstanding as to the function or purpose of a product. It may be
+                             the case that a clarification of the consumer’s stated purpose (and therefore
+                             scope of consent) results in an offer of a different product than had been
+                             initially proposed. Offerors should not use the process of clarifying the
+                             consumer’s objectives to artificially broaden or elicit consent.
+                                   Note: For more information on ‘eliciting’, see paragraph RG 38.97.
+
+
+
+                              Example 19: Clarifying consent
+
+                              Ezekiel, who lives in Sydney, calls his insurer, Papaya Insurance, to
+                              organise insurance for his car.
+
+                              When he speaks to the customer service representative, Fatima, he
+                              indicates that he wants minimal insurance. Fatima explains to Ezekiel that
+                              all he is required to have by law is compulsory third-party (CTP) insurance.
+                              Ezekiel says CTP insurance is what he is after.
+
+                              During the process of asking Ezekiel questions to generate a quote for CTP
+                              insurance, it becomes apparent to Fatima that Ezekiel assumes the product
+                              covers damage to the vehicle. She alerts him to the fact that CTP
+                              insurance will not cover damage to his car, and asks if he would like a
+                              product, such as comprehensive car insurance or third-party fire and theft
+                              insurance, that does cover the car itself. Ezekiel thanks Fatima and says
+                              that he does want insurance that will cover any kind of damage to his car.
+
+                              Fatima continues explaining the differences between the types of
+                              insurance, and ultimately provides quotes in respect of comprehensive car
+                              insurance as well as CTP insurance.
+
+                              Fatima’s quote for comprehensive insurance does not breach the hawking
+                              prohibition on the basis that coverage for any kind of damage to the car
+                              was the outcome Ezekiel sought. She identified a possible
+                              misunderstanding, and her questions clarifying the scope of his consent
+                              were appropriate and unlikely to breach the hawking prohibition.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                          Page 26
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                              Example 20: Offering products reasonably within the scope of the
+                              consent
+
+                              Emmily telephones Venture Insurance Co and speaks with a sales
+                              representative, Laura about acquiring insurance. The following
+                              conversation takes place:
+                              Emmily:            I want to be protected if there’s a bushfire near my house.
+                              Laura:             Okay, we can help you with that. Before I do—you
+                                                 mentioned your house. Are you renting, or do you own it?
+                              Emmily:            I own the house.
+                              Laura:             In that case, you may wish to consider home building
+                                                 insurance, which we offer, as well as some form of
+                                                 contents insurance that will cover your possessions in the
+                                                 case of fire.
+                              The discussion continues, and Laura eventually offers Emmily contents
+                              insurance and home building insurance.
+                              While Emmily did not request either insurance by name, Emmily’s initiation
+                              of contact constitutes consent to being contacted in relation to the offer of
+                              multiple insurances covering the same financial risk—loss she may suffer
+                              as the result of a fire: see RG 38.78. As Laura established that Emmily
+                              owned her place of residence, the offer of home building insurance does
+                              not breach the prohibition.
+
+
+              RG 38.80       Consent must at all times be clear, positive, and voluntary. Offerors are
+                             reminded that if they are unable to clarify consent so that they can be
+                             satisfied that there is valid consent in place, they are always able to provide
+                             consumers with information about products during the interaction. The
+                             consumer can then consider this information before taking a next step. This
+                             is consistent with the regime’s objectives to give consumers greater control
+                             over their decisions to purchase financial products by determining the kinds
+                             of financial products they are offered: see paragraph 5.4 of the Explanatory
+                             Memorandum.
+
+
+                             Consent in consumer-initiated interactions
+
+              RG 38.81       Section 992A(5)(c) requires that offerors rely only on consent provided by
+                             consumers before the start of the contact. However, where the consumer
+                             initiates real-time interaction directly, it is not technically possible for
+                             consent to be given before the contact commences. Therefore, the
+                             Explanatory Memorandum provides that the fact that the consumer initiates
+                             contact is taken to mean that they understand the nature of the contact to
+                             which they are consenting: see paragraph 5.83 of the Explanatory
+                             Memorandum.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 27
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+              RG 38.82       Any consent provided by a consumer still needs to satisfy the criteria at
+                             s992A(5)(d) and (e), that it be positive, voluntary and clear, and such that a
+                             reasonable person would have understood what the consumer was
+                             consenting to: see RG 38.63–RG 38.78.
+
+              RG 38.83       A consumer may raise a second or additional product of their own accord in
+                             the course of a contact. Provided this is done entirely of their own initiative,
+                             and the consent meets the criteria of being positive, voluntary, clear, and
+                             capable of being reasonably understood, then the offeror is able to make
+                             offers in respect of the second or additional product. We consider this to be
+                             consistent with the object of the regime which is to give consumers greater
+                             control over their decisions to purchase financial products: see paragraph 5.4
+                             of the Explanatory Memorandum.
+
+              RG 38.84       However, offerors must not elicit a consumer’s consent in any way, such as
+                             by asking leading questions: see paragraph 5.74 of the Explanatory
+                             Memorandum. As a breach of the hawking prohibition is an offence of strict
+                             liability, breaches may occur even where an offeror does not intend to elicit
+                             consent: see s992A(9).
+
+                              Example 21: Subsequent product request
+
+                              Olga calls her bank, Blue Sky Bank. She asks the customer service
+                              representative, Brendan, if Blue Sky Bank can issue her a credit card.
+                              Brendan offers her some different credit card options. Olga says she will
+                              consider the options Brendan presented to her.
+
+                              Olga then remarks that she wants the credit card for her forthcoming
+                              holiday and that she would also like to organise some travel insurance.
+                              Brendan then discusses the bank’s travel insurance offerings, and Olga
+                              provides him with the relevant information to generate a quote, which
+                              Brendan proceeds to do.
+
+                              Brendan is unlikely to have breached the hawking prohibition as Olga
+                              raised the travel insurance of her own accord, in a manner that was
+                              positive, clear and voluntary.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 28
+                                                                        REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+Determining the scope of consent
+
+              RG 38.85       Under s992A(5)(a) and (b), the consent must be to contact for the purpose of
+                             offering, or requesting or inviting a consumer to ask or apply for either:
+                             (a)   the particular financial product that is the subject of the offer, request,
+                                   or invitation; or
+                             (b)   a financial product reasonably within the scope of the consumer’s
+                                   consent.
+
+              RG 38.86       It is possible that a consumer’s consent may be broad enough so as to
+                             reasonably apply to more than one product: see paragraph 5.67 of the
+                             Explanatory Memorandum.
+
+
+                             General meaning of ‘reasonably within scope’
+
+              RG 38.87       While each situation will depend upon its facts, certain products will be
+                             considered to be reasonably within the scope of the consumer’s consent if:
+                             (a)   the consumer has consented to the contact for products of a particular
+                                   type or with particular features, and the product is of that type or has
+                                   those features;
+                             (b)   the consumer asks for a product that has a particular purpose or function
+                                   and the financial product that is offered has that purpose or function; or
+                             (c)   a reasonable person would consider the financial product to be within
+                                   the scope of the consumer’s consent—for example when the product:
+                                   (i)     covers the risks that the consumer consented to being contacted
+                                           about;
+                                   (ii)    has the same purpose or function as the product that the consumer
+                                           consented to being contacted about (see Example 22); or
+                                   (iii)   is so closely related to the product that the consumer consented to
+                                           being contacted about that the consumer would reasonably expect
+                                           to be offered that product.
+
+                                   Note: See s992A(5)(a)(ii) and s992A(5)(b)(ii), as well as paragraphs 5.65 and 5.66 of
+                                   the Explanatory Memorandum.
+
+              RG 38.88       Establishing if a financial product is ‘so closely related to an [initial] product
+                             that a consumer would reasonably expect to be offered it’, may involve
+                             considering factors such as:
+                             (a)   whether acquisition of the additional product is appropriately mandated
+                                   by the terms of the initial product;
+                             (b)   the degree to which the utilisation of the features of the initial product
+                                   requires acquisition of the additional product;
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                                 Page 29
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                             (c)   whether the use for which the initial product or service is commonly
+                                   supplied gives rise to the need for the product;
+                             (d)   whether and to what extent the product manages financial risk arising
+                                   from acquiring the initial product; and
+                             (e)   how prevalent it is for consumers who acquire the initial product to
+                                   acquire the additional financial product (regardless of whether it is
+                                   acquired from the same offeror as that initial product).
+
+              RG 38.89       The relative weight of these and other factors in determining whether the
+                             financial product was reasonably within scope of the consumer’s consent
+                             will depend on the facts and circumstances of each case.
+
+              RG 38.90       A worked example of how some of these factors may be applied to a given
+                             situation is provided in Example 23.
+
+                              Example 22: Products not reasonably within the scope of consent
+
+                              Kathleen meets with a sales representative of Gold Standard Bank to
+                              enquire about setting up a fixed-term deposit account. During the meeting,
+                              the sales representative tells her that if she wants long-term financial
+                              security, she should consider applying for Gold Standard Bank’s income
+                              protection insurance.
+                              The offer of the income protection insurance breaches the hawking
+                              prohibition because it was not reasonably within the scope of Kathleen’s
+                              consent, which was in relation to a term deposit. This is because a
+                              reasonable person would not consider income protection insurance to be a
+                              financial product with the same purpose or function as the fixed-term
+                              deposit account. The deposit account has the purpose and function of
+                              generating return on capital investment, which income protection insurance
+                              does not.
+                              The sales representative could instead offer Kathleen a pamphlet with
+                              information regarding income protection insurance and explain to Kathleen
+                              the coverage and protection it provides.
+
+
+                              Example 23: Reasonable expectation of being offered a product
+
+                              Vassiliki visits a mortgage broker, Corinne, to organise a home loan so that
+                              she can buy a new home.
+
+                              During the discussion, Corinne reminds Vassiliki that she will require home
+                              building insurance over the property as a term of the loan. Corinne asks
+                              Vassiliki if she has organised home building insurance yet and says she
+                              can organise some quotes and email them to Vassiliki, if she would like.
+                              Vassiliki agrees that this would be helpful. Following the meeting, Corinne
+                              emails Vassiliki a table containing a comparative list of insurance quotes.
+
+                              In providing these quotes, Corinne made an offer of the insurance ‘because
+                              of’ the contact Vassiliki made. However, the contact in relation to the home
+                              building insurance was not unsolicited, as the offer was reasonably within
+                              the scope of Vassiliki’s consent to discuss financing the purchase of the
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 30
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                              home. Home building insurance is so closely related to the product Vassiliki
+                              consented to being contacted about, the mortgage, that a reasonable
+                              person would have expected to be offered it. This is because, in this case,
+                              the home building insurance was required by a contractual term of the
+                              mortgage, and the home building insurance helps manage the financial risk
+                              arising from the entry into the mortgage. It is also prevalent for borrowers to
+                              acquire home building insurance on the property securing the home loan.
+
+
+                             Consent in the context of bundling or cross-selling
+
+              RG 38.91       Offerors sometimes sell or issue multiple products together in practices
+                             known as cross-selling and bundling. This can involve the offer of a discount
+                             on the usual price of a product or products (e.g. multi-policy discounts).
+
+              RG 38.92       A consumer may be offered more than one financial product during a contact
+                             if the consumer consented to being contacted about multiple products before
+                             the contact, or the consumer’s consent is sufficiently broad so as to
+                             reasonably apply to more than one product: see paragraph 5.67 of the
+                             Explanatory Memorandum and Example 24.
+
+                              Example 24: Offer of a cross-sold or bundled product reasonably
+                              within scope
+
+                              Liam walks into the local branch of his bank and asks Ahmed, a customer
+                              services representative, about the bank’s home loan offerings. They
+                              discuss the options. At the conclusion of the meeting, Ahmed provides
+                              Liam with information about—and offers him the opportunity to open—a
+                              transaction account that could be linked to the home loan as an ‘off-set
+                              account’.
+                              The offer of the transaction account is not unsolicited. Liam’s consent to be
+                              contacted about home loans is sufficiently broad as to reasonably cover an
+                              off-set transaction account.
+
+
+              RG 38.93       A second or additional product will be within the scope of a consumer’s
+                             consent if, for example, it covers the same risk, has the same purpose or
+                             function, or is so closely related to the product that the consumer consented
+                             to being contacted about that the consumer would reasonably expect to be
+                             offered the second product: see RG 38.87. Understanding the breadth of a
+                             consumer’s consent in each case will depend on its circumstances, in
+                             particular, the words used by the consumer.
+
+              RG 38.94       The fact that two products could be offered or often are offered together at
+                             the point of sale does not in and of itself mean that those products are
+                             reasonably within the scope of a consumer’s consent.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 31
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+              RG 38.95       Example 5.5 of the Explanatory Memorandum provides an example on how
+                             to assess the scope of a consumer’s consent, and establish whether it is
+                             appropriate to offer multiple products:
+
+                                   Example 5.5: Products outside the scope of consent
+                                   Kayla calls Big Insurance Co and asks the sales representative, Tom, to
+                                   give her a quote for third party property damage insurance for her car. Tom
+                                   tells Kayla that Big Insurance Co is currently offering a discount to clients
+                                   who take out car and home insurance policies as part of a package and
+                                   asked Kayla if she would like a quote for home insurance as well. The offer
+                                   of the insurance package is outside the scope of Kayla’s request because
+                                   she did not consent to contact involving offers about any product other than
+                                   third party property damage insurance. Tom has therefore contravened the
+                                   hawking prohibition.
+
+              RG 38.96       Where an offeror wishes to provide a discount to a consumer for acquiring or
+                             holding multiple products, or the consumer enquires about the availability of
+                             such discounts, the offeror needs to consider whether any products raised in
+                             the context of the discount conversation are within the scope of the
+                             consumer’s consent. If they are not, the offeror will not be able to make an
+                             offer, request, or invitation in respect of those products.
+
+              RG 38.97       Offerors cannot rely on consent that they may have elicited in the course of
+                             explaining the discount as a basis for making offers, requests or invitations
+                             in relation to any additional products. This does not prevent an offeror from
+                             providing information about those products, so long as no offer, request or
+                             invitation in relation to additional products is made, and the consumer is left
+                             to consider whether they wish to recontact the offeror.
+
+                              Example 25: Multi-policy discount
+
+                              Frankie calls an insurance company, Insurance Assistance, to get a quote
+                              for comprehensive car insurance and speaks with an agent, Emma.
+                              After receiving her quote, Frankie tells Emma that she was hoping for
+                              something cheaper and asks about the best price that Insurance
+                              Assistance can offer.
+                              Emma asks if Frankie might be interested in a multi-policy discount and
+                              explains that if Frankie has three eligible Insurance Assistance policies, she
+                              will receive 15% off each policy.
+                              Frankie is interested in the multi-policy discount and provides her email
+                              address.
+                              Emma sends Frankie an email after the phone call that includes information
+                              on comprehensive car insurance, eligible Insurance Assistance policies
+                              and a brochure explaining the multi-policy discount. The email also
+                              includes Emma’s contact details. Frankie ultimately decides only to take out
+                              comprehensive car insurance. Frankie may still be eligible for the multi-
+                              policy discount if she applies for additional products later.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 32
+                                                                        REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                              By only providing Frankie with information, as well as time to consider her
+                              options and the freedom to re-initiate contact, Emma has not breached the
+                              hawking prohibition. If Frankie opts to contact Emma and purchase further
+                              insurance products, this contact would not be ‘because of’ the prior
+                              discussion of the discount.
+
+              RG 38.98       Some products offered may only be obtained together as a bundle, for
+                             example small business insurance packages (where sold to a retail consumer).
+
+              RG 38.99       We note that, in relation to the product design and distribution obligations
+                             (Part 7.8A of the Corporations Act), it is possible for an issuer to prepare a
+                             single target market determination (TMD) for a bundle of products. For
+                             example, as a result of s764(1A) and (1B), home building insurance and
+                             home contents insurance will be two separate products but may have a single
+                             TMD where they are offered as part of bundle.
+
+              RG 38.100      Whether or not bundled products are independently obtainable, or are
+                             contained in a single TMD or separate TMDs, the relevant test remains that the
+                             consumer’s consent must be sufficiently broad as to reasonably apply to each
+                             of the products offered: see paragraph 5.67 of the Explanatory Memorandum.
+                             This means that the consent given by a consumer for the purposes of the
+                             hawking prohibition does not automatically extend to the whole bundle of
+                             products, even where that bundle is dealt with in a single TMD.
+                                   Note: What constitutes a distinct financial product will be for product issuers to
+                                   determine based on the law relevant to their product. More information on bundling in
+                                   the context of product issuers’ design and distribution obligations can be found in
+                                   Regulatory Guide 274 Product design and distribution obligations (RG 274) at
+                                   RG 274.119–RG 274.123.
+
+
+                             Required consent for products with multiple features
+
+              RG 38.101      Some products offered for issue or sale may have multiple material features.
+                             In such cases, the consumer’s consent must cover all of the product’s
+                             features. If a feature of the product is not within the scope of the consumer’s
+                             consent, the consumer must not be offered that product: see Example 26.
+
+                              Example 26: Products with multiple features
+
+                              Niamh meets with Velko, a sales representative at Live Long & Prosper
+                              Investments, and enquires about investment options involving shares.
+                              Velko offers Niamh a range of options, including an investment facility that
+                              provides exposure to both shares and debentures.
+                              On the basis of Niamh’s consent, Velko’s offer would be reasonably within
+                              the scope of the consent and therefore not unsolicited. However, had
+                              Niamh asked about investment options that involved only shares, then the
+                              offer of the facility with exposure to both shares and debentures would not
+                              have been reasonably within the scope of the consent, being excluded on
+                              the basis of the consent provided. An offer in such a context would have
+                              been unsolicited, and a breach of the hawking prohibition.
+
+
+
+© Australian Securities and Investments Commission September 2021                                                 Page 33
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                             Required consent for different classes of superannuation
+                             interests
+
+              RG 38.102      Under s992A(8), each class of beneficial interest in a regulated
+                             superannuation fund is considered to be a separate financial product.
+
+              RG 38.103      This means that when a consumer is offered, or invited or requested to ask or
+                             apply for, a new beneficial interest in a fund in which they already hold a
+                             different beneficial interest, we will consider the contact to have been
+                             unsolicited unless consent was given in relation to the offer or invitation for
+                             that new beneficial interest: see Example 27.
+
+              RG 38.104      If a consumer has consented to a contact about the issue or sale of
+                             superannuation generally, a superannuation trustee can discuss both
+                             MySuper and choice products: see s992A(8) and paragraph 5.69 of the
+                             Explanatory Memorandum.
+
+              RG 38.105      Consumers are unlikely to use terms like ‘MySuper’ or ‘choice product’
+                             when consenting to contact. However, if the consumer’s consent only
+                             reasonably applies to certain products, the trustee cannot make an offer,
+                             request, or invitation in relation to other products: see paragraphs 5.68 and
+                             5.69 of the Explanatory Memorandum.
+
+                              Example 27: Hawking of superannuation products
+
+                              Aparna makes a call to GG Super and is put through to Lili, a customer
+                              service representative.
+                              Aparna tells Lili that she is interested in a ‘simple, low-cost’ superannuation
+                              product. Of the 19 different products that GG Super offers, only two of them
+                              could reasonably be considered simple and low cost: GG MySuper and GG
+                              Growth.
+                              While both products have similarly low administration and investment fees,
+                              the GG Growth (a choice product) has a different investment strategy.
+                              Lili tells Aparna about both products and then asks Aparna if she would like
+                              to complete an application. Aparna agrees and ultimately decides to
+                              purchase the GG Growth offering.
+                              Lili has not breached the hawking prohibition because she only offered
+                              Aparna products that fell within the scope of Aparna’s request. If, however,
+                              Aparna had asked for the ‘default’ or ‘standard’ or ‘most common’
+                              superannuation product, it is likely that Lili would have breached the
+                              hawking prohibition by offering Aparna the GG Growth option, since choice
+                              offerings cannot reasonably be considered default, standard or most
+                              common.
+
+
+              RG 38.106      The hawking prohibition does not prevent a superannuation trustee from
+                             using real-time communication to contact a member who is approaching
+                             retirement with information about different retirement income products,
+                             provided that the trustee does not make an offer, request or invitation to the
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 34
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                             member: see paragraph 5.48 of the Explanatory Memorandum.
+                             Superannuation trustees are also not prevented from making offers, requests
+                             or invitation by letter or email, so long as those are not made as a result of an
+                             unsolicited real-time interaction.
+
+
+                             Required consent for the financing of another financial
+                             product
+
+              RG 38.107      In some instances, a credit product may be offered in order to finance the
+                             consumer to purchase some other financial product. The hawking prohibition
+                             contained in s992A does not apply to credit products (except when they are
+                             also financial products).
+
+
+Method of contact
+
+              RG 38.108      Under s992A(5)(f), if the consent indicated the form of contact that the
+                             consumer wants, the contact must be in that form.
+
+              RG 38.109      Contact through means other than those specified will not be covered by the
+                             consumer’s consent and therefore such contact will be unsolicited. As part of
+                             ensuring that consumer consent is positive and clear, we expect an offeror to
+                             ask or clarify the form or forms of communication that the consumer wishes
+                             to receive.
+
+              RG 38.110      If a consumer wishes to be contacted through a medium not used by the
+                             offeror, the offeror may inform the consumer that they do not communicate
+                             through that medium and advise them of other media used by the offeror.
+                             This advice must not be coercive or use inducement: see RG 38.68. If the
+                             consumer does not consent to those other media, then future contact will be
+                             unsolicited: see Example 28.
+
+                              Example 28: Consumer specifying forms of contact not used by offeror
+
+                              Zara starts an online chat with a customer service representative at her
+                              bank about the company’s investment-related product offerings. During the
+                              chat, Zara asks to be contacted about Exchange Traded Funds (ETFs)
+                              through a particular messaging app.
+                              If the bank uses that app, then future contacts through this medium over
+                              the next six weeks about ETFs would not be unsolicited.
+                              However, if the bank does not use the particular app as a means of official
+                              communication, it could instead advise Zara that its only outbound form of
+                              real-time communication is through a telephone call. If Zara agrees to
+                              receive the telephone call, then the subsequent telephone call would not be
+                              unsolicited.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 35
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+Tracking consumer consent
+
+              RG 38.111      Under s992A(5)(g), an offeror may only rely on the consent provided by a
+                             consumer for the six-week period after the consent is given. If there is a need
+                             for a medical examination before a product is issued or sold, the consumer
+                             may agree to a longer period of consent not exceeding 12 weeks.
+
+              RG 38.112      These set time periods balance the need to allow adequate time to discuss a
+                             financial product and reach an agreement for its sale or issue, against the need
+                             to protect consumers from being contacted about products when they are no
+                             longer front of mind: see paragraph 5.89 of the Explanatory Memorandum.
+
+              RG 38.113      A consumer cannot consent to the time period being extended but can
+                             provide a new consent to be contacted. In this case, the new consent must
+                             meet all of the criteria of the original consent in order to be valid: see
+                             paragraph 5.90 of the Explanatory Memorandum.
+
+              RG 38.114      Some business models or practices involve offerors maintaining regular or
+                             ongoing contact with consumers, including to make proactive offers of
+                             products or services tailored to the consumer (for example relationship
+                             managers and insurance brokers). The time limits imposed by s992A(5)(g)
+                             apply equally to these roles.
+
+
+                             Variation or withdrawal of consumer consent
+
+              RG 38.115      Under s992A(6), a consumer may vary or withdraw consent at any time
+                             leading up to or during a meeting, telephone call or other interaction. The
+                             variation or withdrawal may take any form, regardless of the form of
+                             consent: see also paragraph 5.84 of the Explanatory Memorandum.
+
+              RG 38.116      Any communication to the offeror or its representative that expresses a clear
+                             intention to vary or withdraw consent should be sufficient. Offerors must comply
+                             with the variation or withdrawal of consent when the identity of the person
+                             seeking the withdrawal or variation is reasonably ascertainable: see Example 29.
+
+              RG 38.117      Where a person or entity has obtained consumer consent on behalf of an
+                             offeror, as a matter of best practice, that person or entity should make
+                             available a process or system by which consumers can readily withdraw their
+                             consent to be contacted by offerors.
+
+                              Example 29: Communicating withdrawal of consent
+
+                              Zhang contacts his superannuation fund, Big Super, by phone to ask about
+                              their products. He gives consent to Aisha who works at Big Super to
+                              contact him.
+
+                              Zhang later withdraws this consent by email using an email address that is
+                              linked to his member account with Big Super. In the email, he states that he
+                              does not want to be contacted. Aisha is able to identify that Zhang is
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 36
+                                                                         REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                              withdrawing the consent, despite the withdrawal being made in a different
+                              form to the form in which the consent was originally given. Big Super can
+                              therefore accept Zhang’s withdrawal of consent.
+
+                              If Zhang used a social media app (where his username did not assist in
+                              clearly identifying him) to post on Big Super’s social media page that he did
+                              not want to be contacted, it may be difficult for Big Super to match the
+                              withdrawal to the original consent.
+
+                              We would expect that Big Super would take reasonable steps in the
+                              circumstances to ascertain the poster’s identity. This could include replying
+                              to the post and providing an alternative method of communication by which
+                              the consumer could provide the necessary information for Big Super to
+                              identify the consumer and match the withdrawal to the original consent.
+
+                              If Zhang does not respond or his identity cannot otherwise reasonably be
+                              ascertained, it may not be possible for Big Super to determine that it is no
+                              longer able to rely on Zhang’s consent.
+
+              RG 38.118      Once withdrawn or materially varied, the offeror can no longer rely on the
+                             original consent to contact the consumer: see Example 30.
+
+                              Example 30: Varying consent
+
+                              Prue fills out an online form on Harmony Insurance’s website requesting a
+                              phone call to discuss life insurance. The following day, a Harmony
+                              Insurance sales representative calls Prue to discuss their range of
+                              products. The sales representative offers to provide a quote, but Prue
+                              declines, telling the sales representative that she is no longer interested in
+                              receiving calls, but is happy to receive offers by email. A few days later,
+                              another sales representative makes a follow-up phone call to Prue to see if
+                              she has changed her mind and offers to sell her life insurance.
+
+                              Harmony Insurance should not contact Prue via telephone after she has
+                              withdrawn her consent to be contacted by this means. Harmony Insurance
+                              should ensure the withdrawal is recorded by the sales representative. Harmony
+                              Insurance may contact Prue via email as she indicated on the phone call.
+
+              RG 38.119      A variation does not restart the six-week consent period unless it amounts to
+                             a new consent.
+
+              RG 38.120      An offeror should not rely on consent if it becomes evident during the
+                             contact that the ongoing consent relied on is no longer positive, voluntary
+                             and clear. For example, the offeror should cease contact and no longer rely
+                             on the consent if it becomes evident that a consumer:
+                             (a)   has no recollection of providing consent;
+                             (b)   alleges that they did not provide consent; or
+                             (c)   expected the contact to be about a different type of product or a
+                                   different topic.
+
+                                   Note: The contact should cease on the basis that the consent has been, in effect,
+                                   withdrawn: see paragraphs 5.85 and 5.86 of the Explanatory Memorandum.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                                      Page 37
+                                                                       REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+              RG 38.121      When a consumer has sought to vary their consent, an offeror may wish to
+                             confirm that the consumer’s consent, as varied, remains positive, voluntary
+                             and clear prior to relying on it.
+
+
+                             Keeping records of consumer consent
+
+              RG 38.122      We expect that in practice, to comply with the hawking prohibition an
+                             offeror will need to keep records, including information regarding when, in
+                             what form, and to what extent an offeror has received consent from a
+                             consumer to contact them about the issue or sale of products. This will be
+                             true regardless of whether or not the contact was initiated by the offeror.
+
+              RG 38.123      Given that consumers can withdraw or vary their consent at any time, the
+                             maintenance of records will be necessary for offerors to demonstrate
+                             compliance with the hawking prohibition. We expect offerors to check their
+                             records where there is doubt as to whether a consent is in place, or has been
+                             withdrawn or varied: see paragraph 5.86 of the Explanatory Memorandum.
+
+              RG 38.124      Examples of records offerors may need to keep include:
+                             (a)   the date on which the consent was obtained;
+                             (b)   the methods of contact allowed by the consent;
+                             (c)   the product or range of products within the scope of the consent;
+                             (d)   the circumstances in which the consent was obtained—for example, by
+                                   what means the consent was obtained and any information provided to
+                                   the consumer before they gave their consent;
+                             (e)   any variations to the consent made by the consumer, and the
+                                   circumstances and date of the variations;
+                             (f)   any withdrawals of consent, and the date of the withdrawals;
+                             (g)   any communication made with the consumer before the consent; and
+                             (h)   any products issued or sold to the consumer during or in the course of
+                                   any communication pursuant to their consent.
+
+                                   Note: For AFS licensees, these records would form part of the risk management systems
+                                   and compliance arrangements required by s912A. For more information on AFS
+                                   licensee obligations, see Regulatory Guide 104 AFS licensing: Meeting the general
+                                   obligations (RG 104).
+
+              RG 38.125      How long these records may need to be kept will vary depending on factors
+                             such as the product term. Offerors should use their judgement to consider the
+                             nature of the product and determine whether documents should be kept for a
+                             longer period. If an offeror keeps records only for a short period of time,
+                             they may place themselves at risk of being unable to demonstrate
+                             compliance with their obligations.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                               Page 38
+                                                                       REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+E          Consequences of breaching the hawking
+           prohibition
+
+                              Key points
+
+                              A breach of the hawking prohibition is a strict liability offence. The
+                              maximum applicable penalty for a breach is:
+                              • in the case of an individual, 60 penalty units or six months imprisonment
+                                (or both); or
+                              • in the case of a body corporate, 600 penalty units (see RG 38.127–
+                                RG 38.128).
+
+                              If an offeror breaches the prohibition, a consumer has the right to return the
+                              product that was acquired and receive a refund.
+
+                              The way in which a product may be returned and refunded will depend on
+                              the type of financial product. However, in each case, the aim will be to
+                              compensate the consumer for amounts they paid in the acquisition and
+                              maintenance of the product: see RG 38.129–RG 38.147.
+
+
+
+
+Conduct that breaches the hawking prohibition
+              RG 38.126      An offeror breaches the hawking prohibition if:
+                             (a)   the offeror makes an offer of, or request or invitation to apply for a
+                                   financial product;
+                             (b)   the offer is made in the course of, or because of, contact with a
+                                   consumer;
+                             (c)   the contact is a telephone call, meeting, or any other real-time
+                                   interaction in the nature of a conversation or discussion; and
+                             (d)   the contact is made in the absence of a valid consumer consent.
+
+                                   Note: For general guidance on our approach to the meaning of ‘because of’, see
+                                   RG 38.48–RG 38.56. For the meaning of ‘unsolicited’, see RG 38.57–RG 38.62.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                               Page 39
+                                                                         REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+General consequences of a breach
+
+              RG 38.127      Under s992A(1) and (9), a breach of the hawking prohibition is a criminal
+                             offence, and one of strict liability. The maximum penalties are:
+                             (a)   for an individual:
+                                   (i)     a fine of 60 penalty units;
+                                   (ii)    six months imprisonment; or
+                                   (iii)   both; and
+                             (b)   for a body corporate, 600 penalty units.
+
+                                   Note: See www.asic.gov.au/penalties for more information about penalties, including
+                                   the value of a penalty unit.
+
+              RG 38.128      When a breach occurs, the affected consumer may also have a right to:
+                             (a)   return the product (see s992AA); or
+                             (b)   undertake civil proceedings against the offeror (see s1324).
+
+
+
+Return of a product
+
+              RG 38.129      Under s992AA, if the hawking prohibition has been breached, a consumer
+                             has a right to return any financial product issued or sold to them and to
+                             receive a refund.
+
+              RG 38.130      We consider it good practice for offerors to include information about the
+                             right of return in their communication with consumers.
+
+              RG 38.131      It may be difficult for a consumer to identify that they have been sold or
+                             issued a product in breach of the hawking prohibition. Where a consumer
+                             makes contact to return a product, the offeror should consult their records to
+                             ascertain whether or not any offer, request or invitation was made subject to
+                             a valid consent.
+
+
+                             When the product may be returned
+
+              RG 38.132      Under s992AA(1)(b), a consumer may exercise the right of return within one
+                             month and 14 days from the date that the product was issued or sold.
+
+              RG 38.133      However, where a statutory cooling-off period applies to a product under
+                             s1019B, then under s992AA(1)(a), the consumer can return the product and
+                             obtain a refund within one month after the expiry of the cooling-off period.
+
+              RG 38.134      The right of return does not apply to all financial products subject to the
+                             hawking prohibition: see regulation 7.8.24.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                                Page 40
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                             Effect of returning a product
+
+              RG 38.135      Under s992AA(2), if a financial product is returned because it was sold or
+                             issued in breach of the hawking prohibition, any legal relationship between
+                             the consumer and the issuer for that financial product will be terminated with
+                             effect from the time of return without penalty to the consumer. This does not
+                             affect any legal relationship the consumer may have with the same offeror
+                             for other products.
+
+              RG 38.136      Under s992AA(5), where a consumer exercises their right of return, and an
+                             offeror accepts the return and issues a refund, a penalty may still apply for
+                             the breach of the hawking prohibition.
+
+
+                             Consumer contact to return products
+
+              RG 38.137      Contact by a consumer to return a product may also give rise to obligations
+                             under internal dispute resolution systems that AFS licensees are required to
+                             have under s912A. This is because that contact will likely constitute a
+                             ‘complaint’ because the consumer expresses dissatisfaction with the
+                             financial product and expects a response from the financial product issuer:
+                             see Regulatory Guide 271 Internal dispute resolution (RG 271).
+
+              RG 38.138      If a consumer seeks to return a product after the expiration of the statutory
+                             period under s992AA, the product issuer may still have obligations under
+                             their internal dispute resolution processes in respect of the handling of that
+                             contact with the consumer: see s912A and RG 271.
+
+
+
+Refunds to consumers
+
+                             Statutory refund
+
+              RG 38.139      Where a consumer returns a product under s992AA, the issuer must provide
+                             the consumer with a refund of any amounts paid for the financial product:
+                             see paragraph 5.96 of the Explanatory Memorandum. Different
+                             considerations might affect how this is done, depending on the product.
+
+              RG 38.140      We expect, consistent with offerors’ approaches more broadly to
+                             remediation, that refunds made under s992AA are made in a timely manner.
+
+                             Products with an investment component
+
+              RG 38.141      For products involving invested funds, such as superannuation accounts or
+                             interests in managed investment schemes, the amount to be refunded is the
+                             amount of initial and subsequent contributions or investments made into the
+                             account (excluding any withdrawals or distributions): see reg 7.8.25 of the
+                             Corporations Regulations. Offerors of such products will be responsible for
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 41
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                             any shortfall that accrues during the refund period because of a reduction in
+                             the value of the interest.
+
+              RG 38.142      As set out in reg 7.8.23 of the Corporations Regulations, in order to exercise
+                             the right of return for a superannuation or retirement savings account, the
+                             consumer must nominate a superannuation fund, approved deposit fund or
+                             retirement savings account into which the refund money is to be paid if the
+                             money includes restricted non-preserved benefits or preserved benefits. This
+                             means that, in most cases, the consumer must hold or open another
+                             superannuation account into which the refund can be paid before the
+                             consumer can exercise their right of return. The refund may be paid into the
+                             previous superannuation fund if the member still has an account and the
+                             member nominates it. The refund may also be paid into another product in
+                             the offeror’s fund if the consumer nominates that product.
+
+                             Banking products
+
+              RG 38.143      For banking products, the refund should include any amounts deposited, and
+                             any fees charged by the offeror for that account for its establishment or
+                             maintenance.
+
+                             Insurance products
+
+              RG 38.144      For insurance products, the consumer’s right to a refund entitles them to a
+                             refund of all premiums paid.
+
+                             Market-based products
+
+              RG 38.145      In the case of markets-based products, including but not limited to securities
+                             or derivatives, the consumer’s right of refund entitles them to have repaid the
+                             amount initially paid for the product. Offerors of such products will be
+                             responsible for any shortfall that accrues between the date of acquisition and
+                             date of refund.
+
+
+                             Other remediation obligations
+
+              RG 38.146      The obligation to provide consumer refunds under s992AA must be
+                             considered in the context of offerors’ broader legal and equitable obligations
+                             to remediate. For example, all AFS licensees have an obligation to ensure
+                             that their financial services are provided efficiently, honestly, and fairly: see
+                             s912A(1)(a). Complying with this obligation includes AFS licensees taking
+                             responsibility for the consequences of their actions if things go wrong when
+                             financial products are sold or issued and consumers suffer loss or detriment.
+                             This may mean that AFS licensees have to remediate consumers who have
+                             suffered loss or detriment as a result of a breach of the hawking prohibition
+                             beyond merely refunding any amounts paid.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 42
+                                                                     REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+              RG 38.147      In addition, where an offeror identifies that a breach of the hawking
+                             prohibition has occurred with respect to one consumer, we expect the offeror
+                             to consider whether there may be further breaches relating to the same or
+                             similar conduct or compliance failure.
+
+                                   Note: See Regulatory Guide 277 Consumer remediation (RG 277).
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                        Page 43
+                                                                     REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+Appendix: Products exempt from the hawking
+provision as a result of ASIC legislative instrument
+or class order
+
+Table 1 below sets out all products currently exempt by legislative instruments and class orders in
+force under the hawking regime.
+
+Table 1:    Financial products exempt from the hawking prohibition
+
+ Financial product or entity                           Legislative instrument
+
+ Investor directed portfolio service (IDPS)            ASIC Corporations (Investor Directed Portfolio Services)
+                                                       Instrument 2023/669
+
+ IDPS-like schemes                                     ASIC Corporations (Investor Directed Portfolio Services
+                                                       Provided Through a Registered Managed Investment
+                                                       Scheme) Instrument 2023/668
+
+ Conditional cost schemes                              ASIC Corporations (Conditional Costs Schemes) Instrument
+                                                       2020/38
+
+ Employee incentive schemes                            Class Order [CO 14/1001] Employee incentive schemes:
+                                                       Unlisted bodies
+
+                                                       Class Order [CO 14/1000] Employee incentive schemes:
+                                                       Listed bodies
+                                                         Note: See also Regulatory Guide 49 Employee incentive
+                                                         schemes (RG 49).
+
+ Employee redundancy schemes                           ASIC Corporations (Employee Redundancy Funds Relief)
+                                                       Instrument 2015/1150
+
+ Low value non-cash payment facilities, gift           ASIC Corporations (Non-cash Payment Facilities)
+ facilities, prepaid mobile facilities                 Instrument 2016/211
+
+ Private horse breeding schemes                        ASIC Corporations (Horse Schemes) Instrument 2016/790
+
+ School enrolment deposit schemes and school           ASIC Corporations (School Enrolment Deposits) Instrument
+ enrolment debentures                                  2016/812
+
+ Charitable investment fundraisers                     ASIC Corporations (Charitable Investment Fundraising)
+                                                       Instrument 2016/813
+
+ Serviced apartment and like schemes                   ASIC Corporations (Serviced Apartment and Like Schemes)
+                                                       Instrument 2016/869
+
+ Property rental schemes                               ASIC Corporations (Property Rental Schemes) Instrument
+                                                       2016/870
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                                Page 44
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+ Financial product or entity                           Legislative instrument
+
+ Managed discretionary account (MDA) providers         ASIC Corporations (Managed Discretionary Account
+ and external MDA custodians                           Services) Instrument 2016/968
+ Securities that if acquired would become client
+ portfolio assets in relation to MDA services
+ provided by a person that was and remains an
+ MDA provider
+
+ Market participants who provide MDA services to
+ family members only
+
+ Managed investment schemes: Interests not for         ASIC Corporations (Managed Investment Schemes:
+ money                                                 Interests Not For Money) Instrument 2016/1107
+
+ Factoring arrangements                                ASIC Corporations (Factoring Arrangements) Instrument
+                                                       2017/794
+
+ Mortgage investment schemes with no more than         ASIC Corporations (Mortgage Investment Schemes)
+ 20 investors                                          Instrument 2017/857
+
+ Nominee and custody services                          ASIC Corporations (Nominee and Custody Services)
+                                                       Instrument 2016/1156
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                         Page 45
+                                                                       REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+Key terms
+
+
+                              Term                      Meaning in this document
+
+                              AFS licensee              A person who holds an Australian financial services
+                                                        licence under s913B of the Corporations Act
+
+                              ASIC                      Australian Securities and Investments Commission
+
+                              ASIC Act                  Australian Securities and Investments Commission Act
+                                                        2001
+
+                              consumer                  An existing, potential, or prospective retail client
+
+                              Corporations Act          Corporations Act 2001
+
+                              Corporations              Corporations Regulations 2001
+                              Regulations
+
+                              Explanatory               Explanatory Memorandum to the Financial Sector Reform
+                              Memorandum                (Hayne Royal Commission Response) Bill 2020
+
+                              financial product         A facility through which, or through the acquisition of
+                                                        which, a person does one or more of the following:
+                                                         makes a financial investment (see s763B);
+                                                         manages financial risk (see s763C); or
+                                                         makes non-cash payments (see s763D)
+                                                          Note: This is a definition contained in s763A of the
+                                                          Corporations Act (see also s763B–765A).
+
+                              Financial Services        Royal Commission into Misconduct in the Banking,
+                              Royal Commission          Superannuation and Financial Services Industry
+
+                              life insurance            A life risk insurance product as described in s764A(1)(e)
+                                                        of the Corporations Act
+
+                              managed investment        Has the meaning given in s9 of the Corporations Act
+                              scheme
+
+                              offer                     An offer of a financial product for sale or issue
+
+                              offeror                   A person who offers, issues, or sells a financial product or
+                                                        who invites or requests applications in relation to a
+                                                        financial product
+
+                              PDS                       A Product Disclosure Statement—a document that must
+                                                        be given to a retail client for the offer or issue of a
+                                                        financial product in accordance with Div 2 of Pt 7.9 of the
+                                                        Corporations Act
+                                                          Note: See s9 for the exact definition.
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                                Page 46
+                                                                       REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                              Term                      Meaning in this document
+
+                              personal advice           Financial product advice given or directed to a person
+                                                        (including by electronic means) in circumstances where:
+                                                         the person giving the advice has considered one or more
+                                                          of the person’s objectives, financial situation and needs; or
+                                                         a reasonable person might expect the person giving the
+                                                          advice to have considered one or more of these
+                                                          matters
+                                                          Note: This is a definition in s766B(3) of the Corporations Act.
+
+                              Pt 7.9 (for example)      A part of the Corporations Act (in this example numbered
+                                                        7.9), unless otherwise specified
+
+                              reg 7.8.21A (for          A regulation of the Corporations Regulations (in this
+                              example)                  example numbered 7.8.22A), unless otherwise specified
+
+                              representative            Means:
+                                                         an authorised representative of the licensee;
+                                                         an employee or director of the licensee;
+                                                         an employee or director of a related body corporate of
+                                                          the licensee; or
+                                                         any other person acting on behalf of the licensee
+                                                          Note: This is a definition in s9 of the Corporations Act.
+
+                              retail client             A client as defined in s761G and 761GA of the
+                                                        Corporations Act and Div 2 of Pt 7.1 of the Corporations
+                                                        Regulations
+
+                              RG 36 (for example)       An ASIC regulatory guide (in this example numbered 36)
+
+                              right of return           A consumer remedy that is available under s992AA of the
+                                                        Corporations Act that enables a consumer to return a
+                                                        product and receive a refund if the hawking prohibition is
+                                                        breached
+
+                              RIS                       Regulation Impact Statement
+
+                              s992A (for example)       A section of the Corporations Act (in this example
+                                                        numbered 992A), unless otherwise specified
+
+                              SIS Act                   Superannuation Industry (Supervision) Act 1993
+
+                              superannuation            A body corporate or group of individual trustees licenced
+                              trustee                   by APRA under s29D of the SIS Act to operate a
+                                                        registrable superannuation entity (e.g. superannuation
+                                                        fund)
+
+                              unsolicited contact       Contact between a consumer and an offeror that takes
+                                                        the form described by s992A(4)
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                                     Page 47
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             financial products, harassment or coercion, hawking, insurance, managed
+                             investment schemes, misleading or deceptive conduct, Product Disclosure
+                             Statement, right of return, securities, superannuation, unsolicited contact
+
+
+                             Regulatory guides
+
+                             RG 36 Licensing: Financial product advice and dealing
+
+                             RG 49 Employee incentive schemes
+
+                             RG 104 AFS licensing: Meeting the general obligations
+
+                             RG 175 Licensing: Financial product advisers—Conduct and disclosure
+
+                             RG 234 Advertising financial products and services (including credit): Good
+                             practice guidance
+
+                             RG 254 Offering securities under a disclosure document
+
+                             RG 271 Internal dispute resolution
+
+                             RG 274 Product design and distribution obligations
+
+                             RG 275 The deferred sales model for add-on insurance
+
+                             RG 277 Consumer remediation
+
+
+                             Legislative instruments
+
+                             ASIC Corporations (Employee Redundancy Funds Relief) Instrument
+                             2015/1150
+
+                             ASIC Corporations (Non-cash Payment Facilities) Instrument 2016/211
+
+                             ASIC Corporations (Horse Schemes) Instrument 2016/790
+
+                             ASIC Corporations (School Enrolment Deposits) Instrument 2016/812
+
+                             ASIC Corporations (Charitable Investment Fundraising) Instrument
+                             2016/813
+
+                             ASIC Corporations (Serviced Apartment and Like Schemes) Instrument
+                             2016/869
+
+                             ASIC Corporations (Property Rental Schemes) Instrument 2016/870
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 48
+                                                                    REGULATORY GUIDE 38: The hawking prohibition
+
+
+
+
+                             ASIC Corporations (Managed Discretionary Account Services) Instrument
+                             2016/968
+
+                             ASIC Corporations (Managed Investment Schemes: Interests Not For
+                             Money) Instrument 2016/1107
+
+                             ASIC Corporations (Nominee and Custody Services) Instrument 2016/1156
+
+                             ASIC Corporations (Factoring Arrangements) Instrument 2017/794
+
+                             ASIC Corporations (Mortgage Investment Schemes) Instrument 2017/857
+
+                             ASIC Corporations (Conditional Costs Schemes) Instrument 2020/38
+
+                             ASIC Corporations, Credit and Superannuation (Internal Dispute
+                             Resolution) Instrument 2020/98
+
+                             ASIC Corporations (Investor Directed Portfolio Services Provided Through
+                             a Registered Managed Investment Scheme) Instrument 2023/668
+
+                             ASIC Corporations (Investor Directed Portfolio Services) Instrument
+                             2023/669
+
+                             Class Order [CO 14/1000] Employee incentive schemes: Listed bodies
+
+                             Class Order [CO 14/1001] Employee incentive schemes: Unlisted bodies
+
+
+                             Legislation
+
+                             Australian Securities and Investments Commission Act 2001, s12CA–12CC,
+                             12DA–12DB, 12DJ
+
+                             Corporations Act 2001, Pts 7.8A and 7.9, s734, 912A, 991A, 992A, 992AA,
+                             1019B, 1012I, 1018A, 1041E–1041H, 1324
+
+                             Corporations Regulations 2001, Pt 7.1, regs 7.8.21A, 7.8.23, 7.8.25, 7.8.26
+
+                             Superannuation Industry (Supervision) Act 1993, s68A
+
+                             Superannuation Industry (Supervision) Regulations 1994
+
+
+
+
+© Australian Securities and Investments Commission September 2021                                       Page 49
+

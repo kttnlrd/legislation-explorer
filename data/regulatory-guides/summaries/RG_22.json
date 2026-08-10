@@ -1,0 +1,8 @@
+{
+  "error": "JSON parse failed",
+  "raw": "{\n  \"citation\": \"RG 22\",\n  \"title\": \"Directors' solvency declaration\",\n  \"type\": \"ASIC Regulatory Guide\",\n  \"status\": \"Final\",\n  \"subject\": \"This guide explains the requirements for the directors' solvency declaration under s295(4)(c) and s303(4)(c) of the Corporations Act, outlines the obligations ",
+  "citation": "RG 22",
+  "title": "Directors Solvency Declaration",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final"
+}

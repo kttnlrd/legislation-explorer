@@ -1,0 +1,48 @@
+{
+  "citation": "RG 128",
+  "title": "Collective action by investors",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide provides guidance to investors who wish to cooperate with each other in relation to their investment in a listed company or managed investment scheme. It addresses when collective action may lead to investors becoming associates or entering into a relevant agreement under the takeover and substantial holding provisions of the Corporations Act 2001.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth) to promote investor engagement on corporate governance issues while balancing the risk of inappropriate acquisition of control. It is intended for investors considering collective action and explains ASIC's interpretation of the law regarding associations and relevant agreements.",
+  "ruling": "ASIC states that investors can engage in collective action without triggering the takeover or substantial holding provisions if they do not become 'associates' or enter into a 'relevant agreement' as defined in the Corporations Act. The guide identifies specific circumstances where acting together may create an association, such as when investors coordinate voting or share acquisition strategies. ASIC emphasizes that the purpose and effect of the cooperation are key factors in determining whether the provisions apply. It provides examples of permissible conduct, such as discussing corporate governance issues without agreeing to vote in a particular way, and prohibited conduct, such as entering into formal voting agreements that give one investor control over another's voting rights. The guide also clarifies that mere communication of views or sharing of information does not automatically create an association.",
+  "date_of_effect": "2015-06-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 9",
+    "Corporations Act 2001 (Cth) s 12(2)",
+    "Corporations Act 2001 (Cth) s 16",
+    "Corporations Act 2001 (Cth) s 53",
+    "Corporations Act 2001 (Cth) s 64",
+    "Corporations Act 2001 (Cth) s 181(1)",
+    "Corporations Act 2001 (Cth) s 249D",
+    "Corporations Act 2001 (Cth) s 249N",
+    "Corporations Act 2001 (Cth) s 252B",
+    "Corporations Act 2001 (Cth) s 252L",
+    "Corporations Act 2001 (Cth) s 601FC(1)(c)",
+    "Corporations Act 2001 (Cth) s 601FD(1)(c)",
+    "Corporations Act 2001 (Cth) s 602",
+    "Corporations Act 2001 (Cth) s 606",
+    "Corporations Act 2001 (Cth) s 608",
+    "Corporations Act 2001 (Cth) s 609(5)",
+    "Corporations Act 2001 (Cth) s 609(6)",
+    "Corporations Act 2001 (Cth) s 609(7)",
+    "Corporations Act 2001 (Cth) s 611",
+    "Corporations Act 2001 (Cth) s 657A",
+    "Corporations Act 2001 (Cth) s 671B",
+    "Corporations Act 2001 (Cth) s 1041H",
+    "Corporations Act 2001 (Cth) s 1042A",
+    "Corporations Act 2001 (Cth) s 1043A",
+    "Corporations Act 2001 (Cth) s 1043H–1043J",
+    "Australian Securities and Investments Commission Act 2001 (Cth) s 12DA"
+  ],
+  "cases_referenced": [
+    "Advance Bank v FAI [1987] 9 NSWLR 464",
+    "Whitehouse v Carlton Hotel Pty Ltd (1987) 162 CLR 285"
+  ],
+  "related_rulings": [
+    "RG 5",
+    "RG 9",
+    "RG 25",
+    "REP 393"
+  ]
+}

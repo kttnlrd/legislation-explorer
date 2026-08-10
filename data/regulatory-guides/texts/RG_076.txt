@@ -1,0 +1,2200 @@
+REGULATORY GUIDE 76
+
+Related party transactions
+
+March 2011
+
+
+
+
+About this guide
+This guide sets out our guidance to promote better disclosure and
+governance for related party transactions. It is designed for public
+companies, responsible entities of registered managed investment schemes,
+experts, public company directors and their professional advisers.
+                                                                  REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in March 2011 and is based on legislation and
+                             regulations as at the date of issue. On 27 July 2020, we updated the process
+                             for submitting an application for relief in RG 76.52 and lodging meeting
+                             materials in RG 76.116. We also updated the references to the regulatory
+                             guides in RG 76.150.
+
+                             Previous versions:
+                                    Superseded Policy Statement 76, issued December 1993, updated
+                                     January 1994, January 1995 and March 1997, and rebadged as a
+                                     regulatory guide 5 July 2007
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                             Page 2
+                                                                              REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+Contents
+                             A      Overview ........................................................................................... 4
+                                    What this guide is about .................................................................... 4
+                                    Purpose of this guide ......................................................................... 5
+                                    Overview of legal framework for related party transactions .............. 6
+                                    Application of this guide ..................................................................... 7
+                             B      Directors’ meetings—voting restrictions ...................................... 8
+                                    Restrictions on voting—section 195 .................................................. 8
+                                    Quorum of directors ........................................................................... 9
+                                    Material personal interest ................................................................ 10
+                                    ASIC’s relief powers ........................................................................ 11
+                                    Content of applications and relief .................................................... 12
+                                    Other obligations .............................................................................. 14
+                             C      The ‘arm’s length’ exception ........................................................ 15
+                                    The s210 exception and the meaning of ‘arm’s length’ ................... 15
+                                    Relevant factors to consider when applying the s210 exception..... 17
+                                    Seeking member approval when there is uncertainty ..................... 21
+                             D      Member approval process ............................................................ 22
+                                    Content of explanatory statements .................................................. 22
+                                    Expert reports .................................................................................. 27
+                                    ASIC’s review of meeting materials ................................................. 29
+                                    Voting exclusions for resolutions at members’ meetings ................ 31
+                                    ASIC’s relief powers ........................................................................ 31
+                             E      Disclosure documents .................................................................. 33
+                                    Disclosure to investors about related party transactions ................. 33
+                             Key terms ............................................................................................... 37
+                             Related information ............................................................................... 39
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                                         Page 3
+                                                                REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               There is a risk that the interests of a related party may influence the
+                               decision-making of directors to the detriment of the interests of members of
+                               the entity as a whole when an entity is considering whether to enter into a
+                               transaction with a related party.
+
+                               Together with the provisions about directors’ duties, the Corporations Act
+                               2001 (Corporations Act) imposes a number of protections to help manage
+                               this risk, including:
+                               • Div 2 of Pt 2D.1, which excludes directors of public companies with
+                                 material personal interests in certain matters attending director meetings
+                                 about, or voting on, these matters; and
+                               • Ch 2E and Pt 5C.7, which require public companies and responsible
+                                 entities of registered managed investment schemes to obtain member
+                                 approval to provide a financial benefit to a related party, subject to
+                                 certain exceptions.
+
+                               This guide provides guidance for public companies and registered
+                               managed investment schemes (registered schemes) on the application of
+                               the Corporations Act and ASIC’s expectations in relation to various aspects
+                               of related party transactions. These include the decision to enter into a
+                               related party transaction, whether to seek member approval, and what
+                               information to include in meeting materials for the approval of related party
+                               transactions and other disclosure documents.
+
+
+
+
+What this guide is about
+              RG 76.1        A ‘related party transaction’ is any transaction through which a public
+                             company or registered managed investment scheme provides a financial
+                             benefit to a related party (such as a director, their spouse and certain other
+                             relatives). Almost by definition, related party transactions involve conflicts
+                             of interest because related parties are often in a position to influence the
+                             decision of whether the benefit is provided to them, and the terms of its
+                             provision.
+
+              RG 76.2        This regulatory guide covers the matters set out in Table 1.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                           Page 4
+                                                                      REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+Table 1:    Summary of our guidance on related party transactions
+
+ What decision is being made        What our guidance covers                                         Where to find it
+
+ Whether to enter into a related    Voting restrictions for directors at directors’ meetings and     Section B
+ party transaction                  when we may give relief from these restrictions
+                                      Note: This guidance applies when a director has an interest
+                                      in the matter being considered at the meeting, regardless of
+                                      whether the matter is a related party transaction.
+
+ Whether to seek member             The ‘arm’s length’ exception in s210, including factors to       Section C
+ approval                           consider when applying this exception
+
+ What to include in notices of      The requirements of s218 and 219, the focus of our               Section D
+ meeting and explanatory            review of meeting materials and the exercise of our
+ statements (meeting materials)     powers to shorten the 14-day review period or issue
+ if member approval is sought       comments on the meeting materials
+
+ Which votes to count at a          Voting exclusions for related parties at members’                Section D
+ members’ meeting                   meetings and when we may give relief from the relevant
+                                    provisions
+
+ What to include about related      The content of other disclosures to investors (including         Section E
+ party transactions in other        prospectuses, Product Disclosure Statements (PDSs)
+ disclosures                        and takeover documents)
+
+
+
+
+Purpose of this guide
+              RG 76.3        This guide aims to encourage transparency and best practice in the market,
+                             with a view to facilitating informed member decisions. It sets out our views
+                             about the type of information that is material to member decisions.
+
+              RG 76.4        In relation to disclosure about related party transactions, we seek to promote
+                             informed decision-making by:
+                             (a)   members of public companies and registered schemes, when deciding
+                                   how to vote on proposed related party transactions; and
+                             (b)   investors considering a new or changed level of investment in entities
+                                   that have established and ongoing arrangements with related parties.
+
+              RG 76.5        This guide is also intended to promote consistent market practice for the
+                             application of the arm’s length exception from the requirement to seek
+                             member approval under Ch 2E.
+
+              RG 76.6        In addition, we clarify in this guide some of our expectations in relation to
+                             the procedures under the Corporations Act for directors’ meetings and
+                             members’ meetings. This guide is intended to provide useful information to
+                             persons who might wish to request that we exercise our relief powers
+                             concerning material personal interests of directors and member approval of
+                             related party transactions.
+
+
+
+© Australian Securities and Investments Commission March 2011                                                    Page 5
+                                                                  REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+Overview of legal framework for related party transactions
+              RG 76.7        The objective of the related party provisions in Ch 2E and Pt 5C.7 is to
+                             protect the interests of members of public companies and registered schemes
+                             by requiring member approval for giving financial benefits that could
+                             endanger members’ interests: s207 and 601LB.
+
+                             Member approval
+
+              RG 76.8        Under s208, for a public company or an entity it controls to give a financial
+                             benefit to a related party of the public company:
+                             (a)   the company’s members must approve the transaction in the way set out
+                                   in s217–227; or
+                             (b)   giving the financial benefit must fall within an exception set out in
+                                   s210–216.
+
+              RG 76.9        Directors of companies also have statutory duties (s180–184) and common
+                             law duties. These duties apply regardless of whether a transaction receives
+                             member approval in accordance with the Corporations Act (s230).
+
+              RG 76.10       Similar restrictions apply when a registered scheme provides a financial
+                             benefit to a related party. Part 5C.7 applies the related party provisions in
+                             Ch 2E to registered schemes, subject to some modifications to take into
+                             account the different features of registered schemes.
+
+              RG 76.11       Section 601LC modifies s208 so that member approval in accordance with
+                             s217–227 is required if an exception in s210–212, 215 or 216 does not apply,
+                             where:
+                             (a)   the benefit is given by any of the responsible entity, an entity it controls,
+                                   its agent or a person it engages;
+                             (b)   the benefit is given out of scheme property or could endanger scheme
+                                   property; and
+                             (c)   the benefit is given to any of the responsible entity, an entity it controls,
+                                   its agent or a person it engages, or a related party of any of those persons.
+
+              RG 76.12       This is in addition to the responsible entities’ obligations to act in the best
+                             interests of members: s601FC(1)(c).
+
+                             Exceptions
+              RG 76.13       Member approval is generally not required for:
+                             (a)   transactions that are on arm’s length terms (s210);
+                             (b)   benefits that are reasonable remuneration or reimbursement of officers’
+                                   and employees’ expenses (s211); and
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                              Page 6
+                                                                     REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             (c)   certain other transactions (s212–215) or financial benefits given under a
+                                   court order (s216).
+
+                                   Note: Sections 213 and 214 do not apply for registered schemes.
+
+              RG 76.14       The arm’s length exception in s210 provides that member approval is not
+                             needed to give a financial benefit on terms that would be reasonable in the
+                             circumstances if the public company and the related party were dealing at arm’s
+                             length, or on terms that are less favourable to the related party than these terms.
+
+              RG 76.15       If giving the financial benefit to the related party does not come within any
+                             of the exceptions, member approval must be obtained by using the procedure
+                             set out in s217–227.
+
+
+
+Application of this guide
+
+                             Public companies and registered schemes
+              RG 76.16       In this guide a reference to a ‘public company’ or a ‘company’ is a reference
+                             to a public company as defined in s9 of the Corporations Act. The definition
+                             of public company, being a company other than a proprietary company, is
+                             expanded for the purposes of s195 and Ch 2E to include bodies corporate
+                             (other than prescribed bodies corporate) that are:
+                             (a)   incorporated in a State or internal Territory, but not under the
+                                   Corporations Act; and
+                             (b)   included in the official list of a prescribed financial market.
+                             However, for the purposes of Ch 2E, the s9 definition does not include a
+                             company that does not have ‘Limited’ after its name because of s150 or 151.
+
+              RG 76.17       A reference to a ‘registered scheme’ is to a registered managed investment
+                             scheme. A reference to a PDS is to a PDS prepared for a registered scheme other
+                             than a scheme to which Div 4 of Pt 7.9 of the Corporations Regulations applies.
+
+              RG 76.18       We use the words ‘entity’ and ‘member’ where the relevant guidance can
+                             apply to either a public company or a registered scheme. Section B only
+                             refers to ‘public company’ or ‘company’ because it applies to a public
+                             company that is considering matters either in its own capacity or in its
+                             capacity as the responsible entity of a registered scheme.
+
+                             Interaction with other ASIC guidance
+
+              RG 76.19       This guide describes our overall approach to the disclosure of related party
+                             arrangements in prospectuses and PDSs (and other disclosure documents). In
+                             other regulatory guides relating to specific products and/or industry sectors,
+                             we have set out specific disclosure principles, benchmarks and other guidance
+                             for related party arrangements: see RG 76.150. We expect this specific
+                             guidance to be followed, where applicable, in conjunction with this guide.
+
+
+© Australian Securities and Investments Commission March 2011                                                Page 7
+                                                                     REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+B          Directors’ meetings—voting restrictions
+
+                               Key points
+
+                               Directors of public companies with certain material personal interests in a
+                               matter may not vote on the matter or attend directors’ meetings while the
+                               matter is being considered, unless approved by non-interested directors.
+
+                               A quorum may not be present for a particular matter if not enough non-
+                               interested directors entitled to vote are present, as required under the
+                               Corporations Act or the constitution. If there is not a quorum because of the
+                               application of the Corporations Act, the Act expressly provides that the
+                               directors may call a general meeting to deal with the matter.
+
+                               ASIC may declare that, despite having a material personal interest in a
+                               matter, a director of a public company may be present while the relevant
+                               matter is being considered at the meeting and/or vote on the matter.
+
+                               Directors making decisions about related party transactions need to
+                               consider issues other than voting restrictions.
+
+
+
+
+Restrictions on voting—section 195
+              RG 76.20       If a director of a public company has a material personal interest in a matter
+                             being considered at a directors’ meeting, they must not:
+                             (a)   be present while the matter is being considered at the meeting
+                                   (s195(1)(a)); or
+                             (b)   vote on the matter (s195(1)(b)).
+
+                                   Note: See RG 76.31–RG 76.38 for a discussion about ‘material personal interest’.
+
+              RG 76.21       In our view, the s195(1) requirement that an interested director not be
+                             present and not vote applies to all meetings of the board, however held.
+
+              RG 76.22       We apply s195(1) on the basis that ‘meeting’ includes any procedure by
+                             which the board or the directors resolve any matter. For example, we
+                             consider that the prohibition on voting extends to resolutions of a board
+                             made without a meeting (i.e. circular or circulating resolutions). Attributing
+                             a narrow meaning to ‘meeting’ would allow directors with material personal
+                             interests to do what the section is designed to prevent them from doing
+                             (i.e. vote) and would deny the section its intended operation.
+
+              RG 76.23       Section 195(1) also applies to meetings of directors other than board
+                             meetings, such as audit committee (or other committee) meetings.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                     Page 8
+                                                                  REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             Participation for certain types of material personal interest
+
+              RG 76.24       The prohibition in s195(1) does not apply where the interest does not need to
+                             be disclosed under s191. Section 191(2) sets out various types of interest that
+                             do not need to be disclosed.
+
+
+                             Participation with approval of other directors
+
+              RG 76.25       The prohibition in s195(1) does not apply where the board has passed a
+                             resolution:
+                             (a)   specifying the director, the nature and extent of the director’s interest in
+                                   the matter, and its relation to the affairs of the company (s195(2)(a));
+                                   and
+                             (b)   stating that the directors voting for the resolution are satisfied that the
+                                   interest should not disqualify the director from voting or being present
+                                   (s195(2)(b)).
+
+              RG 76.26       Section 195(1) has the effect that no interested director may be present or
+                             vote on this resolution.
+
+
+
+Quorum of directors
+
+                             The Corporations Act and the constitution apply
+
+              RG 76.27       The quorum requirements for a directors’ meeting are set out in the
+                             company’s constitution, or the replaceable rule set out in s248F, as
+                             applicable. Directors who are not entitled to vote do not count when
+                             determining whether a quorum exists.
+
+                                   Note: See McGellin v Mount King Mining NL (1998) 144 FLR 288 (McGellin) at 306
+                                   and Claremont Petroleum NL v Cummings and Fuller (1992) 110 ALR 239 (Claremont
+                                   Petroleum) at 260.
+
+              RG 76.28       When determining whether there is a quorum of directors who are entitled to
+                             vote, the following should not be counted:
+                             (a)   a director ineligible to vote under the constitution; and
+                             (b)   a director who has a material personal interest and so is ineligible to
+                                   vote under s195.
+
+              RG 76.29       Any restrictions on directors voting contained in a company’s constitution
+                             are in addition to the restrictions in s195. It is therefore possible that a
+                             meeting will lack a quorum because of the combined effect of a director, or a
+                             number of directors, having a material personal interest under s195, and a
+                             restriction in the company’s constitution.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                              Page 9
+                                                                    REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             General meeting of the company
+
+              RG 76.30       If there is not a quorum of directors who are eligible to vote on a matter
+                             because of the operation of s195(1), one or more directors may call a general
+                             meeting and the general meeting may deal with the matter: s195(4). The
+                             voting prohibition in s195(1) does not apply to a proposal to call a general
+                             meeting to consider a matter in which one or more directors have a material
+                             personal interest—that is, a director with a material personal interest may
+                             consider and vote on such a proposal.
+
+
+
+Material personal interest
+              RG 76.31       ‘Material personal interest’ is not defined in the Corporations Act. However,
+                             the word ‘material’ implies that the interest needs to be of some substance or
+                             value, rather than merely a slight interest. An interest of small value does not
+                             warrant further notice or inquiry: see Grand Enterprises Pty Ltd v Aurium
+                             Resources Ltd (2009) 256 ALR 1 (Grand Enterprises) at 15−16.
+
+              RG 76.32       An interest that has the capacity to influence the vote of a director would be
+                             considered material. Where this is the case, the nature of the interest—that
+                             is, whether it is direct, indirect, contingent or contractual, is not important.
+
+                                   Note: See McGellin at 304 and The Bell Group Limited (in liq) v Westpac Banking
+                                   Corporation (No 9) (2008) 70 ACSR 1 (Bell Group) at 261.
+
+              RG 76.33       The prohibition on voting at and attending meetings applies when a
+                             director’s interest is personal, as well as material. To be personal, an interest
+                             need not be pecuniary: see Bell Group at 261 and The Queen v District
+                             Council of Victor Harbour; Ex parte Costain Australia Ltd [1983] 34 SASR
+                             188 at 190. However, it will not be personal if it is an interest of someone
+                             else only. For example, where the interest at stake is only that of a
+                             beneficiary of a trust of which the director is a trustee: see Grand
+                             Enterprises at 16. An interest may not be personal if it affects a director as a
+                             member of a wide group or class, such as ordinary customers of a bank or
+                             shop, in the same manner and to the same degree that it affects the other
+                             members of the group or class.
+
+              RG 76.34       In interpreting the phrase, ‘material personal interest’, and in considering
+                             whether the prohibition applies, companies should bear in mind that a
+                             purpose of the prohibition is to minimise risks or harm to the company
+                             arising from conflicts of interest.
+
+              RG 76.35       For example, under s191(2)(a)(i), the prohibition does not apply if the
+                             interest arises merely because the director is a member of a company and the
+                             interest is held in common with the other members of the company. This
+                             exception is probably only available where the interest is in common with all
+                             members of the company as members of the company: see Grand
+
+
+
+© Australian Securities and Investments Commission March 2011                                                  Page 10
+                                                                    REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             Enterprises at 18. This may be important where, for example, there are
+                             classes of shares with different rights and the issue in question will affect
+                             those classes differently.
+
+              RG 76.36       Under common law, as persons in a fiduciary position, directors have duties
+                             not to profit from a position of trust or place themselves in a position where
+                             duty and interest might conflict. A director also has general duties under
+                             s180–184. A fiduciary must not, without informed consent, promote their
+                             personal interest where there is a real and substantial conflict between that
+                             personal interest and the interests of those the fiduciary is bound to protect.
+                             Further, a fiduciary must account for a profit or benefit if it was obtained
+                             when such a conflict existed or by reason of the fiduciary taking advantage
+                             of an opportunity or knowledge derived from that position. The objective of
+                             these principles is to preclude fiduciaries from being swayed by
+                             considerations of personal interest and from actually misusing their position
+                             for personal advantage.
+
+                                   Note: See generally Grand Enterprises at 9−10; Bell Group at 258−260; Streeter v
+                                   Western Areas Exploration Pty Ltd [No 2] [2011] WASCA 17 at 20−24 and 89−103;
+                                   Warman International Ltd v Dwyer (1995) 182 CLR 544 at 557; R v Byrnes & Hopwood
+                                   (1995) 183 CLR 501 at 513−524; Chan v Zacharia (1984) 154 CLR 178 at 198−199;
+                                   Hospital Products Ltd v United States Surgical Corp (1984) 156 CLR 41 at 103;
+                                   Boardman v Phipps [1967] 2 AC 46 per Upjohn LJ and Bray v Ford [1896] AC 44 at 51;
+                                   Boulting v ACTAT [1963] 2 QB 606 at 638 per Upjohn LJ and Transvaal Lands Co v New
+                                   Belgium (Transvaal) Lands & Development Co [1914] 2 Ch 488 per Astbury J.
+
+              RG 76.37       While conflict of interest principles are relevant to the concept of material
+                             personal interest, s195(1) does not refer to conflict of interest as the basis of
+                             having a material personal interest. Therefore, it is possible for a matter that
+                             does not give rise to a conflict of interest to nonetheless be a material
+                             personal interest, in which event, the board must decide if the relevant
+                             director can be present and vote at the directors’ meeting. A court could find
+                             that the prohibition on voting at and attending board meetings applies even if
+                             the interests of the company and the director coincide.
+
+              RG 76.38       Ultimately, whether a director has a material personal interest will depend on
+                             the particular circumstances. If in doubt, directors should seek specific legal
+                             advice.
+
+
+
+ASIC’s relief powers
+              RG 76.39       We have discretion under s196 to declare that, despite having a material
+                             personal interest, a director of a public company may be present while a
+                             relevant matter is being considered at a meeting, or vote on the matter, or
+                             both, but only if we are satisfied that:
+                             (a)   a quorum of directors who are present and entitled to vote cannot be
+                                   obtained (s196(1)(a)); and
+
+
+
+© Australian Securities and Investments Commission March 2011                                                Page 11
+                                                                 REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             (b)   the matter is urgent or there is some other compelling reason for the
+                                   matter to be dealt with at the directors’ meeting, rather than by a general
+                                   meeting called under s195(4) (s196(1)(b)).
+
+                             We must be satisfied that both conditions are met.
+
+              RG 76.40       We may make a declaration subject to conditions: s196(2).
+
+              RG 76.41       Relief under s196 is not an assurance by us that an interested director voting
+                             at a meeting has not otherwise breached their common law or statutory
+                             duties to the company. Also, relief from s195 does not exempt the director or
+                             the company from restrictions on voting or quorum requirements in a
+                             company’s constitution.
+
+
+
+Content of applications and relief
+
+                             First condition—No quorum (s196(1)(a))
+
+              RG 76.42       Applications for relief under s196 must satisfy us that the quorum
+                             requirement prevents a matter being dealt with at meetings. An application
+                             for a declaration under s196 must set out:
+                             (a)   details of the material personal interest of the director and each other
+                                   director to which s195(1) applies; and
+                             (b)   the reasons why the quorum requirement cannot be met, which may
+                                   include the operation of the company’s constitution.
+
+              RG 76.43       We will not reject an application as unnecessary if there is a significant risk
+                             that the Corporations Act will be contravened.
+
+
+                             Second condition—Urgent or compelling reasons
+                             (s196(1)(b))
+
+              RG 76.44       We must be satisfied that a general meeting is clearly inappropriate.
+                             Section 196(1)(b) gives a general example of inappropriateness because the
+                             matter is urgent. In the context of the paragraph, ‘urgent’ can be taken to
+                             mean that a decision needs to be made (and action taken) before a general
+                             meeting can be held or a quorum of directors who are eligible to vote is
+                             available. If urgency is the reason for seeking relief, an applicant must
+                             demonstrate that this is the case.
+
+              RG 76.45       The paragraph allows that there may be other compelling reasons for
+                             concluding that a general meeting is inappropriate. If urgency is not the
+                             principal reason, the application must identify the reasons for seeking relief
+                             and demonstrate why they are compelling.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                           Page 12
+                                                                 REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+              RG 76.46       We will not prescribe other reasons that might be sufficiently compelling.
+                             This is partly because the paragraph requires us to consider the reasons in the
+                             context of the material personal interests in question. Depending on the
+                             circumstances, other reasons may include:
+                             (a)   the company has given approval in a general meeting to the basic
+                                   principles or parameters of a transaction and left actual implementation
+                                   to the directors;
+                             (b)   the matter will ultimately be put to a general meeting of the company
+                                   for approval (or forms part of, or relates to, a larger matter which will
+                                   be put to a general meeting);
+                             (c)   there is a need or obligation to maintain confidentiality; and
+                             (d)   possessing the material personal interest is a prerequisite to appointment
+                                   as a director either under the company’s constitution or as a practical
+                                   matter.
+
+              RG 76.47       Depending on the nature of the material personal interests in question, the
+                             high cost of calling a general meeting may be a compelling reason.
+
+              RG 76.48       It is implicit in s196(1)(b) that whether it is inappropriate to call a general
+                             meeting must be judged according to the best interests of the company and
+                             its members as a whole. Compliance with Ch 2E, if applicable, will also be a
+                             relevant consideration for us.
+
+              RG 76.49       Applications for relief should include an assessment of the benefit to the
+                             company if relief is given and/or the disadvantage to the company if it is not.
+                             Where relevant, applications should also include cost estimates relating to
+                             the commercial benefit if relief is granted: see Regulatory Guide 51
+                             Applications for relief (RG 51) at RG 51.58–RG 51.59.
+
+              RG 76.50       An example of when we are likely to grant relief is where directors propose
+                             to enter into a contract that is subject to member approval, provided that, if
+                             members do not approve the contract, the company will have no liability and
+                             will not forfeit any deposit.
+
+              RG 76.51       In granting relief, we will consider the effect of such relief on the interests of
+                             members, other investors and creditors.
+
+              RG 76.52       Applications for relief should be submitted through the ASIC Regulatory
+                             Portal. Fees will apply to an application. We have provided details about
+                             payment options in the portal. For more information, see how you apply for
+                             relief.
+
+
+                             Pro forma for relief
+
+              RG 76.53       Pro Forma 90 Voting by interested directors (PF 90) sets out the form of
+                             relief we will grant under s196.
+
+
+
+© Australian Securities and Investments Commission March 2011                                           Page 13
+                                                                    REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             Publication of relief
+
+              RG 76.54       Our relief under s196 may require the company to publish a copy or notice
+                             of the instrument to ensure that members know that a director prevented
+                             from voting or attending meetings under the Corporations Act has been
+                             granted relief by ASIC.
+
+
+
+Other obligations
+              RG 76.55       Section 195 does not negate the operation of the Corporations Act and
+                             Australian accounting standards on general disclosure obligations by
+                             directors of a company, or the general duties of a director under the common
+                             law and s191.
+
+                             Interested directors
+
+              RG 76.56       We consider that a director who has a conflict of interest in relation to a
+                             proposed transaction should generally not be in a position to influence
+                             decision-making in relation to the transaction.
+
+              RG 76.57       In certain circumstances, conflicted directors may have a duty to take
+                             reasonable steps to protect a company from suffering serious harm by
+                             entering into a transaction in which they are interested. Notifying the board
+                             of an interest, abstaining from voting and not attending meetings may not
+                             always be sufficient.
+                                   Note: See Permanent Building Society (in liq) v Wheeler (1994) 14 ACSR 109 at 160;
+                                   Fitzsimmons v The Queen (1997) 23 ACSR 355 at 358; Duke Group Ltd (in liq) v
+                                   Pilmer [1999] SASC 97 at [667]−[670]; and Centofanti v Eekimitor Pty Ltd (1995) 65
+                                   SASR 31 at 33.
+
+
+                             The role of non-interested directors
+
+              RG 76.58       ‘Non-interested directors’ are those directors who do not have a material
+                             personal interest, or another form of conflict of interest, in respect of a
+                             matter being considered by the board.
+
+              RG 76.59       When making decisions to provide financial benefits to a related party, non-
+                             interested directors should:
+                             (a)   make appropriate inquiries of management and seek appropriate advice,
+                                   to the extent necessary, about the proposal;
+                             (b)   independently assess the information provided to them; and
+                             (c)   exercise ‘special vigilance’ with ‘scrupulous concern’ to ensure the
+                                   necessary corporate approvals are obtained (see Re HIH Insurance Ltd
+                                   (in prov liq) and HIH Casualty and General Insurance Ltd (in prov liq);
+                                   ASIC v Adler and Others (2002) 41 ACSR 72 (ASIC v Adler) at 168,
+                                   183 and 250).
+
+
+
+© Australian Securities and Investments Commission March 2011                                                  Page 14
+                                                                     REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+C          The ‘arm’s length’ exception
+
+                               Key points
+
+                               One of the exceptions in Ch 2E to the requirement to obtain member
+                               approval for giving a financial benefit to a related party is where the benefit
+                               is given on arm’s length terms (s210).
+
+                               When considering whether this exception applies, public companies and
+                               responsible entities should consider all of the following factors:
+                               • how the terms of the overall transaction compare with those of any
+                                 comparable transactions on an arm’s length basis;
+                               • the nature and content of the bargaining process;
+                               • the impact of the transaction on the company or registered scheme;
+                               • any other options available to the entity; and
+                               • any expert advice received by the entity.
+
+                               Companies and responsible entities may determine the appropriate weight
+                               to give each factor in the relevant circumstances. There may be other
+                               factors that are also relevant.
+
+
+
+
+The s210 exception and the meaning of ‘arm’s length’
+              RG 76.60       If public companies and responsible entities decide that it is in the best
+                             interests of the entity to enter into a related party transaction, they will then
+                             need to consider whether to obtain member approval for the purposes of
+                             Ch 2E and Pt 5C.7. In doing so, they may consider whether the exception in
+                             s210 applies. Many of the factors considered when deciding whether to enter
+                             into the transaction will also be relevant in determining whether this
+                             exception applies.
+
+              RG 76.61       Section 210 provides that member approval is not needed to give a financial
+                             benefit on terms that would be reasonable in the circumstances if the entity
+                             and the related party were dealing at arm’s length, or on terms that are less
+                             favourable to the related party than these terms.
+
+                                   Note: The terms used in s210 are modified for registered schemes in accordance with
+                                   s601LA.
+
+              RG 76.62       It is important that the arm’s length exception in s210 is applied correctly so
+                             that members are given an appropriate opportunity to vote on a proposed
+                             related party transaction where the terms of that transaction are not truly
+                             arm’s length terms.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                    Page 15
+                                                                     REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             Meaning of ‘arm’s length’
+
+              RG 76.63       The Corporations Act does not define ‘arm’s length’. Case law on the
+                             meaning of ‘arm’s length’ suggests that this phrase refers to a relationship
+                             between parties where neither bears the other any special duty or obligation,
+                             they are unrelated, uninfluenced and each acts in its own interests.
+
+                                   Note: See Orrong Strategies Pty Ltd v Village Roadshow Ltd [2007] VSC 1 (Orrong)
+                                   at [723]; Australian Securities and Investments Commission (ASIC) v Australian
+                                   Investors Forum Pty Ltd & Others (No 2) [2005] NSWSC 267 (ASIC v Australian
+                                   Investors Forum) at [456]; and ACI Operations Pty Ltd v Berri Limited [2005] VSC 201
+                                   (Berri) at [201]−[243].
+
+              RG 76.64       This meaning of ‘arm’s length’ is supported in recent case law that applies
+                             the phrase as it appears in taxation and other legislation.
+
+                                   Note: See Granby Pty Ltd v Federal Commissioner of Taxation (1995) 129 ALR 503
+                                   (Granby) at 505−508; Trustee for the Estate of the Late AW Furse No 5 Will Trust v
+                                   FCT (1990) 21 ATR 1123 (Furse) at 1132; and Australian Trade Commission v WA
+                                   Meat Exports Pty Ltd (1987) 75 ALR 287 at 289−292.
+
+              RG 76.65       Specifically, ASIC v Australian Investors Forum at [456] indicates that, in
+                             determining the objective standards that would characterise arm’s length
+                             terms, courts should consider the transaction terms that would result if:
+                             (a)   the parties to the transaction were unrelated in any way (e.g. financially,
+                                   or through ties of family, affection or dependence);
+                             (b)   the parties were free from any undue influence, control or pressure;
+                             (c)   through its relevant decision-makers, each party was sufficiently
+                                   knowledgeable about the circumstances of the transaction, sufficiently
+                                   experienced in business and sufficiently well advised to be able to form
+                                   a sound judgement as to what was in its interests; and
+                             (d)   each party was concerned only to achieve the best available commercial
+                                   result for itself in all the circumstances.
+
+              RG 76.66       In deciding whether the exception applies, the terms on which the financial
+                             benefit is given should be compared to the objective range of possible terms
+                             that these unrelated, uninfluenced and self-interested parties would
+                             reasonably arrive at in the circumstances: see ASIC v Australian Investors
+                             Forum at [455] and Orrong at [716] and [721].
+
+              RG 76.67       In determining the outcomes that hypothetical unrelated parties would
+                             reasonably achieve, the following points should also be considered:
+                             (a)   commercial prudence should be applied and expert guidance may be
+                                   required in considering the terms of the related party transaction (see
+                                   ASIC v Australian Investors Forum at [458]) and ascertaining common
+                                   market practice; and
+                             (b)   if the terms of the financial benefit are extraordinary or excessively
+                                   generous, or do not include safeguards to manage conflicts of interest, it
+
+
+
+© Australian Securities and Investments Commission March 2011                                                   Page 16
+                                                                        REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                                   is less likely that the terms can be considered ‘reasonable’ and so may
+                                   not be arm’s length terms for the purposes of s210 (see Orrong
+                                   at [730]−[734], Furse at 1134 and ASIC v Adler at 183, 244, 250).
+
+
+                             Meaning of ‘in the circumstances’
+
+              RG 76.68       For a transaction to be on ‘arm’s length’ terms within the s210(1)(a)
+                             exception, its terms must be reasonable ‘in the circumstances’ if the entities
+                             were ‘dealing at arm’s length’.
+
+              RG 76.69       The ‘circumstances’ could include, but are not limited to:
+                             (a)   whether there are alternative transactions open to the entity that are not
+                                   with related parties (e.g. whether a related party is the only supplier of a
+                                   certain component or suitable premises);
+                             (b)   prevailing economic conditions and their impact on the parties and their
+                                   relevant industries; and
+                             (c)   any special value to the transaction (e.g. synergies available to the
+                                   related party, other than those arising because it is a related party, that
+                                   may not be available to other purchasers).
+
+                                   Note: This is separate to the assessment of fair value of consideration by experts that
+                                   does not take special value into account if it is only available to a particular purchaser:
+                                   see Regulatory Guide 111 Content of expert reports (RG 111) at RG 111.11.
+
+              RG 76.70       When considering the circumstances in which the hypothetical unrelated
+                             parties would be transacting, we consider that, generally, all circumstances
+                             of the related party transaction that have a bearing on determining the terms
+                             are relevant, except for the fact of their relationship.
+
+
+
+Relevant factors to consider when applying the s210 exception
+              RG 76.71       At a minimum, public companies and responsible entities should take into
+                             account all of the following factors when deciding whether to seek member
+                             approval or whether the arm’s length exception in s210 applies:
+                             (a)   how the terms of the overall transaction compare with those of any
+                                   comparable transactions between parties dealing on an arm’s length
+                                   basis in similar circumstances (see RG 76.76–RG 76.80);
+                             (b)   the nature and content of the bargaining process, including whether the
+                                   entity followed robust protocols to ensure that conflicts of interest were
+                                   appropriately managed in negotiating and structuring the transaction
+                                   (see RG 76.81–RG 76.86);
+                             (c)   the impact of the transaction on the company or registered scheme
+                                   (e.g. the impact of dealing on those terms on the financial position and
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                          Page 17
+                                                                REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                                   performance of the company) and non-associated members (see
+                                   RG 76.87–RG 76.89);
+                             (d)   any other options that may be available to the entity (see RG 76.90);
+                                   and
+                             (e)   expert advice received by the entity on the transaction (if any) (see
+                                   RG 76.91–RG 76.92).
+
+              RG 76.72       The following subsections explain each of these factors. This list of factors is
+                             not exhaustive. Companies and responsible entities should also consider any
+                             other relevant factors.
+
+              RG 76.73       We expect entities to consider all the factors in RG 76.71, but some may not
+                             be as relevant as others after consideration. Companies and responsible
+                             entities may determine the appropriate weight to give each factor in the
+                             relevant circumstances. However, entities should not make an assessment of
+                             whether the transaction is on arm’s length terms based on a single factor in
+                             isolation from each of the other factors.
+
+              RG 76.74       For example, it would be insufficient for a company or responsible entity to
+                             make this assessment based only on the nature of the bargaining process
+                             without considering other relevant factors, such as comparable transactions
+                             and other available options.
+
+              RG 76.75       We expect that the factors in RG 76.71 can be considered using information
+                             already obtained in connection with the transaction (which may include
+                             expert advice: see RG 76.91), the knowledge and experience of directors,
+                             officers, employees and advisers, and publicly available information.
+                             However, separate advice could be sought or inquiries made on the
+                             particular factors in RG 76.71 if the directors believe this is necessary.
+
+
+                             Comparable transactions
+
+              RG 76.76       A good indicator of arm’s length terms is whether the terms of the proposed
+                             related party transaction are comparable to those of similar transactions
+                             completed in similar circumstances between unrelated parties in a contract
+                             for legitimate commercial bargain. Entities should seek to establish the
+                             contractual terms that prevail in the open market for similar transactions
+                             between unrelated parties. Common experience and usual terms of trade can
+                             be taken as a guide: see ASIC v Australian Investors Forum at [457].
+
+              RG 76.77       Common sense and commercial prudence should be applied and expert
+                             guidance may be required when considering the terms of the related party
+                             transaction (see ASIC v Australian Investors Forum at [457]−[458]) and
+                             determining the terms on which unrelated parties would transact in the same
+                             circumstances.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                          Page 18
+                                                                REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+              RG 76.78       We expect that, in many cases, entities will have already contemplated this
+                             when considering whether to enter into the proposed related party
+                             transaction and whether it is in the best interests of the company or
+                             registered scheme.
+
+              RG 76.79       In assessing the terms of the related party transaction, consideration should
+                             also be given to whether any key provisions (such as consideration,
+                             warranties, indemnities, term and termination) are excessively onerous or
+                             excessively generous. If so, the terms are less likely to be considered
+                             ‘reasonable’ or comparable with terms achieved by other parties on the open
+                             market in similar circumstances, and therefore not arm’s length terms for the
+                             purposes of s210: see Orrong at [730]−[734], ASIC v Australian Investors
+                             Forum at [458] and Furse at 1134. Terms that are extreme or unlikely should
+                             therefore not be used in the comparison because they may generally be
+                             unreasonable.
+
+              RG 76.80       If there is no reliable data about comparable transactions between parties
+                             dealing at arm’s length, it will be more difficult to determine with certainty
+                             the hypothetical reasonable arm’s length terms that could be reached by
+                             unrelated parties. In this event, other factors may be more important in
+                             determining whether to obtain member approval.
+
+
+                             Bargaining process
+
+              RG 76.81       Consideration of the nature and content of the bargaining process, including
+                             how the transaction was initiated, structured, negotiated and disclosed to
+                             directors, is also relevant in determining whether the terms of a proposed
+                             related party transaction are arm’s length.
+
+              RG 76.82       If the parties have dealt with each other as unrelated parties would normally
+                             do, and engaged in a process of real bargaining, it is more likely that the
+                             outcome of their dealings can be considered to be arm’s length terms: see
+                             Furse at 1132 and Granby at 507.
+
+              RG 76.83       It is not necessary to show that the parties negotiated on an arm’s length
+                             basis to decide whether the terms of a proposed transaction are arm’s length
+                             terms for the purposes of s210 (in fact, due to their relationship, they may
+                             not have done so). However, factors relating to how the parties conducted
+                             themselves in forming the terms of the transaction will be relevant in
+                             assessing whether the outcome of their negotiations could reasonably have
+                             been achieved by uninfluenced, self-interested parties in the circumstances.
+
+              RG 76.84       These factors include:
+                             (a)   whether the proposed transaction is contractual in nature, including
+                                   whether it is adequately documented in binding form (see Orrong
+                                   at [729], ASIC v Australian Investors Forum at [463] and ASIC v
+                                   Adler);
+
+
+
+© Australian Securities and Investments Commission March 2011                                          Page 19
+                                                                 REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             (b)   the involvement in the negotiations of professional advisers
+                                   representing or advising each party (see Orrong at [795]); and
+                             (c)   the nature of the negotiation process, including the length and sincerity,
+                                   whether there was ‘hard’ or ‘real’ bargaining (e.g. a disinterested
+                                   bargaining process that is characteristic of strangers, who are each
+                                   applying their independent separate wills), and whether any of the terms
+                                   were negotiated at all (see Orrong at [721]−[726], Furse at 1132, Berri
+                                   at [205]−[214] and Granby at 506−507).
+
+              RG 76.85       If a director has a material personal interest in the related party transaction
+                             and has participated in, or been privy to, negotiations with the related party,
+                             this aspect of the bargaining process and its potential impact on the terms of
+                             the transaction should be taken into account when assessing whether the
+                             terms are arm’s length.
+
+              RG 76.86       It may also be relevant to consider the entity’s bargaining position. This is
+                             not only determined by reference to the knowledge and experience the entity
+                             has, including through its advisers, but also by the relevant circumstances in
+                             which the transaction is contemplated. Circumstances include the entity’s desire
+                             and need to complete the transaction (e.g. if an entity is in financial distress).
+
+
+                             Impact on company or registered scheme
+
+              RG 76.87       In assessing whether the terms of a transaction would be reasonable if the
+                             entity were dealing at arm’s length, entities should also consider the
+                             implications of dealing on those terms on the financial position and
+                             performance of the company or registered scheme. The implications for non-
+                             associated members should also be considered. Both short-term and long-
+                             term implications will be relevant. This includes considering whether:
+                             (a)   there is a negative effect on the company’s or registered scheme’s
+                                   financial position or performance that is not sufficiently balanced by the
+                                   positive effects;
+                             (b)   the transaction fits within the entity’s business plan or affects whether
+                                   the entity is able to pursue its business plan; and
+                             (c)   the terms are fair, given the expected return on the relevant asset, the
+                                   risks to which the asset is exposed and the relative liquidity of the asset.
+
+              RG 76.88       Companies and responsible entities should also consider whether the
+                             contract or agreement adequately protects the interests of the entity giving
+                             the financial benefit: see ASIC v Adler at 182−183, 232, 250.
+
+              RG 76.89       Generally, when dealing at arm’s length, entities acting in their own interests
+                             have the option not to proceed, or to conduct business in a different way, if
+                             the terms do not satisfy their performance expectations or present a
+                             significant risk to the entity’s performance, financial position or prospects.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                           Page 20
+                                                                     REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             Alternative options available to the entity
+
+              RG 76.90       If the proposed related party transaction is one of a number of options open
+                             to the entity:
+                             (a)   the terms of these options can provide a good comparison of the terms
+                                   that can reasonably be obtained between unrelated parties in the
+                                   circumstances; and
+                             (b)   if the terms of the proposed transaction are less favourable to the related
+                                   party than the terms of these options, the arm’s length exception is more
+                                   likely to apply.
+
+                             Expert advice for directors
+
+              RG 76.91       Directors should ensure they have, or have access to, enough knowledge or
+                             expertise to assess all aspects of proposed related party transactions—where
+                             necessary, they should obtain appropriate professional and expert advice
+                             from any appropriately qualified person. This may include the advice
+                             referred to in RG 76.75.
+
+              RG 76.92       The directors will need to be satisfied that it is appropriate to rely on the
+                             expert advice, including that the opinion given by the expert is directly
+                             relevant to the decision at hand. However, directors relying on information,
+                             professional advice or expert advice provided by others must make their own
+                             independent assessment of the information or advice: see s189. Advice does
+                             not replace careful judgement by the directors.
+
+
+
+Seeking member approval when there is uncertainty
+              RG 76.93       Under Ch 2E, entities must obtain member approval to give a related party
+                             benefit unless an exception applies.
+
+              RG 76.94       When there are potential conflicts of interest, directors have a heightened
+                             obligation to ensure that the necessary corporate approvals are obtained: see
+                             ASIC v Adler at 250.
+                                   Note: For public companies that are Australian financial services (AFS) licensees,
+                                   compliance with the obligation in s912A(1)(aa) to manage conflicts adequately will
+                                   generally involve documenting the reasons for relying (or not relying) on the arm’s
+                                   length exception: see Regulatory Guide 181 Licensing: Managing conflicts of interest
+                                   at RG 181.33 and RG 181.45.
+
+              RG 76.95       Directors should only rely on the exception when they are persuaded that the
+                             exception does apply, rather than it being merely arguable that it applies.
+
+              RG 76.96       Accordingly, if after taking into account all the factors in RG 76.71 and any
+                             other relevant factors, it is not clear that the transaction falls within the arm’s
+                             length exception (or any other exception in Ch 2E), member approval should
+                             be sought.
+
+
+© Australian Securities and Investments Commission March 2011                                                    Page 21
+                                                                 REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+D          Member approval process
+
+                               Key points
+
+                               If it is determined that member approval is required under Ch 2E, entities
+                               must lodge with ASIC the material that will be put to members.
+
+                               We expect explanatory statements for the approval of financial benefits
+                               lodged with us under Ch 2E to include certain information: see Table 2.
+
+                               In some circumstances, it may be necessary for entities to include a
+                               valuation from an independent expert with a notice of meeting and
+                               explanatory statement.
+
+                               Meeting materials must be lodged with us at least 14 days before the notice
+                               convening the meeting is given to members, unless we approve a shorter
+                               period on application.
+
+                               In rare circumstances, we may grant relief from the voting exclusion
+                               requirements that prohibit related parties receiving financial benefits (or
+                               their associates) voting on the resolution to approve that transaction.
+
+                               We may also grant relief to stapled entities from the requirement to obtain
+                               member approval where there is no value leakage from the group.
+
+
+
+
+Content of explanatory statements
+              RG 76.97       If public companies and responsible entities decide that member approval is
+                             required to enter into a related party transaction, they will then need to
+                             consider what information to include in the meeting materials.
+
+              RG 76.98       Meeting materials seeking member approval for related party transactions
+                             must provide sufficient information to members to enable them to decide
+                             whether or not the financial benefit to be given to a related party is in the
+                             interests of the entity: s219.
+
+              RG 76.99       Information about the valuation and details of the financial benefit are important
+                             to members’ voting decisions: see RG 76.107–RG 76.112. Where possible,
+                             members should be able to understand the value of the financial benefit and its
+                             impact on the entity in dollar terms. The matters set out in s219(2) indicate the
+                             importance of providing members with information about value.
+
+              RG 76.100      Members also need to understand the circumstances in which the financial
+                             benefit is proposed to be given. Information about the existing arrangements
+                             between the entity (and its related entities) and the related party (and its
+                             related entities) receiving the financial benefit may be important. For
+                             example, the related party may be a shareholder, lender, contractor or
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                           Page 22
+                                                                    REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             manager of the entity giving the financial benefit. Without this information,
+                             members may not have sufficient context for making their decision.
+
+              RG 76.101      The discussion in RG 76.143–RG 76.150 about information to include in
+                             disclosure documents sets out information that may also need to be included
+                             in the meeting materials to ensure that investors have all the information
+                             reasonably required to decide whether it is in the entity’s interests to approve
+                             the proposed financial benefit.
+
+              RG 76.102      We also expect explanatory statements for the approval of financial benefits
+                             lodged with us under Ch 2E to include information about:
+                             (a)   the directors’ recommendations and the reasons for them;
+                             (b)   alternative options to the related party transaction and the reasons for
+                                   choosing the related party transaction (as well as the implications of not
+                                   proceeding with the transaction); and
+                             (c)   the impact of the transaction on the company or registered scheme.
+                             More detailed guidance on the information to include in meeting materials is
+                             set out in Table 2.
+
+              RG 76.103      Directors have a duty to give full and proper disclosure. Under common law,
+                             a notice of meeting must contain all the information needed to fully and
+                             fairly inform members of the nature of the proposed resolutions, and to
+                             enable members to judge for themselves whether to attend the meeting and
+                             vote for or against the proposed resolutions.
+
+                                   Note: See generally Devereaux Holdings Pty Ltd v Parry Corporation (1985) 9 ACLR
+                                   956 (Devereaux) at 958−959; Bulfin’s Limited v Bebarfald (1938) 38 SR (NSW) 423;
+                                   Fraser v NRMA Holdings Limited (1995) 55 FCR 452 at 466; ENT Pty Ltd v Sunraysia
+                                   Television Ltd (2007) 61 ACSR 626 (Sunraysia); and Lion Nathan Australia Pty Ltd v
+                                   Coopers Brewery Ltd and Others (2005) 55 ACSR 583 at 594−598.
+
+              RG 76.104      We consider that the information set out in RG 76.99–RG 76.102, and in
+                             Table 2 below, to be material to members’ decisions about how to vote on a
+                             proposed related party transaction and that members expect to see this
+                             information in meeting materials.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                 Page 23
+                                                                     REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+Table 2:     Content of related party meeting materials
+
+ Topic                         Guidance
+
+ Identity of the related       The party receiving the financial benefit must be clearly identified, including an
+ party: s219(1)(a)             explanation of the nature of the related party relationship.
+
+                               For group structures, the nature of these relationships should be disclosed for all
+                               group entities and related parties involved in each transaction that is disclosed.
+
+                               For example, if an entity is acquiring a substantial interest in an asset from a related
+                               party, it will be relevant and should be disclosed that:
+                                other entities within the same corporate group as the related party may also have
+                                 an interest (either directly or indirectly) in that asset, and the nature of those
+                                 interests; and
+                                ongoing management services on arm’s length terms in relation to the asset may be
+                                 provided by another entity within the same corporate group as the related party.
+
+ Nature of the financial       Complete details of the financial benefit to be given must be provided to members.
+ benefit: s219(1)(b)           This includes not only details of what the benefit is (both in nature and quantity), but
+                               also the reason for giving the benefit and the basis on which it is given.
+
+                               For example, if options are to be granted to a director, we expect the following
+                               information, at a minimum, to be disclosed:
+                                the number of options to be granted to the director;
+                                the terms of the options;
+                                an explanation as to why the options are to be granted, particularly where
+                                 alternative forms of remuneration or incentive may be required to be expensed by
+                                 the entity in future years; and
+                                an explanation as to why the specified number of options is to be granted and why
+                                 the specified value of the options was chosen.
+
+                               Entities should be careful to disclose the substantive effect of a transaction if
+                               necessary in order to explain the financial benefit. For example, if a company,
+                               instead of granting options, proposes to lend a director money to acquire shares in
+                               the company but the repayment terms of the loan effectively create an option-like
+                               situation, this should be disclosed.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                   Page 24
+                                                                    REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+ Topic                         Guidance
+
+ Directors’                    For each proposed related party resolution, each director of the company or
+ recommendations:              responsible entity must either:
+ s219(1)(c)                     make a recommendation about the resolution and state their reasons for it; or
+                                if they do not make a recommendation, state why they do not.
+
+                               If, for some reason, a director is not able to make either of these statements, they
+                               must also state why this is the case. We consider that detailed reasons for director
+                               recommendations should be provided, including a discussion of any alternative
+                               options considered. This may also include a discussion of the opportunity costs
+                               involved (s219(2)) and the implications of not proceeding with the transaction. It is
+                               not enough simply for a director to state that they approve of the resolution. This is
+                               because we consider this information is material to members when deciding how to
+                               vote, and, in some cases, the omission of this information could be misleading.
+
+                               We also consider it is good practice for directors to avoid making a recommendation
+                               for resolutions about each other’s remuneration as there may be a conflict of interest:
+                               see Claremont Petroleum at 261−263. The reason for not making a recommendation
+                               must be disclosed: s219(1)(c)(ii).
+
+                               For example:
+                                if a proposal to issue options to a non-executive director will mean that a listed
+                                 company will no longer comply with the ASX Corporate Governance Council’s
+                                 Corporate governance principles and recommendations (2nd edn)—the reasons
+                                 supporting the director’s recommendation should include an explanation of why
+                                 the director considers this is appropriate, and a discussion of other relevant
+                                 options;
+                                if a company’s reason for granting options to a director is as an incentive for future
+                                 performance but the options are in the money—the reasons should address how
+                                 the director has reconciled these facts; and
+                                if a proposed related party transaction is chosen over other alternative
+                                 transactions with non-related entities—the reasons for choosing the related party
+                                 transaction over the alternatives (including not proceeding with the transaction)
+                                 should be explained.
+
+ Directors’ interest in the    Each director must state whether or not they have an interest in the outcome of the
+ outcome: s219(1)(d)           proposed resolution. If a director does have an interest in the outcome, they must
+                               state what that interest is.
+
+                               If the director’s interest in the outcome is considered a material personal interest,
+                               this should be disclosed, along with whether the director voted on the transaction at
+                               the relevant board meeting. Further, if a director has a material personal interest in
+                               the outcome, there should also be an explanation as to whether the director has
+                               been excluded as a related party for the purposes of voting at the general meeting
+                               and the reasons for this.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                 Page 25
+                                                                       REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+ Topic                         Guidance
+
+ Other: s219(1)(e)             The explanatory statement must contain all other information that is reasonably
+                               required by members to decide whether or not it is in the entity’s interests to pass
+                               the related party resolution: s219(1)(e).
+
+                               To the extent that it may reasonably be required by members, information leading to
+                               the conclusion that the arm’s length exception does not apply should be included in
+                               the explanatory statementfor example, where the amount of the financial benefit
+                               paid to a related party under a service agreement is far in excess of market rates.
+
+                               For transactions with multiple steps and approvals, entities should assess what
+                               information is to be disclosed for each step, and the information provided should
+                               enable a member to understand the transaction as a whole. Even where only one or
+                               a few steps comprise related party transactions requiring approval, the overall
+                               transaction and the cumulative impact of each step on the entity are important
+                               contextual information that should be disclosed.
+
+                               In preparing this information, the directors should keep in mind:
+                                in the case of companies, the general requirement that information included in a notice
+                                 of meeting is presented in a clear, concise and effective manner (s249L(3)); and
+                                the obligations stated in a note at the end of s219—that is:
+                                 ‘Sections 180 and 181 require an officer of a corporation to act honestly and to exercise care
+                                 and diligence. These duties extend to preparing an explanatory statement under this section.
+                                 Section 1309 creates offences where false and misleading material relating to a
+                                 corporation’s affairs is made available or furnished to members.’
+
+ Valuation of the              Meeting materials must adequately value the financial benefit, preferably in dollar
+ financial benefit             terms. This is especially the case where:
+                                the financial benefit is the issue of shares, options or convertible notes or interests
+                                 in a registered scheme; or
+                                the financial benefit involves the sale or purchase of an asset, such as a mining
+                                 tenement or an existing business.
+
+                               An adequate valuation requires the basis of the valuation, and the principal
+                               assumptions behind the valuation, to be disclosed. In some circumstances, it may
+                               also be necessary to provide a valuation by an independent expert. This may be
+                               particularly important where the directors have a conflict of interest in relation to the
+                               transaction.
+                               Options must be valued in accordance with Australian Accounting Standards Board
+                               (AASB) accounting standard AASB 2 Share-based payment and all material
+                               assumptions used in valuing the options must be disclosed.
+
+                               For example, if a company is purchasing an asset from a related party in exchange
+                               for shares, it may be necessary to include both a valuation of the asset and a valuation
+                               of the shares. Where relevant, the valuation methodology should be consistent with that
+                               required to be adopted in the entity’s financial reports.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                         Page 26
+                                                                      REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+ Topic                         Guidance
+
+ Disclosure of a relevant      Where the financial benefit is to be conferred by way of remuneration or incentive,
+ director’s total              the amount of the total remuneration package must be disclosed to the members.
+ remuneration package          For example, if options are to be granted to a director, the company or responsible
+                               entity must provide a proper valuation of those options as well as give members
+                               details of other remuneration the director will receive.
+
+                               Members must be able to assess the value of the overall remuneration package the
+                               director will receive when taking into account the financial benefit to be conferred. It
+                               is not usually sufficient to include only the past remuneration of directors. However,
+                               if the remuneration a director will receive is not known but is anticipated to be similar
+                               to that received in the previous year, it may be sufficient to include the previous
+                               year’s remuneration and a statement to that effect.
+
+ Related party’s existing      Details of the related party’s existing interest in the entity should be disclosed. For
+ interest                      example, where securities in the entity are to be granted to a related party, that
+                               party’s existing interest will be relevant because it allows the members to determine
+                               the likely extent of the related party’s influence or control if the financial benefit were
+                               to be granted.
+
+ Dilution effect of the        Where an entity intends to provide equity-related financial benefits to a related party,
+ transaction on existing       the meeting materials should state the possible dilution effects of that issue on the
+ members’ interests            interests held by other members.
+
+
+
+
+Expert reports
+              RG 76.105      To ensure that members are provided with sufficient information to assess a
+                             proposed related party transaction and decide how to vote, it may be
+                             necessary for entities to include a valuation from an independent expert with
+                             a notice of meeting for member approval under Ch 2E or Pt 5C.7 where:
+                             (a)   the financial benefit is difficult to value;
+                             (b)   the transaction is significant from the point of view of the entity (see
+                                   RG 76.113); or
+                             (c)   the non-interested directors do not have the expertise or resources to
+                                   provide independent advice to members about the value of the financial
+                                   benefit.
+
+              RG 76.106      A valuation from an independent expert may also be required to be included:
+                             (a)   under Chapter 10 of the ASX Listing Rules; or
+                             (b)   if the related party transaction is also a control transaction for which the
+                                   entity is commissioning an expert report (e.g. for member approval
+                                   under item 7 of s611).
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                     Page 27
+                                                                 REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             Importance of valuation information
+
+              RG 76.107      Independent valuation advice on a proposed related party transaction can
+                             help members better understand and assess the proposal and make an
+                             informed decision about how to vote. Independent valuation advice can also
+                             play an important part in maintaining investor confidence in the management
+                             of the entity.
+
+              RG 76.108      Members receive independent expert reports relating to acquisitions or
+                             disposals of a substantial asset from or to a related party (or an associate of the
+                             related party) that require member approval under Chapter 10 of the ASX
+                             Listing Rules. The ASX Listing Rules do not include an arm’s length
+                             exception and so all transactions of this nature must be approved by members.
+
+              RG 76.109      There is no express requirement in Ch 2E for an independent expert report to
+                             be obtained for provision to members with a notice of meeting. However,
+                             we encourage independent expert reports to be obtained and sent to members
+                             with the accompanying explanatory material in the circumstances set out in
+                             RG 76.105.
+
+              RG 76.110      In our view, under Ch 2E and directors’ duties, directors have a general
+                             obligation to include information about the value of a financial benefit in a
+                             notice of meeting for member approval of a related party benefit. The
+                             directors’ fiduciary duty of disclosure generally requires notices of meeting
+                             for approval of asset sales or acquisitions to include the material information
+                             necessary for members to assess whether a transaction is for a fair price, and
+                             whether the terms and conditions are onerous or disadvantageous: see
+                             Sunraysia at 635.
+
+              RG 76.111      The economic and commercial considerations addressed in the examples in
+                             s219(2) would often require directors to provide information about the value
+                             of the benefit.
+
+              RG 76.112      In some cases, a notice of meeting for approval of a related party benefit
+                             could include information about the value of the financial benefit in the form
+                             of advice from the non-interested directors. However, given the complexities
+                             and inherent conflicts of interest involved in many related party transactions,
+                             it is sometimes more appropriate for an entity to commission an independent
+                             expert to give an opinion on the proposed transaction.
+
+
+                             Significant transactions
+
+              RG 76.113      A transaction can be significant from the point of view of an entityso that
+                             an independent expert report may be necessary (see RG 76.105(b))for
+                             reasons other than the dollar value involved. For example, a transaction may
+                             be considered to be significant if it involves a change of business activities
+                             or strategic direction, the replacement of the full board, substantial dilution
+                             of existing members, or if it is very complex.
+
+
+© Australian Securities and Investments Commission March 2011                                            Page 28
+                                                                REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             How experts should assess related party transactions
+
+              RG 76.114      Regulatory Guide 111 Content of expert reports (RG 111) provides guidance
+                             on the content of expert reports for related party and other transactions and
+                             how experts should assess related party transactions.
+
+              RG 76.115      If an independent expert has prepared a report, it must also comply with
+                             Regulatory Guide 112 Independence of experts (RG 112).
+
+
+
+ASIC’s review of meeting materials
+              RG 76.116      At least 14 days before the entity sends a notice convening a members’
+                             meeting, it must lodge copies of documents to be given to members with us.
+                             These documents include the proposed notice, resolution, explanatory
+                             statement and any other documents to be put to the meeting that could
+                             reasonably be expected to be material to the members in deciding how to
+                             vote (see s218 and 219). Documents should be lodged through the ASIC
+                             Regulatory Portal using the ‘Submit shareholder meeting materials – related
+                             party transactions or acquisition approvals’ transaction. For more
+                             information, see how you lodge fundraising and corporate finance
+                             documents.
+
+              RG 76.117      If we consider that the meeting materials do not contain adequate disclosure
+                             to members, we can issue a comment letter that the entity is required to
+                             distribute to members along with the meeting materials: see s220(1) and
+                             RG 76.121–RG 76.126. The comment letter will also be available on ASIC’s
+                             Australian Company Register.
+
+
+                             Shortening period for document lodgement (s218(3))
+
+              RG 76.118      Entities may apply to us in writing to shorten the 14-day period in which we
+                             may review and comment on the documents: s218(3). Where we have
+                             reviewed the documents in a shorter period, we will notify the applicant and
+                             grant approval for a shorter period.
+
+              RG 76.119      Approval of the shorter review period does not suggest that the meeting
+                             materials comply with the requirements of the Corporations Act.
+                             Applications for shorter approval periods must be in writing, clearly
+                             outlining the reasons why the meeting materials should be dealt with in less
+                             than 14 days, and must be accompanied by the prescribed fee.
+
+              RG 76.120      Where an entity has applied for a shorter review period but re-lodges
+                             meeting materials with us under s221 (see RG 76.127), a new application
+                             must also be lodged in respect of the re-lodged documents.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                          Page 29
+                                                                    REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             ASIC comments on lodged documents (s220)
+              RG 76.121      We may make comments on the lodged documents, other than about whether
+                             the proposed resolution is in the entity’s best interests: s220(1).
+
+              RG 76.122      We will usually issue a comment letter if, in our view, the meeting materials
+                             do not comply with the requirements of s218 and 219 (e.g. if the information
+                             set out in Table 2 is not included, or if the meeting materials include an
+                             independent expert report that does not analyse the transaction in accordance
+                             with our guidance: see RG 111.55).
+
+              RG 76.123      In determining whether to comment on the documents, we will consider case
+                             law and general principles governing notices of meetings. In particular, we
+                             will consider whether the documents fully disclose material facts and
+                             whether they are clear and unambiguous. In considering these matters, we
+                             will apply the guidance contained in this regulatory guide.
+
+                             Full disclosure of material facts
+
+              RG 76.124      We will consider:
+                             (a)   whether the documents fully inform a member about the matter on
+                                   which they will have to vote, and, in particular, whether the documents
+                                   sufficiently explain the practical consequences of accepting the
+                                   proposed resolution; or
+                             (b)   whether the documents omit a material matter.
+
+              RG 76.125      We will also consider the guidance outlined in this section about what
+                             should be included in meeting materials.
+
+                             Clear, concise and effective
+
+              RG 76.126      We will consider:
+                             (a)   whether the information is presented in a manner that is not misleading;
+                             (b)   whether the documents are clear, concise and effective (as required by
+                                   s249L(3) for notices of meeting issued by companies); and
+                             (c)   the effect the information will have on the member as an ordinary
+                                   person in commerce or as an ordinary investor.
+                                   Note: See generally Residues Treatment and Trading Co Ltd v Southern Resources Ltd
+                                   (1988) 14 ACLR 375 at 377−378; and Devereaux at 958.
+
+
+                             Variation in lodged documents
+              RG 76.127      The notice and accompanying documents may vary from those lodged with
+                             us in ways that are not material (s221), but the resolution about the related
+                             party transaction must be the same as that lodged with us: s223. If there is a
+                             material change to the meeting materials that have been lodged with us
+                             under s218, regardless of whether the change relates to the related party
+                             resolution, the meeting materials should be re-lodged with us: s221(a)–(c).
+
+
+
+© Australian Securities and Investments Commission March 2011                                                 Page 30
+                                                                 REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+Voting exclusions for resolutions at members’ meetings
+              RG 76.128      Section 224 provides that a related party of a public company, or an
+                             associate of a related party, may not vote on a proposed resolution to
+                             approve a financial benefit to be given to the related party except where:
+                             (a)   the vote is cast as a directed proxy for a non-related party or associate
+                                   (s224(2)); or
+                             (b)   we have declared that s224(1) does not apply (s224(4)) (see RG 76.131).
+
+              RG 76.129      Section 601LD provides that s224 does not apply to voting by members of a
+                             registered scheme on a resolution to approve a related party transaction.
+                             Instead, the voting exclusion set out in s253E, which excludes a responsible
+                             entity and its associates from voting on a resolution in which they have an
+                             interest, will apply. The courts have interpreted s253E strictly: see Everest
+                             Capital Ltd as Trustee of the EBI Income Fund v Trust Co Ltd and Others
+                             [2010] NSWSC 231.
+
+              RG 76.130      A resolution to approve the giving of a related party benefit will not be
+                             effective if it would not have been passed but for votes cast by excluded
+                             persons: s225(1). Entities should ensure that proper procedures are in place
+                             to implement the voting exclusions, and that the steps taken to implement the
+                             exclusions can be verified.
+
+
+
+ASIC’s relief powers
+
+                             Shareholder resolutions
+
+              RG 76.131      We may only make a declaration for the purposes of s224(4), allowing a
+                             related party or an associate of a related party to vote, if we are satisfied that
+                             it will not cause unfair prejudice to the interests of any member of the company.
+
+              RG 76.132      It is unlikely that we will often make such a declaration. However, since the
+                             definition of related party in the Corporations Act is so broad, a declaration
+                             may be made, for example, if the applicant can show:
+                             (a)   that the association between the parties is strictly technical; and
+                             (b)   no real conflict of interest exists (e.g. an associate has no interest in the
+                                   outcome of the transaction, the interests of the related party are the
+                                   same as that of the company, or where all the parties are related parties).
+
+              RG 76.133      In granting this relief, we will consider the effect of relief on the interests of
+                             members, other investors and creditors.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                            Page 31
+                                                                REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             Registered schemes
+              RG 76.134      We may use our powers under Ch 5C to grant relief from the voting
+                             exclusion in s253E.
+
+                             Stapled entities
+              RG 76.135      Related party transactions are common in the context of stapling transactions
+                             involving registered schemes, where an interest in a registered scheme may
+                             only be traded with an interest in another registered scheme or a company, or
+                             other combinations of interests. In this situation, the entities that comprise
+                             the stapled group may be one economic entity. If a related party transaction
+                             within the stapled group does not transfer value outside the group, the
+                             transaction may not have a material effect on the value of a member’s
+                             stapled securities and may not require a new investment decision.
+
+              RG 76.136      In these circumstances, we may exercise our powers under s601QA to grant
+                             relief from the member approval requirements under Pt 5C.7. If multiple
+                             registered schemes are involved, we may grant incidental relief under Div 1
+                             of Pt 5C.2 in relation to the duties of:
+                             (a)   the responsible entity, set out in s601FC(1)(c) and s601FC(1)(e);
+                             (b)   officers of the responsible entity, set out in s601FD(1)(c), s601FD(1)(d)
+                                   and s601FD(1)(e); and
+                             (c)   employees of the responsible entity, set out in s601FE(1)(a) and
+                                   s601FE(1)(b).
+
+                             Pro forma for relief
+              RG 76.137      Pro Forma 113 Related parties or associatesvoting (PF 113) sets out the
+                             form of relief we will grant under s224(4). There is no pro forma for the
+                             relief we may grant under Ch 5C: see RG 76.134 and RG 76.136.
+
+                             Publication of instruments
+              RG 76.138      Our relief under s224(4) will require the entity to publish a copy or a notice
+                             of the relief instrument, unless the application relates to confidential matters
+                             and it is impossible to publish it without defeating the purpose of the relief.
+
+              RG 76.139      We must publish a notice of the relief granted under s601QA in the ASIC
+                             Gazette: s601QA(4).
+
+              RG 76.140      We consider that members should know who can vote at the meeting and
+                             when a person, normally prevented from voting under the Corporations Act
+                             because they are receiving a financial benefit, may vote due to relief granted
+                             by ASIC. We generally expect entities to include in meeting materials an
+                             explanation of the types of relief granted to facilitate the lawful
+                             implementation of the proposed related party transaction, including relief
+                             from the voting exclusion provisions of the Act.
+
+
+© Australian Securities and Investments Commission March 2011                                          Page 32
+                                                                REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+E          Disclosure documents
+
+                               Key points
+
+                               Information about related party arrangements is information that investors
+                               reasonably require to make informed decisions about whether to acquire
+                               securities or managed investment products, and therefore should be
+                               included in disclosure documents.
+
+                               Disclosure about related party arrangements should be made in a manner
+                               that ensures that investors understand how related party arrangements
+                               affect the entity overall and, if these arrangements are significant, the
+                               benefits and risks associated with them.
+
+
+
+
+Disclosure to investors about related party transactions
+              RG 76.141      If entities that have entered into related party arrangements wish to offer
+                             securities or managed investment products, they will need to decide what
+                             information should be disclosed about those arrangements in the relevant
+                             disclosure documents.
+
+              RG 76.142      Table 3 identifies some relevant types of disclosure documents and
+                             summarises the legislative tests for the content of these documents. In
+                             applying these tests, entities must have regard to related party arrangements.
+                             Disclosure of information about related party transactions may also be
+                             required in other documents, such as continuous disclosure announcements
+                             and financial reports.
+
+
+                             Context of the related party transaction
+
+              RG 76.143      The nature, extent and complexity of related party arrangements that exist
+                             for an entity, or within a corporate structure, is information that we consider
+                             investors reasonably require to make informed decisions about whether to
+                             acquire a security or managed investment product. For instance, details of a
+                             related party transaction involving payment of large financial benefits over a
+                             long period could be information investors reasonably require about the
+                             financial position of a company, as required by the s710 prospectus test.
+
+              RG 76.144      In deciding what disclosure about related party transactions should be
+                             included in a disclosure document, entities should consider the context in
+                             which the related party transaction occurs. A related party transaction may
+                             not be relevant to an investor’s decision when considered on its own, but
+                             when grouped together with other transactions (for instance, transactions of a
+                             similar nature or with the same related party) and their cumulative impact on
+                             the entity is considered, they may become relevant and should be disclosed.
+
+
+
+© Australian Securities and Investments Commission March 2011                                          Page 33
+                                                                 REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+              RG 76.145      Related party arrangements can be indicative of certain aspects of an entity’s
+                             business model and the risks relating to that business model. This
+                             information can also show that some members may have different economic
+                             interests in an entity to others (i.e. some members may lend to, or provide
+                             other services to, the entity), which will affect the future prospects of the
+                             entity. Entities may need to disclose ongoing related party transactions
+                             because the conflicts of interest in connection with those transactions may
+                             continue to exist and pose particular risks to investors.
+
+              RG 76.146      Where possible, investors should be given information about the value of the
+                             financial benefits paid under related party arrangements in dollar terms. This
+                             information, as well as details about the proportion of the company’s or
+                             registered scheme’s revenue, expenses, assets or liabilities that is attributable
+                             to related party arrangements, is important to investors’ decisions. (See
+                             Table 2 above for how information about the valuation of the financial
+                             benefit should be disclosed.)
+
+              RG 76.147      We expect entities to disclose information about existing related party
+                             transactions in disclosure documents except to the extent that:
+                             (a)   such disclosure may confuse investors by dealing with inconsequential
+                                   matters; or
+                             (b)   investors already have adequate information about the related party
+                                   transactions as a result of past disclosures so it is not reasonable for the
+                                   information to be repeated in full.
+
+              RG 76.148      In meeting the legislative tests for disclosure documents in relation to related
+                             party arrangements, an entity should focus on presenting investors with the
+                             key information they need to know rather than making detailed yet confusing
+                             disclosures.
+
+              RG 76.149      Prospectuses and PDSs (and other disclosure documents, such as those
+                             identified in Table 3) should describe related party arrangements relevant to
+                             the investment decision. The description should address:
+                             (a)   the value of the financial benefit;
+                             (b)   the nature of the relationship (i.e. the identity of the related party and
+                                   the nature of the arrangements between the parties, in addition to how
+                                   the parties are related for the purposes of the Corporations Act or ASX
+                                   Listing Rules—for group structures, the nature of these relationships
+                                   should be disclosed for all group entities);
+                             (c)   whether the arrangement is on arm’s length terms, is reasonable
+                                   remuneration, some other Ch 2E exception applies or we have granted
+                                   relief;
+                             (d)   whether member approval for the transaction has been sought and, if so,
+                                   when (e.g. where member approval was obtained prior to the initial
+                                   public offering (IPO) of securities in the entity);
+
+
+
+© Australian Securities and Investments Commission March 2011                                            Page 34
+                                                                         REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             (e)    the risks associated with the related party arrangement; and
+                             (f)    the policies and procedures that the entity has in place for entering into
+                                    related party transactions, including how compliance with these policies
+                                    and procedures is monitored.
+
+
+                             Other guidance
+
+              RG 76.150      We have given guidance in other regulatory guides about what we consider
+                             investors need to know about related party transactions in relation to certain
+                             industries and products. Our general view about related party disclosure
+                             outlined above should be interpreted with the benefit of this more specific
+                             guidance.
+
+                                    Note: For other guidance and proposals on the disclosure of information about related
+                                    party arrangements in prospectuses and PDSs, see Regulatory Guide 45 Mortgage
+                                    schemes: Improving disclosure for retail investors (RG 45), Regulatory Guide 46
+                                    Unlisted property schemes: Improving disclosure for retail investors (RG 46),
+                                    Regulatory Guide 69 Debentures: Improving disclosure for retail investors (RG 69),
+                                    Regulatory Guide 132 Funds management: Compliance and oversight (RG 32),
+                                    Consultation Paper 133 Agribusiness managed investment schemes: Improving
+                                    disclosure for retail investors (CP 133), Consultation Paper 134 Infrastructure entities:
+                                    Improving disclosure for retail investors (CP 134) and Consultation Paper 141
+                                    Mortgage schemes: Strengthening the disclosure benchmarks (CP 141).
+
+
+Table 3:    Summary of content requirements for disclosure documents
+
+ Disclosure document           Content requirements relevant to related party arrangements
+
+ Prospectus                    All the information that investors and their professional advisers would reasonably
+                               require to make an informed decision about the financial position, performance
+                               and prospects of the company: s710.
+
+                               Information about the nature and extent of interests, or amounts paid, given or
+                               agreed to be paid or given, to directors, proposed directors or promoters of the
+                               company: s711.
+
+                               All the information that investors and their professional advisers would reasonably
+                               require to make an assessment of the effect of the offer on the body (s713),
+                               including information excluded from a continuous disclosure notice reasonably
+                               required to make an informed decision about the financial position, performance
+                               and prospects of the company: s713(5).
+
+ Product Disclosure            Any information that might reasonably be expected to have a material influence
+ Statement (PDS)               on the decision of a reasonable person, as a retail client, whether to acquire the
+                               product: s1013E.
+                                   Note: For registered schemes to which Div 4 of Pt 7.9 of the Corporations Regulations
+                                   applies, the specific disclosures required by that division apply instead of s1013E. (For
+                                   example, in the case of a simple managed investment scheme to which the division
+                                   applies, all information required by Sch 10B of the Corporations Regulations must be
+                                   disclosed, which includes the risks of the scheme.)
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                           Page 35
+                                                                    REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+ Disclosure document           Content requirements relevant to related party arrangements
+
+ Offer information             A copy of an annual financial report with a balance date that occurs within the
+ statement                     past six months before the offer of securities. The annual financial report must be
+                               audited and prepared in accordance with the Australian accounting standards:
+                               s715(2). Related party disclosure in accordance with AASB 124 Related party
+                               disclosures must be included in the annual financial report.
+
+ Bidder’s statement            If any securities (other than managed investment products) are offered as
+                               consideration under the bid—all material that would be required for a prospectus
+                               for an offer of those securities by the bidder under s710–713 (see above):
+                               s636(1)(g).
+
+                               If any managed investment products are offered as consideration under the bid—
+                               all material that would be required by s1013C (which refers to s1013E) to be
+                               included in a PDS given to a person in an issue situation for those managed
+                               investment products (see above): s636(1)(ga).
+
+                               In any case—information that is material to the decision-making by a holder of bid
+                               class securities whether to accept the offer under the bid: s636(1)(m).
+
+ Target statement              All the information that holders of bid class securities and their professional
+                               advisers would reasonably require to make an informed assessment about
+                               whether to accept the offer under the bid: s638(1).
+
+ Scheme booklet                All the information that is material to the decision-making by a creditor or member
+                               of the body that is known by the directors of the body and has not previously been
+                               disclosed to the creditors or members of the body: s412(1)(a).
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                    Page 36
+                                                                     REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+Key terms
+
+
+                               Term                      Meaning in this document
+
+                               AASB 124 (for             An Australian accounting standard made for the purposes
+                               example)                  of the Corporations Act (in this example numbered 124)
+
+                               AFS licence               An Australian financial services licence under s913B of
+                                                         the Corporations Act that authorises a person who carries
+                                                         out a financial services business to provide financial
+                                                         services
+                                                           Note: This is a definition contained in s761A of the
+                                                           Corporations Act.
+
+                               AFS licensee              A person who holds an AFS licence under s913B of the
+                                                         Corporations Act
+                                                           Note: This is a definition contained in s761A of the
+                                                           Corporations Act.
+
+                               arm’s length              The exception, set out in s210, to the requirement for
+                               exception                 public companies and registered schemes to obtain
+                                                         member approval to give a financial benefit to a related
+                                                         party
+
+                               ASIC                      Australian Securities and Investments Commission
+
+                               Australian accounting     Standards made for the purposes of the Corporations Act
+                               standards
+
+                               Australian Company        The register of companies maintained by ASIC
+                               Register
+
+                               Ch 2E (for example)       A chapter of the Corporations Act (in this example,
+                                                         numbered 2E), unless otherwise specified
+
+                               Corporations Act          Corporations Act 2001, including regulations made for the
+                                                         purposes of that Act
+
+                               director                  A director of a public company
+
+                               disclosure document       Includes a prospectus, PDS, profile statement, offer
+                                                         information statement, scheme booklet or takeover
+                                                         document for the offer of securities or managed
+                                                         investment products, as the case may be
+
+                               entity                    A public company or a registered scheme
+
+                               general meeting           A meeting of the members of a public company or
+                                                         registered scheme, as the case may be
+
+                               meeting materials         The notice of meeting and explanatory statement
+
+                               members’ meeting          A meeting of the members of a public company or
+                                                         registered scheme, as the case may be
+
+                               PDS                       Product Disclosure Statement
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                     Page 37
+                                                                     REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                               Term                      Meaning in this document
+
+                               prescribed financial      Has the meaning given to that term in s9 of the
+                               market                    Corporations Act
+
+                               Product Disclosure        A document that must be given to a retail client in relation
+                               Statement                 to the offer or issue of a financial product in accordance
+                                                         with Div 2 of Pt 7.9 of the Corporations Act
+                                                           Note: See s761A for the exact definition.
+
+                               Pt 5C.7 (for example)     A part of the Corporations Act (in this example, numbered
+                                                         5C.7)
+
+                               registered managed        A managed investment scheme registered under s601EB
+                               investment scheme         of the Corporations Act
+
+                               registered scheme         Registered managed investment scheme
+
+                               related party             Has the meaning given to that term in s228, or as
+                                                         modified by Pt 5C.7 for registered schemes, as the case
+                                                         may be
+
+                               responsible entity        The public company named in ASIC’s record of the
+                                                         scheme’s registration as the responsible entity or
+                                                         temporary responsible entity of a registered scheme
+
+                               RG 76 (for example)       An ASIC regulatory guide (in this example, numbered 76)
+
+                               s208 (for example)        A section of the Corporations Act (in this example,
+                                                         numbered 208)
+
+                               takeover document         A bidder’s statement, target statement or explanatory
+                                                         statement for a scheme of arrangement
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                  Page 38
+                                                                 REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+Related information
+
+                             Headnotes
+                             allowing directors with a material personal interest to attend and vote at board
+                             meetings and quorum requirements (s195, 196), allowing related party or its
+                             associates to vote on a resolution at shareholders’ meeting (s224(4)), ASIC
+                             comments on documents (s220), content of notices of meeting and explanatory
+                             statements (s219), disclosure about related party transactions in other disclosure
+                             documents (s412, 636(1), 638(1), 710, 711, 713(5), 715(2), 1013E), factors to
+                             consider when deciding if a related party transaction is on arm’s length terms
+                             (s210), shortening period for ASIC comments on lodged documents (s218(2))
+
+                             Pro formas
+                             PF 90 Voting by interested directors
+
+                             PF 113 Related parties or associates—voting
+
+                             Regulatory guides
+                             RG 45 Mortgage schemes: Improving disclosure for retail investors
+
+                             RG 46 Unlisted property schemes: Improving disclosure for retail investors
+
+                             RG 51 Applications for relief
+
+                             RG 69 Debentures: Improving disclosure for retail investors
+
+                             RG 74 Acquisitions agreed to by shareholders
+
+                             RG 111 Content of expert reports
+
+                             RG 112 Independence of experts
+
+                             RG 132 Funds management: Compliance and oversight
+
+                             RG 136 Funds management: Discretionary powers
+
+                             RG 181 Licensing: Managing conflicts of interest
+
+
+                             Legislation
+
+                             Corporations Act, s9, 189, 191, 195, 196, 208, 210, 211, 212, 213, 214, 215,
+                             216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 230, 249L(3),
+                             253E, 412(1)(a), 601LA, 601LB, 601LC, 601LD, 601LE, 601FC(1), 611,
+                             636, 638, 710, 711, 713, 715, 1013C, 1013E and 1317D
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                           Page 39
+                                                                REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             Cases
+
+                             ACI Operations Pty Ltd v Berri Limited [2005] VSC 201 (Berri)
+
+                             ASIC v Australian Investors Forum Pty Ltd & Others (No 2) [2005] NSWSC
+                             267 (ASIC v Australian Investors Forum)
+
+                             Australian Trade Commission v WA Meat Exports Pty Ltd (1987) 75
+                             ALR 287
+
+                             The Bell Group Limited (in liq) v Westpac Banking Corporation (No 9)
+                             (2008) 70 ACSR 1 (Bell Group)
+
+                             Boardman v Phipps [1967] 2 AC 46
+
+                             Boulting v ACTAT [1963] 2 QB 606
+
+                             Bray v Ford [1896] AC 44
+
+                             Bulfin’s Limited v Bebarfald (1938) 38 SR (NSW) 423
+
+                             Centofanti v Eekimitor Pty Ltd (1995) 65 SASR 31
+
+                             Chan v Zacharia (1984) 154 CLR 178
+
+                             Claremont Petroleum NL v Cummings and Fuller (1992) 110 ALR 239
+                             (Claremont Petroleum)
+
+                             Devereaux Holdings Pty Ltd v Parry Corporation (1985) 9 ACLR 956
+                             (Devereaux)
+
+                             Duke Group Ltd (in liq) v Pilmer [1999] SASC 97
+
+                             ENT Pty Ltd v Sunraysia Televisions Ltd (2007) 61 ACSR 626 (Sunraysia)
+
+                             Everest Capital Ltd as Trustee of the EBI Income Fund v Trust Co Ltd and
+                             Others [2010] NSWSC 231
+
+                             Fitzsimmons v The Queen (1997) 23 ACSR 355
+
+                             Fraser v NRMA Holdings Limited (1995) 55 FCR 452
+
+                             Granby Pty Ltd v Federal Commissioner of Taxation (1995) 129 ALR 503
+                             (Granby)
+
+                             Grand Enterprises Pty Ltd v Aurium Resources Ltd (2009) 256 ALR 1
+                             (Grand Enterprises)
+
+                             Re HIH Insurance Ltd (in prov liq) and HIH Casualty and General
+                             Insurance Ltd (in prov liq); ASIC v Adler and Others (2002) 41 ACSR 72
+                             (ASIC v Adler)
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                          Page 40
+                                                                REGULATORY GUIDE 76: Related party transactions
+
+
+
+
+                             Hospital Products Ltd v United States Surgical Corp (1984) 156 CLR 41
+
+                             Lion Nathan Australia Pty Ltd v Coopers Brewery Ltd and Others (2005) 55
+                             ACSR 583
+
+                             McGellin v Mount King Mining NL (1998) 144 FLR 288 (McGellin)
+
+                             Orrong Strategies Pty Ltd v Village Roadshow Ltd [2007] VSC 1 (Orrong)
+
+                             Permanent Building Society (in liq) v Wheeler (1994) 14 ACSR 109
+
+                             The Queen v District Council of Victor Harbour; Ex parte Costain Australia
+                             Ltd [1983] 34 SASR 188
+
+                             R v Byrnes & Hopwood (1995) 183 CLR 501
+
+                             Residues Treatment and Trading Co Ltd v Southern Resources Ltd (1998) 14
+                             ACLR 375
+
+                             Streeter v Western Areas Exploration Pty Ltd [No 2] [2011] WASCA 17
+
+                             Transvaal Lands Co v New Belgium (Transvaal) Lands & Development Co
+                             [1914] 2 Ch 488
+
+                             Trustee for the Estate of the Late AW Furse No 5 Will Trust v FCT (1990) 21
+                             ATR 1123 (Furse)
+
+                             Warman International Ltd v Dwyer (1995) 182 CLR 544
+
+
+                             Consultation papers and reports
+
+                             CP 133 Agribusiness managed investment schemes: Improving disclosure
+                             for retail investors
+
+                             CP 134 Infrastructure entities: Improving disclosure for retail investors
+
+                             CP 141 Mortgage schemes: Strengthening the disclosure benchmarks
+
+                             CP 142 Related party transactions
+
+                             REP 233 Response to submissions on CP 142 Related party transactions
+
+
+                             Media releases
+
+                             04-206MR Valuing options for directors and executives (28 June 2004)
+
+                             04-257MR ASIC cracks down on related party disclosure (10 August 2004)
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                          Page 41
+

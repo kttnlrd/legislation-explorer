@@ -1,0 +1,37 @@
+{
+  "citation": "RG 86",
+  "title": "Tracing beneficial ownership",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide explains how ASIC will exercise its powers under the beneficial ownership tracing provisions (Part 6C.2) of the Corporations Act 2001. It covers when ASIC will give a direction to disclose beneficial ownership, relief from such directions, handling of information, and enforcement.",
+  "background": "The guide is issued under the Corporations Act 2001 and sets out ASIC's policy on tracing beneficial ownership of shares in listed companies and listed managed investment schemes. It is intended for persons who may be subject to a direction to provide beneficial ownership information, and for their advisers.",
+  "ruling": "ASIC will give a beneficial ownership direction where it appears that a person has a relevant interest in securities and it is necessary to ascertain the true beneficial owner. ASIC may grant relief from responding to a direction in limited circumstances, such as where compliance would be unduly burdensome or where the information is already publicly available. Information obtained will generally be passed on to the relevant company or responsible entity, but ASIC may grant relief from register requirements in appropriate cases. ASIC will enforce directions through court orders, including seeking orders for sale or vesting of securities, and may pursue other remedies under the Corporations Act for non-compliance or false information.",
+  "date_of_effect": "2007-06-26",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 602",
+    "Corporations Act 2001 (Cth) s 672A",
+    "Corporations Act 2001 (Cth) s 672B",
+    "Corporations Act 2001 (Cth) s 672C",
+    "Corporations Act 2001 (Cth) s 672DA",
+    "Corporations Act 2001 (Cth) s 672F",
+    "Corporations Act 2001 (Cth) s 673",
+    "Corporations Act 2001 (Cth) s 1041E",
+    "Corporations Act 2001 (Cth) s 1041H",
+    "Corporations Act 2001 (Cth) s 1306",
+    "Corporations Act 2001 (Cth) s 1308",
+    "Corporations Act 2001 (Cth) s 1309",
+    "Corporations Act 2001 (Cth) s 1310",
+    "Corporations Act 2001 (Cth) s 1311",
+    "Corporations Act 2001 (Cth) s 1325A",
+    "Corporations (Fees) Regulations 2001 (Cth) schedule 1, item 23"
+  ],
+  "cases_referenced": [
+    "Australian Securities Commission v Bank Leumi Le-Israel (Switzerland) & Ors (1996) 14 ACLC 1576",
+    "Brunswick NL v Blossomtree Pty Ltd (1992) 10 ACLC 658",
+    "Crosley Ltd v North Broken Hill Holdings Ltd & Ors (1986) 4 ACLC 432",
+    "Re North Broken Hill Holdings Ltd (1986) 4 ACLC 131"
+  ],
+  "related_rulings": [
+    "RG 4"
+  ]
+}

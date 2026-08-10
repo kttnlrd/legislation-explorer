@@ -1,0 +1,27 @@
+{
+  "citation": "RG 67",
+  "title": "Real estate companies",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide sets out ASIC's policy on relief from certain provisions of the Corporations Act 2001 (Cth) for the sale and valuation of shares in a real estate company. It covers fundraising relief (disclosure and hawking) and licensing relief for vendors, real estate agents, and valuers.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth) and is intended for vendors, real estate agents, and valuers involved in the sale or valuation of shares in real estate companies. It explains when and how ASIC will exercise its powers to grant relief from fundraising and licensing provisions, and provides practical guidance on compliance.",
+  "ruling": "ASIC will provide conditional relief from the disclosure requirements in Chapter 6D of the Corporations Act for offers of shares in real estate companies that meet the definition in ASIC Corporations (Real Estate Companies) Instrument 2015/1049, provided certain conditions are met (e.g., the offer is made by a vendor who is not in the business of selling shares, and the buyer is given prescribed information). ASIC also grants relief from the prohibition on unsolicited meetings and telephone calls (s736) for real estate agents acting in the ordinary course of their licensed business. For licensing, ASIC provides relief from the requirement to hold an Australian financial services (AFS) licence for persons who provide advice or deal in real estate interests, provided they hold a state or territory real estate licence and comply with conditions. The relief is subject to conditions designed to ensure investor protection and market integrity.",
+  "date_of_effect": "2015-11-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) Ch 6D",
+    "Corporations Act 2001 (Cth) s 707",
+    "Corporations Act 2001 (Cth) s 708",
+    "Corporations Act 2001 (Cth) s 736",
+    "Corporations Act 2001 (Cth) s 911A(1)",
+    "Corporations Act 2001 (Cth) s 1041H",
+    "Local Government (Planning and Environment) Act 1990 (Qld) s 5.10(4)",
+    "Transfer of Land Act 1958 (Vic)"
+  ],
+  "cases_referenced": [
+    "Macaura v Northern Assurance Co Ltd [1925] AC 619"
+  ],
+  "related_rulings": [
+    "RG 38",
+    "ASIC Corporations (Real Estate Companies) Instrument 2015/1049"
+  ]
+}

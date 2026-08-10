@@ -1,0 +1,1236 @@
+REGULATORY GUIDE 100
+
+Court enforceable undertakings
+
+November 2021
+
+
+
+
+About this guide
+A court enforceable undertaking is an administrative remedy for
+contraventions of legislation administered by ASIC. It contains a set of
+undertakings provided by another person to ASIC that ASIC has accepted.
+This guide is for an entity or person and their legal advisers who are
+considering offering a court enforceable undertaking to ASIC.
+
+It explains our approach to accepting court enforceable undertakings under
+the legislation we administer, including:
+   s93A or 93AA of the Australian Securities and Investments Commission
+    Act 2001 (ASIC Act);
+   s322 of the National Consumer Credit Protection Act 2009 (National
+    Credit Act); and
+   s262A of the Superannuation Industry (Supervision) Act 1993 (SIS Act).
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in November 2021 and is based on legislation and
+                             regulations as at the date of issue.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 100 Enforceable undertakings, issued
+                                     February 2008, reissued February 2012 and February 2015
+                                    Superseded Guide 300, issued March 2007, rebadged as a regulatory
+                                     guide 5 July 2007
+                                    Superseded Practice Note 69, issued 7 April 1999
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                          Page 2
+                                                                      REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+Contents
+                             A      Overview ........................................................................................... 4
+                             B      What is a court enforceable undertaking? .................................... 5
+                                    ASIC’s power to accept court enforceable undertakings ................... 5
+                                    How a court enforceable undertaking works ..................................... 5
+                             C      When will we consider accepting a court enforceable
+                                    undertaking? .................................................................................... 7
+                                    Our approach to accepting court enforceable undertakings .............. 7
+                                    When we will not accept a court enforceable undertaking ................ 8
+                                    Examples of court enforceable undertakings we may accept ........... 8
+                             D      What terms should a court enforceable undertaking include?..... 10
+                                    Acceptable and standard terms ....................................................... 10
+                                    Unacceptable terms ......................................................................... 11
+                             E      Are court enforceable undertakings made public? ................... 12
+                                    Our approach to publicising court enforceable undertakings .......... 12
+                                    Disclosure to the market operator ................................................... 13
+                                    Reporting on compliance ................................................................. 13
+                             F      Can a court enforceable undertaking be varied or withdrawn? 15
+                                    Varying a court enforceable undertaking ......................................... 15
+                                    Withdrawing an offer of a court enforceable undertaking ................ 15
+                             G      What happens if a court enforceable undertaking is not
+                                    complied with? ............................................................................... 16
+                             Appendix: Guidance on the use of independent experts ................... 17
+                                Reports by independent experts ...................................................... 17
+                                Appointment of an independent expert by ASIC ............................. 18
+                                Appointment of an independent expert by the party ........................ 18
+                                Assessing the independence of the expert...................................... 19
+                                Expert’s arrangements to manage conflicts of interest ................... 21
+                                Publicity for independent expert reports .......................................... 22
+                             Key terms ............................................................................................... 24
+                             Related information ............................................................................... 25
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                                                      Page 3
+                                                               REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+A          Overview
+
+                              Key points
+
+                              ASIC accepts court enforceable undertakings where we consider that they
+                              will be likely to improve and enforce compliance with the law. This guide
+                              explains our approach to court enforceable undertakings, including:
+                              • when we will consider accepting an undertaking;
+                              • what terms may be acceptable and when we will consider consenting to
+                                requests to vary or withdraw an undertaking;
+                              • public reporting on compliance with undertakings; and
+                              • what happens if an undertaking is not complied with.
+
+
+              RG 100.1       Court enforceable undertakings are a flexible remedy that ASIC may accept
+                             to improve and enforce compliance with the law.
+
+                                   Note: Court enforceable undertakings were previously referred to as ‘enforceable
+                                   undertakings’.
+
+              RG 100.2       This guide explains our approach to accepting court enforceable
+                             undertakings, using the numerous powers given to ASIC by the legislation
+                             that we administer. Some of these powers are in:
+                             (a)   s93A and 93AA of the Australian Securities and Investments
+                                   Commission Act 2001 (ASIC Act);
+                             (b)   s322 of the National Consumer Credit Protection Act 2009 (National
+                                   Credit Act); and
+                             (c)   s262A of the Superannuation Industry (Supervision) Act 1993 (SIS Act).
+
+              RG 100.3       This guide explains:
+                             (a)   what a court enforceable undertaking is (Section B);
+                             (b)   when we will consider accepting a court enforceable undertaking
+                                   (Section C);
+                             (c)   the types of terms that are generally acceptable to ASIC (Section D);
+                             (d)   when we will make court enforceable undertakings public (Section E);
+                             (e)   when we will consider consenting to requests to vary or withdraw a
+                                   court enforceable undertaking (Section F);
+                             (f)   what happens if a court enforceable undertaking is not complied with
+                                   (Section G).
+
+              RG 100.4       We have also set out our guidance and requirements for using independent
+                             experts as part of a court enforceable undertaking: see the appendix.
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                                      Page 4
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+B          What is a court enforceable undertaking?
+
+                              Key points
+
+                              A court enforceable undertaking is an administrative remedy that ASIC may
+                              accept to address contraventions of legislation: see RG 100.5.
+
+                              This section sets out the parties from whom we will accept a court
+                              enforceable undertaking: see RG 100.6 and Table 1.
+
+                              It also sets out how court enforceable undertakings work, including who
+                              can offer and accept the undertaking, and when the undertaking takes
+                              effect: see RG 100.7–RG 100.11.
+
+
+
+ASIC’s power to accept court enforceable undertakings
+              RG 100.5       Court enforceable undertakings are one of a range of enforcement remedies
+                             available to ASIC. We use them to address contraventions of the legislation
+                             we are responsible for administering.
+
+              RG 100.6       We may accept a court enforceable undertaking from the parties set out in
+                             Table 1.
+
+Table 1:    Parties from whom we may accept a court enforceable undertaking
+
+ Party                        Situation                                                 Legislative reference
+
+ A person or company          The person or company has contravened the ASIC Act        s93AA(1) of the ASIC
+                              or the Corporations Act 2001 (Corporations Act)           Act
+
+ A responsible entity of a    The responsible entity or registered scheme has           s93A(1) of the ASIC
+ registered scheme            contravened the Corporations Act                          Act
+
+ A person or company          The person or company has contravened the National        s322(1) of the National
+                              Credit Act                                                Credit Act
+
+ A trustee of a               The trustee has contravened the SIS Act                   s262A(1) of the SIS Act
+ superannuation fund
+
+
+
+
+How a court enforceable undertaking works
+              RG 100.7       The party providing a court enforceable undertaking to ASIC can be a
+                             company, an individual or a responsible entity. The party can initiate the
+                             court enforceable undertaking, or it can be initiated by ASIC. ASIC does not
+                             have the power to require a person to provide an undertaking. Similarly, a
+                             person cannot compel ASIC to accept an undertaking.
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                           Page 5
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+              RG 100.8       The terms of an undertaking may be the subject of negotiation between the
+                             party offering the undertaking and ASIC. ASIC’s Commission, or a delegate
+                             of the Commission, will make the decision to accept or reject the
+                             undertaking.
+
+              RG 100.9       A court enforceable undertaking will not take effect until the Commission or
+                             a delegate formally accepts it.
+
+              RG 100.10      Each party will keep a signed original of the court enforceable undertaking.
+
+              RG 100.11      Court enforceable undertakings are available for public inspection on the
+                             court enforceable undertakings register: see RG 100.30.
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                          Page 6
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+C          When will we consider accepting a court
+           enforceable undertaking?
+
+                              Key points
+
+                              A court enforceable undertaking is an administrative remedy we may
+                              accept as an alternative to, or in conjunction with, civil court action or
+                              administrative action.
+
+                              We may accept a court enforceable undertaking if we consider it will
+                              provide an effective and appropriate regulatory outcome that is in the public
+                              interest: see RG 100.12–RG 100.18.
+
+                              We will not usually accept a court enforceable undertaking:
+                              • for criminal conduct;
+                              • in cases of deliberate misconduct; or
+                              • for conduct involving a high level of recklessness (see RG 100.19).
+
+                              We have set out examples of the types of undertakings we may accept at
+                              Table 2.
+
+
+
+Our approach to accepting court enforceable undertakings
+              RG 100.12      We will only accept a court enforceable undertaking when we consider it
+                             will achieve an effective and appropriate regulatory outcome that is in the
+                             public interest. We have set out our general approach to enforcement remedies
+                             in Information Sheet 151 ASIC’s approach to enforcement (INFO 151).
+
+              RG 100.13      We will consider a range of factors before accepting a court enforceable
+                             undertaking. These factors will vary according to the circumstances. Factors
+                             we typically consider include:
+                             (a)   whether the person is likely to comply with the undertaking;
+                             (b)   the likely effect of the undertaking on the person’s future conduct,
+                                   including whether the undertaking is likely to deter the person from
+                                   engaging in misconduct in the future;
+                             (c)   whether the undertaking will deter others from engaging in similar
+                                   conduct; and
+                             (d)   the public interest, including remediation outcomes such as
+                                   compensation for affected consumers.
+
+              RG 100.14      We will also take into account:
+                             (a)   the significance of the issues to the market and the community;
+                             (b)   the nature and seriousness of the alleged contravention; and
+                             (c)   the compliance history of the party providing the court enforceable
+                                   undertaking.
+
+
+
+© Australian Securities and Investments Commission November 2021                                           Page 7
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+              RG 100.15      We will not accept a court enforceable undertaking unless we have reason to
+                             believe there has been a contravention of relevant legislation.
+
+              RG 100.16      We will generally only consider accepting a court enforceable undertaking
+                             after we have weighed up the effectiveness of the regulatory outcome
+                             offered by the undertaking compared to outcomes offered by other available
+                             enforcement remedies.
+
+              RG 100.17      We may also accept a court enforceable undertaking in conjunction with
+                             other enforcement action. For example, we may commence or continue civil
+                             penalty proceedings against a party, but also accept an undertaking from that
+                             party that results in remediation outcomes for a wider class of affected
+                             consumers than those referred to in the court proceedings.
+
+              RG 100.18      Our acceptance of a court enforceable undertaking in a particular set of
+                             circumstances should not be regarded as binding on ASIC in the future. For
+                             example, accepting an undertaking from one person does not necessarily
+                             mean we will accept an undertaking for similar misconduct from another
+                             person, or that we will accept a further undertaking from the same person.
+
+
+When we will not accept a court enforceable undertaking
+              RG 100.19      We will not usually accept a court enforceable undertaking from a party:
+                             (a)   instead of referring a brief of evidence to the Commonwealth Director
+                                   of Public Prosecutions (CDPP) for potential criminal prosecution;
+                             (b)   where the misconduct is deliberate or involves a high level of recklessness;
+                             (c)   after a matter has been referred to an ASIC delegate or other specialist
+                                   body; or
+                             (d)   as an alternative form of relief if conditional relief has not been
+                                   complied with.
+
+
+
+Examples of court enforceable undertakings we may accept
+              RG 100.20    The examples in Table 2 illustrate in general terms the kinds of court
+                           enforceable undertakings we may accept. These examples are intended as a
+                           guide only and are not exhaustive.
+
+Table 2:    Examples of court enforceable undertakings
+
+ Corporate governance         The party will refrain from taking part in the management of specified corporations
+                              for a specific period of time.
+                              The party will remedy deficiencies in the company’s compliance systems. They will
+                              take specified action and have this reviewed by an auditor or expert.
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                            Page 8
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+ Auditors and                 The party will refrain from performing a significant role in an audit engagement for
+ liquidators                  a set period of time. They will also complete additional professional education and
+                              be subject to technical supervision on future audit engagements for a set period of
+                              time.
+                              The party will refrain from accepting appointments to insolvency administrations
+                              for a set period of time. They will also complete additional professional education
+                              and be subject to technical supervision on future insolvency administrations.
+
+ Disclosure                   The party will inform the market to correct previous false or misleading disclosure,
+                              or any continuing misrepresentation for which the person is responsible.
+
+                              The party will set up and implement an internal compliance plan. They will
+                              periodically report on this plan to the market.
+
+ Takeovers                    The party will remedy the unacceptable circumstances that have occurred, or may
+                              have occurred, in a takeover. They will do this by carrying out certain necessary
+                              action (provided that the matter has not been referred to the Takeovers Panel).
+
+ Remediation                  The party will investigate the conduct that is the subject of the court enforceable
+                              undertaking. The investigation should identify affected consumers and any loss
+                              suffered. The remediation should aim to return affected consumers as closely as
+                              possible to the position they would have otherwise been in. The process for
+                              bringing this about may be described in the undertaking.
+
+ Systemic compliance          The party will remedy the underlying compliance or systems error. They will also
+ issues                       take any necessary rectification steps to ensure that existing compliance
+                              measures, systems and controls are corrected or strengthened. If necessary, they
+                              will undertake appropriate remediation steps to remedy any loss to consumers .
+
+ Corrective notices           The party will write to investors or parties affected by the misconduct. The
+                              corrective notice will inform them of the court enforceable undertaking, its terms
+                              and how a copy of it can be obtained.
+
+                              The party will also issue an advertisement or engage in corrective advertising (on
+                              a website or otherwise) to rectify any misleading conduct.
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                              Page 9
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+D          What terms should a court enforceable
+           undertaking include?
+
+                              Key points
+
+                              This section provides guidance about the terms that should be included in a
+                              court enforceable undertaking: see RG 100.21 and Table 3. It also explains
+                              when the undertaking should contain admissions that the law was
+                              contravened: see RG 100.22.
+
+                              There are some terms that we will generally not accept: see RG 100.23.
+
+
+Acceptable and standard terms
+              RG 100.21      Table 3 lists the areas that a court enforceable undertaking may cover.
+
+Table 3:    What a court enforceable undertaking may cover
+
+ Background                   This section sets out the details of the relevant conduct and the nature of our
+                              views about the conduct.
+
+ Compliance and               We must be satisfied the court enforceable undertaking identifies the relevant
+ monitoring                   misconduct and explains how the party providing the court enforceable
+                              undertaking will ensure it does not occur again. We must also be satisfied that
+                              there are adequate arrangements for monitoring how the undertaking is
+                              implemented and for reporting to ASIC.
+
+                              Details might include:
+                               monitoring and reporting mechanisms (e.g. internal control or compliance
+                                programs);
+                               any external assessment of the changes that are put in place;
+                               the name of the contact officer who is responsible for monitoring compliance
+                                with the court enforceable undertaking (and any external expert); and
+                               the ASIC officer who the party will report to about compliance with the court
+                                enforceable undertaking.
+
+ Remediation                  When a court enforceable undertaking includes remediation, we may require the
+                              party to:
+                               investigate the conduct the subject of the court enforceable undertaking;
+                               identify the affected consumers;
+                               identify any loss suffered; and
+                               return affected consumers as closely as possible to the position they would have
+                                otherwise been in.
+
+                              For more guidance on our expectations for how a remediation should be
+                              conducted, see Regulatory Guide 256 Client review and remediation conducted by
+                              advice licensees (RG 256).
+
+ Corrective notices           In cases of misleading conduct, we may require the party to correct the misleading
+                              impression for which it is responsible.
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                            Page 10
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+ Other action                 The party must acknowledge that the court enforceable undertaking does not
+                              affect the rights of other parties or constitute any restraint on ASIC. The exception
+                              to this is any specific enforcement action that ASIC has agreed to compromise.
+                              We may accept an undertaking while continuing with our investigation into other
+                              matters not covered by the undertaking.
+
+ Compliance                   Where appropriate, we will require a party to provide ASIC with a statement
+ attestations                 attesting to compliance with the terms of a court enforceable undertaking. This
+                              may be required from an appropriate senior officer or from the party’s board or
+                              governing body.
+
+ Independent expert           Some court enforceable undertakings will contain terms requiring an independent
+ report                       expert to review and report on specified matters. Further information about ASIC’s
+                              requirements for court enforceable undertakings that involve the appointment of an
+                              independent expert are set out in the appendix.
+
+ Publicity and public         All court enforceable undertakings accepted by ASIC are made public, must
+ access                       contain a clause that waives confidentiality, and acknowledges ASIC’s publicity
+                              and public access policy: see RG 100.24–RG 100.30. The clause may exclude
+                              certain information where necessary: see RG 100.28.
+
+                              We will publicly report on a promisor’s compliance with undertakings given in a
+                              court enforceable undertaking.
+
+
+
+                             When admissions of contravening conduct will be required
+
+                RG 100.22    When ASIC accepts a court enforceable undertaking in final resolution of a
+                             matter, we will generally require that it contains admissions that the
+                             promisor contravened specific legislative provisions. The admissions must
+                             properly reflect the seriousness of the conduct.
+
+
+
+Unacceptable terms
+                RG 100.23    Generally, we will not accept a court enforceable undertaking that:
+                             (a)   contains a clause denying liability or omitting any standard terms;
+                             (b)   does not include details of the conduct that gave rise to the undertaking;
+                             (c)   contains any clause that sets up defences for possible non-compliance
+                                   with the undertaking; or
+                             (d)   contains terms of confidentiality (see RG 100.25).
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                             Page 11
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+E          Are court enforceable undertakings made
+           public?
+
+                              Key points
+
+                              This section provides guidance about our approach to publicising and
+                              giving access to court enforceable undertakings: see RG 100.24–
+                              RG 100.27.
+
+                              We will not accept court enforceable undertakings on a confidential basis.
+                              However, there may be times when we will agree not to disclose some
+                              information contained within a court enforceable undertaking: see
+                              RG 100.28–RG 100.29.
+
+                              We will not remove a court enforceable undertaking from the register: see
+                              RG 100.30.
+
+                              Listed companies may need to disclose the court enforceable undertaking
+                              to the relevant market operator: see RG 100.31.
+
+                              We may report publicly on whether a court enforceable undertaking has
+                              been complied with or if we become aware of a failure to comply with the
+                              undertaking: see RG 100.32–RG 100.36.
+
+
+
+
+Our approach to publicising court enforceable undertakings
+
+              RG 100.24      Our approach to public comment on enforcement action is contained in
+                             Information Sheet 152 Public comment on ASIC’s regulatory activities
+                             (INFO 152). There is significant public interest in ensuring that consumers,
+                             industry and the broader community are aware of the enforcement action we
+                             take. Transparency and disclosure are important factors in market integrity
+                             and consumer confidence—they serve to promote deterrence and educate
+                             consumers and industry.
+
+              RG 100.25      Given this, we will not accept court enforceable undertakings in confidence,
+                             or on the basis that the terms of an undertaking or the parties to it are
+                             confidential.
+
+              RG 100.26      Court enforceable undertakings accepted by ASIC are made available to the
+                             public on the court enforceable undertakings register on the ASIC website
+                             (see www.asic.gov.au/euregister).
+                                  2TU
+
+
+
+
+              RG 100.27      It is also our practice to issue a media release in a form determined by ASIC
+                             when we accept an undertaking. We may also report on compliance with the
+                             undertaking, and make available for public inspection summaries of reports
+                             by independent experts on compliance with the undertaking.
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                         Page 12
+                                                               REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+              RG 100.28      A party providing a court enforceable undertaking may ask for certain
+                             information not to be released. We will not release information if we are
+                             satisfied that the information:
+                             (a)   is commercial in confidence;
+                             (b)   consists of personal details of an individual; or
+                             (c)   should not be disclosed because its release would be against the public
+                                   interest.
+
+                                   Note: Other information about an undertaking will also be made available for public
+                                   inspection—see RG 100.67–RG 100.74.
+
+              RG 100.29      If information is deleted, the copy of the court enforceable undertaking will
+                             include a note stating that certain information has been deleted.
+
+              RG 100.30      The court enforceable undertakings register provides a complete record of
+                             the undertakings ASIC has accepted over time. It is our policy not to remove
+                             an undertaking from the register once the obligations of the undertaking have
+                             been fulfilled.
+
+
+
+Disclosure to the market operator
+              RG 100.31      A company listed on a prescribed financial market may give ASIC a court
+                             enforceable undertaking. In this circumstance, the listing rules of that market
+                             may require the company to release a copy of the undertaking to the market
+                             operator. The company should also ensure they comply with s674 of the
+                             Corporations Act.
+
+                                   Note: For example, if a company is listed on the financial market operated by ASX
+                                   Limited (ASX), this obligation may arise under ASX Listing Rule 3.1.
+
+
+
+
+Reporting on compliance
+              RG 100.32      We may report publicly on whether a party that has provided a court
+                             enforceable undertaking has complied with it.
+
+              RG 100.33      A court enforceable undertaking may require reporting by an independent
+                             expert. In these cases, we will generally make a summary of the final report,
+                             or a statement that refers to the content, public: see RG 100.67.
+
+              RG 100.34      Our statements on compliance with undertakings will also be available on
+                             the court enforceable undertakings register on the ASIC website (see
+                             www.asic.gov.au/euregister).
+                             2TU
+
+
+
+
+              RG 100.35      We will not usually report publicly on compliance with a court enforceable
+                             undertaking to refrain from engaging in particular conduct or activities. For
+
+
+
+© Australian Securities and Investments Commission November 2021                                                  Page 13
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+                             example, undertakings to refrain (whether permanently or for a period of
+                             time) from:
+                             (a)   taking part in the management of corporations;
+                             (b)   providing financial services;
+                             (c)   performing a significant role in an audit; or
+                             (d)   accepting appointments to insolvency administrations.
+
+              RG 100.36      However, we will report publicly if we become aware there has been a
+                             failure to comply with the undertaking.
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                         Page 14
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+F          Can a court enforceable undertaking be varied
+           or withdrawn?
+
+                              Key points
+
+                              A party who has provided a court enforceable undertaking may withdraw or
+                              vary the undertaking only with ASIC’s consent in writing: see s93A(2) and
+                              93AA(2) of the ASIC Act, s322(2) of the National Credit Act and s262A(2)
+                              of the SIS Act.
+
+                              We will agree to vary a court enforceable undertaking (see RG 100.37–
+                              RG 100.39), or allow for a court enforceable undertaking to be withdrawn
+                              (see RG 100.40–RG 100.41), in limited circumstances.
+
+
+
+
+Varying a court enforceable undertaking
+              RG 100.37      Variations of a court enforceable undertaking do not replace the original
+                             undertaking—they merely modify it.
+
+              RG 100.38      We will generally only agree to vary a court enforceable undertaking when:
+                             (a)   the variation will not alter the spirit of the original undertaking;
+                             (b)   compliance with the original undertaking is frustrated; or
+                             (c)   there has been a material change in the circumstances that led to the
+                                   original undertaking being given.
+
+              RG 100.39      A variation of a court enforceable undertaking should be in writing. It should
+                             be offered by the party and accepted by ASIC in the same manner as the
+                             original undertaking. The original undertaking should be attached to the
+                             variation document. Both the original undertaking and the variation
+                             document remain on the court enforceable undertakings register on the ASIC
+                             website (see www.asic.gov.au/euregister).
+                                            2TU
+
+
+
+
+Withdrawing an offer of a court enforceable undertaking
+              RG 100.40      In exceptional circumstances, we may allow a party to withdraw a court
+                             enforceable undertaking after we have accepted it. If we consent to the
+                             withdrawal, the party is no longer bound by the terms of the undertaking. An
+                             example of an exceptional circumstance is where an Australian financial
+                             services (AFS) licensee has asked ASIC to revoke its licence and is no longer
+                             able to comply with the undertaking (and nor is it necessary that it do so).
+
+              RG 100.41      Withdrawals of court enforceable undertakings are also recorded on the
+                             court enforceable undertakings register on the ASIC website.
+
+
+
+© Australian Securities and Investments Commission November 2021                                          Page 15
+                                                              REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+G          What happens if a court enforceable
+           undertaking is not complied with?
+
+                              Key points
+
+                              We will ordinarily apply to the court for appropriate orders if we consider
+                              there has been a breach of a term of a court enforceable undertaking and
+                              further action by ASIC is warranted
+
+
+              RG 100.42      If we have reason to believe that a party has not complied with a term of a
+                             court enforceable undertaking, we may apply to the court for appropriate
+                             orders.
+
+              RG 100.43      We will publicise our application to the court and may seek legal costs.
+
+              RG 100.44      If the court is satisfied that the party has breached a term of the court
+                             enforceable undertaking, it has several options. The court can:
+                             (a)   direct the party to comply with the particular term of the undertaking;
+                             (b)   direct the party to transfer money to:
+                                   (i)    the Commonwealth, if it is a person or a company; or
+                                   (ii)   the scheme property, if it is a responsible entity under the ASIC
+                                          Act.
+                                   The amount of money can be up to the amount of any financial benefit
+                                   the party obtained, directly or indirectly, that is reasonably attributable
+                                   to the breach.
+                             (c)   direct the party to compensate any other person who has suffered loss or
+                                   damage as a result of the breach of the undertaking; or
+                             (d)   make any other order that the court considers appropriate.
+
+                                   Note: See s93A(4) and 93AA(4) of the ASIC Act, s322(4) of the National Credit Act
+                                   and s262A(4) of the SIS Act.
+
+              RG 100.45      The aim of the court orders is to compel the party to comply with the court
+                             enforceable undertaking. The aim is also to put all parties in the position
+                             they would have been in had the undertaking not been breached.
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                               Page 16
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+Appendix: Guidance on the use of independent experts
+
+                              Key points
+
+                              This appendix provides guidance on our requirements whenever a court
+                              enforceable undertaking requires an independent expert to report on
+                              specified matters: see RG 100.46–RG 100.50.
+                              The expert can be appointed by ASIC (see RG 100.51–RG 100.52) or by
+                              the party providing the undertaking (see RG 100.53–RG 100.55).
+                              Experts must be capable of exercising objective and impartial judgement
+                              during an engagement. We will assess the independence of the expert
+                              before we appoint them or consent to their appointment: see RG 100.56–
+                              RG 100.66.
+
+                              We will make public a summary of the report or a statement that refers to
+                              the content of the report: see RG 100.67–RG 100.74.
+
+
+
+Reports by independent experts
+              RG 100.46      The guidance in this appendix applies whenever a court enforceable
+                             undertaking requires independent reporting on undertakings given by, or the
+                             conduct of, the party providing the undertaking.
+
+              RG 100.47      In most cases the party may appoint the expert, subject to ASIC consent.
+                             However, in some cases, we will appoint the independent expert and require
+                             the party to undertake to bear the cost of the expert’s work under the court
+                             enforceable undertaking: see RG 100.51–RG 100.52.
+
+              RG 100.48      Regardless of who appoints the independent expert, we will assess:
+                             (a)   the competence of the expert (see RG 100.49);
+                             (b)   the independence of the expert (see RG 100.56–RG 100.62); and
+                             (c)   the expert’s arrangements for managing conflicts of interest arising
+                                   during the engagement (see RG 100.63–RG 100.66).
+
+                             Our assessment of these factors will help ensure the expert is capable of
+                             exercising objective and impartial judgement during an engagement.
+
+              RG 100.49      We will assess the competence of the independent expert against the
+                             following factors:
+                             (a)   whether the expert has adequate resources to perform the necessary
+                                   work. ‘Adequate resources’ may include access to appropriate third-
+                                   party specialists;
+                             (b)   the qualifications of the expert and whether the expert has the requisite
+                                   level of technical expertise. This will include whether the expert meets
+                                   the requirements of any relevant industry codes;
+
+
+© Australian Securities and Investments Commission November 2021                                         Page 17
+                                                              REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+                             (c)   the experience of the expert (e.g. whether the expert has undertaken
+                                   comparable work); and
+                             (d)   whether the expert can meet relevant reporting timeframes.
+
+                                   Note: These factors non-exhaustive. They are adapted from Regulatory Guide 112
+                                   Independence of experts (RG 112) at RG 112.40.
+
+              RG 100.50      The independent expert appointed under a court enforceable undertaking will
+                             provide the report to ASIC, and usually to the party providing a court
+                             enforceable undertaking. ASIC will publish a summary of the final report of
+                             the expert, or a statement that refers to the content of the final report: see
+                             RG 100.67.
+
+
+
+Appointment of an independent expert by ASIC
+              RG 100.51      We will generally appoint an independent expert when:
+                             (a)   a court enforceable undertaking requires an expert to assess the
+                                   development or implementation of a large scale, complex or significant
+                                   compensation or remediation program or rectification of compliance
+                                   systems;
+                             (b)   there have previously been significant shortcomings in work undertaken
+                                   or remediation implemented by the party providing a court enforceable
+                                   undertaking; or
+                             (c)   the party has a history of failing to adequately address compliance
+                                   issues.
+
+              RG 100.52      The party must bear the cost of the independent expert’s work under the
+                             court enforceable undertaking.
+
+
+
+Appointment of an independent expert by the party
+              RG 100.53      If we do not appoint an independent expert, a party providing a court
+                             enforceable undertaking may appoint an independent expert. When this is
+                             the case, we require a standard term in the court enforceable undertaking that
+                             the promisor will obtain our consent to the appointment, and to the terms of
+                             the expert’s retainer, before appointment. For some of the matters we will
+                             consider before consenting to an appointment, see RG 100.57 and
+                             RG 100.64.
+
+              RG 100.54      When a party appoints an independent expert, we will also require the
+                             standard terms to set out that:
+                             (a)   the party’s retainer for the expert must include a statement that the work
+                                   of the expert is being carried out for the party and ASIC. The statement
+
+
+
+© Australian Securities and Investments Commission November 2021                                               Page 18
+                                                              REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+                                   must also acknowledge that ASIC is relying on the work of the expert;
+                                   and
+                             (b)   we are entitled to be informed of, provided with, or copied into all
+                                   communications between the party and the expert. This includes, but is
+                                   not limited to, negotiations about fees.
+
+              RG 100.55      These terms will help ASIC ensure an expert retains independence when
+                             performing an engagement under a court enforceable undertaking.
+
+
+
+Assessing the independence of the expert
+              RG 100.56      In deciding whether to appoint an expert or to consent to the appointment of
+                             an expert proposed by a party providing a court enforceable undertaking, we
+                             will consider whether the proposed expert is independent of the party. We
+                             will not appoint an expert or consent to an appointment unless we are satisfied
+                             that the proposed expert can exercise objective and impartial judgement.
+
+                                   Note: See RG 112 and Regulatory Guide 111 Content of expert reports (RG 111).
+
+              RG 100.57      We will assess the following non-exhaustive factors in our consideration of
+                             the independence of a proposed expert:
+                             (a)   whether the expert is the auditor of the party;
+                             (b)   whether fees and remuneration from the party in the two years before
+                                   the proposed appointment are material to the expert’s revenue in
+                                   Australia;
+                             (c)   whether the staff undertaking work on the engagement or their
+                                   immediate family have a financial interest in the party, including
+                                   financial interests held through an intermediary;
+                             (d)   whether the staff undertaking work on the engagement or the expert
+                                   owe an amount to the party that has been advanced other than in the
+                                   ordinary course of business or on terms and conditions other than those
+                                   that would normally apply to such a loan. The loan can also be from a
+                                   related body corporate of the party;
+                             (e)   whether there are any existing or previous business or personal
+                                   relationships between the expert or the expert’s staff or their immediate
+                                   family and the party or its officers;
+                             (f)   whether the expert or the expert’s staff are officers of the party, or have
+                                   been in the previous two years;
+                             (g)   whether the expert has participated in strategic planning for the party;
+                             (h)   whether the expert has previously reviewed the transactions or
+                                   compliance systems that are to be evaluated, or has designed or
+                                   implemented those systems;
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                              Page 19
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+                             (i)   whether there is actual or potential litigation between the expert and the
+                                   party;
+                             (j)   whether the expert has acted on behalf of the party in litigation or
+                                   disputes with third parties;
+                             (k)   if the expert has done work related to another court enforceable
+                                   undertaking in the past, whether the expert, in the two years following
+                                   appointment under the undertaking, has performed work for that party
+                                   (other than under the undertaking) that generated material fees;
+                             (l)   whether the expert has appropriate arrangements to manage conflicts of
+                                   interest that may arise in the engagement under the court enforceable
+                                   undertaking (see RG 100.63 and RG 100.66); and
+                             (m)   any other matters that render, or may reasonably be perceived to render,
+                                   the expert or the expert’s staff incapable of exercising objective and
+                                   impartial judgement.
+
+              RG 100.58      A party providing a court enforceable undertaking should obtain information
+                             about all of these factors from a proposed expert, and provide that
+                             information to ASIC when seeking our consent to the appointment of the
+                             proposed expert. We may refuse to consent to an appointment where this
+                             information is not provided.
+
+              RG 100.59      We will assess all of the factors in RG 100.57 on a case-by-case basis. Our
+                             assessment will aim to determine the cumulative effect of the factors on a
+                             proposed expert’s ability to exercise objective and impartial judgement.
+
+              RG 100.60      We will carefully scrutinise any proposal by a party providing a court
+                             enforceable undertaking to appoint the promisor’s auditor as an independent
+                             expert under a court enforceable undertaking. We will consider the nature of
+                             the engagement, the risk of self-review and the public perception created by
+                             any such appointment.
+
+              RG 100.61      We will also look carefully at the information provided about the following
+                             factors from RG 100.57:
+                             (a)   whether fees and remuneration from the party in the two years before
+                                   the proposed appointment are material to the expert’s revenue in
+                                   Australia (see RG 100.57(b)) or
+                             (b)   whether the expert can demonstrate appropriate arrangements to
+                                   manage conflicts of interest that may arise in the engagement, taking
+                                   into account the nature of the engagement and the size, scope and nature
+                                   of the expert’s business (see RG 100.57 and RG 100.63–RG 100.66).
+
+              RG 100.62      We consider that these are factors that indicate risks relating to an expert’s
+                             ability to exercise objective and impartial judgement.
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                          Page 20
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+Expert’s arrangements to manage conflicts of interest
+              RG 100.63      We will assess the independence factors set out at RG 100.57 before we
+                             consent to the appointment of an independent expert. However, it is
+                             important that an expert is able to manage conflicts of interest that may arise
+                             during an engagement under a court enforceable undertaking. Conflicts of
+                             interest may compromise the expert’s ability to exercise objective and
+                             impartial judgement during the engagement.
+
+              RG 100.64      Accordingly, we will also consider whether the proposed expert can
+                             demonstrate appropriate arrangements to manage conflicts of interest. We
+                             will assess the following non-exhaustive factors:
+                             (a)   procedures for identifying conflicts of interest;
+                             (b)   procedures for assessing and evaluating conflicts of interest;
+                             (c)   procedures for dealing with, and responses to, particular conflicts;
+                             (d)   whether there is a written conflicts management policy;
+                             (e)   the period of time that has elapsed since the arrangements were last
+                                   reviewed internally or by a third party (e.g. an auditor);
+                             (f)   the structural arrangements in place to manage conflicts of interest and
+                                   how they support management of conflicts of interest;
+                             (g)   the information barriers in place to assist in managing conflicts of
+                                   interest;
+                             (h)   how the conflicts management arrangements in place ensure that
+                                   conflicts do not affect the quality of work undertaken for a party
+                                   providing a court enforceable undertaking, or ASIC, under a court
+                                   enforceable undertaking, and how the effectiveness in achieving this is
+                                   tested;
+                             (i)   how conflicts management arrangements are formulated and approved
+                                   (e.g. whether they were approved by the board or governing body—or
+                                   by a delegated body);
+                             (j)   how conflicts management arrangements are communicated to staff;
+                             (k)   whether a person is nominated to be responsible for the implementation,
+                                   review and updating of the conflicts management arrangements, and
+                                   who the relevant staff report to;
+                             (l)   the procedures in place to identify instances of non-compliance with the
+                                   conflicts management arrangements, how non-compliance is dealt with,
+                                   and how non-compliance is recorded and reported;
+                             (m)   how the arrangements in place ensure remuneration policies and the
+                                   provision of benefits practices do not significantly compromise the
+                                   integrity and quality of services provided;
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                         Page 21
+                                                               REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+                             (n)   whether the processes in place ensure that more serious conflicts are
+                                   referred to senior management or a governing body; and
+                             (o)   the circumstances where conflicts of interest are avoided (as opposed to
+                                   dealing with conflicts through disclosure or internal controls) and the
+                                   procedure for making and recording these decisions.
+
+                                   Note: The factors in RG 100.64 are adapted from Table 1 in Regulatory Guide 181
+                                   Licensing: Managing conflicts of interest (RG 181). RG 112 also contains relevant
+                                   guidance for managing conflicts of interest under an engagement. Most entities
+                                   undertaking independent reviews and reports under a court enforceable undertaking will
+                                   be AFS licensees, and accordingly ought to be able to demonstrate the matters in
+                                   RG 100.64.
+
+              RG 100.65      We do not suggest that all the issues are relevant to every particular
+                             proposed expert, or that they are exhaustive: see RG 181.64. The party
+                             should obtain from a proposed expert information about as many of the
+                             factors in RG 100.64 as are relevant in the circumstances. The party should
+                             then provide that information to ASIC when seeking our consent to the
+                             appointment of the proposed expert. We will carefully consider whether a
+                             proposed expert can demonstrate appropriate arrangements to manage
+                             conflicts of interest: see RG 100.64(b). We may be satisfied that particular
+                             arrangements are not relevant to an engagement or to the size, scope and
+                             nature of the proposed expert’s business.
+
+              RG 100.66      The expert must notify ASIC if a conflict of interest arises during an
+                             engagement. We may require the party to terminate an expert’s engagement
+                             if the conflict compromises, or may reasonably be seen to compromise, the
+                             expert’s ability to exercise objective and impartial judgement.
+
+
+
+Publicity for independent expert reports
+              RG 100.67      We will publish a summary of the independent expert’s final report, or a
+                             statement that refers to the content of the report. We will publish this on the
+                             court enforceable undertakings register on the ASIC website (see
+                             www.asic.gov.au/euregister).
+                             2TU
+
+
+
+
+              RG 100.68      We may also issue a media release referring to the content of an expert
+                             report, and may from time to time refer publicly to the content of the report.
+
+              RG 100.69      Publishing summaries of expert reports promotes the integrity of, and public
+                             confidence in, our financial markets and corporate governance.
+
+              RG 100.70      Generally, we will not accept a court enforceable undertaking that limits our
+                             rights to publish a summary of an expert’s final report and make reference to
+                             the content of that report. If an undertaking requires delivery of an interim
+                             report, we will normally also make publicly available a summary of the
+                             interim report or a statement that refers to the content of the interim report.
+
+
+
+© Australian Securities and Investments Commission November 2021                                                 Page 22
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+                             However, we may agree not to publish a summary of an interim report. We
+                             expect those cases to be rare. We consider that public confidence in our
+                             financial markets and corporate governance is likely to be promoted by
+                             publishing summaries of all expert reports under a court enforceable
+                             undertaking.
+
+              RG 100.71      When we make a summary of an expert report available to the public, we
+                             may agree to use a summary prepared by the expert. Experts appointed to do
+                             work required by a court enforceable undertaking should, accordingly,
+                             prepare a summary of their report that is suitable for publication.
+
+              RG 100.72      We may supplement the summary provided by the expert, or prepare our
+                             own summary of a report. We will do this if we consider a summary
+                             prepared by an expert is not adequate or accurate.
+
+              RG 100.73      Generally, we will not refer to any information from an expert report that:
+                             (a)   is personal information of an identified natural person whose acts or
+                                   omissions are not the subject of, or a concern mentioned in, the court
+                                   enforceable undertaking;
+                             (b)   we are satisfied would be unreasonable to release. Information is
+                                   generally unreasonable to release if it would unreasonably affect the
+                                   business, commercial or financial affairs of the party providing a court
+                                   enforceable undertaking or a third party. The effect must be other than
+                                   an effect that arises from the execution, implementation and reporting
+                                   of the outcomes of the court enforceable undertaking;
+                             (c)   we are satisfied should not be released because it would be against the
+                                   public interest to do so; or
+                             (d)   the party has asked ASIC not to release. We must be satisfied that:
+                                   (i)    it would be unreasonable to release (see RG 100.73(b); or
+                                   (ii)   it should not be released because it would be against the public
+                                          interest to do so (see RG 100.73(c).
+
+              RG 100.74      The standard terms of a court enforceable undertaking will reflect our policy.
+                             The terms will require the party to acknowledge that we:
+                             (a)   may issue a media release referring to the content of the expert report;
+                             (b)   may from time to time publicly refer to the content of the expert report;
+                                   and
+                             (c)   will make available for public inspection a summary of the content of
+                                   the expert report, or a statement that refers to the content of the expert
+                                   report.
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                         Page 23
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+Key terms
+
+
+                              Term                      Meaning in this document
+
+                              AFS licence               An Australian financial services licence under s913B of
+                                                        the Corporations Act that authorises a person who carries
+                                                        on a financial services business to provide financial
+                                                        services
+                                                          Note: This is a definition contained in s761A.
+
+                              ASIC                      Australian Securities and Investments Commission
+
+                              ASIC Act                  Australian Securities and Investments Commission Act
+                                                        2001
+
+                              CDPP                      Commonwealth Director of Public Prosecutions
+
+                              Corporations Act          Corporations Act 2001, including regulations made for the
+                                                        purposes of that Act
+
+                              INFO 151 (for             An ASIC information sheet (in this example numbered
+                              example)                  151)
+
+                              National Credit Act       National Consumer Credit Protection Act 2009
+
+                              RG 256 (for example)      An ASIC regulatory guide (in this example numbered
+                                                        256)
+
+                              SIS Act                   Superannuation Industry (Supervision) Act 1993
+
+                              s93A (for example)        A provision of the ASIC Act (in this example numbered
+                                                        93A), unless otherwise specified
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                           Page 24
+                                                             REGULATORY GUIDE 100: Court enforceable undertakings
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             acceptable and standard terms, appointment of independent experts,
+                             compliance with the law, court enforceable undertaking, court enforceable
+                             undertakings register, effective regulatory outcome, enforcement remedy,
+                             expert report, public reporting, unacceptable terms
+
+
+                             Regulatory guides
+
+                             RG 78 Breach reporting by AFS licensees and credit licensees
+
+                             RG 98 ASIC’s powers to suspend, cancel and vary AFS licences and make
+                             banning orders
+
+                             RG 111 Content of expert reports
+
+                             RG 112 Independence of experts
+
+                             RG 181 Licensing: Managing conflicts of interest
+
+                             RG 218 Licensing: Administrative action against persons engaging in credit
+                             activities
+
+                             RG 256 Client review and remediation conducted by advice licensees
+
+
+                             Information sheets
+
+                             INFO 28 About the enforceable undertakings register
+
+                             INFO 151 ASIC’s approach to enforcement
+
+                             INFO 152 Public comment on ASIC’s regulatory activities
+
+
+                             Legislation
+
+                             ASIC Act, s93A, 93A(1), 93A(2), 93A(4), 93AA, 93AA(1), 93AA(2),
+                             93AA(4)
+
+                             Corporations Act, s674
+
+                             National Credit Act, s322, 322(1), 322(2), 322(4)
+
+                             SIS Act, s262A, 262A(1), 262A(2), 262A(4)
+
+
+
+
+© Australian Securities and Investments Commission November 2021                                         Page 25
+

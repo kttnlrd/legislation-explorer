@@ -1,0 +1,2363 @@
+REGULATORY GUIDE 140
+
+Strata schemes and
+management rights schemes
+
+April 2017
+
+
+About this guide
+This guide is for operators and promoters of properties that are, or are
+proposed to be, managed for investors.
+
+It explains:
+    how the provisions of the Corporations Act 2001 (Corporations Act)
+     relating to managed investment schemes apply to arrangements
+     involving real property, including under strata or community title (e.g.
+     units in a serviced apartment, hotel, motel or resort complex), and
+     certain freehold titles or leasehold interests (referred to in this guide as
+     ‘strata schemes’); and
+    the conditional relief we have given, in ASIC Corporations (Serviced
+     Apartment and Like Schemes) Instrument 2016/869, to operators and
+     promoters of strata schemes, including management rights schemes,
+     from the managed investment, Australian financial services (AFS)
+     licensing, product disclosure and hawking provisions of the
+     Corporations Act.
+
+Note: From 27 July 2020, applications for relief should be submitted through
+the ASIC Regulatory Portal. For more information, see how you apply for
+relief.
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                                  About ASIC regulatory documents
+
+                                  In administering legislation ASIC issues the following types of regulatory
+                                  documents.
+                                  Consultation papers: seek feedback from stakeholders on matters ASIC
+                                  is considering, such as proposed relief or proposed regulatory guidance.
+                                  Regulatory guides: give guidance to regulated entities by:
+                                       explaining when and how ASIC will exercise specific powers under
+                                        legislation (primarily the Corporations Act)
+                                       explaining how ASIC interprets the law
+                                       describing the principles underlying ASIC’s approach
+                                       giving practical guidance (e.g. describing the steps of a process such
+                                        as applying for a licence or giving practical examples of how
+                                        regulated entities may decide to meet their obligations).
+                                  Information sheets: provide concise guidance on a specific process or
+                                  compliance issue or an overview of detailed guidance.
+                                  Reports: describe ASIC compliance or relief activity or the results of a
+                                  research project.
+
+
+
+                              Document history
+                              This version was issued in April 2017 and is based on legislation and
+                              regulations as at the date of issue. The note on the front page was inserted
+                              on 27 July 2020. In June 2025, we updated references to reflect changes to
+                              RG 1 and related guidance.
+
+                              Previous versions:
+                                     Superseded Policy Statement 140 Serviced strata schemes, issued
+                                      November 2000, rebadged as a regulatory guide 5 July 2007
+                                     Interim Policy Statement 140, issued October 1998, updated December
+                                      1998
+
+
+                              Disclaimer
+                              This guide does not constitute legal advice. We encourage you to seek your
+                              own professional advice to find out how the Corporations Act and other
+                              applicable laws apply to you, as it is your responsibility to determine your
+                              obligations.
+
+                              Examples in this guide are purely for illustration; they are not exhaustive and
+                              are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                             Page 2
+                                                  REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+Contents
+                              A      Overview ........................................................................................... 4
+                                     Purpose of this guide ......................................................................... 4
+                                     Who this guide applies to................................................................... 7
+                              B      What is a strata scheme?................................................................ 8
+                                     The scheme has characteristics of a managed investment scheme . 8
+                                     The investor contributes their rights to the scheme ........................... 9
+                                     The return to investors depends on the arrangement ....................... 9
+                                     Common enterprise .......................................................................... 11
+                                     Other indicators of a strata scheme ................................................. 13
+                                     Ordinary residential or commercial letting arrangements ................ 13
+                              C      Requirements that apply to strata schemes ............................... 14
+                                     Registering a scheme ...................................................................... 14
+                                     Giving product disclosure ................................................................ 15
+                                     Holding scheme property ................................................................. 16
+                                     Valuing scheme property ................................................................. 17
+                                     Obligations under the scheme constitution and compliance plan ... 17
+                                     AFS licensing and advice obligations .............................................. 17
+                                     The hawking prohibition ................................................................... 21
+                                     Investor’s right to withdraw from the scheme .................................. 21
+                              D      ASIC relief for operators and promoters of strata schemes ..... 23
+                                     Overview of our relief ....................................................................... 23
+                                     Relief for management rights schemes ........................................... 24
+                                     Relief where all strata units are sold for at least $500,000.............. 34
+                                     Relief for closed schemes and well-advanced schemes ................. 35
+                                     Relief from the obligation to value scheme property ....................... 37
+                                     Relief for arrangements that incidentally involve a scheme ............ 37
+                                     Other relief that may be available .................................................... 37
+                              Appendix: Information in a PDS for a management rights scheme . 39
+                              Key terms ............................................................................................... 41
+                              Related information ............................................................................... 45
+                                  Headnotes........................................................................................ 45
+                                  Legislative instruments and pro formas ........................................... 45
+                                  Regulatory guides ............................................................................ 45
+                                  Legislation ........................................................................................ 46
+                                  Consultation papers ......................................................................... 46
+                                  Media releases ................................................................................ 46
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                                                          Page 3
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+A          Overview
+
+                                Key points
+
+                                Some serviced strata arrangements have the characteristics of a managed
+                                investment scheme.
+
+                                In general, if you are an operator or promoter of a serviced strata
+                                arrangement that is a managed investment scheme, you must comply with
+                                the managed investment, Australian financial services (AFS) licensing,
+                                product disclosure and hawking provisions of the Corporations Act 2001
+                                (Corporations Act).
+
+                                However, you may be eligible for relief from some or all of these provisions.
+
+
+
+
+Purpose of this guide
+               RG 140.1       Some arrangements for using strata units (e.g. investments in a
+                              serviced apartment, hotel, motel or resort complex) have the
+                              characteristics of a managed investment scheme. This guide explains
+                              how the provisions of the Corporations Act relating to managed
+                              investment schemes apply to arrangements involving real property,
+                              including under strata or community title (e.g. units in a serviced
+                              apartment, hotel, motel or resort complex), and certain freehold titles
+                              or leasehold interests.
+
+                              What is a strata scheme?
+
+               RG 140.2       Typically, the arrangements covered by this guide relate to units under
+                              strata title. For convenience, we refer to them as ‘strata units’.
+                              However, that expression includes a community title interest, or other
+                              interest in real property (including a freehold or leasehold interest). In
+                              this guide, we refer to these arrangements as ‘strata schemes’. Section
+                              B of this guide explains the types of arrangements that we consider to
+                              be ‘strata schemes’.
+
+                              Corporations Act requirements that apply to strata
+                              schemes
+               RG 140.3       An operator or promoter of a strata scheme must comply with certain
+                              provisions of the Corporations Act—in particular, various provisions
+                              of Chs 5C and 7.
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                             Page 4
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+               RG 140.4       Generally, the operator of a managed investment scheme, such as a
+                              strata scheme, who is not merely acting as the agent of another
+                              operator must:
+                              (a)   be a public company;
+                              (b)   register the scheme with ASIC;
+                              (c)   hold an AFS licence to carry on a financial services business (e.g.
+                                    deal in a financial product, operate a managed investment scheme
+                                    and provide financial advice);
+                              (d)   comply with certain disclosure obligations, including giving
+                                    prospective investors a Product Disclosure Statement (PDS); and
+                              (e)   comply with other relevant provisions, including those in Pt 7.8
+                                    prohibiting certain conduct in selling financial products (the
+                                    hawking provisions).
+
+               RG 140.5       In this guide, we refer to these provisions as ‘the managed investment,
+                              AFS licensing, product disclosure and hawking provisions’.
+
+               RG 140.6       Section C of this guide gives a brief overview of selected provisions
+                              of the Corporations Act that may apply to operators or promoters of
+                              strata schemes.
+
+                              Exemptions under the Corporations Act
+
+               RG 140.7       In some cases, an operator or promoter of a strata scheme might be
+                              exempt under the Corporations Act from some or all of the managed
+                              investment, AFS licensing, product disclosure and hawking
+                              provisions. For example, the provisions will generally not apply:
+                              (a)   if the scheme is a one-off strata scheme with 20 members or less;
+                                    or
+                              (b)   except for the AFS licensing provisions, if all the interests in the
+                                    scheme are issued in circumstances that would not need
+                                    disclosure through a PDS under Div 2 of Pt 7.9.
+
+                              ASIC relief from the Corporations Act requirements
+
+               RG 140.8       We have given conditional relief, in ASIC Corporations (Serviced
+                              Apartment and Like Schemes) Instrument 2016/869, to certain
+                              operators and promoters of strata schemes (including management
+                              rights schemes, schemes where all strata units have been sold for at
+                              least $500,0000, closed schemes and well-advanced schemes) from
+                              some or all of the managed investment, AFS licensing, product
+                              disclosure and hawking provisions of the Corporations Act.
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                             Page 5
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+               RG 140.9       Relief is given when we consider that:
+                              (a)   strictly complying with these provisions would be impossible or
+                                    disproportionately burdensome;
+                              (b)   people acquiring or holding interests in the strata scheme would
+                                    still have the protection that Parliament intended they should
+                                    have; and
+                              (c)   there would be commercial benefit from such relief to the parties
+                                    of the strata scheme.
+
+               RG 140.10      This means that the operator or promoter of a strata scheme might not
+                              have to comply with some or all of the managed investment, AFS
+                              licensing, product disclosure and hawking provisions. Section D of
+                              this guide explains the types of strata schemes that might be eligible
+                              for relief, including management rights schemes (i.e. managed
+                              investment schemes that involve holiday letting arrangements for
+                              strata units) and the conditions of the relief.
+
+               RG 140.11      If you are eligible for relief and comply with the conditions of the
+                              relief, you do not need to apply for relief. However, you must still
+                              comply with other relevant provisions of the Corporations Act and the
+                              Australian Securities and Investments Commission Act 2001 (ASIC
+                              Act) (e.g. not engaging in misleading or deceptive conduct: see s12DA
+                              of the ASIC Act). We recommend that you seek professional legal
+                              advice to ensure that you fully understand your obligations under the
+                              Corporations Act and the ASIC Act.
+
+               RG 140.12      If you are not eligible for relief under ASIC Corporations (Serviced
+                              Apartment and Like Schemes) Instrument 2016/869, you may be
+                              eligible for relief under another ASIC instrument or you may apply to
+                              ASIC for individual relief: see RG 140.140–RG 140.141.
+
+                              Property rental schemes
+
+               RG 140.13      Some investors individually engage an agent or let out their strata unit
+                              for residential or commercial purposes, but not as part of a serviced
+                              strata arrangement. We consider that such an arrangement should not
+                              be regulated as a managed investment scheme, and so to avoid any
+                              doubt we have given relief to such arrangements in ASIC
+                              Corporations (Property Rental Schemes) Instrument 2016/870: see
+                              RG 140.40–RG 140.41.
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                             Page 6
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+Who this guide applies to
+               RG 140.14      This guide is for operators and promoters of properties that are sold on
+                              the basis that they can be managed for retail clients (referred to in this
+                              guide as ‘investors’).
+
+               RG 140.15      A person who operates a strata scheme as a ‘promoter’ includes a
+                              person who offers to issue, or arranges for the issue of, interests in the
+                              scheme while also offering a strata unit to which the scheme relates
+                              where the scheme is to be managed by another operator.
+
+               RG 140.16      A person who operates the strata scheme as a promoter may be the
+                              ‘developer’ of the strata title property, even if the developer has no
+                              further role in operating the scheme after all strata units in the
+                              arrangement have been sold.
+
+               RG 140.17      An ‘operator’ means a person responsible for operating a strata
+                              scheme, and may include operating the scheme as a promoter. This
+                              includes:
+                              (a)   the promoter of the arrangement who promotes or markets
+                                    interests in the arrangement;
+                              (b)   the manager of the serviced apartment, hotel, motel or resort
+                                    complex; and
+                              (c)   the on-site letting agent of a management rights scheme.
+                                    Note: See RG 140.76–RG 140.78 in Section D for an explanation of what we consider
+                                    to be a ‘management rights scheme’.
+
+
+                              Who this guide does not apply to
+
+               RG 140.18      This guide does not apply to real property transactions that are not
+                              related to arrangements to manage the property, such as:
+                              (a)   ordinary sales of standard, completed strata units; or
+                              (b)   ‘off-the-plan’ sales (i.e. sales when the only money paid by the
+                                    purchaser before they settle and take possession of the completed
+                                    strata unit is a deposit held by a stakeholder).
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                                   Page 7
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+B          What is a strata scheme?
+
+                                Key points
+
+                                A strata scheme is an arrangement for using strata units that has the
+                                characteristics of a managed investment scheme, as defined in s9 of the
+                                Corporations Act.
+
+                                We consider a strata scheme is particularly likely to exist if:
+                                • the investor contributes their rights to the scheme (see RG 140.23–
+                                  RG 140.24);
+                                • the return to investors depends on the arrangement (see RG 140.25–
+                                  RG 140.30); or
+                                • there is interdependence and a common enterprise between owners
+                                  (see RG 140.31–RG 140.38).
+
+
+
+
+The scheme has characteristics of a managed investment scheme
+               RG 140.19      A strata scheme is an arrangement for using strata units that has the
+                              characteristics of a managed investment scheme. Section 9 of the
+                              Corporations Act defines a managed investment scheme as a scheme
+                              with the following features:
+                              (a)   people contribute money or money’s worth as consideration to
+                                    acquire rights (interests) to benefits produced by the scheme
+                                    (whether the rights are actual, prospective or contingent and
+                                    whether they are enforceable or not);
+                              (b)   any of the contributions are to be pooled, or used in a common
+                                    enterprise, to produce financial benefits, or benefits consisting of
+                                    rights or interests in property, for the people (the members) who
+                                    hold interests in the scheme (whether as contributors to the
+                                    scheme or as people who have acquired interests from holders);
+                                    and
+                              (c)   the members do not have day-to-day control over the operation of
+                                    the scheme (whether or not they have the right to be consulted or
+                                    to give directions).
+               RG 140.20      A serviced strata arrangement involves owners of strata units making
+                              their units available to an operator for use as part of a serviced
+                              apartment, hotel, motel or resort complex. In these arrangements there
+                              is a scheme under which an operator pools the occupancy rights
+                              attaching to strata units or uses those rights in a common enterprise to
+                              produce a financial benefit for the owner of the strata unit.
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                             Page 8
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                              Pre-packaged sale of interests
+
+               RG 140.21      Interests in a serviced strata arrangement might initially be issued to a
+                              promoter or their associate before being resold to investors as part of a
+                              pre-packaged resale. If that arrangement is a strata scheme and the
+                              issue of interests in the scheme required a PDS under Div 2 of Pt 7.9,
+                              generally the managed investment, AFS licensing, product disclosure
+                              and hawking provisions of the Corporations Act would apply.
+
+               RG 140.22      The exemption from registering a scheme in s601ED(2) would not
+                              apply in this case because the term ‘issue’ as defined in s9 includes
+                              ‘make available’ (for interests in a managed investment scheme). This
+                              would include the first time such interests were sold by a promoter or
+                              their associate to investors.
+
+
+The investor contributes their rights to the scheme
+               RG 140.23      Generally, an investor in a strata scheme contributes to the scheme:
+                              (a)   a right to occupy the strata unit (e.g. a lease or licence); or
+                              (b)   a right to let or license the strata unit (i.e. as an agent of the strata
+                                    unit owner).
+
+               RG 140.24      By making the rights to their strata unit available to the strata scheme,
+                              the investor is making a contribution of money or money’s worth to
+                              acquire interests in the scheme. We consider that this is the case even
+                              though the freehold title to the strata unit is not contributed and is not
+                              property of the scheme.
+
+
+The return to investors depends on the arrangement
+               RG 140.25      In general, we consider that an arrangement is likely to be a strata
+                              scheme if an investor has a right (including by agreement or an
+                              understanding with the promoter) to a return, which depends, in whole
+                              or in part, on:
+                              (a)   the use of other investors’ strata units; and/or
+                              (b)   the use of their strata unit.
+
+                              Proportionate returns
+
+               RG 140.26      We consider there is a strata scheme where the investor might depend
+                              on the arrangement to receive a proportionate return. In the simplest
+                              case, the investor’s benefit is a share of the profit on the use of the
+                              whole complex. In these circumstances, we consider there is a
+                              common enterprise between the investors and the operator. This is
+
+
+© Australian Securities and Investments Commission April 2017                                             Page 9
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                              because the return to each is likely to depend on the success or failure
+                              of the arrangement.
+
+                              Fixed or indexed returns
+
+               RG 140.27      In some serviced strata arrangements, an investor’s benefit might not
+                              depend on the arrangement involving their unit. This is because the
+                              investor’s return is a promised fixed or indexed amount that will be
+                              paid regardless of how the serviced strata arrangement is operated. We
+                              do not consider that such an arrangement is likely to be a managed
+                              investment scheme. The example below illustrates when a type of
+                              fixed or indexed return arrangement is not likely to be a managed
+                              investment scheme.
+
+                                Example of a fixed or indexed return arrangement that is not likely to
+                                be a managed investment scheme
+
+                                A person (buyer) is invited to buy a strata unit from a developer and to
+                                lease the strata unit to another person (operator). The operator intends to
+                                operate a serviced strata arrangement using the strata unit and other
+                                property.
+
+                                The lease is for five years (renewable at the option of the operator for three
+                                further periods of ten years). The operator promises an annual rental return
+                                to the buyer of 5% (CPI indexed) of the price paid for the strata unit. The
+                                buyer understands that the operator has the financial capacity to pay the
+                                rental return, and that this does not materially depend on the performance
+                                of the serviced strata arrangement.
+
+                                The strata unit’s value at the end of the lease is not likely to depend on the
+                                strata arrangement.
+
+                                The operator has day-to-day operating control of the serviced strata
+                                arrangement.
+
+                                The buyer has the right to terminate the lease on 30 days notice.
+
+                                The buyer is told that the operator is a substantial company.
+
+                                The buyer is told that the operator intends to operate a serviced strata
+                                arrangement. However, the operator has no legally enforceable obligation
+                                to operate a serviced strata arrangement.
+
+               RG 140.28      We consider that an arrangement is likely to be a strata scheme if
+                              investors have been given to understand that returns from a strata
+                              arrangement will be materially supported by the operator using the
+                              investor’s property as part of the scheme.
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 10
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                                Example of an arrangement we do consider is likely to be a managed
+                                investment scheme
+
+                                A person (buyer) is invited to buy a strata unit from a developer and to
+                                lease the strata unit to another person (operator). The operator intends to
+                                operate a serviced strata arrangement using the strata unit and other
+                                property.
+
+                                The lease is for five years (renewable at the option of the operator for three
+                                further periods of five years). The operator promises an annual rental return
+                                to the buyer of 5% (CPI indexed) of the price paid for the strata unit. The
+                                likelihood of the return being paid to the buyer in its entirety will be
+                                materially affected by whether the strata arrangement operates profitably.
+
+                                The strata unit’s value at the end of the lease is not likely to depend on the
+                                strata arrangement.
+
+                                The operator has day-to-day operating control of the serviced strata
+                                arrangement.
+
+                                The buyer has the right to terminate the lease on 30 days notice.
+
+                                The buyer is told that the operator is a substantial company.
+
+                                The operator knows that buyers have come to an explicit (or implicit)
+                                understanding with the developer (through sellers acting on behalf of the
+                                developer) that the serviced strata arrangement will be operated to help the
+                                operator pay the return to buyers. However, the operator has no legally
+                                enforceable obligation to operate a serviced strata arrangement.
+
+               RG 140.29      To ensure that investors do not have this understanding (i.e. they do
+                              not expect their return to depend on the operation of the serviced strata
+                              arrangement), the promoter needs to make this clear to investors from
+                              the nature of the serviced strata arrangement, the marketing
+                              documents and other disclosures.
+
+               RG 140.30      The promoter should make sure that they do not make false and
+                              misleading statements about the arrangement and provide
+                              explanations of how the return will be paid. In our view, investors are
+                              unlikely to have an understanding that their return depends on the
+                              strata arrangement alone if they are given reason to believe that:
+                              (a)   if necessary, all of their return is likely to come from an entity of
+                                    sufficient financial substance; or
+                              (b)   the arrangement is a non-material part of the operator’s overall
+                                    business operations.
+
+
+Common enterprise
+               RG 140.31      We consider that one way in which there is likely to be a strata scheme
+                              is if an investor has a right (including by agreement or an
+                              understanding with the promoter) to a return that depends, in whole or
+
+
+© Australian Securities and Investments Commission April 2017                                             Page 11
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                              in part, on the use of other investors’ strata units in the scheme (as
+                              opposed to common property).
+
+               RG 140.32      There is likely to be a strata scheme if there is an agreement or
+                              understanding that:
+                              (a)   an investor’s return depends on a fair allocation of rent or
+                                    prospective tenants between participating investors; or
+                              (b)   the strata arrangement will operate on the basis that income from
+                                    using the strata units will be pooled.
+
+               RG 140.33      If there is no such agreement or understanding, we do consider that
+                              there will be a strata scheme only because of the pooling of amounts
+                              payable by owners to a body corporate of a strata title property:
+                              (a)   relating to the use of common property; or
+                              (b)   under the by-laws of the strata title body corporate.
+
+               RG 140.34      An arrangement to use strata units can have the characteristics of a
+                              managed investment scheme even if joining the scheme is voluntary
+                              for people who own units in a particular location. When joining the
+                              scheme is compulsory, it may indicate there is a common enterprise.
+
+               RG 140.35      A common enterprise may exist if an investor’s money is, in some
+                              way, used in common to operate the serviced strata arrangement to
+                              achieve a benefit. There might be a common enterprise even if money
+                              is not pooled in one bank account.
+
+               RG 140.36      An operator may be regarded as being in a common enterprise with an
+                              investor if the operator’s remuneration depends on the amounts
+                              obtained through a strata arrangement.
+
+                              Deferred pool or common enterprise
+
+               RG 140.37      Sometimes a promoter and investor agree or come to an understanding
+                              that a common enterprise or pool will operate at some time after the
+                              strata unit is first made available. For example, a common enterprise
+                              might start after a period where the return to the investor was not
+                              dependent on the enterprise involving their units (e.g. where a fixed or
+                              indexed return was paid regardless of the profitability of the operation
+                              of a serviced strata arrangement).
+
+               RG 140.38      We would generally consider such an arrangement to be a strata
+                              scheme if the common enterprise or pool had started immediately. In
+                              this case, the managed investment, AFS licensing, product disclosure
+                              and hawking provisions of the Corporations Act would apply to the
+                              scheme from the time the relevant agreement or understanding is first
+                              promoted because an investor would be acquiring an interest in the
+                              scheme even though it is prospective: see s9.
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 12
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+Other indicators of a strata scheme
+               RG 140.39      We consider that the following characteristics may help support the
+                              inference that one or more of the characteristics of a strata scheme are
+                              present:
+                              (a)   the strata units are not suitable for use other than as part of a
+                                    serviced apartment, hotel, motel or resort complex (including
+                                    whether or not there are zoning restrictions on the use of the strata
+                                    units);
+                              (b)   nothing is stated about what will happen at the end of a period
+                                    during which returns do not depend on the use of the units
+                                    (particularly for short-term fixed or indexed return arrangements
+                                    of up to five years);
+                              (c)   there is an agreement with each investor that other investors make
+                                    similar contracts;
+                              (d)   there is pooling of expenses relating to the use of the strata units;
+                              (e)   there is an understanding that the strata units will be used for
+                                    short-term tenancies (e.g. less than three months); and/or
+                              (f)   the investors place a strong reliance on the activities of the
+                                    management for generating investor returns.
+
+
+
+Ordinary residential or commercial letting arrangements
+               RG 140.40      Some investors individually engage an agent to let out their strata unit
+                              for residential or commercial purposes, but not as part of a serviced
+                              strata arrangement. This could be a managed investment scheme that
+                              requires registration. We consider that such an arrangement should not
+                              be regulated as a managed investment scheme. This is because
+                              investors in an ordinary residential or commercial letting arrangement
+                              are less dependent on the skill, care and diligence of an operator than
+                              investors in a strata scheme.
+
+               RG 140.41      To avoid any doubt, we have given relief to such arrangements, in
+                              ASIC Corporations (Property Rental Schemes) Instrument 2016/870,
+                              from the managed investment, AFS licensing, product disclosure and
+                              hawking provisions.
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 13
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+C          Requirements that apply to strata schemes
+
+                                Key points
+
+                                Unless exempt under our relief (see Section D), the operator or promoter of a
+                                strata scheme must comply with the managed investment and other relevant
+                                provisions of the Corporations Act, including:
+                                • registering the scheme (see RG 140.42–RG 140.44);
+                                • giving product disclosure (see RG 140.45–RG 140.52);
+                                • holding scheme property (see RG 140.53–RG 140.55);
+                                • valuing scheme property (see RG 140.56);
+                                • complying with obligations under the scheme constitution and
+                                  compliance plan (see RG 140.57);
+                                • holding an AFS licence with the appropriate authorisations (see
+                                  RG 140.58–RG 140.61) and complying with product disclosure
+                                  obligations for financial product advice (see RG 140.62–RG 140.66);
+                                • complying with the hawking prohibition (see RG 140.71); and
+                                • complying with obligations relating to the investor’s right to withdraw
+                                  from the scheme (see RG 140.72–RG 140.73).
+                                These provisions are intended by Parliament to ensure that different
+                                investment opportunities are regulated in the same way as much as possible.
+                                The AFS licensing requirements might also apply if you are a real estate
+                                agent or developer and you promote or sell strata units that could
+                                participate in strata schemes: see RG 140.67–RG 140.70.
+                                This section gives only a brief overview of selected provisions that may
+                                apply. You should seek legal advice and consult other relevant provisions of
+                                the Corporations Act and our regulatory documents to fully understand your
+                                obligations in operating a managed investment scheme.
+
+
+Registering a scheme
+               RG 140.42      Unless exempt under our relief (see Section D), a strata scheme that
+                              has more than 20 members generally must be registered with ASIC as
+                              a managed investment scheme.
+               RG 140.43      A strata scheme with 20 members or less does not have to be
+                              registered unless:
+                              (a)   the promoter is in the business of promoting managed investment
+                                    schemes (see s601ED(1)(b)); or
+                              (b)   the scheme is aggregated with others because of a determination
+                                    we have made under s601ED(1)(c) and 601ED(3).
+                                    Note: For information on when we will make a determination under s601ED(1)(c) and
+                                    601ED(3), see Regulatory Guide 136 Managed investments: Discretionary powers and
+                                    closely related schemes (RG 136).
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                                 Page 14
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+               RG 140.44      A strata scheme does not have to be registered if all the interests that
+                              have been made available in the scheme are through issues that would
+                              not need disclosure under Div 2 of Pt 7.9: see s601ED(2).
+
+
+
+Giving product disclosure
+                              PDS requirements
+
+               RG 140.45      Generally, unless exempt under our relief (see Section D), if an
+                              interest in a strata scheme is offered to or acquired by a retail client (as
+                              defined in s761G), a PDS must be given and other requirements might
+                              apply: see s1012B(3) and Pt 7.9.
+               RG 140.46      The requirement in s1012B(3) to give a PDS also applies to an offer to
+                              arrange for the issue of interests. For example, a strata scheme might
+                              be used in marketing campaigns by a developer to sell strata units. In
+                              this case, the developer might be offering to arrange for the issue of
+                              interests in the scheme in some circumstances.
+               RG 140.47      Prospective investors must be given a PDS if they are invited to buy a
+                              unit and at the same time join a strata scheme. This requirement
+                              allows investors to make an informed assessment of the merits and
+                              risks of joining the scheme.
+                                    Note: For guidance on some disclosure that may be relevant to a PDS for a management
+                                    rights scheme, see the appendix to this guide.
+
+               RG 140.48      The PDS does not have to include information about the strata unit
+                              that buyers would normally get as part of a conveyancing process for
+                              real estate transactions (e.g. information in a contract of sale, or
+                              searches or inquiries related to the sale).
+               RG 140.49      However, it could be difficult for investors to assess the merits and
+                              risks of joining a strata scheme as well as assessing the merits and
+                              risks of investing in the strata unit.
+               RG 140.50      Usually, investors will be making one decision (i.e. whether to buy a
+                              strata unit that will be used as part of the strata scheme). They will be
+                              assessing:
+                              (a)   key factors that will affect the market value of the strata unit; and
+                              (b)   how the market value may be affected by how the scheme
+                                    operates.
+               RG 140.51      As such, some information in the PDS about factors that could affect
+                              the market value of the strata unit might be necessary as information
+                              that is material for a reasonable person in making their decision: see
+                              s1013E.
+
+
+
+© Australian Securities and Investments Commission April 2017                                                   Page 15
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                              Other Pt 7.9 requirements
+
+               RG 140.52      In addition to any conditions of relief that apply to the strata scheme
+                              (see Section D), the operator of a strata scheme must comply with
+                              additional product disclosure and other requirements as relevant to the
+                              scheme: see Pt 7.9. These include:
+                              (a)   providing further information on request (see s1017A);
+                              (b)   disclosing significant events (see s1017B);
+                              (c)   confirming transactions (see s1017F);
+                              (d)   being a member of an alternative dispute resolution scheme (see
+                                    s1017G); and
+                              (e)   meeting requirements for advertising (see Div 4 of Pt 7.9).
+                                    Note: For more information on these obligations, see Regulatory Guide 168 Disclosure:
+                                    Product Disclosure Statements (and other disclosure obligations) (RG 168) and
+                                    Regulatory Guide 169 Disclosure: Discretionary powers (RG 169).
+
+
+
+
+Holding scheme property
+               RG 140.53      Operators of registered strata schemes must meet (among other
+                              requirements):
+                              (a)   financial requirements applying in respect of holders of scheme
+                                    property under Regulatory Guide 166 Licensing: Financial
+                                    requirements (RG 166); and
+                              (b)   custody standards for holders of scheme property under
+                                    Regulatory Guide 133 Managed investments and custodial or
+                                    depository services: Holding assets (RG 133).
+
+               RG 140.54      As set out in Table 9 of RG 166, different financial requirements apply
+                              depending on the circumstances and nature of the assets held.
+
+               RG 140.55      However, if the strata scheme property is limited to certain assets that
+                              are ‘special custody assets’ as set out in RG 166, the requirement for
+                              net tangible assets to permit the responsible entity to hold the scheme
+                              property does not apply. This is because there is a lower risk of
+                              custodial failure in holding these kinds of assets. Generally, the
+                              property of a strata scheme is likely to be limited to assets that are
+                              special custody assets. But operators should assess any scheme
+                              property in light of RG 166 to ensure that they (or any custodian they
+                              appoint) meet the relevant financial requirements.
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                                    Page 16
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+Valuing scheme property
+               RG 140.56      Unless exempt under our relief (see Section D), the responsible entity
+                              of a strata scheme must regularly value the scheme property: see
+                              s601FC(1)(j) and 601HA(1)(c).
+
+
+Obligations under the scheme constitution and compliance plan
+               RG 140.57      There are other obligations under Ch 5C that apply to operators and
+                              promoters of strata schemes, including obligations under the scheme
+                              constitution and compliance plan. Some regulatory guides that discuss
+                              these obligations are:
+                              (a)   Regulatory Guide 132 Managed investments: Compliance plans
+                                    (RG 132);
+                              (b)   Regulatory Guide 133 Managed investments and custodial or
+                                    depository services: Holding assets (RG 133);
+                              (c)   Regulatory Guide 134 Managed investments: Constitutions (RG
+                                    134); and
+                              (d)   Regulatory Guide 136 Managed investments: Discretionary
+                                    powers and closely related schemes (RG 136).
+
+
+AFS licensing and advice obligations
+               RG 140.58      Unless exempt under our relief (see Section D), or another exemption
+                              applies, you must hold an AFS licence with the appropriate authorisations
+                              (or be an authorised representative of an AFS licensee) if you carry on a
+                              business that includes:
+                              (a)   operating a registered strata scheme;
+                              (b)   issuing or arranging for the issue of interests in a registered strata
+                                    scheme or a scheme that is not registered (whether the marketing
+                                    occurs at the original sale of the strata units or on a later sale by
+                                    an individual strata unit owner);
+                              (c)   dealing in financial products that are assets of the scheme on
+                                    behalf of the members (e.g. an insurance contract) or holding a
+                                    financial product or beneficial interest in a financial product for
+                                    the members in providing a custodial or depository service; or
+                              (d)   giving financial product advice about acquiring interests in a
+                                    registered strata scheme or a scheme that is not registered (see
+                                    RG 140.62–RG 140.66).
+                                    Note: The requirements in RG 140.58(a)–(d) do not apply to interests in a managed
+                                    investment scheme that is not registered because none of s601ED(1)(a)–(c) are satisfied:
+                                    see s765A(1)(s).
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                                      Page 17
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+               RG 140.59      For operators and promoters of strata schemes, the AFS licence might
+                              include authorisations to:
+                              (a)   operate a registered scheme (if the scheme must be registered);
+                              (b)   deal in financial products by issuing an interest in, or arranging
+                                    for the issue of an interest in, a scheme;
+                              (c)   deal in, or provide a custodial or depository service, for financial
+                                    products that are assets of the scheme; and
+                              (d)   provide financial product advice (see RG 140.62–RG 140.66).
+
+               RG 140.60      These requirements might also apply to real estate agents and
+                              developers if they promote or sell strata units that could participate in
+                              strata schemes: see RG 140.67–RG 140.70.
+
+               RG 140.61      The following is a list of some regulatory guides that can help you
+                              apply for an AFS licence with the necessary authorisations and
+                              understand the various obligations you have under a licence:
+                              (a)   Regulatory Guide 1 Applying for and varying an AFS licence
+                                    (RG 1);
+                              (b)   Regulatory Guide 36 Licensing: Financial product advice and
+                                    dealing (RG 36);
+                              (c)   Regulatory Guide 38 The hawking provisions (RG 38);
+                              (d)   Regulatory Guide 78 Breach reporting by AFS licensees (RG 78);
+                              (e)   Regulatory Guide 98 Licensing: Administrative action against
+                                    financial services providers (RG 98);
+                              (f)   Regulatory Guide 105 Licensing: Organisational competence
+                                    (RG 105);
+                              (g)   Regulatory Guide 126 Compensation and insurance
+                                    arrangements for AFS licensees (RG 126);
+                              (h)   Regulatory Guide 165 Licensing: Internal and external dispute
+                                    resolution (RG 165);
+                              (i)   Regulatory Guide 166 Licensing: Financial requirements (RG
+                                    166);
+                              (j)   Regulatory Guide 167 Licensing: Discretionary powers (RG
+                                    167);
+                              (k)   Regulatory Guide 168 Disclosure: Product Disclosure Statements
+                                    (and other disclosure obligations) (RG 168);
+                              (l)   Regulatory Guide 175 Licensing: Financial product advisers—
+                                    conduct and disclosure (RG 175);
+                              (m)   Regulatory Guide 181 Licensing: Managing conflicts of interest
+                                    (RG 181);
+
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 18
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                              (n)   Regulatory Guide 244 Giving information, general advice and
+                                    scaled advice (RG 244); and
+                              (o)   Regulatory Guide 246 Conflicted remuneration (RG 246).
+
+Giving financial product advice
+
+               RG 140.62      Representations generally involve financial product advice if
+                              recommendations or statements of opinion are made that are, or could
+                              reasonably be regarded as being, intended to influence the user in
+                              making a decision about a particular financial product or class of
+                              financial product or an interest in a particular financial product or
+                              class of financial product: see s766B. Whether representations involve
+                              financial product advice (either personal or general) will depend on
+                              the facts of the particular case.
+                                    Note 1: ‘Personal advice’ is financial product advice given to a person when the
+                                    provider of the advice has considered the objectives, financial situation or needs of the
+                                    person, or when the person might reasonably expect that the provider has considered
+                                    these matters: see s766B(3). ‘General advice’ is financial product advice that is not
+                                    personal advice: see s766B(4). Table 1 sets out some obligations relating to the giving
+                                    of personal and general advice.
+
+                                    Note 2: For a discussion of the meaning of financial product advice, see RG 36.
+
+               RG 140.63      Operators and promoters of strata schemes might make
+                              recommendations to investors about participating in a scheme. In
+                              some circumstances recommendations about buying a strata unit
+                              might also be reasonably regarded as being intended to influence the
+                              decision of a person to acquire an interest in a strata scheme. These
+                              recommendations may constitute financial product advice.
+
+               RG 140.64      If a person provides financial product advice, they are generally
+                              required to:
+                              (a)   hold an AFS licence or be an authorised representative of an AFS
+                                    licensee (see RG 140.58–RG 140.59); and
+                              (b)   if the investor is a retail client, give necessary disclosures under
+                                    Pt 7.7 depending on whether the advice is personal or general
+                                    advice.
+                                    Note 1: For a discussion of the relevant disclosure obligations when providing financial
+                                    product advice, see RG 175.
+
+                                    Note 2: There are exemptions from these requirements.
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                                         Page 19
+                                                REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+Table 1:     Some obligations relating to personal and general advice
+
+  Personal advice                                                 General advice
+
+  If personal advice is given to a retail client, the             At the time of giving the general advice and by the
+  provider (i.e. the AFS licensee or authorised                   same means as the general advice is given, the AFS
+  representative) must comply with the personal advice            licensee or authorised representative giving the
+  regime in Div 3 of Pt 7.7. This includes an obligation          advice must warn the client that:
+  to act in the best interests of the client and to give           the advice has been prepared without taking into
+  priority to the client’s interests (the best interests            account the client’s objectives, financial situation
+  obligation). Meeting the objectives, financial situation          and needs; and
+  and needs of the client must be the paramount
+                                                                   they should therefore consider the appropriateness
+  consideration when providing advice: see Div 2 of
+                                                                    of the advice to their situation before acting on the
+  Pt 7.7A.
+                                                                    advice (s949A).
+        Note: Section 961B(2) sets out a ‘safe harbour’ for
+        complying with the best interests duty in s961B(1). The   When a person gives general advice to a client, no
+        client must generally be given a Statement of Advice      SOA is required.
+        (SOA) setting out, among other things, the advice and
+        the basis upon which it is given: s946A.
+
+
+               RG 140.65       Operators, as product issuers, have some scope to give general advice
+                               without an AFS licence: see reg 7.1.33H of the Corporations
+                               Regulations 2001 (Corporations Regulations). Generally, the issuer of
+                               a financial product is the person responsible for the obligations owed
+                               under the terms of the product to a client or a person nominated by
+                               that person: see s761E(4). However, under reg 7.1.33H, a product
+                               issuer who gives another person general advice about a product they
+                               issue does not provide a financial service provided that they also:
+                               (a)   inform the person that the product issuer is not licensed to give
+                                     financial product advice;
+                               (b)   recommend that the person obtain a PDS before acquiring the
+                                     product; and
+                               (c)   make certain disclosures about cooling-off rights.
+
+               RG 140.66       As a general rule, AFS licensees and authorised representatives who
+                               give financial product advice to retail clients must give those clients a
+                               Financial Services Guide (FSG): see s941A and 941B. A product
+                               issuer does not have to give an FSG to a client if the issuer is only
+                               dealing in their own products: see s941C(2).
+
+                               Real estate agents and developers
+
+               RG 140.67       Unless exempt under our relief (see Section D), if you are a real estate
+                               agent or property developer and you arrange for the issue of interests
+                               in a strata scheme along with a strata unit, you must hold an AFS
+                               licence.
+
+               RG 140.68       This requirement applies if a person who buys the strata unit
+                               automatically becomes a member of the strata scheme (e.g. because
+
+
+
+© Australian Securities and Investments Commission April 2017                                                      Page 20
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                              the strata unit is subject to a lease in such a scheme). It may apply to
+                              real estate agents if they promote or sell strata units that could
+                              participate in schemes. This is because the real estate agent may be
+                              making recommendations that are intended to influence the decision
+                              of a person to participate in the scheme (as well as their decision to
+                              purchase a strata unit). This may amount to financial product advice.
+                              In other situations, you might not have to be licensed—for example, if
+                              you are not:
+                              (a)   issuing interests in schemes;
+                              (b)   arranging for buyers to become members of a scheme; or
+                              (c)   giving financial product advice about interests in a scheme.
+
+               RG 140.69      The AFS licensing provisions apply even if you already hold a real
+                              estate agent’s or property developer’s licence. The AFS licence applies
+                              to the financial services aspect of your business.
+
+               RG 140.70      You generally do not need an AFS licence if you merely undertake
+                              administrative activities. For example, you do not need a licence to
+                              distribute or display a PDS for a strata scheme, provided you do not
+                              make any recommendations about that scheme that may amount to
+                              financial product advice: see RG 140.62–RG 140.67.
+
+
+The hawking prohibition
+               RG 140.71      Unless exempt under our relief (see Section D), a person (including
+                              their agent) must not offer financial products (such as interests in a
+                              strata scheme) for issue or sale in the course of, or because of, an
+                              unsolicited meeting or telephone call: see Div 8 of Pt 7.8. The
+                              hawking prohibitions aim to prevent pressure selling of financial
+                              products to retail clients (e.g. ‘badgering’ and ‘boiler room’ practices).
+                                    Note: For a discussion of the hawking provisions and how they apply, see RG 38.
+
+
+
+Investor’s right to withdraw from the scheme
+               RG 140.72      Operators and promoters of strata schemes should be aware that
+                              investors may have rights under the Corporations Act to withdraw
+                              from a scheme and get their money back if:
+                              (a)   interests in a scheme have been issued (or a person has acquired
+                                    interests in a scheme); and
+                              (b)   that scheme was not, but should have been, complying with the
+                                    requirements for registration of a managed investment scheme
+                                    under Ch 5C or the requirements of Div 2 of Pt 7.9 in relation to a
+                                    PDS.
+
+
+
+© Australian Securities and Investments Commission April 2017                                                    Page 21
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+               RG 140.73      The reference to ‘asking for their money back’ could include:
+                              (a)   terminating the lease, licence or agreement that empowers the
+                                    operator to grant leases or licences of units as an agent for the
+                                    strata unit owners—this would happen if a strata scheme was
+                                    offered to persons who already owned strata units; or
+                              (b)   refunding the purchase price of the strata unit and any costs in
+                                    return for transfer of the strata unit to the promoter—this would
+                                    happen if the right to join the strata scheme was offered as an
+                                    inducement to buy a strata unit.
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 22
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+D          ASIC relief for operators and promoters of
+           strata schemes
+                                Key points
+
+                                If you meet the conditions of ASIC Corporations (Serviced Apartment and
+                                Like Schemes) Instrument 2016/869, you may be exempt from certain
+                                provisions of the Corporations Act. The following strata schemes may be
+                                eligible for relief:
+                                • a management rights scheme (see RG 140.76–RG 140.117);
+                                • a scheme where all strata units have been sold for at least $500,000
+                                    (see RG 140.118–RG 140.124); and
+                                • a closed scheme or a well-advanced scheme (see RG 140.125–
+                                    RG 140.134).
+
+                                You may also be eligible for relief if you operate an arrangement that
+                                incidentally involves such a scheme: see RG 140.137–RG 140.138.
+
+                                For schemes that relied on previous ASIC class orders before ASIC
+                                Corporations (Serviced Apartment and Like Schemes) Instrument 2016/869
+                                came into effect, the older class orders continue to apply: see RG 140.75.
+
+                                If you are not eligible for relief under ASIC Corporations (Serviced Apartment
+                                and Like Schemes) Instrument 2016/869 or under other ASIC relief (see
+                                RG 140.139), you may apply to ASIC for individual relief on a case-by-case
+                                basis: see RG 140.140–RG 140.141.
+
+
+Overview of our relief
+               RG 140.74      We have given conditional relief, in ASIC Corporations (Serviced
+                              Apartment and Like Schemes) Instrument 2016/869, to operators and
+                              promoters of strata schemes (including management rights schemes,
+                              schemes where all strata units have been sold for at least $500,000,
+                              closed schemes and well-advanced schemes) from certain provisions
+                              of the Corporations Act: see Table 2.
+
+               RG 140.75      For schemes that relied on Class Orders [CO 02/245] Closed schemes,
+                              [CO 02/303] Management rights schemes—amendment, [CO 02/304]
+                              Management rights schemes and [CO 02/305] Management rights
+                              schemes before ASIC Corporations (Serviced Apartment and Like
+                              Schemes) Instrument 2016/869 came into effect, the older class orders
+                              continue to apply.
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 23
+                                                REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+Table 2:     Relief available in ASIC Corporations (Serviced Apartment and Like Schemes)
+             Instrument 2016/869
+
+  Type of arrangement                            Relief we have given                                   Guidance
+
+  Strata schemes that are management             Conditional relief is available from the               See RG 140.76–
+  rights schemes                                 managed investment, AFS licensing (for                 RG 140.117–
+                                                 general advice and dealing only) and the
+                                                 hawking provisions
+
+  Strata schemes if all of the strata units      Conditional relief is available from the               See RG 140.118–
+  (including real property and furniture         managed investment, product disclosure and             RG 140.124
+  and fittings) have been sold for at least      hawking provisions
+  $500,000
+
+  Strata schemes that are ‘closed                Conditional relief is available from the               See RG 140.125–
+  schemes’ as at 6 October 1998 (i.e. a          managed investment, AFS licensing (for                 RG 140.131
+  scheme where all the strata units were         general advice and dealing only), hawking and
+  sold and no primary offers to join the         some product disclosure provisions
+  scheme were made after 1998)
+
+  Strata schemes that are ‘well-                 Conditional relief is available from the               See RG 140.125–
+  advanced schemes’ as at 6 October              managed investment, AFS licensing (for                 RG 140.127 and
+  1998 (i.e. a scheme established before         general advice and dealing only), hawking and          RG 140.132–
+  6 October 1998 but we accepted was             some product disclosure provisions                     RG 140.134
+  quite advanced when we issued our
+  initial policy in 1998)
+
+  Registered strata schemes                      For registered strata schemes, relief is               See RG 140.135–
+                                                 available from the duty to value scheme                RG 140.136
+                                                 property where there is no obligation to pay
+                                                 members an amount related to the value of
+                                                 scheme property when investors leave the
+                                                 scheme
+
+Note: You may also be eligible for relief under another ASIC instrument (see RG 140.139), or you may be able to apply to ASIC
+for individual relief: see RG 140.140–RG 140.141.
+
+
+
+
+Relief for management rights schemes
+               RG 140.76       Management rights schemes are a type of strata scheme. The term
+                               ‘management rights’ refers to the advantage in offering property
+                               management services arising from the practice of buying that part of
+                               the complex that has the fittings and location that enable it to function
+                               as a front office for the complex. A typical management rights scheme
+                               involves an operator who resides in a holiday accommodation
+                               complex and who:
+                               (a)   provides short-term leases or licences to visitors;
+                               (b)   markets the complex;
+                               (c)   manages the common property;
+                               (d)   provides an office and caretaking facilities;
+
+
+© Australian Securities and Investments Commission April 2017                                                        Page 24
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                              (e)   collects the rent or licence fees; and
+                              (f)   pays expenses out of the rent or licence fees collected and then
+                                    pays the proceeds to the owner.
+
+               RG 140.77      Serviced strata arrangements that involve an operator who has
+                              management rights are generally managed investment schemes under
+                              s9 of the Corporations Act. This is because investors make their strata
+                              units available to the operator to manage so that they do not have day-
+                              to-day control, and the strata units are made available for letting, with
+                              the income used to provide benefits and operate the strata scheme. The
+                              following example illustrates a type of serviced strata arrangement
+                              commercially known as a ‘management rights scheme’.
+                                Example of a management rights scheme
+
+                                An investor is invited to buy a strata unit from a developer. They are told
+                                that they can give an on-site letting agent the right to let or license use of
+                                the strata unit.
+
+                                The investor is told that the on-site letting agent will operate a serviced
+                                apartment arrangement using the strata unit and other strata units made
+                                available in a similar manner. The investor will not be involved in the day-to-
+                                day operation of the arrangement.
+
+                                The investor is given to understand that the letting agent will seek to find
+                                tenants or licensees for the unit and what the on-site letting agent pays
+                                them will be based on the rent and licence fees received for use of the unit
+                                after the agent deducts costs and fees.
+
+                                The investor might decide to live in their strata unit or use their own off-site
+                                letting agent. Therefore, joining the on-site letting agent’s serviced
+                                apartment arrangement is voluntary.
+
+                                The investor has a right to terminate participation in the serviced apartment
+                                arrangement by terminating the operator’s right to enter new leases or
+                                licences for their unit on 90 days notice.
+
+               RG 140.78      Generally, in such management rights schemes, all investors come to
+                              an explicit (or implicit) understanding with the on-site letting agent
+                              about how strata units will be allocated to visitors looking for
+                              accommodation. The understanding is that the operator will allocate
+                              units on the basis of what the visitors prefer. However, they also agree
+                              that this will be done, as far as possible, in a way that fairly allocates
+                              income between investors in strata units who join the arrangement.
+
+               RG 140.79      If you operate a management rights scheme, you might be eligible for
+                              relief from the managed investment, AFS licensing (for general advice
+                              and dealing only) and hawking provisions of the Corporations Act. To
+                              take advantage of our relief, you must meet the conditions of relief in
+                              ASIC Corporations (Serviced Apartment and Like Schemes)
+                              Instrument 2016/869: see Table 3 and RG 140.82–RG 140.117.
+
+
+© Australian Securities and Investments Commission April 2017                                             Page 25
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+               RG 140.80      We have given relief for management rights schemes because we
+                              consider that compliance with all aspects of the managed investment,
+                              AFS licensing (for general advice and dealing only) and hawking
+                              provisions would be an unreasonable burden for these schemes. These
+                              schemes are usually small, and there would be limited benefit in
+                              requiring registration or licensing.
+
+               RG 140.81      Members in management rights schemes are unlikely to be materially
+                              disadvantaged from participating in the scheme because they have the
+                              option to withdraw their unit (on short notice) and arrange for it to be
+                              managed separately. If owners join, it is voluntary. They are not likely
+                              to have been induced to join on the basis of the management expertise
+                              of a particular operator who manages the letting of the strata units.
+                              This is because the operator can also withdraw on limited notice.
+
+                              Overview of conditions of relief
+
+               RG 140.82      We consider that it is appropriate for our relief for management rights
+                              schemes in ASIC Corporations (Serviced Apartment and Like
+                              Schemes) Instrument 2016/869 to be subject to the conditions in Table
+                              3. These conditions restrict our relief to schemes where it is
+                              appropriate in the circumstances, and set reasonable operational
+                              obligations for these schemes.
+
+Table 3:     Overview of relief for management rights schemes under ASIC Corporations
+             (Serviced Apartment and Like Schemes) Instrument 2016/869
+
+  Condition                  Summary of condition
+
+  Promotion of the           Operators who are AFS licensees or are licensed under state or territory law to manage
+  scheme (giving             real estate and persons acting on their behalf under the exemption can give general
+  general advice)            advice about a management rights scheme: see RG 140.83–RG 140.86. Persons
+                             licensed under state or territory law to sell real estate who are not operators and
+                             persons acting on their behalf can give general advice about a management rights
+                             scheme under the exemption.
+
+  Product disclosure         An operator must provide a PDS to an investor before an offer is made: see
+                             RG 140.87–RG 140.91. Referring to the possible disclosures in the appendix to this
+                             guide may assist in preparing a PDS.
+
+  Participation and          Joining the scheme must be voluntary. Owners must not have to pay any money either
+  investor liability         to join the scheme or during the scheme, except for amounts covering fees and
+                             expenses: see RG 140.92.
+
+  Cash held on trust         An operator that manages the letting or licensing of strata units must ensure that any
+                             part of the property of the scheme that is cash is deposited with an Australian ADI in a
+                             trust account that is audited annually: see RG 140.93.
+
+  Withdrawal rights          An operator or owner may withdraw from the scheme on no more than 90 days notice:
+                             see RG 140.94–RG 140.96.
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                                 Page 26
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+  Condition                  Summary of condition
+
+  Restrictions on            Where there are restrictions on the use of any of the strata units as a residence the
+  alternate use              exemption is available if the operator provides a written statement to ASIC from an
+                             independent real estate agent that the agent is willing and able to offer the unit for
+                             letting at a reasonable rate and expects a reasonable degree of occupancy: see
+                             RG 140.97–RG 140.99.
+
+  Rental guarantees          The relief does not apply if the operator, either directly or indirectly, offers rental
+  by operators               guarantees to owners that could apply after they are no longer the operator: see
+                             RG 140.100–RG 140.101.
+
+  Furniture, fittings        Operators may require upfront payments from owners for a furniture, fittings and
+  and equipment              equipment fund (FFE fund) as long as the purchased items become the property of the
+                             owner and any money in the FFE fund is returned to the owner if the owner withdraws
+                             from the scheme or if the scheme ends: see RG 140.102–RG 140.105.
+
+  Periodic reporting         The operator must give a periodic statement as soon as practicable and at least within
+                             six months after the end of a reporting period, detailing any transactions affecting the
+                             owner’s entitlement in the scheme during that period: see RG 140.106–RG 140.109.
+
+  Transferring rights        The terms of the agreement between the operator who manages the letting of the strata
+  and property to a          units and each owner must allow a majority of the unit owners in the scheme to make
+  new operator               the operator transfer any rights and property it uses for operating the scheme to a
+                             nominated new operator: see RG 140.110–RG 140.113.
+
+  Dispute resolution         Generally, requirements under the Corporations Act for internal complaints and external
+                             dispute resolution processes must be complied with: see RG 140.114–RG 140.115.
+
+  Breach reporting           Breach reporting requirements must be complied with: see RG 140.116–RG 140.117.
+
+
+
+                              Promotion of the scheme (giving general advice)
+
+               RG 140.83      A person who operates a strata scheme, including a promoter, and who
+                              expresses opinions about a management rights scheme or strata units
+                              that can be used in a management rights scheme that might reasonably
+                              be regarded as intended to influence the decision of a person to
+                              participate in the scheme (as well as their decision to acquire a strata
+                              unit) will generally be providing financial product advice, which
+                              requires an AFS licence: see RG 140.62–RG 140.66.
+                                    Note: For a discussion about the meaning of financial product advice, see Regulatory
+                                    Guide 36 Licensing: Financial product advice and dealing (RG 36).
+
+               RG 140.84      Under reg 7.1.33H of the Corporations Regulations, operators and
+                              promoters have some scope to give general advice without an AFS
+                              licence if certain disclosures are made. In ASIC Corporations
+                              (Serviced Apartment and Like Schemes) Instrument 2016/869, we
+                              have given further relief so that operators and promoters, as well as
+                              real estate agents in some circumstances (see RG 140.67–RG 140.70),
+                              can give general advice about a management rights scheme without a
+                              licence if the scheme meets the conditions of our relief.
+
+
+© Australian Securities and Investments Commission April 2017                                                      Page 27
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+               RG 140.85      Our relief applies only if the provider is:
+                              (a)   the operator and holds an AFS licence or is licensed under state or
+                                    territory law to manage real property or if they are only a
+                                    promoter licensed under state or territory laws in relation to real
+                                    property; or
+                              (b)   not an operator, but is licensed under state or territory law to sell
+                                    real property; or
+                              (c)   a person acting on behalf of a person covered by paragraph (a) or
+                                    (b).
+
+               RG 140.86      Our relief is limited to general advice. We recognise that general
+                              advice on interests in a management rights scheme may be given in
+                              the context of a transaction to purchase real estate, and primarily focus
+                              on the merits of the real estate. As the real property industry is
+                              regulated under a different regime from financial products, a degree of
+                              consumer protection provided in state and territory licensing regimes
+                              will apply. However, state and territory laws do not regulate AFS
+                              licensees or the provision of financial product advice and, in light of
+                              the protections intended under the Corporations Act to apply to
+                              personal advice, the exemptions do not apply to personal advice.
+
+                              Product disclosure
+
+               RG 140.87      A PDS must generally be given to each investor when they receive an
+                              offer to participate in a management rights scheme, or an offer to
+                              arrange for them to participate in a management rights scheme that is
+                              to operate in relation to their strata unit: see Pt 7.9 of the Corporations
+                              Act.
+
+               RG 140.88      The PDS ensures that investors can get relevant information about the
+                              significant features of the financial product (including its risks,
+                              benefits and costs) so that they can make an informed choice. The
+                              PDS must be given in addition to any disclosure about the scheme or
+                              strata unit required under state or territory legislation.
+
+               RG 140.89      Generally, the issuer of a financial product must prepare the PDS. This
+                              person is known as the ‘responsible person’ for the PDS: see s1013A.
+                              The product issuer is the person who is responsible for the obligations
+                              owed under the product to the holder of the financial product. As such,
+                              the operator who is responsible for the letting of the strata units for a
+                              management rights scheme has the obligation to issue a PDS under
+                              Div 2 of Pt 7.9.
+
+               RG 140.90      Strata units under development (that might at some stage participate in
+                              a management rights scheme) can be sold before an operator is
+                              appointed to manage the letting of the strata units. Promotion for those
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 28
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                              strata units should not promote the management rights scheme in these
+                              circumstances. Under s1018A(2) a person should not advertise or
+                              issue a statement reasonably likely to induce people to acquire a
+                              financial product that is not already available for acquisition, unless
+                              the issuer is identified.
+
+               RG 140.91      When the operator offers the letting agreement, which will issue an
+                              interest in a managed investment scheme to the investor, a PDS must
+                              be given, if no previous PDS has been given. If permitted under
+                              reg 7.9.15DA of the Corporations Regulations, a PDS prepared by the
+                              operator could incorporate by reference information in a written
+                              disclosure that the developer has already given.
+                                    Note: For guidance on how to prepare a PDS, see RG 140.45 and the appendix to this
+                                    guide, and Regulatory Guide 168 Disclosure: Product Disclosure Statements (and other
+                                    disclosure obligations) (RG 168).
+
+
+                              Participation and investor liability
+
+               RG 140.92      Owners of strata units must not be placed under an obligation to pay
+                              money either for:
+                              (a)   joining the scheme (as opposed to buying the strata unit); or
+                              (b)   during the scheme—except for amounts covering fees and
+                                    expenses for up to three months to acquire furniture, fittings and
+                                    equipment, or to be held in a fund for the repair and
+                                    refurbishment of furniture, fittings and equipment for their strata
+                                    unit.
+
+                              Cash held on trust
+
+               RG 140.93      An operator that manages the letting or licensing of strata units must
+                              ensure that:
+                              (a)   any part of the property of the scheme that is cash is promptly
+                                    deposited with an Australian ADI on trust for investors in a trust
+                                    account; and
+                              (b)   the account is subject to audit—as to whether the money has been
+                                    dealt with in accordance with the terms of the trust—by a
+                                    registered company auditor at least annually.
+
+                              Withdrawal rights
+
+               RG 140.94      Each owner of a strata unit and the operator who manages the letting
+                              or licensing of the strata units (i.e. the person who grants leases or
+                              licences to visitors of the serviced apartment, hotel, motel or resort
+                              complex) must be able to withdraw from the scheme on no more than
+                              90 days’ notice.
+
+
+© Australian Securities and Investments Commission April 2017                                                   Page 29
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+               RG 140.95      When an owner withdraws, the withdrawal can be made subject to any
+                              rights to occupy a strata unit that a person, other than the operator or
+                              its associate, was given before the owner gave notice that they were
+                              withdrawing from the scheme. When an owner withdraws they must
+                              not be restricted from appointing another person to manage their unit.
+
+               RG 140.96      These requirements are to restrict relief to cases where the investor’s
+                              reliance on the operator is likely to be limited.
+
+                              Restrictions on alternate use
+
+               RG 140.97      To ensure that there is only limited reliance by the investor on the
+                              performance of the operator, it must be commercially practicable for
+                              the investor to use their strata unit if they withdraw. To demonstrate
+                              this, a condition of our relief is that either:
+                              (a)   there must be no restrictions on the use of any of the strata units
+                                    as a residence (e.g. imposed by the local authority under zoning
+                                    restrictions or a development approval) that might affect an
+                                    owner’s participation in the scheme; or
+                              (b)   ASIC has been provided with a written statement from an
+                                    independent real estate agent that, in relation to each strata unit to
+                                    which the scheme relates, the agent would:
+                                    (i)    be willing and able to offer the unit for letting at a reasonable
+                                           rate having regard to the value of the unit; and
+                                    (ii)   expect that there would be a reasonable degree of occupancy
+                                           of the unit at that rate.
+
+               RG 140.98      An independent real estate agent is a person licensed under state or
+                              territory law to lease real property who is not the operator or an
+                              associate of the operator.
+
+               RG 140.99      To ensure that the scheme operates consistently with the premise that
+                              participation is voluntary and there is limited reliance by investors on
+                              the operator, there must be no obligation for owners of strata units to
+                              agree to join on the same or similar terms.
+
+                              Rental guarantees by operators
+
+               RG 140.100     Our relief for management rights schemes does not apply if the
+                              operator who manages the letting of the units, either directly or
+                              indirectly, offers rental guarantees to owners that could apply after
+                              they are no longer the operator. This is because there should only be
+                              limited reliance by an owner on an operator and this is ensured by the
+                              ability of the operator to withdraw at short notice. This underlying
+                              principle would be undermined if operators were to provide rental
+
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 30
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                              guarantees that they have to honour even after they stop managing the
+                              scheme. The following example illustrates an indirect relationship.
+
+                                Example of an indirect relationship
+
+                                A developer undertakes to make any necessary payments to investors in
+                                the management rights scheme to cover any shortfall in rent reaching a
+                                specified amount.
+
+                                The letting agent indemnifies the developer for any amounts that a
+                                developer had to pay to meet this obligation.
+
+               RG 140.101     This means that our relief for management rights schemes will not
+                              apply if:
+                              (a)   the operator who manages the letting of the strata units is
+                                    obligated, either directly or indirectly (e.g. by indemnifying
+                                    another person who provides a guarantee), to make payments in
+                                    relation to the use of the strata units (e.g. provide a guaranteed
+                                    level of rental payment to owners); and
+                              (b)   this rental guarantee is required to be fulfilled by the operator
+                                    even after the operator ceases to operate the scheme because the
+                                    operator has exercised their power to terminate their obligations.
+
+                              Furniture, fittings and equipment
+
+               RG 140.102     We recognise that having standard furniture, fittings and equipment in
+                              strata units participating in a management rights scheme might be
+                              commercially appropriate and advantageous to both owners and
+                              operators. Our relief allows operators to require upfront payments for
+                              furniture, fittings or equipment for an owner’s strata unit as a
+                              condition of participating in a scheme set out in the agreement with
+                              the operator as long as the purchased items become the property of the
+                              owner. Our relief also allows the operator to require payment to
+                              indemnify themselves for the expected expenses in acquiring these
+                              items over the following three months at any time if they are buying
+                              items on behalf of owners.
+
+               RG 140.103     We consider that it is appropriate to permit the agreement between an
+                              owner and the operator to allow the operator to require payments into
+                              a furniture, fittings and equipment fund (FFE fund) by withholding
+                              payments from amounts due to owners as rental income to allow for
+                              the accumulation of owner’s money for the repair or replacement of
+                              the owner’s furniture, fittings and equipment within a certain limit.
+                              This applies only if the money is not pooled and is held in trust for
+                              each owner, to be returned if the owner withdraws from the scheme or
+                              the scheme ends before the money is expended on the owner’s
+                              furniture, fittings and equipment.
+
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 31
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+               RG 140.104     Under our relief, operators can only withhold money for furniture,
+                              fittings and equipment from money they hold as net rent. The limit on
+                              the amount an operator can require a member to pay into an FFE fund
+                              is 3% of the annual gross scheme revenue attributable to the member,
+                              up to a limit of $10,000 per strata unit. An owner can make payments
+                              of an amount exceeding this limit if the operator agrees to accept such
+                              payments where, for example, the owner wishes to save for extensive
+                              refurbishments of their strata unit.
+
+               RG 140.105     The FFE fund and other property held in relation to the scheme that is
+                              cash must be deposited in an Australian ADI on trust for investors, in a
+                              trust account, and must be audited by a registered company auditor at
+                              least annually.
+
+                              Periodic reporting
+
+               RG 140.106     Generally, operators of schemes that rely on relief from the
+                              requirement to register a scheme with ASIC must comply with the
+                              periodic reporting requirement in s1017D: see Regulatory Guide 169
+                              Disclosure: Discretionary powers (RG 169) at RG 169.24. This is an
+                              important consumer protection requirement and generally reflects
+                              good commercial practice for managed investments.
+
+               RG 140.107     However, state or territory legislation already requires some form of
+                              periodic reporting to owners by operators who manage the letting of
+                              strata units. For this reason, we have imposed a limited requirement
+                              for periodic reporting, which provides sufficient flexibility for
+                              operators who manage the letting of strata units and avoids regulatory
+                              duplication.
+
+               RG 140.108     Under our relief for management rights schemes, a periodic statement
+                              must be given as soon as practicable, and at least within six months
+                              after the end of a reporting period, by the operator who manages the
+                              letting of the strata units to the owner of each strata unit detailing any
+                              transactions affecting the owner’s entitlement in the scheme during
+                              that period. A periodic statement might include:
+                              (a)   rental receipts for the owner’s strata unit;
+                              (b)   letting agent’s fees; and
+                              (c)   FFE fund transactions.
+               RG 140.109     As a matter of good practice, it might help an owner understand their
+                              investment better if the following information is also provided:
+                              (a)   the number of owners participating in the management rights
+                                    scheme;
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 32
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                              (b)   the collective average achieved rentals and average achieved
+                                    occupancy; and
+                              (c)   information about the allocation of visitors to strata units.
+
+                              Transferring rights and property to a new operator
+
+               RG 140.110     It is appropriate that members of a management rights scheme have
+                              the right to decide to replace the operator who manages the letting of
+                              strata units. This right reflects a key aspect of the managed investment
+                              provisions that allows members of a registered managed investment
+                              scheme, by a majority, to replace the operator of the scheme: see
+                              s601FM.
+
+               RG 140.111     We have maintained this right by requiring the operator to agree to
+                              transfer any rights and property they use for operating the
+                              management rights scheme to the new operator if owners collectively
+                              decide to replace the operator who manages the letting of strata units.
+
+               RG 140.112     We consider that the right of owners in a management rights scheme
+                              to collectively, by majority, replace the operator of the scheme cannot
+                              be substituted by:
+                              (a)   any rights that the body corporate of a strata property has under
+                                    state or territory legislation to remove an operator of a
+                                    management rights scheme in circumstances of misconduct; or
+                              (b)   the rights of each owner in a management rights scheme to
+                                    terminate their arrangement with the operator.
+
+               RG 140.113     To limit how affected they would be by any forced transfer, operators
+                              who manage the letting of the strata units could negotiate so that any
+                              property rights they use to operate the scheme are by leasehold or
+                              under licence rather than freehold.
+
+                              Dispute resolution
+
+               RG 140.114     Under the Corporations Act, there is a minimum requirement for
+                              internal complaints and external dispute resolution processes to
+                              protect retail clients acquiring financial products: see s1017G.
+
+               RG 140.115     We have not given relief from this requirement for management rights
+                              schemes because the required dispute resolution processes are an
+                              appropriate means to ensure that retail clients can have disputes about
+                              the financial product they acquire resolved. In particular, this includes
+                              disputes about the PDS or other representations that might induce a
+                              person to become a member of a management rights scheme.
+                                    Note: For a discussion of the internal and external dispute resolution requirements, see
+                                    Regulatory Guide 165 Licensing: Internal and external dispute resolution (RG 165).
+
+
+
+© Australian Securities and Investments Commission April 2017                                                        Page 33
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                              Breach reporting
+               RG 140.116     Failure to comply with certain conditions of our relief for management
+                              rights schemes will not automatically exclude relief as long as the
+                              breach is reported to us in writing promptly (within 15 business days)
+                              when the person relying on the relief becomes aware they are in
+                              breach. We may exercise our power to exclude a person from relief
+                              after receiving such a report. This will depend on the circumstances.
+               RG 140.117     You can lodge a written breach report:
+                              (a)   at any ASIC office (but preferably the office in the state or
+                                    territory where you live—see www.asic.gov.au/asicoffices)
+                                    addressed to ‘Stakeholder Services, Misconduct and Breach
+                                    Reporting’; or
+                              (b)   by email to fsr.breach.reporting@asic.gov.au.
+
+
+Relief where all strata units are sold for at least $500,000
+               RG 140.118     In some strata schemes, all interests are offered to investors who
+                              already have or, if they take up the offer, will have strata units for
+                              which they have paid or will pay at least $500,000 (taking into
+                              account any real property or furniture, fittings and equipment acquired
+                              or purchased with the investment-based financial product costs).
+               RG 140.119     Under ASIC Corporations (Serviced Apartment and Like Schemes)
+                              Instrument 2016/869, these investors are conferred the status of
+                              wholesale clients for the purpose of Pts 7.6 (except Divs 4 and 8), 7.7,
+                              7.8 and 7.9 of the Corporations Act. This applies to investors if they
+                              would be wholesale clients under reg 7.1.18 of the Corporations
+                              Regulations if the price paid to invest in the scheme included the value
+                              of any real property or furniture, fittings and equipment acquired or
+                              purchased with the investment-based financial product. This applies
+                              when the total of the price and these amounts is at least $500,000.
+               RG 140.120     We treat these investors as if they were wholesale clients to the extent
+                              that the operators of such schemes are given managed investment,
+                              product disclosure and hawking provision relief so that requirements
+                              do not apply if they would not apply if these investors are wholesale
+                              clients, consistent with s761G(7)(a) of the Corporations Act and reg
+                              7.1.18(2) of the Corporations Regulations.
+               RG 140.121     Our relief also applies to a later purchaser of real estate if an earlier
+                              purchaser of that real estate, either from the operator, developer or
+                              promoter or their associates, paid at least $500,000 for the real
+                              property or furniture, fittings and equipment acquired or purchased
+                              with the investment-based financial product acquired or purchased
+                              with it.
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 34
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+               RG 140.122     Affected clients will not be treated as ‘retail clients’ for the purpose of
+                              requirements that apply to retail clients in relation to the terms of
+                              authorisation in an AFS licence, requirements for a dispute resolution
+                              system complying with s912A(2), having compensation arrangements
+                              complying with 912B or providing an FSG required by Pt 7.7.
+
+               RG 140.123     As they will not be treated as retail clients, it is not necessary to
+                              provide investors with a PDS required under Pt 7.9 and the offer of an
+                              interest in the scheme will not give rise to the requirement to register
+                              the scheme.
+
+               RG 140.124     If there is any change in the amount of investment required to qualify as
+                              a wholesale client in reg 7.1.18, the changed amount will also apply for
+                              the purpose of offers and issues of interests in those strata schemes
+                              affected by ASIC Corporations (Serviced Apartment and Like Schemes)
+                              Instrument 2016/869.
+
+
+Relief for closed schemes and well-advanced schemes
+               RG 140.125     In ASIC Corporations (Serviced Apartment and Like Schemes)
+                              Instrument 2016/869, we have given relief in certain circumstances to:
+                              (a)   closed schemes—that is, strata schemes where all the strata units
+                                    in the scheme were sold, and no primary offers to join the scheme
+                                    were made, after 6 October 1998 (see RG 140.128–RG 140.131);
+                                    and
+                              (b)   well-advanced schemes—that is, strata schemes established
+                                    before 6 October 1998 that we have accepted were quite advanced
+                                    when we issued our initial policy on strata schemes in 1998 (see
+                                    RG 140.132–RG 140.133).
+
+               RG 140.126     Our relief applies only to those strata schemes that had never been
+                              registered as managed investment schemes or did not have an
+                              approved deed under the Corporations Law that applied before 1 July
+                              1998 (non-complying schemes).
+
+               RG 140.127     We have taken a special approach to regulating these schemes due to
+                              the uncertainty about how the earlier Corporations Law applied to
+                              arrangements involving units under strata, community or similar title
+                              before we issued our policy on strata schemes on 6 October 1998.
+
+               RG 140.128     We consider that requiring operators of closed schemes and well-
+                              advanced strata schemes to comply with the Corporations Act would
+                              be disproportionately burdensome and likely to disadvantage
+                              investors.
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 35
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                              Closed schemes
+
+               RG 140.129     We have given operators of closed, non-complying, strata schemes
+                              conditional relief from the managed investment, AFS licensing (for
+                              advice and dealing only), product disclosure and hawking provisions.
+                              Our relief applies only to strata schemes that involve units under
+                              strata, community and similar title.
+               RG 140.130     For closed schemes, relief is conditional on there being only limited
+                              new issues (i.e. no more than 20 new members can join the scheme in
+                              any 12 months) made after 6 October 1998 subject to certain
+                              exclusions for issues that do not require a PDS. All offers made after 6
+                              October 1998 within the 20 new member limit must not be primary
+                              offers in the sense that they must relate to strata units in the relevant
+                              complex that have been sold by 6 October 1998. At that date, the
+                              relevant strata units must not have been held by:
+                              (a)   the promoter or its associates; or
+                              (b)   the operator and its associates.
+
+               RG 140.131     The offer of an interest in the scheme may be made to:
+                              (a)   a person who already owns a strata unit but is not a member of the
+                                    scheme; or
+                              (b)   a person who is newly offered a strata unit for sale who might
+                                    wish to participate in the scheme.
+
+                              Well-advanced schemes
+
+               RG 140.132     We have given certain operators of certain well-advanced, non-
+                              complying, strata schemes conditional relief from the managed
+                              investment, AFS licensing (for advice and dealing only), hawking and
+                              some product disclosure provisions. The relief applies when ASIC
+                              had, before 2016, granted individual relief on the basis of Pro Forma
+                              186 Well advanced schemes (PF 186).
+
+               RG 140.133     Our relief allows for new offers of interests in these schemes to be
+                              made provided that no more than 20 new members join the scheme in
+                              any 12 months after 31 December 2000, excluding offers that do not
+                              require product disclosure to be given under s1012B (e.g. offers to
+                              wholesale clients). The scheme must be limited to strata units not held
+                              on 31 December 2000 by someone who was a promoter or developer.
+
+               RG 140.134     We provided the relief on the basis that certain information was
+                              provided relating to the construction stage of the strata units, the
+                              anticipated sales after December 2000, and the provision of marketing
+                              and disclosure material available to investors and disclosure: see PF
+                              186.
+
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 36
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+Relief from the obligation to value scheme property
+               RG 140.135     We have given relief in ASIC Corporations (Serviced Apartment and
+                              Like Schemes) Instrument 2016/869 so that the responsible entity of a
+                              strata scheme only has to value an item of property when they have
+                              reasonable grounds to believe that a valuation of that item is in the
+                              best interests of members or is needed to be fair to all members. This
+                              relief applies only if, under the terms of the scheme, there is no
+                              obligation to pay members an amount related to the value of scheme
+                              property when they leave the scheme.
+               RG 140.136     We consider that it might be unreasonably burdensome for the
+                              responsible entity of a strata scheme to regularly revalue scheme
+                              property. Valuations are appropriate in certain circumstances (e.g. to
+                              give relevant information for accounts, for calculating investors’
+                              voting or withdrawal rights, for the consideration to acquire interests,
+                              or for the proper management of scheme property).
+
+
+Relief for arrangements that incidentally involve a scheme
+               RG 140.137     Some arrangements might fall into the definition of a managed
+                              investment scheme merely because they offer incidental rights of
+                              personal consumption or use (e.g. rights to occupy hotel rooms at
+                              discounted rates). We consider that, unless such benefits are a
+                              significant part of the value of the arrangement to the investor,
+                              regulation under the managed investment, AFS licensing, product
+                              disclosure and hawking provisions would not be an appropriate means
+                              of protection.
+
+               RG 140.138     Such incidental benefits to a strata scheme may be an interest in a
+                              time-sharing scheme as defined in s9. As such, we will exempt such
+                              schemes from the managed investment, product disclosure, AFS
+                              licensing and hawking provisions on a case-by-case basis.
+
+
+Other relief that may be available
+
+                              Relief under other ASIC instruments
+               RG 140.139     In addition to the relief we have given to strata schemes in ASIC
+                              Corporations (Serviced Apartment and Like Schemes) Instrument
+                              2016/869, other ASIC instrument relief may also be available—for
+                              example:
+                              (a)   for managed investment schemes where the interests are not for
+                                    money (see Regulatory Guide 80 Managed investments: Interests
+                                    not for money (RG 80)); and
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 37
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                              (b)   for time-sharing schemes (see Regulatory Guide 160 Time-
+                                    sharing schemes (RG 160)).
+                                    Note: If you are eligible for relief under an ASIC instrument, you do not need to apply
+                                    for relief.
+
+
+                              Relief available to individuals (on application)
+
+               RG 140.140     If you unable to rely on the relief available under an ASIC instrument,
+                              you can apply for individual or case-by-case relief. To submit a relief
+                              application, you should:
+                              (a)   lodge an electronic copy to applications@asic.gov.au or a hard
+                                    copy of the document to an ASIC office in your state or territory;
+                              (b)   include the prescribed fee(s); and
+                              (c)   ensure that your application addresses the criteria in Regulatory
+                                    Guide 51 Applications for relief (RG 51) and this guide.
+
+               RG 140.141     You can also call 1300 300 630 for information and assistance.
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                                       Page 38
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+Appendix: Information in a PDS for a management
+rights scheme
+
+               RG 140.142     The PDS for a management rights scheme must contain certain
+                              information under s1013D and 1013E. The following information is
+                              provided as a guide to some of the disclosures that may be
+                              appropriate.
+
+                                Information in a PDS for a management rights scheme
+
+                                What is being offered?
+                                • How would an owner’s property rights be affected if they hold an interest
+                                  in the management rights scheme (scheme)?
+                                • What key rights will an owner have on how their strata unit is used by
+                                  the letting agent?
+                                • What sort of serviced apartment, hotel, motel or resort complex is being
+                                  operated under the scheme? How will it be operated?
+                                • What are the key terms of any lease, licence or rights that an owner
+                                  confers on the letting agent and any person engaged by the letting
+                                  agent to operate the scheme?
+                                • The letting agent or any person they propose to engage to operate the
+                                  scheme may own or have rights to property that is used to facilitate the
+                                  scheme. What rights do they have? How would their rights adversely
+                                  affect:
+                                    – how the scheme would be operated by a new letting agent if the
+                                      letting agent changed; or
+                                    – the amount an owner is likely to receive for use of their unit if the
+                                      letting agent’s property or rights to property ceased to be available
+                                      (for whatever reason)?
+
+                                What are the risks and returns?
+                                • How, in general terms, will the serviced apartment, hotel, motel or resort
+                                  complex generate returns for owners?
+                                • When and how are these returns to be calculated and made available to
+                                  owners? For example, does the letting agent aim to achieve a particular
+                                  return? Can owners expect any particular return? Are returns from the
+                                  scheme uncertain?
+                                • Returns from the scheme might vary from what is aimed for or expected,
+                                  or may be uncertain for some reason. In this case, what are the main
+                                  factors that will affect the return? If occupancy rates will affect the rate
+                                  of return, what are the main factors that will affect occupancy rates?
+                                • Do owners have a potential liability to pay money to the scheme in any
+                                  circumstances? If so, what are these liabilities and what main factors
+                                  will affect the amount of these liabilities? For example, how will any
+                                  repairs, refurbishment or replacement of any part of the serviced
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 39
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                                    apartment, hotel, motel or resort complex and its furniture and fittings be
+                                    paid for?
+                                • Is there a suggested minimum period of time that an owner should
+                                  remain in the scheme? If so, why is that period of time suggested?
+                                  What are the qualifications (if any) on that suggested period?
+
+                                What are the fees, charges, expenses and taxes?
+                                • This information must comply with Sch 10 to the Corporations
+                                  Regulations.
+
+                                Who is operating the scheme?
+                                • For each person engaged to take a material part in the operation of the
+                                  serviced apartment, hotel, motel or resort complex, who is that person
+                                  and what credentials does that person need to perform their role?
+                                • What are the custodial arrangements for holding the money of the
+                                  scheme? This includes money for distribution to owners, for repairs and
+                                  refurbishment in a furniture, fittings and equipment (FFE) fund, and to
+                                  meet expenses of the scheme.
+
+                                How can membership in the scheme be withdrawn or transferred?
+                                • When and how can an owner withdraw from the scheme?
+                                • Can the owner’s membership in the scheme be transferred? If so, in
+                                  what circumstances? What legal requirements apply?
+                                • How is money in any FFE fund for repairs and refurbishment returned if
+                                  an owner withdraws from the scheme?
+
+                                What other information is available?
+                                • How can the letting agent or developer (if relevant) be contacted?
+                                • Is there any particular information available to a prospective or existing
+                                  owner if they ask the letting agent or promoter? If so, how can that
+                                  information be obtained?
+                                • When and how does the letting agent report to an owner on the
+                                  operation of the scheme, including the scheme’s performance (e.g. in
+                                  periodic statements)?
+                                • What are the details of any dispute resolution processes the responsible
+                                  entity has in place, including the contact details of the external dispute
+                                  resolution scheme of which the responsible entity is a member?
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 40
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+Key terms
+
+                                 Term                       Meaning in this document
+
+                                 AFS licence                An Australian financial services licence under s913B of
+                                                            the Corporations Act that authorises a person who carries
+                                                            on a financial services business to provide financial
+                                                            services
+                                                                 Note: This is a definition contained in s761A.
+
+                                 AFS licensee               A person who holds an AFS licence under s913B of the
+                                                            Corporations Act
+                                                                 Note: This is a definition contained in s761A.
+
+                                 AFS licensing              The provisions set out in Pt 7.6 of the Corporations Act
+                                 provisions                 and related regulations
+
+                                 ASIC                       Australian Securities and Investments Commission
+
+                                 ASIC Act                   Australian Securities and Investments Commission Act
+                                                            2001
+
+                                 authorised                 A person authorised by an AFS licensee, in accordance
+                                 representative             with s916A or 916B of the Corporations Act, to provide a
+                                                            financial service or services on behalf of the licensee
+                                                                 Note: This is a definition contained in s761A.
+
+                                 best interests duty        The duty to act in the best interests of the client when
+                                                            giving personal advice to a client as set out in s961B(1) of
+                                                            the Corporations Act
+
+                                 best interests duty        The obligations in Div 2 of Pt 7.7A of the Corporations Act
+                                 and related
+                                 obligations
+
+                                 Ch 5C (for example)        A chapter of the Corporations Act (in this example
+                                                            numbered 5C)
+
+                                 closed scheme              A serviced strata scheme where no further primary offers
+                                                            (including offers to which s1012C applies) are to be
+                                                            made, or were made after 6 October 1998, of interests in
+                                                            the scheme, except for:
+                                                             offers that did not require disclosure under the
+                                                              Corporations Act; or
+                                                             exempted offers and offers of interests in schemes as
+                                                              described in RG 140.131
+
+                                 Corporations Act           Corporations Act 2001, including regulations made for the
+                                                            purposes of that Act
+
+                                 developer                  A person who arranges for the building of a serviced
+                                                            apartment, hotel, motel or resort complex, and for the
+                                                            sale of the built complex or units in the complex
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                                     Page 41
+                                                 REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                                 Term                       Meaning in this document
+
+                                 Div 8 (for example)        A division of the Corporations Act (in this example
+                                                            numbered 8)
+
+                                 FFE fund                   Money held for owners for the repair and refurbishment of
+                                                            furniture, fittings and equipment
+
+                                 financial product          A facility through which, or through the acquisition of
+                                                            which, a person does one or more of the following:
+                                                             makes a financial investment (see s763B);
+                                                             manages financial risk (see s763C);
+                                                             makes non-cash payments (see s763D)
+                                                                  Note: This is a definition contained in s763A of the
+                                                                  Corporations Act: see also s763B–765A.
+
+                                 financial product          A recommendation or a statement of opinion, or a report
+                                 advice                     of either of these things, that:
+                                                             is intended to influence a person or persons in making
+                                                              a decision about a particular financial product or class
+                                                              of financial product, or an interest in a particular
+                                                              financial product or class of financial product; or
+                                                             could reasonably be regarded as being intended to
+                                                              have such an influence.
+
+                                                            This does not include anything in an exempt document
+                                                                  Note: This is a definition contained in s766B of the
+                                                                  Corporations Act.
+
+                                 Financial Services         A document required by s941A or 941B to be given in
+                                 Guide (FSG)                accordance with Div 2 of Pt 7.7 of the Corporations Act
+                                                                  Note: This is a definition contained in s761A.
+
+                                 general advice             Financial product advice that is not personal advice
+                                                                  Note: This is a definition contained in s766B(4) of the
+                                                                  Corporations Act.
+
+                                 hawking provisions         The provisions set out in Div 8 of Pt 7.8 of the
+                                                            Corporations Act and related regulations
+
+                                 investor                   A retail client
+
+                                 letting agent              An operator who grants leases or licences to visitors to a
+                                                            serviced apartment, hotel, motel or resort complex
+
+                                 managed investment         The provisions set out in Ch 5C of the Corporations Act
+                                 provisions                 and related regulations
+
+                                 managed investment         A scheme that is a managed investment scheme as
+                                 scheme                     defined in s9 of the Corporations Act
+
+                                 management rights          A strata scheme (i.e. a managed investment scheme) that
+                                 scheme                     involves holiday letting arrangements for strata units
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                                            Page 42
+                                                 REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                                 Term                       Meaning in this document
+
+                                 operator                   A person responsible for operating a serviced strata
+                                                            arrangement, including:
+                                                             the promoter of the arrangement who promotes or
+                                                              markets interests in the arrangement;
+                                                             the manager of the serviced apartment, hotel, motel or
+                                                              resort complex; and
+                                                             the on-site letting agent of a management rights
+                                                              scheme
+
+                                 personal advice            Financial product advice given or directed to a person
+                                                            (including by electronic means) in circumstances where:
+                                                             the person giving the advice has considered one or more
+                                                              of the client’s objectives, financial situation and needs; or
+                                                             a reasonable person might expect the person giving the
+                                                              advice to have considered one or more of these
+                                                              matters
+                                                                 Note: This is a definition contained in s766B(3) of the
+                                                                 Corporations Act.
+
+                                 product disclosure         The provisions set out in Pt 7.9 of the Corporations Act
+                                 provisions                 and related regulations
+
+                                 Product Disclosure         A document that must be given to a client in relation to
+                                 Statement (PDS)            the offer or issue of a financial product in accordance with
+                                                            Div 2 of Pt 7.9 of the Corporations Act
+                                                                 Note: See s761A for the exact definition.
+
+                                 promoter                   A person who authorises, causes or allows the promoting
+                                                            and marketing of a serviced strata arrangement
+
+                                 Pt 7.9 (for example)       A part of the Corporations Act (in this example numbered
+                                                            7.9)
+
+                                 reg 7.1.33H (for           A regulation of the Corporations Regulations (in this
+                                 example)                   example numbered 7.1.33H)
+
+                                 registered scheme          A managed investment scheme (whether a strata scheme
+                                                            or other scheme) that is registered under Ch 5C of the
+                                                            Corporations Act
+
+                                 retail client              A retail client as defined in s761G of the Corporations Act
+                                                            and Div 2 of Pt 7.1 of Ch 7 of the Corporations
+                                                            Regulations
+
+                                 s601ED (for example)       A section of the Corporations Act (in this example
+                                                            numbered 601ED)
+
+                                 serviced strata            An arrangement that involves owners of strata units
+                                 arrangement                making their units available to a person for use as part of
+                                                            a serviced apartment, hotel, motel or resort complex
+
+                                 strata scheme              A serviced strata arrangement that is a managed
+                                                            investment scheme under the Corporations Act
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                                        Page 43
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                                 Term                       Meaning in this document
+
+                                 strata unit                A strata title unit, community title interest, or other interest
+                                                            in real property (including freehold or leasehold interests)
+
+                                 Statement of Advice        A document that must be given to a client for the
+                                 (SOA)                      provision of personal advice under Subdivs C and D of
+                                                            Div 3 of Pt 7.7 of the Corporations Act
+                                                                 Note: See s761A for the exact definition.
+
+                                 well-advanced              A strata scheme established before 6 October 1998 that
+                                 scheme                     we have accepted was quite advanced when we issued
+                                                            our initial policy on strata schemes in 1998
+
+
+
+
+© Australian Securities and Investments Commission April 2017                                                      Page 44
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+Related information
+
+                              Headnotes
+
+                              AFS licence, AFS licensee, Australian financial services licence,
+                              common enterprise, community title interest, exemption, hotel, letting
+                              arrangements, managed investment scheme, management rights
+                              scheme, motel, property rental scheme, real estate agent, resort, retail
+                              client, sale of interests, scheme property, serviced apartment, serviced
+                              strata arrangement, strata scheme, strata title unit, strata unit, valuation
+
+                              Legislative instruments and pro formas
+
+                              ASIC Corporations (Property Rental Schemes) Instrument 2016/870
+
+                              ASIC Corporations (Serviced Apartment and Like Schemes)
+                              Instrument 2016/869
+
+                              [CO 02/245] Closed schemes
+
+                              [CO 02/303] Management rights schemes—amendment
+
+                              [CO 02/304] Management rights schemes
+
+                              PF 186 Well advanced schemes
+
+                              Regulatory guides
+
+                              RG 1 Applying for and varying an AFS licence
+
+                              RG 36 Licensing: Financial product advice and dealing
+
+                              RG 38 The hawking provisions
+
+                              RG 51 Applications for relief
+
+                              RG 78 Breach reporting by AFS licensees
+
+                              RG 80 Managed investment schemes: Interests not for money
+
+                              RG 98 Licensing: Administrative action against financial services
+                              providers
+
+                              RG 104 Licensing: Meeting the general obligations
+
+                              RG 105 Licensing: Organisational competence
+
+                              RG 126 Compensation and insurance arrangements for AFS licensee
+
+                              RG 132 Managed investments: Compliance plans
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 45
+                                               REGULATORY GUIDE 140: Strata schemes and management rights schemes
+
+
+
+
+                              RG 133 Managed investments and custodial or depository services:
+                              Holding assets
+                              RG 134 Managed investments: Constitutions
+                              RG 136 Managed investments: Discretionary powers and closely
+                              related schemes
+                              RG 160 Time-sharing schemes
+                              RG 165 Licensing: Internal and external dispute resolution
+                              RG 166 Licensing: Financial requirements
+                              RG 167 Licensing: Discretionary powers
+                              RG 168 Disclosure: Product Disclosure Statements (and other
+                              disclosure obligations)
+                              RG 169 Disclosure: Discretionary powers
+                              RG 175 Licensing: Financial product advisers—conduct and
+                              disclosure
+                              RG 181 Licensing: Managing conflicts of interest
+                              RG 244 Giving information, general advice and scaled advice
+                              RG 246 Conflicted remuneration
+
+                              Legislation
+                              Corporations Act, Chs 5C and 7, Pts 7.6, 7.7, 7.8 and 7.9, s9,
+                              601ED(1), 601ED(2), 601ED(3), 601FC(1)(j), 601FM, 601HA(1)(c),
+                              761G, 765A, 766B, 761E, 912A, 912B, 941A, 941B, 941C, 946A,
+                              949A, 961B, 1012B, 1012D, 1013A, 1013D, 1013E, 1017A, 1017B,
+                              1017D, 1017F, 1017G, 1018A
+                              Corporations Regulations, regs 7.1.18, 7.1.33H, 7.9.15DA
+                              ASIC Act, s12DA
+
+                              Consultation papers
+                              CP 81 Management rights schemes
+                              CP 250 Remaking ASIC class orders on property, strata and
+                              management rights schemes
+
+                              Media releases
+                              16-330MR ASIC remakes class orders relating to property, strata and
+                              management rights schemes (29 September 2016)
+
+
+
+© Australian Securities and Investments Commission April 2017                                            Page 46
+

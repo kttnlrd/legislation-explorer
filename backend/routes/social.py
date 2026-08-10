@@ -33,36 +33,44 @@ OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 MCPORTER_CONFIG = Path.home() / ".config" / "mcporter" / "config.json"
 
-# Voice rules — loaded from the buffer-social-post skill at build time.
-# Embedded here as a fallback so the endpoint is self-contained.
-VOICE_RULES = """# Harrison voice
+SKILL_FILE = Path.home() / ".hermes" / "skills" / "productivity" / "buffer-social-post" / "SKILL.md"
+
+
+def _load_voice_rules() -> str:
+    """Load the full voice rules from the buffer-social-post skill file.
+
+    Falls back to a condensed set if the skill file is missing.
+    The skill is the single source of truth — updates there propagate here.
+    """
+    try:
+        text = SKILL_FILE.read_text()
+        # Strip YAML frontmatter (--- ... ---)
+        text = re.sub(r"^---.*?---\s*", "", text, count=1, flags=re.DOTALL).strip()
+        return text
+    except (FileNotFoundError, OSError) as exc:
+        logger.warning("Skill file not found at %s: %s", SKILL_FILE, exc)
+        return """# Harrison voice
 - Simplifies the complex. States the point plainly.
 - Dry, self-deprecating, lightly humorous.
 - No enthusiasm performance. No thought-leader posture.
-- Trusts the reader to keep up. No over-explaining.
 
 # Blacksheep voice
-- Dry, technical, numbers-forward.
-- Confident, clear, a little rebellious.
-- Proof over promise. No fluff.
+- Dry, technical, numbers-forward. Proof over promise. No fluff.
 
 # Platform rules
-- LinkedIn: 2-5 short paragraphs, Unicode bold for headlines, URL in plain text, real line breaks.
+- LinkedIn: 2-5 short paragraphs, Unicode bold for headlines, plain URL.
 - X/Twitter: ≤ 280 chars, condensed to core message, plain URL.
 
-# Anti-slop checklist (must run on output)
-- NO em dashes. Use commas, periods, or parentheses.
-- NO negative parallelism ("It's not X, it's Y").
-- NO short punchy fragments as paragraphs.
-- NO anaphora (3+ sentences starting with the same word).
-- NO "what matters is", "the difference is", "the real question is".
-- NO "quietly", "delve", "tapestry", "landscape", "leverage", "seamlessly".
-- NO "here's the thing", "imagine a world where", "think of it as".
-- NO short staccato declarative sentences in a row.
-- NO markdown ** on LinkedIn. Use Unicode bold if needed.
-- One-word sentences are not allowed. Merge them.
-- URL must be in plain text, not Unicode bold.
-- Use proper line breaks (newlines, not escaped \\n)."""
+# Anti-slop
+- NO em dashes, negative parallelism, short fragments, anaphora.
+- NO banned words: quietly, delve, tapestry, ecosystem, leverage.
+- NO what matters / the difference is / imagine a world where.
+- NO markdown ** on LinkedIn — use Unicode bold.
+- URL must be in plain text.
+- Use proper newlines, not escaped \\\\n."""
+
+
+VOICE_RULES = _load_voice_rules()
 
 
 # ── Models ────────────────────────────────────────────────────────────
@@ -122,6 +130,7 @@ def _build_prompt(topic: str, account: str, platform: str) -> str:
 
 Write a {plat} post for the {voice} account about the following topic.
 Return ONLY the post text, no preamble, no commentary, no markdown fences.
+Use plain ASCII text only, no Unicode bold/italic or fancy characters.
 
 Topic: {topic}"""
 
@@ -169,16 +178,32 @@ def _upload_to_litterbox(image_data_url: str) -> str:
     except (IndexError, ValueError) as e:
         raise HTTPException(400, f"Invalid image data URL: {e}")
 
-    with tempfile.NamedTemporaryFile(suffix=".png", delete=False) as f:
-        f.write(raw)
+    try:
+        from PIL import Image as PILImage
+        import io as _io
+        img = PILImage.open(_io.BytesIO(raw))
+        max_dim = 1600
+        if max(img.width, img.height) > max_dim:
+            ratio = max_dim / max(img.width, img.height)
+            img = img.resize((int(img.width*ratio), int(img.height*ratio)), PILImage.LANCZOS)
+        buf = _io.BytesIO()
+        img.convert("RGB").save(buf, format="JPEG", quality=82)
+        payload = buf.getvalue()
+    except ImportError:
+        payload = raw
+
+    suffix = ".jpg"
+
+    with tempfile.NamedTemporaryFile(suffix=suffix, delete=False) as f:
+        f.write(payload)
         tmp_path = f.name
 
     try:
         with open(tmp_path, "rb") as f:
             resp = requests.post(
-                "https://litterbox.catbox.moe/resources/internals/api.php",
-                data={"reqtype": "fileupload", "time": "72h"},
-                files={"fileToUpload": ("card.png", f, "image/png")},
+                "https://catbox.moe/user/api.php",
+                data={"reqtype": "fileupload"},
+                files={"fileToUpload": ("card.jpg", f, "image/jpeg")},
                 timeout=30,
             )
         os.unlink(tmp_path)

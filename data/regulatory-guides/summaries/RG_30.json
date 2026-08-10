@@ -1,0 +1,27 @@
+{
+  "citation": "RG 30",
+  "title": "Paperless issues and transfers under a global debenture",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses how companies can use global debentures to facilitate paperless issues or transfers of debentures without providing physical certificates, and sets out ASIC's policy on granting relief from the certificate requirement under s1071H of the Corporations Act.",
+  "background": "The guide is for companies that issue or transfer debentures using global debentures in a paperless manner. It explains ASIC's approach to exercising its discretionary relief powers under the Corporations Act 2001 to exempt issuers from the obligation under s1071H to provide certificates or title documents for such transactions.",
+  "ruling": "ASIC states it may provide case-by-case relief from the requirement to provide certificates or other title documents for paperless issues and transfers of global debentures, subject to certain conditions. The global debenture should comply with requirements for the appropriate description of debentures under the Corporations Act. ASIC will consider applications for relief on a case-by-case basis, and the relief is not automatic. The relief is intended to facilitate modern, efficient debenture markets while maintaining adequate investor protections.",
+  "date_of_effect": "June 2009 (updated 27 July 2020 for certain paragraphs)",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 171",
+    "Corporations Act 2001 (Cth) s 283BH",
+    "Corporations Act 2001 (Cth) s 1041H",
+    "Corporations Act 2001 (Cth) s 1071H",
+    "Corporations Act 2001 (Cth) s 1071H(1)",
+    "Corporations Act 2001 (Cth) s 1071H(2)",
+    "Corporations Act 2001 (Cth) s 1071H(3)",
+    "Corporations Act 2001 (Cth) s 1071H(4)"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "RG 51",
+    "RG 69",
+    "RG 156",
+    "ASIC Corporations (Securities: NZ FASTER System) Instrument 2016/891"
+  ]
+}

@@ -12,6 +12,7 @@ import SmartLinkPanel from './components/SmartLinkPanel'
 import DefinitionPopover from './components/DefinitionPopover'
 import SectionContent from './components/SectionContent'
 import RulingContent from './components/RulingContent'
+import RegulatoryGuideContent from './components/RegulatoryGuideContent'
 import TaxCaseContent from './components/TaxCaseContent'
 import SettingsPanel from './components/SettingsPanel'
 import GraphModal from './components/GraphModal'
@@ -19,6 +20,15 @@ import IssuesModal from './components/IssuesModal'
 import SearchPanel from './components/SearchPanel'
 import { ThemeProvider } from './ThemeContext'
 import { shortActName } from './utils/display'
+
+// Domain groupings for the act picker
+const DOMAINS: { label: string; ids: string[] }[] = [
+  { label: 'Australian Tax', ids: ['itaa-1997', 'itaa-1936', 'gst-1999', 'taa-1953', 'master-tax-guide', 'master-tax-examples', 'master-gst-guide', 'rulings', 'tax-cases'] },
+  { label: 'New Zealand Tax', ids: ['nz-it-2007'] },
+  { label: 'Corporate Law', ids: ['corporations-act-2001', 'regulatory-guides'] },
+  { label: 'Corporate Insolvency', ids: ['insolvency-keays'] },
+  { label: 'AML/CTF', ids: ['aml-ctf-2006', 'aml-ctf-rules-2007'] },
+]
 
 // ---------------------------------------------------------------------------
 // Helpers
@@ -93,8 +103,6 @@ export default function App() {
   const [settingsOpen, setSettingsOpen] = useState(false)
   const [issuesOpen, setIssuesOpen] = useState(false)
   const [changelogOpen, setChangelogOpen] = useState(false)
-  const [hofOpen, setHofOpen] = useState(false)
-  const [hofData, setHofData] = useState<any>(null)
   const [graphOpen, setGraphOpen] = useState<{
     type: 'section' | 'ruling' | 'case'
     act?: string
@@ -172,6 +180,13 @@ export default function App() {
     setActiveRuling(null)
     // setActiveTaxCase(citation)
   }
+  const goBack = () => {
+    setActiveSection('')
+    setActiveRuling(null)
+    setSectionData(null)
+    setBrowsingAct(true)
+    window.history.pushState(null, '', `/${act}`)
+  }
   const goHome = () => {
     setActiveSection('')
     setActiveRuling(null)
@@ -215,12 +230,18 @@ export default function App() {
     api.acts().then(data => setActs(data)).catch(() => setActs([]))
   }, [])
 
-  // Load tree when act changes
+  // Load tree when act changes — use ref to avoid stale-race from default act
+  const treeGenRef = useRef(0)
   useEffect(() => {
+    const gen = ++treeGenRef.current
+    setTree(null)
     api.tree(act).then(data => {
+      if (gen !== treeGenRef.current) return
       setTree(data)
       setError('')
-    }).catch(e => setError(e.message))
+    }).catch(e => {
+      if (gen === treeGenRef.current) setError(e.message)
+    })
     setDrawerOpen(false)
   }, [act])
 
@@ -320,6 +341,13 @@ export default function App() {
 
   return (
     <ThemeProvider>
+      <style>{`
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: ${COLORS.border}; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: ${COLORS.textMuted}; }
+        * { scrollbar-width: thin; scrollbar-color: ${COLORS.border} transparent; }
+      `}</style>
       <div style={{ display: 'flex', height: '100vh', background: COLORS.bg }}>
 
       {/* Mobile close button — inside sidebar header (absolute positioned) */}
@@ -370,18 +398,31 @@ export default function App() {
                       borderRadius: 8, padding: '6px 0', maxHeight: 300, overflow: 'auto',
                       boxShadow: '0 8px 24px rgba(0,0,0,0.4)',
                     }}>
-                      {(acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }]).map(a => (
-                        <button key={a.id} onClick={() => { setPickerOpen(false); goHome(); setAct(a.id); setBrowsingAct(true); if (isMobile) setDrawerOpen(false) }} style={{
-                          display: 'block', width: '100%', padding: '6px 12px',
-                          background: 'transparent', border: 'none',
-                          color: act === a.id ? COLORS.accent : COLORS.text,
-                          fontSize: 12, cursor: 'pointer',
-                          fontFamily: "'Montserrat', sans-serif", textAlign: 'left',
-                        }}
-                          onMouseEnter={e => e.currentTarget.style.background = COLORS.bg}
-                          onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
-                        >{shortActName(a.id)}</button>
-                      ))}
+                      {(acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }, { id: 'corporations-act-2001', name: 'Corporations Act 2001' }, { id: 'regulatory-guides', name: 'ASIC Regulatory Guides' }]).length > 0 ? (() => {
+                      const actList = acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }, { id: 'corporations-act-2001', name: 'Corporations Act 2001' }, { id: 'regulatory-guides', name: 'ASIC Regulatory Guides' }]
+                      const actById = Object.fromEntries(actList.map(a => [a.id, a]))
+                      return DOMAINS.map(domain => {
+                        const domainActs = domain.ids.filter(id => actById[id]).map(id => actById[id])
+                        if (domainActs.length === 0) return null
+                        return (
+                          <div key={domain.label}>
+                            <div style={{ fontSize: 10, fontWeight: 600, color: COLORS.textMuted, padding: '4px 12px 2px', textTransform: 'uppercase', letterSpacing: 0.5, fontFamily: "'Montserrat', sans-serif" }}>{domain.label}</div>
+                            {domainActs.map(a => (
+                              <button key={a.id} onClick={() => { setPickerOpen(false); setAct(a.id); setActiveSection(''); setActiveRuling(null); setSectionData(null); setBrowsingAct(true); window.history.pushState(null, '', `/${a.id}`); if (isMobile) setDrawerOpen(false) }} style={{
+                                display: 'block', width: '100%', padding: '6px 12px',
+                                background: 'transparent', border: 'none',
+                                color: act === a.id ? COLORS.accent : COLORS.text,
+                                fontSize: 12, cursor: 'pointer',
+                                fontFamily: "'Montserrat', sans-serif", textAlign: 'left',
+                              }}
+                                onMouseEnter={e => e.currentTarget.style.background = COLORS.bg}
+                                onMouseLeave={e => e.currentTarget.style.background = 'transparent'}
+                              >{shortActName(a.id)}</button>
+                            ))}
+                          </div>
+                        )
+                      })
+                    })() : null}
                     </div>
                   )}
                 </div>
@@ -558,13 +599,17 @@ export default function App() {
                 <SearchPanel
                   acts={acts}
                   onNavigate={(targetAct, section) => {
-                    setAct(targetAct)
-                    if (targetAct === 'rulings') {
-                      setActiveRuling(section)
-                      setActiveSection('')
+                    if (targetAct === 'tax-cases') {
+                      onNavigateCase(section)
                     } else {
-                      setActiveSection(section)
-                      setActiveRuling(null)
+                      setAct(targetAct)
+                      if (targetAct === 'rulings') {
+                        setActiveRuling(section)
+                        setActiveSection('')
+                      } else {
+                        setActiveSection(section)
+                        setActiveRuling(null)
+                      }
                     }
                   }}
                   isMobile={isMobile}
@@ -590,7 +635,7 @@ export default function App() {
         {hasContent && (
           <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 16 }}>
             <button
-              onClick={goHome}
+              onClick={goBack}
               title="Back to tree"
               style={{
                 padding: '6px 8px', borderRadius: 6,
@@ -665,6 +710,11 @@ export default function App() {
             renderLink={renderLink}
             onNavigate={onNavigate}
             onNavigateRuling={onNavigateRuling}
+          />
+        ) : act === 'regulatory-guides' && sectionData ? (
+          <RegulatoryGuideContent
+            sectionData={sectionData}
+            isMobile={isMobile}
           />
         ) : act === 'tax-cases' && sectionData ? (
           <TaxCaseContent
@@ -752,13 +802,17 @@ export default function App() {
               <SearchPanel
                 acts={acts}
                 onNavigate={(targetAct, section) => {
-                  setAct(targetAct)
-                  if (targetAct === 'rulings') {
-                    setActiveRuling(section)
-                    setActiveSection('')
+                  if (targetAct === 'tax-cases') {
+                    onNavigateCase(section)
                   } else {
-                    setActiveSection(section)
-                    setActiveRuling(null)
+                    setAct(targetAct)
+                    if (targetAct === 'rulings') {
+                      setActiveRuling(section)
+                      setActiveSection('')
+                    } else {
+                      setActiveSection(section)
+                      setActiveRuling(null)
+                    }
                   }
                 }}
                 isMobile={isMobile}
@@ -778,15 +832,6 @@ export default function App() {
                 >
                   v{appInfo?.version || '2.7.0'}
                 </a>
-                <button
-                  onClick={() => {
-                    setHofOpen(true)
-                    api.mcpHallOfFame().then(setHofData).catch(() => {})
-                  }}
-                  style={{ fontSize: 11, color: COLORS.accent, background: 'none', border: 'none', cursor: 'pointer', fontFamily: "'Montserrat', sans-serif" }}
-                >
-                  Hall of Fame →
-                </button>
               </div>
               </>
             )}
@@ -841,25 +886,6 @@ export default function App() {
         </ModalOverlay>
       )}
 
-      {/* Hall of Fame modal */}
-      {hofOpen && (
-        <ModalOverlay onClose={() => setHofOpen(false)}>
-          <div style={{ fontSize: 15, fontWeight: 600, color: COLORS.heading, marginBottom: 16, fontFamily: "'Montserrat', sans-serif" }}>
-            MCP Hall of Fame
-          </div>
-          {hofData ? (
-            <div style={{ maxHeight: '60vh', overflow: 'auto', fontSize: 12, color: COLORS.text, fontFamily: "'Montserrat', sans-serif" }}>
-              <pre style={{ whiteSpace: 'pre-wrap', fontSize: 11, lineHeight: 1.5, color: COLORS.textMuted }}>
-                {JSON.stringify(hofData, null, 2)}
-              </pre>
-            </div>
-          ) : (
-            <div style={{ fontSize: 12, color: COLORS.textMuted, fontFamily: "'Montserrat', sans-serif" }}>
-              Loading...
-            </div>
-          )}
-        </ModalOverlay>
-      )}
     </div>
     </ThemeProvider>
   )

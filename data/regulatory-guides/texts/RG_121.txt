@@ -1,0 +1,2572 @@
+REGULATORY GUIDE 121
+
+Doing financial services
+business in Australia
+
+September 2024
+
+
+
+
+About this guide
+This is a guide for people or companies from overseas who propose to
+conduct a financial services business in Australia.
+
+It provides general guidance on the financial services regime in Australia,
+including:
+   when a person or company from outside Australia may be required to
+    hold an Australian financial services (AFS) licence to carry on a
+    financial services business in Australia;
+   circumstances in which a person or company may be exempt from
+    holding an AFS licence; and
+   some of the obligations associated with being an AFS licensee.
+                                                 REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This version was issued in September 2024 and is based on legislation and
+                             regulations as at the date of issue. In June 2025, we updated references to
+                             reflect changes to RG 1 and related guidance.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 121, issued 11 August 2008, reissued
+                                     1 April 2011 and 30 July 2013
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                             Page 2
+                                                       REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+Contents
+                             A      Overview ........................................................................................... 4
+                                    About this guide ................................................................................. 4
+                                    ASIC’s regulation of the financial services industry ........................... 5
+                                    The general requirement to be licensed ............................................ 5
+                                    Exemptions from the licensing requirement ...................................... 5
+                                    Obligations of AFS licensees ............................................................. 6
+                                    Offering financial products in Australia .............................................. 6
+                                    Other rules and legislation that may apply ........................................ 6
+                             B      ASIC’s regulation of the financial services industry ................... 7
+                                    What is ASIC’s role? .......................................................................... 7
+                                    The laws that ASIC administers ........................................................ 7
+                                    Key concepts of the AFS licensing regime ........................................ 8
+                             C      The general requirement to be licensed ...................................... 14
+                                    Do you need an AFS licence? ......................................................... 14
+                                    ‘Carrying on a financial services business in Australia’ ................... 14
+                             D      Are you exempt from holding an AFS licence? .......................... 18
+                                    Categories of exemption .................................................................. 18
+                                    Exemptions for FFSPs ..................................................................... 18
+                                    Connection with an AFS licensee .................................................... 19
+                                    Financial services that involve only the financial services provider. 20
+                                    Alternative regulatory regime ........................................................... 20
+                                    Financial services business is not the sole or principal purpose of
+                                    the activity ........................................................................................ 20
+                                    Foreign collective investment schemes ........................................... 21
+                             E      Obligations for AFS licensees ...................................................... 22
+                                    AFS licensee is ultimately responsible for all its financial services . 22
+                                    General AFS licensee obligations ................................................... 22
+                                    Conduct obligations ......................................................................... 23
+                                    Disclosure obligations ...................................................................... 24
+                                    Design and distribution obligations .................................................. 24
+                                    Additional obligations: Financial product advice to retail clients...... 24
+                                    When do representatives need to hold an authorisation? ............... 26
+                                    What obligations are imposed on representatives? ........................ 27
+                             F      Offering financial products in Australia ...................................... 28
+                                    Disclosure obligations that apply to offering financial products ....... 28
+                                    Disclosure obligations that apply to offering securities .................... 29
+                             G      Other rules and legislation that may apply ................................. 30
+                                    ASX, ASX 24, Cboe and FEX operating rules ................................. 30
+                                    Foreign investment .......................................................................... 30
+                                    Banking and insurance .................................................................... 31
+                                    Credit activities ................................................................................ 31
+                                    Payment systems and the transfer of funds .................................... 31
+                                    Financial accountability regime........................................................ 32
+                                    Australian taxation laws and other rules .......................................... 32
+                             Appendix: Exemptions from holding an AFS licence........................ 33
+                             Key terms ............................................................................................... 45
+                             Related information ............................................................................... 49
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                                       Page 3
+                                                   REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+A          Overview
+
+                              Key points
+
+                              Persons and companies from outside of Australia that wish to engage in a
+                              financial services business in Australia need to consider whether they are
+                              required to be licensed or have other obligations under legislation
+                              administered by the Australian Securities and Investments Commission
+                              (ASIC).
+
+                              ASIC regulates companies and financial services businesses and promotes
+                              investor, creditor and consumer protection by administering relevant laws.
+
+                              The main source of obligations relevant to a foreign person or company in
+                              the Australian financial market is the Corporations Act 2001 (Corporations
+                              Act): see Section B.
+
+                              Generally, if you carry on a financial services business in Australia, you will
+                              need to hold an Australian financial services (AFS) licence or an
+                              authorisation from an AFS licensee: see Section C. Some exemptions from
+                              the requirement to be licensed may apply: see Section D.
+
+                              AFS licensees and their representatives must comply with certain
+                              obligations: see Section E. There are disclosure obligations related to
+                              offering financial products in Australia to a retail client: see Section F.
+
+                              There may be other rules and legislation relevant to your financial services
+                              business in Australia depending on the circumstances: see Section G.
+
+
+
+
+About this guide
+              RG 121.1       This regulatory guide contains general guidance on whether a person or
+                             company from outside Australia may be required to hold an AFS licence to
+                             carry on a financial services business in Australia. It covers:
+                             (a)   ASIC’s regulation of the financial services industry;
+                             (b)   the AFS licensing requirement and exemptions that might apply;
+                             (c)   the obligations of AFS licensees;
+                             (d)   offering financial products in Australia; and
+                             (e)   other legislation and rules that may apply to a foreign person or
+                                   company in the Australian financial market.
+
+                                   Note 1: This guide does not specifically deal with the issue of when a foreign company
+                                   must be registered under Pt 5B.2 of the Corporations Act.
+
+                                   Note 2: In this guide, references to parts (Pts), divisions (Divs) and sections (s) are to
+                                   the Corporations Act, unless otherwise specified. References to regulations (reg) are to
+                                   the Corporations Regulations 2001 (Corporations Regulations), unless otherwise
+                                   specified.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                      Page 4
+                                                 REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+ASIC’s regulation of the financial services industry
+              RG 121.2       We administer legislation that includes the Corporations Act. Chapter 7
+                             regulates the financial services industry in Australia.
+
+              RG 121.3       Section B of this guide introduces some of the key concepts in Ch 7. These
+                             include:
+                             (a)   ‘financial product’;
+                             (b)   ‘financial service’;
+                             (c)   ‘wholesale’ versus ‘retail’ clients; and
+                             (d)   ‘authorised representative’.
+
+
+
+The general requirement to be licensed
+              RG 121.4       If you are a foreign person or company, you will generally need an AFS
+                             licence to carry on a financial services business in Australia (unless an
+                             exemption applies).
+
+              RG 121.5       To help you determine whether you need an AFS licence, Section C provides
+                             guidance on the following questions:
+                             (a)   What is carrying on a financial services business?
+                             (b)   When does the activity occur in Australia?
+                             (c)   When does a foreign person or company induce people in Australia to
+                                   use a financial service?
+
+
+
+Exemptions from the licensing requirement
+              RG 121.6       There are certain circumstances in which a foreign person or company may
+                             carry on a financial services business in Australia without holding an AFS
+                             licence: see Section D.
+
+              RG 121.7       Exemptions are available:
+                             (a)   for foreign financial services providers (FFSPs);
+                             (b)   for business carried on in connection with an AFS licensee;
+                             (c)   in relation to financial services that involve only the financial services
+                                   provider itself;
+                             (d)   because the financial service is subject to an alternative regulatory regime;
+                             (e)   because the financial services business is not the sole or principal
+                                   purpose of the activity; and
+                             (f)   in relation to a foreign collective investment scheme (FCIS).
+
+
+
+© Australian Securities and Investments Commission September 2024                                             Page 5
+                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+Obligations of AFS licensees
+              RG 121.8       If you hold an AFS licence, you must comply with various obligations under
+                             the Corporations Act. These include obligations relating to:
+                             (a)   undertaking particular conduct in certain situations (see RG 121.69–
+                                   RG 121.70); and
+                             (b)   disclosing certain information in a Financial Services Guide (FSG) to
+                                   retail clients (see RG 121.71).
+
+              RG 121.9       There are additional obligations that apply where an AFS licensee provides
+                             financial product advice to retail clients: see RG 121.73–RG 121.76.
+
+              RG 121.10      If you provide financial services in Australia as a representative of another
+                             person or company, you generally must hold an authorisation under the
+                             Corporations Act from that person or company. There are separate
+                             obligations imposed on representatives under the Corporations Act: see
+                             RG 121.77–RG 121.80.
+
+
+
+Offering financial products in Australia
+              RG 121.11      If you wish to offer financial products to a retail client, you may be obliged
+                             to provide the client with a Product Disclosure Statement (PDS). This
+                             obligation may apply even if you are exempt from the requirement to be
+                             licensed. If the financial product being offered is a security, you may be
+                             obliged to provide a prospectus rather than a PDS: see Section F.
+
+
+
+Other rules and legislation that may apply
+              RG 121.12      There are other rules and legislation that may apply to your activities as a
+                             foreign person or company in the Australian financial market, including:
+                             (a)   the ASX Limited (ASX) Operating Rules, Australian Securities
+                                   Exchange (ASX 24) Operating Rules, Cboe Australia Pty Ltd (Cboe)
+                                   Operating Rules and FEX Global Pty Ltd (FEX) Operating Rules;
+                             (b)   the ASIC market integrity rules;
+                             (c)   laws relating to foreign investment in Australia;
+                             (d)   laws relating to banking and insurance;
+                             (e)   laws relating to credit activities;
+                             (f)   laws relating to payment systems and the transfer of funds;
+                             (g)   laws relating to the financial accountability regime; and
+                             (h)   Australian taxation laws.
+
+                                   Note: For more information, see Section G.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                              Page 6
+                                                 REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+B          ASIC’s regulation of the financial services
+           industry
+
+                              Key points
+
+                              ASIC regulates registered companies, markets and financial services
+                              providers in Australia, and administers legislation that includes the
+                              Corporations Act.
+
+                              Chapter 7 regulates the financial services industry.
+
+                              This section provides guidance on some of the key concepts in Ch 7, such
+                              as ‘financial product’, ‘financial service’, ‘wholesale client’ versus ‘retail
+                              client’ and ‘authorised representative’.
+
+
+
+
+What is ASIC’s role?
+              RG 121.13      We are an independent Australian Government body and Australia's
+                             integrated corporate, markets, financial services and consumer credit
+                             regulator set up under the Australian Securities and Investments Commission
+                             Act 2001 (ASIC Act).
+
+              RG 121.14      Our role under the ASIC Act includes maintaining, facilitating, and
+                             improving the financial system and promoting confident and informed
+                             participation by investors and consumers in the financial system.
+
+              RG 121.15      Among other things, we license and monitor financial services providers and
+                             markets to ensure that they operate efficiently, honestly and fairly. These
+                             businesses are typically involved in superannuation, managed funds, shares
+                             and company securities, derivatives and insurance. We also maintain a
+                             publicly available register of AFS licensees and authorised representatives of
+                             AFS licensees.
+
+
+
+The laws that ASIC administers
+              RG 121.16      The legislation that we administer includes the ASIC Act, the Corporations
+                             Act, the Corporations Regulations, the National Consumer Credit Protection
+                             Act 2009 (National Credit Act), the Superannuation Industry (Supervision)
+                             Act 1993 (SIS Act) and the Financial Accountability Regime Act 2023 (FAR
+                             Act).
+
+              RG 121.17      This guide is mainly about the obligations in the Corporations Act and
+                             Corporations Regulations that may be relevant to foreign people or
+                             companies. There are other laws and rules that may apply to foreign people
+                             or companies, depending on the circumstances: see Section G.
+
+
+
+© Australian Securities and Investments Commission September 2024                                             Page 7
+                                                   REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+Key concepts of the AFS licensing regime
+              RG 121.18      Chapter 7 regulates the financial services industry in Australia. This includes
+                             the regulation of financial services, most financial products and the providers
+                             of financial services and products.
+
+              RG 121.19      This section is a brief introduction to some key concepts under the financial
+                             services regime in Australia. You should refer to the Corporations Act for
+                             more information.
+
+
+                             Financial products
+
+              RG 121.20      A ‘financial product’ is a facility that allows a person to make a financial
+                             investment, manage a financial risk or make non-cash payments. A financial
+                             product includes any of the following:
+                             (a)   shares;
+                             (b)   debentures;
+                             (c)   interests in a managed investment scheme;
+                             (d)   interests in a notified foreign passport fund;
+                             (e)   derivatives;
+                             (f)   general insurance;
+                             (g)   life insurance;
+                             (h)   superannuation;
+                             (i)   basic deposit products;
+                             (j)   retirement savings accounts;
+                             (k)   deposit-taking facility made available by a bank;
+                             (l)   foreign exchange contracts;
+                             (m)   Australian carbon credit units (ACCUs);
+                             (n)   eligible international emissions units (EIEUs), which include safeguard
+                                   mechanism credit units; and
+                             (o)   margin lending facilities.
+
+                                   Note: The definition of ‘financial product’ is found in Div 3 of Pt 7.1.
+
+              RG 121.21      A facility may not be a financial product if the aspect of the facility that
+                             allows a person to make a financial investment, manage a financial risk or
+                             make non-cash payments is an incidental aspect of the facility.
+
+                                   Note: See s763E on when an aspect of a facility is incidental.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                               Page 8
+                                                   REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+              RG 121.22      ASIC has the power to exclude products from the financial services regime
+                             as appropriate.
+
+                                   Note: For more information on how to make an application to ASIC (e.g. to exclude
+                                   particular products from, or seek relief from certain obligations under, the regime), see
+                                   Regulatory Guide 51 Applications for relief (RG 51).
+
+                             Financial services
+
+              RG 121.23      As described in Section C, the AFS licensing regime is structured around
+                             whether a person is providing a financial service.
+
+              RG 121.24      Generally, you are providing a financial service if you:
+                             (a)   provide financial product advice;
+                             (b)   deal in a financial product;
+                             (c)   make a market for a financial product;
+                             (d)   operate a registered managed investment scheme;
+                             (e)   operate the business and conduct the affairs of a corporate collective
+                                   investment vehicle (CCIV);
+                             (f)   provide a custodial or depository service;
+                             (g)   provide traditional trustee company services;
+                             (h)   provide a crowd-funding service;
+                             (i)   provide a superannuation trustee service; or
+                             (j)   provide a claims handling and settling service.
+
+                                   Note: See Div 4 of Pt 7.1 for provisions on when a person provides a financial service.
+
+
+                             What is the meaning of ‘provide financial product advice’?
+
+              RG 121.25      A recommendation or a statement of opinion, or a report of either of those
+                             things, constitutes ‘financial product advice’ if it is provided with the
+                             intention of influencing a person’s decision in relation to a financial product
+                             or could reasonably be regarded as being intended to have such an influence
+                             (and is not exempted from the definition of ‘financial product advice’).
+
+                                   Note: There are two types of financial product advice under the Corporations Act:
+                                   personal and general advice. For more information about these two types of advice and
+                                   your obligations, see RG 121.73–RG 121.76, Regulatory Guide 36 Licensing: Financial
+                                   product advice and dealing (RG 36) and Regulatory Guide 175 Licensing: Financial
+                                   product advisers—Conduct and disclosure (RG 175).
+
+              RG 121.26      The following considerations will help you determine whether a
+                             communication constitutes financial product advice:
+                             (a)   the overall impression and circumstances of a communication;
+                             (b)   whether the communication is merely factual information; and
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                     Page 9
+                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                             (c)   whether a decision on a particular financial product or class of financial
+                                   product is made.
+
+                                   Note: For more information about these considerations, see RG 36.21–RG 36.30.
+
+              RG 121.27      A communication might be exempt from being financial product advice if
+                             it is:
+                             (a)   advice given by a lawyer or tax agent (in the course of their ordinary
+                                   activities);
+                             (b)   a quote relating to the cost of a financial product or the rate of return on
+                                   a financial product; or
+                             (c)   a recommendation or opinion, or a report of either of those things,
+                                   which is reasonably necessary as part of handling and settling an
+                                   insurance claim.
+
+                                   Note 1: For more information on circumstances where a person does not provide
+                                   financial product advice, see RG 36.34–RG 36.35.
+
+                                   Note 2: For more information on when financial product advice is or is not reasonably
+                                   necessary as part of handling an insurance claim, see Information Sheet 253 Claims
+                                   handling and settling: How to comply with your AFS licence obligations (INFO 253).
+
+
+                             What is the meaning of ‘deal in a financial product’?
+
+              RG 121.28      The following conduct may constitute ‘dealing in a financial product’:
+                             (a)   applying for or acquiring a financial product;
+                             (b)   issuing a financial product;
+                             (c)   for securities or managed investment schemes, underwriting the
+                                   securities or interests;
+                             (d)   varying a financial product; or
+                             (e)   disposing of a financial product.
+
+              RG 121.29      Arranging for a person to engage in the conduct described in RG 121.28 may
+                             also constitute dealing in a financial product.
+
+                                   Note: For more information on dealing in financial products and ‘arranging’, see
+                                   Sections C–D of RG 36.
+
+              RG 121.30      There are various exceptions to the definition of dealing. For example, a
+                             person who deals on their own behalf may not be dealing in a financial
+                             product.
+
+                                   Note: For more information, see s766C and Div 4 of Pt 7.1 of the Corporations
+                                   Regulations.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                  Page 10
+                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                             What is the meaning of ‘make a market for a financial product’?
+
+              RG 121.31      Generally, a person ‘makes a market for a financial product’ if:
+                             (a)   they regularly state the prices at which they propose to buy or sell
+                                   financial products on their own behalf; and
+                             (b)   other persons can reasonably expect to be able to regularly buy and sell
+                                   at those stated prices.
+
+              RG 121.32      There is a distinction between making a market for a financial product and
+                             operating a financial market. The general test is whether the person operates
+                             a facility where the prices for a financial product are quoted on behalf of
+                             other persons (operating a financial market) or solely on their own behalf
+                             (making a market).
+
+                                   Note: For more information on making a market, see s766D and Div 5 of Pt 7.1. For
+                                   more information on operating a financial market, see Regulatory Guide 172 Financial
+                                   markets: Domestic and overseas operators (RG 172).
+
+
+                             What is a ‘managed investment scheme’?
+
+              RG 121.33      Managed investment schemes are also known as managed funds, pooled
+                             investments or collective investments. Generally, in a managed investment
+                             scheme:
+                             (a)   people are brought together to contribute money to get an interest in the
+                                   scheme (‘interests’ in a scheme are a financial product);
+                             (b)   money is pooled together with other investors—often many hundreds or
+                                   thousands of investors—or used in a common enterprise; and
+                             (c)   a responsible entity operates the scheme. Investors do not have day-to-
+                                   day control over the operation of the scheme.
+
+              RG 121.34      Managed investment schemes cover a wide variety of investments. Some
+                             common managed investment schemes that may be offered include:
+                             (a)   cash management trusts;
+                             (b)   property trusts;
+                             (c)   equity (trust schemes)—either Australian or international schemes;
+                             (d)   agricultural schemes;
+                             (e)   some film schemes;
+                             (f)   timeshare schemes;
+                             (g)   some mortgage schemes; and
+                             (h)   actively managed strata title schemes.
+
+                                   Note: The definition of ‘managed investment scheme’ is set out in s9, and Ch 5C
+                                   regulates the creation and operation of managed investment schemes.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                Page 11
+                                                   REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                             What is a ‘custodial or depository service’?
+
+              RG 121.35      A ‘custodial or depository service’ generally involves a person holding
+                             financial products or beneficial interests in financial products in trust on
+                             behalf of another (usually for a fee).
+
+                                   Note: See s766E for the general definition of ‘provide a custodial or depository service’
+                                   and for exceptions to this definition.
+
+
+                             What are ‘traditional trustee company services’?
+
+              RG 121.36      ‘Traditional trustee company services’:
+                             (a)   include:
+                                   (i)     performing estate management functions;
+                                   (ii)    preparing a will, a trust instrument, a power of attorney or an
+                                           agency arrangement;
+                                   (iii)   applying for probate of a will, applying for a grant of letters of
+                                           administration, or electing to administer a deceased estate; or
+                                   (iv)    establishing and operating common funds; but
+                             (b)   generally do not include:
+                                   (i)     operating a registered scheme;
+                                   (ii)    providing a custodial or depository service (within the meaning of
+                                           s766E);
+                                   (iii)   acting as trustee for debenture holders under Ch 2L;
+                                   (iv)    acting as a receiver or other controller of property of a corporation
+                                           under Pt 5.2; or
+                                   (v)     acting as trustee of a superannuation fund, an approved deposit
+                                           fund or a pooled superannuation trust (within the meaning of the
+                                           SIS Act).
+
+                                   Note: The definition of ‘traditional trustee company services’ is set out in s601RAC(1).
+
+
+                             What is a ‘superannuation trustee service’?
+
+              RG 121.37      A person provides a superannuation trustee service if they operate a
+                             registrable superannuation entity (RSE) as trustee of the entity. This service
+                             covers all trustee activities involved in operating an RSE, at all stages of the
+                             trustee’s interactions and transactions with its members and others.
+
+                                   Note: For more information, see s766H.
+
+
+                             What is a ‘claims handling and settling service’?
+
+              RG 121.38      A person who undertakes certain specific activities in relation to an
+                             insurance product is providing insurance claims handling and settling as a
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                   Page 12
+                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                             financial service (a ‘claims handling and settling service’) under s766G.
+                             These activities include:
+                             (a)   making a recommendation or stating an opinion in response to an
+                                   inquiry about a claim or potential claim;
+                             (b)   making a recommendation or stating an opinion that could influence a
+                                   decision about making or continuing with a claim;
+                             (c)   representing someone in pursuing a claim;
+                             (d)   assisting another person to make a claim;
+                             (e)   assessing whether an insurer is liable under an insurance product;
+                             (f)   deciding to accept or reject all or part of a claim;
+                             (g)   quantifying an insurer’s liability under an insurance product;
+                             (h)   offering to settle all or part of a claim; or
+                             (i)   satisfying a liability of an insurer under a claim.
+
+
+                             ‘Wholesale’ versus ‘retail’ clients
+
+              RG 121.39      Disclosure requirements in relation to the financial services regime generally
+                             apply only to ‘retail clients’ because it is recognised that ‘wholesale clients’
+                             are in a better position to look after their own interests. A person may fall
+                             within the definition of a wholesale client if, among other things, they are:
+                             (a)   a person purchasing a financial product, or a financial service related to
+                                   a financial product, where the value of the product is above the
+                                   prescribed threshold (currently set by the Corporations Regulations at
+                                   $500,000);
+                             (b)   a person with certified net assets of at least $2.5 million or a person who
+                                   had a gross income for each of the past two financial years of at least
+                                   $250,000; or
+                             (c)   a ‘professional investor’. This category includes AFS licensees, listed
+                                   entities, banks and friendly societies, and other entities that may be
+                                   presumed to have the expertise or access to professional advice to
+                                   justify their being treated as wholesale.
+
+                                   Note: See s761G and Div 2 of Pt 7.1 for provisions on wholesale and retail clients.
+
+
+                             Authorised representatives
+
+              RG 121.40      An ‘authorised representative’ is a person authorised under the Corporations
+                             Act to provide a financial service or financial services on behalf of an AFS
+                             licensee.
+
+                                   Note: This is a definition contained in s9. Authorisation is in accordance with s916A
+                                   or 916B.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                  Page 13
+                                                   REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+C          The general requirement to be licensed
+
+                              Key points
+
+                              You will require an AFS licence if you ‘carry on a financial services business
+                              in Australia’, according to the Corporations Act, unless an exemption applies.
+
+                              The courts’ interpretation of ‘carrying on a business in Australia’ is relevant to
+                              determining whether you need an AFS licence for your activities in Australia.
+
+                              You will also need to hold an AFS licence if you ‘induce’ people in Australia
+                              to use the financial services you provide.
+
+
+
+
+Do you need an AFS licence?
+              RG 121.41      If you intend to carry on or are carrying on a financial services business in
+                             Australia, you must hold an AFS licence authorising you to do so (unless an
+                             exemption applies). The AFS licence will need to contain a specific
+                             authorisation covering the provision of the financial services.
+
+                                   Note: For more information about the scope of the AFS licensing regime, see RG 36. For
+                                   more information about how to apply for an AFS licence, see Regulatory Guide 1
+                                   Applying for and varying an AFS licence (RG 1) and the AFS Licensing Kit. For more
+                                   information about how we will exercise our licensing exemption power under s911A(2)(l),
+                                   see Section B of Regulatory Guide 167 AFS licensing: Discretionary powers (RG 167).
+
+
+
+
+‘Carrying on a financial services business in Australia’
+              RG 121.42      If you engage in providing a financial service, you will need to determine
+                             whether you are ‘carrying on a financial services business’ in this
+                             jurisdiction by considering:
+                             (a)   what the Corporations Act says about the meaning of ‘carrying on a
+                                   financial services business in Australia’ (see RG 121.43–RG 121.46);
+                             (b)   how the courts have interpreted ‘carrying on a business in Australia’
+                                   (see RG 121.47–RG 121.49); and
+                             (c)   what activities constitute ‘inducing’ people in Australia to use a
+                                   financial service (you might need an AFS licence if you intend to
+                                   induce clients in Australia to use your financial services (see s911D and
+                                   RG 121.50–RG 121.51).
+
+                                   Note 1: ‘In Australia’ or ‘in this jurisdiction’ means within the geographic area of each
+                                   state and territory in Australia, including the coastal sea and any external territory (the
+                                   definitions of ‘Australia’ and ‘this jurisdiction’ are set out in s9). Specified external
+                                   territories include the Australian Antarctic Territory, Heard Island and McDonald
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                      Page 14
+                                                   REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                                   Islands, Coral Sea Islands, Ashmore and Cartier Islands, Cocos (Keeling) Islands,
+                                   Christmas Island and Norfolk Island.
+
+                                   Note 2: See Section B for an introduction to the terms ‘financial product’, ‘financial
+                                   service’, ‘wholesale client’ and ‘retail client’. The statutory definition of ‘financial
+                                   service’ (including the terms ‘dealing’, ‘arranging’ and ‘financial product advice’) is set
+                                   out in s766A–766H; the definitions of ‘wholesale client’ and ‘retail client’ are set out in
+                                   s761G and 761GA; and the definition of ‘financial product’ is set out in s762A–765A.
+
+
+                             What does ‘carrying on a financial services business in
+                             Australia’ mean?
+
+              RG 121.43      You will be deemed to carry on a business in Australia if you:
+                             (a)   have a place of business in Australia;
+                             (b)   establish or use a share transfer office or share registration office in
+                                   Australia; or
+                             (c)   administer, manage, or otherwise deal with, property situated in
+                                   Australia as an agent, legal personal representative or trustee, whether
+                                   by employees or agents or otherwise.
+
+                                   Note: See s21(1)–(2) and s9 (definition of ‘carry on’).
+
+              RG 121.44      You will not be deemed to be carrying on a business in Australia merely
+                             because, in Australia, you:
+                             (a)   are or become a party to a proceeding or effect settlement of a
+                                   proceeding or of a claim or dispute;
+                             (b)   hold meetings of your directors or shareholders or carry on other
+                                   activities concerning your internal affairs;
+                             (c)   maintain a bank account;
+                             (d)   effect a sale through an independent contractor;
+                             (e)   create evidence of a debt or create a charge on property;
+                             (f)   secure or collect any of your debts or enforce your rights in regard to
+                                   any securities relating to such debts;
+                             (g)   conduct an isolated transaction that is completed within 31 days, not
+                                   being one of a number of similar transactions repeated from time to
+                                   time; or
+                             (h)   invest any of your funds or hold any property.
+
+                                   Note: See s21(3) and s9 (definition of ‘carry on’).
+
+              RG 121.45      There are a number of statutory provisions that qualify the general concept
+                             of carrying on a business, including:
+                             (a)   a person may carry on a business even if they are not carrying on that
+                                   business for profit;
+
+
+
+© Australian Securities and Investments Commission September 2024                                                    Page 15
+                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                             (b)   a reference to a business of a particular kind includes a reference to a
+                                   business of that kind that is part of, or is carried on in conjunction with,
+                                   any other business; and
+                             (c)   a reference to a person carrying on a business, or a business of a
+                                   particular kind, is a reference to a person carrying on a business, or a
+                                   business of that kind, whether alone or together with other persons.
+
+                                   Note: See s18, 19 and 20.
+
+              RG 121.46      Subject to these statutory provisions, the common law test of ‘carrying on a
+                             business’ will need to be applied to the activity. The statutory provisions
+                             dealing with ‘carrying on a business’ are not exhaustive.
+
+
+                             How have the courts interpreted ‘carrying on a business in
+                             Australia’?
+
+              RG 121.47      The courts’ interpretation of the phrase ‘carrying on a business in Australia’
+                             is also relevant to whether you are carrying on a financial services business
+                             in Australia. The courts stress that whether a body corporate’s activities
+                             constitute ‘carrying on a business in Australia’ depends on the factual
+                             circumstances. Cases indicate that general indicators of carrying on a
+                             business in Australia include the degree to which a body corporate’s
+                             activities in Australia are conducted with system, repetition and continuity.
+                             The nature of the business being conducted and the statutory context are also
+                             relevant factors.
+
+                                   Note: See Facebook Inc v Australian Information Commissioner [2022] FCAFC 9 and
+                                   Hungier v Grace (1972) 127 CLR 210.
+
+              RG 121.48      If the financial services you provide in Australia are more than very minor
+                             (and, in particular, have elements of system, repetition and continuity), then
+                             it is likely that you will need an AFS licence. However, a one-off transaction
+                             may also amount to the carrying on of a business, for example, if there is an
+                             intention that the transaction is to be the first in a series of transactions.
+
+                                   Note: See Gebo Investments (Labuan) Ltd v Signatory Investments Pty Ltd [2005]
+                                   NSWSC 544.
+
+              RG 121.49      Acts of an agent acting within their actual or apparent authority are generally
+                             attributed to their principal for the purposes of Ch 7: see s769B. For
+                             example, the acts of an Australian-based agent of a company can be
+                             attributed to the company, leading to the conclusion that the company carries
+                             on business in Australia through its agent.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                              Page 16
+                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                              What activities constitute ‘inducing’ people in Australia to
+                              use a financial service?
+
+              RG 121.50       If you engage in conduct that is ‘intended to induce people’ in Australia (or
+                              you engage in conduct that is likely to induce people in Australia) to use
+                              financial services you provide, then you will need to hold an AFS licence,
+                              unless an exemption applies.
+
+                                   Note 1: This is because of the deeming provision in s911D, which says that such
+                                   conduct is ‘taken to be’ carrying on a financial services business in Australia. We have
+                                   granted specific exemptions that may apply: see ASIC Corporations (Foreign Financial
+                                   Services Providers—Limited Connection) Instrument 2017/182 for ‘inducing’ wholesale
+                                   clients, which applies until 31 March 2026, and ASIC Corporations (Foreign Financial
+                                   Services Providers—Funds Management Financial Services) Instrument 2020/199 for
+                                   ‘inducing conduct’ in relation to the provision of ‘funds management services’ to
+                                   certain types of professional investors, which commences on 1 April 2026.
+
+                                   Note 2: If passed by Parliament, the Treasury Laws Amendment (Better Targeted
+                                   Superannuation Concessions and Other Measures) Bill 2023 will introduce new
+                                   licensing exemptions for FFSPs, replacing existing licensing relief.
+
+
+                              What is ‘inducing’?
+
+              RG 121.51       Conduct that amounts to inducing includes attempts to persuade, influence or
+                              encourage a particular person to become a client. Table 1 provides some
+                              examples of what may or may not constitute ‘inducing’.
+
+Table 1:    Does your conduct constitute ‘inducing’ people in Australia?
+
+ Example                                                                Do you need an AFS licence?
+
+ You are an insurance company in Singapore and you place                You are likely to need an AFS licence, even
+ advertisements in an Australian newspaper promoting your               if you are yet to provide any financial
+ products.                                                              services in Australia.
+
+ You are a broker in the United Kingdom and you directly                You are likely to need an AFS licence.
+ contact and encourage a small number of people in Australia to
+ buy parcels of shares on the London Stock Exchange.
+
+ You are a broker in Hong Kong and you have an advertisement            You may not need an AFS licence because
+ for securities on your website that is accessible from Australia,      there may not be any inducing.
+ but the advertisement:
+  is not targeted at people in Australia;
+  has a jurisdictional disclaimer; and
+  has little impact on investors in Australia.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                 Page 17
+                                                 REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+D          Are you exempt from holding an AFS licence?
+
+                              Key points
+
+                              You may be exempt from holding an AFS licence if you propose to carry on
+                              a financial services business in particular circumstances.
+
+                              This section gives an overview of the licensing exemptions that may apply
+                              to foreign people or companies.
+
+                              These exemptions are available under Ch 7 of the Corporations Act, the
+                              Corporations Regulations or legislative instruments made by ASIC. In some
+                              cases, we may grant case-by-case relief.
+
+                              Table 2 to Table 6 in the appendix provide more details about the various
+                              exemptions.
+
+
+
+Categories of exemption
+              RG 121.52      Your activities as a foreign person or company may be exempt from the AFS
+                             licensing requirement under the provisions in Ch 7, the Corporations
+                             Regulations or legislative instruments made by ASIC.
+
+              RG 121.53      This section provides an overview of the licensing exemptions that may
+                             apply. For ease of reference in this guide, we have categorised the
+                             exemptions into the following groups:
+                             (a)   exemptions for FFSPs;
+                             (b)   exemptions for business carried on in connection with an AFS licensee;
+                             (c)   exemptions in relation to financial services that involve only the
+                                   financial services provider itself;
+                             (d)   exemptions because the financial service is subject to an alternative
+                                   regulatory regime;
+                             (e)   exemptions because the financial services business is not the sole or
+                                   principal purpose of the activity; and
+                             (f)   exemptions for FCISs.
+
+
+
+Exemptions for FFSPs
+              RG 121.54      Exemptions apply to financial services activities carried on by a foreign
+                             person or company where:
+                             (a)   there is no inducement for clients in Australia to use the service;
+                             (b)   the financial service is trading on a licensed Australian financial market
+                                   for, or dealing in, off-market products to, an overseas client;
+
+
+
+© Australian Securities and Investments Commission September 2024                                            Page 18
+                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                             (c)   the financial service relates to a product issued when an Australian
+                                   client was overseas;
+                             (d)   the financial service is provided to a professional investor;
+                             (e)   the financial service is provided by the operator of a notified foreign
+                                   passport fund;
+                             (f)   the financial service is carried out in conjunction with, or is provided to,
+                                   an AFS licensee;
+                             (g)   the foreign person or company only provides financial services to
+                                   wholesale investors, is regulated by a foreign regulator specified by
+                                   ASIC and was able to rely on transitional relief for entities regulated by
+                                   foreign regulators as at 31 March 2020;
+                             (h)   certain financial services are provided by a foreign authorised deposit-
+                                   taking institution (ADI); or
+                             (i)   the financial service is provided to a wholesale client and is
+                                   predominantly provided outside the Australian jurisdiction.
+                                   Note 1: See Table 2 in the appendix for more details.
+
+                                   Note 2: On 31 March 2020, ASIC replaced licensing relief for entities regulated by a
+                                   foreign regulator overseeing a regulatory regime determined by ASIC to be sufficiently
+                                   equivalent to Australia’s regulatory regime, with a foreign AFS licensing regime, set
+                                   out in ASIC Corporations (Foreign Financial Services Providers—Foreign AFS
+                                   Licensees) Instrument 2020/198. For more information about eligibility and how to
+                                   apply for a foreign AFS licence, see Regulatory Guide 176 Foreign financial services
+                                   providers (RG 176). The ‘sufficient equivalence’ relief under ASIC Corporations
+                                   (Repeal and Transitional) Instrument 2016/396, which repealed and extended previous
+                                   class order relief, and ASIC Corporations (CSSF-Regulated Financial Services
+                                   Providers) Instrument 2016/1109 (transitional relief) has been extended until 31 March
+                                   2026 for entities that were able to rely on the relief as at 31 March 2020.
+
+                                   Note 3: If passed by Parliament, the Treasury Laws Amendment (Better Targeted
+                                   Superannuation Concessions and Other Measures) Bill 2023 will introduce new
+                                   licensing exemptions for FFSPs, replacing existing licensing exemptions.
+
+
+                             Exemptions on a case-by-case basis
+
+              RG 121.55      We will consider applications for licensing relief by FFSPs that do not fit
+                             within the terms of the transitional relief described in Table 2. The policy
+                             under which we consider such applications is RG 51, RG 176 and
+                             Information Sheet 157 Foreign financial services providers: Licensing relief
+                             (INFO 157).
+
+
+
+Connection with an AFS licensee
+              RG 121.56      These exemptions apply where a financial services business is carried on in
+                             relation to an AFS licensee. These activities can include:
+                             (a)   acting under the authority, or on behalf, of an AFS licensee;
+
+
+
+© Australian Securities and Investments Commission September 2024                                                Page 19
+                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                             (b)   acting under an intermediary authorisation;
+                             (c)   providing administrative services; and
+                             (d)   providing services that are incidental to the operation of a licensed
+                                   market or clearing and settlement facility (CS facility).
+
+                                   Note: See Table 3 in the appendix for more details.
+
+
+
+
+Financial services that involve only the financial services provider
+              RG 121.57      These exemptions apply where the financial service has some connection
+                             with the financial services provider itself.
+
+              RG 121.58      They apply in the following situations:
+                             (a)   the financial services provider deals on its own behalf or provides
+                                   services to a related body corporate;
+                             (b)   the financial service is provided in relation to a financial product that
+                                   the financial services provider issues;
+                             (c)   the financial service is provided in relation to an employee share scheme;
+                             (d)   the financial services provider enters into certain dealings on their own
+                                   behalf or on behalf of a related body corporate or associated entity in
+                                   relation to an ACCU or EIEU; or
+                             (e)   a trustee of an RSE deals in financial products in the ordinary course of
+                                   the operations of that entity (other than a financial product that is an
+                                   interest in the RSE).
+
+                                   Note: See Table 4 in the appendix for more details.
+
+
+
+
+Alternative regulatory regime
+              RG 121.59      These exemptions apply where the financial service is subject to adequate
+                             alternative regulation, such as the superannuation regulatory regime, or
+                             where people to whom financial services are provided would still have the
+                             protection intended by Parliament: see Table 5 in the appendix for more
+                             details.
+
+
+
+Financial services business is not the sole or principal purpose of
+the activity
+              RG 121.60      These exemptions apply where:
+                             (a)   carrying on the financial services business is not the sole or principal
+                                   purpose of the activity; or
+
+
+
+© Australian Securities and Investments Commission September 2024                                             Page 20
+                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                             (b)   the predominant purpose of the product to which the service relates is
+                                   not a financial product purpose.
+
+                                   Note: See Table 6 in the appendix for more details.
+
+
+
+
+Foreign collective investment schemes
+              RG 121.61      Regulatory Guide 178 Foreign collective investment schemes (RG 178)
+                             outlines how we will use ASIC’s powers to facilitate the offer of interests in
+                             FCISs to Australian investors. It describes how and when we will we use our
+                             exemption powers to:
+                             (a)   grant a person or company who operates an FCIS (FCIS operator) relief
+                                   from the requirement to be licensed;
+                             (b)   grant an FCIS operator relief from the requirement to register an FCIS
+                                   where the interests are offered to Australian retail investors; and
+                             (c)   enable an FCIS operator to make offers to Australian investors on the
+                                   basis of a foreign regulated disclosure document.
+
+              RG 121.62      In general, we will only give this relief if:
+                             (a)   the FCIS and FCIS operator are regulated in their home jurisdiction
+                                   under a sufficiently equivalent regulatory regime; and
+                             (b)   there are effective cooperation arrangements between ASIC and the
+                                   regulator in the home jurisdiction.
+
+                                   Note: See Section B of RG 178.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                             Page 21
+                                                 REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+E          Obligations for AFS licensees
+
+                              Key points
+
+                              If you are required to hold an AFS licence in relation to a financial services
+                              business, you will be subject to various general, conduct, disclosure, and
+                              design and distribution obligations: see RG 121.67–RG 121.72.
+
+                              If you provide financial product advice to retail clients, you will have
+                              additional obligations: see RG 121.73–RG 121.76.
+
+                              There are also obligations that apply directly to a person who provides
+                              financial services as a representative of an AFS licensee: see RG 121.77–
+                              RG 121.80.
+
+
+
+
+AFS licensee is ultimately responsible for all its financial services
+              RG 121.63      A person who holds an AFS licence has obligations under the Corporations
+                             Act and their licence conditions, particularly if they deal with retail clients.
+                             These obligations include having a dispute resolution system and professional
+                             indemnity insurance, and training and supervising representatives (s912A and
+                             s912B).
+
+              RG 121.64      An AFS licensee remains ultimately responsible for all the financial services
+                             provided under its AFS licence, regardless of how those services are
+                             provided (s917B).
+
+              RG 121.65      If you are a foreign entity that is not a foreign company registered under the
+                             Corporations Act, but you are an AFS licensee, you are obliged to have a
+                             local agent at all times who is authorised to accept service of process and
+                             notices on your behalf: regs 7.6.03A and 7.6.03B.
+
+              RG 121.66      If you are an AFS licensee, you are also subject to various conduct and
+                             disclosure obligations.
+
+
+
+General AFS licensee obligations
+              RG 121.67      As an AFS licensee, you must comply with the following general obligations
+                             under s912A and 912B:
+                             (a)   do all things necessary to ensure that the financial services covered by
+                                   your AFS licence are provided efficiently, honestly and fairly;
+                             (b)   have adequate arrangements in place to manage your conflicts of
+                                   interest;
+                             (c)   comply with your AFS licence conditions;
+
+
+
+© Australian Securities and Investments Commission September 2024                                            Page 22
+                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                             (d)   comply with the financial services laws;
+                             (e)   take reasonable steps to ensure that your representatives comply with
+                                   the financial services laws;
+                             (f)   if the AFS licensee is the operator of, or has responsibilities in relation
+                                   to, an Australian passport fund, comply with the law of each host
+                                   economy;
+                             (g)   comply with the Reference Checking and Information Sharing Protocol;
+                             (h)   have available adequate resources;
+                             (i)   maintain the competence to provide the financial services;
+                             (j)   adequately train your representatives and ensure that they are competent
+                                   to provide the financial services;
+                             (k)   have a dispute resolution system if financial services are provided to
+                                   retail clients;
+                             (l)   have adequate risk management systems; and
+                             (m)   have compensation arrangements if financial services are provided to
+                                   retail clients.
+
+                                   Note 1: RG 121.67(h) and RG 121.67(l) do not generally apply if you are a body
+                                   regulated by the Australian Prudential Regulation Authority (APRA) within the
+                                   meaning of s3(2) of the Australian Prudential Regulation Authority Act 1998.
+
+                                   Note 2: For guidance on complying with these obligations, see Regulatory Guide 104
+                                   AFS Licensing: Meeting the general obligations (RG 104) and Regulatory Guide 126
+                                   Compensation and insurance arrangements for AFS licensees (RG 126).
+
+                                   Note 3: ‘Reference Checking and Information Sharing Protocol’ is defined in s9.
+
+              RG 121.68      The consumer protection provisions of the ASIC Act apply to prohibit a
+                             person from engaging in misleading or deceptive conduct in relation to
+                             financial services and prohibit unconscionable conduct. Under the ASIC Act,
+                             a term in a consumer contract may also be rendered void if it is deemed to be
+                             unfair.
+
+                                   Note: See Div 2 of Pt 2 of the ASIC Act for more details on these provisions.
+
+
+
+
+Conduct obligations
+              RG 121.69      As an AFS licensee, you may need to comply with various conduct
+                             obligations in Pts 7.6, 7.8 and 7.10 of the Corporations Act, including:
+                             (a)   notifying ASIC of reportable situations;
+
+                                   Note: Section 912DAA sets out the obligation to notify ASIC of reportable situations.
+                                   For guidance on complying with this obligation, see Regulatory Guide 78 Breach
+                                   reporting by AFS licensees and credit licensees (RG 78).
+
+                             (b)   assisting us in our regulatory oversight of you as an AFS licensee;
+
+
+
+© Australian Securities and Investments Commission September 2024                                                  Page 23
+                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                             (c)   quoting your AFS licence number in documents;
+
+                                   Note: See s912F and reg 7.6.01C.
+
+                             (d)   complying with certain procedures when dealing with clients’ money
+                                   and other property; and
+                             (e)   keeping financial records and preparing and lodging financial
+                                   statements.
+
+              RG 121.70      AFS licensees are prohibited from engaging in market misconduct and other
+                             conduct that is contrary to the prohibitions in the Corporations Act.
+
+                                   Note: See Pt 7.10 in relation to these prohibitions. Some of these obligations also apply
+                                   to persons other than AFS licensees.
+
+
+
+
+Disclosure obligations
+              RG 121.71      As an AFS licensee, you may also be subject to various disclosure
+                             obligations, including (but not limited to) giving an FSG to retail clients.
+
+                                   Note: For information about complying with the FSG and other disclosure obligations
+                                   in Pt 7.7, see RG 175. For further information about disclosure obligations regarding
+                                   providing personal advice to retail clients, see Div 3 of Pt 7.7 and RG 175.
+
+
+
+
+Design and distribution obligations
+              RG 121.72      AFS licensees that are issuers or distributers of financial products must
+                             comply with the design and distribution obligations in Pt 7.8A.
+
+                                   Note: For more information about complying with the design and distribution
+                                   obligations in Pt 7.8A, see Regulatory Guide 274 Product design and distribution
+                                   obligations (RG 274).
+
+
+
+
+Additional obligations: Financial product advice to retail clients
+              RG 121.73      There are additional obligations if you provide financial product advice to
+                             retail clients. These obligations vary depending on whether the advice is
+                             personal advice or general advice. Personal advice is financial product
+                             advice given or directed to a person (including by electronic means) in
+                             circumstances where:
+                             (a)   the provider of the advice has considered one or more of the person’s
+                                   objectives, financial situation and needs; or
+                             (b)   a reasonable person might expect the provider to have considered one or
+                                   more of those matters (s766B(3)).
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                   Page 24
+                                                   REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+              RG 121.74      All other financial product advice is general advice.
+
+                                   Note 1: The definition of ‘financial product advice’ is set out in RG 36 at RG 36.19.
+
+                                   Note 2: For further information about the distinction between personal and general
+                                   advice, see Section B of RG 175.
+
+              RG 121.75      Generally, if you are the providing entity and the financial service is the
+                             provision of personal advice to a retail client, you must:
+                             (a)   give the client a Statement of Advice (SOA), as defined in s9, if the
+                                   value of the financial investments in relation to which the advice is
+                                   provided exceeds $15,000 (s946A, 946AA(1)(a) and reg 7.7.09A);
+                             (b)   act in the best interests of the client in relation to any advice given
+                                   (s961B);
+                             (c)   only provide advice to the client if it would be reasonable to conclude
+                                   that the advice is appropriate to the client (s961G);
+                             (d)   if it is reasonably apparent that information about the objectives,
+                                   financial situation and needs of the client on which the advice is based
+                                   is incomplete or inaccurate, warn the client that the advice is, or may
+                                   be, based on incomplete or inaccurate information about the client’s
+                                   relevant personal circumstances (s961H); and
+                             (e)   if there is conflict between your interests, or those of an associate of
+                                   yours, and the client’s interests, give priority to the client’s interests
+                                   when giving the advice (s961J).
+
+                                   Note 1: For further information about complying with these additional obligations, see
+                                   Sections D and E of RG 175.
+
+                                   Note 2: An SOA is not required for advice about small investments and where advice
+                                   does not recommend the purchase or sale of products, when specific conditions are met:
+                                   see s946AA and 946B, and reg 7.7.09A.
+
+                                   Note 3: An SOA is not required for advice on some specified products—for example,
+                                   basic deposit products, related non-cash payment facilities, travellers’ cheques, cash
+                                   management trusts or general insurance products: see reg 7.7.10.
+
+              RG 121.76      If you provide general advice, you do not need to comply with the obligations
+                             referred to above. However, if the general advice is provided to a retail client
+                             and you are the providing entity, you must warn the client that the advice does
+                             not take account of their objectives, financial situation or needs: see s949A.
+
+                                   Note 1: For further information about complying with this obligation, see Section B of
+                                   RG 175.
+
+                                   Note 2: We have granted relief to simplify the warning where oral general advice is
+                                   provided to a retail client. See ASIC Corporations (General Advice Warning)
+                                   Instrument 2015/540.
+
+                                   Note 3: In some circumstances, a general advice warning may not be required where
+                                   general advice in relation to an issue or offer for sale is given on a billboard or poster or
+                                   in the media: see reg 7.7.20.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                      Page 25
+                                                   REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+When do representatives need to hold an authorisation?
+              RG 121.77      In general, if you provide financial services in Australia as a representative
+                             of another person (a principal), you need to hold an authorisation under the
+                             Corporations Act from that principal (who must, in general, hold an AFS
+                             licence). You do not need to hold an authorisation if:
+                             (a)   you are not providing financial services;
+                             (b)   you are an employee or director of the principal (or a related body
+                                   corporate of the principal) and the principal holds an AFS licence and
+                                   the other requirements of s911B(1)(a) are satisfied;
+                             (c)   you are an employee of an authorised representative of the principal,
+                                   but only if the principal holds an AFS licence, the other requirements of
+                                   s911B(1)(c) are satisfied and the financial service is the provision of:
+                                   (i)     a basic deposit product;
+                                   (ii)    a facility for making non-cash payments that is related to a basic
+                                           deposit product; or
+                                   (iii)   a traveller’s cheque;
+                             (d)   you are an AFS licensee providing the financial service under your own
+                                   AFS licence (s911B(1)(d) and (3)); or
+                                   Note: As an AFS licensee, you cannot be the authorised representative of another AFS
+                                   licensee except in relation to a binder: see s916D and 916E.
+
+                             (e)   the financial services you provide would be exempt under s911A(2) if
+                                   they were instead provided by the principal (s911B(1)(e)).
+                                   Note: We have given relief to allow AFS licensees who are authorised to deal in general
+                                   insurance products to appoint distributors to deal in these products on their behalf
+                                   without the need to appoint the distributors as authorised representatives: see ASIC
+                                   Corporations (Basic Deposit and General Insurance Product Distribution) Instrument
+                                   2015/682.
+
+              RG 121.78      Accordingly, if you provide financial services as a representative of an AFS
+                             licensee, you will generally need to hold an authorisation from that licensee
+                             (unless you are an employee or director of that licensee or a related body
+                             corporate).
+
+              RG 121.79      Under s766A(4) a person is not regarded as operating a registered scheme
+                             merely because they act as an agent or employee of another person who
+                             does. This means that if an agent of the operator of a registered scheme
+                             merely acts in connection with the operation of the scheme, and does not
+                             provide a financial service of a type referred to in s766A(1)(a)-(c) or (da)-(f),
+                             they will not have to hold an authorisation.
+                                   Note: The responsible entity remains responsible for the acts of its agents: see s601FB(2).
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                     Page 26
+                                                   REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+What obligations are imposed on representatives?
+              RG 121.80      The responsibility to ensure compliance with the financial services laws is
+                             primarily imposed on AFS licensees, who are responsible for the conduct of
+                             their representatives (as defined in s9). However, some obligations in the law
+                             apply directly to representatives, including (but not limited to):
+                             (a)   the financial services disclosure obligations in Pt 7.7 where the
+                                   representative is the providing entity (including the additional obligations
+                                   relating to financial product advice described in RG 36 at RG 36.97–
+                                   RG 36.100);
+                             (b)   the hawking prohibition in s992A;
+                                   Note: For more information about the hawking prohibitions, see Regulatory Guide 38
+                                   The hawking prohibition (RG 38).
+
+                             (c)   product distribution obligations under Pt 7.8A, where the representative
+                                   is a ‘regulated person’ under s994A;
+                                   Note: For more information about product distribution obligations, see RG 274.
+
+                             (d)   some product disclosure obligations under Ch 6D (in the case of
+                                   securities) or Pt 7.9 (in other cases);
+                             (e)   the market misconduct and other prohibited conduct provisions in
+                                   Pt 7.10; and
+                             (f)   the consumer protection provisions in Div 2 of Pt 2 of the ASIC Act
+                                   (e.g. the prohibition against misleading or deceptive conduct in s12DA).
+                                   Note: Some of these obligations also apply to persons other than representatives.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                      Page 27
+                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+F          Offering financial products in Australia
+
+                              Key points
+
+                              Disclosure obligations apply to offering a financial product to a retail client
+                              in Australia, even if you are not an AFS licensee.
+
+                              If you issue a financial product to a retail client, you may be required to
+                              provide the client with a PDS about the financial product, unless your
+                              activities fit within an exemption: see RG 121.84.
+
+                              If you offer securities (such as shares or debentures) to a retail client, you
+                              may be obliged to provide a prospectus rather than a PDS.
+
+
+
+
+Disclosure obligations that apply to offering financial products
+              RG 121.81      If you have a business of issuing financial products and you wish to offer a
+                             financial product to a retail client in Australia, you may be obliged to
+                             provide a PDS to the retail client: see Div 2 of Pt 7.9.
+
+                                   Note: For guidance on ‘retail’ versus ‘wholesale’ clients, see: RG 121.39.
+
+              RG 121.82      A PDS includes information such as:
+                             (a)   the fees related to a financial product;
+                             (b)   the risks associated with the financial product;
+                             (c)   benefits of the financial product; and
+                             (d)   significant characteristics of a financial product.
+
+                                   Note 1: See s1013D for the main content requirements of a PDS.
+
+                                   Note 2: Certain products are subject to specific disclosure regimes. Superannuation
+                                   products, simple managed investment schemes and simple sub-fund products are subject
+                                   to a shorter PDS regime: see Pt 7.9 as modified by Pt 7.9, Div 4, Subdivs 4.2B, 4.2C
+                                   and 4.2D of the Corporations Regulations. For more information on the shorter PDS
+                                   regime that applies to these products, see Information Sheet 155 Shorter PDSs—
+                                   Complying with requirements for superannuation products, simple managed investment
+                                   schemes and simple sub-fund products (INFO 155). Modified disclosure regimes also
+                                   apply to standard margin lending facilities: see Pt 7.9 as modified by Pt 7.9, Div 4,
+                                   Subdiv 4.2A of the Corporations Regulations.
+
+                                   Note 3: For more information on products subject to modified PDS disclosure regimes,
+                                   see Section D of Regulatory Guide 168 Disclosure: Product Disclosure Statements (and
+                                   other disclosure obligations) (RG 168).
+
+              RG 121.83      The information included in a PDS must be clear and concise and disclosed
+                             in an effective manner.
+
+                                   Note: For more information about PDSs, see Subdiv C of Div 2 of Pt 7.9.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                               Page 28
+                                                 REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                             Exemptions from the obligation to provide a PDS
+
+              RG 121.84      If you conduct one of the following activities as part of your financial
+                             services business (as described in s911A(2A)–(2E), as inserted by
+                             reg 7.6.02AG (see Table 2 in the appendix)), you are exempt from the
+                             obligation to provide a PDS (reg 7.9.98):
+                             (a)   dealing with an AFS licensee;
+                             (b)   providing a financial service to a professional investor;
+                             (c)   providing a financial service from outside Australia without engaging in
+                                   conduct that is intended to induce people in Australia to use the service
+                                   or is likely to have that effect;
+                             (d)   trading on a licensed Australian market for an overseas client; or
+                             (e)   providing financial services to an Australian client in relation to a
+                                   foreign financial product issued to the Australian client while the
+                                   Australian client was overseas.
+
+
+
+Disclosure obligations that apply to offering securities
+              RG 121.85      If the financial product you wish to offer to a retail client is a security (such
+                             as a share or a debenture), you may be obliged to provide a prospectus rather
+                             than a PDS. For provisions concerning disclosure in a prospectus, see Pt 6D.2
+                             of Ch 6D and Regulatory Guide 228 Prospectuses: Effective disclosure for
+                             retail investors (RG 228).
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                            Page 29
+                                                 REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+G          Other rules and legislation that may apply
+
+                              Key points
+
+                              There are other rules and legislation that may apply to your activities in
+                              Australia, including:
+                              • the ASX, ASX 24, Cboe and FEX operating rules;
+                              • the ASIC market integrity rules;
+                              • laws relating to foreign investment in Australia;
+                              • laws relating to banking and insurance;
+                              • laws relating to credit activities;
+                              • laws relating to payment systems and the transfer of funds;
+                              • laws relating to the financial accountability regime; and
+                              • Australian taxation laws.
+
+
+
+
+ASX, ASX 24, Cboe and FEX operating rules
+              RG 121.86      If you wish to participate in the financial markets of ASX (operated by
+                             ASX Limited), ASX 24 (operated by Australian Securities Exchange
+                             Limited), Cboe (operated by Cboe Australia Pty Ltd), or FEX (operated by
+                             FEX Global Pty Ltd), you will be bound by the ASX Operating Rules, ASX
+                             24 Operating Rules, Cboe Operating Rules, and FEX Operating Rules
+                             respectively. For more information, visit the ASX webpage. Part 7.2A
+                             establishes a rule-making regime whereby ASIC is able to make market
+                             integrity rules dealing with the activities and conduct in relation to licensed
+                             financial markets, including participants in the relevant market.
+
+              RG 121.87      Market participants will need to comply with the market integrity rules for
+                             each relevant market. ASIC is responsible for supervising compliance with
+                             these rules. For more information, see Regulatory Guide 265 Guidance on
+                             ASIC market integrity rules for participants of securities markets (RG 265)
+                             and Regulatory Guide 266 Guidance on ASIC market integrity rules for
+                             participants of futures markets (RG 266) or visit ASIC’s markets webpage.
+
+
+
+Foreign investment
+              RG 121.88      The Foreign Acquisitions and Takeovers Act 1975 regulates foreign
+                             investments in Australia. The Financial Sector (Shareholdings) Act 1998
+                             also regulates foreign investments in Australia by imposing restrictions on
+                             shareholdings in financial sector companies.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                            Page 30
+                                                 REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+              RG 121.89      The Foreign Investment Review Board (FIRB) is an advisory body that
+                             examines proposals by foreign interests to undertake direct investment in
+                             Australia and makes recommendations to the Australian Government on
+                             whether those proposals are suitable for approval under the government’s
+                             policy. For more information, visit the FIRB website.
+
+
+
+Banking and insurance
+              RG 121.90      APRA oversees banks, credit unions, building societies, general insurance
+                             and reinsurance companies, life insurance, friendly societies, and
+                             superannuation trustees. For more information about APRA’s regulatory role
+                             and the legislation it administers, visit the APRA website.
+
+
+
+Credit activities
+              RG 121.91      Under the National Credit Act, if you engage in credit activities, you need to
+                             be:
+                             (a)   authorised to engage in those activities under an Australian credit
+                                   licence (credit licence);
+                             (b)   exempt from the requirement to be licensed or registered; or
+                             (c)   acting as a representative of another person who is licensed, registered
+                                   or exempt from the requirement to be licensed or registered.
+
+              RG 121.92      Credit licensees must comply with the general conduct obligations and the
+                             responsible lending obligations under the National Credit Act. For more
+                             information, visit ASIC’s credit webpage.
+
+
+
+Payment systems and the transfer of funds
+              RG 121.93      Under the Payment Systems (Regulation) Act 1998 and the Payment Systems
+                             and Netting Act 1998, the Reserve Bank of Australia (RBA) regulates
+                             systems that facilitate the transfer of funds (payment systems). For more
+                             information about these laws and the RBA’s role in Australia’s financial
+                             markets, visit the RBA’s website.
+
+              RG 121.94      APRA and the Australian Competition and Consumer Commission (ACCC)
+                             may also have a role in regulating payment systems. For more information
+                             about the ACCC’s role, visit the ACCC website.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                            Page 31
+                                                 REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+Financial accountability regime
+              RG 121.95      Under the FAR Act, ASIC and APRA jointly administer the financial
+                             accountability regime, which was introduced to improve the operating
+                             culture of entities in the banking, insurance and superannuation industries
+                             and increase responsibility and accountability across these industries. For
+                             more information about the financial accountability regime, see Regulatory
+                             Guide 279 Financial Accountability Regime: Information for accountable
+                             entities (RG 279).
+
+
+
+Australian taxation laws and other rules
+              RG 121.96      You may need to consider various laws imposing taxation obligations. The
+                             taxation legislation is administered by the Australian Tax Office.
+
+              RG 121.97      There may also be industry standards you wish to voluntarily adopt in
+                             relation to your financial services business in Australia.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                            Page 32
+                                                                                                                 REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+Appendix: Exemptions from holding an AFS licence
+
+The tables in this appendix contain details of the exemptions from the obligation to hold an AFS licence that are available in Ch 7, the Corporations
+Regulations and ASIC legislative instruments. See Section C of this guide for guidance on the obligation to be licensed and Section D for an overview of
+the exemptions detailed in this appendix.
+
+Table 2:    FFSPs
+
+ Exemption                              Conduct for which a foreign person or company does not need to hold an AFS licence                       Relevant section, regulation,
+                                                                                                                                                 or legislative instrument
+
+ No inducement for people in            A person or company located outside Australia provides a financial service from outside                  s911A(2A), as inserted by reg
+ Australia to use the service           Australia to a client in Australia and does not induce people in Australia to use the service.           7.6.02AG
+
+ Trading on a licensed Australian       A person or company located outside Australia trades on a licensed Australian financial market           s911A(2B), as inserted by reg
+ financial market for an overseas       for a client and the foreign person or company believes on reasonable grounds that the client is         7.6.02AG
+ client                                 located outside Australia.
+
+ Providing financial services to an     A person or company located outside Australia provides a financial service to a client in Australia      s911A(2D), as inserted by reg
+ Australian client in relation to a     relating to a financial product:                                                                         7.6.02AG
+ financial product it issued when        issued to the Australian client upon that client’s instigation;
+ the Australian client was overseas      issued to the Australian client while that client was not in Australia; or
+                                         that supplements, or is similar to and substitutes, the financial product; and
+                                         does not induce people in Australia to use the service.
+
+ Providing a financial service to a     A person or company located outside Australia provides financial services to a professional              s911A(2E), as inserted by reg
+ professional investor                  investor for dealing in, providing advice on, and/or making a market in:                                 7.6.02AG
+                                         derivatives
+                                         foreign exchange contracts
+                                         ACCUs, or
+                                         EIEUs.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                                                                           Page 33
+                                                                                                                    REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+ Exemption                              Conduct for which a foreign person or company does not need to hold an AFS licence                            Relevant section, regulation,
+                                                                                                                                                      or legislative instrument
+
+ Financial services provided by         The operator of a notified foreign passport fund or another person acting on their direction                  s911A(2)(eh) and (ei)
+ notified foreign passport fund         acquires or disposes of a financial product as an investment of the fund.
+
+ Financial services provided by         The operator of a notified foreign passport fund, or another person acting on their direction,                s911A(2)(ej)
+ notified foreign passport fund         issues, acquires or disposes of, a derivative or foreign exchange contract for the purposes of
+ (cont.)                                managing the financial consequences of particular circumstances or avoiding or limiting the
+                                        financial consequences of fluctuations in, or in the value of, receipts or costs.
+
+ Acting in conjunction with an AFS      A person or company located outside Australia arranges, on behalf of a client, for an AFS licensee            reg 7.6.01(1)(f)
+ licensee                               to deal in a financial product, provided the person or company believes on reasonable grounds that
+                                        the client is also located outside Australia.
+
+ Acting in conjunction with an AFS      A person or company located outside Australia enters into an arrangement with an AFS licensee                 reg 7.6.01(1)(fa)
+ licensee (cont.)                       under which a financial product, or a beneficial interest in a financial product, is to be held on
+                                        trust for, or on behalf of, a client, provided the person or company believes on reasonable
+                                        grounds that the client is also located outside Australia.
+
+ Acting in conjunction with an AFS      An AFS licensee arranges for a person or company located outside Australia to deal in a                       reg 7.6.01(1)(n)
+ licensee (cont.)                       financial product, or class of financial products, for a client who is in Australia.
+                                          Note: This exemption does not apply if the foreign person or company provides any other financial service
+                                          as part of the service to the client or if the licensee’s AFS licence does not cover the provision of the
+                                          service.
+
+ Acting in conjunction with an AFS      An AFS licensee that is a related body corporate of a person or company located outside                       reg 7.6.01(1)(na)
+ licensee (cont.)                       Australia (or a party to a business joint venture with that person or company) arranges for the
+                                        foreign person or company to provide financial product advice, make a market, or provide
+                                        custodial or depository services to a client in Australia, and the licensee’s AFS licence covers the
+                                        provision of the service and is subject to a condition requiring it to assume responsibility for the
+                                        conduct of the foreign person or company in providing that service.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                                                                              Page 34
+                                                                                                                     REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+ Exemption                              Conduct for which a foreign person or company does not need to hold an AFS licence                           Relevant section, regulation,
+                                                                                                                                                     or legislative instrument
+
+ Dealing with an AFS licensee           A person or company located outside Australia provides a financial service to another person                 s911A(2C), as inserted by reg
+                                        who holds an AFS licence or is exempt from the requirement to hold an AFS licence under                      7.6.02AG
+                                        s911A(2)(h) and is not, in relation to the service, acting as a trustee, responsible entity of a
+                                        registered managed investment scheme, corporate director of a CCIV or otherwise acting on
+                                        someone else’s behalf.
+
+ Referral to an AFS licensee            A person or company located outside Australia provides a financial service that consists only of             reg 7.6.01(1)(e) and (ea)
+                                        a ‘referral’—that is, informing another person that an AFS licensee (or one of its representatives)
+                                        is able to provide a particular financial service or class of financial services and giving that other
+                                        person contact details for the AFS licensee or representative.
+                                          Note: Unless the foreign person or company is a representative of the AFS licensee (or a related body
+                                          corporate of the licensee), they must disclose any benefits (including commissions) that they (and their
+                                          associates) are to receive in respect of, or that are attributable to, the service.
+
+ Only dealing in off-market             A person or company located outside Australia is only dealing in products not traded on an                   reg 7.6.01(1)(g)
+ products to foreign clients            Australian financial market licensed under Ch 7 (e.g. ASX or ASX 24).
+                                          Note: This exemption only applies if the foreign person or company believes on reasonable grounds that
+                                          all parties to the dealing or any transactions to which the dealing relates (including the client) are
+                                          overseas.
+
+ Regulated by an overseas               A person or company located outside Australia provides the service only to wholesale clients                 s911A(2)(h)
+ regulatory authority                   and is regulated by an overseas regulatory authority and the provision of the service is covered
+                                        by an exemption specified by ASIC.
+                                          Note: For information about our approach to applications under this provision, see Regulatory Guide 176
+                                          Foreign financial services providers (RG 176).
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                                                                                Page 35
+                                                                                                                      REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+ Exemption                              Conduct for which a foreign person or company does not need to hold an AFS licence                                Relevant section, regulation,
+                                                                                                                                                          or legislative instrument
+
+ Regulated by an overseas               A person or company that is regulated by one of the following overseas regulatory authorities,                    ASIC Instrument 2016/396 and
+ regulatory authority (cont.)           only provides the service to wholesale clients and was able to rely on the transitional relief on                 ASIC Corporations Instrument
+                                        31 March 2020:                                                                                                    2016/1109 (i.e. the transitional
+                                         UK Financial Services Authority (FSA);                                                                          relief)
+                                         US Securities and Exchange Commission (SEC);
+                                         US Federal Reserve and Office of Comptroller of Currency (OCC);
+                                         Monetary Authority of Singapore (MAS);
+                                         Securities and Futures Commission (SFC) of Hong Kong;
+                                         US Commodity Futures Trading Commission (CFTC);
+                                         Federal Financial Supervisory Authority (BaFin) of Germany;
+                                         Commission for the Supervision of the Financial Sector (CSSF) of Luxembourg.
+                                          Note 1: ASIC Corporations (Repeal and Transitional) Instrument 2016/396 repealed the following class
+                                          orders but extends the relief available under them until 31 March 2026 for entities that were able to rely on
+                                          the relief as at 31 March 2020:
+                                          •   Class Order [CO 03/1099] UK FSA regulated financial service providers
+                                          •   Class Order [CO 03/1100] US SEC regulated financial service providers
+                                          •   Class Order [CO 03/1101] US Federal Reserve and OCC regulated financial service providers
+                                          •   Class Order [CO 03/1102] Singapore MAS regulated financial service providers
+                                          •   Class Order [CO 03/1103] Hong Kong SFC regulated financial service providers
+                                          •   Class Order [CO 04/829] US CFTC regulated financial services providers
+                                          •   Class Order [CO 04/1313] German BaFin regulated financial service providers
+                                          Relief under ASIC Corporations (CSSF-Regulated Financial Services Providers) Instrument 2016/1109
+                                          has also been extended to 31 March 2026 for entities that were able to rely on the relief as at 31 March
+                                          2020.
+                                          Note 2: If passed by Parliament, the Treasury Laws Amendment (Better Targeted Superannuation
+                                          Concessions and Other Measures) Bill 2023 will introduce new licensing exemptions for FFSPs, replacing
+                                          existing licensing exemptions.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                                                                                    Page 36
+                                                                                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+ Exemption                              Conduct for which a foreign person or company does not need to hold an AFS licence                         Relevant section, regulation,
+                                                                                                                                                   or legislative instrument
+
+ Foreign ADI                            A foreign ADI engages in limited dealings in either, or both of, derivatives and foreign exchange          ASIC Corporations (Foreign
+                                        contracts:                                                                                                 Licensees and ADIs) Instrument
+                                         that are entered into for the purpose of managing financial risk arising in the ordinary course of       2016/186
+                                          the foreign ADI’s banking business; and
+                                         where the counterparty to the dealing is a wholesale client.
+
+ Dealings with a limited connection     A person or company located outside Australia provides a financial service to a wholesale client           ASIC Instrument 2017/182
+ to Australia                           and the only reason that the foreign person or company is carrying on a financial services
+                                        business in Australia is as a result of s911D.
+                                          Note 1: We have replaced the ‘limited connection relief’ under ASIC Corporations (Foreign Financial
+                                          Services Providers—Limited Connection) Instrument 2017/182 with the narrower 'funds management
+                                          relief’ under ASIC Corporations (Foreign Financial Services Providers—Funds Management Financial
+                                          Services) Instrument 2020/199, which commences on 1 April 2026. Under transitional arrangements, the
+                                          relief under ASIC Instrument 2017/182 continues until 31 March 2026.
+                                          Note 2: If passed by Parliament, the Treasury Laws Amendment (Better Targeted Superannuation
+                                          Concessions and Other Measures) Bill 2023 will introduce new licensing exemptions for FFSPs, replacing
+                                          existing licensing relief.
+
+ Funds management relief                A person or company located outside Australia engages in ‘inducing conduct’ in relation to the             ASIC Instrument 2020/199
+                                        provision of ‘funds management financial services’ to certain types of professional investors in
+                                        Australia and the only reason that the foreign person or company is carrying on a financial
+                                        services business in Australia is as a result of s911D.
+                                          Note: The 'funds management relief’ under ASIC Instrument 2020/199 commences on 1 April 2026.
+                                          However, if passed by Parliament, the Treasury Laws Amendment (Better Targeted Superannuation
+                                          Concessions and Other Measures) Bill 2023 will introduce new licensing exemptions for FFSPs, replacing
+                                          existing licensing relief.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                                                                             Page 37
+                                                                                                                 REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+Table 3:    Connection with an AFS licensee
+
+ Exemption                              Conduct for which a financial services business does not need to hold an AFS licence                     Relevant section, regulation or
+                                                                                                                                                 legislative instrument
+
+ Representative of an AFS               A person or company provides the service as a representative of a person who is licensed to              s911A(2)(a)
+ licensee                               carry on the financial services business that covers the provision of the service or is exempt
+                                        under s911A(2) from the requirement to hold an AFS licence.
+
+ Acting under an intermediary           A person or company enters into, or provides a service under, an intermediary authorisation as           s911A(2)(b) and (ba)
+ authorisation                          specified in s911A(2)(b) and (ba).
+
+ Incidental to the operation of a       A person or company provides the service of, or the service is provided incidentally to, the             s911A(2)(d)
+ licensed market or licensed CS         operation of a licensed market or licensed CS facility.
+ facility
+
+ Certain claims handling and            A person or company provides a claims handling and settling service in relation to an insurance          s911A(2)(ek)–(en)
+ settling services                      product and:
+                                         the person is not specifically required to hold an AFS licence because of the operation of
+                                          s911A(2)(ek); or
+                                         the service is provided in the circumstances set out in s911A(el), (em) or (en).
+
+ Acting in an administrative            A person or company provides the financial services in one of the circumstances described in             s911A(2)(f)
+ capacity                               s911A(2)(f).
+
+ Sub-custodian                          A person or company provides the service as a sub-custodian in the circumstances set out in reg          reg 7.6.01(1)(k)
+                                        7.6.01(1)(k).
+
+ General product advice provided        An issuer of a financial product or class of financial products, or related body corporate of the        reg 7.6.01(1)(s)
+ to an AFS licensee by the issuer       issuer, provides general product advice to an AFS licensee about those products and the AFS
+                                        licensee is authorised to provide that advice.
+
+ Activity of a nominee                  A wholly owned subsidiary of a licensed market participant holds a financial product or the              reg 7.6.01(1)(v)
+                                        beneficial interest in a financial product on trust for a client of the licensed market participant in
+                                        the circumstances set out in reg 7.6.01(1)(v).
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                                                                           Page 38
+                                                                                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+ Exemption                              Conduct for which a financial services business does not need to hold an AFS licence                      Relevant section, regulation or
+                                                                                                                                                  legislative instrument
+
+ General insurance distributor          A product distributor for an AFS licensee authorised to deal in general insurance products                ASIC Corporations (Basic
+                                        provides the financial service of dealing in a general insurance product on behalf of the licensee.       Deposit and General Insurance
+                                                                                                                                                  Product Distribution) Instrument
+                                                                                                                                                  2015/682
+
+
+Table 4:    Financial services that involve only the financial services provider
+
+ Exemption                              Conduct for which a financial services business does not need to hold an AFS licence                      Relevant section, regulation or
+                                                                                                                                                  legislative instrument
+
+ Service provided to a related body     The person or company provides the service only to related bodies corporate.                              s911A(2)(i)
+ corporate
+
+ Variation or disposal of financial     A person or company is a product issuer who varies or disposes of a financial product at the              s911A(2)(c)
+ product by issuer                      direct request of the product holder (rather than through an intermediary).
+
+ Dealing in derivatives or foreign      A person or company deals on its own behalf, but does not make a market, in derivatives or                reg 7.6.01(1)(m)
+ exchange contracts to manage           foreign exchange contracts where:
+ financial risk                          the dealing is for the purpose of managing a financial risk that arises in the ordinary course of
+                                          a business; and
+                                         the person or company does not deal in derivatives or foreign exchange contracts as a
+                                          significant part of its business.
+
+ Employee share schemes                 A person or company provides certain services in relation to an offer for the issue, sale or              s1100ZC(7), s1100N, s1100P,
+                                        transfer of employee share scheme (ESS) interests made to ESS participants in connection with             s1100Q, s1100R
+                                        an employee share scheme of a body corporate or registered scheme if the offer is expressed to
+                                        be made under Div 1A of Pt 7.12 and the offer is covered by:
+                                         s1100P (offers for no monetary consideration);
+                                         s1100Q (offers for monetary consideration); or
+                                         s1100R (offers that would otherwise not need disclosure).
+                                          Note: ‘employee share scheme’, ‘ESS participant’ and ‘ESS interest’ are defined in s1100L and 1100M.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                                                                            Page 39
+                                                                                                               REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+ Exemption                              Conduct for which a financial services business does not need to hold an AFS licence                   Relevant section, regulation or
+                                                                                                                                               legislative instrument
+
+ Issuer varies or disposes of the       A person or company that issued a financial product varies or disposes of that financial product       reg 7.6.01(1)(q)
+ financial product                      under the terms of the financial product.
+
+ Trustees of RSEs                       A trustee of an RSE deals in financial products (other than an interest in the entity) in the          reg 7.6.01(1)(db)
+                                        ordinary course of the operation of that entity.
+
+ Self-dealers                           Bodies that are entitled to the licensing exemption in s766C(4) provide general advice to              ASIC Corporations (Financial
+                                        wholesale clients in an offer document about securities covered by s766C(4).                           Product Advice – Exempt
+                                                                                                                                               Documents) Instrument
+                                                                                                                                               2016/356
+
+ Certain dealings in relation to an     A person or company deals in an ACCU or EIEU, or derivatives over or foreign exchange                  reg 7.6.01(1)(ma)
+ ACCU or EIEU                           contracts for such units, and:
+                                         the service does not involve the making of a market for those units, derivatives or foreign
+                                          exchange contracts;
+                                         the dealing is entered into for the purpose of managing financial risk in relation to the
+                                          surrender, cancellation or relinquishment of such units by the person, a related body corporate
+                                          or associated entity;
+                                         the person does not deal in those units, derivates or foreign exchange contracts as the
+                                          principal activity of the person’s business; and
+                                         the dealing is entered into on the person’s own behalf or on behalf of a related body corporate
+                                          or associated entity.
+
+
+Table 5:    Alternative regulatory regime
+
+ Exemption                              Conduct for which a financial services business does not need to hold an AFS licence                   Relevant section, regulation or
+                                                                                                                                               legislative instrument
+
+ Regulated by APRA                      A body regulated by APRA provides the financial service only to wholesale clients and the              s911A(2)(g)
+                                        service is one for which APRA has regulatory or supervisory responsibilities.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                                                                         Page 40
+                                                                                                               REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+ Exemption                              Conduct for which a financial services business does not need to hold an AFS licence                    Relevant section, regulation or
+                                                                                                                                                legislative instrument
+
+ Trustee capacity in relation to        A body deals in a financial product in the capacity of trustee of a pooled superannuation trust         reg 7.6.01(1)(b)
+ superannuation                         (PST) where:
+                                         the PST is used for investment of the assets of a regulated superannuation fund; and
+                                         the regulated superannuation fund has net assets of at least $10 million on the date that it first
+                                          invests in the PST.
+
+ Trustee capacity (cont.)               A superannuation trustee service provided by the trustee of a PST in the circumstances set out          reg 7.6.01(1)(ba)
+                                        in paragraph (b) of reg 7.6.01(1).
+
+ Trustee capacity (cont.)               A body deals in a financial product in the capacity of trustee of a PST where:                          reg 7.6.01(1)(c)
+                                         the PST is used for investment of the assets of a regulated superannuation fund;
+                                         the regulated superannuation fund has net assets of at least $5 million, but less than $10
+                                          million on the date that it first invests in the PST; and
+                                         the trustee has a reasonable expectation that the net assets of the regulated superannuation
+                                          fund will equal or exceed $10 million not later than 3 months of the date on which it first invests
+                                          in the PST.
+
+ Trustee capacity (cont.)               A superannuation trustee service provided by the trustee of a PST in the circumstances set out          reg 7.6.01(1)(ca)
+                                        in paragraph (c) of reg 7.6.01(1).
+
+ Trustee capacity (cont.)               A body deals in a financial product in the capacity of trustee of a PST in circumstances where          reg 7.6.01(1)(d)
+                                        the PST is not used for the investment of assets of a regulated superannuation fund.
+
+ Trustee capacity (cont.)               A superannuation trustee service provided by the trustee of a PST in the circumstances set out          reg 7.6.01(1)(da)
+                                        in paragraph (d) of reg 7.6.01(1).
+
+ Trustee capacity (cont.)               A person or company provides the service in their capacity as trustee of a self-managed                 s911A(2)(j)
+                                        superannuation fund.
+
+ Superannuation                         An employer–sponsor deals in a financial product only by paying contributions on behalf of an           reg 7.6.01(1)(h)
+                                        employee into a superannuation product or retirement savings account (RSA) product.
+
+ Superannuation (cont.)                 An RSA provider deals in a financial product only by paying the benefits of an RSA product              reg 7.6.01(1)(hb)
+                                        holder into a superannuation product or RSA product.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                                                                         Page 41
+                                                                                                                   REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+ Exemption                              Conduct for which a financial services business does not need to hold an AFS licence                         Relevant section, regulation or
+                                                                                                                                                     legislative instrument
+
+ Superannuation (cont.)                 An employer–sponsor deals in a financial product only by arranging for the issue of a                        reg 7.6.01(1)(hc)
+                                        superannuation product to an employee.
+
+ Workers’ compensation insurance        A body provides a financial service relating to insurance with respect to workers’ compensation              reg 7.6.01(1)(p)
+                                        in the circumstances set out in reg 7.6.01(1)(p).
+
+ Factoring arrangements                 An eligible person purchases debt obligations under the terms of a factoring arrangement. The                ASIC Corporations (Factoring
+                                        relief is conditional on the disclosure of terms and conditions to retail clients and maintenance of         Arrangements) Instrument
+                                        an internal dispute resolution system that covers retail client complaints.                                  2017/794
+
+ Trustees of wholesale equity           An eligible trustee of a wholesale equity scheme deals in (other than by issuing to a person as a            ASIC Corporations (Wholesale
+ schemes                                retail client) investment products that form part of the trust property of the scheme or provide a           Equity Scheme Trustees)
+                                        custodial or depository service in relation to the investment products.                                      Instrument 2017/849
+                                          Note: See Regulatory Guide 192 Licensing: Wholesale equity schemes (RG 192) for definitions of ‘eligible
+                                          trustee’ and ‘wholesale equity scheme’.
+
+
+
+Table 6:    Financial services business is not the sole or principal purpose of the activity
+
+ Exemption                              Conduct for which a financial services business does not need to hold an AFS licence                         Relevant section, regulation
+                                                                                                                                                     or class order
+
+ Providing general advice               The proprietor or publisher of a newspaper or periodical provides general advice in their                    s911A(2)(ea)
+                                        publication that is generally available to the public (otherwise than only on subscription) and
+                                        where the sole or principal purpose of the publication is not the provision of financial product
+                                        advice.
+
+ Providing general advice (cont.)       A person or company provides general advice in transmissions made by means of an information                 s911A(2)(eb)
+                                        service where the transmissions are generally available to the public and where the sole or
+                                        principal purpose of the transmissions is not the provision of financial product advice.
+
+ Providing general advice (cont.)       A person or company provides general advice in sound recordings, video recordings or data                    s911A(2)(ec)
+                                        recordings that are made publicly available and where the sole or principal purpose of the
+                                        recordings is not the provision of financial product advice.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                                                                             Page 42
+                                                                                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+ Exemption                              Conduct for which a financial services business does not need to hold an AFS licence                       Relevant section, regulation
+                                                                                                                                                   or class order
+
+ Providing general advice (cont.)       A product issuer provides general advice in the media in the circumstances set out in reg                  reg 7.6.01(1)(o)
+                                        7.6.01(1)(o).
+
+ Actuaries                              An actuary provides financial product advice in the course of providing actuarial services in the          reg 7.6.01(1)(oa)
+                                        circumstances set out in reg 7.6.01(1)(oa).
+
+ Non-cash payment facility              A person or company advises other people about, or arranges for the use of, non-cash payment               reg 7.6.01(1)(l)
+ (general)                              facilities that may be used to acquire goods or services in the ordinary course of its business, but
+                                        only if the person or company does not provide financial services as a significant part of its
+                                        business.
+
+ Non-cash payment facility              A person or company advises other people about, or arranges for the use of, non-cash payment               reg 7.6.01(1)(la)
+ (general) (cont.)                      facilities that may be used to acquire a financial product or financial service provided in the
+                                        ordinary course of its business.
+
+ Non-cash payment facility              A person or company issues a non-cash payment facility under which payments may be made                    reg 7.6.01(1)(lb)
+ (general) (cont.)                      only to the issuer of the facility or a related body corporate of the issuer.
+                                          Note: See also ASIC Corporations (Non-cash Payment Facilities) Instrument 2016/211 for other licensing
+                                          exemptions for the provision of financial services in relation to non-cash payment facilities.
+
+ Non-cash payment facilities            A person or company provides financial services in relation to:                                            ASIC Instrument 2016/211
+ (other)                                 low value non-cash payment facilities where specified consumer protection requirements are
+                                          met;
+                                         gift facilities, such as gift vouchers or cards; or
+                                         prepaid mobile facilities.
+
+ Non-cash payment facilities            Loyalty schemes constituting non-cash payment facilities are not financial products for the                ASIC Instrument 2016/211
+ (other) (cont.)                        purposes of Ch 7.
+
+ Advice relating to matters other       A person or company provides advice in a document issued in connection with a takeover bid or              reg 7.6.01(1)(u)
+ than financial products                an offer of a financial product and the advice relates to matters other than financial products (e.g.
+                                        a geologist’s report) in the circumstances set out in reg 7.6.01(1)(u).
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                                                                            Page 43
+                                                                                                                         REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+ Exemption                              Conduct for which a financial services business does not need to hold an AFS licence                             Relevant section, regulation
+                                                                                                                                                         or class order
+
+ General advice contained in a          An issuer of certain documents provides general advice contained in those documents.                             ASIC Corporations (Financial
+ document                                                                                                                                                Product Advice – Exempt
+                                                                                                                                                         Documents) Instrument
+                                                                                                                                                         2016/356
+
+ Mortgage offset accounts               A person or company provides financial services that consist of advising or arranging in relation                ASIC Corporations (Mortgage
+                                        to a mortgage offset account.                                                                                    Offset Accounts) Instrument
+                                                                                                                                                         2017/795
+
+ Financial counselling                  A financial counselling agency provides financial product advice in the course of providing a                    reg 7.6.01(1)(zb)
+                                        financial counselling service.
+
+ Generic financial calculators          A person or company makes available a generic financial calculator in the circumstances set out                  ASIC Instrument 2016/207
+                                        in ASIC Corporations (Generic Calculators) Instrument 2016/207.
+
+ Valuing shares in a real estate        A person or company provides general advice in relation to eligible shares in a real estate                      ASIC Corporations (Real Estate
+ company                                company, where the advice relates to a valuation of eligible shares in the real estate company or                Companies) Instrument
+                                        a valuation of property.                                                                                         2015/1049
+
+ Funeral expenses policies issued       A funeral services entity (its employee, director or officer) provides financial product advice in               reg 7.6.01(1)(ta)
+ by friendly societies                  relation to a friendly society funeral product, or dealing in a friendly society funeral product, in the
+                                        ordinary course of business.
+                                          Note: ‘friendly society funeral product’ and ‘funeral services entity’ are defined in reg 7.6.01(7).
+
+ Litigation funding scheme              A person or company provides a financial service in relation to a litigation funding scheme or                   reg 7.6.01(1)(x) and (y)
+                                        litigation funding arrangement mentioned in reg 5C.11.01.
+
+ Gas trading exchange                   A person or company provides a financial service in relation to a qualifying gas exchange product                reg 7.6.01(1)(z)
+                                        traded on a qualifying gas trading exchange and the person is a participant in relation to the
+                                        exchange.
+                                          Note: ‘Qualifying gas exchange product’ and ‘qualifying gas trading exchange’ are defined in reg 1.0.02.
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                                                                                   Page 44
+                                                 REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+Key terms
+
+
+                              Term                      Meaning in this document
+
+                              ACCC                      Australian Competition and Consumer Commission
+
+                              ACCU                      Australian carbon credit unit
+
+                              ADI                       Authorised deposit-taking institution
+
+                              AFS licence               An Australian financial services licence under s913B that
+                                                        authorises a person who carries out a financial services
+                                                        business to provide financial services
+                                                          Note: This is a definition contained in s9.
+
+                              AFS licensee              A person who holds an Australian financial services
+                                                        licence under s913B
+                                                          Note: This is a definition contained in s9.
+
+                              APRA                      Australian Prudential Regulation Authority
+
+                              ASIC                      Australian Securities and Investments Commission
+
+                              ASIC Act                  Australian Securities and Investments Commission Act
+                                                        2001
+
+                              ASX                       ASX Limited or the exchange market operated by ASX
+                                                        Limited
+
+                              ASX 24                    The financial market formerly known as the Sydney
+                                                        Futures Exchange, operated by Australian Securities
+                                                        Exchange Limited
+
+                              Australian carbon         A unit issued under s147 of the Carbon Credits (Carbon
+                              credit unit (ACCU)        Farming Initiative) Act 2011
+
+                              authorised                A person authorised in accordance with s916A or 916B to
+                              representative of an      provide a financial service or financial services on behalf
+                              AFS licensee              of an AFS licensee
+                                                          Note: This is a definition contained in s9.
+
+                              Cboe                      Cboe Australia Pty Ltd (formerly Chi-X Australia Pty Ltd)
+                                                        or the exchange market operated by Cboe
+
+                              Cboe Operating            Operating rules for the financial market operated by Cboe
+                              Rules
+
+                              CCIV                      A corporate collective investment vehicle—a company
+                                                        that is registered as a corporate collective investment
+                                                        vehicle under the Corporations Act
+                                                          Note: This is a definition in s9.
+
+                              Ch 7 (for example)        A chapter of the Corporations Act (in this example
+                                                        numbered 7)
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                             Page 45
+                                                   REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                              Term                       Meaning in this document
+
+                              [CO 03/1099]               An ASIC class order (in this example numbered 03/1099)
+
+                              Corporations Act           Corporations Act 2001, including regulations made for the
+                                                         purposes of that Act
+
+                              Corporations               Corporations Regulations 2001
+                              Regulations
+
+                              credit licence             An Australian credit licence under s35 of the National
+                                                         Credit Act that authorises a licensee to engage in
+                                                         particular credit activities
+
+                              CS facility                Clearing and settlement facility as defined by s768A
+
+                              EIEU                       Eligible international emissions unit—has the meaning
+                                                         given in s4 of the Australian National Registry of
+                                                         Emissions Units Act 2011
+
+                              FAR Act                    Financial Accountability Regime Act 2023
+
+                              FCIS                       Foreign collective investment scheme
+
+                              FCIS operator              The person who operates the FCIS or, for an FCIS that is
+                                                         a corporation, the corporation
+
+                              FEX                        FEX Global Pty Ltd
+
+                              FEX Operating Rules        Operating rules for the financial market operated by FEX
+
+                              FFSP                       Foreign financial services provider
+
+                              FIRB                       Foreign Investment Review Board
+
+                              financial product          Generally a facility through which, or through the
+                                                         acquisition of which, a person does one or more of the
+                                                         following:
+                                                          makes a financial investment (see s763B);
+                                                          manages financial risk (see s763C);
+                                                          makes non-cash payments (see s763D)
+                                                            Note: See Div 3 of Pt 7.1 for the exact definition.
+
+                              financial service          Has the meaning given in Div 4 of Pt 7.1
+
+                              financial services         Chapter 7
+                              regime
+
+                              foreign AFS licence        A modified AFS licence issued to an FFSP that:
+                                                          provides financial services to wholesale clients in
+                                                           Australia; and
+                                                          is regulated by an overseas regulatory regime that
+                                                           ASIC has determined is sufficiently equivalent to the
+                                                           Australian regulatory regime
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                                 Page 46
+                                                   REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                              Term                       Meaning in this document
+
+                              FSG                        A Financial Services Guide—a document required by
+                                                         s941A or 941B to be given in accordance with Div 2 of
+                                                         Pt 7.7
+                                                            Note: This is a definition in s9.
+
+                              general conduct            The obligations under s47(1) of the National Credit Act
+                              obligations
+
+                              market integrity rules     Rules made by ASIC, under s798G, for trading on
+                                                         domestic licensed markets
+
+                              market participant         A ‘participant’ as defined in s767A
+
+                              National Credit Act        National Consumer Credit Protection Act 2009
+
+                              notified foreign           A foreign passport fund that has become a notified
+                              passport fund              foreign passport fund under s1213C
+
+                              operating rules            Has the meaning given in s9
+
+                              PDS                        Product Disclosure Statement
+
+                              Product Disclosure         A document that must be given to a retail client in relation
+                              Statement                  to the offer or issue of a financial product in accordance
+                                                         with Div 2 of Pt 7.9
+                                                            Note: See s9 for the exact definition.
+
+                              PST                        A pooled superannuation trust as defined in s10 of the
+                                                         SIS Act
+
+                              Pt 5B.2 (for example)      A part of the Corporations Act (in this example numbered
+                                                         5B.2), unless otherwise specified
+
+                              RBA                        Reserve Bank of Australia
+
+                              reg 7.6.01C (for           A regulation of the Corporations Regulations (in this
+                              example)                   example numbered 7.6.01C)
+
+                              representative of an       Means:
+                              AFS licensee                an authorised representative of the licensee; or
+                                                          an employee or director of the licensee; or
+                                                          an employee or director of a related body corporate of
+                                                           the licensee; or
+                                                          any other person acting on behalf of the licensee
+                                                            Note: This is a definition contained in s9.
+
+                              responsible lending        The obligations under Ch 3 of the National Credit Act
+                              obligations
+
+                              retail client              A client as defined in s761G and 761GA and Div 2 of Pt
+                                                         7.1 of the Corporations Regulations
+
+                              RG 51 (for example)        An ASIC regulatory guide (in this example numbered 51)
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                              Page 47
+                                                    REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                              Term                        Meaning in this document
+
+                              RSA                         Retirement savings account as defined in s8 of the
+                                                          Retirement Savings Accounts Act 1997
+
+                              RSE                         A registrable superannuation entity (e.g. a
+                                                          superannuation fund)
+
+                              s763E (for example)         A section of the Corporations Act (in this example
+                                                          numbered 763E), unless otherwise specified
+
+                              safeguard                   A unit issued under s22XNA of the National Greenhouse
+                              mechanism credit unit       and Energy Reporting Act 2007
+
+                              shorter PDS                 A PDS that is required to comply with the shorter PDS
+                                                          regime
+
+                              shorter PDS regime          The requirements set out in Pt 7.9 as modified by Pt 7.9,
+                                                          Div 4, Subdivs 4.2B to 4.2D and Sch 10D to 10F of the
+                                                          Corporations Regulations, which prescribe the content
+                                                          and length of the PDS for superannuation products,
+                                                          simple managed investment schemes and simple sub-
+                                                          fund products
+
+                              SIS Act                     Superannuation Industry (Supervision) Act 1993SIS
+
+                              SOA                         Statement of Advice
+
+                              Statement of Advice         A document that must be given to a retail client for the
+                                                          provision of personal advice under Subdivs C and D of
+                                                          Div 3 of Pt 7.7
+                                                             Note: See s9 for the exact definition.
+
+                              transitional relief         The relief in ASIC Corporations (Repeal and Transitional)
+                                                          Instrument 2016/396 and ASIC Corporations (CSSF-
+                                                          Regulated Financial Services Providers) Instrument
+                                                          2016/1109
+
+                              wholesale client            A client who is not a retail client as defined in s761G and
+                                                          Div 2 of Pt 7.1 of the Corporations Regulations
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                               Page 48
+                                                  REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             authorisation, carrying on a business, conduct and disclosure obligations,
+                             FFSPs, general licence obligations, inducing, licensing exemptions,
+                             obligations that apply to providers of financial services, overseas regulatory
+                             authorities, retail clients, wholesale clients
+
+
+                             Legislative instruments
+
+                             ASIC Corporations (General Advice Warning) Instrument 2015/540
+
+                             ASIC Corporations (Basic Deposit and General Insurance Product
+                             Distribution) Instrument 2015/682
+
+                             ASIC Corporations (Real Estate Companies) Instrument 2015/1049
+
+                             ASIC Corporations (Foreign Licensees and ADIs) Instrument 2016/186
+
+                             ASIC Corporations (Generic Calculators) Instrument 2016/207
+
+                             ASIC Corporations (Non-cash Payment Facilities) Instrument 2016/211
+
+                             ASIC Corporations (Financial Product Advice – Exempt Documents)
+                             Instrument 2016/356
+
+                             ASIC Corporations (Repeal and Transitional) Instrument 2016/396
+                                   Note: This instrument repealed and extended relief previously available under
+                                   [CO 03/1099], [CO 03/1100], [CO 03/1101], [CO 03/1102], [CO 03/1103],
+                                   [CO 04/829] and [CO 04/1313]
+
+                             ASIC Corporations (CSSF-Regulated Financial Services Providers)
+                             Instrument 2016/1109
+
+                             ASIC Corporations (Foreign Financial Services Providers—Limited
+                             Connection) Instrument 2017/182
+
+                             ASIC Corporations (Factoring Arrangements) Instrument 2017/794
+
+                             ASIC Corporations (Mortgage Offset Accounts) Instrument 2017/795
+
+                             ASIC Corporations (Wholesale Equity Scheme Trustees) Instrument
+                             2017/849
+
+                             ASIC Corporations (Foreign Financial Services Providers—Foreign AFS
+                             Licensees) Instrument 2020/198
+
+                             ASIC Corporations (Foreign Financial Services Providers—Funds
+                             Management Financial Services) Instrument 2020/199
+
+
+
+© Australian Securities and Investments Commission September 2024                                                  Page 49
+                                                 REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                             Regulatory guides
+
+                             RG 1 Applying for and varying an AFS licence
+
+                             RG 36 Licensing: Financial product advice and dealing
+
+                             RG 38 The hawking prohibition
+
+                             RG 51 Applications for relief
+
+                             RG 78 Breach reporting by AFS licensees and credit licensees
+
+                             RG 104 AFS licensing: Meeting the general obligations
+
+                             RG 126 Compensation and insurance arrangements for AFS licensees
+
+                             RG 167 AFS licensing: Discretionary powers
+
+                             RG 168 Disclosure: Product Disclosure Statements (and other disclosure
+                             obligations)
+
+                             RG 172 Financial markets: Domestic and overseas operators
+
+                             RG 175 Licensing: Financial product advisers—Conduct and disclosure
+
+                             RG 176 Foreign financial services providers
+
+                             RG 178 Foreign collective investment schemes
+
+                             RG 192 Licensing: Wholesale equity schemes
+
+                             RG 228 Prospectuses: Effective disclosure for retail investors
+
+                             RG 265 Guidance on ASIC market integrity rules for participants of
+                             securities markets
+
+                             RG 266 Guidance on ASIC market integrity rules for participants of futures
+                             markets
+
+                             RG 274 Product design and distribution obligations
+
+                             RG 279 Financial Accountability Regime: Information for accountable
+                             entities
+
+
+                             Information sheets
+
+                             INFO 155 Shorter PDSs—Complying with requirements for superannuation
+                             products, simple managed investment schemes and simple sub-fund products
+
+                             INFO 157 Foreign financial services providers: Licensing relief
+
+                             INFO 253 Claims handling and settling: How to comply with your AFS
+                             licence obligations
+
+
+© Australian Securities and Investments Commission September 2024                                            Page 50
+                                                 REGULATORY GUIDE 121: Doing financial services business in Australia
+
+
+
+
+                             Legislation
+
+                             Australian Prudential Regulation Authority Act 1998, s3(2)
+
+                             Australian Securities and Investments Commission Act 2001, Pt 2, Div 2,
+                             s12DA
+
+                             Corporations Act 2001, Ch 2L, 5C, 6D and 7, Pts 5.2, 5B.2, 6D.2, 7.1, 7.2A
+                             7.6, 7.7, 7.8, 7.8A, 7.9 and 7.10, s9, 18-21, 601FB, 601RAC, 761G, 761GA,
+                             762A-765A, 766A-766H, 769B, 911A, 911B, 911D, 912A, 912B, 912DAA,
+                             912F, 916A, 916B, 916D, 916E, 946A, 946AA, 946B, 949A, 961B, 961G,
+                             961H, 961J, 992A, 994A, 1100L-1100R, 1100ZC
+
+                             Corporations Regulations 2001, Pt 7.1, Div 4, Pt 7.9, Div 4, Subdivs 4.2A–
+                             4.2D, regs 1.0.02, 7.6.01, 7.6.01C, 7.6.02AG, 7.6.03A, 7.6.03B, 7.7.09A,
+                             7.7.10, 7.7.20, 7.9.98
+
+                             Financial Accountability Regime Act 2023
+
+                             Financial Sector (Shareholdings) Act 1998
+
+                             Foreign Acquisitions and Takeovers Act 1975
+
+                             National Consumer Credit Protection Act 2009
+
+                             Payment Systems and Netting Act 1998
+
+                             Payment Systems (Regulation) Act 1998
+
+                             Superannuation Industry (Supervision) Act 1993
+
+                             Treasury Laws Amendment (Better Targeted Superannuation Concessions
+                             and Other Measures) Bill 2023
+
+
+
+
+© Australian Securities and Investments Commission September 2024                                            Page 51
+

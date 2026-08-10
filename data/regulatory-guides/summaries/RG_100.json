@@ -1,0 +1,30 @@
+{
+  "citation": "RG 100",
+  "title": "Court enforceable undertakings",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide explains ASIC's approach to accepting court enforceable undertakings under the legislation it administers. It describes what a court enforceable undertaking is, how it works, and the circumstances in which ASIC will consider accepting one.",
+  "background": "Court enforceable undertakings are an administrative remedy for contraventions of legislation administered by ASIC. The guide is intended for entities or persons and their legal advisers who are considering offering a court enforceable undertaking to ASIC. It is issued under the ASIC Act, National Credit Act, and SIS Act.",
+  "ruling": "ASIC will consider accepting a court enforceable undertaking where it provides an effective regulatory outcome, such as remediation, compliance, or other corrective action. The undertaking must be clear, unambiguous, and capable of being enforced by a court. ASIC expects the undertaking to include acceptable and standard terms, and may require appointment of independent experts, public reporting, and compliance with the law. ASIC maintains a register of enforceable undertakings and will not accept undertakings that contain unacceptable terms or that are not in the public interest.",
+  "date_of_effect": "2021-11-01",
+  "legislation_referenced": [
+    "Australian Securities and Investments Commission Act 2001 (Cth) s 93A",
+    "Australian Securities and Investments Commission Act 2001 (Cth) s 93AA",
+    "National Consumer Credit Protection Act 2009 (Cth) s 322",
+    "Superannuation Industry (Supervision) Act 1993 (Cth) s 262A",
+    "Corporations Act 2001 (Cth) s 674"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "RG 78",
+    "RG 98",
+    "RG 111",
+    "RG 112",
+    "RG 181",
+    "RG 218",
+    "RG 256",
+    "INFO 28",
+    "INFO 151",
+    "INFO 152"
+  ]
+}

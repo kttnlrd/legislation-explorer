@@ -1,0 +1,39 @@
+{
+  "citation": "RG 126",
+  "title": "Compensation and insurance arrangements for AFS licensees",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses the compensation and insurance arrangements that Australian financial services (AFS) licensees must have in place for retail clients under the Corporations Act 2001. It covers the requirement to have adequate compensation arrangements, including professional indemnity (PI) insurance, and the circumstances under which a security bond may be required.",
+  "background": "The guide is issued under the Corporations Act 2001, specifically section 912B, which requires AFS licensees to have compensation arrangements for retail clients. It is intended for AFS licensees, their representatives, advisers, and insurers, and explains ASIC's administrative approach to these requirements.",
+  "ruling": "ASIC states that AFS licensees must maintain adequate compensation arrangements, typically through professional indemnity insurance, to cover claims by retail clients for losses due to breaches of obligations. The guide sets out ASIC's expectations for the minimum level of PI insurance cover, which is generally $5 million per claim and in aggregate, though higher amounts may be required based on the licensee's business activities. ASIC also provides guidance on when a security bond may be required as an alternative or supplement to PI insurance, and the process for discharging such bonds. Additionally, ASIC clarifies that licensees must disclose their compensation arrangements to retail clients in a Financial Services Guide (FSG) and on their website.",
+  "date_of_effect": "2024-11-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 912B",
+    "Corporations Act 2001 (Cth) s 912A",
+    "Corporations Act 2001 (Cth) s 912DAA",
+    "Corporations Act 2001 (Cth) s 953B",
+    "Corporations Act 2001 (Cth) s 953C",
+    "Corporations Act 2001 (Cth) s 991A",
+    "Corporations Act 2001 (Cth) s 1022B",
+    "Corporations Act 2001 (Cth) s 1022C",
+    "Corporations Act 2001 (Cth) s 1041I",
+    "Corporations Act 2001 (Cth) s 601RAB",
+    "Corporations Regulations 2001 (Cth) reg 7.6.02AA",
+    "Corporations Regulations 2001 (Cth) reg 7.6.02AAA(1)",
+    "Corporations Regulations 2001 (Cth) reg 7.6.02AAA(3)",
+    "Corporations Regulations 2001 (Cth) reg 7.7.03A",
+    "Corporations Regulations 2001 (Cth) reg 7.7.06B",
+    "Corporations Regulations 2001 (Cth) reg 5D.1.04",
+    "Insurance Act 1973 (Cth)",
+    "Financial Sector Legislation Amendment (Discretionary Mutual Funds and Direct Offshore Foreign Insurers) Act 2007 (Cth)"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "RG 166",
+    "RG 179",
+    "RG 210",
+    "RG 265",
+    "RG 266",
+    "INFO 291"
+  ]
+}

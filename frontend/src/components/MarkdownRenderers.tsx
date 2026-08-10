@@ -44,7 +44,7 @@ export function createMarkdownComponents(
       const handleClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
         if (!href) return
         const sectionMatch = href.match(/\/(itaa-\d{4})\/s([^#]+)(?:#(.+))?/)
-        const rulingMatch = href.match(/\/rulings\/s(.+)/)
+        const rulingMatch = href.match(/\/rulings\/(.+)/)
         if (sectionMatch) {
           const targetAct = sectionMatch[1]
           const targetSection = sectionMatch[2]

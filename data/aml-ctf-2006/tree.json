@@ -1,0 +1,2367 @@
+{
+  "act": "Anti-Money Laundering and Counter-Terrorism Financing Act 2006",
+  "compilation_no": 59,
+  "compilation_date": "31 March 2025",
+  "parts": [
+    {
+      "id": "1",
+      "title": "Part 1 — Introduction",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Part 1—Introduction",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "1",
+              "title": "Short title",
+              "path": "part-1/division-1/1.md"
+            },
+            {
+              "id": "2",
+              "title": "Commencement",
+              "path": "part-1/division-1/2.md"
+            },
+            {
+              "id": "3",
+              "title": "Objects",
+              "path": "part-1/division-1/3.md"
+            },
+            {
+              "id": "4",
+              "title": "Simplified outline",
+              "path": "part-1/division-1/4.md"
+            },
+            {
+              "id": "5",
+              "title": "Definitions",
+              "path": "part-1/division-1/5.md"
+            },
+            {
+              "id": "6",
+              "title": "Designated services",
+              "path": "part-1/division-1/6.md"
+            },
+            {
+              "id": "7",
+              "title": "Services provided jointly to 2 or more customers",
+              "path": "part-1/division-1/7.md"
+            },
+            {
+              "id": "7A",
+              "title": "Securities and derivatives",
+              "path": "part-1/division-1/7A.md"
+            },
+            {
+              "id": "8",
+              "title": "Person-to-person electronic funds transfer instructions",
+              "path": "part-1/division-1/8.md"
+            },
+            {
+              "id": "9",
+              "title": "Same-person electronic funds transfer instructions",
+              "path": "part-1/division-1/9.md"
+            },
+            {
+              "id": "10",
+              "title": "Designated remittance arrangements etc.",
+              "path": "part-1/division-1/10.md"
+            },
+            {
+              "id": "11",
+              "title": "Control test",
+              "path": "part-1/division-1/11.md"
+            },
+            {
+              "id": "12",
+              "title": "Owner-managed branches of ADIs",
+              "path": "part-1/division-1/12.md"
+            },
+            {
+              "id": "13",
+              "title": "Eligible gaming machine venues",
+              "path": "part-1/division-1/13.md"
+            },
+            {
+              "id": "14",
+              "title": "Residency",
+              "path": "part-1/division-1/14.md"
+            },
+            {
+              "id": "15",
+              "title": "Shell banks",
+              "path": "part-1/division-1/15.md"
+            },
+            {
+              "id": "16",
+              "title": "Electronic communications",
+              "path": "part-1/division-1/16.md"
+            },
+            {
+              "id": "17",
+              "title": "Bearer negotiable instruments",
+              "path": "part-1/division-1/17.md"
+            },
+            {
+              "id": "18",
+              "title": "Translation of foreign currency to Australian currency",
+              "path": "part-1/division-1/18.md"
+            },
+            {
+              "id": "19",
+              "title": "Translation of digital currency to Australian currency",
+              "path": "part-1/division-1/19.md"
+            },
+            {
+              "id": "20",
+              "title": "Clubs and associations",
+              "path": "part-1/division-1/20.md"
+            },
+            {
+              "id": "21",
+              "title": "Permanent establishment",
+              "path": "part-1/division-1/21.md"
+            },
+            {
+              "id": "22",
+              "title": "Officials of Commonwealth, State or Territory agencies",
+              "path": "part-1/division-1/22.md"
+            },
+            {
+              "id": "23",
+              "title": "Continuity of partnerships",
+              "path": "part-1/division-1/23.md"
+            },
+            {
+              "id": "24",
+              "title": "Crown to be bound",
+              "path": "part-1/division-1/24.md"
+            },
+            {
+              "id": "25",
+              "title": "Extension to external Territories",
+              "path": "part-1/division-1/25.md"
+            },
+            {
+              "id": "26",
+              "title": "Extra-territorial application",
+              "path": "part-1/division-1/26.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Part 2 — Identification procedures etc.",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Division 1 — Introduction",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "27",
+              "title": "Simplified outline",
+              "path": "part-2/division-1/27.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Division 2 — Identification procedures for certain pre-commencement customers",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "28",
+              "title": "Identification procedures for certain pre-commencement customers",
+              "path": "part-2/division-2/28.md"
+            },
+            {
+              "id": "29",
+              "title": "Verification of identity of pre-commencement customer etc.",
+              "path": "part-2/division-2/29.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Division 3 — Identification procedures for certain low-risk services",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "30",
+              "title": "Identification procedures for certain low-risk services",
+              "path": "part-2/division-3/30.md"
+            },
+            {
+              "id": "31",
+              "title": "Verification of identity of low-risk service customer etc.",
+              "path": "part-2/division-3/31.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Division 4 — Identification procedures etc.",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "32",
+              "title": "Carrying out applicable customer identification procedure before commencement of provision of designated service",
+              "path": "part-2/division-4/32.md"
+            },
+            {
+              "id": "33",
+              "title": "Special circumstances that justify carrying out the applicable customer identification procedure after the commencement of the provision of a designated service",
+              "path": "part-2/division-4/33.md"
+            },
+            {
+              "id": "34",
+              "title": "Carrying out the applicable customer identification procedure after the commencement of the provision of a designated service etc.",
+              "path": "part-2/division-4/34.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Division 5 — Verification of identity etc.",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "35",
+              "title": "Verification of identity of customer etc.",
+              "path": "part-2/division-5/35.md"
+            }
+          ]
+        },
+        {
+          "id": "5A",
+          "title": "Division 5A — Use and disclosure of personal information for the purposes of verifying an individual’s identity",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "35A",
+              "title": "Reporting entities may disclose certain personal information to credit reporting bodies for identity verification purposes",
+              "path": "part-2/division-5A/35A.md"
+            },
+            {
+              "id": "35B",
+              "title": "Credit reporting bodies may use and disclose certain personal information for identity verification purposes",
+              "path": "part-2/division-5A/35B.md"
+            },
+            {
+              "id": "35C",
+              "title": "Reporting entities to notify inability to verify identity",
+              "path": "part-2/division-5A/35C.md"
+            },
+            {
+              "id": "35D",
+              "title": "Verification information not to be collected or held by a credit reporting body",
+              "path": "part-2/division-5A/35D.md"
+            },
+            {
+              "id": "35E",
+              "title": "Retention of verification information—credit reporting bodies",
+              "path": "part-2/division-5A/35E.md"
+            },
+            {
+              "id": "35F",
+              "title": "Retention of verification information—reporting entities",
+              "path": "part-2/division-5A/35F.md"
+            },
+            {
+              "id": "35G",
+              "title": "Access to verification information",
+              "path": "part-2/division-5A/35G.md"
+            },
+            {
+              "id": "35H",
+              "title": "Unauthorised access to verification information—offence",
+              "path": "part-2/division-5A/35H.md"
+            },
+            {
+              "id": "35J",
+              "title": "Obtaining access to verification information by false pretences—offence",
+              "path": "part-2/division-5A/35J.md"
+            },
+            {
+              "id": "35K",
+              "title": "Unauthorised use or disclosure of verification information—offence",
+              "path": "part-2/division-5A/35K.md"
+            },
+            {
+              "id": "35L",
+              "title": "Breach of requirement is an interference with privacy",
+              "path": "part-2/division-5A/35L.md"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Division 6 — Ongoing customer due diligence",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "36",
+              "title": "Ongoing customer due diligence",
+              "path": "part-2/division-6/36.md"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Division 7 — General provisions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "37",
+              "title": "Applicable customer identification procedures may be carried out by an agent of a reporting entity",
+              "path": "part-2/division-7/37.md"
+            },
+            {
+              "id": "37A",
+              "title": "Reliance on applicable customer identification procedures or other procedures—agreements or arrangements",
+              "path": "part-2/division-7/37A.md"
+            },
+            {
+              "id": "37B",
+              "title": "Regular assessments of agreement or arrangement covered by section 37A",
+              "path": "part-2/division-7/37B.md"
+            },
+            {
+              "id": "38",
+              "title": "Reliance on applicable customer identification procedures or other procedures—other circumstances",
+              "path": "part-2/division-7/38.md"
+            },
+            {
+              "id": "39",
+              "title": "General exemptions",
+              "path": "part-2/division-7/39.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Part 3 — Reporting obligations",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Division 1 — Introduction",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "40",
+              "title": "Simplified outline",
+              "path": "part-3/division-1/40.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Division 2 — Suspicious matters",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "41",
+              "title": "Reports of suspicious matters",
+              "path": "part-3/division-2/41.md"
+            },
+            {
+              "id": "42",
+              "title": "Exemptions",
+              "path": "part-3/division-2/42.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Division 3 — Threshold transactions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "43",
+              "title": "Reports of threshold transactions",
+              "path": "part-3/division-3/43.md"
+            },
+            {
+              "id": "44",
+              "title": "Exemptions",
+              "path": "part-3/division-3/44.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Division 4 — International funds transfer instructions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "45",
+              "title": "Reports of international funds transfer instructions",
+              "path": "part-3/division-4/45.md"
+            },
+            {
+              "id": "46",
+              "title": "International funds transfer instruction",
+              "path": "part-3/division-4/46.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Division 5 — AML/CTF compliance reports",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "47",
+              "title": "AML/CTF compliance reports",
+              "path": "part-3/division-5/47.md"
+            },
+            {
+              "id": "48",
+              "title": "Self-incrimination",
+              "path": "part-3/division-5/48.md"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Division 6 — General provisions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "49",
+              "title": "Further information to be given to the AUSTRAC CEO etc.",
+              "path": "part-3/division-6/49.md"
+            },
+            {
+              "id": "49A",
+              "title": "AML/CTF Rules may make provision in relation to reports by registered remittance affiliates",
+              "path": "part-3/division-6/49A.md"
+            },
+            {
+              "id": "49B",
+              "title": "Notice to obtain information or documents in certain circumstances",
+              "path": "part-3/division-6/49B.md"
+            },
+            {
+              "id": "49C",
+              "title": "Authorisation to obtain information or documents in certain circumstances",
+              "path": "part-3/division-6/49C.md"
+            },
+            {
+              "id": "50",
+              "title": "Request to obtain information about the identity of holders of foreign credit cards and foreign debit cards",
+              "path": "part-3/division-6/50.md"
+            },
+            {
+              "id": "50A",
+              "title": "Secrecy—information obtained under section 49, 49B or 49C",
+              "path": "part-3/division-6/50A.md"
+            },
+            {
+              "id": "51",
+              "title": "Division 400 and Chapter 5 of the Criminal Code",
+              "path": "part-3/division-6/51.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3A",
+      "title": "Part 3A — Reporting Entities Roll",
+      "divisions": [
+        {
+          "id": "3A",
+          "title": "Part 3A—Reporting Entities Roll",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "51A",
+              "title": "Simplified outline",
+              "path": "part-3A/division-3A/51A.md"
+            },
+            {
+              "id": "51B",
+              "title": "Reporting entities must enrol",
+              "path": "part-3A/division-3A/51B.md"
+            },
+            {
+              "id": "51C",
+              "title": "Reporting Entities Roll",
+              "path": "part-3A/division-3A/51C.md"
+            },
+            {
+              "id": "51D",
+              "title": "Enrolment",
+              "path": "part-3A/division-3A/51D.md"
+            },
+            {
+              "id": "51E",
+              "title": "Applications for enrolment",
+              "path": "part-3A/division-3A/51E.md"
+            },
+            {
+              "id": "51F",
+              "title": "Enrolled persons to advise of change in enrolment details",
+              "path": "part-3A/division-3A/51F.md"
+            },
+            {
+              "id": "51G",
+              "title": "Removal of entries from the Reporting Entities Roll",
+              "path": "part-3A/division-3A/51G.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Part 4 — Reports about cross-border movements of monetary instruments",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Division 1 — Simplified outline of this Part",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "52",
+              "title": "Simplified outline of this Part",
+              "path": "part-4/division-1/52.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Division 2 — Reports about monetary instruments",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "53",
+              "title": "Reports about movements of monetary instruments into or out of",
+              "path": "part-4/division-2/53.md"
+            },
+            {
+              "id": "54",
+              "title": "Reports about receipts of monetary instruments moved into",
+              "path": "part-4/division-2/54.md"
+            },
+            {
+              "id": "55",
+              "title": "Movements of monetary instruments into",
+              "path": "part-4/division-2/55.md"
+            },
+            {
+              "id": "56",
+              "title": "Movements of monetary instruments out of",
+              "path": "part-4/division-2/56.md"
+            },
+            {
+              "id": "57",
+              "title": "Obligations of customs officers and police officers",
+              "path": "part-4/division-2/57.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Division 4 — Information about reporting obligations",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "61",
+              "title": "Power to affix notices about reporting obligations",
+              "path": "part-4/division-4/61.md"
+            },
+            {
+              "id": "62",
+              "title": "Notice about reporting obligations to be given to travellers to",
+              "path": "part-4/division-4/62.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Part 5 — Electronic funds transfer instructions",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Division 1 — Introduction",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "63",
+              "title": "Simplified outline",
+              "path": "part-5/division-1/63.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Division 2 — 2 or more institutions involved in the transfer",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "64",
+              "title": "Electronic funds transfer instructions—2 or more institutions involved in the transfer",
+              "path": "part-5/division-2/64.md"
+            },
+            {
+              "id": "65",
+              "title": "Request to include customer information in certain international electronic funds transfer instructions",
+              "path": "part-5/division-2/65.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Division 3 — Only one institution involved in the transfer",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "66",
+              "title": "Electronic funds transfer instructions—only one institution involved in the transfer",
+              "path": "part-5/division-3/66.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Division 4 — General provisions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "67",
+              "title": "Exemptions",
+              "path": "part-5/division-4/67.md"
+            },
+            {
+              "id": "68",
+              "title": "Defence of relying on information supplied by another person",
+              "path": "part-5/division-4/68.md"
+            },
+            {
+              "id": "69",
+              "title": "Division 400 and Chapter 5 of the Criminal Code",
+              "path": "part-5/division-4/69.md"
+            },
+            {
+              "id": "70",
+              "title": "Required transfer information",
+              "path": "part-5/division-4/70.md"
+            },
+            {
+              "id": "71",
+              "title": "Complete payer information",
+              "path": "part-5/division-4/71.md"
+            },
+            {
+              "id": "72",
+              "title": "Tracing information",
+              "path": "part-5/division-4/72.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Part 6 — The Remittance Sector Register",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Division 1 — Simplified outline",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "73",
+              "title": "Simplified outline",
+              "path": "part-6/division-1/73.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Division 2 — Restrictions on providing certain remittance services",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "74",
+              "title": "Unregistered persons must not provide certain remittance services",
+              "path": "part-6/division-2/74.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Division 3 — Registration of persons",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "75",
+              "title": "Remittance Sector Register",
+              "path": "part-6/division-3/75.md"
+            },
+            {
+              "id": "75A",
+              "title": "Information to be entered on the Remittance Sector Register",
+              "path": "part-6/division-3/75A.md"
+            },
+            {
+              "id": "75B",
+              "title": "Applications for registration",
+              "path": "part-6/division-3/75B.md"
+            },
+            {
+              "id": "75C",
+              "title": "Registration by AUSTRAC CEO",
+              "path": "part-6/division-3/75C.md"
+            },
+            {
+              "id": "75D",
+              "title": "Spent convictions scheme",
+              "path": "part-6/division-3/75D.md"
+            },
+            {
+              "id": "75E",
+              "title": "Registration may be subject to conditions",
+              "path": "part-6/division-3/75E.md"
+            },
+            {
+              "id": "75F",
+              "title": "When registration of a person ceases",
+              "path": "part-6/division-3/75F.md"
+            },
+            {
+              "id": "75G",
+              "title": "Cancellation of registration",
+              "path": "part-6/division-3/75G.md"
+            },
+            {
+              "id": "75H",
+              "title": "Suspension of registration",
+              "path": "part-6/division-3/75H.md"
+            },
+            {
+              "id": "75J",
+              "title": "Renewal of registration",
+              "path": "part-6/division-3/75J.md"
+            },
+            {
+              "id": "75K",
+              "title": "Removal of entries from the Remittance Sector Register",
+              "path": "part-6/division-3/75K.md"
+            },
+            {
+              "id": "75L",
+              "title": "AML/CTF Rules—general provision",
+              "path": "part-6/division-3/75L.md"
+            },
+            {
+              "id": "75M",
+              "title": "Registered persons to advise of material changes in circumstance etc.",
+              "path": "part-6/division-3/75M.md"
+            },
+            {
+              "id": "75N",
+              "title": "AUSTRAC CEO may request further information",
+              "path": "part-6/division-3/75N.md"
+            },
+            {
+              "id": "75P",
+              "title": "Immunity from suit",
+              "path": "part-6/division-3/75P.md"
+            },
+            {
+              "id": "75Q",
+              "title": "Steps to be taken by AUSTRAC CEO before making certain reviewable decisions",
+              "path": "part-6/division-3/75Q.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Division 5 — Basis of registration",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "75T",
+              "title": "Basis of registration",
+              "path": "part-6/division-5/75T.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6A",
+      "title": "Part 6A — The Digital Currency Exchange Register",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Division 1 — Simplified outline",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "76",
+              "title": "Simplified outline",
+              "path": "part-6A/division-1/76.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Division 2 — Restrictions on providing digital currency exchange services",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "76A",
+              "title": "Unregistered persons must not provide certain digital currency exchange services",
+              "path": "part-6A/division-2/76A.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Division 3 — Registration of persons",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "76B",
+              "title": "Digital Currency Exchange Register",
+              "path": "part-6A/division-3/76B.md"
+            },
+            {
+              "id": "76C",
+              "title": "Information to be entered on the Digital Currency Exchange Register",
+              "path": "part-6A/division-3/76C.md"
+            },
+            {
+              "id": "76D",
+              "title": "Applications for registration",
+              "path": "part-6A/division-3/76D.md"
+            },
+            {
+              "id": "76E",
+              "title": "Registration by AUSTRAC CEO",
+              "path": "part-6A/division-3/76E.md"
+            },
+            {
+              "id": "76F",
+              "title": "Spent convictions scheme",
+              "path": "part-6A/division-3/76F.md"
+            },
+            {
+              "id": "76G",
+              "title": "Registration may be subject to conditions",
+              "path": "part-6A/division-3/76G.md"
+            },
+            {
+              "id": "76H",
+              "title": "When registration of a person ceases",
+              "path": "part-6A/division-3/76H.md"
+            },
+            {
+              "id": "76J",
+              "title": "Cancellation of registration",
+              "path": "part-6A/division-3/76J.md"
+            },
+            {
+              "id": "76K",
+              "title": "Suspension of registration",
+              "path": "part-6A/division-3/76K.md"
+            },
+            {
+              "id": "76L",
+              "title": "Renewal of registration",
+              "path": "part-6A/division-3/76L.md"
+            },
+            {
+              "id": "76M",
+              "title": "Removal of entries from the Digital Currency Exchange Register",
+              "path": "part-6A/division-3/76M.md"
+            },
+            {
+              "id": "76N",
+              "title": "AML/CTF Rules—general provision",
+              "path": "part-6A/division-3/76N.md"
+            },
+            {
+              "id": "76P",
+              "title": "Registered persons to advise of material changes in circumstance etc.",
+              "path": "part-6A/division-3/76P.md"
+            },
+            {
+              "id": "76Q",
+              "title": "AUSTRAC CEO may request further information",
+              "path": "part-6A/division-3/76Q.md"
+            },
+            {
+              "id": "76R",
+              "title": "Immunity from suit",
+              "path": "part-6A/division-3/76R.md"
+            },
+            {
+              "id": "76S",
+              "title": "Steps to be taken by AUSTRAC CEO before making certain reviewable decisions",
+              "path": "part-6A/division-3/76S.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Division 4 — Basis of registration",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "76T",
+              "title": "Basis of registration",
+              "path": "part-6A/division-4/76T.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Part 7 — Anti-money laundering and counter-terrorism financing programs",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Division 1 — Introduction",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "80",
+              "title": "Simplified outline",
+              "path": "part-7/division-1/80.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Division 2 — Reporting entity’s obligations",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "81",
+              "title": "Reporting entity must have an anti-money laundering and counter-terrorism financing program",
+              "path": "part-7/division-2/81.md"
+            },
+            {
+              "id": "82",
+              "title": "Compliance with Part A of an anti-money laundering and counter-terrorism financing program",
+              "path": "part-7/division-2/82.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Division 3 — Anti-money laundering and counter-terrorism financing programs",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "83",
+              "title": "Anti-money laundering and counter-terrorism financing programs",
+              "path": "part-7/division-3/83.md"
+            },
+            {
+              "id": "84",
+              "title": "Standard anti-money laundering and counter-terrorism financing program",
+              "path": "part-7/division-3/84.md"
+            },
+            {
+              "id": "85",
+              "title": "Joint anti-money laundering and counter-terrorism financing program",
+              "path": "part-7/division-3/85.md"
+            },
+            {
+              "id": "86",
+              "title": "Special anti-money laundering and counter-terrorism financing program",
+              "path": "part-7/division-3/86.md"
+            },
+            {
+              "id": "87",
+              "title": "Revocation of adoption of anti-money laundering and counter-terrorism financing program",
+              "path": "part-7/division-3/87.md"
+            },
+            {
+              "id": "88",
+              "title": "Different applicable customer identification procedures",
+              "path": "part-7/division-3/88.md"
+            },
+            {
+              "id": "89",
+              "title": "Applicable customer identification procedures—agent of customer",
+              "path": "part-7/division-3/89.md"
+            },
+            {
+              "id": "90",
+              "title": "Applicable customer identification procedures—customers other than individuals",
+              "path": "part-7/division-3/90.md"
+            },
+            {
+              "id": "91",
+              "title": "Applicable customer identification procedures—disclosure certificates",
+              "path": "part-7/division-3/91.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Division 4 — Other provisions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "92",
+              "title": "Request to obtain information from a customer",
+              "path": "part-7/division-4/92.md"
+            },
+            {
+              "id": "93",
+              "title": "Exemptions",
+              "path": "part-7/division-4/93.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Part 8 — Correspondent banking",
+      "divisions": [
+        {
+          "id": "8",
+          "title": "Part 8—Correspondent banking",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "94",
+              "title": "Simplified outline of this Part",
+              "path": "part-8/division-8/94.md"
+            },
+            {
+              "id": "95",
+              "title": "Prohibitions on correspondent banking relationships involving shell banks",
+              "path": "part-8/division-8/95.md"
+            },
+            {
+              "id": "96",
+              "title": "Due diligence assessments and records of correspondent banking relationships",
+              "path": "part-8/division-8/96.md"
+            },
+            {
+              "id": "100",
+              "title": "Geographical links",
+              "path": "part-8/division-8/100.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Part 9 — Countermeasures",
+      "divisions": [
+        {
+          "id": "9",
+          "title": "Part 9—Countermeasures",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "101",
+              "title": "Simplified outline",
+              "path": "part-9/division-9/101.md"
+            },
+            {
+              "id": "102",
+              "title": "Countermeasures",
+              "path": "part-9/division-9/102.md"
+            },
+            {
+              "id": "103",
+              "title": "Sunsetting of regulations after 2 years",
+              "path": "part-9/division-9/103.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Part 10 — Record-keeping requirements",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Division 1 — Introduction",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "104",
+              "title": "Simplified outline",
+              "path": "part-10/division-1/104.md"
+            },
+            {
+              "id": "105",
+              "title": "Privacy Act not overridden by this Part",
+              "path": "part-10/division-1/105.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Division 2 — Records of transactions etc.",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "106",
+              "title": "Records of designated services",
+              "path": "part-10/division-2/106.md"
+            },
+            {
+              "id": "107",
+              "title": "Transaction records to be retained",
+              "path": "part-10/division-2/107.md"
+            },
+            {
+              "id": "108",
+              "title": "Customer-provided transaction documents to be retained",
+              "path": "part-10/division-2/108.md"
+            },
+            {
+              "id": "109",
+              "title": "Records relating to transferred ADI accounts",
+              "path": "part-10/division-2/109.md"
+            },
+            {
+              "id": "110",
+              "title": "Retention of records relating to closed ADI accounts",
+              "path": "part-10/division-2/110.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Division 3 — Records in connection with the carrying out of identification procedures",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "111",
+              "title": "Copying documents obtained in the course of carrying out an applicable custom identification procedure",
+              "path": "part-10/division-3/111.md"
+            },
+            {
+              "id": "112",
+              "title": "Making of records of identification procedures",
+              "path": "part-10/division-3/112.md"
+            },
+            {
+              "id": "113",
+              "title": "Retention of records of identification procedures",
+              "path": "part-10/division-3/113.md"
+            },
+            {
+              "id": "114",
+              "title": "Retention of information if identification procedures taken to have been carried out by a reporting entity",
+              "path": "part-10/division-3/114.md"
+            },
+            {
+              "id": "114A",
+              "title": "Retention of records of assessments of agreements or arrangements covered by section 37A",
+              "path": "part-10/division-3/114A.md"
+            },
+            {
+              "id": "114B",
+              "title": "Retention of records made or obtained under the repealed Financial Transaction Reports Act 1988",
+              "path": "part-10/division-3/114B.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Division 4 — Records about electronic funds transfer instructions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "115",
+              "title": "Retention of records about electronic funds transfer instructions",
+              "path": "part-10/division-4/115.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Division 5 — Records about anti-money laundering and counter-terrorism financing programs",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "116",
+              "title": "Records about anti-money laundering and counter-terrorism financing programs",
+              "path": "part-10/division-5/116.md"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Division 6 — Records about correspondent banking relationships",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "117",
+              "title": "Retention of records about correspondent banking relationships",
+              "path": "part-10/division-6/117.md"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Division 7 — General provisions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "118",
+              "title": "Exemptions",
+              "path": "part-10/division-7/118.md"
+            },
+            {
+              "id": "119",
+              "title": "This Part does not limit any other obligations",
+              "path": "part-10/division-7/119.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Part 11 — Secrecy and access",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Division 1 — Introduction",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "120",
+              "title": "Simplified outline of this Part",
+              "path": "part-11/division-1/120.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Division 2 — AUSTRAC entrusted persons",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "121",
+              "title": "Offence—AUSTRAC entrusted persons",
+              "path": "part-11/division-2/121.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Division 3 — Protection of information given under Part 3",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "123",
+              "title": "Offence of tipping off",
+              "path": "part-11/division-3/123.md"
+            },
+            {
+              "id": "124",
+              "title": "Report and information not admissible",
+              "path": "part-11/division-3/124.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Division 4 — Access to AUSTRAC information by Commonwealth, State or Territory agencies",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "125",
+              "title": "Access to AUSTRAC information",
+              "path": "part-11/division-4/125.md"
+            },
+            {
+              "id": "126",
+              "title": "Dealings with AUSTRAC information",
+              "path": "part-11/division-4/126.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Division 5 — Disclosure of AUSTRAC information to foreign countries or agencies",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "127",
+              "title": "Disclosure of AUSTRAC information to foreign countries or agencies",
+              "path": "part-11/division-5/127.md"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Division 6 — Unauthorised accessing of or use or disclosure of AUSTRAC information",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "128",
+              "title": "Unauthorised accessing of AUSTRAC information",
+              "path": "part-11/division-6/128.md"
+            },
+            {
+              "id": "129",
+              "title": "Use or disclosure of AUSTRAC information disclosed in contravention of this Part",
+              "path": "part-11/division-6/129.md"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Division 7 — Use of AUSTRAC information in court or tribunal proceedings",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "134",
+              "title": "Use of AUSTRAC information in court or tribunal proceedings",
+              "path": "part-11/division-7/134.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Part 12 — Offences",
+      "divisions": [
+        {
+          "id": "12",
+          "title": "Part 12—Offences",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "135",
+              "title": "Simplified outline",
+              "path": "part-12/division-12/135.md"
+            },
+            {
+              "id": "136",
+              "title": "False or misleading information",
+              "path": "part-12/division-12/136.md"
+            },
+            {
+              "id": "137",
+              "title": "Producing false or misleading documents",
+              "path": "part-12/division-12/137.md"
+            },
+            {
+              "id": "138",
+              "title": "False documents",
+              "path": "part-12/division-12/138.md"
+            },
+            {
+              "id": "139",
+              "title": "Providing a designated service using a false customer name or customer anonymity",
+              "path": "part-12/division-12/139.md"
+            },
+            {
+              "id": "140",
+              "title": "Receiving a designated service using a false customer name or customer anonymity",
+              "path": "part-12/division-12/140.md"
+            },
+            {
+              "id": "141",
+              "title": "Customer commonly known by 2 or more different names—disclosure to reporting entity",
+              "path": "part-12/division-12/141.md"
+            },
+            {
+              "id": "142",
+              "title": "Conducting transactions so as to avoid reporting requirements relating to threshold transactions",
+              "path": "part-12/division-12/142.md"
+            },
+            {
+              "id": "143",
+              "title": "Conducting transfers to avoid reporting requirements relating to cross-border movements of monetary instruments",
+              "path": "part-12/division-12/143.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Part 13 — Audit",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Division 1 — Introduction",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "144",
+              "title": "Simplified outline",
+              "path": "part-13/division-1/144.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Division 2 — Appointment of authorised officers and issue of identity cards",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "145",
+              "title": "Appointment of authorised officers",
+              "path": "part-13/division-2/145.md"
+            },
+            {
+              "id": "146",
+              "title": "Identity cards",
+              "path": "part-13/division-2/146.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Division 3 — Powers of authorised officers",
+          "subdivisions": [
+            {
+              "id": "A",
+              "title": "Subdivision A — Monitoring powers",
+              "sections": [
+                {
+                  "id": "147",
+                  "title": "Authorised officer may enter premises by consent or under a monitoring warrant",
+                  "path": "part-13/division-3/147.md"
+                },
+                {
+                  "id": "148",
+                  "title": "Monitoring powers of authorised officers",
+                  "path": "part-13/division-3/148.md"
+                },
+                {
+                  "id": "149",
+                  "title": "Tampering or interfering with things secured in the exercise of monitoring powers",
+                  "path": "part-13/division-3/149.md"
+                }
+              ]
+            },
+            {
+              "id": "B",
+              "title": "Subdivision B — Powers of authorised officers to ask questions and seek production of documents",
+              "sections": [
+                {
+                  "id": "150",
+                  "title": "Authorised officer may ask questions and seek production of documents",
+                  "path": "part-13/division-3/150.md"
+                }
+              ]
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "4",
+          "title": "Division 4 — Obligations and incidental powers of authorised officers",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "151",
+              "title": "Authorised officer must produce identity card on request",
+              "path": "part-13/division-4/151.md"
+            },
+            {
+              "id": "152",
+              "title": "Consent",
+              "path": "part-13/division-4/152.md"
+            },
+            {
+              "id": "153",
+              "title": "Announcement before entry",
+              "path": "part-13/division-4/153.md"
+            },
+            {
+              "id": "154",
+              "title": "Details of monitoring warrant to be given to occupier etc. before entry",
+              "path": "part-13/division-4/154.md"
+            },
+            {
+              "id": "155",
+              "title": "Use of electronic equipment in exercising monitoring powers",
+              "path": "part-13/division-4/155.md"
+            },
+            {
+              "id": "156",
+              "title": "Compensation for damage to electronic equipment",
+              "path": "part-13/division-4/156.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Division 5 — Occupier’s rights and responsibilities",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "157",
+              "title": "Occupier entitled to be present during execution of monitoring warrant",
+              "path": "part-13/division-5/157.md"
+            },
+            {
+              "id": "158",
+              "title": "Occupier to provide authorised officer with facilities and assistance",
+              "path": "part-13/division-5/158.md"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Division 6 — Monitoring warrants",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "159",
+              "title": "Monitoring warrants",
+              "path": "part-13/division-6/159.md"
+            },
+            {
+              "id": "160",
+              "title": "Magistrates—personal capacity",
+              "path": "part-13/division-6/160.md"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Division 7 — External audits",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "161",
+              "title": "External audits—risk management etc.",
+              "path": "part-13/division-7/161.md"
+            },
+            {
+              "id": "162",
+              "title": "External audits—compliance",
+              "path": "part-13/division-7/162.md"
+            },
+            {
+              "id": "163",
+              "title": "External auditor may have regard to the results of previous audit",
+              "path": "part-13/division-7/163.md"
+            },
+            {
+              "id": "164",
+              "title": "External auditors",
+              "path": "part-13/division-7/164.md"
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "title": "Division 8 — Money laundering and terrorism financing risk assessments",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "165",
+              "title": "Money laundering and terrorism financing risk assessments",
+              "path": "part-13/division-8/165.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Part 14 — Information-gathering powers",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Division 1 — Introduction",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "166",
+              "title": "Simplified outline",
+              "path": "part-14/division-1/166.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Division 2 — Powers of authorised officers",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "167",
+              "title": "Authorised officer may obtain information and documents",
+              "path": "part-14/division-2/167.md"
+            },
+            {
+              "id": "168",
+              "title": "Copying documents—reasonable compensation",
+              "path": "part-14/division-2/168.md"
+            },
+            {
+              "id": "169",
+              "title": "Self-incrimination",
+              "path": "part-14/division-2/169.md"
+            },
+            {
+              "id": "170",
+              "title": "Copies of documents",
+              "path": "part-14/division-2/170.md"
+            },
+            {
+              "id": "171",
+              "title": "Authorised officer may retain documents",
+              "path": "part-14/division-2/171.md"
+            },
+            {
+              "id": "172",
+              "title": "Division 400 and Chapter 5 of the Criminal Code",
+              "path": "part-14/division-2/172.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Division 3 — Other powers to obtain information and documents",
+          "subdivisions": [
+            {
+              "id": "A",
+              "title": "Subdivision A — Examination of persons",
+              "sections": [
+                {
+                  "id": "172A",
+                  "title": "Power of AUSTRAC CEO to obtain information and documents",
+                  "path": "part-14/division-3/172A.md"
+                },
+                {
+                  "id": "172B",
+                  "title": "Proceedings at examination",
+                  "path": "part-14/division-3/172B.md"
+                },
+                {
+                  "id": "172C",
+                  "title": "Requirements made of persons appearing for examination",
+                  "path": "part-14/division-3/172C.md"
+                },
+                {
+                  "id": "172D",
+                  "title": "Examination to take place in private",
+                  "path": "part-14/division-3/172D.md"
+                },
+                {
+                  "id": "172E",
+                  "title": "Procedures for holding an examination",
+                  "path": "part-14/division-3/172E.md"
+                },
+                {
+                  "id": "172F",
+                  "title": "Examinee’s lawyer may attend",
+                  "path": "part-14/division-3/172F.md"
+                },
+                {
+                  "id": "172G",
+                  "title": "Record of examination",
+                  "path": "part-14/division-3/172G.md"
+                },
+                {
+                  "id": "172H",
+                  "title": "Giving to other persons copies of written record of examination",
+                  "path": "part-14/division-3/172H.md"
+                },
+                {
+                  "id": "172J",
+                  "title": "Copies of record of examination given subject to conditions",
+                  "path": "part-14/division-3/172J.md"
+                },
+                {
+                  "id": "172K",
+                  "title": "Self-incrimination",
+                  "path": "part-14/division-3/172K.md"
+                }
+              ]
+            },
+            {
+              "id": "B",
+              "title": "Subdivision B — Evidentiary use of certain material",
+              "sections": [
+                {
+                  "id": "172L",
+                  "title": "Statements made at an examination—proceedings against examinee",
+                  "path": "part-14/division-3/172L.md"
+                },
+                {
+                  "id": "172M",
+                  "title": "Statements made at an examination—other proceedings",
+                  "path": "part-14/division-3/172M.md"
+                },
+                {
+                  "id": "172N",
+                  "title": "Weight of evidence admitted under section 172M",
+                  "path": "part-14/division-3/172N.md"
+                },
+                {
+                  "id": "172P",
+                  "title": "Objection to admission of statements made at examination",
+                  "path": "part-14/division-3/172P.md"
+                },
+                {
+                  "id": "172Q",
+                  "title": "Material otherwise admissible",
+                  "path": "part-14/division-3/172Q.md"
+                }
+              ]
+            },
+            {
+              "id": "C",
+              "title": "Subdivision C — Miscellaneous",
+              "sections": [
+                {
+                  "id": "172R",
+                  "title": "Application of Crimes Act and Evidence Act",
+                  "path": "part-14/division-3/172R.md"
+                }
+              ]
+            }
+          ],
+          "sections": []
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Part 15 — Enforcement",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Division 1 — Introduction",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "173",
+              "title": "Simplified outline",
+              "path": "part-15/division-1/173.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Division 2 — Civil penalties",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "174",
+              "title": "Ancillary contravention of civil penalty provision",
+              "path": "part-15/division-2/174.md"
+            },
+            {
+              "id": "175",
+              "title": "Civil penalty orders",
+              "path": "part-15/division-2/175.md"
+            },
+            {
+              "id": "176",
+              "title": "Who may apply for a civil penalty order",
+              "path": "part-15/division-2/176.md"
+            },
+            {
+              "id": "177",
+              "title": "2 or more proceedings may be heard together",
+              "path": "part-15/division-2/177.md"
+            },
+            {
+              "id": "178",
+              "title": "Time limit for application for an order",
+              "path": "part-15/division-2/178.md"
+            },
+            {
+              "id": "179",
+              "title": "Civil evidence and procedure rules for civil penalty orders",
+              "path": "part-15/division-2/179.md"
+            },
+            {
+              "id": "180",
+              "title": "Civil proceedings after criminal proceedings",
+              "path": "part-15/division-2/180.md"
+            },
+            {
+              "id": "181",
+              "title": "Criminal proceedings during civil proceedings",
+              "path": "part-15/division-2/181.md"
+            },
+            {
+              "id": "182",
+              "title": "Criminal proceedings after civil proceedings",
+              "path": "part-15/division-2/182.md"
+            },
+            {
+              "id": "183",
+              "title": "Evidence given in proceedings for penalty not admissible in criminal proceedings",
+              "path": "part-15/division-2/183.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Division 3 — Infringement notices for certain contraventions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "184",
+              "title": "When an infringement notice can be given",
+              "path": "part-15/division-3/184.md"
+            },
+            {
+              "id": "185",
+              "title": "Matters to be included in an infringement notice",
+              "path": "part-15/division-3/185.md"
+            },
+            {
+              "id": "186A",
+              "title": "Amount of penalty—breaches of certain provisions of Part 3A, 4, 6 or 6A",
+              "path": "part-15/division-3/186A.md"
+            },
+            {
+              "id": "186B",
+              "title": "Amount of penalty—breaches of designated infringement notice provisions",
+              "path": "part-15/division-3/186B.md"
+            },
+            {
+              "id": "187",
+              "title": "Withdrawal of an infringement notice",
+              "path": "part-15/division-3/187.md"
+            },
+            {
+              "id": "188",
+              "title": "What happens if the penalty is paid",
+              "path": "part-15/division-3/188.md"
+            },
+            {
+              "id": "189",
+              "title": "Effect of this Division on criminal and civil proceedings",
+              "path": "part-15/division-3/189.md"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Division 4 — Monitoring of compliance",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "190",
+              "title": "Monitoring of compliance",
+              "path": "part-15/division-4/190.md"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Division 5 — Remedial directions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "191",
+              "title": "Remedial directions",
+              "path": "part-15/division-5/191.md"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Division 6 — Injunctions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "192",
+              "title": "Injunctions",
+              "path": "part-15/division-6/192.md"
+            },
+            {
+              "id": "193",
+              "title": "Interim injunctions",
+              "path": "part-15/division-6/193.md"
+            },
+            {
+              "id": "194",
+              "title": "Discharge etc. of injunctions",
+              "path": "part-15/division-6/194.md"
+            },
+            {
+              "id": "195",
+              "title": "Certain limits on granting injunctions not to apply",
+              "path": "part-15/division-6/195.md"
+            },
+            {
+              "id": "196",
+              "title": "Other powers of the Federal Court unaffected",
+              "path": "part-15/division-6/196.md"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Division 7 — Enforceable undertakings",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "197",
+              "title": "Acceptance of undertakings",
+              "path": "part-15/division-7/197.md"
+            },
+            {
+              "id": "198",
+              "title": "Enforcement of undertakings",
+              "path": "part-15/division-7/198.md"
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "title": "Division 8 — Powers of questioning, search and arrest for cross-border movements of monetary instruments",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "199",
+              "title": "Questioning and search powers in relation to monetary instruments",
+              "path": "part-15/division-8/199.md"
+            },
+            {
+              "id": "201",
+              "title": "Arrest without warrant",
+              "path": "part-15/division-8/201.md"
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "title": "Division 9 — Notices to reporting entities",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "202",
+              "title": "Notices to reporting entities",
+              "path": "part-15/division-9/202.md"
+            },
+            {
+              "id": "203",
+              "title": "Contents of notices to reporting entities",
+              "path": "part-15/division-9/203.md"
+            },
+            {
+              "id": "204",
+              "title": "Breaching a notice requirement",
+              "path": "part-15/division-9/204.md"
+            },
+            {
+              "id": "205",
+              "title": "Self-incrimination",
+              "path": "part-15/division-9/205.md"
+            },
+            {
+              "id": "206",
+              "title": "Division 400 and Chapter 5 of the Criminal Code",
+              "path": "part-15/division-9/206.md"
+            },
+            {
+              "id": "207",
+              "title": "Disclosing existence or nature of notice",
+              "path": "part-15/division-9/207.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Part 16 — Administration",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Division 1 — Introduction",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "208",
+              "title": "Simplified outline",
+              "path": "part-16/division-1/208.md"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Division 2 — Establishment and function of AUSTRAC",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "209",
+              "title": "Establishment of AUSTRAC",
+              "path": "part-16/division-2/209.md"
+            },
+            {
+              "id": "210",
+              "title": "Function of AUSTRAC",
+              "path": "part-16/division-2/210.md"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Division 3 — Chief Executive Officer of AUSTRAC",
+          "subdivisions": [
+            {
+              "id": "A",
+              "title": "Subdivision A — Office and functions of the AUSTRAC CEO",
+              "sections": [
+                {
+                  "id": "211",
+                  "title": "AUSTRAC CEO",
+                  "path": "part-16/division-3/211.md"
+                },
+                {
+                  "id": "212",
+                  "title": "Functions of the AUSTRAC CEO",
+                  "path": "part-16/division-3/212.md"
+                },
+                {
+                  "id": "213",
+                  "title": "Policy principles",
+                  "path": "part-16/division-3/213.md"
+                }
+              ]
+            },
+            {
+              "id": "B",
+              "title": "Subdivision B — Appointment of the AUSTRAC CEO etc.",
+              "sections": [
+                {
+                  "id": "214",
+                  "title": "Appointment of the AUSTRAC CEO etc.",
+                  "path": "part-16/division-3/214.md"
+                },
+                {
+                  "id": "215",
+                  "title": "Remuneration and allowances of the AUSTRAC CEO",
+                  "path": "part-16/division-3/215.md"
+                },
+                {
+                  "id": "216",
+                  "title": "Leave of absence of the AUSTRAC CEO",
+                  "path": "part-16/division-3/216.md"
+                },
+                {
+                  "id": "217",
+                  "title": "Resignation of the AUSTRAC CEO",
+                  "path": "part-16/division-3/217.md"
+                },
+                {
+                  "id": "219",
+                  "title": "Termination of the AUSTRAC CEO’s appointment",
+                  "path": "part-16/division-3/219.md"
+                },
+                {
+                  "id": "220",
+                  "title": "Other terms and conditions",
+                  "path": "part-16/division-3/220.md"
+                },
+                {
+                  "id": "221",
+                  "title": "Acting appointments",
+                  "path": "part-16/division-3/221.md"
+                },
+                {
+                  "id": "222",
+                  "title": "Delegation by the AUSTRAC CEO",
+                  "path": "part-16/division-3/222.md"
+                },
+                {
+                  "id": "223",
+                  "title": "Secretary may require the AUSTRAC CEO to give information",
+                  "path": "part-16/division-3/223.md"
+                }
+              ]
+            }
+          ],
+          "sections": []
+        },
+        {
+          "id": "4",
+          "title": "Division 4 — Staff of AUSTRAC etc.",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "224",
+              "title": "Staff of AUSTRAC",
+              "path": "part-16/division-4/224.md"
+            },
+            {
+              "id": "225",
+              "title": "Consultants and persons seconded to AUSTRAC",
+              "path": "part-16/division-4/225.md"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Division 6 — Directions by Minister",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "228",
+              "title": "Directions by Minister",
+              "path": "part-16/division-6/228.md"
+            }
+          ]
+        },
+        {
+          "id": "6A",
+          "title": "Division 6A — AUSTRAC CEO may use computers to take administrative action",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "228A",
+              "title": "AUSTRAC CEO may use computers to take administrative action",
+              "path": "part-16/division-6A/228A.md"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Division 7 — AML/CTF Rules",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "229",
+              "title": "AML/CTF Rules",
+              "path": "part-16/division-7/229.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Part 17 — Vicarious liability",
+      "divisions": [
+        {
+          "id": "17",
+          "title": "Part 17—Vicarious liability",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "230",
+              "title": "Simplified outline",
+              "path": "part-17/division-17/230.md"
+            },
+            {
+              "id": "231",
+              "title": "Criminal liability of corporations",
+              "path": "part-17/division-17/231.md"
+            },
+            {
+              "id": "232",
+              "title": "Civil liability of corporations",
+              "path": "part-17/division-17/232.md"
+            },
+            {
+              "id": "233",
+              "title": "Liability of persons other than corporations",
+              "path": "part-17/division-17/233.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17A",
+      "title": "Part 17A — Review of decisions",
+      "divisions": [
+        {
+          "id": "17A",
+          "title": "Part 17A—Review of decisions",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "233A",
+              "title": "Simplified outline",
+              "path": "part-17A/division-17A/233A.md"
+            },
+            {
+              "id": "233B",
+              "title": "Reviewable decisions",
+              "path": "part-17A/division-17A/233B.md"
+            },
+            {
+              "id": "233C",
+              "title": "Giving notice of reviewable decisions",
+              "path": "part-17A/division-17A/233C.md"
+            },
+            {
+              "id": "233D",
+              "title": "Applications for reconsideration of decisions made by delegates of the AUSTRAC CEO",
+              "path": "part-17A/division-17A/233D.md"
+            },
+            {
+              "id": "233E",
+              "title": "Reconsideration of reviewable decisions",
+              "path": "part-17A/division-17A/233E.md"
+            },
+            {
+              "id": "233F",
+              "title": "Review by the Administrative Review Tribunal",
+              "path": "part-17A/division-17A/233F.md"
+            },
+            {
+              "id": "233G",
+              "title": "Failure to comply does not affect validity",
+              "path": "part-17A/division-17A/233G.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Part 18 — Miscellaneous",
+      "divisions": [
+        {
+          "id": "18",
+          "title": "Part 18—Miscellaneous",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "234",
+              "title": "Simplified outline",
+              "path": "part-18/division-18/234.md"
+            },
+            {
+              "id": "235",
+              "title": "Protection from liability",
+              "path": "part-18/division-18/235.md"
+            },
+            {
+              "id": "236",
+              "title": "Defence of taking reasonable precautions, and exercising due diligence, to avoid a contravention",
+              "path": "part-18/division-18/236.md"
+            },
+            {
+              "id": "237",
+              "title": "Treatment of partnerships",
+              "path": "part-18/division-18/237.md"
+            },
+            {
+              "id": "238",
+              "title": "Treatment of unincorporated associations",
+              "path": "part-18/division-18/238.md"
+            },
+            {
+              "id": "239",
+              "title": "Treatment of trusts with multiple trustees",
+              "path": "part-18/division-18/239.md"
+            },
+            {
+              "id": "240",
+              "title": "Concurrent operation of State and Territory laws",
+              "path": "part-18/division-18/240.md"
+            },
+            {
+              "id": "241",
+              "title": "Act not to limit other powers",
+              "path": "part-18/division-18/241.md"
+            },
+            {
+              "id": "242",
+              "title": "Law relating to legal professional privilege not affected",
+              "path": "part-18/division-18/242.md"
+            },
+            {
+              "id": "243",
+              "title": "Validity of transactions",
+              "path": "part-18/division-18/243.md"
+            },
+            {
+              "id": "244",
+              "title": "Reports to the AUSTRAC CEO etc.",
+              "path": "part-18/division-18/244.md"
+            },
+            {
+              "id": "245",
+              "title": "Arrangements with Governors of States etc.",
+              "path": "part-18/division-18/245.md"
+            },
+            {
+              "id": "246",
+              "title": "This Act does not limit other information-gathering powers",
+              "path": "part-18/division-18/246.md"
+            },
+            {
+              "id": "247",
+              "title": "General exemptions",
+              "path": "part-18/division-18/247.md"
+            },
+            {
+              "id": "248",
+              "title": "Exemptions and modifications by the AUSTRAC CEO",
+              "path": "part-18/division-18/248.md"
+            },
+            {
+              "id": "249",
+              "title": "Specification by class",
+              "path": "part-18/division-18/249.md"
+            },
+            {
+              "id": "250",
+              "title": "Schedule 1 (alternative constitutional basis)",
+              "path": "part-18/division-18/250.md"
+            },
+            {
+              "id": "251",
+              "title": "Review of operation of Act",
+              "path": "part-18/division-18/251.md"
+            },
+            {
+              "id": "252",
+              "title": "Regulations",
+              "path": "part-18/division-18/252.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schedule-1",
+      "title": "Schedule 1—Alternative constitutional basis",
+      "divisions": [
+        {
+          "id": "1",
+          "title": "Schedule 1—Alternative constitutional basis",
+          "subdivisions": [],
+          "sections": [
+            {
+              "id": "1",
+              "title": "Alternative constitutional basis",
+              "path": "part-schedule-1/division-1/1.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2389 @@
+REGULATORY GUIDE 46
+
+Unlisted property schemes:
+Improving disclosure for
+retail investors
+
+March 2012
+
+
+
+
+About this guide
+This is a guide for responsible entities, compliance committees, compliance
+plan auditors and others involved with the issue of interests in unlisted
+property schemes.
+
+It sets out principles for improved disclosure to retail investors to help them
+compare risks and returns across investments in the unlisted property
+sector.
+                                      REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+                             Document history
+                             This version was issued in March 2012 and is based on legislation and
+                             regulations as at the date of issue.
+
+                             Previous version:
+                                    Superseded Regulatory Guide 46 issued in September 2008
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                          Page 2
+                                     REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+Contents
+                             A      Overview .................................................................................................4
+                                    Who this guide applies to .........................................................................4
+                                    The need for improved disclosure ...........................................................5
+                                    Benchmarks and disclosure principles for unlisted property schemes ....5
+                                    Form and method of disclosure ...............................................................7
+                                    Advertising ...............................................................................................7
+                                    Compliance plans ....................................................................................7
+                             B      The unlisted property scheme sector and improved disclosure ......8
+                                    Business models of unlisted property schemes ......................................8
+                                    Risks to investors .....................................................................................9
+                                    Improving disclosure for investors .........................................................11
+                             C      Benchmarks for unlisted property schemes ....................................12
+                                    Disclosure against the benchmarks: ‘If not, why not’ ............................12
+                                    Benchmark 1: Gearing policy.................................................................13
+                                    Benchmark 2: Interest cover policy .......................................................13
+                                    Benchmark 3: Interest capitalisation ......................................................14
+                                    Benchmark 4: Valuation policy ..............................................................14
+                                    Benchmark 5: Related party transactions ..............................................16
+                                    Benchmark 6: Distribution practices ......................................................17
+                             D      Disclosure principles for unlisted property schemes .....................18
+                                    Disclosure Principle 1: Gearing ratio .....................................................18
+                                    Disclosure Principle 2: Interest cover ratio ............................................20
+                                    Disclosure Principle 3: Scheme borrowing ............................................21
+                                    Disclosure Principle 4: Portfolio diversification ......................................23
+                                    Disclosure Principle 5: Related party transactions ................................25
+                                    Disclosure Principle 6: Distribution practices .........................................26
+                                    Disclosure Principle 7: Withdrawal arrangements .................................27
+                                    Disclosure Principle 8: Net tangible assets ...........................................28
+                             E      Form and method of disclosure .........................................................30
+                                    The disclosure framework ......................................................................30
+                                    Timing for implementing improved disclosure .......................................31
+                                    Disclosure in a PDS or supplementary PDS .........................................32
+                                    Updating existing investors ....................................................................34
+                                    Ongoing disclosure ................................................................................35
+                                    Omitting disclosure principle information when misleading ...................38
+                                    ASIC review of PDSs and ongoing disclosure.......................................38
+                             F      Advertising ...........................................................................................39
+                                    Consistency with PDS ...........................................................................39
+                                    Use of investment ratings ......................................................................39
+                             G      Compliance plans ................................................................................40
+                                    The compliance plan ..............................................................................40
+                                    Compliance committees ........................................................................41
+                                    Compliance plan auditors ......................................................................42
+                             Key terms .....................................................................................................43
+                             Related information .....................................................................................45
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                                          Page 3
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+A          Overview
+                               Key points
+
+                               This guide applies to unlisted property schemes in which retail investors
+                               have a direct or indirect investment: see RG 46.1–RG 46.4.
+
+                               ASIC has developed six benchmarks and eight disclosure principles for
+                               unlisted property schemes that can help retail investors understand the
+                               risks, assess the rewards being offered and decide whether these
+                               investments are suitable for them: see RG 46.8–RG 46.10.
+
+                               Responsible entities of unlisted property schemes offered to retail investors or
+                               in which retail investors have invested should:
+                                  disclose against the benchmarks on an ‘if not, why not’ basis (see
+                                  Section C); and
+                                  apply the disclosure principles (see Section D).
+
+                               This information should be included in any Product Disclosure Statements
+                               (PDSs) and ongoing disclosure for these schemes issued on or after 1
+                               November 2012. The information should be communicated in the most
+                               effective way possible (e.g. by website or regular updates): see Section E.
+
+                               We have also provided guidance for advertising of all unlisted property
+                               schemes to retail investors: see Section F.
+
+                               Those involved with unlisted property schemes (e.g. compliance committees,
+                               compliance plan auditors and valuers) should consider these disclosure and
+                               advertising obligations when carrying out their responsibilities: see Section G.
+
+
+
+
+Who this guide applies to
+
+                             Unlisted property schemes
+
+              RG 46.1        For the purposes of this guide, an ‘unlisted property scheme’ is an unlisted
+                             managed investment scheme that has or is likely to have at least 50% of its
+                             non-cash assets invested in real property and/or in unlisted property
+                             schemes.
+
+                                   Note: Infrastructure assets are not ‘real property’ for the purposes of the above
+                                   definition. Examples of infrastructure assets are roads, railways, ports, airports and
+                                   other transport facilities, and facilities for telecommunications, electricity generation,
+                                   transmission and distribution, gas transmission and distribution, water supply and
+                                   sewerage. Responsible entities of infrastructure schemes should refer to Regulatory
+                                   Guide 231 Infrastructure entities: Improving disclosure to retail investors (RG 231)
+                                   when considering their disclosure obligations.
+
+              RG 46.2        This guide applies to registered unlisted property schemes in which retail
+                             investors invest directly or indirectly (e.g. through an investor directed
+                             portfolio service).
+
+
+
+© Australian Securities and Investments Commission March 2012                                                            Page 4
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+              RG 46.3        This guide does not apply to:
+                             (a)   listed property schemes;
+                             (b)   property securities funds whose only exposure to property is through
+                                   investments in listed property schemes;
+                             (c)   property schemes that do not have any direct or indirect investment by
+                                   retail investors; or
+                             (d)   serviced strata schemes or timeshare schemes.
+
+
+                             Hybrid schemes
+
+              RG 46.4        This guide may apply to hybrid property schemes (schemes that invest in
+                             both property and other non-cash assets), depending on the scheme’s
+                             proportion of assets in direct real property or unlisted property schemes.
+
+
+
+The need for improved disclosure
+              RG 46.5        Unlisted property schemes often appeal to retail investors, who may believe
+                             that the investment offers capital stability and consistent ongoing returns that
+                             are not likely to vary significantly. This is not always the case and retail
+                             investors need better information on the risks associated with investment in
+                             unlisted property schemes: see RG 46.23–RG 46.24.
+
+              RG 46.6        Disclosure by unlisted property schemes on key issues affecting the
+                             assessment of risk and returns has at times been unclear, making it difficult
+                             for retail investors to compare investments. Responsible entities of unlisted
+                             property schemes need to improve their disclosure so that retail investors can
+                             assess the effect of changing economic conditions on their investment: see
+                             RG 46.25–RG 46.27.
+
+              RG 46.7        We have analysed the disclosure practices of property schemes in the context
+                             of the debt market turbulence that Australia has experienced since mid-2007:
+                             see RG 46.26. This analysis led us to develop benchmarks and disclosure
+                             principles designed to extract key risk and return information for retail
+                             investments in unlisted property schemes.
+
+
+
+Benchmarks and disclosure principles for unlisted property schemes
+              RG 46.8        We have developed six benchmarks and eight disclosure principles covering
+                             information that is key to analysing the risks associated with unlisted property
+                             schemes: see Table 1. Clear and prominent disclosure of the benchmark and
+                             disclosure principle information will allow retail investors to compare the
+                             relative risk and return of investments in unlisted property schemes.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                        Page 5
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+Table 1:    Benchmarks and disclosure principles for unlisted property schemes in which retail
+            investors invest
+
+ Gearing                        Benchmark 1 addresses a scheme’s policy on gearing at an individual credit
+                                facility level. Disclosure Principle 1 addresses disclosure of the gearing ratio of
+                                the scheme, the calculation of the ratio and its explanation.
+
+ Interest cover                 Benchmark 2 addresses a scheme’s policy on the level of interest cover at an
+                                individual credit facility level. Disclosure Principle 2 addresses disclosure of the
+                                interest cover ratio of the scheme, the calculation of the ratio and its explanation.
+
+ Interest capitalisation        Benchmark 3 addresses whether the interest expense of a scheme is
+                                capitalised.
+
+ Scheme borrowing               Disclosure Principle 3 addresses disclosure of the scheme’s credit facilities,
+                                including the circumstances in which credit facility covenants will be breached.
+
+ Portfolio diversification      Disclosure Principle 4 addresses disclosure of the scheme’s assets, including
+                                specific information about development assets.
+
+ Valuations                     Benchmark 4 addresses the way in which valuations are carried out by a
+                                responsible entity in relation to the scheme’s assets.
+
+ Related party                  Benchmark 5 addresses a responsible entity’s policy on related party
+ transactions                   transactions. Disclosure Principle 5 addresses disclosure about related party
+                                transactions.
+
+ Distribution practices         Benchmark 6 addresses a scheme’s practices for paying distributions from cash
+                                from operations available for distribution. Disclosure Principle 6 addresses where
+                                distributions are sourced from and whether forecast distributions are sustainable.
+
+ Withdrawal                     Disclosure Principle 7 addresses disclosure of the withdrawal arrangements
+ arrangements                   within the scheme and risk factors that may affect the unit price on withdrawal.
+
+ Net tangible assets            Disclosure Principle 8 addresses disclosure of the net tangible asset (NTA)
+                                backing per unit of the scheme.
+
+
+
+                             Disclosure against the benchmarks: ‘If not, why not’
+
+              RG 46.9        Responsible entities of unlisted property schemes offered to retail investors or
+                             in which retail investors have invested should disclose against the benchmarks
+                             in Section C on an ‘if not, why not’ basis: see RG 46.28–RG 46.30.
+
+
+                             Applying the disclosure principles
+
+              RG 46.10       The purpose of the disclosure principles in Section D is to improve the
+                             consistency and quality of disclosure by responsible entities of unlisted
+                             property schemes and to enhance consumer confidence. The disclosure
+                             principles cover information that retail investors reasonably need to know to
+                             make an informed decision about whether to invest and to monitor whether
+                             their expectations are being met.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                        Page 6
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+Form and method of disclosure
+              RG 46.11       We consider that the benchmark and disclosure principle information should
+                             be included in any Product Disclosure Statements (PDSs) and ongoing
+                             disclosure for unlisted property schemes issued on or after 1 November
+                             2012. After this date, we will review PDSs in use and ongoing disclosure for
+                             unlisted property schemes to check that the benchmark and disclosure
+                             principle information is adequately disclosed.
+
+              RG 46.12       For an explanation about why the benchmark and disclosure principle
+                             information should be included in PDSs and ongoing disclosure, how this
+                             information should be disclosed, when disclosure principle information can
+                             be omitted, how this information can be updated, and for more information
+                             on good practice for ongoing disclosure, see Section E.
+
+
+                             Transitional arrangements
+
+              RG 46.13       Until 1 November 2012, responsible entities should—at a minimum—
+                             continue to apply the disclosure principles that were in place under
+                             superseded RG 46 issued in September 2008 to any PDS or ongoing
+                             disclosure provided to investors in unlisted property schemes.
+
+                                   Note: We encourage responsible entities to disclose against the benchmarks and apply
+                                   the disclosure principles to new PDSs and ongoing disclosure before 1 November 2012
+                                   if possible.
+
+
+
+
+Advertising
+              RG 46.14       Advertisements for unlisted property schemes should be consistent with all
+                             corresponding disclosures in the PDS. See Section F for further guidance on
+                             advertising, including the use of investment ratings.
+
+
+
+Compliance plans
+              RG 46.15       Compliance plans for unlisted property schemes should set out adequate
+                             measures to ensure compliance with the law relating to disclosure and
+                             advertising obligations: see Section G. Compliance committees should also
+                             be aware of the benchmarks and disclosure principles, and monitor the
+                             responsible entity’s application of them.
+
+              RG 46.16       As part of their audit, compliance plan auditors should consider whether the
+                             compliance plan contains adequate measures to ensure compliance with the
+                             disclosure requirements of the Corporations Act 2001 (Corporations Act) in
+                             light of ASIC’s guidance on benchmarks and disclosure principles.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                        Page 7
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+B          The unlisted property scheme sector and
+           improved disclosure
+
+                               Key points
+
+                               The business models of unlisted property schemes tend to have some
+                               common features: see RG 46.17–RG 46.22. Some of these features can
+                               create risks for investors: see RG 46.23–RG 46.24.
+
+                               Clear disclosure can help investors make better informed decisions about
+                               these products. Improved disclosure is particularly important when
+                               economic volatility increases the risks associated with investments: see
+                               RG 46.25–RG 46.27.
+
+
+
+
+Business models of unlisted property schemes
+              RG 46.17       Understanding an unlisted property scheme’s business model can help
+                             investors to assess the potential risks and returns associated with the
+                             investment. We expect responsible entities to give investors adequate
+                             information on the scheme’s business model in a PDS: see RG 46.122.
+
+              RG 46.18       Some common features of unlisted property schemes include the following:
+                             (a)   The responsible entity raises funds by issuing interests in the scheme to
+                                   investors in exchange for money. This money is pooled and used by the
+                                   responsible entity on behalf of the scheme to invest a substantial
+                                   proportion of its assets directly in real property or to invest in other
+                                   unlisted property schemes.
+                             (b)   Investors have beneficial but not legal ownership in the property assets
+                                   in which the responsible entity chooses to invest.
+                             (c)   The return to investors is generally expected to be derived from rental
+                                   income from property owned by the scheme and from the net proceeds
+                                   the scheme receives if it sells the real property in which it has invested.
+                                   Property schemes may also make distributions from capital and/or
+                                   unrealised revaluation gains on the investment properties, provided that
+                                   cash is available within the fund or from borrowings.
+                             (d)   The value of an investor’s investment is subject to change depending on
+                                   the value of the property assets held by the scheme, which may
+                                   fluctuate from time to time.
+
+              RG 46.19       While unlisted property schemes should be considered as long-term
+                             investments, some schemes offer periodic withdrawal facilities whereby
+                             investors may withdraw some or all of their investments. Withdrawal
+                             facilities are usually subject to restrictions, such as pre-set limits or
+                             arrangements if withdrawal demands exceed the cash available.
+
+
+
+© Australian Securities and Investments Commission March 2012                                                        Page 8
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+              RG 46.20       Most unlisted property schemes are geared. In these cases, the ability of the
+                             scheme to repay debt principal and interest on time and meet all loan
+                             covenants is material to the performance and viability of the scheme.
+
+              RG 46.21       The underlying assets in unlisted property schemes are predominantly real
+                             property. A significant feature of real property is that it is a largely illiquid
+                             asset. It is not homogenous, it is not traded on an active market, and it has
+                             high transaction costs. This highlights the importance of disclosing and
+                             understanding the ability of the unlisted property scheme to service debt and
+                             interest from cash flows.
+
+              RG 46.22       A relatively small proportion of unlisted property schemes have significant
+                             property development assets. Investors in unlisted property schemes with
+                             property development assets are exposed to additional construction and
+                             development risks. Importantly, while cash outflows are required to fund the
+                             construction and development, the cash inflow on those assets does not
+                             occur until completion when the asset is available for rental or for sale.
+
+
+Risks to investors
+              RG 46.23       Unlisted property schemes are often attractive to retail investors, who may
+                             believe that they offer capital stability and consistent ongoing returns. This is
+                             not always the case and there are a number of common risks associated with
+                             investments in the unlisted property sector. These key risks, many of them
+                             relating to the scheme’s borrowings, are identified in Table 2.
+
+              RG 46.24       These risks do not affect all unlisted property schemes and are not unique to
+                             unlisted property schemes. However, disclosure relating to these risks is
+                             relevant for investors in unlisted property schemes. The benchmarks in
+                             Section C and disclosure principles in Section D address the risks so that
+                             investors can make more informed decisions about whether to invest in an
+                             unlisted property scheme, including comparing risks and returns across
+                             investments in the sector.
+
+Table 2:    Key risk features of unlisted property schemes
+
+ Risk feature        What this means
+
+ Gearing             A higher gearing ratio means a higher reliance on external liabilities (primarily borrowings) to
+                     fund assets. This exposes the scheme to increased funding costs if, for example, interest
+                     rates rise. A highly geared scheme has a lower asset buffer to rely on in times of financial
+                     stress. Disclosure by the responsible entity of its gearing policy, including at an individual
+                     credit facility level, helps investors to better understand the risks associated with the
+                     responsible entity’s approach to gearing.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                        Page 9
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+ Risk feature        What this means
+
+ Interest cover      A property scheme’s interest cover ratio is a key indicator of its financial health. The lower the
+                     interest cover, the higher the risk that the scheme will not be able to meet its interest
+                     expense. A scheme with a low interest cover ratio only needs a small reduction in earnings
+                     (or a small increase in interest rates or other expenses) to be unable to meet its interest
+                     expense. Disclosure by the responsible entity of its interest cover policy, including at an
+                     individual credit facility level, helps investors to better understand the risks associated with
+                     the responsible entity’s approach to gearing.
+
+ Interest            Interest capitalisation means the scheme is not required to make interest payments until an
+ capitalisation      agreed point in time. It generally applies in the context of development because the asset
+                     may not generate any income during development to meet any interest obligations under
+                     finance facilities. If the property cannot be sold for more than the credit facility, the investor
+                     will not receive any return as a result of the sale.
+
+ Scheme              Relatively short-term borrowings and credit facilities with short expiry dates are a risk factor if
+ borrowing           they are used to fund assets intended to be held long term.
+
+                     If the scheme has a significant proportion of its borrowings that mature within a short
+                     timeframe, it will need to refinance. There is a risk that the refinancing will be on less
+                     favourable terms or not available at all. If the scheme cannot refinance, it may need to sell
+                     assets on a forced sale basis with the risk that it may realise a capital loss.
+
+                     Breach of a loan covenant may result in penalties being applied, or the loan becoming
+                     repayable immediately. The scheme may need to refinance on less favourable terms or sell
+                     assets. Termination of critical financing could also mean the scheme is no longer viable.
+
+ Portfolio           Generally, the more diversified a portfolio is, the lower the risk that an adverse event affecting
+ diversification     one property or one lease will put the overall portfolio at risk. A concentration of development
+                     assets in a scheme exposes investors to increased risks involved in the development of
+                     property assets.
+
+ Valuation of real   Investing in a property scheme exposes investors to movements in the value of the scheme’s
+ property            assets. Investors therefore need information to assess the reliability of valuations. The more
+                     reliable a valuation, the more likely the asset will return that amount when it is sold. However,
+                     any forced sale is likely to result in a shortfall compared to the valuation unless the valuation
+                     has been made on a forced sale basis.
+
+ Related party       A conflict of interest may arise when property schemes invest in, or make loans or provide
+ transactions        guarantees to, related parties.
+
+ Distributions       Some property schemes make distributions partly or wholly from unrealised revaluation
+                     gains, capital, borrowings, or support facilities arranged by the responsible entity, rather than
+                     solely from cash from operations available for distribution. This may not be commercially
+                     sustainable over the longer term, particularly when property values are not increasing.
+
+ Withdrawal          Unlisted property schemes often have limited or no withdrawal rights. This means they are
+ rights              usually difficult to exit.
+
+ Net tangible        The net tangible asset (NTA) backing of a scheme gives investors information about the
+ assets              value of the tangible or physical assets of the scheme. The initial and ongoing NTA backing
+                     may be affected by various factors, including fees and charges paid up-front for the purchase
+                     of properties, costs associated with capital raising, or fees paid to the responsible entity or
+                     other parties.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 10
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+Improving disclosure for investors
+              RG 46.25       Unlisted property schemes are difficult to exit easily due to the illiquidity of
+                             the underlying assets and the limited withdrawal rights (when they are
+                             available). It is therefore important that investors have a good understanding
+                             of the true nature of unlisted property schemes and their associated risks
+                             before they decide to invest.
+
+              RG 46.26       We have observed that listed property schemes were more likely than
+                             unlisted property schemes to disclose information that is important to retail
+                             investors when comparing the risks and rewards of different schemes. Listed
+                             property schemes were also more likely to update investors on how global
+                             financial turbulence was affecting the scheme’s financial circumstances.
+
+              RG 46.27       In this context, we have developed six benchmarks and eight disclosure
+                             principles that responsible entities of unlisted property schemes should
+                             disclose against and apply in their up-front and ongoing disclosures for retail
+                             investors: see Sections C and D. Table 3 sets out our approach to improved
+                             disclosure for retail investors in these schemes.
+
+Table 3:    Our approach to improved disclosure for unlisted property schemes
+
+ Our approach                                                                             Related information
+
+ The benchmark and disclosure principle information will enable retail investors          See Sections C and D
+ to assess the risks and rewards of unlisted property schemes.
+
+ Responsible entities of unlisted property schemes should disclose against the            See Section E
+ benchmarks and apply the disclosure principles to the scheme’s PDS and
+ ongoing disclosure for retail investors.
+
+ Ongoing disclosure should be communicated to investors in the most effective             See Section E
+ way possible. Responsible entities should be particularly conscious of the need
+ to update investors with information on significant events that may affect their
+ investment.
+
+ Compliance plans for unlisted property schemes should set out adequate                   See Sections F and G
+ measures to ensure compliance with the law relating to disclosure and
+ advertising obligations. Compliance committees and compliance plan auditors
+ should be aware of the benchmarks and disclosure principles, and of the
+ advertising obligations, and monitor the responsible entity’s compliance with
+ the compliance plans and obligations under the Corporations Act.
+
+ Additional education will help retail investors use the benchmark and                    See our investor guide,
+ disclosure principle information when making investment decisions.                       Investing in property trusts?
+                                                                                          under ‘Publications’ at
+                                                                                          www.moneysmart.gov.au
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 11
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+C          Benchmarks for unlisted property schemes
+
+                               Key points
+
+                               All responsible entities of unlisted property schemes should disclose
+                               against the benchmarks on:
+                                   gearing policy (see RG 46.31–RG 46.35);
+                                   interest cover policy (see RG 46.36–RG 46.40);
+                                   interest capitalisation (see RG 46.41–RG 46.44);
+                                   valuation policy (see RG 46.45–RG 46.52);
+                                   related party transactions (see RG 46.53–RG 46.56); and
+                                   distribution practices (see RG 46.57–RG 46.61).
+                               Responsible entities should disclose whether the benchmark is ‘met’ or ‘not
+                               met’ on an ‘if not, why not’ basis: see RG 46.28–RG 46.30.
+                               This information should be disclosed clearly and prominently in the
+                               responsible entity’s PDS and ongoing disclosure: see Section E.
+
+
+
+Disclosure against the benchmarks: ‘If not, why not’
+              RG 46.28       Responsible entities of unlisted property schemes offered to retail investors
+                             and in which retail investors have invested should disclose against the
+                             benchmarks on an ‘if not, why not’ basis. This means providing a clear
+                             statement that the scheme either:
+                             (a)   meets the benchmark; or
+                             (b)   does not meet the benchmark and providing an explanation of how and
+                                   why the responsible entity deals with the business factor or issues
+                                   underlying the benchmark in another way.
+
+              RG 46.29       ‘Why not’ means explaining how a responsible entity deals with the business
+                             factor or issue underlying the benchmark, including the alternative systems
+                             and controls the responsible entity has in place to deal with the issue
+                             underlying the benchmark.
+
+              RG 46.30       If a benchmark contains multiple requirements, all elements of the
+                             benchmark and the required disclosure should be addressed (i.e. it is not
+                             usually sufficient to explain in general terms why a benchmark has not been
+                             met or to address only some aspects of a benchmark). Additionally,
+                             disclosure should be made on the basis that a benchmark is either ‘met’ or
+                             ‘not met’. If the benchmark is not fully met, the benchmark is regarded as
+                             ‘not met’ (rather than partially met) and there should be an explanation of
+                             why it is not met.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 12
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+Benchmark 1: Gearing policy
+              RG 46.31       The responsible entity maintains and complies with a written policy that
+                             governs the level of gearing at an individual credit facility level.
+
+
+                             Explanation
+
+              RG 46.32       Unlisted property schemes tend to use credit facilities to partly finance the
+                             purchase of properties. It is important for responsible entities to have
+                             policies in place that address the risks associated with these arrangements
+                             and to comply with these policies. It is also important for investors in these
+                             schemes to understand these policies.
+
+              RG 46.33       We consider that responsible entities of unlisted property schemes should
+                             disclose a gearing ratio for the scheme: see Disclosure Principle 1 at
+                             RG 46.62–RG 46.70. However, we recognise that disclosure of an overall
+                             gearing ratio for a scheme may not adequately highlight to investors the risks
+                             associated with different credit facilities within the scheme, or how the
+                             responsible entity addresses these risks. We consider that it is appropriate
+                             that investors understand whether the responsible entity monitors and
+                             manages the gearing levels of individual credit facilities within the scheme.
+
+
+                             ‘If not, why not’ disclosure
+
+              RG 46.34       If a responsible entity meets this benchmark, it should disclose its gearing
+                             policy and whether the scheme currently complies with this policy.
+
+              RG 46.35       If the benchmark is not met, the responsible entity should explain why not,
+                             and disclose the risks associated with the approach it has adopted.
+
+
+
+Benchmark 2: Interest cover policy
+              RG 46.36       The responsible entity maintains and complies with a written policy that
+                             governs the level of interest cover at an individual credit facility level.
+
+
+                             Explanation
+
+              RG 46.37       Another key aspect relating to credit facilities used by unlisted property
+                             schemes to finance the purchase of property is interest cover. It is important
+                             for responsible entities to have policies in place that address the risks
+                             associated with these arrangements and to comply with these policies. It is
+                             also important for investors in these schemes to understand these policies.
+
+              RG 46.38       We consider that responsible entities of unlisted property schemes should
+                             disclose an interest cover ratio for the scheme: see Disclosure Principle 2 at
+                             RG 46.71–RG 46.77. However, we recognise that disclosure of an overall
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 13
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+                             interest cover ratio for a scheme may not adequately highlight to investors
+                             the risks associated with the different credit facilities that may exist within
+                             the scheme, or how the responsible entity addresses these risks. We consider
+                             that it is appropriate that investors understand whether the responsible entity
+                             monitors and manages interest cover at an individual credit facility level.
+
+
+                             ‘If not, why not’ disclosure
+
+              RG 46.39       If a responsible entity meets this benchmark, it should disclose its interest
+                             cover policy and whether the scheme currently complies with this policy.
+
+              RG 46.40       If the benchmark is not met, the responsible entity should explain why not,
+                             and disclose the risks associated with the approach it has adopted.
+
+
+Benchmark 3: Interest capitalisation
+              RG 46.41       The interest expense of the scheme is not capitalised.
+
+
+                             Explanation
+
+              RG 46.42       We consider that when a scheme capitalises interest expense, it is important
+                             for investors to understand how the scheme will meet its interest obligations
+                             when deciding whether to invest in the scheme.
+
+
+                             ‘If not, why not’ disclosure
+
+              RG 46.43       If a responsible entity meets this benchmark, it should disclose that the
+                             interest expense of the scheme is not capitalised.
+
+              RG 46.44       If the benchmark is not met, the responsible entity should explain why not,
+                             and disclose the risks associated with the capitalisation of interest. It should
+                             also provide details about how it intends to meet its repayment obligations
+                             for any borrowing undertaken on behalf of the scheme.
+
+
+Benchmark 4: Valuation policy
+              RG 46.45       The responsible entity maintains and complies with a written valuation
+                             policy that requires:
+                             (a)   a valuer to:
+                                   (i)    be registered or licensed in the relevant state, territory or overseas
+                                          jurisdiction in which the property is located (where a registration or
+                                          licensing regime exists), or otherwise be a member of an
+                                          appropriate professional body in that jurisdiction; and
+                                   (ii)   be independent;
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 14
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+                             (b)   procedures to be followed for dealing with any conflicts of interest;
+                             (c)   rotation and diversity of valuers;
+                             (d)   valuations to be obtained in accordance with a set timetable; and
+                             (e)   for each property, an independent valuation to be obtained:
+                                   (i)    before the property is purchased:
+                                          (A)   for a development property, on an ‘as is’ and ‘as if complete’
+                                                basis; and
+                                          (B)   for all other property, on an ‘as is’ basis; and
+                                   (ii)   within two months after the directors form a view that there is a
+                                          likelihood that there has been a material change in the value of the
+                                          property.
+
+
+                             Explanation
+
+              RG 46.46       The value of real property assets can be volatile, particularly when access to
+                             credit is constrained and more properties are on the market. A significant fall
+                             in valuation will mean an increase in gearing ratio and may trigger a breach
+                             of loan covenants.
+
+              RG 46.47       Investors should be able to understand and compare how responsible entities
+                             value their schemes’ real property assets. This will help investors assess the
+                             reliability of the valuations.
+
+              RG 46.48       It is in the interests of investors that the valuations obtained and used by
+                             responsible entities are robust and accurate. Responsible entities are
+                             responsible for financial statements and other documents that rely on the
+                             accuracy of these valuations. We expect that responsible entities will be
+                             careful to ensure that their instructions to valuers are comprehensive and
+                             contain reasonable terms of reference.
+
+              RG 46.49       We consider that it is important that responsible entities have a valuation
+                             policy in place so that valuations are conducted on a timely basis and by
+                             suitably qualified experts. Disclosure by responsible entities against the
+                             valuation policy benchmark enables investors to better assess the reliability
+                             of valuations undertaken for the scheme and to better understand the
+                             valuation practices of the responsible entity for the scheme.
+
+
+                             ‘If not, why not’ disclosure
+
+              RG 46.50       If a responsible entity meets this benchmark, it should disclose a summary of
+                             its valuation policy, that the scheme currently complies with this policy, and
+                             where an investor can obtain a copy of the full valuation policy.
+
+              RG 46.51       If the benchmark is not met, the responsible entity should explain why not,
+                             and disclose the risks associated with this approach.
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 15
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+              RG 46.52       When the responsible entity discloses the value of a property under
+                             development on an ‘as if complete’ basis, the ‘as is’ basis of the valuation
+                             should also be disclosed. The responsible entity should also disclose the
+                             risks associated with ‘as if complete’ valuations, including the risk that
+                             assumptions on which such valuations are based may prove to be inaccurate.
+
+
+Benchmark 5: Related party transactions
+              RG 46.53       The responsible entity maintains and complies with a written policy on
+                             related party transactions, including the assessment and approval processes
+                             for such transactions and arrangements to manage conflicts of interest.
+
+                                   Note 1: The term ‘related party’ is defined in s228 (as modified by Pt 5C.7 for
+                                   registered schemes) and includes the responsible entity. Responsible entities should
+                                   refer to our guidance in Regulatory Guide 76 Related party transactions (RG 76),
+                                   including, among other things, the content requirements for prospectuses, PDSs and
+                                   other disclosure documents.
+
+                                   Note 2: Responsible entities are Australian financial services (AFS) licensees and have
+                                   duties to adequately manage conflicts of interest: s912A(1)(aa). If applicable, responsible
+                                   entities may need to obtain investor approval for related party transactions under Pt 5C.7.
+                                   For further guidance on disclosing related party transactions in a PDS, see Section E of
+                                   RG 76.
+
+
+                             Explanation
+
+              RG 46.54       We consider that responsible entities of unlisted property schemes that enter
+                             into transactions with related parties should disclose information about these
+                             related party arrangements that are relevant to a decision to invest in the
+                             scheme: see Disclosure Principle 5 at RG 46.98–RG 46.101. It is also
+                             important for investors to identify whether responsible entities have adequate
+                             arrangements in place to identify, monitor and manage related party
+                             transactions.
+
+
+                             ‘If not, why not’ disclosure
+
+              RG 46.55       If a responsible entity meets this benchmark, it should disclose that it
+                             complies with its policy and include a summary of the key elements of the
+                             policy and procedures that the responsible entity has in place for entering
+                             into related party transactions, including how compliance with these policies
+                             and procedures is monitored and that the responsible entity currently
+                             complies with its policy and procedures. The responsible entity should also
+                             disclose where an investor can obtain more detail on the responsible entity’s
+                             policy and procedures for related party transactions.
+
+              RG 46.56       If the benchmark is not met, the responsible entity should explain why not, the
+                             implications of not meeting the benchmark and disclose the arrangements it has
+                             in place and the risks associated with the approach it has adopted.
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 16
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+Benchmark 6: Distribution practices
+              RG 46.57       The scheme will only pay distributions from its cash from operations
+                             (excluding borrowings) available for distribution.
+
+
+                             Explanation
+
+              RG 46.58       We consider that distributions to investors that include capital, borrowings or
+                             support facilities may not always be commercially sustainable. In the past
+                             some responsible entities have used these sources to support distributions in
+                             the short term. Investors may not realise the risks associated with the use of
+                             these sources of funding to maintain distributions.
+
+              RG 46.59       We consider that this benchmark helps investors to better understand the
+                             distribution practices of the scheme.
+
+
+                             ‘If not, why not’ disclosure
+
+              RG 46.60       If a responsible entity meets this benchmark, it should disclose that the
+                             scheme will only pay distributions from its cash from operations (excluding
+                             borrowings) available for distribution.
+
+              RG 46.61       If the benchmark is not met, the responsible entity should explain why not,
+                             provide details of the sources of funds it intends to use to meet distributions,
+                             and outline any risks to the scheme of using these funds for this purpose.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 17
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+D          Disclosure principles for unlisted property
+           schemes
+
+                               Key points
+
+                               Responsible entities of unlisted property schemes should give retail
+                               investors information on the following aspects of the scheme:
+                                  gearing ratio (see RG 46.62–RG 46.70);
+                                  interest cover ratio (see RG 46.71–RG 46.77);
+                                  scheme borrowing (see RG 46.78–RG 46.86);
+                                  portfolio diversification (see RG 46.87–RG 46.97);
+                                  related party transactions (see RG 46.98–RG 46.101);
+                                  distribution practices (see RG 46.102–RG 46.103);
+                                  withdrawal rights (see RG 46.104–RG 46.107); and
+                                  net tangible assets (see: RG 46.108–RG 46.115)
+
+                               This information should be disclosed clearly and prominently in the
+                               responsible entity’s PDS and ongoing disclosure: see Section E.
+
+
+
+
+Disclosure Principle 1: Gearing ratio
+              RG 46.62       Responsible entities should disclose a gearing ratio for the scheme calculated
+                             using the following formula:
+
+                             Gearing ratio        =     Total interest-bearing liabilities
+                                                                  Total assets
+
+                                   Note: If the scheme or a stapled group prepares consolidated financial statements, the
+                                   gearing ratio should be based on the consolidated figures.
+
+              RG 46.63       The liabilities and assets used to calculate the gearing ratio should be based
+                             on the scheme’s latest financial statements. The latest financial statements
+                             would usually be the latest audited or reviewed financial statements, except
+                             where the responsible entity is aware of material changes since those
+                             statements. If the responsible entity does not base the gearing ratio on the
+                             latest financial statements, it should disclose the source(s) and date of the
+                             information used to calculate the ratio.
+
+              RG 46.64       If members’ contributions (other than borrowings from members) are
+                             classified as liabilities in the financial statements, they should be excluded
+                             from liabilities in calculating the gearing ratio. If the scheme has material
+                             off-balance-sheet financing, the responsible entity should disclose the
+                             following gearing ratios:
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 18
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+                             (a)   a ‘look through’ gearing ratio that takes into account such financing;
+                                   and
+                             (b)   a gearing ratio based on liabilities disclosed in the scheme’s financial
+                                   statements.
+
+                                   Note: Examples of off-balance-sheet financing include borrowings of equity-accounted
+                                   investments and loans taken out by investors to invest in the scheme where those loans
+                                   are secured over the scheme’s assets on a limited recourse basis.
+
+              RG 46.65       Responsible entities should also explain to investors what these ratios mean
+                             in practical terms and how investors can use the ratios to determine the
+                             scheme’s level of risk.
+
+                                   Note: We do not think it is adequate to simply state what the gearing ratio is. We expect
+                                   that an explanation of the gearing ratio should address the risks that may arise as a result
+                                   of the gearing within the scheme.
+
+              RG 46.66       If the responsible entity is unable to calculate the gearing ratio and/or the
+                             ‘look through’ gearing ratio, this should be disclosed with the reasons why
+                             the ratio(s) cannot be calculated, an explanation of the risks and impact of
+                             being unable to calculate the ratio(s), and the steps being taken by the
+                             responsible entity to address these risks.
+
+
+                             Explanation
+
+              RG 46.67       The gearing ratio in RG 46.62 indicates the extent to which a scheme’s
+                             assets are funded by interest-bearing liabilities. It gives an indication of the
+                             potential risks the scheme faces in terms of its level of borrowings due to, for
+                             example, an increase in interest rates or a reduction in property values.
+
+              RG 46.68       Retail investors may not have the skills or information to calculate a
+                             scheme’s gearing ratio (especially the ‘look through’ gearing ratio) from the
+                             scheme’s financial statements. In contrast, responsible entities should be able
+                             to calculate the scheme’s gearing ratio and explain its relevance to investors.
+
+              RG 46.69       We consider that a scheme’s gearing ratio is a risk factor that retail investors
+                             should weigh up against the scheme’s rate of return. Consistent disclosure of
+                             gearing ratios across this sector will enable investors to compare relative
+                             risks and returns for unlisted property schemes.
+
+              RG 46.70       We consider that responsible entities should explain to investors the risks
+                             associated with the level of gearing of the scheme and the implications of the
+                             gearing. For example, if there are assets within the scheme that have a
+                             gearing ratio that is significantly different from the overall gearing ratio of
+                             the scheme, this type of risk should be highlighted to investors.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                         Page 19
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+Disclosure Principle 2: Interest cover ratio
+              RG 46.71       The interest cover ratio gives an indication of an unlisted property scheme’s
+                             ability to meet the interest payments from earnings. Responsible entities
+                             should disclose the scheme’s interest cover ratio calculated using the
+                             following formula and based on the latest financial statements:
+
+                             Interest cover ratio       =       EBITDA – unrealised gains + unrealised losses
+                                                                           Interest expense
+
+                                   Note: If the scheme or stapled group prepares consolidated financial statements, the
+                                   interest cover ratio should be calculated based on the consolidated figures. Interest
+                                   expense calculations should take into account any related hedging arrangements.
+                                   Unrealised losses and gains include losses and gains relating to revaluations of
+                                   properties, hedging arrangements and straight-lining of rental income.
+
+              RG 46.72       The EBITDA (earnings before interest, tax, depreciation and amortisation)
+                             and interest expense figures used to calculate the interest cover ratio should
+                             be consistent with those disclosed in the scheme’s latest financial statements.
+                             The latest financial statements would usually be the latest audited or
+                             reviewed financial statements, except when the responsible entity is aware of
+                             material changes since those statements. If the responsible entity does not
+                             base the interest cover ratio on the latest financial statements, it should
+                             disclose the source(s) and date of the information used to calculate the ratio.
+
+              RG 46.73       If the responsible entity is unable to calculate the interest cover ratio (e.g. in a
+                             property development or when the interest is capitalised), it should disclose the
+                             reasons why it is unable to calculate the ratio and provide an explanation of the
+                             arrangements it has entered into to meet the payment obligations related to the
+                             borrowed funds and the risks associated with these arrangements.
+
+              RG 46.74       Many retail investors may not understand what interest cover means.
+                             Responsible entities should explain how investors can use the interest cover
+                             ratio to assess the scheme’s ability to meet its interest payments.
+
+                                   Note: We do not think it is adequate to simply state what the interest cover ratio is. We
+                                   expect that any explanation of the interest cover ratio should address the relationship
+                                   between the income received by the scheme and interest expense under the terms of any
+                                   relevant finance facility, and any other financial obligations the scheme has.
+
+
+                             Explanation
+
+              RG 46.75       The interest cover ratio measures the ability of the scheme to service interest
+                             on debt from earnings. It is therefore a critical indication of a scheme’s
+                             financial health and key to analysing the sustainability and risks associated
+                             with the scheme’s level of borrowing. It is information that many retail
+                             investors would be unable to calculate. As with the gearing ratio, the interest
+                             cover ratio is information that responsible entities should be able to provide.
+                             Consistent disclosure will allow investors to compare relative risks and
+                             returns across investments in unlisted property schemes.
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 20
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+              RG 46.76       If the responsible entity is unable to calculate the interest cover ratio, this
+                             should be disclosed with the reasons why the ratio cannot be calculated, an
+                             explanation of the risks and impact of the responsible entity not being able to
+                             calculate the ratio, and the steps being taken by the responsible entity to
+                             address the risks of not knowing the interest cover ratio.
+
+              RG 46.77       We consider that responsible entities should help investors to interpret the
+                             interest cover ratio by providing information that will enable investors to
+                             understand the ability of the scheme to continue to pay distributions and
+                             expenses of the scheme after the payment of interest, and whether the
+                             income of the scheme is sufficient to cover these costs.
+
+
+
+Disclosure Principle 3: Scheme borrowing
+              RG 46.78       If a scheme has borrowed funds (whether on or off balance sheet),
+                             responsible entities should clearly and prominently disclose:
+                             (a)   for each borrowing that will mature in five years or less—the aggregate
+                                   amount owing and the maturity profile in increments of not more than
+                                   12 months;
+
+                                   Note: For borrowings that will mature within 12 months, the responsible entity should
+                                   exercise judgement to determine whether it would be appropriate to disclose aggregate
+                                   amounts for time bands within 12 months.
+
+                             (b)   for borrowings that will mature in more than five years—the aggregate
+                                   amount owing;
+                             (c)   the amount (expressed as a percentage) by which either the operating
+                                   cash flow or the value of the asset(s) used as security for the facility
+                                   must fall before the scheme will breach any covenants in any credit
+                                   facility;
+                             (d)   for each credit facility:
+                                   (i)     the aggregate undrawn amount;
+                                   (ii)    the assets to which the facility relates;
+                                   (iii)   the loan-to-valuation and interest cover covenants under the terms
+                                           of the facility;
+                                   (iv)    the interest rate of the facility; and
+                                   (v)     whether the facility is hedged;
+                             (e)   details of any terms within the facility that may be invoked as a result of
+                                   scheme members exercising their rights under the constitution of the
+                                   scheme; and
+                             (f)   the fact that amounts owing to lenders and other creditors of the scheme
+                                   rank before an investor’s interests in the scheme.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 21
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+              RG 46.79       If borrowings and credit facilities will mature within 12 months, the
+                             responsible entity should make appropriate disclosure about the prospects
+                             of refinancing or possible alternative actions (e.g. sales of assets or further
+                             fundraising). If the responsible entity has no reasonable grounds for
+                             commenting on the prospect of refinancing or possible alternative actions,
+                             it should state this and explain why to investors: see Regulatory Guide 170
+                             Prospective financial information (RG 170) at RG 170.91–RG 170.94.
+
+                                   Note: Any forward-looking statements should comply with s769C of the Corporations
+                                   Act and RG 170.
+
+              RG 46.80       Responsible entities should explain any risks associated with their borrowing
+                             maturity profile, including whether borrowings have been hedged and, if so,
+                             to what extent.
+
+              RG 46.81       Responsible entities should also disclose any information about scheme
+                             borrowing and breaches of loan covenants that is reasonably required by
+                             investors. Responsible entities should update investors about the status of
+                             scheme borrowings and any breaches of covenants through ongoing
+                             disclosure.
+
+                                   Note: Responsible entities should be aware that, in certain cases, investors would
+                                   reasonably require information on likely breaches of loan covenants (e.g. if the
+                                   responsible entity has approached the lender about a likely breach and has been
+                                   informed that the loan is likely to be terminated if the breach occurs).
+
+
+                             Explanation
+
+                             Borrowing maturity and credit facility expiry profile
+
+              RG 46.82       Borrowing maturity and credit facility expiry profiles are important
+                             information if an unlisted property scheme borrows to invest. Credit
+                             facilities that are due to expire within a relatively short timeframe can be a
+                             significant risk factor, especially in periods when credit is more difficult and
+                             expensive to obtain. A failure to renew borrowing or credit facilities can
+                             adversely affect a scheme’s viability.
+
+              RG 46.83       It is important that disclosure on the expiry of credit facilities is clear and
+                             prominent enough for retail investors to easily locate and understand the
+                             information.
+
+                             Breach of loan covenants
+
+              RG 46.84       Information about breaches of loan covenants that is reasonably required by
+                             investors is key risk information in up-front and ongoing disclosure. Breach
+                             of a loan covenant may result in the lender being able to require immediate
+                             repayment of the loan or impose a freeze on further draw-downs on the
+                             credit facility.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 22
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+              RG 46.85       If the lender exercises such rights, the scheme may be forced to arrange
+                             alternative financing or asset sales within a short timeframe. This can be
+                             problematic, particularly in periods when access to credit is more
+                             constrained, when the scheme has a poor history of meeting loan covenants,
+                             or when there is a softening of the property market.
+
+                             Ranking of investors
+
+              RG 46.86       Retail investors should be made aware that they will rank behind the
+                             creditors of a scheme.
+
+
+
+Disclosure Principle 4: Portfolio diversification
+              RG 46.87       A responsible entity should disclose the current composition of the property
+                             scheme’s direct property investment portfolio, including:
+                             (a)   properties by geographic location by number and value;
+                             (b)   non-development properties by sector (e.g. industrial, commercial,
+                                   retail, residential) and development projects by number and value;
+                             (c)   for each significant property, the most recent valuation, the date of the
+                                   valuation, whether the valuation was performed by an independent valuer
+                                   and, where applicable, the capitalisation rate adopted in the valuation;
+                             (d)   the portfolio lease expiry profile in yearly periods calculated on the
+                                   basis of lettable area or income and, where applicable, the weighted
+                                   average lease expiry;
+                             (e)   the occupancy rate(s) of the property portfolio;
+                             (f)   for the top five tenants that each individually constitute 5% or more by
+                                   income across the investment portfolio, the name of the tenant and
+                                   percentage of lettable area or income; and
+                             (g)   the current value of the development and/or construction assets of the
+                                   scheme as a percentage of the current value of the total assets of the scheme.
+
+              RG 46.88       Disclosure should cover the responsible entity’s investment strategy on these
+                             matters, including its strategy on investing in other unlisted property
+                             schemes, whether the scheme’s current assets conform to the investment
+                             strategy and an explanation of any significant variance from this strategy. A
+                             responsible entity should also provide a clear description of any significant
+                             non-direct property assets of the scheme, including the value of such assets.
+
+              RG 46.89       Responsible entities of unlisted property schemes involved in property
+                             development should also disclose for each significant development asset:
+                             (a)   the development timetable with key milestones;
+                             (b)   a description of the status of the development against the key milestones
+                                   identified;
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 23
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+                             (c)   a description of the nature of the funding arrangements for the
+                                   development (including the sources of funding and repayment strategies
+                                   if borrowing is used to fund the development);
+                             (d)   the total amounts of pre-sale and lease pre-commitments, where
+                                   applicable;
+                             (e)   whether the loan-to-valuation ratio for the asset under development
+                                   exceeds 70% of the ‘as is’ valuation of the asset; and
+                             (f)   the risks associated with the property development activities being
+                                   undertaken.
+
+              RG 46.90       The responsible entity for any scheme that has over 20% of its property assets
+                             in development based on an ‘as if complete’ basis should ensure that the scheme
+                             is clearly identified as a development and/or construction scheme.
+
+
+                             Explanation
+
+              RG 46.91       The quality of the properties held by an unlisted property scheme, including
+                             the quality of leases entered into over those properties, is a key element in
+                             the financial position and performance of the scheme. Generally, the more
+                             diversified a portfolio, the lower the risk that an adverse event affecting one
+                             property or one lease will put the overall portfolio at risk.
+
+              RG 46.92       It is important that responsible entities disclose their approach to portfolio
+                             diversification in their PDSs and ongoing disclosure. Most responsible
+                             entities will have a firm policy on the types of properties in which the
+                             scheme will invest. This should be disclosed as clearly and prominently as
+                             possible to help investors monitor the financial position and performance of
+                             the scheme over time.
+
+                             Development
+
+              RG 46.93       We consider development to be the construction of a new building,
+                             significant increases to the lettable area of a building, or significant changes
+                             to the nature or use of the property. Refurbishment of existing assets need
+                             not be considered as development for the purposes of this regulatory guide.
+
+              RG 46.94       When determining whether over 20% of the property assets of the scheme are
+                             development assets, we consider that portions of existing assets that are not in
+                             development should not be included in this calculation.
+
+              RG 46.95       It is important that investors who invest in schemes that undertake property
+                             development have a good understanding of the nature of the developments and
+                             the risks associated with specific developments. Further, responsible entities
+                             should ensure that investors are kept informed of the progress of the development
+                             on an ongoing basis against the development timetable and key milestones.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 24
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+              RG 46.96       Responsible entities should consider whether it is appropriate to disclose
+                             development timetables using common key milestones—for example:
+                             (a)   land settlement;
+                             (b)   planning approval;
+                             (c)   construction commencement;
+                             (d)   construction completion;
+                             (e)   sales settlement; and
+                             (f)   project finalisation.
+
+              RG 46.97       Any material delays (e.g. to development works, including the underlying
+                             reason) or changes to financing circumstances are important indicators that a
+                             development may be experiencing difficulties (or may fail) and should
+                             trigger disclosure about these material matters.
+
+
+
+Disclosure Principle 5: Related party transactions
+              RG 46.98       Responsible entities that enter into transactions with related parties should
+                             describe related party arrangements relevant to the investment decision. The
+                             description should address:
+                             (a)   the value of the financial benefit;
+                             (b)   the nature of the relationship (i.e. the identity of the related party and
+                                   the nature of the arrangements between the parties, in addition to how
+                                   the parties are related for the purposes of the Corporations Act or ASX
+                                   Listing Rules—for group structures, the nature of these relationships
+                                   should be disclosed for all group entities);
+                             (c)   whether the arrangement is on ‘arm’s length’ terms, is reasonable
+                                   remuneration, some other exception applies, or we have granted relief;
+                             (d)   whether scheme member approval for the transaction has been sought
+                                   and, if so, when (e.g. if member approval was obtained before the issue
+                                   of interests in the scheme);
+                             (e)   the risks associated with the related party arrangement; and
+                             (f)   whether the responsible entity is in compliance with its policies and
+                                   procedures for entering into related party transactions for the particular
+                                   related party arrangement, and how this is monitored.
+
+                                   Note: The term ‘related party’ is defined in s228 (as modified by Pt 5C.7 for registered
+                                   schemes) and includes the responsible entity. Responsible entities should refer to our
+                                   guidance in Regulatory Guide 76 Related party transactions (RG 76), including, among
+                                   other things, the content requirements for prospectuses, PDSs and other disclosure
+                                   documents.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 25
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+                             Explanation
+
+              RG 46.99       Related party transactions carry a risk that they could be assessed and
+                             monitored less rigorously than arm’s length third party transactions.
+                             Investors should therefore be able to assess whether responsible entities take
+                             an appropriate approach to related party transactions. A significant number
+                             and value of such transactions may mean that investors should consider the
+                             financial position of the related group as a whole and the risk of potential
+                             conflicts of interest.
+
+              RG 46.100      Related party transactions may include commercial contracts for the supply
+                             of goods or services with persons that are related parties. They may also
+                             comprise larger transactions, such as asset acquisitions or disposals.
+
+              RG 46.101      Responsible entities should disclose information about existing related party
+                             transactions in disclosure documents, except to the extent that:
+                             (a)   such disclosure may confuse investors by dealing with inconsequential
+                                   matters; or
+                             (b)   investors already have adequate information about the related party
+                                   transactions as a result of past disclosures, so it is not reasonable for the
+                                   information to be repeated in full.
+
+                                   Note: Responsible entities are Australian financial services (AFS) licensees and have duties
+                                   to adequately manage conflicts of interest: s912A(1)(aa). If applicable, responsible entities
+                                   may need to obtain investor approval for related party transactions under Pt 5C.7. For
+                                   further guidance on disclosing related party transactions in a PDS, see Section E of RG 76.
+
+
+
+
+Disclosure Principle 6: Distribution practices
+              RG 46.102      If a scheme is making or forecasts making distributions to members, the
+                             responsible entity should disclose:
+                             (a)   the source of the current distribution (e.g. from cash from operations
+                                   available for distribution, capital, unrealised revaluation gains);
+                             (b)   the source of any forecast distribution;
+                             (c)   whether the current or forecast distributions are sustainable over the
+                                   next 12 months;
+                             (d)   if the current or forecast distribution is not solely sourced from cash
+                                   from operations (excluding borrowings) available for distribution, the
+                                   sources of funding and the reasons for making the distribution from
+                                   these other sources;
+                             (e)   if the current or forecast distribution is sourced other than from cash
+                                   from operations (excluding borrowings) available for distribution,
+                                   whether this is sustainable over the next 12 months; and
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 26
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+                             (f)   the impact of, and any risks associated with, the payment of
+                                   distributions from the scheme from sources other than cash from
+                                   operations (excluding borrowings) available for distribution.
+                                   Note: Any forward-looking statements should comply with s769C and RG 170. If a
+                                   responsible entity does not have reasonable grounds for disclosing whether current or
+                                   forecast distributions sourced other than from cash from operations (excluding borrowings)
+                                   available for distribution are sustainable, it should explain this to investors: see RG 170.91.
+
+
+                             Explanation
+              RG 46.103      Some unlisted property schemes make distributions to members from capital
+                             and/or unrealised gains where cash is available from either within the fund
+                             or from borrowings. If this is the case, the responsible entity should clearly
+                             and prominently disclose the risks associated with this and whether these
+                             distributions are sustainable.
+
+
+
+Disclosure Principle 7: Withdrawal arrangements
+              RG 46.104      If investors are given the right to withdraw from a scheme, the responsible
+                             entity should clearly disclose:
+                             (a)   whether the constitution of the scheme allows investors to withdraw
+                                   from the scheme, with a description of the circumstances in which
+                                   investors can withdraw;
+                             (b)   the maximum withdrawal period allowed under the constitution for the
+                                   scheme (this disclosure should be at least as prominent as any shorter
+                                   withdrawal period promoted to investors);
+                             (c)   any significant risk factors or limitations that may affect the ability of
+                                   investors to withdraw from the scheme, or the unit price at which any
+                                   withdrawal will be made (including risk factors that may affect the
+                                   ability of the responsible entity to meet a promoted withdrawal period);
+                             (d)   a clear explanation of how investors can exercise their withdrawal
+                                   rights, including any conditions on exercise (e.g. specified withdrawal
+                                   periods and scheme liquidity requirements); and
+                             (e)   if withdrawals from the scheme are to be funded from an external
+                                   liquidity facility, the material terms of this facility, including any rights
+                                   the provider has to suspend or cancel the facility.
+
+              RG 46.105      The responsible entity should ensure that investors are updated on any
+                             material changes to withdrawal rights through ongoing disclosure. For
+                             example, investors should be informed if the responsible entity knows that
+                             withdrawal requests will be suspended during an upcoming withdrawal
+                             period for whatever reason.
+
+              RG 46.106      Responsible entities should also clearly disclose if investors have no
+                             withdrawal rights.
+
+
+
+© Australian Securities and Investments Commission March 2012                                                         Page 27
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+                             Explanation
+
+              RG 46.107      It is important for responsible entities to make investors aware of withdrawal
+                             arrangements so that investors form realistic expectations about their ability
+                             to withdraw from the scheme.
+
+                                   Note 1: Members will only have a limited ability to withdraw if a scheme is not ‘liquid’
+                                   for the purposes of Pt 5C.6.
+
+                                   Note 2: If a responsible entity makes representations about likely future withdrawal
+                                   periods, it must have reasonable grounds for those representations: s769C.
+
+
+
+
+Disclosure Principle 8: Net tangible assets
+              RG 46.108      The responsible entity of a closed-end scheme should clearly disclose the
+                             value of the net tangible assets (NTA) of the scheme on a per unit basis in
+                             pre-tax dollars.
+
+              RG 46.109      We consider that responsible entities should calculate the NTA of the
+                             scheme using the following formula:
+
+                             NTA      =     Net assets – intangible assets +/– any other adjustments
+                                                 Number of units in the scheme on issue
+
+                                   Note: When making this NTA calculation, we expect responsible entities to comply
+                                   with all relevant accounting standards. All NTA calculations should consider the joint
+                                   unit pricing guide from ASIC and the Australian Prudential Regulation Authority
+                                   (APRA): see Regulatory Guide 94 Unit pricing: Guide to good practice (RG 94).
+
+              RG 46.110      The responsible entity should disclose the methodology for calculating the
+                             NTA and details of the adjustments used in the calculation, including the
+                             reasons for the adjustments.
+
+              RG 46.111      Responsible entities should also explain to investors what the NTA
+                             calculation means in practical terms and how investors can use the NTA
+                             calculation to determine the scheme’s level of risk.
+
+                                   Note: We do not think it is adequate to simply state what the NTA calculation is. We
+                                   expect that an explanation of the NTA calculation should address the risks that may
+                                   arise as a result of the current NTA for the scheme.
+
+
+                             Explanation
+
+              RG 46.112      An NTA calculation helps investors understand the value of the assets upon
+                             which the value of their unit is determined. Open-end schemes regularly
+                             disclose the NTA for the scheme or a similar measure such as net asset
+                             backing or net asset value to support the pricing of units in the scheme.
+                             These measures are not generally disclosed for closed-end schemes.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 28
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+              RG 46.113      The responsible entity should base the NTA calculation on the scheme’s
+                             latest financial statements. The latest financial statements would usually be
+                             the latest audited or reviewed financial statements, except where the
+                             responsible entity is aware of material changes since those statements were
+                             issued. Where the responsible entity does not base the NTA on the latest
+                             financial statements, it should disclose the source(s) and date of the
+                             information used to calculate the NTA.
+
+                                   Note: Any forward-looking statements should comply with s769C of the Corporations
+                                   Act and RG 170.
+
+              RG 46.114      If the responsible entity does not use the above formula to calculate the
+                             NTA, it should disclose the formula used, including the reasons why it has
+                             chosen a different method of calculation.
+
+              RG 46.115      Responsible entities should consider if disclosing the net asset value per unit
+                             of the scheme would help investors to better understand the relationship
+                             between NTA and net asset value per unit, and if these measures would help
+                             investors to understand the financial position of the scheme.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 29
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+E          Form and method of disclosure
+
+                               Key points
+
+                               Responsible entities of unlisted property schemes should disclose against
+                               the benchmarks and apply the disclosure principles in their PDSs because
+                               these reflect information required for this disclosure under the
+                               Corporations Act: see RG 46.116–RG 46.118 and RG 46.121–RG 46.139.
+
+                               The benchmarks and disclosure principles also reflect information required
+                               for ongoing disclosure to investors: see RG 46.140–RG 46.155.
+
+                               For an overview of when responsible entities will need to disclose against
+                               the benchmarks and apply the disclosure principles in PDSs and ongoing
+                               disclosures, see Table 4.
+
+                               Responsible entities should clearly specify the date on any ongoing
+                               disclosure to which this guide applies: see RG 46.147.
+
+                               If applying a disclosure principle would result in misleading or clearly
+                               inappropriate information, this should be explained to investors:
+                               see RG 46.156–RG 46.159.
+
+
+
+
+The disclosure framework
+              RG 46.116      The Corporations Act requires responsible entities of unlisted property
+                             schemes to:
+                             (a)   disclose in a PDS to retail investors all the information they reasonably
+                                   need to know to make a decision to acquire an interest in the scheme;
+                                   and
+                             (b)   provide ongoing disclosure about material matters to help retail
+                                   investors monitor whether their expectations are being met.
+
+              RG 46.117      The benchmarks in Section C and the disclosure principles in Section D
+                             reflect information that retail investors reasonably need to make an
+                             investment decision and monitor whether their expectations are being met.
+                             This information is therefore required under the Corporations Act for both
+                             PDSs and ongoing disclosure.
+
+              RG 46.118      Apart from disclosures required by the Corporations Act, it is good practice
+                             for responsible entities to update investors on the status of the benchmark
+                             and disclosure principle information at least every six months: see
+                             RG 46.143–RG 46.145.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 30
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+Timing for implementing improved disclosure
+              RG 46.119      Table 4 explains how we expect responsible entities for existing and new
+                             unlisted property schemes to implement improved disclosure and our views
+                             on good practice for updating investors.
+
+              RG 46.120      From 1 November 2012, we will review updated investor disclosures for
+                             unlisted property schemes to check that the benchmark and disclosure
+                             principle information is being adequately disclosed to investors.
+
+Table 4:    Timetable for implementing the benchmarks and disclosure principles
+
+ Existing schemes—         By 1 November 2012, the responsible entity should provide investors with an update of
+ update existing           the benchmark and disclosure principle information: see RG 46.135–RG 46.139. This
+ investors by              could be by using the responsible entity’s normal investor communication channels (e.g.
+ 1 November 2012           in a regular investor update or by including the information on a website that is used to
+                           communicate with investors).
+
+ PDSs dated before         By 1 November 2012, if an existing PDS is still in use, responsible entities should either:
+ 1 November 2012            include the benchmark and disclosure principle information on a website referred to in
+ that remain in use—         the PDS (if the omission of the information from the PDS is not materially adverse); or
+ update by
+                            update the PDS by a new or supplementary PDS so that it includes the benchmark
+ 1 November 2012
+                             and disclosure principle information.
+                                Note: PDSs commonly allow information to be updated through a website if the updated
+                                information is not materially adverse: see Class Order [CO 03/237] Updated information in
+                                Product Disclosure Statements. We consider that if the omission of the benchmark and
+                                disclosure principle information from an existing PDS is not materially adverse, the
+                                responsible entity will generally be able to rely on [CO 03/237] to update the PDS for this
+                                information without the need for a new or supplementary PDS: see RG 46.135–RG 46.139.
+
+ New PDSs issued on        PDSs dated on or after 1 November 2012 should clearly and prominently disclose the
+ or after 1 November       benchmark and disclosure principle information and contain an investment overview:
+ 2012                      see RG 46.121–RG 46.134.
+
+                           The PDS should also explain how the responsible entity intends to update investors for
+                           ongoing disclosure.
+
+ Material changes to       If there are material changes to the benchmark or disclosure principle information, the
+ information               responsible entity should update investors on material changes to key information about
+                           an unlisted property scheme as soon as practicable (e.g. by updating a website used for
+                           this purpose) in its ongoing disclosure: see RG 46.140–RG 46.155.
+
+ Updates on status of      It is good practice for responsible entities to update investors at least every six months
+ information               on the status of the benchmark and disclosure principle information, including whether
+                           the information has been updated for any material changes since the last investor
+                           report: see RG 46.143–RG 46.145.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 31
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+Disclosure in a PDS or supplementary PDS
+              RG 46.121      The Corporations Act requires disclosure in the form of a PDS for an offer
+                             of interests in an unlisted property scheme. The PDS must:
+                             (a)   make specific disclosures, including about significant risks associated
+                                   with holding the product (s1013D); and
+                             (b)   include all other information that might reasonably be expected to have
+                                   a material influence on the decision of a reasonable person, as a retail
+                                   client, whether to invest in the scheme (s1013E).
+
+              RG 46.122      The PDS for an unlisted property scheme should clearly explain:
+                             (a)   the business model of the scheme and what it will do with the money
+                                   raised by the PDS (e.g. what type of property the scheme will invest in);
+                             (b)   the track record and experience of senior management; and
+                             (c)   the key features and risks of the scheme.
+
+              RG 46.123      The benchmarks and disclosure principles reflect information about the key
+                             features and risks of an unlisted property scheme. It is information that might
+                             reasonably be expected to have a material influence on the decision of a
+                             reasonable person whether to invest (s1013D(1) and 1013E), but which they
+                             would not be expected to know without explicit disclosure in a PDS:
+                             s1013F(2). The benchmarks and disclosure principles therefore reflect the
+                             information required under s1013D–1013E.
+
+                                   Note: The benchmarks and disclosure principles do not attempt to specify all of the
+                                   information that is required to be included in a PDS by the Corporations Act. Other
+                                   information will also be required depending on the nature of the unlisted property
+                                   scheme and the offer being made in the PDS.
+
+              RG 46.124      A PDS for an offer of interests in an unlisted property scheme should include
+                             the benchmark and disclosure principle information. The PDS should also
+                             explain how the responsible entity intends to update investors on material
+                             changes to key information about the scheme.
+
+              RG 46.125      The information in a PDS must be up-to-date at the time it is given. We
+                             consider that PDSs that do not contain the benchmark and disclosure
+                             principle information by 1 November 2012 are unlikely to be up-to-date
+                             given the key nature of the benchmark and disclosure principle information,
+                             particularly in light of recent economic conditions affecting the property
+                             sector and the fact that new PDSs will disclose this information.
+
+
+                             Clear, concise and effective disclosure
+
+              RG 46.126      PDSs must be worded and presented in a clear, concise and effective manner:
+                             s1013C(3). A PDS should therefore contain clear and prominent disclosure of
+                             the key features and risks of the investment. For unlisted property schemes, this
+                             includes the benchmark and disclosure principle information.
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 32
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+              RG 46.127      The requirement for ‘clear, concise and effective’ disclosure should be read
+                             as a compound phrase so that each word qualifies the other. This means it is
+                             inappropriate to focus on one word in the phrase at the expense of others.
+
+              RG 46.128      We consider that a PDS will generally be clear, concise and effective if it:
+                             (a)   highlights key information (e.g. through an investment overview as
+                                   explained below);
+                             (b)   uses plain language;
+                             (c)   is as short as possible;
+                             (d)   explains complex information, including any technical terms; and
+                             (e)   is logically ordered and easy to navigate.
+
+              RG 46.129      We encourage responsible entities to use consumer-friendly tools as much as
+                             possible in disclosing key features and risks, including tables, diagrams and
+                             other comparative features. Such effective disclosure will help retail
+                             investors compare investments across the unlisted property scheme sector.
+
+                                   Note: Responsible entities should refer to Regulatory Guide 168 Disclosure: Product
+                                   Disclosure Statements (and other disclosure obligations) (RG 168) and Regulatory Guide
+                                   228 Prospectuses: Effective disclosure for retail investors (RG 228) when considering
+                                   ways to ensure that a PDS is worded in a clear, concise and effective manner.
+
+
+                             Investment overview
+
+              RG 46.130      We consider there is a greater risk that a PDS will not be worded and
+                             presented in a clear, concise and effective manner if the PDS does not
+                             include an investment overview within the first few pages that highlights
+                             information that is key to a retail investor’s investment decision.
+
+              RG 46.131      An investment overview is an introduction to the responsible entity and
+                             offer. It is not intended to replace the PDS and investors should read the
+                             whole document. The investment overview should:
+                             (a)   be the first substantive section of the PDS;
+                             (b)   highlight and provide a meaningful summary of information that is key
+                                   to a retail investor’s investment decision, including at least a summary
+                                   of the benchmark and disclosure principle information; and
+                             (c)   provide balanced disclosure of the benefits and risks.
+
+              RG 46.132      If the key information is too lengthy to be included in full, the first few
+                             pages of the PDS should provide a summary of the information with a clear
+                             reference to more detailed disclosure (e.g. a table that says ‘the scheme’s
+                             gearing ratio is x; see page x for an explanation of what this gearing ratio
+                             means’).
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 33
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+                             Supplementary PDSs
+              RG 46.133      The benchmarks and disclosure principles relate to information required in a
+                             PDS under the Corporations Act. A PDS must be given to prospective investors
+                             in various circumstances: s1012A–1012C. If there are material changes to the
+                             benchmark or disclosure principle information, a responsible entity with a
+                             current offer open will need to provide a new or supplementary PDS if the new
+                             information would be materially adverse to the reasonable investor.
+
+              RG 46.134      We consider that it is good practice to also make the information in new or
+                             supplementary PDSs available to any existing investors (e.g. in a regular
+                             investor update or on the website).
+
+
+Updating existing investors
+              RG 46.135      By no later than 1 November 2012, if an existing PDS that does not contain
+                             the benchmark and disclosure principle information remains in use, we
+                             expect responsible entities to:
+                             (a)   update the PDS by a new or a supplementary PDS so that it includes the
+                                   benchmark and disclosure principle information; or
+                             (b)   disclose the benchmark and disclosure principle information using a
+                                   website or other means of communication if the responsible entity is
+                                   able to rely on Class Order [CO 03/237] Updated information in
+                                   Product Disclosure Statements.
+
+              RG 46.136      We consider that a responsible entity of an unlisted property scheme may be
+                             able to rely on [CO 03/237] to provide updated disclosure of this information
+                             on a website, subject to various conditions, including:
+                             (a)   the updated information is not materially adverse;
+                             (b)   the PDS includes a statement that non-materially adverse information
+                                   may be updated by a website and that a paper copy of any updated
+                                   information will be given to a person without charge on request;
+                             (c)   the updated information is easily accessible to investors; and
+                             (d)   the PDS was up-to-date at the time it was prepared.
+
+                                   Note: See [CO 03/237] for all of the applicable conditions that must be fulfilled.
+
+              RG 46.137      Updates for existing investors could be in a regular report (e.g. in the
+                             quarterly report) or in a periodic statement under s1017D. An alternative
+                             would be to put the initial update on the scheme’s website (if this is already
+                             used to communicate with investors).
+
+              RG 46.138      The updated disclosure should also advise investors how the responsible
+                             entity intends to update them on the status of the benchmark and disclosure
+                             principle information and material changes. This is particularly important if
+                             the responsible entity intends to use a website to communicate material
+                             changes to key information.
+
+
+© Australian Securities and Investments Commission March 2012                                                           Page 34
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+              RG 46.139      Updated disclosure for benchmark and disclosure principle information
+                             provided to investors should clearly specify the date it was published to help
+                             investors identify when the information was prepared and whether it is
+                             current or out-of-date.
+
+
+
+Ongoing disclosure
+              RG 46.140      In a PDS, a responsible entity makes a number of statements about how the
+                             funds being raised by the PDS will be used, and how the responsible entity
+                             will operate the unlisted property scheme. These ‘promises’ are part of the
+                             basis on which the investor invests their money, and the investor should be
+                             given the opportunity to monitor the responsible entity’s performance
+                             against these promises.
+
+              RG 46.141      Good ongoing disclosure therefore plays an important role in helping
+                             investors monitor their investment, evaluate its performance and decide if
+                             and when to exit their investment (provided exit mechanisms exist), or
+                             increase their investment in the scheme.
+
+              RG 46.142      Responsible entities have a number of obligations to make ongoing
+                             disclosure to investors under the Corporations Act: see RG 46.148–RG
+                             46.155. Apart from these legal requirements, we encourage responsible
+                             entities to use the most efficient and effective methods to regularly
+                             communicate key information to investors: see RG 46.143–RG 46.147.
+
+                                   Note: Responsible entities should refer to Regulatory Guide 198 Unlisted disclosing
+                                   entities: Continuous disclosure obligations (RG 198) when considering ways to comply
+                                   with the continuous disclosure requirements of the Corporations Act.
+
+
+                             Good practice for ongoing disclosure
+
+              RG 46.143      It is good practice for a responsible entity to maintain a document that covers
+                             the benchmark and disclosure principle information and to update this
+                             document for material changes that the responsible entity becomes aware of
+                             in the ordinary course of managing the unlisted property scheme. This
+                             updating allows the responsible entity to provide consolidated updated
+                             disclosure to investors on request. It is also good practice for this
+                             consolidated disclosure document to be clearly accessible on the scheme’s
+                             website (if used for updating investors).
+
+              RG 46.144      Many responsible entities have a practice of updating investors on key
+                             information about the scheme with a quarterly report. We consider that it is
+                             good practice for responsible entities to update investors in writing on the
+                             status of key information, including the benchmark and disclosure principle
+                             information, at least every six months.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 35
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+              RG 46.145      Although it is not necessary to repeat information if it has not changed in these
+                             updates to investors, we consider it is good practice to provide investors with:
+                             (a)   an overview of any material changes to the benchmark and disclosure
+                                   principle information since the last update (as far as the responsible
+                                   entity is aware);
+                             (b)   if there have been no material changes, confirmation that this is the case;
+                             (c)   details of how to access the scheme’s consolidated disclosure document
+                                   on the website (if available there); and
+                             (d)   confirmation that they are entitled to a paper copy of the benchmark and
+                                   disclosure principle information on request.
+
+                                   Note: An alternative would be for responsible entities to provide investors with details
+                                   of material changes to the benchmark and disclosure principle information using a
+                                   procedure similar to that applying to the provision of a financial report under s314.
+
+              RG 46.146      In addition to the regular updates discussed in RG 46.144, material changes
+                             to key information, including the benchmark or disclosure principle
+                             information, should be notified to investors, or be made accessible to them,
+                             as soon as practicable using the most efficient and effective method of
+                             communication. For example, this could be through a website used for
+                             updating investors. The regular investor update would then advise investors
+                             directly that the benchmark or disclosure principle information had been
+                             updated for a material change: see RG 46.145.
+
+              RG 46.147      All ongoing disclosure containing benchmark and disclosure principle
+                             information should clearly specify the date it was published to help investors
+                             identify when the information was prepared and whether it is current or out-
+                             of-date.
+
+
+                             The legal framework for ongoing disclosure
+
+              RG 46.148      Responsible entities of unlisted property schemes have obligations to provide
+                             ongoing disclosure to investors under the Corporations Act, including:
+                             (a)   disclosure of material changes and significant events (s675 or 1017B);
+                                   and
+                             (b)   periodic statements to members under s1017D.
+
+              RG 46.149      The responsible entity should include the benchmark and disclosure
+                             principle information in ongoing disclosure and explain any material
+                             changes to this information.
+
+                                   Note: The benchmarks and disclosure principles do not attempt to specify all of the
+                                   information that the Corporations Act requires for ongoing disclosure.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 36
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+                             Continuous disclosure
+
+              RG 46.150      If the responsible entity of a scheme that is subject to continuous disclosure
+                             becomes aware of information that is not generally available and that a
+                             reasonable person would expect, if it were available, to have a material
+                             effect on the price or value of the interests in the scheme, the responsible
+                             entity must lodge a document with ASIC containing the information: s675.
+
+                                   Note: It is good practice for responsible entities to provide investors with access to
+                                   continuous disclosure documents lodged with ASIC, either by sending investors a paper
+                                   copy or posting the information on a website used for updating investors.
+
+              RG 46.151      The benchmarks and disclosure principles reflect information that would
+                             reasonably be expected to have a material effect on the price or value of
+                             interests in the scheme. Therefore material changes to benchmark or
+                             disclosure principle information may trigger s675, unless the information is
+                             already generally available.
+
+                             Notifications of material changes and significant events
+
+              RG 46.152      If an unlisted property scheme is not subject to continuous disclosure
+                             obligations under Ch 6CA, the responsible entity must give investors notice
+                             of any material change to a matter, or a significant event that affects a
+                             matter, that would have been required to be specified in a PDS: s1017B.
+
+              RG 46.153      In our view, material changes in the benchmark and disclosure principle
+                             information are matters that should be covered in notifications to investors
+                             under s1017B. If such changes or events are adverse to investors,
+                             notifications generally need to be provided as soon as practicable and in any
+                             event within three months.
+
+                             Periodic statements
+
+              RG 46.154      Responsible entities of property schemes must give members a periodic
+                             statement at least annually: s1017D. Periodic statements must include details of:
+                             (a)   the information that the responsible entity reasonably believes the
+                                   investor needs to understand their investment in the unlisted property
+                                   scheme; and
+                             (b)   details of any change in circumstances affecting the investment that has
+                                   not been notified since the previous periodic statement.
+
+              RG 46.155      Periodic statements are designed to give investors regular updates about their
+                             investment. If a responsible entity does not otherwise report to investors in
+                             regular updates, in the periodic statement it should update investors on the
+                             status of the benchmark and disclosure principle information.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 37
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+Omitting disclosure principle information when misleading
+              RG 46.156      If applying a disclosure principle to an unlisted property scheme’s particular
+                             business model or circumstances would be likely to mislead investors or is
+                             clearly inappropriate, then the information should be omitted.
+
+                                   Note: For example, if a property scheme has no interest-bearing liabilities, ratios would
+                                   not need to be provided for gearing and interest cover (Disclosure Principles 1 and 2).
+
+              RG 46.157      If key information is omitted, the responsible entity should tell investors the
+                             information has been omitted and explain why it would be misleading or
+                             inappropriate to include the information.
+
+              RG 46.158      If the responsible entity is unable to apply a disclosure principle, it should
+                             consider whether it can disclose other information that would allow investors
+                             to assess the relevant risk factor. For example, if a property scheme is a start-
+                             up and cannot disclose a gearing ratio because it has no liabilities, it should
+                             consider whether investors need to know its target gearing ratio.
+
+              RG 46.159      If a disclosure principle that did not apply to an unlisted property scheme
+                             subsequently becomes relevant, then the responsible entity should disclose
+                             that information to investors through ongoing disclosure.
+
+
+
+ASIC review of PDSs and ongoing disclosure
+              RG 46.160      From 1 November 2012, we will review PDSs in use and ongoing disclosures
+                             for unlisted property schemes to check that the benchmark and disclosure
+                             principle information is adequately disclosed.
+
+              RG 46.161      We will consider exercising our stop order powers under s1020E if we
+                             consider there is material non-disclosure or misleading disclosure of these
+                             matters. The benchmarks and disclosure principles relate to matters that must
+                             be disclosed under the Corporations Act. Material non-disclosure or
+                             misleading disclosure may also result in liability to investors.
+
+              RG 46.162      We will also:
+                             (a)   work with responsible entities to ensure that the benchmarks and
+                                   disclosure principles, and our expectations, are understood;
+                             (b)   discuss any concerns we have about a responsible entity’s disclosure
+                                   with them and, where necessary, require additional disclosure;
+                             (c)   discuss any concerns we have about the financial position and
+                                   performance of a scheme with the responsible entity; and
+                             (d)   conduct surveillance visits as needed to test and reinforce our
+                                   expectations.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 38
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+F          Advertising
+
+                               Key points
+
+                               Advertising for unlisted property schemes should be consistent with all
+                               corresponding disclosures in the PDS: see RG 46.163–RG 46.164.
+                               If investment ratings are used in advertising for unlisted property schemes,
+                               they should be properly explained and not create a misleading impression
+                               about the scheme: see RG 46.166.
+
+
+
+Consistency with PDS
+              RG 46.163      Statements in advertisements for unlisted property schemes should be consistent
+                             with all corresponding disclosures on that subject matter in the PDS. In
+                             particular, responsible entities should take into account the benchmark and
+                             disclosure principle information in the PDS.
+                                   Note: References to ‘advertisements’ in this guide should be read broadly. They include
+                                   comment and promotion of unlisted property schemes in media programs or
+                                   publications (generally known as ‘advertorials’) and statements about these schemes
+                                   published by responsible entities on their websites that are intended to promote the
+                                   schemes to retail investors. They do not, however, include statements in a PDS.
+
+              RG 46.164      When considering consistency with the PDS, responsible entities should be
+                             aware that an advertisement may be misleading if it quotes a statement from
+                             the PDS out of context. Responsible entities of unlisted property schemes
+                             who fail to ensure that advertisements are consistent with PDS disclosures
+                             risk making false or misleading statements or engaging in misleading or
+                             deceptive conduct in contravention of the Corporations Act or the Australian
+                             Securities and Investments Commission Act 2001 (ASIC Act).
+                                   Note: Responsible entities should also refer to Regulatory Guide 234 Advertising financial
+                                   products and advice services: Good practice guide (RG 234) when considering advertising.
+
+
+
+Use of investment ratings
+              RG 46.165      If an investment rating is used in an unlisted property scheme advertisement,
+                             it should be properly explained. This explanation should include the meaning
+                             of the rating and where an investor can obtain further information about the
+                             rating. The advertisement should also state that investment ratings are only
+                             one factor to be taken into account when deciding whether to invest.
+
+              RG 46.166      Responsible entities should ensure that:
+                             (a)   the impression the investment rating creates about the unlisted property
+                                   scheme being advertised is not misleading; and
+                             (b)   investment ratings used in advertisements are only quoted from research
+                                   houses that hold an AFS licence.
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 39
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+G          Compliance plans
+
+                               Key points
+
+                               Compliance plans must set out measures for the responsible entity to
+                               comply with the Corporations Act and scheme constitution. We expect
+                               compliance plans for unlisted property schemes to set out adequate
+                               measures to ensure compliance with the law relating to disclosure and
+                               advertising: see RG 46.167–RG 46.171.
+                               We expect compliance committees and compliance plan auditors to be
+                               aware of the benchmarks and disclosure principles and advertising
+                               obligations discussed in this guide, and to have regard to them in carrying
+                               out their duties: see RG 46.172–RG 46.178.
+                               Responsible entities, compliance committees and compliance plan auditors
+                               should consider the benchmarks, disclosure principles and advertising
+                               obligations when assessing whether a compliance plan is adequate.
+
+
+
+The compliance plan
+              RG 46.167      Compliance plans play a key role in protecting investors and promoting their
+                             interests. The law requires an unlisted property scheme to have a compliance
+                             plan: s601EA. The compliance plan must set out adequate measures for the
+                             responsible entity to ensure compliance with the Corporations Act and the
+                             scheme’s constitution: s601HA. The responsible entity has a duty to comply
+                             with the compliance plan: s601FC(1)(h).
+
+              RG 46.168      Compliance plans should contain adequate procedures to ensure that a
+                             responsible entity discloses against the benchmarks and applies the
+                             disclosure principles in its up-front and ongoing disclosure to retail
+                             investors. Compliance plans should also contain adequate procedures to
+                             ensure that responsible entities comply with their advertising obligations.
+
+              RG 46.169      We do not expect that responsible entities will necessarily need to change
+                             their compliance plans to deal expressly with the benchmarks, disclosure
+                             principles and advertising obligations discussed in this guide. Good
+                             compliance plans should already contain procedures that ensure that
+                             responsible entities comply with all of their disclosure and advertising
+                             obligations under the Corporations Act.
+
+              RG 46.170      However, we expect responsible entities to critically examine existing
+                             compliance plans and consider whether they are adequate to ensure
+                             compliance with the obligations discussed in this guide.
+
+              RG 46.171      Regardless of whether a scheme has a compliance committee, responsible
+                             entities have a duty to ensure that compliance plans establish adequate
+                             measures to ensure compliance (including with disclosure and advertising
+                             obligations): s601FC(1)(g).
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 40
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+Compliance committees
+              RG 46.172      Many unlisted property schemes have a compliance committee. A scheme is
+                             required to have a compliance committee unless at least half of the
+                             responsible entity’s directors are external directors: s601JA. If the scheme
+                             does not have a compliance committee, the responsible entity’s directors
+                             should be particularly vigilant about ensuring the responsible entity complies
+                             with the compliance plan and that the compliance plan is adequate.
+
+              RG 46.173      The functions of a compliance committee are to:
+                             (a)   monitor the extent to which a responsible entity complies with the
+                                   compliance plan and report its findings to the responsible entity;
+                             (b)   report any breach of the law or the scheme’s constitution to the
+                                   responsible entity;
+                             (c)   report to ASIC if the compliance committee considers that the
+                                   responsible entity is not taking adequate action to deal with a matter
+                                   reported under RG 46.173(b); and
+                             (d)   assess at regular intervals whether the compliance plan is adequate, to
+                                   report to the responsible entity on the assessment and to make
+                                   recommendations to the responsible entity about any changes that it
+                                   considers should be made to the plan: s601JC(1).
+
+              RG 46.174      We expect compliance committees for unlisted property schemes to be
+                             aware of the benchmarks, disclosure principles and advertising obligations
+                             discussed in this guide. Compliance committees need to regularly assess
+                             whether the compliance plan contains adequate measures to ensure
+                             compliance by responsible entities with:
+                             (a)   their up-front and ongoing disclosure obligations to retail investors,
+                                   including in relation to the benchmarks and disclosure principles, as
+                                   discussed in Sections C, D and E; and
+                             (b)   their obligation to ensure that any advertising for the scheme is not
+                                   misleading or deceptive, as discussed in Section F.
+
+              RG 46.175      If a compliance committee forms the view that a compliance plan is not
+                             adequate, it needs to report this to the responsible entity, together with
+                             recommendations about changes that should be made to the plan.
+
+              RG 46.176      A compliance committee should also monitor compliance by the responsible
+                             entity with the compliance plan. If a compliance committee identifies non-
+                             compliance or a possible breach of the Corporations Act (including a breach
+                             relating to the responsible entity’s disclosure or advertising obligations), the
+                             compliance committee will need to make a report to the responsible entity
+                             and, if necessary, report the matter to us.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 41
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+Compliance plan auditors
+              RG 46.177      Compliance plans are subject to an annual audit. The auditor of a compliance
+                             plan must give the responsible entity a report that states the auditor’s opinion
+                             on whether:
+                             (a)   the responsible entity has complied with the compliance plan; and
+                             (b)   the plan continues to meet the requirements of the Corporations Act.
+
+              RG 46.178      We expect compliance plan auditors of unlisted property schemes to be
+                             aware of the benchmarks, disclosure principles and advertising obligations in
+                             this guide. In determining whether a plan continues to meet the requirements
+                             of the Corporations Act, compliance plan auditors should consider whether
+                             the compliance plan is adequate to ensure that the responsible entity
+                             discloses against the benchmarks and applies the disclosure principles in its
+                             PDSs and ongoing disclosures to retail investors, and meets its obligations to
+                             avoid any misleading advertising.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 42
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+Key terms
+
+
+                               Term                       Meaning in this document
+
+                               advertisement              Includes comment and promotion of unlisted property
+                                                          schemes in media programs or publications (generally
+                                                          known as ‘advertorials’) and statements about a scheme
+                                                          published by a responsible entity on its website that is
+                                                          intended to promote the scheme to retail investors (but
+                                                          does not include statements in a PDS)
+
+                               AFS licence                An Australian financial services licence under s913B of the
+                                                          Corporations Act that authorises a person who carries out a
+                                                          financial services business to provide financial services
+                                                                Note: This is a definition contained in s761A of the
+                                                                Corporations Act.
+
+                               ASIC                       Australian Securities and Investments Commission
+
+                               ASIC Act                   Australian Securities and Investments Commission Act
+                                                          2001
+
+                               ‘as if complete’           An estimate of the market value of a property, assuming
+                               valuation                  certain specified improvements are made
+
+                               ‘as is’ valuation          An estimate of the market value of a property in its current
+                                                          state (i.e. without any further improvements)
+
+                               Ch 2M (for example)        A chapter of the Corporations Act (in this example,
+                                                          numbered 2M)
+
+                               closed-end scheme          A scheme which issues all the interests it will issue at the
+                                                          outset. These interests may be able to be transferred
+                                                          between investors thereafter
+
+                               [CO 03/237] (for           An ASIC class order (in this example, numbered 03/237)
+                               example)
+
+                               Corporations Act           Corporations Act 2001, including regulations made for the
+                                                          purposes of that Act
+
+                               CP 100 (for example)       An ASIC consultation paper (in this example, numbered
+                                                          100)
+
+                               disclosure principle       Information covered by the disclosure principles in
+                               information                Section D of this guide
+
+                               existing scheme            An unlisted property scheme that investors have invested
+                                                          in before 1 November 2012
+
+                               open-end scheme            A scheme which can issue and redeem units at any time.
+                                                          An investor will generally purchase units in the scheme
+                                                          directly from the scheme itself rather than from the existing
+                                                          investors
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                          Page 43
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+                               Term                       Meaning in this document
+
+                               Product Disclosure         A document that must be given to a retail client in relation
+                               Statement (PDS)            to the offer or issue of a financial product in accordance
+                                                          with Div 2 of Pt 7.9 of the Corporations Act
+                                                                Note: See s761A for the exact definition.
+
+                               related party              Has the meaning given in s228, or as modified by Pt 5C.7
+                                                          for registered schemes, as the case may be
+
+                               RG 76 (for example)        An ASIC regulatory guide (in this example, numbered 76)
+
+                               s710 (for example)         A section of the Corporations Act (in this example,
+                                                          numbered 710)
+
+
+                               unlisted property          An unlisted managed investment scheme that has or is
+                               scheme                     likely to have at least 50% of its non-cash assets invested
+                                                          in real property and/or in unlisted property schemes
+                                                                Note: For the purposes of this definition, ‘real property’ does
+                                                                not include infrastructure assets.
+
+
+
+
+© Australian Securities and Investments Commission March 2012                                                         Page 44
+                                    REGULATORY GUIDE 46: Unlisted property schemes: Improving disclosure for retail investors
+
+
+
+
+Related information
+                             Headnotes
+
+                             advertising, benchmark disclosure, compliance committees, compliance
+                             plans, compliance plan auditors, deceptive, disclosure, disclosure principles,
+                             listed, misleading, PDS, Product Disclosure Statement, property schemes,
+                             responsible entities, retail investors, valuers, unlisted
+
+
+                             Class order
+
+                             [CO 03/237] Updated information in Product Disclosure Statements
+
+
+                             Regulatory guides
+
+                             RG 76 Related party transactions
+
+                             RG 120 Commentary on compliance plans: Property schemes
+
+                             RG 132 Managed investments: Compliance plans
+
+                             RG 168 Disclosure: Product Disclosure Statements (and other disclosure
+                             obligations)
+
+                             RG 170 Prospective financial information
+
+                             RG 198 Unlisted disclosing entities: Continuous disclosure obligations
+
+                             RG 228 Prospectuses: Effective disclosure for retail investors
+
+                             RG 231 Infrastructure entities: Improving disclosure to retail investors
+
+                             RG 234 Advertising financial products and services: Good practice
+                             guidance
+
+
+                             Legislation
+
+                             ASIC Act
+
+                             Corporations Act, Chs 2M and 6CA, Pts 5C.6, 5C.7, 7.9 and 7.10, s228, 314,
+                             601EA, 601FC(1)(g), 601FC(1)(h), 601HA, 601JA, 601JC(1), 675, 769C,
+                             912A(1)(aa), 1012A–1012C, 1013D–1013F, 1017B, 1017D and 1020E
+
+
+                             Consultation papers and reports
+
+                             CP 163 Unlisted property schemes: Update to RG 46
+
+                             REP 280 Response to submissions on CP 163 Unlisted property schemes:
+                             Update to RG 46
+
+
+
+© Australian Securities and Investments Commission March 2012                                                       Page 45
+

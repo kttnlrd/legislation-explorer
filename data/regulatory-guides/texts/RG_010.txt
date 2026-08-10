@@ -1,0 +1,2633 @@
+REGULATORY GUIDE 10
+
+Compulsory acquisitions and
+buyouts
+
+March 2024
+
+
+
+
+About this guide
+This guide is for persons who are undertaking, or are subject to, a
+compulsory acquisition under Ch 6A of the Corporations Act. It is also for
+persons who are required to give, or are entitled to, buyout rights.
+
+This guide:
+   discusses the purposes underlying compulsory acquisition and buyout
+    rights and how we administer the provisions of Ch 6A;
+   explains the exemptions we have provided and modifications we have
+    made to the relevant requirements, and when we will consider case-by-
+    case relief from the provisions; and
+   outlines our process for nominating persons to prepare an expert’s
+    report under s667AA.
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in March 2024 and is based on legislation and
+                             regulations as at the date of issue.
+
+                             Previous versions:
+
+                             •       Superseded Regulatory Guide 10, issued June 2013
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                              Page 2
+                                                                  REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+Contents
+                             A      Overview ........................................................................................... 4
+                                    The objectives of compulsory acquisition and buyout rights ............. 4
+                                    The types of compulsory acquisition under Ch 6A ............................ 6
+                                    When buyout rights arise ................................................................... 8
+                                    ASIC’s role ......................................................................................... 9
+                                    Purpose of this guide ....................................................................... 10
+                                    Other guidance you may need to consider ...................................... 11
+                             B      Post-bid compulsory acquisition ................................................. 12
+                                    Principles underlying post-bid compulsory acquisition .................... 12
+                                    The requirement to bid for all securities .......................................... 14
+                                    The 90% relevant interest threshold ................................................ 15
+                                    The 75% acquisition threshold......................................................... 16
+                                    Compulsory acquisition of employee and other non-transferable
+                                    securities .......................................................................................... 20
+                             C      General compulsory acquisition .................................................. 24
+                                    Principles underlying general compulsory acquisition ..................... 24
+                                    Full beneficial interests .................................................................... 25
+                                    The six-month time limit for general compulsory acquisition ........... 28
+                                    Employee performance rights .......................................................... 30
+                                    How you lodge an application for relief ............................................ 31
+                             D      Buyout rights ................................................................................. 32
+                                    Principles underlying the buyout provisions .................................... 32
+                                    Concurrent post-bid compulsory acquisition and buyout rights
+                                    relating to bid class securities .......................................................... 33
+                                    General compulsory acquisition and post-bid buyouts of
+                                    convertible securities ....................................................................... 36
+                             E      Expert reports ................................................................................ 39
+                                    When an expert report is required ................................................... 39
+                                    Applying for nomination of experts .................................................. 40
+                                    Our registers of experts ................................................................... 41
+                                    How we nominate experts ............................................................... 41
+                             F      Lodging compulsory acquisition and buyout documents ........ 43
+                                    Form of notices to be lodged with ASIC and provided to the
+                                    relevant market operator and company ........................................... 43
+                                    Providing accompanying documents to ASIC ................................. 45
+                             Appendix 1: Superseded guidance ..................................................... 46
+                             Appendix 2: Accessible version of Figure 1 ....................................... 47
+                             Key terms ............................................................................................... 48
+                             Related information ............................................................................... 50
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                                           Page 3
+                                                           REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               The compulsory acquisition provisions are intended to balance the interests
+                               of the overwhelming owner of an entity with the need to safeguard the
+                               interests of minority holders.
+
+                               Corresponding rights to be bought out ensure that remaining holders can
+                               avoid being ‘locked-in’ to a minority position.
+
+                               Our role in relation to the compulsory acquisition and buyout rights regimes
+                               includes granting relief from the provisions in appropriate circumstances,
+                               nominating experts to prepare reports and administering unclaimed
+                               proceeds resulting from the process. In some cases, the court may have a
+                               role approving the compulsory acquisition or stopping the acquisition.
+
+                               The compulsory acquisition regime extends to the acquisition of securities
+                               of listed and unlisted companies, listed managed investment schemes and
+                               listed bodies that are not companies incorporated or formed in Australia.
+
+
+
+
+The objectives of compulsory acquisition and buyout rights
+              RG 10.1        Chapter 6A of the Corporations Act 2001 (Corporations Act) gives a
+                             person a right to compulsorily acquire securities under certain circumstances,
+                             depending on the level of a person’s interest in the relevant class of
+                             securities or the relevant entity overall.
+
+              RG 10.2        Compulsory acquisition can be a necessary and desirable means of
+                             corporate rationalisation, providing considerable benefits and flexibility
+                             to the full owner: see Legal Committee of the Companies and Securities
+                             Advisory Committee (CASAC), Compulsory acquisitions, January 1996
+                             (Compulsory Acquisitions Report), paragraph 1.11. Allowing access to
+                             these benefits improves the efficiency of businesses, financial markets and
+                             the economy overall.
+
+              RG 10.3        Providing for the compulsory acquisition of remaining securities also
+                             enhances the market for corporate acquisitions. Without the prospect of
+                             achieving full ownership, potential bidders may be discouraged from
+                             conducting takeovers or other control transactions, to the detriment of
+                             security holders generally.
+
+                                   Note: See the report of the Greene Committee, to which the original compulsory
+                                   acquisition provisions in Australia can be traced: Board of Trade (UK), Report of the
+                                   Company Law Amendment Committee, Cmd 2657, 1926 (Greene Committee Report),
+                                   paragraph 84. See also CASAC, Report to the Minister for Financial Services and
+                                   Regulation on compulsory acquisitions, March 2000, p. 2.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                      Page 4
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+              RG 10.4        However, as the compulsory acquisition process involves the expropriation
+                             of existing interests, there is also a need to ensure that minority holders are
+                             adequately protected.
+
+
+                             The compulsory acquisition regime
+
+              RG 10.5        The objective of the compulsory acquisition regime in Ch 6A is to balance
+                             the interests of the overwhelming owner of an entity with the need to
+                             safeguard the interests of minority holders. This balance involves allowing
+                             the overwhelming owner to gain access to the economic, administrative and
+                             tax-related benefits of full ownership while ensuring minority interest
+                             holders:
+                             (a)   are treated fairly;
+                             (b)   are given sufficient information relevant to the acquisition and their
+                                   rights; and
+                             (c)   where necessary, have access to external scrutiny through the courts and
+                                   ASIC’s regulatory oversight.
+
+              RG 10.6        The compulsory acquisition provisions also help prevent the practice of
+                             ‘greenmailing’, where minority holders seek prices in excess of fair value in
+                             exchange for delivering full ownership. This is consistent with the regulatory
+                             objective of avoiding both minority oppression and minority dictation.
+
+                                   Note: See Explanatory Memorandum to the Corporate Law Economic Reform Program
+                                   Bill 1998 (CLERP Bill), para 7.31, the Compulsory Acquisitions Report,
+                                   paragraphs 1.11–1.13 and the Greene Committee Report, paragraph 84.
+
+
+                             The buyout rights regime
+
+              RG 10.7        Chapter 6A also provides a buyout right for minority interest holders where
+                             a person has acquired an interest in all or most of the securities in a class.
+                             This right allows remaining holders and the holders of convertible securities
+                             to require the major interest holder to purchase their securities—for example,
+                             where the major holder decides not to utilise compulsory acquisition.
+
+              RG 10.8        The objective of buyout rights is to ensure that remaining holders have an
+                             opportunity to avoid being ‘locked-in’ as a minority when another person
+                             has acquired an interest in the vast majority of the securities in the relevant
+                             class (or, in the case of convertible securities, the underlying class) as a
+                             result of a scheme or offers made to holders.
+
+
+                             Entities subject to the compulsory acquisition and buyout
+                             provisions
+
+              RG 10.9        As well as securities in a company, compulsory acquisition and buyout
+                             rights extend to interests in listed registered managed investment schemes
+
+
+
+© Australian Securities and Investments Commission March 2024                                              Page 5
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             and securities in listed incorporated bodies that are not companies: s660A
+                             and 660B. Similar principles apply to investments in these entities.
+
+              RG 10.10       Discussion in this guide that refers to securities in a company should be
+                             taken to include equivalent references in the context of listed incorporated
+                             bodies and interests in a listed registered managed investment scheme.
+                             Adjustments that take account of the different features of managed
+                             investment schemes are set out in s660B(1).
+
+              RG 10.11       Neither the compulsory acquisition provisions nor the takeover provisions
+                             apply to interests in unlisted managed investment schemes: s604. However,
+                             the compulsory acquisition provisions do apply to an unlisted registered
+                             scheme that was previously listed at the end of a bid or at the time a
+                             compulsory acquisition notice is lodged: s660B(2) and (3).
+
+
+
+The types of compulsory acquisition under Ch 6A
+              RG 10.12       There are two types of compulsory acquisition under Ch 6A of the
+                             Corporations Act:
+                             (a)   compulsory acquisition following a takeover bid under Pt 6A.1 (post-
+                                   bid compulsory acquisition); and
+                             (b)   general compulsory acquisition under Pt 6A.2.
+
+              RG 10.13       Table 1 outlines when the right to compulsorily acquire securities arises
+                             under Ch 6A and the terms on which the compulsory acquisition may take
+                             place. All securities acquired as part of the compulsory acquisition process
+                             must be acquired on the same terms: s661C and 664B. Table 1 also includes
+                             a cross-reference to the prescribed ASIC form to be used when undertaking
+                             the relevant type of compulsory acquisition.
+
+              RG 10.14       A court may stop the compulsory acquisition process if it is satisfied that the
+                             terms of the acquisition do not give fair value for the securities: s661E(2)
+                             and 664F(3).
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                              Page 6
+                                                               REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+Table 1:      Compulsory acquisition under Ch 6A
+
+ Type of          When securities may be acquired                                       What a holder must               ASIC
+ acquisition                                                                            receive                          form
+
+ Post-bid         A bidder may compulsorily acquire any remaining                       The bidder must acquire          Form
+ compulsory       securities in the bid class at the end of a full takeover bid if      all of the securities on the     6021
+ acquisition:     it has met the compulsory acquisition threshold. To meet              terms that apply, or
+ s661A(1)         the threshold the bidder must:                                        applied, to the bid at the
+                   have a relevant interest in 90% of the bid class                    time the compulsory
+                    securities (by number) during or at the end of the bid;             acquisition notice is
+                    and                                                                 given.
+                   have acquired 75% of the securities (by number) that                Where alternative forms
+                    the bidder made offers for under the bid.                           of consideration are
+                                                                                        available under the bid,
+                  The compulsory acquisition may also extend to:
+                                                                                        the holder may make an
+                   any bid class securities issued or granted after the offer          election with a default
+                    period up until the time the compulsory acquisition                 choice applying if no
+                    notice is given;                                                    election is made.
+                   any securities coming into the bid class on exercise or
+                    conversion of convertible securities up to six weeks
+                    after the notice is given;
+                   certain non-transferable securities that would be in the
+                    bid class but for a restriction on transfer in the
+                    constitution (see RG 10.69–RG 10.82); and
+                   any other bid class securities in which the bidder
+                    already has a relevant interest.
+                  Post-bid compulsory acquisition on the basis of the
+                  threshold tests must commence with the dispatch of
+                  notices no later than one month after the end of the offer
+                  period.
+                  Alternatively, a court can approve post-bid compulsory
+                  acquisition even where the threshold is not met: s661A(3).
+
+ General          Under general compulsory acquisition, any person can                  The acquirer must                Form
+ compulsory       compulsorily acquire:                                                 propose to provide a cash        6024
+ acquisition:      all of the securities in a class if the person (together with       sum for the securities.
+ s664A(3)           any related body corporate) holds full beneficial                   The acquirer must also
+                    interests in 90% or more of the securities (by number) in           include with the
+                    the class; or                                                       compulsory acquisition
+                   all the securities in every class of shares or securities           notice an expert report
+                    convertible into shares, if the person:                             discussing whether the
+                     − has 90% or more voting power in the company; and                 proposed terms of the
+                                                                                        acquisition are fair value
+                     − holds, together with any related bodies corporate, full
+                                                                                        and (where applicable)
+                       beneficial interests in 90% or more of all the securities
+                                                                                        whether the acquirer has
+                       (by value) in the company that are either shares or
+                                                                                        met the test of having full
+                       convertible into shares.
+                                                                                        beneficial interests in
+                  The right to compulsorily acquire a class expires if the              90% of all securities by
+                  process is not commenced within six months of the right               value.
+                  arising: s664AA.
+
+Note: The full titles of the ASIC forms in this table are listed in the ‘Related information’ section of this guide. You should
+complete and lodge these forms using the transaction named ‘Lodge compulsory acquisition and buy out notices’ in the ASIC
+Regulatory Portal.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                             Page 7
+                                                            REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+When buyout rights arise
+                RG 10.15     If a bidder has a relevant interest in 90% or more (by number) of the
+                             securities in the bid class at the end of a takeover bid, or a person completes
+                             general compulsory acquisition of a class of securities, any remaining
+                             holders of securities in the class, or securities convertible into the class, may
+                             have a right to be bought out under Ch 6A. A summary of when buyout
+                             rights of this kind arise is set out in Table 2.
+
+                RG 10.16     Under the buyout procedure the bidder or full owner must make buyout
+                             offers and notify holders of their right to be bought out. Within one month of
+                             this notification, a holder may respond with a notice requiring the bidder to
+                             buy them out. The holder’s notice gives rise to a contract for sale on the
+                             relevant terms set out in Table 2.
+                                   Note: For the purposes of calculating when the one-month time limit begins, notices
+                                   sent by post are taken to be given three days after posting, regardless of when they
+                                   actually arrive: s662B(3), 663B(3) and 665B(3).
+
+Table 2:       Buyout rights under Ch 6A
+
+ Type of           Securities that may be bought out          Offer and contract terms                         ASIC
+ buyout right                                                                                                  form
+
+ Buyout rights if the bidder has a relevant interest in 90% of bid class securities (by number) at the end
+ of the bid
+
+ Post-bid          Remaining securities in the bid class      Unless the bidder and holder agree on            Form
+ buyout of bid-    (except securities issued after the        other terms, the terms that applied to the       6022
+ class             offer period closed, or after a notice     bid at the end of the offer period apply to
+ securities:       of status of conditions was given if       the buyout contract.
+ s662A(1)          the bid was conditional).
+                                                              Where alternative forms of consideration
+                                                              were offered under the bid, the holder
+                                                              may make an election. Otherwise a
+                                                              default choice specified by the bidder will
+                                                              apply.
+
+ Post-bid          Any securities convertible into bid        Terms must be proposed in the notice.            Form
+ buyout of         class securities (unless a post-bid        The holder must be given an expert report        6023
+ convertible       compulsory acquisition notice or           discussing whether the proposed terms of
+ securities:       buyout notice has already been             the acquisition are fair value.
+ s663A(1)          given for the convertible securities).
+                                                              If the holder responds with a notice
+                                                              requiring the bidder to buy them out, the
+                                                              terms of the buyout may be either:
+                                                               terms previously agreed between the
+                                                                bidder and the holder; or
+                                                               terms determined by a court on
+                                                                application by the holder.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                       Page 8
+                                                               REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+ Type of            Securities that may be bought out             Offer and contract terms                            ASIC
+ buyout right                                                                                                         form
+
+ Buyout rights if a person acquires full beneficial interests in all securities in a class through general
+ compulsory acquisition
+
+ Buyout of          Any securities convertible into the           A cash sum must be proposed in the                  Form
+ convertible        class that was compulsorily acquired          notice. The holder must be given an                 6025
+ securities         (unless a post-bid or general                 expert report discussing whether the
+ following          compulsory acquisition notice or a            proposed terms of the acquisition are fair
+ general            bid class buyout notice has already           value.
+ compulsory         been given for the convertible
+                                                                  If the holder responds with a notice
+ acquisition:       securities).
+                                                                  requiring the bidder to buy them out, the
+ s665A(2)
+                                                                  terms of the buyout may be either:
+                                                                   terms previously agreed between the
+                                                                    acquirer and the holder; or
+                                                                   terms determined by a court on
+                                                                    application by the holder.
+
+Note: The full titles of the ASIC forms in this table are listed in the ‘Related information’ section of this guide. You should
+complete and lodge these forms using the transaction named ‘Lodge compulsory acquisition and buy out notices’ in the ASIC
+Regulatory Portal.
+
+
+
+
+ASIC’s role
+                RG 10.17        ASIC has a number of functions and powers in relation to compulsory
+                                acquisitions and buyouts under Ch 6A. We monitor compulsory acquisition
+                                and buyout procedures to ensure compliance with the provisions and
+                                purposes underlying Ch 6A.
+
+                RG 10.18        ASIC also has a general exemption and modification power in relation to
+                                Ch 6A: s669. Where appropriate, we may provide case-by-case relief from
+                                certain requirements. We have also used ASIC’s power to provide relief to
+                                clarify and enhance the objectives of the regime. Our legislative instruments,
+                                and some of the case-by-case relief we may give, are discussed further in
+                                this guide.
+
+                RG 10.19        In certain situations, a person utilising compulsory acquisition, or notifying a
+                                holder of buyout rights, must provide an expert report with the relevant
+                                notice. In these cases, we have a role nominating the persons who may
+                                prepare the expert report: s667AA.
+
+                RG 10.20        We also administer the proceeds of compulsory acquisition that have not
+                                been claimed by security holders. A person completing compulsory
+                                acquisition of securities is entitled to pay the relevant consideration to, and
+                                be registered as holder of the securities by, the company that issued the
+                                securities if they do not settle directly with the holder (e.g. because the
+                                holder is uncontactable). The company will retain records of holders’
+                                entitlements and publish in the ASIC Gazette, by the end of the following
+                                February, details of any entitlements remaining as at the end of December.
+
+
+© Australian Securities and Investments Commission March 2024                                                             Page 9
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             The consideration is transferred to ASIC within a month of the anniversary
+                             of the records being published—after which we administer the consideration
+                             and assess claims from former holders who are entitled to receive the
+                             proceeds of the compulsory acquisition.
+
+                                   Note: For further information on unclaimed proceeds held by ASIC, including how to
+                                   make a claim, visit our consumer website, Moneysmart.
+
+
+
+
+Purpose of this guide
+              RG 10.21       This guide discusses how we administer the compulsory acquisition and
+                             buyout provisions in Ch 6A and the relief we have provided. It also
+                             discusses the instances when we may exercise ASIC’s discretionary powers
+                             to exempt from or modify the relevant provisions of the Corporations Act.
+
+              RG 10.22       In this guide we discuss compulsory acquisition under Ch 6A. This guide
+                             does not discuss other mechanisms that may be available under the
+                             Corporations Act to compulsorily acquire or exclude minority holdings.
+
+              RG 10.23       Table 3 summarises our guidance on compulsory acquisitions and buyouts.
+
+Table 3:    Summary of our guidance on compulsory acquisitions and buyouts
+
+ Topic                         What our guidance covers                                             Reference
+
+ Post-bid compulsory           We discuss the principles underlying post-bid compulsory             Section B
+ acquisition                   acquisition and the modifications we have made that have an
+                               impact on calculating the threshold tests for its utilisation. We
+                               also discuss our modifications to facilitate the acquisition of
+                               non-transferable employee securities.
+
+ General compulsory            We discuss the principles underlying general compulsory              Section C
+ acquisition                   acquisition and the relief we may give from the requirement to
+                               have a ‘full beneficial interest’ in securities. We also discuss
+                               the relief we may give to stop the six-month period running in
+                               certain circumstances, and how you lodge an application for
+                               relief.
+
+ Buyout rights                 We discuss the buyout provisions and the implications of             Section D
+                               securities being subject to compulsory acquisition at the same
+                               time a holder has a buyout right. We discuss some of the
+                               circumstances where we may or may not provide relief from
+                               the requirement to follow both processes.
+
+ Expert reports                We discuss when an expert report is required and our process         Section E
+                               for nominating experts, including how to lodge an application
+                               for nominating an expert.
+
+ Lodging compulsory            We discuss what you should lodge and provide to us as part of        Section F
+ acquisition and buyout        the compulsory acquisition and buyout procedures. We also
+ documents                     discuss how you lodge these documents.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                   Page 10
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+Other guidance you may need to consider
+              RG 10.24       Some of the discussion in this guide relates to compulsory acquisition and
+                             buyout rights following a takeover bid. Our guidance on other aspects of
+                             takeover bids and the requirements of Ch 6 may also be relevant:
+                             (a)   Regulatory Guide 5 Relevant interests and substantial holding notices
+                                   (RG 5);
+                             (b)   Regulatory Guide 6 Takeovers: Exceptions to the general prohibition
+                                   (RG 6); and
+                             (c)   Regulatory Guide 9 Takeover bids (RG 9).
+
+              RG 10.25       Applicants for case-by-case relief discussed in this guide should also
+                             consider our general guidance on applications in Regulatory Guide 51
+                             Applications for relief (RG 51).
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 11
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+B          Post-bid compulsory acquisition
+
+                               Key points
+
+                               Post-bid compulsory acquisition allows a bidder to acquire any outstanding
+                               bid class securities during or after a takeover bid if:
+                               • the bidder acquires a relevant interest in 90% of all bid class securities
+                                 and 75% of the securities for which offers were made; or
+                               • a court otherwise approves the acquisition.
+                               The purpose of the thresholds for post-bid compulsory acquisition is to
+                               demonstrate overwhelming acceptance of the terms of a bid. This justifies
+                               the compulsory acquisition of remaining holders on those terms.
+                               The requirement to bid for ‘all the securities in the bid class’ in s661A(1)(a)(i)
+                               means a full bid must be made to utilise post-bid compulsory acquisition.
+                               We have modified the 75% acquisition test and 90% relevant interest test
+                               to include and exclude certain holdings and acquisitions from the
+                               calculation, consistent with the underlying policy of the threshold tests. We
+                               have also modified Ch 6A to allow for post-bid compulsory acquisition of
+                               non-transferable employee securities in a different class to the bid class in
+                               certain circumstances.
+
+
+
+Principles underlying post-bid compulsory acquisition
+              RG 10.26       Under post-bid compulsory acquisition a bidder may compulsorily acquire
+                             securities in the bid class on the same terms as under the bid, provided two
+                             threshold tests are met:
+                             (a)   the bidder and their associates have relevant interests in at least 90% of
+                                   the securities in the bid class at some point during the offer period
+                                   (s661A(1)(b)(i)); and
+                             (b)   the bidder and their associates have acquired at least 75% of the
+                                   securities that the bidder offered to acquire under the bid, whether the
+                                   acquisitions happened under the bid or otherwise (s661A(1)(b)(ii)).
+
+              RG 10.27       A bidder may also initiate compulsory acquisition following a takeover bid
+                             with court approval: s661A(3).
+
+
+                             Post-bid compulsory acquisition on the basis of the
+                             threshold tests
+              RG 10.28       The basic principle underlying post-bid compulsory acquisition is that, where
+                             the terms of a takeover bid have received overwhelming acceptance, the
+                             bidder should generally be able to acquire any remaining bid class securities
+                             on those terms, unless the acquisition is otherwise shown to be unfair.
+                                   Note: See Compulsory Acquisitions Report, paragraph 2.27.
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 12
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+              RG 10.29       The efficiency and integrity of the takeover bid process under Ch 6 of the
+                             Corporations Act is therefore an important part of post-bid compulsory
+                             acquisition. The procedures and protections set out in Ch 6 are designed to
+                             ensure that:
+                             (a)   the acquisition of control under a takeover bid takes place in an
+                                   efficient, competitive and informed market; and
+                             (b)   target holders have sufficient information to assess the merits of the
+                                   takeover offer and are treated equally (s602).
+
+                             These procedures and protections underwrite the premise of the post-bid
+                             compulsory acquisition provisions, that satisfaction of the thresholds
+                             indicates widespread, fully informed and genuinely independent acceptance
+                             of the bid terms.
+
+              RG 10.30       Accordingly, an additional purpose of Ch 6 is to ensure that an appropriate
+                             procedure is followed as a preliminary to compulsory acquisition under the
+                             post-bid compulsory acquisition provisions: s602(d). If a bidder satisfies the
+                             post-bid compulsory acquisition thresholds in a way that is not appropriate,
+                             the Takeovers Panel may make a declaration of unacceptable circumstances:
+                             s657A(2)(b).
+
+              RG 10.31       The onus is placed on objectors to initiate court action to show the
+                             consideration offered is not fair value for the securities under post-bid
+                             compulsory acquisition: s661E(1). This is justified because there is already
+                             some evidence that the offer price is fair value:
+                             (a)   the price has been overwhelmingly accepted by holders independent of
+                                   the bidder—as demonstrated by satisfaction of the threshold tests; and
+                             (b)   these thresholds have been satisfied within the protective framework of
+                                   Ch 6 and the bid process.
+                                   Note: See also Compulsory Acquisitions Report, paragraph 2.81.
+
+
+                             Court-approved post-bid compulsory acquisition
+
+              RG 10.32       Even where the threshold tests have not been met, a bidder may utilise post-
+                             bid compulsory acquisition with the approval of the court.
+
+              RG 10.33       The court’s approval power provides additional flexibility to the post-bid
+                             compulsory acquisition procedure and addresses any arbitrariness in the
+                             precise 90% relevant interest threshold: Explanatory Memorandum to
+                             CLERP Bill, para 7.127. For example, the court may allow post-bid
+                             compulsory acquisition to proceed where:
+                             (a)   the bidder is unable to satisfy the threshold tests due to untraceable
+                                   holdings in the target; or
+                             (b)   the bidder achieves a relevant interest in the target that is marginally
+                                   below the 90% threshold (Re Sylvania Resources Ltd (2009) 74 ACSR 29).
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 13
+                                                            REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+The requirement to bid for all securities
+              RG 10.34       One of the requirements to utilise post-bid compulsory acquisition following
+                             an off-market bid is that the bidder must have made its bid for ‘all the
+                             securities in the bid class’: s661A(1)(a)(i).
+
+              RG 10.35       We interpret this requirement to mean that the off-market bid must be a full
+                             bid, not a proportional bid (i.e. it must be a bid for all the bid class securities
+                             on issue at the date set by the bidder under s633(2)). The language ‘all the
+                             securities in the bid class’ in s661A(1)(a)(i) is identical to the language in
+                             s618(1)(a), where it is used to refer to a full bid rather than a proportional
+                             bid made in accordance with s618(1)(b).
+
+              RG 10.36       Requiring a full bid is consistent with the principles underlying compulsory
+                             acquisition. Section 661A assists bidders seeking 100% ownership of the
+                             target, while balancing the interests of minority holders. A bidder seeking to
+                             maximise its chance of obtaining 100% ownership should not make a
+                             proportional bid.
+
+              RG 10.37       The 75% acquisition test for securities the bidder offered to acquire in
+                             s661A(1)(b)(ii) would also be imperfect in demonstrating overwhelming
+                             acceptance of the bidder’s offer in the case of a proportional bid. The bidder
+                             must give holders the opportunity to accept into the bid for their entire
+                             holding of bid class securities.
+
+
+                             Securities issued after the s633(2) record date
+
+              RG 10.38       The language ‘all the securities in the bid class’ does not mean the bidder
+                             must have bid for all possible bid class securities, including those issued
+                             after the record date determined by the bidder under s633(2). It means a full
+                             bid, rather than a proportional bid, must be made: RG 10.35.
+
+              RG 10.39       The view that an ‘ordinary’ full bid is an offer for all existing securities at
+                             the s633(2) date is reinforced by the language of s617 and 618. Under
+                             s617(1), a takeover bid relates to securities that exist, or will exist, as at the
+                             record date set by the bidder under s633(2). If the language in s618 covered
+                             securities issued after the s633(2) date due to the exercise of convertible
+                             securities, this would mean that under s618 the bidder must offer to acquire
+                             these later issued securities under the bid. This would be inconsistent with
+                             the permissive language in s617(2) that the bid may extend to later issued
+                             securities.
+
+                                   Note: For further discussion of the securities to which a takeover bid relates, see
+                                   RG 9.52–RG 9.60.
+
+              RG 10.40       Also, if the bidder were required to bid for later issued securities as a
+                             precondition to compulsory acquisition under s661A, this would indicate a
+                             policy that all holders must receive an offer under the bid before their
+
+
+
+© Australian Securities and Investments Commission March 2024                                                            Page 14
+                                                            REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             securities can be compulsorily acquired. This is inconsistent with s661A(4),
+                             which allows the bidder to elect whether to compulsorily acquire securities
+                             issued after the end of the offer period.
+
+
+
+The 90% relevant interest threshold
+              RG 10.41       Under s661A(1)(b)(i), a bidder seeking to engage post-bid compulsory
+                             acquisition must have, together with its associates, a relevant interest in 90%
+                             of the securities in the relevant class during or at the end of the offer period.
+                             A bidder who meets the 90% relevant interest test at some time during the
+                             offer period is not disqualified if it ceases to satisfy the test because of the
+                             issue of further securities in the bid class.
+
+
+                             ASIC modification: Deemed relevant interests
+
+              RG 10.42       Under s661A(2), any relevant interests that the bidder has ‘merely because
+                             of the operation of subsection 608(3) (relevant interest by 20% interest in
+                             body corporate)’ must be disregarded in determining whether the 90%
+                             relevant interest threshold for post-bid compulsory acquisition has been met.
+
+              RG 10.43       ASIC Corporations (Compulsory Acquisitions and Buyouts) Instrument
+                             2023/684 modifies s661A(2) to:
+                             (a)   clarify that deemed relevant interests arising from a controlling interest
+                                   in a body corporate or managed investment scheme are not excluded
+                                   (i.e. deemed interests under s608(3)(b)); and
+                             (b)   extend the operation of the provision so that deemed relevant interests
+                                   of the bidder’s associates under s608(3)(a) are excluded.
+
+              RG 10.44       The 90% relevant interest test is a test of overwhelming ownership of the
+                             relevant class of securities. Where a person’s only interest in securities arises
+                             under s608(3)(a) as a result of their ownership of 20% or more of a body
+                             corporate or managed investment scheme with a relevant interest in the
+                             securities, it may be artificial to count those securities for the purposes of
+                             determining whether the person has overwhelming ownership of the entity.
+                             Deemed holdings of this kind are therefore excluded under s661A(2): see
+                             Compulsory Acquisitions Report, paragraphs 2.21–2.26.
+
+                                   Note: The operation of s661A(2) means, for example, that where a bidder has 20%
+                                   voting power in, but not control of, another entity that holds bid class securities, the
+                                   entity may need to accept into the bid for the bidder to be able to count the relevant
+                                   interests it has in the bid class securities for the purposes of the 90% relevant interest
+                                   test.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                           Page 15
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             Deemed relevant interests on the basis of controlled entities
+
+              RG 10.45       Section 661A(2) refers to s608(3), under which a person is deemed to have
+                             the relevant interests in securities that another body corporate or managed
+                             investment scheme has if:
+                             (a)   their voting power in the entity is above 20% (s608(3)(a)); or
+                             (b)   they control the entity (s608(3)(b)).
+
+              RG 10.46       We have modified s661A(2) to clarify that the exclusion from the 90%
+                             relevant interest test only applies to deemed relevant interests arising under
+                             the 20% limb in s608(3)(a). Our modification is consistent with the underlying
+                             purpose of the provision and the legislative intention evident from:
+                             (a)   the parenthetical reference in s661A(2) to deemed relevant interests on
+                                   the basis of a 20% or greater holding; and
+                             (b)   the recommendation in the Compulsory Acquisitions Report, on which
+                                   the CLERP amendments were largely based (see Explanatory
+                                   Memorandum to the CLERP Bill at para 7.118 and the Compulsory
+                                   Acquisitions Report at paragraphs 2.21–2.26, which refer to s33 of the
+                                   old Corporations Law).
+
+                             Deemed relevant interests of associates
+
+              RG 10.47       Our modification also extends the s661A(2) exclusion to the relevant interest
+                             holdings of associates of the bidder. The 90% relevant interest test is based
+                             on the interests of both bidders and their associates.
+
+              RG 10.48       We have made this modification because the policy underlying the exclusion
+                             of deemed relevant interests under s608(3)(a) applies equally to the interests
+                             of the bidder’s associates.
+
+              RG 10.49       Without our modification it may be possible for a bidder to avoid the
+                             exclusion in s661A(2) by seeking to rely on deemed relevant interests held
+                             by associates to satisfy the 90% relevant interest test.
+
+
+
+The 75% acquisition threshold
+              RG 10.50       As well as satisfying the 90% relevant interest test, a bidder and its associates
+                             must have acquired 75% of the securities the bidder offered to acquire under
+                             the bid in order to utilise post-bid compulsory acquisition: s661A(1)(b)(ii).
+                             The purpose of this additional test is to ensure that overwhelming acceptance
+                             of the bid terms is demonstrated even in cases where the bidder and its
+                             associates started the bid with a significant holding in the target.
+
+                                   Note: See Compulsory Acquisitions Report, paragraph 2.53.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 16
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+              RG 10.51       The 75% acquisition test requires that the bidder and its associates ‘acquire’
+                             the bid class securities, rather than simply obtain a relevant interest in the
+                             securities. The acquisitions need not be made under the bid. However, the
+                             prohibition in s623(1) on the bidder and its associates offering collateral
+                             benefits means that, generally, the only acquisitions the bidder and its
+                             associates will make outside the bid during the offer period will be through
+                             on-market purchases: s623(3)(b).
+
+                                   Note: See RG 6.31.
+
+
+                             ASIC modification: Excluded acquisitions
+
+              RG 10.52       ASIC Instrument 2023/684 modifies s661A to ensure that, when calculating
+                             whether the 75% acquisition test has been met, the following are excluded:
+                             (a)   securities in which the bidder or their associates had a relevant interest
+                                   as at the date of the first offer under the bid, other than securities
+                                   acquired before that date in reliance on item 2 of s611; and
+                             (b)   securities issued to an associate of the bidder during the offer period.
+
+              RG 10.53       Under our modification, these securities are excluded from being counted
+                             both as part of the number of securities ‘acquired’ and as part of the number
+                             of securities ‘the bidder offered to acquire under the bid’. Having excluded
+                             securities from the number ‘acquired’, it may otherwise be impossible for
+                             the bidder to meet the 75% acquisition test if we did not also exclude them
+                             from the number the bidder ‘offered to acquire’. The securities are therefore
+                             excluded from both the numerator and denominator in the percentage
+                             calculation.
+
+              RG 10.54       We have modified the 75% acquisition test in this way to:
+                             (a)   clarify its operation with respect to securities in which the bidder or its
+                                   associates had a relevant interest at the start of the offer, including
+                                   acquisitions by the bidder from an associate (see RG 10.55–RG 10.62);
+                                   and
+                             (b)   ensure that it is consistent with the underlying principle that the bidder
+                                   should only be able to utilise post-bid compulsory acquisition if its offer
+                                   received overwhelming acceptance from independent holders.
+
+                             Securities acquired from associates
+
+              RG 10.55       The 75% acquisition test applies to acquisitions during the offer period by
+                             ‘the bidder and their associates’, regardless of how the acquisition takes
+                             place. It may be unclear whether a bidder can satisfy the 75% acquisition test
+                             by acquiring an associate’s securities.
+
+              RG 10.56       The wording of s661A(1)(b)(ii) suggests that to be counted in the test,
+                             securities must be acquired from persons other than the bidder or their
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 17
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             associates. The test treats the bidder and their associates as a group, with the
+                             holdings of group members to be aggregated.
+
+              RG 10.57       Under this approach, shares acquired by the bidder from an associate are
+                             not ‘acquired’ under the test because they were already held by ‘the bidder
+                             and their associates’. This also means the bidder cannot double count
+                             securities acquired by an associate during the offer period that the bidder
+                             acquired in turn.
+
+              RG 10.58       ASIC Instrument 2023/684 clarifies this approach by expressly excluding
+                             any securities in which the bidder’s associates have a relevant interest from
+                             the 75% acquisition test.
+
+                             Securities acquired under s611 item 2
+
+              RG 10.59       ASIC Instrument 2023/684 modifies the operation of s661A(1)(b)(ii) to
+                             expressly exclude, from the 75% acquisition test, any securities in which the
+                             bidder or their associates have a relevant interest at the date of the first offer
+                             under the bid.
+
+              RG 10.60       As part of that modification, ASIC Instrument 2023/684 also clarifies that
+                             relevant interests acquired in reliance on s611 item 2 during the bid period
+                             are nevertheless included in the calculation of the 75% acquisition test: see
+                             s661A(2A)(a)(i) inserted by ASIC Instrument 2023/684. Our modification
+                             ensures any securities a bidder may acquire under s611 item 2 before offers
+                             are made are treated in the same way as acquisitions under the bid for the
+                             purposes of the 75% acquisition test, irrespective of whether the relevant
+                             acquisitions are made during the bid period prior to the commencement of
+                             the offer period. This upholds the underlying policy that the compulsory
+                             acquisition process should be available to a bidder where the threshold is
+                             satisfied by acceptances of independent holders.
+
+                             Securities in which the bidder already has a relevant interest
+
+              RG 10.61       There is a question whether a bidder is able to ‘acquire’ securities in which it
+                             already has a relevant interest for the purposes of s661A(1)(b)(ii). Our
+                             modification excludes acquisitions of this kind from the 75% acquisition
+                             test, as the holder of the securities would not be clearly independent of the
+                             bidder.
+
+              RG 10.62       Our modification also ensures that the narrower ‘relevant interest’ concept in
+                             s661A(2) does not apply to the 75% acquisition test (only the 90% relevant
+                             interest test). This means that the usual test for a relevant interest in s608
+                             (including the deeming provision in s608(3)(a)) applies for the purposes of
+                             determining whether securities are excluded from the 75% acquisition test
+                             under our modification in ASIC Instrument 2023/684, due to the bidder
+                             having had a relevant interest in the securities at the date of the first offer
+                             under the bid.
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 18
+                                                           REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             Securities issued to the bidder’s associates
+
+              RG 10.63       If the target issues securities to the bidder’s associates during the offer
+                             period, it is possible that the securities are ‘acquired’ for the purposes of the
+                             75% acquisition test. Without our modification, these securities may be
+                             counted towards meeting the test if the bidder has offered to purchase them
+                             under the takeover bid.
+
+              RG 10.64       Our modification excludes these securities because acquisitions by the
+                             bidder’s associates of shares issued directly by the target may be unrelated to
+                             the bid, and counting them would not promote the aim of the 75%
+                             acquisition test of measuring acceptance of the bid by independent holders.
+
+
+                             ASIC modification: Bids for convertible securities
+              RG 10.65       ASIC Instrument 2023/684 also modifies s661A(1)(b)(ii) to provide relief
+                             from the 75% acquisition test when the bid class for a takeover offer is
+                             convertible securities. Under our modification, convertible securities that are
+                             exercised or converted between the date under s633(2) and the end of the
+                             offer period will be excluded from the number of convertible securities that
+                             the bidder offered to acquire under the bid.
+                                   Note: The date under s633(2) is the date set by the bidder for determining to whom
+                                   offers under the bid will be sent.
+
+              RG 10.66       Holders may exercise their convertible securities after the bidder has
+                             determined to whom it must send its offers for convertible securities—often
+                             to accept a simultaneous offer by the bidder for the underlying securities.
+                             The bidder’s offer for underlying securities may extend to securities that
+                             come into existence following conversion or exercise of the convertible
+                             securities or derivatives: s617(2), ASIC Corporations (Takeover Bids)
+                             Instrument 2023/683, and RG 9.51–RG 9.63.
+
+              RG 10.67       Our modification is consistent with the underlying purpose of the 75%
+                             acquisition test of determining whether holders overwhelmingly accepted the
+                             offer under the takeover bid. If a holder exercises their convertible securities
+                             rather than accepting the offer for the convertible securities under the bid,
+                             the holder will neither have accepted nor directly rejected the bidder’s offer.
+                             The holder may have exercised the convertible securities for other reasons.
+                             Even if the holder preferred an offer by the bidder for the underlying
+                             securities, the exercise of convertible securities itself does not show that the
+                             bidder’s offer for the convertible securities was unfair.
+
+              RG 10.68       Without our modification, if a substantial proportion of holders exercise their
+                             convertible securities after the offer under the bid, it may be impossible for
+                             the bidder to meet the 75% acquisition test. This is because the bidder cannot
+                             count convertible securities that are exercised as securities acquired by it (the
+                             numerator in the percentage calculation) but these convertible securities
+                             would still be counted as securities that the bidder offered to acquire (the
+                             denominator).
+
+
+
+© Australian Securities and Investments Commission March 2024                                                     Page 19
+                                                            REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+Compulsory acquisition of employee and other non-transferable
+securities
+              RG 10.69       Some target companies may have issued to employees non-transferable
+                             securities as part of an employee incentive plan.
+
+              RG 10.70       A company issues ‘non-transferable employee securities’ with the purpose of
+                             remunerating employees while aligning their interests with those of the
+                             company. Non-transferable employee securities prevent employees from
+                             taking profits immediately and reinforce the interdependence of the company
+                             and the employee.
+
+
+                             Non-transferable securities as a separate class
+              RG 10.71       In some cases, non-transferable employee securities will be in a separate
+                             class to the bid class. A non-transferable security will be in a different class
+                             to other securities if it ‘differs sufficiently in respect of rights, benefits,
+                             disabilities, or other incidents, as to make it distinguishable from any other
+                             category of shares’: Clements Marshall Consolidated Ltd v ENT Ltd (1988)
+                             13 ACLR 90, 93.
+
+              RG 10.72       In the case of a share that differs from ordinary shares only because of
+                             restrictions on transfer, it is most likely that the share is in a different class if
+                             the constitution or terms of issue of the share provide that the share is non-
+                             transferable. In this case, it is clear the inability to transfer is attached to the
+                             share.
+
+              RG 10.73       In some employee share schemes, shares are purchased on-market and
+                             transferred into trust for the benefit of the employee. The share will not be in
+                             a separate class if it cannot be transferred merely because, in the case of an
+                             employee, it is subject to a trust. In this case, the inability to transfer is not
+                             attached to the shares but to the employee.
+                                   Note: For further discussion on class distinction in the takeover context, see RG 9.36–
+                                   RG 9.48.
+
+
+                             ASIC modification: Non-transferable employee securities
+              RG 10.74       The restrictions on non-transferable employee securities mean that they
+                             cannot be acquired by the bidder under a bid. If the employee securities are
+                             in their own class, it is impossible for the bidder to meet the post-bid
+                             compulsory acquisition threshold tests under a bid for the employee
+                             securities, by:
+                             (a)   achieving a 90% relevant interest in all securities in the bid class; and
+                             (b)   acquiring 75% of all securities that the bidder offered to acquire under
+                                   the bid: s661A(1)(b).
+                                   Note: A person may, however, compulsorily acquire non-transferable employee
+                                   securities, even if they are unable to acquire full beneficial interests in 90% of them, if
+                                   the requirements for general compulsory acquisition in s664A(2) are met.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                          Page 20
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+              RG 10.75       ASIC Instrument 2023/684 modifies s661A(1) so that if a bidder
+                             compulsorily acquires bid class securities it may also compulsorily acquire
+                             non-transferable employee securities where:
+                             (a)   the employee securities are in a different class to the bid class merely
+                                   because they are non-transferable (e.g. employee shares that would be
+                                   ordinary shares if they were transferable); and
+                             (b)   the employee securities, if included in the bid class, would not exceed
+                                   10% of all bid class securities (by number worked out at the end of the
+                                   offer period).
+
+              RG 10.76       We have made this modification to ensure a bidder or 90% holder is not
+                             prevented from acquiring 100% ownership of a company merely because
+                             employee securities are non-transferable. As noted in the Explanatory
+                             Memorandum to the CLERP Bill at para 7.40:
+                                   Compulsory acquisition of each class of securities can be difficult …
+                                   where there are restrictions on transferring some securities (for example,
+                                   securities issued under employee share schemes).
+
+              RG 10.77       Our modification counters the possible defensive effect of non-transferable
+                             employee securities. Many bidders seek 100% ownership of the target.
+                             Uncertainty about whether a bidder can compulsorily acquire non-
+                             transferable securities may be a factor in discouraging takeover bids.
+
+              RG 10.78       Our modification in ASIC Instrument 2023/684 is supported by various
+                             indications that the compulsory acquisition provisions were intended to
+                             cover non-transferable securities:
+                             (a)   the Explanatory Memorandum to the CLERP Bill suggests that Ch 6A
+                                   was intended to cover non-transferable securities (see RG 10.76);
+                             (b)   the compulsory acquisition provisions ‘apply despite anything in the
+                                   constitution of the company’ (s661A(5) and 664A(4)); and
+                             (c)   the definition of ‘convertible securities’ in s9 states that: ‘An option
+                                   may be a convertible security even if it is non-renounceable’. The
+                                   language ‘non-renounceable’ suggests that the definition covers non-
+                                   transferable options. Compulsory acquisitions extend to ‘convertible
+                                   securities’.
+
+                             How our modification operates
+
+              RG 10.79       Our modification treats non-transferable employee securities similarly to bid
+                             class securities issued during or after the offer period. The bidder may elect
+                             to compulsorily acquire later issued securities if it acquires bid class
+                             securities: s661A(4)(b) and (c).
+
+              RG 10.80       For the purposes of our modification, securities are ‘non-transferable’ when
+                             the constitution of the company or the terms of issue of the securities restricts
+                             their transfer. An ‘employee security’ is a security issued under a scheme to,
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 21
+                                                            REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             or for, the benefit of employees or non-executive directors of the company
+                             (or a related body corporate) in relation to their employment or services.
+                                   Note: Our modification is unnecessary in the case of securities that are non-transferable
+                                   only because they are held in trust under an employee share scheme. A trustee cannot
+                                   resist compulsory acquisition merely because of the terms of a trust. In a compulsory
+                                   acquisition the securities will be transferred regardless of the trust under the procedure
+                                   for transfer in s666B.
+
+              RG 10.81       Form 6021 Notice of compulsory acquisition following takeover bid includes
+                             a section for use when the bidder acquires non-transferable employee
+                             securities as well as bid class securities. For the avoidance of doubt, we also
+                             modify s661A(5), 664A(4) and Pt 6A.3 of Ch 6A so that non-transferable
+                             employee securities can be transferred in completion of a compulsory
+                             acquisition, regardless of any restraint under the terms of issue of the
+                             securities as well as the constitution of the company.
+
+              RG 10.82       The terms of our relief seek to ensure that compulsory acquisition processes
+                             are as similar as is practicable between non-transferable employee securities
+                             and other securities that would be in the same class except for the employee
+                             securities being non-transferable.
+
+
+                             ASIC relief: Other cases of non-transferable securities
+
+              RG 10.83       We may give case-by-case relief to allow post-bid compulsory acquisition of
+                             non-transferable securities in circumstances where ASIC Instrument 2023/684
+                             does not apply.
+
+                             Employee securities exceeding 10% of combined bid class
+
+              RG 10.84       A requirement of our modification in ASIC Instrument 2023/684 is that if
+                             the employee securities were bid class securities, they would not exceed
+                             10% of the bid class securities: see RG 10.75(b). Under our relief, the bidder
+                             does not have to meet the 90% relevant interest and 75% acquisition tests for
+                             the employee securities, as this would be impossible. This is more justifiable
+                             where the employee securities are a minor class.
+
+              RG 10.85       We will consider case-by-case relief in the unusual circumstance that the
+                             employee securities exceed 10%. We will take into account the
+                             circumstances of the issue of this number of securities under the employee
+                             share scheme, including any indication that the scheme was administered
+                             with a defensive purpose.
+
+                             Other non-transferable securities
+
+              RG 10.86       We may consider applications for case-by-case relief to compulsorily
+                             acquire non-transferable securities other than employee securities. In
+                             considering relief of this kind we will take into account the nature and
+                             purpose of the restriction on transfer.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                        Page 22
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             How you lodge an application for relief
+
+              RG 10.87       You should submit your application for relief through the ASIC Regulatory
+                             Portal. Your application for relief should address the requirements set out in
+                             RG 51. You will need to pay fees for your application. We have provided
+                             details about payment options in the portal. For more information, see how
+                             you apply for relief.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 23
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+C          General compulsory acquisition
+
+                               Key points
+
+                               General compulsory acquisition allows an overwhelming owner of a class
+                               of securities, or the voting rights and value of an entity, to compulsorily
+                               acquire the remaining securities, regardless of whether they have made a
+                               takeover bid for the relevant class.
+
+                               We may give case-by-case relief so that a registered managed investment
+                               scheme, or a person who has granted a security interest over their holding,
+                               can meet the 90% full beneficial interest test for general compulsory
+                               acquisition in s664A(1) or (2).
+
+                               We may grant case-by-case relief to stop the six-month time period for
+                               commencing general compulsory acquisition running during court
+                               proceedings or when a person’s holding is involuntarily diluted below
+                               the 90% full beneficial interest threshold.
+
+
+
+
+Principles underlying general compulsory acquisition
+              RG 10.88       Under general compulsory acquisition, a person who is a 90% holder in
+                             relation to a class of securities may compulsorily acquire all the remaining
+                             securities in that class in which neither the person nor any related bodies
+                             corporate have full beneficial interests: s664A(3).
+
+              RG 10.89       A person is a 90% holder in relation to a particular class of securities if the
+                             person (together with any related bodies corporate) holds full beneficial
+                             interests in at least 90% of the securities (by number) in that class: s664A(1).
+
+              RG 10.90       Additionally, a person is a 90% holder in relation to all classes of shares, or
+                             securities convertible into shares, in a company if:
+                             (a)   the person’s voting power in the company is at least 90%; and
+                             (b)   the person holds, either alone or with a related body corporate, full
+                                   beneficial interests in at least 90% by value of all the securities of the
+                                   company on issue that are either shares or convertible into shares
+                                   (s664A(2)).
+
+              RG 10.91       Like post-bid compulsory acquisition, general compulsory acquisition
+                             facilitates access by the overwhelming owner of an entity to the benefits of
+                             full ownership.
+
+              RG 10.92       The test in s664A(1) extends compulsory acquisition rights to the holder of
+                             an overwhelming majority of the securities in a class even when a takeover
+                             bid has not been made. When an overwhelming owner has acquired full
+                             beneficial interests in over 90% of each class of securities on issue, the
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 24
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             owner will be able to obtain full ownership of all securities in the entity by
+                             utilising general compulsory acquisition on the basis set out in s664A(1).
+
+              RG 10.93       The alternative test for general compulsory acquisition in s664A(2) is
+                             designed to ensure that the holder of an overwhelming economic and control
+                             interest in an entity is able to access the advantages of full ownership
+                             regardless of the capital or ownership structure of the entity. Section 664A(2)
+                             overcomes the difficulties of class-by-class compulsory acquisition that may
+                             arise when there are a large number of classes on issue, a small number of
+                             holders in one or more classes, or restrictions on transferring or acquiring
+                             securities in a particular class.
+
+                                   Note: See Explanatory Memorandum to the CLERP Bill, paras 7.40–7.42.
+
+              RG 10.94       Because general compulsory acquisition applies whether or not a takeover
+                             bid has been made, the procedure to be followed includes additional
+                             protections for minority shareholders:
+                             (a)   the 90% holder must have a ‘full beneficial interest’ rather than a
+                                   relevant interest to meet the 90% threshold (s664A);
+                             (b)   the 90% holder must offer a cash sum (s664B);
+                             (c)   the 90% holder must provide an independent expert report addressing
+                                   whether the consideration is fair value with its compulsory acquisition
+                                   notice and (to the extent not covered by the expert report) include
+                                   disclosure of any other information material to deciding whether to
+                                   object to the acquisition (s664C(1)); and
+                             (d)   if holders of 10% or more of the securities covered by the notice object
+                                   to the compulsory acquisition, the 90% holder must apply to the court
+                                   for approval of the acquisition, and bear the cost of court proceedings, if
+                                   it wishes to proceed with the compulsory acquisition (s664F).
+
+              RG 10.95       Further, in contrast to post-bid compulsory acquisition, if court proceedings
+                             are commenced, the onus is on the 90% holder to establish that their offer
+                             represents fair value: s664F(3).
+
+
+
+Full beneficial interests
+              RG 10.96       General compulsory acquisition operates by reference to an overwhelming
+                             owner’s full beneficial interests in securities.
+
+              RG 10.97       An overwhelming owner relying on s664A(1) must have full beneficial
+                             interests in at least 90% of the securities in the class.
+
+              RG 10.98       An overwhelming owner relying on s664A(2) must have full beneficial
+                             interests in 90% of all securities in the entity by value. An owner of this kind
+                             must provide an independent expert report that states whether, in the expert’s
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 25
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             opinion, the owner meets the test in s664A(2)(c): s667A(2). Section 667A(2)
+                             refers to the expert stating their opinion on the owner’s ‘full beneficial
+                             ownership’.
+
+              RG 10.99       The phrase ‘full beneficial interest’ is not defined. The Explanatory
+                             Memorandum to the CLERP Bill suggests a full beneficial interest is:
+                             (a)   direct ownership; or
+                             (b)   ownership through a nominee.
+
+              RG 10.100      Case law indicates that a ‘full beneficial interest’ is directed towards
+                             equitable ownership: see Austrim Nylex Ltd v Kroll and Others (No 2)
+                             (2002) 42 ACSR 18 at [90]. In some cases the scope of what constitutes a
+                             ‘full beneficial interest’ may be unclear.
+
+
+                             When we may give relief
+
+              RG 10.101      We may give case-by-case relief so that a person can meet the 90% full
+                             beneficial interest test for compulsory acquisition in s664A(1) or (2) even if
+                             the overwhelming owner’s interest may not constitute a full beneficial
+                             interest. We may give this relief when:
+                             (a)   the holding is scheme property of a registered managed investment
+                                   scheme (this relief treats the registered managed investment scheme as
+                                   a single entity that owns the securities); or
+                             (b)   the owner has granted a mortgage, charge or other security interest over
+                                   the holding.
+
+              RG 10.102      We provide this relief because, even where they may not have a full
+                             beneficial interest in securities, an overwhelming owner should be treated as
+                             a 90% holder if in a commercial sense they own 90% of the securities. In our
+                             view, a person owns securities in a commercial sense if they have both the
+                             benefit and risk attached to the securities.
+
+              RG 10.103      Our relief will also mean that if the holding is scheme property or the
+                             overwhelming owner has given a mortgage, this will not prevent an expert
+                             from stating an opinion that the owner has full beneficial ownership in at
+                             least 90% (by value) of all the securities in the company for the purposes
+                             of s667A(2).
+
+              RG 10.104      When we give this relief, we will make corresponding modifications so that
+                             s665A will apply to a holding that is scheme property or a holder who has
+                             given a mortgage although there may be no full beneficial interest. This
+                             preserves the operation of the buyout rights regime for convertible security
+                             holders following general compulsory acquisition.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 26
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             ASIC relief: Registered managed investment schemes
+
+              RG 10.105      Where securities are held by a registered managed investment scheme, it is
+                             unlikely that the 90% full beneficial interest test in s664A(1) for general
+                             compulsory acquisition can be met by:
+                             (a)   the responsible entity (or any custodian) of the scheme; or
+                             (b)   the members of the scheme.
+
+                                   Note: Ch 6A extends to the acquisition of interests in a listed registered managed
+                                   investment scheme: s660B. This problem is likely to become particularly apparent in a
+                                   case where a registered managed investment scheme seeks to gain 100% ownership of a
+                                   listed registered managed investment scheme.
+
+              RG 10.106      It is unlikely that a managed investment scheme or its responsible entity (or
+                             any custodian) can be a 90% holder under s664A(1), because the responsible
+                             entity does not have a full beneficial interest in securities that are scheme
+                             property.
+
+              RG 10.107      It is also unlikely that a member of a managed investment scheme has a full
+                             beneficial interest in such securities. A member would have a beneficial
+                             interest in particular scheme property only if they have rights against the
+                             responsible entity that are closely related to the property. This is unlikely for
+                             a scheme in the nature of an equity fund. Such a beneficial interest may not
+                             be ‘full’. Even if the members did have a full beneficial interest, their
+                             interests could not be aggregated for the purposes of s664A(1) unless they
+                             were related bodies corporate.
+
+              RG 10.108      We may give case-by-case relief to treat a registered managed investment
+                             scheme as a single entity that owns the securities, so that the registered
+                             managed investment scheme can meet the 90% full beneficial interest test in
+                             s664A(1) and the scheme can utilise general compulsory acquisition.
+
+                             No aggregation with other holdings
+
+              RG 10.109      When we give relief for a registered managed investment scheme, normally
+                             it will be a term of our relief that the responsible entity cannot meet the 90%
+                             full beneficial interest test in s664A by aggregating its interest in securities
+                             that are property of a scheme with:
+                             (a)   securities held by related bodies corporate of the responsible entity; and
+                             (b)   the responsible entity’s interest in securities that are scheme property of
+                                   another scheme.
+
+              RG 10.110      Under s664A(1) and (2), a person’s full beneficial interests can be
+                             aggregated with those of their related bodies corporate for the purposes of
+                             meeting the 90% full beneficial interest test. This concept of group
+                             ownership of the securities is not appropriate for a registered scheme. The
+                             responsible entity has a legal obligation to exercise rights and benefits
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                   Page 27
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             attaching to securities that are scheme property for the benefit of members of
+                             the scheme rather than the responsible entity’s corporate members.
+                             Similarly, it may be inappropriate to aggregate holdings that are scheme
+                             property of different schemes with a common responsible entity.
+
+
+                             ASIC relief: Mortgaged or charged holdings
+
+              RG 10.111      A person who gives a mortgage, charge or other security interest may not be
+                             able to meet the 90% full beneficial interest test in s664A. Some commentators
+                             have suggested that a beneficial interest would not be ‘full’ if any other
+                             person has a vested or contingent beneficial interest in the securities. On this
+                             view, a holder who gave a mortgage, charge or other security interest would
+                             not have a full beneficial interest in the securities. There is an alternative
+                             view that the problem arises for equitable mortgages only.
+
+              RG 10.112      For certainty, we may give case-by-case relief so that s664A applies where
+                             the overwhelming owner has given any mortgage, charge or other security
+                             interest over the holding. Our relief for an owner that has given a mortgage
+                             will require that:
+                             (a)   the financier took or acquired the mortgage in the ordinary course of
+                                   their business of providing financial accommodation and on ordinary
+                                   commercial terms; and
+                             (b)   the financier is not an associate of the owner.
+
+                             In these circumstances it is clearer that the overwhelming owner who gave
+                             the mortgage remains owner of the holding in the commercial sense. These
+                             requirements are the same as those applying to the exception from the relevant
+                             interest concept for money lending and financial accommodation: s609(1).
+
+
+
+The six-month time limit for general compulsory acquisition
+              RG 10.113      A person who becomes entitled to compulsorily acquire securities in a class
+                             under s664A may only do so if they lodge a compulsory acquisition notice
+                             within the period of six months after becoming a 90% holder.
+
+              RG 10.114      The six-month period for lodging a compulsory acquisition notice protects
+                             minority holders from ongoing uncertainty about the status of their holding.
+                             At the same time, Pt 6A.2 aims to give the 90% holder a reasonable
+                             opportunity to compulsorily acquire remaining securities and access the
+                             benefits of full ownership.
+
+                                   Note: See Parliamentary Joint Committee on Corporations and Securities, Parliament
+                                   of Australia, Report on the Corporate Law Economic Reform Program Bill 1998,
+                                   May 1999, paragraph 3.60.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                   Page 28
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             Reckoning the six-month period
+
+              RG 10.115      The six-month period for commencing general compulsory acquisition
+                             applies when a person first becomes a 90% holder in relation to the relevant
+                             class. If a 90% holder ceases to meet the test and then meets it again, the six-
+                             month period does not stop running until, or restart when, the holder
+                             becomes a 90% holder again.
+
+              RG 10.116      If this were not so, the 90% holder could sell down to retain its ability to rely
+                             on s664A and repurchase when it is ready to compulsorily acquire the
+                             remaining securities.
+
+
+                             ASIC relief: Stopping the six-month period
+
+              RG 10.117      We may provide case-by-case relief from s664AA to stop the six-month
+                             period running in the following circumstances:
+                             (a)   where the 90% holder has applied to a court under s664F(1) for
+                                   approval of the acquisition (see RG 10.121); and
+                             (b)   where the 90% holder ceases to meet the 90% full beneficial interest
+                                   test in s664A for reasons beyond its control (see RG 10.125).
+
+              RG 10.118      We consider that relief in these circumstances strikes a balance between:
+                             (a)   the interests of minority holders; and
+                             (b)   ensuring the overwhelming owner has access to the advantages of the
+                                   compulsory acquisition provisions, including better management of
+                                   company groups, reduction of administrative reporting requirements
+                                   and discouraging minority shareholders from demanding a price for
+                                   their securities that is above a fair value.
+
+              RG 10.119      A 90% holder should consider compulsory acquisition soon after becoming a
+                             90% holder, because our relief merely stops time running under s664AA.
+                             For example, holders should leave sufficient time to improve the terms of the
+                             compulsory acquisition if necessary after any proceedings under s664F.
+
+              RG 10.120      A 90% holder should apply for relief from s664AA well within the
+                             six-month period. We will not give relief after the six-month period has
+                             passed.
+
+                             Court proceedings
+
+              RG 10.121      We may provide relief to stop the six-month period running during the time
+                             that the 90% holder applies to the court under s664F(1) for approval of the
+                             acquisition until the end of all proceedings in relation to the application
+                             (including appeals).
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 29
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+              RG 10.122      The court does not have the power to substitute a higher cash sum for that
+                             stated by the 90% holder in its compulsory acquisition notice (except in
+                             exceptional circumstances under s1350). Under s664F(3), the court must
+                             either:
+                             (a)   approve the acquisition of the securities on the terms in the compulsory
+                                   acquisition notice; or
+                             (b)   confirm that the acquisition will not take place.
+
+              RG 10.123      A 90% holder should be able to improve the terms of its compulsory
+                             acquisition in a second compulsory acquisition notice within a reasonable
+                             period after court proceedings under s664F. Section 664C(6)(b)
+                             contemplates giving a further notice, and the second notice will also be
+                             subject to objections by minority holders and court approval.
+
+              RG 10.124      Our relief ensures a 90% holder is able to improve the terms of the
+                             compulsory acquisition if it failed to establish to the court that its notice
+                             gives fair value under s664F. Without our relief, the six-month period under
+                             s664AA may have passed by the time the proceedings are concluded.
+
+                             Ceasing to be a 90% holder involuntarily
+
+              RG 10.125      A 90% holder may cease to meet the 90% full beneficial interest test in
+                             s664A(1) if its holding falls below 90% of the securities in the class. In some
+                             cases, this may be due to events beyond the control of the 90% holder. For
+                             example, a 90% holder may cease to meet the 90% full beneficial interest
+                             test due to the exercise by others of convertible securities.
+
+              RG 10.126      We may give case-by-case relief from s664AA to stop the period running
+                             after a 90% holder ceases to meet the 90% full beneficial interest test until it
+                             meets the test again. We will only give this relief if the 90% holder ceases to
+                             meet the test for reasons beyond its control.
+
+
+
+Employee performance rights
+              RG 10.127      A company or listed registered managed investment scheme will sometimes
+                             issue to its employees rights or entitlements to be issued with new shares or
+                             interests contingent on the achievement of a particular performance measure
+                             or milestone (employee performance rights).
+
+              RG 10.128      Depending on their particular terms and the rules of the plan under which
+                             they were issued, some employee performance rights may not fall within the
+                             ambit of the general compulsory acquisition provisions because they are not
+                             ‘securities’ as defined in s92(3). In particular, certain employee performance
+                             rights may not fall within the definition of an ‘option’ to acquire by way of
+                             issue a share or interest in a managed investment scheme: s92(3)(e). These
+                             performance rights may instead be a derivative: see s761D(1), the definition
+                             of ‘security’ in s761A and s92(3)(f).
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 30
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+              RG 10.129      If the employee performance rights that are on issue are not securities, a 90%
+                             holder in relation to the shares or interests that may be issued under the
+                             employee performance rights will not be able to compulsorily acquire the
+                             employee performance rights themselves under s664A(3) because a person
+                             can only be a 90% holder in relation to a class of securities. This is the case
+                             even if the person holds full beneficial interests in at least 90% by value of
+                             the securities in the company that are either shares or interests or convertible
+                             into shares or interests.
+
+
+                             ASIC relief: General compulsory acquisition of employee
+                             performance rights
+
+              RG 10.130      We may give relief to allow a person who is, under s664A(2), a 90% holder
+                             in relation to each class of shares or interests that may be issued under an
+                             employee performance right, to utilise general compulsory acquisition to
+                             acquire any outstanding employee performance rights.
+
+              RG 10.131      However, we will only grant relief where, under the terms of the employee
+                             performance rights, the employee is able to require the company or scheme
+                             to issue it with shares or interests. Relief will not generally be required
+                             where the bidder is able, for example, to procure the company or scheme to
+                             satisfy its obligations under the employee performance rights by way of
+                             payment of a cash sum.
+
+              RG 10.132      We may be prepared to give this relief because, without the ability to acquire
+                             employee performance rights that will result in the issue of new shares or
+                             interests, a 90% holder seeking to acquire 100% control may be unable to
+                             acquire or extinguish all outstanding obligations of the company or scheme
+                             to issue securities in the relevant class. A 100% holder may therefore be at
+                             risk of being diluted below 100% and unable to secure the benefits of full
+                             ownership.
+
+              RG 10.133      Our relief is consistent with the principles underlying general compulsory
+                             acquisition discussed at RG 10.93 and the application of the test in
+                             s664A(2)(a) to securities that are convertible into shares (or interests).
+
+
+
+How you lodge an application for relief
+              RG 10.134      See RG 10.87 for information on how you lodge an application for relief.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 31
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+D          Buyout rights
+
+                               Key points
+
+                               Buyout rights are designed to afford remaining holders an opportunity to
+                               avoid being left as part of a ‘locked-in’ minority.
+
+                               We have provided relief so that a bidder who has dispatched post-bid
+                               compulsory acquisition notices to all remaining holders does not need to
+                               make post-bid buyout offers for bid class securities under Div 2 of Pt 6A.1.
+
+                               We will not generally give relief from the requirement to make post-bid
+                               buyout offers for convertible securities under Div 3 of Pt 6A.1 on the basis
+                               that a bidder is proceeding to general compulsory acquisition of the
+                               convertible securities.
+
+
+
+
+Principles underlying the buyout provisions
+              RG 10.135      Under the buyout provisions in Ch 6A, certain minority interest holders are
+                             able to require a bidder concluding a takeover bid, or a person who has
+                             completed general compulsory acquisition of a class of securities, to acquire
+                             their security holding.
+
+              RG 10.136      Where a bidder has a relevant interest in 90% of the bid class securities (by
+                             number) at the end of the offer period, the bidder must make offers to buy out:
+                             (a)   the remaining holders of bid class securities (s662A(1)); and
+                             (b)   the holders of securities that are convertible into bid class securities:
+                                   (s663A(1)).
+
+              RG 10.137      Where a person has successfully completed general compulsory acquisition
+                             of a class of securities, they must make offers to buy out the holders of any
+                             securities that are convertible into the relevant class: s665A(1).
+
+              RG 10.138      Within one month after the bidder or full owner gives notice of the buyout
+                             offers, a holder may respond with a notice requiring acquisition of their
+                             securities. The holder’s notice gives rise to a contract for the sale of the
+                             securities:
+                             (a)   in the case of bid class securities—on the terms offered under the bid
+                                   immediately before the end of the offer period, unless the bidder and
+                                   holder otherwise agree to other terms (s662C(2)); or
+                             (b)   in the case of convertible securities—either on terms agreed between
+                                   the bidder and holder or terms determined by a court on application by
+                                   the holder (s663C(2) and 665C(2)).
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 32
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+              RG 10.139      The policy underlying the buyout provisions recognises that, apart from the
+                             overwhelming interest holder who is close to deriving the benefits of full
+                             ownership, the standpoint of remaining interest holders is also affected if a
+                             person has, as a result of a scheme or offers, acquired interests in the vast
+                             majority of the securities in a class.
+
+              RG 10.140      As noted by the Cohen Committee, the position of the remaining holders ‘as
+                             a small minority in a subsidiary company may be anything but satisfactory’:
+                             Board of Trade (UK), Report of the Committee on Company Law
+                             Amendment, Cmd 6659, 1945 (Cohen Committee Report), paragraph 141.
+
+                                   Note: The Cohen Committee Report recommended the enactment of the regime on
+                                   which the original buyout provisions introduced in Australia were based.
+
+              RG 10.141      By providing a statutory right to require the overwhelming interest holder to
+                             acquire their securities, the buyout provisions afford minority interest
+                             holders (including holders of securities convertible into the relevant class) an
+                             opportunity to avoid potentially being locked-in as a minority: see also
+                             Explanatory Memorandum to the Companies (Acquisition of Shares) Bill
+                             1980, para 43.
+
+
+
+Concurrent post-bid compulsory acquisition and buyout rights
+relating to bid class securities
+              RG 10.142      The post-bid compulsory acquisition provisions and the post-bid buyout
+                             provisions apply to bid class securities in similar, but not identical,
+                             circumstances. The result of a takeover bid may mean that both:
+                             (a)   the bidder is entitled to compulsorily acquire certain bid class securities
+                                   under s661A(1); and
+                             (b)   the minority holder is entitled to require the bidder to acquire the
+                                   securities under s662A(1).
+
+              RG 10.143      Figure 1 sets out some of the overlapping features of the buyout and
+                             compulsory acquisition processes in s661A and s662A.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                              Page 33
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+Figure 1: Comparative requirements of the post-bid buyout and compulsory acquisition
+          provisions
+
+                                     Post-bid buyout of bid class                   Post-bid compulsory
+                                        securities: s662A(1)                        acquisition: s661A(1)
+
+
+    Activation threshold               Relevant interest in at least 90% (by number) of bid class securities
+
+
+                                                                                And acquisition of 75% (by
+                                                                                number) of the securities the
+                                                                                bidder offered to acquire
+
+
+    When the threshold                                      At the end of the offer period
+    must be met
+                                                                                Or during the offer period
+
+
+    When notices may                  During the offer period, or up to one month after the end of the period
+    be dispatched
+
+                                                                                If court approval given, up to
+                                                                                one month after the approval
+
+
+    Bid class securities             Applies only to securities                 Must acquire all securities
+    included                         issued before the end of the               issued before the end of the
+                                     offer period (or in a conditional          offer period
+                                     bid, issued before the s630(3)
+                                     notice)
+                                                                                May elect to acquire certain
+                                                                                later issued securities and
+                                                                                securities in which the bidder
+                                                                                has a relevant interest
+
+
+Note: See Table 7 in Appendix 2 for a text alternative for this figure (accessible version).
+
+
+
+                             The exception for giving buyout notices
+
+              RG 10.144      The potential overlap between the compulsory acquisition and buyout rights
+                             regimes for bid class securities is recognised in s662B(1)(c)(ii), which states
+                             that a bidder undertaking post-bid compulsory acquisition does not need to
+                             give buyout notices to those holders it has already sent compulsory
+                             acquisition notices. If all holders of remaining securities at the end of the
+                             offer period are given a compulsory acquisition notice prior to the time for
+                             giving a buyout notice (no later than one month after the end of the offer
+                             period), no buyout notices will need to be dispatched.
+
+              RG 10.145      However, even when no remaining holder is to be given a buyout notice
+                             because of s662B(1)(c)(ii), the provisions still require that buyout offers are
+                             made in accordance with s662B and 662C by lodging a notice with ASIC
+                             and giving the notice to each relevant market operator: s662B(1)(b) and (d).
+
+
+
+© Australian Securities and Investments Commission March 2024                                                    Page 34
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             Section 662A does not include an express exclusion of the kind found in
+                             s663A(1), which makes it clear that none of the requirements in s663A apply
+                             if a compulsory acquisition notice has already been given.
+
+              RG 10.146      It may therefore be unclear whether holders still have buyout rights under
+                             s662C(1) following the notification process. If no person had a buyout right,
+                             it would be unnecessary to lodge a notice with ASIC and provide the notice
+                             to the relevant market operator.
+
+
+                             ASIC modification: Concurrent compulsory acquisition and
+                             buyout rights relating to bid class securities
+
+              RG 10.147      ASIC Instrument 2023/684 modifies s662B to confirm that a person does not
+                             need to make buyout offers if they have given a post-bid compulsory
+                             acquisition notice to every remaining holder, and the terms applying to the
+                             compulsory acquisition notice are the same as the terms of the bid
+                             immediately before the end of the offer period.
+
+              RG 10.148      Our modification means that a bidder does not have to offer buyout rights,
+                             including by lodging a notice with ASIC or providing that notice to a
+                             relevant market operator, if every remaining holder has been given a
+                             compulsory acquisition notice.
+
+              RG 10.149      A buyout right under s662C allows remaining holders to have their securities
+                             purchased on the terms that applied to the bid immediately before the end of
+                             the offer period, unless a different price is agreed with the bidder.
+                             Compulsory acquisition notices given to remaining holders will generally
+                             provide for compulsory acquisition on the same terms that applied to the bid
+                             immediately before the end of the offer period.
+
+              RG 10.150      We have made this modification because, in the case described, there is no
+                             difference between the terms on offer under the buyout right and the
+                             compulsory acquisition. Although the buyout procedure allows for the
+                             possibility of negotiation of a different price, there is no right to be bought
+                             out on terms other than the bid terms. It is also possible that s661C(1)
+                             restricts a bidder’s ability to acquire the securities subject to compulsory
+                             acquisition on different terms. Once given, post-bid compulsory acquisition
+                             notices cannot be withdrawn: s661B(2).
+
+              RG 10.151      Our modification clarifies the interaction of the post-bid compulsory
+                             acquisition and buyout rights regimes consistent with:
+                             (a)   the scheme of the buyout provisions, which contemplates that where a
+                                   person has a buyout right at a relevant time they should be given notice
+                                   of it directly; and
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 35
+                                                           REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             (b)   the previous buyout provisions, which provided for buyout rights only
+                                   for holders who were given a notice: s703(1) and (2) of the old
+                                   Corporations Law.
+
+                                   Note: See also discussion at paragraph 3.26 of the Compulsory Acquisitions Report
+                                   that, in recommending increasing the timeframe for providing post-bid buyout notices
+                                   from one to two months (consistent with the timeframe for post-bid compulsory
+                                   acquisition notices), made note of submissions that the time difference could otherwise
+                                   create very different consequences given that buyout rights at the time allowed for court
+                                   appraisal of the value of the shares. The change reflects an assumption of the framework
+                                   that post-bid buyout rights do not arise where post-bid compulsory acquisition notices
+                                   have been given.
+
+
+
+
+General compulsory acquisition and post-bid buyouts of
+convertible securities
+              RG 10.152      Where a bidder has a relevant interest in 90% or more of the bid class
+                             securities on issue at the end of a takeover bid, the holders of securities that
+                             are convertible into bid class securities have the right to be bought out under
+                             s663C—unless a bid was also made for the convertible securities and the
+                             bidder has instead given:
+                             (a)   a post-bid compulsory acquisition notice under s661B; or
+                             (b)   a post-bid buyout notice under s662B (s663A(1)).
+
+              RG 10.153      However, when a bidder seeks to rely on the general compulsory acquisition
+                             process to acquire the convertible securities following a takeover bid, the
+                             buyout obligation under s663C remains. The bidder will therefore be
+                             required to conduct both processes.
+
+
+                             How the buyout and compulsory acquisition processes
+                             interact
+
+              RG 10.154      Under the buyout procedure, convertible security holders are able to require
+                             the bidder to acquire their securities either on the terms agreed, or terms
+                             determined by a court on application by the holder: s663C(2). Buyout
+                             notices must be dispatched within one month after the end of the offer period
+                             and holders have one month to provide a notice requiring the buyout.
+
+              RG 10.155      Under the general compulsory acquisition procedure the bidder has
+                             six months from the time that they become a 90% holder to lodge a notice
+                             offering a cash sum and the notice cannot be withdrawn: s664C. However, if
+                             objections are received in respect of more than 10% of the securities covered
+                             by the notice, the bidder has a choice of either abandoning the acquisition or
+                             applying to court for approval of the acquisition: s664E(4).
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                      Page 36
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             Consideration
+
+              RG 10.156      The consideration available under the general compulsory acquisition and
+                             buyout rights may differ. Under the compulsory acquisition the
+                             consideration will be a cash sum determined by the bidder. Under the buyout
+                             right the holder will be entitled to sell the securities on terms agreed with the
+                             bidder or terms determined by a court. Both the compulsory acquisition
+                             notices and the buyout notices must be accompanied by any expert reports
+                             prepared under s667A.
+
+              RG 10.157      Before, during and after the objection period for general compulsory
+                             acquisition, the bidder must not offer, give, or agree to give a benefit to a
+                             person not provided for in the compulsory acquisition notice if the benefit is
+                             likely to induce the person to dispose of convertible securities, or to not
+                             object to the acquisition: s664D. The bidder therefore is restricted in its
+                             ability to offer better consideration under its buyout notice than that
+                             proposed under the general compulsory acquisition notice, or to agree a
+                             different price for the purposes of s663C(2)(a). However, in practice the
+                             convertible security holder will still have access to the right to be bought out
+                             at a court-determined price: s663C(2)(b).
+
+                             Disclosure
+
+              RG 10.158      General compulsory acquisition notices for convertible securities following a
+                             bid should fully inform holders about their corresponding buyout rights:
+                             s664C(1)(e). Whether the compulsory acquisition and buyout notices are
+                             sent to holders together or otherwise, the bidder should include an
+                             explanation of the reason for, and the effect of, the two notices to ensure
+                             holders are not misled: s670A.
+
+
+                             Why we will not grant relief from the buyout provisions
+
+              RG 10.159      Generally, we will not give relief from the requirement to make buyout offers
+                             for convertible securities in Div 3 of Pt 6A.1, on the basis that the bidder is
+                             utilising general compulsory acquisition following a takeover bid. To do so
+                             may deprive minority holders of valuable rights under the buyout provisions
+                             that are not fully reflected in the general compulsory acquisition procedure.
+
+                                   Note: Contrast this with the comparison between post-bid compulsory acquisition and
+                                   buyouts discussed at RG 10.150.
+
+              RG 10.160      The purpose of the buyout right is to enable convertible security holders to
+                             avoid being left as a locked-in minority (including where an overwhelming
+                             interest holder may not exercise an available compulsory acquisition right)
+                             while protecting their right to fair compensation.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                   Page 37
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+              RG 10.161      The buyout right under s663C may be valuable to a convertible security
+                             holder when a bidder is proceeding under general compulsory acquisition
+                             following a bid because:
+                             (a)   under the general compulsory acquisition process, if holders
+                                   representing 10% or more of the convertible securities object, the bidder
+                                   can determine not to proceed with the compulsory acquisition
+                                   (s664E(4)(a)). Even if a bidder proceeds to court under s664F(1), if the
+                                   terms offered are found to be unfair, the court is generally unable to
+                                   substitute improved terms. The court can only order that the acquisition
+                                   not proceed under s664F(3);
+                             (b)   without the right to be bought out at a court-determined price as provided
+                                   for in s663C, convertible security holders may be forced to accept the
+                                   terms offered under the compulsory acquisition notice to avoid the
+                                   potential that they remain a locked-in minority; and
+                             (c)   a bidder may have less incentive to offer favourable terms where there
+                                   is no corresponding buyout right—particularly if the bidder is prepared
+                                   not to proceed with compulsory acquisition if they receive objections in
+                                   respect of 10% or more of the convertible securities.
+
+              RG 10.162      Our approach is consistent with comments in the Explanatory Memorandum
+                             to the CLERP Bill that state that the different buyout right regime for
+                             convertible security holders in s665C was in part proposed ‘so as not to
+                             denigrate the existing rights of holders of convertible securities in a post-bid
+                             acquisition’: para 7.125.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 38
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+E          Expert reports
+
+                               Key points
+
+                               A person who proposes to obtain an expert report for the purposes of
+                               s663B, 664C or 665B must write to ASIC to request nomination of a person
+                               to prepare the expert report(s): s667A.
+
+                               We maintain two registers of independent experts that we will use when
+                               nominating an expert: see RG 10.173. This is to ensure that a company
+                               seeking to compulsorily acquire securities does not have an unfettered
+                               discretion to appoint an expert of their choice.
+
+
+
+
+When an expert report is required
+              RG 10.163       In some cases, notices of compulsory acquisition and buyout rights must be
+                              accompanied by at least one report by an independent expert that states
+                              whether, in the expert’s opinion, the terms proposed in the notice give a fair
+                              value for the securities and the reasons for forming that opinion.
+
+              RG 10.164       The circumstances in which an expert report is required under Ch 6A are set
+                              out in Table 4.
+
+
+Table 4:    Chapter 6A procedures requiring an expert report
+
+ Procedure                     Requirement
+
+ General compulsory            Notices issued for general compulsory acquisition under Pt 6A.2 must be
+ acquisition                   accompanied by an independent expert report: s664C(2)(b).
+
+ Buyout of convertible         If the bidder and their associates have a relevant interest in 90% or more of the bid
+ security holders following    class securities following a bid, the bidder must generally offer to buy out the
+ bid                           holders of convertible securities. Among other things, the bidder must send an
+                               expert report to the holders of those convertible securities: s663B(1)(c).
+
+ Buyout following general      If a person holds 100% of securities in a class as a result of compulsory
+ compulsory acquisition        acquisition under Pt 6A.2, the person must generally offer to buy out the holders of
+                               convertible securities. Among other things, the person must send all of the expert
+                               reports that have been prepared to the holders of those securities convertible into
+                               this class: s665B(1)(c).
+
+
+
+              RG 10.165       The expert is required to determine whether the proposed terms in the
+                              buyout or compulsory acquisition notice give a fair value for the securities
+                              and set out the reasons for their opinion: s667A. Section 667C prescribes
+                              how an expert is to determine fair value for the securities being acquired or
+                              bought out. Regulatory Guide 111 Content of expert reports (RG 111)
+
+
+
+© Australian Securities and Investments Commission March 2024                                                Page 39
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             discusses this approach further at RG 111.47–RG 111.50. RG 111 also
+                             discusses more broadly the principles that should be applied, and the
+                             information that should be provided, in an expert report.
+
+              RG 10.166      In addition to the opinion on fair value, an expert report accompanying a
+                             general compulsory acquisition notice that is given in reliance on s664A(2)
+                             must include an opinion on whether the acquirer and related bodies corporate
+                             have full beneficial ownership in at least 90% (by value) of all securities in
+                             the entity that are shares or convertible into shares: s667A(2).
+
+              RG 10.167      Under s667B(1), the expert who provides the report must not be an associate
+                             of the person giving the relevant notice or the company that issued the
+                             securities. The report must also disclose prior dealings and relationships:
+                             s667B(2). For further discussion of the need for an expert to be independent
+                             see Regulatory Guide 112 Independence of experts (RG 112).
+
+
+
+Applying for nomination of experts
+              RG 10.168      If an expert report must accompany a notice under Ch 6A, the person
+                             sending the notice must write to ASIC to request nomination of one or more
+                             experts to prepare the report: s667AA. The report must be prepared by an
+                             expert we nominate: s667A(1)(a).
+
+              RG 10.169      You should submit an application for a nomination or consent of an expert
+                             through the ASIC Regulatory Portal.
+
+              RG 10.170      Within 14 days of receiving a request for nomination we will nominate from
+                             one to five experts: s667AA(2).
+
+              RG 10.171      We are of the view that the intention of Parliament in enacting s667AA was
+                             to ensure that a company seeking to compulsorily acquire securities did not
+                             have an unfettered discretion to appoint an expert of their choice.
+
+              RG 10.172      A person applying to ASIC to nominate experts must include in their
+                             application:
+                             (a)   the name of the company that issued the securities to be compulsorily
+                                   acquired;
+                             (b)   a copy of that company’s previous year’s financial statements
+                                   (including details of all segment reporting);
+                             (c)   details of any unusual aspects of the company’s operations and of its
+                                   main activity (including geographic locations of operations);
+                             (d)   identification of the class of securities to be reported on;
+                             (e)   the name and address of the applicant and contact details;
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 40
+                                                           REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             (f)   identification of any expert who may have a conflict of interest or is
+                                   otherwise requested not to be nominated together with the reason why
+                                   the request has been made; and
+                             (g)   any other relevant information—for example, an applicant may specifically
+                                   request that experts be nominated from a particular register (see RG 10.173).
+
+
+
+Our registers of experts
+              RG 10.173      For the purpose of nominating independent experts under s667AA, we
+                             maintain two registers of experts:
+                             (a)   a register of experts who are able to prepare reports for ‘large
+                                   companies’. A large company (including its controlled entities) is one
+                                   with a consolidated gross operating revenue of more than $25 million or
+                                   consolidated gross assets of more than $12.5 million for the past
+                                   financial year; and
+                             (b)   a register of experts who are able to prepare reports for ‘small
+                                   companies’. A small company is one that meets neither of the criteria in
+                                   RG 10.173(a).
+
+              RG 10.174      We appoint to the registers only experts with an Australian financial services
+                             (AFS) licence authorising the giving of financial product advice on securities.
+
+                                   Note: Experts who are interested in being placed on either the large companies register
+                                   or small companies register should contact ASIC.
+
+
+
+
+How we nominate experts
+              RG 10.175      When nominating experts, we will ask the next three experts on the
+                             appropriate register, in rotational order, if they have a conflict or do not want
+                             to be nominated in response to the particular application. We will expect a
+                             response from each expert within two business days of telling them the
+                             identities of the applicant and the body that has issued the securities to be
+                             acquired. The experts must undertake to maintain the confidentiality of the
+                             information provided to them in relation to possible nominations.
+
+              RG 10.176      An expert may refuse nominations without disclosing the reason. However,
+                             an expert who consistently declines nomination will be expected to justify
+                             their continued inclusion on the register.
+
+              RG 10.177      The three experts who first confirm their willingness to take the assignment
+                             will generally be nominated to the applicant. However, in some
+                             circumstances we may decline to nominate one or more of these experts. For
+                             example, we may decline to nominate an expert on the basis that the expert
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                      Page 41
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             may be inappropriate given the nature of the company being valued. This is
+                             an issue we must consider under s667AA(3).
+
+              RG 10.178      An expert who has been characterised as a ‘specialist’ will not be nominated
+                             until they are within the next three on rotation and the applicant is in an
+                             industry within their speciality. All three nominated experts will then rotate
+                             to the bottom of the register list.
+
+              RG 10.179      Nominating three experts by rotation from a list of experts ensures that:
+                             (a)   there are enough experts to choose from so that there is some
+                                   competition between experts;
+                             (b)   there is a limit on the applicant’s ability to select the expert of their
+                                   choice; and
+                             (c)   the system is fair and transparent.
+
+              RG 10.180      We will not allow an applicant to suggest a particular expert to prepare the
+                             report except in very unusual circumstances, such as when no suitable expert
+                             is on the register. Cost savings to the applicant are not usually regarded as a
+                             matter that would constitute very unusual circumstances.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 42
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+F          Lodging compulsory acquisition and buyout
+           documents
+
+                               Key points
+
+                               Our prescribed forms allow for standardised notices for compulsory
+                               acquisitions and buyouts to be lodged and sent to individual holders. It is
+                               not necessary to lodge a notice for each and every holder who is to receive
+                               the notice.
+
+                               We review documents provided to holders as part of the compulsory
+                               acquisition and buyout process. Lodging parties should provide any
+                               documents that will accompany a compulsory acquisition or buyout notice
+                               at the time of lodgement.
+
+
+
+
+Form of notices to be lodged with ASIC and provided to the relevant
+market operator and company
+              RG 10.181      Under the procedure for compulsory acquisition and buyout rights, a person
+                             must prepare a notice in the prescribed form. We have approved the forms in
+                             Table 5 for the purposes of compulsory acquisition and buyout notifications
+                             under s350(1)(b). These are the prescribed forms you must use under the
+                             provisions listed in the table (the notification provisions).
+
+              RG 10.182      You should prepare and lodge notices in the prescribed form through the
+                             ASIC Regulatory Portal, using the transaction named ‘Lodge compulsory
+                             acquisition and buy out notices’. You must complete all relevant information
+                             set out in this transaction, which will then generate the notice in the
+                             prescribed form.
+
+              RG 10.183      When you have prepared your notice, you must then:
+                             (a)   lodge the notice with ASIC. If you have prepared your notice using the
+                                   portal transaction, you should lodge the notice through the portal;
+                             (b)   give the notice to each other holder;
+                             (c)   give a copy of the notice to each relevant market operator; and
+                             (d)   in the case of general compulsory acquisition notices and buyout
+                                   notices following general compulsory acquisition, give a copy of the
+                                   notice to the company that issued the securities.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 43
+                                                               REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+Table 5:      Approved forms for compulsory acquisition and buyouts
+
+ Type of compulsory acquisition or buyout                                    Provision                  ASIC form
+
+ Post-bid compulsory acquisition                                             s661B(1)                   Form 6021
+
+ Post-bid buyout of bid class securities                                     s662B(1)                   Form 6022
+
+ Post-bid buyout of convertible securities                                   s663B(1)                   Form 6023
+
+ General compulsory acquisition                                              s664C(1)                   Form 6024
+
+ Buyout of convertible securities following general compulsory               s665B(1)                   Form 6025
+ acquisition
+
+Note: The full titles of the ASIC forms in this table are listed in the ‘Related information’ section of this guide. You should
+complete and lodge these forms using the transaction named ‘Lodge compulsory acquisition and buy out notices’ in the ASIC
+Regulatory Portal. For more information, see how you lodge fundraising and corporate finance documents.
+
+
+
+                                Standard notice to be lodged
+
+                RG 10.184       The notification provisions for compulsory acquisition and buyout rights
+                                allow for a notice in standard form to be lodged with ASIC, provided to
+                                individual holders and (where relevant) market operators and the issuing
+                                company.
+
+                RG 10.185       It is unnecessary to lodge a notice in respect of each and every holder who is
+                                to receive the notice which includes individual details of each holding—in
+                                particular the holder’s name and address. The principal purpose of the
+                                lodgement requirement is to notify interested parties that a compulsory
+                                acquisition or buyout process is in progress and the relevant basis and details
+                                of that process. A standard notice is sufficient for this purpose. Accordingly,
+                                ASIC’s forms do not prescribe name and address details or other information
+                                that may vary from holder to holder.
+
+                RG 10.186       To the extent that holders may find individual details in each notice useful—
+                                for example, for the purpose of collectively resisting a compulsory
+                                acquisition—the Corporations Act already makes specific provision for
+                                holders’ rights. In a post-bid compulsory acquisition, holders may ask the
+                                bidder for the names and addresses of each other holder that has been given
+                                a notice and the notice of compulsory acquisition must inform them of this
+                                right: see s661B(1)(a)(ii)(A) and 661D. In a general compulsory acquisition,
+                                the notice must inform holders of their right under s173 to obtain the names
+                                and addresses of other remaining holders from the company register:
+                                s664C(1)(c)(i).
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                            Page 44
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+Providing accompanying documents to ASIC
+              RG 10.187      We regularly review expert reports and other disclosures made as part of the
+                             compulsory acquisition and buy out process.
+
+              RG 10.188      At the time of lodging a compulsory acquisition or buyout notice, we strongly
+                             encourage you to provide us with any documents that are to accompany the
+                             notice sent to remaining holders for our review. We may seek a copy of these
+                             documents from you where they are not provided.
+
+              RG 10.189      You can attach electronic copies of accompanying documents when lodging
+                             the notice through the ASIC Regulatory Portal.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 45
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+Appendix 1: Superseded guidance
+
+              RG 10.190      This guide discusses compulsory acquisitions and buyout notices. Additional
+                             updated guidance on other aspects of Chs 6–6C is provided in:
+                             (a)   RG 5 Relevant interests and substantial holding notices;
+                             (b)   RG 6 Takeovers: Exceptions to the general prohibition; and
+                             (c)   RG 9 Takeover bids.
+
+              RG 10.191      Together these four guides consolidate and replace a number of pre-existing
+                             regulatory guides, taking into account changes in the law since the guides
+                             were first published. The guides replaced by this guide on compulsory
+                             acquisitions and buyout notices are listed in Table 6.
+
+                             Table 6:     Superseded regulatory guides
+
+                               Number       Name of guide
+
+                               SRG 159      Takeovers, compulsory acquisitions and substantial holding notices
+                                              Note: Parts of SRG 159 have been replaced by other guides.
+
+                               SRG 171      Anomalies and issues in the takeover provisions
+                                              Note: Parts of SRG 171 have been replaced by other guides.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                              Page 46
+                                                               REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+Appendix 2: Accessible version of Figure 1
+
+                RG 10.192        This appendix is for people with visual or other impairments. It provides a
+                                 text alternative for Figure 1.
+
+Table 7:      Comparative requirements of the post-bid buyout and compulsory acquisition
+              provisions
+
+ Requirement                                  Post-bid buyout of bid class           Post-bid compulsory
+                                              securities: s662A(1)                   acquisition: s661A(1)
+
+ Activation threshold                         Relevant interest in at least 90%      Relevant interest in at least 90%
+                                              (by number) of bid class securities    (by number) of bid class securities
+
+                                                                                     And acquisition of 75% (by
+                                                                                     number) of the securities the
+                                                                                     bidder offered to acquire
+
+ When the threshold must be met               At the end of the offer period         At the end of the offer period
+
+                                                                                     Or during the offer period
+
+ When notices may be dispatched               During the offer period or up to one   During the offer period or up to one
+                                              month after the end of the period      month after the end of the period
+
+                                                                                     If court approval given, up to one
+                                                                                     month after the approval
+
+ Bid class securities included                Applies only to securities issued      Must acquire all securities issued
+                                              before the end of the offer period     before the end of the offer period.
+                                              (or in a conditional bid, issued
+                                                                                     May elect to acquire certain later
+                                              before the s630(3) notice)
+                                                                                     issued securities and securities in
+                                              ed before the end of the offer         which the bidder has a relevant
+                                              period (or in a conditional bid,       interest
+                                              issued before the s630(3) notice)
+
+Note: This table provides a text alternative for Figure 1.
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                         Page 47
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+Key terms
+
+
+                               Term                      Meaning in this document
+
+                               75% acquisition test      The threshold test for post-bid compulsory acquisition in
+                                                         s661A(1)(b)(ii) of the Corporations Act
+
+                               90% holder                A holder entitled to acquire remaining securities in a class
+                                                         under general compulsory acquisition as defined in
+                                                         s664A(1) and (2) of the Corporations Act
+
+                               90% relevant interest     The threshold test for post-bid compulsory acquisition in
+                               test                      s661A(1)(b)(i) of the Corporations Act
+
+                               ASIC                      Australian Securities and Investments Commission
+
+                               associate                 Has the meaning given in s12 of the Corporations Act
+
+                               bid class                 Has the meaning given in s9 of the Corporations Act
+
+                               bidder                    The bidder under a takeover bid as defined in s9 of the
+                                                         Corporations Act
+
+                               buyout right              The right of a minority holder of securities or convertible
+                                                         securities to be bought out under s662C, 663C or 665C
+                                                         of the Corporations Act
+
+                               CASAC                     Companies and Securities Advisory Committee
+
+                               Ch 6A (for example)       A chapter of the Corporations Act (in this example
+                                                         numbered 6A)
+
+                               class                     A class of securities
+
+                               CLERP Bill                Corporate Law Economic Reform Program Bill 1998
+
+                               Cohen Committee           Board of Trade (UK), Report of the Committee on
+                               Report                    Company Law Amendment, Cmd 6659, 1945
+
+                               Compulsory                Legal Committee of CASAC, Compulsory acquisitions,
+                               Acquisitions Report       January 1996
+
+                               convertible securities    Has the meaning given in s9 of the Corporations Act
+
+                               Corporations Act          Corporations Act 2001, including regulations made for the
+                                                         purposes of that Act
+
+                               deemed relevant           A relevant interest arising under the deeming provisions
+                               interest                  in s608(3) of the Corporations Act
+
+                               general compulsory        Compulsory acquisition under Div 1 of Pt 6A.2 of the
+                               acquisition               Corporations Act
+
+                               Greene Committee          Board of Trade (UK), Report of the Company Law
+                               Report                    Amendment Committee, Cmd 2657, 1926
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                  Page 48
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                               Term                      Meaning in this document
+
+                               holder                    A holder of securities
+
+                               non-transferable          Securities issued to employees as part of an employee
+                               employee securities       incentive plan which cannot be freely traded
+
+                               notification provisions   Sections 661B(1), 662B(1), 663B(1), 664C(2) and
+                                                         665B(1) of the Corporations Act
+
+                               old Corporations Law      The law, set out in s82 of the Corporations Act 1989,
+                                                         which preceded the Corporations Act. Unless otherwise
+                                                         indicated, a reference to the old Corporations Law is a
+                                                         reference to the law as it stood before implementation of
+                                                         the Corporate Law Economic Reform Program Act 1999
+
+                               post-bid compulsory       Compulsory acquisition following a takeover bid under
+                               acquisition               Div 1 of Pt 6A.1 of the Corporations Act
+
+                               Pt 6A.1                   A part of the Corporations Act (in this example numbered
+                                                         6A.1)
+
+                               relevant interest         Has the meaning given in s608–609B of the Corporations
+                                                         Act
+
+                               RG 51 (for example)       An ASIC regulatory guide (in this example numbered 51)
+
+                               s602 (for example)        A section of the Corporations Act (in this example
+                                                         numbered 602), unless otherwise specified
+
+                               securities                Has the meaning given to that term for the purposes of
+                                                         Ch 6A in s92(3) of the Corporations Act
+
+                               takeover bid              Has the meaning given in s9 of the Corporations Act
+
+                               target                    Has the meaning given in s9 of the Corporations Act
+
+                               voting power              Has the meaning given in s610 of the Corporations Act
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                                 Page 49
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             75% acquisition threshold, 90% relevant interest threshold, associates, bid
+                             class securities, buyout rights, compulsory acquisition provisions, convertible
+                             securities, expert reports, fair value, full beneficial interest, minority holder,
+                             overwhelming owner
+
+
+                             Instruments
+
+                             ASIC Corporations (Compulsory Acquisitions and Buyouts) Instrument
+                             2023/684
+
+                             ASIC Corporations (Takeover Bids) Instrument 2023/683
+
+
+                             Regulatory guides
+
+                             RG 5 Relevant interests and substantial holding notices
+
+                             RG 6 Takeovers: Exceptions to the general prohibition
+
+                             RG 9 Takeover bids
+
+                             RG 51 Applications for relief
+
+                             RG 111 Content of expert reports
+
+                             RG 112 Independence of experts
+
+
+                             Legislation
+
+                             Corporations Act, Ch 6, Ch 6A, Pts 6A.1–6A.3, s9, 173, 350, 602, 604,
+                             608(3), 609(1), 617, 618, 630(3), 633(2), 657A(2)(b), 660A, 660B, 661A,
+                             661B, 661C, 661D, 661E(1), 661E(2), 662A, 662B, 662C, 663A, 663B,
+                             663C, 664A, 664AA, 664B, 664C, 664E(4), 664F, 665A, 665B, 665C,
+                             666B, 667A, 667AA, 667B(1), 667B(2), 667C, 669, 670A, 1350; old
+                             Corporations Law, s33 and 703(1)–(2)
+
+                             Explanatory Memorandum to the CLERP Bill, paras 7.31, 7.40–7.42, 7.118,
+                             7.125, 7.127
+
+                             Explanatory Memorandum to the Companies (Acquisition of Shares) Bill
+                             1980
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 50
+                                                          REGULATORY GUIDE 10: Compulsory acquisitions and buyouts
+
+
+
+
+                             Cases
+
+                             Austrim Nylex Ltd v Kroll and Others (No 2) (2002) 42 ACSR 18
+
+                             Clements Marshall Consolidated Ltd v ENT Ltd (1988) 13 ACLR 90
+
+                             Re Sylvania Resources Ltd (2009) 74 ACSR 29
+
+
+                             ASIC forms
+
+                             Form 6021 Notice of compulsory acquisition following takeover bid
+
+                             Form 6022 Notice of right of buy out to remaining holder of securities
+                             following a takeover bid
+
+                             Form 6023 Notice of right of buy out to holders of convertible securities
+                             following a takeover bid
+
+                             Form 6024 Notice of compulsory acquisition
+
+                             Form 6025 Notice of right of buy out to holders of convertible securities by
+                             100% holder
+
+
+                             Other reports
+
+                             Board of Trade (UK) (Cohen Committee), Report of the Committee on
+                             Company Law Amendment, Cmd 6659, 1945
+
+                             Board of Trade (UK) (Greene Committee), Report of the Company Law
+                             Amendment Committee, Cmd 2657, 1926
+
+                             CASAC, Compulsory acquisitions, January 1996
+
+                             CASAC, Report to the Minister for Financial Services and Regulation on
+                             compulsory acquisition, March 2000
+
+                             Parliamentary Joint Committee on Corporations and Securities, Report on
+                             the Corporate Law Economic Reform Program Bill 1998, May 1999
+
+
+
+
+© Australian Securities and Investments Commission March 2024                                             Page 51
+

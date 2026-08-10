@@ -1,0 +1,2687 @@
+REGULATORY GUIDE 131
+
+Funds management:
+Establishing and registering
+a fund
+
+October 2022
+
+
+
+
+About this guide
+This guide is for responsible entities of registered managed investment
+schemes (registered schemes), Australian passport fund operators,
+corporate directors of retail corporate collective investment vehicles (CCIVs),
+and their advisers.
+
+It provides guidance on our requirements for:
+   establishing and registering a managed investment scheme and
+    subsequently registering as an Australian passport fund;
+   establishing and registering a CCIV and its initial sub-fund(s); and
+   registering further sub-funds.
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+                             Document history
+                             This guide was issued in October 2022 and is based on legislation and
+                             regulations as at the date of issue. In June 2025, we updated references to
+                             reflect changes to RG 1 and related guidance.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 131, issued July 2018
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                             Page 2
+                                         REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+Contents
+                             A      Overview ........................................................................................... 4
+                                    How our guidance applies ................................................................. 4
+                                    Registering a managed investment scheme ..................................... 4
+                                    Registering as an Australian passport fund ....................................... 6
+                                    Registering a CCIV and sub-funds .................................................... 7
+                                    What to include with an application ................................................... 8
+                                    How we assess an application........................................................... 9
+                             B      Registering a managed investment scheme............................... 11
+                                    Applying to register a scheme ......................................................... 11
+                                    The responsible entity ...................................................................... 11
+                                    Contents of the application .............................................................. 12
+                                    Assessment by ASIC ....................................................................... 14
+                             C      Registering as an Australian passport fund ............................... 19
+                                    Applying to register as an Australian passport fund ........................ 19
+                                    Contents of the application .............................................................. 20
+                                    Assessment by ASIC ....................................................................... 26
+                                    Decision by ASIC ............................................................................. 36
+                                    Entry on the Asia Region Funds Passport Register ........................ 36
+                             D      Registering a CCIV and sub-funds .............................................. 37
+                                    Meeting the CCIV registration requirements ................................... 37
+                                    Contents of the application .............................................................. 38
+                                    Lodging the application form and paying the fee ............................. 40
+                                    Assessment by ASIC ....................................................................... 41
+                                    Registering further sub-funds .......................................................... 41
+                                    Registering a sub-fund of a CCIV as an Australian passport fund .. 43
+                             Key terms ............................................................................................... 44
+                             Related information ............................................................................... 49
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                                       Page 3
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               This guide provides information on how to establish and register a
+                               managed investment scheme. A managed investment scheme must meet
+                               certain requirements to become registered under the Corporations Act
+                               2001 (Corporations Act).
+
+                               This guide provides information on how to register as an Australian
+                               passport fund for the purposes of the Asia Region Funds Passport.
+
+                               This guide also provides information on how to register a corporate
+                               collective investment vehicle (CCIV), its initial sub-fund(s) and any further
+                               sub-funds.
+
+
+
+
+How our guidance applies
+              RG 131.1       This guide is for:
+                             (a)   responsible entities of registered managed investment schemes
+                                   (registered schemes);
+                             (b)   Australian passport fund operators;
+                             (c)   corporate directors of CCIVs; and
+                             (d)   their advisers.
+
+              RG 131.2       We will apply this guide when assessing applications lodged with ASIC to
+                             register:
+                             (a)   a managed investment scheme;
+                             (b)   a registered scheme as an Australian passport fund; and
+                             (c)   a CCIV, its initial sub-fund(s) and any further sub-funds.
+
+              RG 131.3       This guide does not apply to operators of foreign passport funds lodging a
+                             notice of intention to enter or operate in Australia as a host economy under
+                             the Asia Region Funds Passport.
+
+                                   Note: For information on the requirements for foreign passport fund operators lodging a
+                                   notice of intention to offer interests in Australia, see Regulatory Guide 138 Foreign
+                                   passport funds (RG 138).
+
+
+
+
+Registering a managed investment scheme
+              RG 131.4       To register a managed investment scheme, the responsible entity must be an
+                             Australian public company registered under the Corporations Act and hold
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                    Page 4
+                                          REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             an Australian financial services (AFS) licence authorising it to operate a
+                             registered scheme.
+
+              RG 131.5       An application to register a managed investment scheme can be made to
+                             ASIC by completing Form 5100 Application for registration of a managed
+                             investment scheme.
+
+              RG 131.6       For a managed investment scheme to be registered, s601EB(1) of the
+                             Corporations Act sets out that:
+                             (a)   the application must:
+                                   (i)    state the name of the scheme, the name and address of the
+                                          responsible entity, and the name and address of the person who has
+                                          consented to act as auditor of the compliance plan; and
+                                   (ii)   be accompanied by a copy of the constitution, a copy of the
+                                          compliance plan and a statement signed by the directors (directors’
+                                          statement) that the constitution meets s601GA and 601GB and the
+                                          compliance plan meets s601HA (see s601EA);
+                             (b)   the responsible entity must be an Australian public company holding an
+                                   AFS licence (see s601FA);
+                             (c)   the constitution must meet the requirements of s601GA and 601GB;
+                             (d)   the compliance plan must set out the adequate measures that the
+                                   responsible entity will apply in operating the managed investment
+                                   scheme (see s601HA);
+                             (e)   a copy of the compliance plan (signed by the directors of the
+                                   responsible entity) must be lodged with ASIC (see s601HC); and
+                             (f)   arrangements that satisfy the requirements of s601HG must be in place
+                                   to audit compliance with the compliance plan.
+
+                                   Note: In this guide, references to sections (s), chapters (Chs) and parts (Pts) are to the
+                                   Corporations Act, unless otherwise specified.
+
+              RG 131.7       When lodging an application, the responsible entity will also need to select
+                             the dominant asset kind relevant to the managed investment scheme.
+
+              RG 131.8       When an application to register a managed investment scheme is lodged with
+                             ASIC, we assess whether the application complies with the requirements of
+                             the Corporations Act. We must register a managed investment scheme within
+                             14 days of lodgement (14-day registration period), unless it appears to us that an
+                             application does not meet one or more legislative requirements under s601EB.
+
+              RG 131.9       We may seek clarification about the information in an application or the
+                             documents attached to it during the 14-day registration period. We may also
+                             ask for amendments to the application form, constitution, compliance plan or
+                             directors’ statement if they do not appear to comply with the requirements of
+                             the law as interpreted and set out in our regulatory guides. We may also
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                         Page 5
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             refuse the application if we are of the opinion there is non-compliance,
+                             without asking for amendments.
+
+              RG 131.10      We will refuse to register a managed investment scheme if the responsible
+                             entity or its advisers are unwilling or unable to make any requested
+                             amendments within the 14-day registration period, and it appears to us that
+                             s601EB is not met.
+
+              RG 131.11      When a managed investment scheme is registered, we give it an Australian
+                             Registered Scheme Number (ARSN) and keep a record of it: see s601EB(2)
+                             and (3).
+
+                                   Note: See Section B for information on registering a managed investment scheme.
+
+
+
+
+Registering as an Australian passport fund
+              RG 131.12      An Australian passport fund operator will use its Australian Company
+                             Number (ACN) or Australian Registered Business Number (ARBN) to log
+                             into the ASIC Regulatory Portal to apply for registration as an Australian
+                             passport fund.
+
+              RG 131.13      An Australian passport fund operator seeking to register an Australian
+                             passport fund will need to complete and submit to ASIC an application and
+                             attach a copy of the Product Disclosure Statement (PDS): see s1212.
+
+                                   Note: See our website for more information on how to register as an Australian passport
+                                   fund, which includes guidance on the requirements for PDSs.
+
+              RG 131.14      A managed investment scheme must be registered under the Corporations
+                             Act before it may become registered as an Australian passport fund.
+                             However, it does not need to be registered at the time the application to
+                             register as an Australian passport fund is lodged.
+
+              RG 131.15      We must register an Australian passport fund if we are of the opinion that
+                             the Australian passport fund operator:
+                             (a)   meets the eligible entity requirements in section 3 of Annex 2 to the
+                                   Memorandum of Cooperation on the Establishment and Implementation
+                                   of the Asia Region Funds Passport (Memorandum of Cooperation); and
+                             (b)   is likely to comply with the Corporations Act, including the Australian
+                                   Passport Rules, and the Australian Securities and Investments
+                                   Commission 2001 (ASIC Act).
+
+                                   Note: The Australian Passport Rules are made under s1211 and 1211A by the
+                                   Australian Minister responsible for the Asia Region Funds Passport (the responsible
+                                   Minister).
+
+              RG 131.16      There is no prescribed timeframe for us to decide whether to register an
+                             Australian passport fund. We will aim to make decisions about applications
+
+
+
+© Australian Securities and Investments Commission October 2022                                                    Page 6
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             promptly. However, the time we take to make a decision is likely to be
+                             impacted by the nature, scale and complexity of the Australian passport fund
+                             operator and the fund, and the quality of the information provided in support
+                             of the application.
+
+              RG 131.17      In making any decision whether to register an Australian passport fund, we
+                             may:
+                             (a)   ask for further information on answers the Australian passport fund
+                                   operator has given in the application, particularly if they are unclear or
+                                   do not appear to be consistent with the law and/or our guidance;
+                             (b)   give the operator the opportunity to make amendments to the answers it
+                                   has given;
+                             (c)   seek clarification of the contents of the PDS; or
+                             (d)   give the operator the opportunity to make amendments to the PDS or
+                                   provide explanations where we have concerns.
+
+              RG 131.18      We may refuse registration as an Australian passport fund if the Australian
+                             passport fund operator or its advisers are unwilling or unable to provide
+                             information or make amendments needed to enable us to grant the registration.
+
+                                   Note: See Section C for more information on registering as an Australian passport fund.
+
+
+
+
+Registering a CCIV and sub-funds
+              RG 131.19      A CCIV is a type of company that is limited by shares. Chapter 8B of the
+                             Corporations Act, which took effect on 1 July 2022, governs CCIVs.
+
+              RG 131.20      A CCIV will be either a retail CCIV or a wholesale CCIV. A CCIV must
+                             have at least one sub-fund from the initial registration of the CCIV.
+
+              RG 131.21      A CCIV must have a sole director—its corporate director. A corporate
+                             director must be an Australian public company that holds an AFS licence.
+
+              RG 131.22      All CCIVs must have a constitution and retail CCIVs must have a
+                             compliance plan.
+
+              RG 131.23      Subject to the corporate director providing the documents set out in Table 1,
+                             ASIC will register a CCIV, its initial sub-fund(s) and any future sub-funds.
+
+                                   Note: See Section D for more information on registering a CCIV and sub-funds
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                    Page 7
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+What to include with an application
+               RG 131.24     Table 1 sets out what a responsible entity, Australian passport fund operator
+                             or corporate director needs to provide and do to register a managed
+                             investment scheme, an Australian passport fund, or a CCIV or sub-fund.
+
+Table 1:      Application requirements for registering a managed investment scheme, an
+              Australian passport fund, or a CCIV or sub-fund
+
+ Application           Managed investment               Australian passport fund       CCIV or sub-fund
+ requirements          scheme
+
+ Application           Form 5100 Application for        Apply for registration as an   To register:
+                       registration of a managed        Australian passport fund,       the CCIV and initial sub-
+                       investment scheme                available through the ASIC       fund(s), use
+                                                        Regulatory Portal                Form 5201 Application for
+                                                                                         registration of a corporate
+                                                                                         collective investment
+                                                                                         vehicle; and
+                                                                                        subsequent sub-fund(s),
+                                                                                         use Form 5202
+                                                                                         Application for
+                                                                                         registration of a sub-fund
+                                                                                         of a corporate collective
+                                                                                         investment vehicle.
+
+ Constitution          Must meet s601GA and             Must meet section 4 of the     The constitution of a:
+                       601GB                            Australian Passport Rules       retail CCIV must meet
+                                                                                         s1223B, 1223G and
+                                                                                         s1223H; and
+                                                                                        wholesale CCIV must
+                                                                                         meet s1223B and 1223F.
+
+ Compliance plan       Must meet s601HA                 Must meet s601HA, including Must meet s1226A.
+                                                        the additional obligations for
+                                                                                       Wholesale CCIVs are not
+                                                        an Australian passport fund
+                                                                                       required to lodge a
+                                                                                       compliance plan: see
+                                                                                       s1226(3).
+
+ Directors’            Form 5103 Directors’             Not applicable                 Not applicable
+ statement             statement relating to
+                       application for registration
+                       of a managed investment
+                       scheme
+
+ PDS                   Not applicable                   Must meet Div 2 of Pt 7.9      Not applicable
+
+ Fee                   Yes                              Yes                            Yes
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                 Page 8
+                                            REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+ Application              Managed investment                 Australian passport fund            CCIV or sub-fund
+ requirements             scheme
+
+ Additional               Not applicable                     The Australian passport             Not applicable
+ information                                                 fund operator must supply:
+                                                              an Australian criminal
+                                                               history check; and
+                                                              a bankruptcy check
+                                                                Note: If an overseas criminal
+                                                                history or bankruptcy check
+                                                                has not been obtained, the
+                                                                operator may alternatively
+                                                                provide a statutory
+                                                                declaration explaining the
+                                                                efforts made to obtain the
+                                                                checks and stating their
+                                                                criminal and bankruptcy
+                                                                history.
+
+Note 1: For more information on our fees and methods of payment, see Information Sheet 30 Fees for commonly lodged
+documents (INFO 30).
+Note 2: For an Australian passport fund, overseas criminal history and bankruptcy checks are required for each country of
+residence (in addition to Australian criminal history and bankruptcy checks) if the person has resided overseas within the past
+10 years. Australian criminal history and bankruptcy checks are not required if the person has not resided in Australia at all over
+the past 10 years.
+
+
+
+
+How we assess an application
+                RG 131.25       Once an application has been submitted, we will advise the responsible
+                                entity, Australian passport fund operator or corporate director that we have
+                                received the application.
+
+                RG 131.26       We will contact the responsible entity, Australian passport fund operator or
+                                corporate director to let them know whether we require more information or
+                                amendments to the application or documents, or if we have decided to
+                                register or refuse the application.
+
+                RG 131.27       If we request more information or amendments, we will give the responsible
+                                entity, Australian passport fund operator or corporate director a reasonable
+                                time to supply any more information or make any amendments required
+                                before deciding whether to register or refuse the application. We will
+                                communicate our decision to the responsible entity, operator or corporate
+                                director once the further information is supplied or the amendments are
+                                made.
+
+                                       Note: If the responsible entity, Australian passport fund operator or corporate director
+                                       does not supply the information or make the amendments within a reasonable time, we
+                                       will refuse the application for registration if we are of the opinion it does not meet the
+                                       requirements to be granted.
+
+                RG 131.28       This process is shown in Figure 1.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                             Page 9
+                                          REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+Figure 1: Application assessment process
+
+
+
+                                             Application lodged with ASIC
+
+
+
+
+                                         Application entered on ASIC system
+
+
+
+
+                                         Application allocated to ASIC officers
+
+
+
+
+                                                Consideration of materials
+
+
+
+                                        Applicant advised of receipt of application
+
+
+
+
+                                  Assessment of compliance with relevant provisions
+
+
+
+
+                               Further information or amendment to documents if required
+
+
+
+
+          Refusal to                      Applicant supplies further information                       Decision to
+           register                             or amended documents                                    register
+
+
+
+
+                                           Decision communicated to applicant
+
+
+
+
+Note 1: The process in this flowchart is explained in RG 131.25–RG 131.27 (accessible version).
+Note 2: Applicants may choose to withdraw their application at any stage of the process. However, this does not mean that they
+will be entitled to a refund of the application fee.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                       Page 10
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+B          Registering a managed investment scheme
+
+                               Key points
+
+                               To register a managed investment scheme an application must be lodged
+                               with ASIC.
+
+                               The application must be in the approved form, and the contents of the
+                               application and necessary supporting documentation must meet the
+                               requirements of the Corporations Act. This section explains how we apply
+                               those requirements when assessing an application to register a scheme.
+
+
+
+
+Applying to register a scheme
+              RG 131.29      An application to register a managed investment scheme must be lodged
+                             with ASIC and meet the requirements in s601EA.
+
+              RG 131.30      After we receive an application, we will undertake a ‘completeness check’ to
+                             see whether it is complete. If it does not pass this check, we will reject the
+                             application and the responsible entity will have to reapply. We will generally
+                             tell the responsible entity which parts are incomplete.
+
+
+
+The responsible entity
+              RG 131.31      To register a managed investment scheme, the responsible entity must be an
+                             Australian public company that has an AFS licence authorising it to operate
+                             the registered scheme: see s601FA.
+
+                                   Note: For information on how to become licensed as a responsible entity under the AFS
+                                   licensing regime, see Regulatory Guide 1 Applying for and varying an AFS licence (RG 1).
+
+              RG 131.32      If the responsible entity is not already authorised by its AFS licence to
+                             operate the relevant kind of registered scheme, an application to register a
+                             managed investment scheme should not be submitted until we have
+                             considered the AFS licensing application. We will indicate when an
+                             application to register the scheme can be made. If the application to register
+                             the scheme is made before we have given this indication, we may refuse the
+                             application because there is no responsible entity that meets the requirements
+                             of s601FA.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                   Page 11
+                                          REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+Contents of the application
+
+                             Application
+
+              RG 131.33      The responsible entity must complete Form 5100. The application requires
+                             details about the responsible entity and the person who has consented to be
+                             the auditor of the compliance plan: see s601EA(2)(a) and (b).
+
+                                   Note: The consent of the auditor under s601EA(2)(b) must be obtained before the
+                                   application is lodged.
+
+              RG 131.34      All relevant fields on the application must be completed or we will reject the
+                             application for lodgement.
+
+              RG 131.35      Where the application requires detail about an aspect of the managed
+                             investment scheme, this should be completed with sufficient detail to enable
+                             us to properly understand and assess the answer.
+
+
+                             Constitution
+
+              RG 131.36      The constitution must meet the requirements in s601GA and 601GB.
+
+              RG 131.37      Under s601GA, the constitution must make adequate provision for, or
+                             specify, certain prescribed matters. These include:
+                             (a)   the consideration to acquire and dispose of an interest in the registered
+                                   scheme;
+                             (b)   the powers and rights of the responsible entity, including:
+                                   (i)    powers to make investments of, or borrow or deal with, scheme
+                                          property; and
+                                   (ii)   rights to be paid fees or be indemnified out of scheme property;
+                             (c)   the method for dealing with complaints about the registered scheme;
+                             (d)   any rights of members to withdraw from the registered scheme; and
+                             (e)   the process for winding up the registered scheme.
+
+              RG 131.38      Under s601GB, the constitution of a registered scheme must be a legally
+                             enforceable document between the responsible entity and members. It must
+                             set out some or all of the rights, duties and liabilities of the responsible entity
+                             in its operation of the scheme.
+
+              RG 131.39      While there is no prescribed form for the constitution of a registered scheme,
+                             the application must state which provisions of the constitution address the
+                             matters in s601GA and 601GB. We will usually consider only these
+                             provisions, and other provisions that appear related, when registering a
+                             managed investment scheme.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                 Page 12
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             Compliance plan
+
+              RG 131.40      The compliance plan must set out the adequate measures the responsible
+                             entity will apply to ensure the registered scheme operates in accordance with
+                             the Corporations Act and its constitution: see s601HA.
+
+              RG 131.41      A compliance plan must include the following arrangements:
+                             (a)   all scheme property is clearly identified as scheme property and held
+                                   separately from the property of the responsible entity and any other
+                                   scheme;
+                             (b)   the compliance committee functions properly;
+                             (c)   scheme property is valued at regular intervals appropriate to the nature
+                                   of the property;
+                             (d)   the compliance plan is audited; and
+                             (e)   adequate records of the scheme’s operations are kept (see s601HA(1)).
+
+              RG 131.42      Under s601HB(1), the responsible entity may lodge a compliance plan that
+                             incorporates by reference specified provisions, as in force at a specified time
+                             or from time to time, of the compliance plan of another registered scheme of
+                             which it is also the responsible entity.
+
+              RG 131.43      The compliance controls in a compliance plan should be prepared
+                             specifically by reference to the type of registered scheme and its investment
+                             strategy. Where a compliance plan incorporates parts of another plan, the
+                             compliance controls that make up that part of the incorporated plan should
+                             be appropriate compliance controls for that registered scheme. Because
+                             group compliance risks apply across all registered schemes the responsible
+                             entity operates, we consider group compliance controls are generally
+                             appropriate to be incorporated into all compliance plans for those schemes.
+                             However, registered scheme level compliance controls should only be
+                             incorporated where they are appropriate to the nature, scale and complexity
+                             of the particular scheme. For example, incorporating parts of a compliance
+                             plan that address compliance risks associated with the investment strategy
+                             for a mortgage fund into an agribusiness fund plan will not be appropriately
+                             tailored to addressing the specific risks of the second fund.
+
+                                   Note 1: For more information on incorporating parts of compliance plans into other
+                                   compliance plans, see Regulatory Guide 132 Funds management: Compliance and
+                                   oversight (RG 132) at RG 132.89–RG 132.92.
+
+                                   Note 2: For examples of ‘group compliance risks’ and ‘scheme-level compliance risks’,
+                                   see RG 132.119 and RG 132.146–RG 132.148.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                  Page 13
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             Directors’ statement
+
+              RG 131.44      The directors of the responsible entity must declare that:
+                             (a)   the contents of the constitution meet the requirements of the
+                                   Corporations Act;
+                             (b)   the constitution is a legally enforceable document between the members
+                                   and the responsible entity; and
+                             (c)   the compliance plan complies with s601HA.
+
+              RG 131.45      The directors must make this or by lodging a signed Form 5103.
+
+              RG 131.46      Where Form 5103 is used, each director of the responsible entity at the date
+                             of lodgement must have signed the directors’ statement. Directors need to
+                             take care that their statement is correct. Under s1308, if a director does not
+                             take reasonable steps to ensure they do not make a false statement to ASIC,
+                             the director may be guilty of an offence.
+
+              RG 131.47      Agents for the directors cannot make the declaration. However, on occasion,
+                             an alternate director may make the declaration. A director can appoint an
+                             alternate director with the other directors’ approval. The alternate director will
+                             act as an alternate to exercise some or all of the director’s powers for a specified
+                             period. Depending on the terms of appointment, an alternate may be granted
+                             the same powers and carry out the same duties as the appointing director.
+
+
+
+Assessment by ASIC
+              RG 131.48      When an application to register a managed investment scheme is lodged with
+                             ASIC, we will look at whether it appears to comply with s601EB. We must
+                             register the managed investment scheme within the 14-day registration
+                             period, unless it appears to us that the application does not meet one or more
+                             of the requirements: see s601EB.
+
+
+                             Constitution
+
+              RG 131.49      We will look at whether the constitution appears to meet the requirements in
+                             s601GA and 601GB: see our guidance on these requirements in Regulatory
+                             Guide 134 Funds management: Constitutions (RG 134). This regulatory
+                             guide sets out the basis on which we will apply the content requirements for
+                             constitutions when an application to register a managed investment scheme
+                             is lodged with ASIC.
+
+              RG 131.50      We will consider whether the constitution appears to make adequate
+                             provision for or specifies:
+                             (a)   the consideration that is to be paid to acquire an interest in the scheme
+                                   (see Section B of RG 134);
+
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 14
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             (b)   the powers of the responsible entity in making investments of, or
+                                   otherwise dealing with, scheme property (see RG 134.139–
+                                   RG 134.145);
+                             (c)   any rights to be paid fees out of scheme property or to be indemnified
+                                   out of scheme property for liabilities or expenses incurred in relation to
+                                   performing its duties (see RG 134.146–RG 134.160);
+                             (d)   method by which complaints made by members in relation to the
+                                   scheme are to be dealt with (see RG 134.161–RG 134.176);
+                             (e)   any right to withdraw from a registered scheme and the adequate
+                                   procedures for making and dealing with withdrawal requests (see
+                                   RG 134.199–RG 134.239);
+                             (f)   winding up the scheme (see Section H of RG 134).
+
+
+                             Compliance plan
+
+              RG 131.51      We will consider whether the compliance plan appears to meet the
+                             requirements in s601HA: see our guidance on the requirements in RG 132.
+
+              RG 131.52      Taking into account our guidance in RG 132, we will check whether the
+                             compliance plan for a registered scheme appears to contain:
+                             (a)   adequate compliance controls as set out in RG 131.41; and
+                             (b)   at a minimum, adequate detail about the things set out in RG 132.85.
+
+                                   Note: If the compliance plan incorporates provisions from the compliance plan of an
+                                   earlier scheme, we will not generally check that the compliance plan of the earlier
+                                   scheme contains this content at the point of registering the later scheme. However, if we
+                                   have concerns about the content of the incorporated compliance plan, we may raise it at
+                                   a later time.
+
+              RG 131.53      Where a compliance plan incorporates parts of another plan, we will
+                             consider whether the compliance controls which make up that part of the
+                             incorporated plan appear to be appropriate compliance controls for the
+                             registered scheme: see RG 132.89–RG 132.92. We will apply greater
+                             scrutiny to scheme-level compliance controls that are incorporated into the
+                             compliance plan to satisfy ourselves that they are appropriate to the nature,
+                             scale and complexity of the particular scheme. We will generally also check
+                             that the parts of the other plan have been incorporated in the way that meets
+                             s601HB and ASIC Corporations (Chapter 5C—Miscellaneous Provisions)
+                             Instrument 2017/125: see RG 132.89.
+
+              RG 131.54      We will consider whether the group-level and scheme-level compliance
+                             controls appear adequate to ensure compliance with the Corporations Act
+                             and the scheme’s constitution. We expect adequate compliance controls to:
+                             (a)   align with the responsible entity’s values, objectives and strategy (see
+                                   RG 132.86);
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                     Page 15
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             (b)   reflect the responsible entity’s actual procedures, processes and
+                                   practices (see RG 132.87 and RG 132.99);
+                             (c)   have a nexus to the compliance obligations and compliance risks (see
+                                   RG 132.88);
+                             (d)   be set out with enough certainty (see RG 132.93–RG 132.96);
+                             (e)   be written in a clear manner so that they are usable by the target
+                                   audience (see RG 132.97–RG 132.99);
+                             (f)   identify functional roles responsible for carrying out a particular
+                                   compliance control (see RG 132.100–RG 132.101 and RG 132.106);
+                             (g)   have sufficient frequency and quantity to effectively manage the
+                                   compliance risks (see RG 132.107–RG 132.109);
+                             (h)   be tailored to the nature, scale and complexity of the scheme, taking
+                                   into account the assets invested in by the scheme and the scheme’s
+                                   investment strategy (see RG 132.85(a), RG 132.146 and RG 132.153);
+                                   and
+                             (i)   be reviewed and maintained (see RG 132.112–RG 132.118).
+
+              RG 131.55      We will also consider the processes for monitoring compliance with the
+                             compliance controls: see RG 132.110. We expect adequate processes to:
+                             (a)   evaluate the effectiveness of compliance controls;
+                             (b)   ensure that the allocation of roles is appropriate for meeting compliance
+                                   obligations;
+                             (c)   ensure the compliance obligations are accurate and up to date;
+                             (d)   ensure that previously identified compliance failures are addressed
+                                   effectively;
+                             (e)   identify and address instances where compliance controls were not
+                                   complied with or there were ‘near misses’;
+                             (f)   note attitudes and behaviours in relation to compliance and the
+                                   perceived competence of employees when dealing with issues that arise;
+                             (g)   assess performance against the compliance controls; and
+                             (h)   keep records of the compliance controls, results of testing and
+                                   remediation undertaken.
+
+
+                             Director’s statement
+
+              RG 131.56      For an application that uses Form 5103, we will check that each and every
+                             director of the responsible entity, or a properly appointed alternate, has
+                             signed the form. We will check these directors were directors at the date of
+                             lodgement. If an alternate director has signed, we will review the terms of
+                             the alternate director’s appointment to ensure they are broad enough to
+                             authorise the signing of the form.
+
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 16
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             Action we may take
+
+              RG 131.57      During the 14-day registration period, we may ask for:
+                             (a)   in rare instances, an explanation of how the managed investment
+                                   scheme meets the definition of a ‘managed investment scheme’ in s9;
+                             (b)   an amendment to the application or more information, particularly
+                                   where an answer given does not provide sufficient detail to enable us to
+                                   properly understand and assess the answer;
+                             (c)   a new Form 5103 to be signed by all directors and lodged;
+                             (d)   a further explanation of provisions in the constitution;
+                             (e)   amendments to be made to provisions in the constitution to meet
+                                   s601GA and 601GB (see our guidance in RG 134), and the constitution
+                                   to be re-executed;
+                             (f)   a further explanation about the contents of the compliance plan; and
+                             (g)   amendments to be made to the compliance plan to meet s601HA (see
+                                   our guidance in RG 132).
+
+              RG 131.58      We will refuse to register the managed investment scheme if the responsible
+                             entity or its advisers are unwilling or unable to provide this explanation,
+                             further information or amended documentation as required within the 14-day
+                             registration period.
+
+              RG 131.59      We may also refuse to register the managed investment scheme if it appears
+                             to us that one or more of the criteria in s601EB are not met. We may do this
+                             without taking any of the steps in RG 131.57. This is because it is up to the
+                             responsible entity to ensure the application meets the requirements of the
+                             Corporations Act when lodged.
+
+              RG 131.60      If we decide not to register the managed investment scheme, we will write to
+                             the responsible entity setting out the decision and the reasons why. We will
+                             also tell the responsible entity how to apply to the Administrative Appeals
+                             Tribunal for a review if the responsible entity considers the decision is
+                             wrong.
+
+              RG 131.61      The responsible entity may choose to withdraw the application. If the
+                             responsible entity takes this option, we will not be able to refund the
+                             application fee or hold it over if the responsible entity decides to reapply.
+                             The fact that the application has been withdrawn will be on the public
+                             record.
+
+
+                             Review of provisions prior to lodgement of application
+
+              RG 131.62      When lodging an application to register the managed investment scheme, the
+                             responsible entity or its advisers should state that certain provisions of the
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 17
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             constitution have been reviewed before lodgement if that is the case. We
+                             may refuse registration if:
+                             (a)   the responsible entity or its advisers have not requested a review of
+                                   provisions before lodgement;
+                             (b)   the provisions appear to us to not meet the Corporations Act; and
+                             (c)   we do not have sufficient time to seek information on whether the
+                                   provisions will meet the Corporations Act.
+
+                                   Note: Generally, we will not review draft provisions of a scheme constitution before it
+                                   is lodged for registration, except for the provisions for the consideration to acquire an
+                                   interest or calculation of the withdrawal amount. For more information on requesting a
+                                   review of provisions for constitutions, see RG 134.35–RG 134.44.
+
+              RG 131.63      We will not give priority to or expedite the processing time of an application
+                             to register a managed investment scheme on the sole basis that it has been
+                             preceded by a review by our staff.
+
+              RG 131.64      Our review of the provisions in a constitution before lodgement does not
+                             prevent us from raising more matters when we assess whether the
+                             constitution meets the requirements under s601EB.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                      Page 18
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+C          Registering as an Australian passport fund
+
+                               Key points
+
+                               The Asia Region Funds Passport allows interests in passport funds
+                               established and regulated in one participating economy to be sold to
+                               investors in another participating economy.
+
+                               Australian passport fund operators wishing to operate an Australian
+                               passport fund under the Asia Region Funds Passport will need to comply
+                               with the registration and ongoing requirements under the Passport Rules
+                               agreed between participating economies, and comply with the law in their
+                               home economy (Australia) and host economies.
+
+                               ASIC and our fellow passport regulators have established arrangements for
+                               cooperation and information sharing in administering the Asia Region
+                               Funds Passport.
+
+
+
+
+Applying to register as an Australian passport fund
+              RG 131.65      An Australian passport fund operator seeking to register an Australian
+                             passport fund will need to complete and submit to ASIC an application and
+                             attach a copy of the PDS: see s1212.
+
+              RG 131.66      The requirements for applying to register as an Australian passport fund are
+                             in addition to the requirements for registering a managed investment scheme
+                             under Ch 5C.
+
+              RG 131.67      To register an Australian passport fund, we need to be of the opinion that:
+                             (a)   the Australian passport fund operator is an eligible entity within the
+                                   meaning of section 3 of Annex 2 to the Memorandum of Cooperation;
+                                   and
+                             (b)   the Australian passport fund is likely to be operated in compliance with
+                                   the Corporations Act, including the Australian Passport Rules, and the
+                                   ASIC Act.
+
+              RG 131.68      Section 1212(1) sets out that an application may be made to register as an
+                             Australian passport fund where:
+                             (a)   the responsible entity or person acting on its behalf lodges the
+                                   application; or
+                             (b)   the proposed responsible entity or person acting on its behalf lodges the
+                                   application and has also applied to register the managed investment
+                                   scheme under s601EB.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 19
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+              RG 131.69      Where an application for registration of a managed investment scheme is
+                             lodged at the same time as an application to register as an Australian
+                             passport fund, we may:
+                             (a)   begin our assessment of both applications on receiving them; and
+                             (b)   ask for further information or amendments at the same time.
+
+              RG 131.70      As an Australian passport fund must be a registered scheme, we will refuse
+                             the application to register as an Australian passport fund if we also refuse the
+                             application to register the managed investment scheme.
+
+              RG 131.71      We will be unlikely to make a decision to register the Australian passport
+                             fund at the same time as making a decision to register the managed
+                             investment scheme. This is because generally an application to register as an
+                             Australian passport fund is more complex and will take more time for us to
+                             assess.
+
+
+
+Contents of the application
+
+                             Application
+
+              RG 131.72      The Australian passport fund operator can complete Apply for registration as
+                             an Australian passport fund, which is available through the ASIC
+                             Regulatory Portal.
+
+                                   Note 1: See our website for more information on how to register as an Australian passport
+                                   fund, which includes guidance on the requirements for PDSs.
+
+                                   Note 2: An Australian passport fund operator will need to contact us to obtain a copy of
+                                   the application if it cannot complete Apply for registration as an Australian passport
+                                   fund using the ASIC Regulatory Portal. Please ask online or call 1300 300 630.
+
+              RG 131.73      The Australian passport fund operator will also need to pay the applicable
+                             fee when submitting their application.
+
+                                   Note: For more information on our fees and methods of payment, see INFO 30.
+
+              RG 131.74      The application is made up of yes/no, multiple choice and open-ended
+                             questions that take into account the purpose of each provision in the
+                             Australian Passport Rules.
+
+              RG 131.75      Where we have asked for specific representations to be given about
+                             compliance with the Australian Passport Rules, we will usually rely on the
+                             answer that is given to form an opinion about the likelihood of compliance.
+
+              RG 131.76      Australian passport fund operators need to take care that their
+                             representations are correct. Under s1308, if an operator does not take
+                             reasonable steps to ensure it does not make a false statement to ASIC, it may
+                             be guilty of an offence.
+
+
+
+© Australian Securities and Investments Commission October 2022                                                     Page 20
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+              RG 131.77      The number of questions that an Australian passport fund operator will need
+                             to answer depends on a range of factors. These include the type of assets
+                             held, whether any portfolio limits have been exceeded and whether any
+                             functions are delegated.
+
+                             Delegated functions
+
+              RG 131.78      Under the Australian Passport Rules, delegated functions remain the
+                             responsibility of the Australian passport fund operator. This requires it to
+                             have suitable processes in place to ensure appropriate standards of care are
+                             applied by the delegate or sub-delegate in performing functions and that
+                             delegates’ activities are monitored, controlled and evaluated: see
+                             section 11(1) of the Australian Passport Rules.
+
+                                   Note: Under s1211(2), the Australian Passport Rules must be substantially the same as
+                                   the Passport Rules set out in Annex 3 to the Memorandum of Cooperation. The
+                                   Australian Passport Rules made under s1211(1) will be taken to be substantially the
+                                   same where they together with other provisions of the Corporations legislation made by
+                                   the responsible Minister have substantially the same effect as the Passport Rules set out
+                                   in Annex 3 to the Memorandum of Cooperation.
+
+              RG 131.79      We consider suitable processes may include an established process for
+                             delegations that incorporates set accountabilities, reporting obligations and
+                             performance appraisals of delegates, along with appropriate oversight and
+                             knowledge of any sub-delegations and sub-delegates. We will generally
+                             check this information as part of the application.
+
+              RG 131.80      Section 11(3) of the Australian Passport Rules sets out requirements where
+                             an Australian passport fund operator delegates the investment management
+                             function for more than 20% of the value of the Australian passport fund’s
+                             assets. Where this happens, the investment management business of every
+                             qualifying delegate must be regulated in:
+                             (a)   a participating economy; or
+                             (b)   an economy that has, in respect of investment management functions of
+                                   collective investment schemes that may be offered to the general public,
+                                   a regulatory framework that is ‘broadly similar in effectiveness’ to that
+                                   in Australia (see section 11(3)).
+                                   Note: Section 11(3) does not require regulation in this way for a qualifying delegate of
+                                   the investment management function if the delegation is for less than 20% of the assets.
+
+              RG 131.81      We consider that regulatory frameworks are broadly similar in effectiveness
+                             to the Australian framework for the purpose of section 11(3) in the following
+                             economies:
+                             (a)   Hong Kong;
+                             (b)   Singapore;
+                             (c)   member states of the European Union; and
+                             (d)   the United Kingdom.
+
+
+© Australian Securities and Investments Commission October 2022                                                     Page 21
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+              RG 131.82      Our view is based on an examination of the criteria that we use to assess
+                             whether a foreign regulatory regime is ‘sufficiently equivalent’.
+
+              RG 131.83      If an Australian passport fund operator wants a further economy to be
+                             recognised, it should consider the principles we have developed for granting
+                             relief for foreign providers from certain Australian regulatory requirements.
+                             One key requirement is that the foreign provider is subject to a sufficiently
+                             equivalent overseas regulatory regime.
+
+                                   Note: For more information on sufficient equivalence, see Regulatory Guide 54
+                                   Principles for cross-border financial regulation (RG 54). These principles include the
+                                   General Principles (see Table 1 of RG 54) and the Equivalence Principles (see Table 2
+                                   of RG 54).
+
+              RG 131.84      To properly assess an application for relief, we need to understand how
+                             managed investments are regulated in the relevant overseas regulatory regime.
+
+                                   Note: Applications for relief should be lodged through the ASIC Regulatory Portal.
+
+              RG 131.85      The more complex the arrangements, the greater the likelihood more questions
+                             will need to be answered and, generally, the longer the assessment period.
+
+                             Compliance with the Basel Committee on Banking Supervision
+                             guidelines
+
+              RG 131.86      Under the Australian Passport Rules, a body may be required to be regulated
+                             or supervised by a regulatory body in general compliance with the Basel
+                             Committee on Banking Supervision (BCBS) guidelines: see
+                             sections 7(3)(a)(iv), 13(10)(a), 21(1), 27(2)(a)(i), 28(2)(a)(i), 30(2)(a)(ii) and
+                             30(4)(a) of the Australian Passport Rules.
+
+              RG 131.87      We have adopted a three-tiered approach when considering compliance with
+                             the BCBS guidelines. We consider that a body will be from a:
+                             (a)   Tier 1 country—if that country is a member of the Basel Committee on
+                                   Banking Supervision;
+
+                                   Note: This includes members of the European Union, as the European Union is a
+                                   member of the Basel Committee on Banking Supervision.
+
+                             (b)   Tier 2 country—if that country is a participating economy; or
+                             (c)   Tier 3 country—if that country is any other country.
+
+              RG 131.88      We will accept all Tier 1 countries as complying with the BCBS guidelines.
+                             This is because, as members of Basel Committee on Banking Supervision,
+                             these countries are required to implement the initiatives of the committee.
+                             They must meet minimum standards of implementation, but can exceed
+                             them. Members of the European Union are required to meet similar
+                             requirements because of their membership of the European Union.
+
+              RG 131.89      We will also accept all Tier 2 countries, because each participating economy
+                             has been subject to a Financial Sector Assessment Program country report.
+
+
+
+© Australian Securities and Investments Commission October 2022                                                   Page 22
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+              RG 131.90      We will treat the BCBS guidelines referred to in the Australian Passport
+                             Rules as referring to the core principles methodology adopted by the BCBS.
+
+
+                             Eligible entity requirements
+
+              RG 131.91      An Australian passport fund operator must meet certain requirements in the
+                             Australian Passport Rules to be an eligible entity. These requirements apply
+                             at the time of application, unless there is an exemption or modification. The
+                             eligible entity requirements are summarised in Table 2, and the assessments
+                             we apply in considering whether the requirements have been met are
+                             discussed in further detail at RG 131.104–RG 131.135.
+
+Table 2:     Summary of eligible entity requirements for Australian passport fund operators
+
+ Requirement                                                                                     Guidance
+
+ Assets under management test
+
+ The Australian passport fund operator or its related parties must have assets under             RG 131.108–
+ management with a total value of at least US$500 million.                                       RG 131.110
+
+ Relevant qualifications test
+
+ The Australian passport fund operator must have officers with the relevant qualifications set   RG 131.111–
+ out in section 6 of the Australian Passport Rules.                                              RG 131.114
+
+ Financial resources test
+
+ The Australian passport fund operator must have equity resources of at least US$1 million,      RG 131.115–
+ plus the additional capital amount: see section 7 of the Australian Passport Rules.             RG 131.118
+
+ Organisational arrangements test
+
+ The Australian passport fund operator must have in place processes and procedures to            RG 131.119–
+ ensure it meets the organisational arrangements test in section 8 of the Australian Passport    RG 131.123
+ Rules.
+
+ Track record test
+
+ The Australian passport fund operator or a related party must meet the track record test in     RG 131.124–
+ section 9 of the Australian Passport Rules.                                                     RG 131.129
+
+ Good standing test
+
+ The Australian passport fund operator must meet the good standing test in section 10 of the     RG 131.130–
+ Australian Passport Rules.                                                                      RG 131.135
+
+ Home economy and home regulator test
+
+ The Australian passport fund operator must:                                                     See section 3 of
+  have its principal place of business in Australia; and                                        Annex 2 to the
+                                                                                                 Memorandum of
+  be regulated by ASIC as responsible entity of a registered scheme.
+                                                                                                 Cooperation
+
+
+              RG 131.92      One of the key objectives of the Asia Region Funds Passport is to provide a
+                             high degree of investor protection. The eligibility requirements in the
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                             Page 23
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             Australian Passport Rules aim to ensure high standards are met and, in
+                             particular, that Australian passport fund operators are well established,
+                             competent, adequately resourced and adequately set up to manage retail
+                             collective investment schemes.
+
+
+                             Compliance with the Corporations Act, including the
+                             Australian Passport Rules, and the ASIC Act
+
+              RG 131.93      Under s1212A, we must be of the opinion that the Australian passport fund
+                             operator is likely to comply with the Corporations Act, including the
+                             Australian Passport Rules, and the ASIC Act. In forming this opinion, we
+                             will take into account:
+                             (a)   the operator’s compliance history; and
+                             (b)   whether the operator’s compliance management system is sufficiently
+                                   effective and responsive to allow it to demonstrate its commitment to
+                                   complying with its obligations under the Corporations Act and ASIC
+                                   Act (see Section B of RG 132).
+
+              RG 131.94      In our view, there is a greater likelihood of non-compliance with the
+                             Corporations Act and ASIC Act when the compliance management system is
+                             not effective and responsive. To be effective and responsive, we consider the
+                             compliance management system should be planned, implemented, evaluated,
+                             improved and documented.
+
+              RG 131.95      We will ask Australian passport fund operators to identify the compliance
+                             controls in place to meet the requirements of the Corporations Act, including
+                             the Australian Passport Rules, the frequency with which they are undertaken
+                             and the frequency with which compliance with them is monitored. We have
+                             included some common compliance controls and frequencies in the
+                             prescribed form to make it less time consuming for an operator to describe
+                             all of the compliance controls and their frequencies. However, we do not
+                             expect operators to use this list if they do not have those compliance controls
+                             or frequencies—in this case, operators can describe the actual compliance
+                             controls and frequencies instead.
+
+                             Permitted investments
+
+              RG 131.96      Division 6.2 of the Australian Passport Rules governs the types of assets in
+                             which an Australian passport fund is permitted to invest. Those assets
+                             include investments in regulated collective investment schemes, deposits,
+                             currency, derivatives, transferable securities, money market instruments and
+                             depository receipts over gold. The purpose of restricting passport funds to
+                             holding only certain types of assets is to secure the reputation of the Asia
+                             Region Funds Passport as a regulatory arrangement that provides for liquid
+                             investments that are readily able to be priced.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 24
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+              RG 131.97      The application asks questions about the permitted assets that will be held by
+                             the Australian passport fund, to break down the requirements of the relevant
+                             specific provision of the Australian Passport Rules into its key components.
+
+                             Breach of the Australian Passport Rules
+
+              RG 131.98      To submit an application to become an Australian passport fund, the
+                             prospective Australian passport fund operator must be able to comply with
+                             the Australian Passport Rules. Where there is a breach of the Australian
+                             Passport Rules any attempt to submit an application will most likely result in
+                             a decision to refuse the application. We expect prospective operators to
+                             rectify any breach of the Australian Passport Rules, and have no reasonable
+                             basis to expect a further breach, before submitting an application.
+
+                             Exceeding portfolio allocation limits
+
+              RG 131.99      The Australian Passport Rules set out portfolio allocation limits across the
+                             permitted asset types: see Division 6.3 of the Australian Passport Rules.
+                             These limits seek to ensure that a passport fund is well diversified across
+                             different issuers and equivalent assets with similar characteristics. However,
+                             it is not a breach of the Australian Passport Rules to exceed a portfolio
+                             allocation limit: see section 29 of the Australian Passport Rules.
+
+              RG 131.100     An Australian passport fund that exceeds a portfolio allocation limit must
+                             cease to do so as soon as reasonably practicable, but no later than three
+                             months after the date the limit was first exceeded: see section 29(2) of the
+                             Australian Passport Rules. If the Australian passport fund operator satisfies
+                             the independent oversight entity that an extension would be in the best
+                             interests of members and receives notice in writing from the independent
+                             oversight entity, this three-month period may be extended by one month
+                             (with further one-month extensions allowed): see section 29(3) of the
+                             Australian Passport Rules.
+
+              RG 131.101     Where an existing registered scheme has exceeded one or more portfolio
+                             allocation limits, or it is considered likely that a limit may soon be exceeded,
+                             but the period in section 29(2) and (3) has not expired, it may still be
+                             possible to submit an application for registration. In this case, we encourage
+                             the prospective Australian passport fund operator to raise any concerns or
+                             discussion points with us before lodging an application.
+
+
+                             PDS
+
+              RG 131.102     An Australian passport fund operator must also attach to its application a
+                             copy of the PDS, which is required before the operator may offer interests to
+                             retail clients: see s1212(2).
+
+              RG 131.103     The PDS must comply with the requirements in s1013C and must contain
+                             sufficient information on the Australian passport fund for a retail client to
+                             make an informed decision about whether to purchase an interest in the fund.
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 25
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+Assessment by ASIC
+              RG 131.104     When an application to register as an Australian passport fund is lodged with
+                             ASIC, we will assess whether it complies with s1212A.
+
+              RG 131.105     We take a risk-based approach to assessment. We will consider each
+                             question answered and the underlying risk the relevant provision in the
+                             Australian Passport Rules is intended to address.
+
+
+                             Assessment of the eligible entity requirements
+
+              RG 131.106     When we assess the application to register as an Australian passport fund,
+                             we may ask for more information or documents that will demonstrate the
+                             Australian passport fund operator’s ability to meet the eligible entity
+                             requirements. If the operator does not provide the information and
+                             documentation we need, we may consider that it has not demonstrated that it
+                             can meet the eligible entity requirements.
+
+                                   Note: The eligible entity requirements applicable to an Australian passport fund
+                                   operator are distinct from, and may be additional to, the AFS licensing requirements for
+                                   a responsible entity.
+
+              RG 131.107     We will refuse to register an Australian passport fund if:
+                             (a)   the Australian passport fund operator or its advisers are unwilling or
+                                   unable to provide more information or documentation within a
+                                   reasonable time, and we are unable to form an opinion that the eligible
+                                   entity test can be met; or
+                             (b)   in our opinion the operator cannot meet the relevant eligible entity test.
+
+                             Assets under management test
+
+              RG 131.108     The Australian passport fund operator and its related parties must be
+                             collectively responsible for operating financial asset collective investment
+                             schemes that have total assets of at least US$500 million. This is calculated
+                             using the method set out in section 3(5)(b) of the Australian Passport Rules.
+                             The calculation can include any amounts in relation to which the operator or
+                             related party has discretionary management powers.
+
+              RG 131.109     We will generally check:
+                             (a)   the percentage by which the test has been exceeded; and
+                             (b)   whether all assets invested directly or indirectly in other collective
+                                   investment schemes or discretionary management accounts operated by
+                                   the Australian passport fund operator or its related parties have been
+                                   excluded to avoid double counting.
+
+              RG 131.110     We will generally ask for more information or documents where the test has
+                             been exceeded by less than 1%. If the assets under management test is
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                    Page 26
+                                          REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             exceeded by only a small amount, there may be a higher likelihood that the
+                             Australian passport fund operator will not meet section 7 of the Australian
+                             Passport Rules in the future. We may ask for the financial accounts used to
+                             derive the total amount of assets under management. We may also ask for
+                             more information on:
+                             (a)   any related party that is being relied on;
+                             (b)   how each related party is a related party within the meaning of the
+                                   Memorandum of Cooperation; and
+                             (c)   how the amount was calculated.
+
+                             Relevant qualifications test
+
+              RG 131.111     The Australian passport fund operator must have officers with the relevant
+                             qualifications. We will assess whether the following officers have relevant
+                             experience in an International Organization of Securities Commissions
+                             (IOSCO) financial services related business:
+                             (a)   CEO—the CEO must have spent 10 of the last 15 years in such an
+                                   organisation and 5 of those 10 years in a managerial or supervisory role;
+                             (b)   at least two executive directors (which may include the CEO)—the
+                                   executive directors must have spent five of the last seven years in such
+                                   an organisation; and
+                             (c)   any officer or employee responsible for making, or supervising at least
+                                   on a joint basis, all discretionary investment decisions for the Australian
+                                   passport fund—the employee or officer must have spent either:
+                                   (i)    five of the last seven years in such an organisation; or
+                                   (ii)   three of the last five years in such an organisation and hold a
+                                          bachelor degree or higher qualification in a relevant discipline.
+                                   Note: For the definition of ‘IOSCO financial services related business’, see the key terms.
+
+              RG 131.112     We may request more information on:
+                             (a)   the ways in which the experience of the CEO, executive directors, or an
+                                   officer or employee is relevant;
+                             (b)   how the organisation carries on business in financial or capital markets
+                                   or financial services;
+                             (c)   how a qualification is the equivalent of a bachelor degree or higher
+                                   qualification; and
+                             (d)   how a qualification is in a relevant discipline.
+
+              RG 131.113     If, after an application is submitted, an officer or employee no longer
+                             complies with the qualifications test, the Australian passport fund operator
+                             must do what is necessary to meet the test as quickly as possible.
+                                   Note: An example of an officer or employee no longer complying with the
+                                   qualifications test is an unexpected employee resignation.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                       Page 27
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+              RG 131.114     We are unlikely to refuse an application where there is evidence the
+                             Australian passport fund operator has taken, or is taking, reasonable steps to
+                             meet the qualifications test. For example, this may include advertising for
+                             the vacant position or having appointed a suitable acting replacement.
+                             However, we will not register the Australian passport fund until a suitable
+                             replacement is found and appointed.
+
+                             Financial resources test
+
+              RG 131.115     The Australian passport fund operator must meet the financial resources test.
+                             We will generally consider that the operator is meeting the financial
+                             resources test if its equity:
+                             (a)   is greater than or equal to US$21 million (we refer to this as the ‘capped
+                                   scenario’);
+                             (b)   is greater than US$1 million, and the total assets under management of
+                                   the operator is less than or equal to US$500 million (we refer to this as
+                                   the ‘additional capital amount scenario’); or
+                             (c)   the total assets under management of the operator is greater than
+                                   US$500 million and the equity is greater than US$1 million plus the
+                                   additional capital amount (we refer to this as the ‘no additional capital
+                                   amount scenario’).
+                                   Note 1: In calculating the Australian passport fund operator’s equity, a guarantee or
+                                   undertaking held by the operator or an approved professional indemnity (PI) insurance
+                                   policy may be counted in certain circumstances.
+
+                                   Note 2: In general, we consider that satisfying the AFS licence requirement under
+                                   reg 7.6.02AAA of the Corporations Regulations 2001 to hold ‘adequate’ PI insurance
+                                   will ensure that an operator meets the ‘approved PI insurance policy’ requirement if it
+                                   applies.
+
+              RG 131.116     The additional capital amount is calculated by subtracting US$500 million
+                             from the total assets under management of the Australian passport fund
+                             operator, and then multiplying that figure by 0.001. The additional capital
+                             amount is capped at US$20 million.
+
+              RG 131.117     We will generally ask for further information or documents where the
+                             financial resources test has been exceeded by less than 5%. If the assets
+                             under management test is exceeded by only a small amount, there may be a
+                             higher likelihood that the Australian passport fund operator will not meet
+                             section 4(3) of the Australian Passport Rules in the future. We will generally
+                             require the operator to demonstrate how the requirement has been satisfied.
+
+              RG 131.118     To assess whether the financial resources test is met, we may ask for:
+                             (a)   financial accounts;
+                             (b)   the guarantee or undertaking, if one is being relied on to meet the test;
+                                   and
+                             (c)   the approved PI insurance policy, if one is being relied on to meet the test.
+
+
+© Australian Securities and Investments Commission October 2022                                                     Page 28
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             Organisational arrangements test
+
+              RG 131.119     The Australian passport fund operator must meet the organisational
+                             arrangements test. We will check that the operator has in place controls,
+                             processes and frameworks to ensure it will comply with all aspects of the
+                             organisational arrangements test. We will generally be satisfied that the
+                             operator meets the organisational arrangements test when it meets our
+                             guidance.
+
+              RG 131.120     We will apply our guidance in Section B of RG 132 when considering
+                             whether the compliance framework ensures ongoing compliance. We will
+                             check that the compliance management system:
+                             (a)   has documented processes to comply with the Australian Passport Rules
+                                   (see RG 132.180–RG 132.184);
+                             (b)   identifies functional roles for carrying out each compliance control and
+                                   monitoring that compliance control (see RG 132.59–RG 132.70); and
+                             (c)   will be reviewed and maintained (see RG 132.78–RG 132.80).
+
+              RG 131.121     In considering whether there is an adequate risk monitoring and management
+                             process, we will apply the guidance in Section B of Regulatory Guide 259
+                             Risk management systems of fund operators (RG 259). We will check
+                             whether the risk management framework:
+                             (a)   is documented (see RG 259.21);
+                             (b)   contains a process for identifying, assessing and understanding each of
+                                   the material risks of the Australian passport fund operator and fund (see
+                                   RG 259.63–RG 259.76);
+                             (c)   contains a process for managing the risks identified (see RG 259.78–
+                                   RG 259.84);
+                             (d)   contains a process for adequate oversight of the risk management
+                                   systems by both the party responsible for ownership of the risk and the
+                                   compliance function (see RG 259.42–RG 259.45);
+                             (e)   requires a risk appetite and tolerance statement for each identified
+                                   material risk (see RG 259.32–RG 259.36); and
+                             (f)   will be reviewed and maintained (see RG 259.55–RG 259.56 and
+                                   RG 259.87–RG 259.90).
+
+              RG 131.122     We will apply our guidance in Regulatory Guide 181 Licensing: Managing
+                             conflicts of interest (RG 181) when considering whether there are adequate
+                             procedures to manage conflicts of interest. We will check whether the
+                             Australian passport fund operator:
+                             (a)   has a documented conflicts of interest policy (see RG 181.33 and
+                                   RG 181.44–RG 181.48);
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 29
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             (b)   has processes to identify actual or potential conflicts of interest (see
+                                   RG 181.30 and RG 181.46);
+                             (c)   has implemented processes to manage conflicts of interest (see
+                                   RG 181.34);
+                             (d)   has processes to assess and evaluate the actual or potential conflicts of
+                                   interest and implement a response (see RG 181.28);
+                             (e)   has processes to monitor compliance and identify non-compliance (see
+                                   RG 181.31, RG 181.37 and RG 181.45);
+                             (f)   has processes for giving adequate disclosure to allow clients to make an
+                                   informed decision about how the conflict may affect the service being
+                                   provided to them (see RG 181.49–RG 181.53 and RG 181.57–
+                                   RG 181.63); and
+                             (g)   reviews and maintains its conflicts of interest policy and processes (see
+                                   RG 181.34 and RG 181.37).
+
+              RG 131.123     We may ask for further information on the controls, processes and
+                             frameworks in relation to:
+                             (a)   maintaining organisational competence;
+                             (b)   compliance arrangements;
+                             (c)   risk monitoring and management procedures;
+                             (d)   compliance frameworks; and
+                             (e)   conflicts of interest.
+
+                             Track record test
+
+              RG 131.124     The Australian passport fund operator must meet the track record test. We
+                             will assess if the operator has been responsible for a financial asset collective
+                             investment scheme capable of offering interests to the general public over
+                             the past five years. This test can be met if the operator relies on its own track
+                             record or relies on the track record of a related party.
+
+                                   Note: The track record test cannot be met by relying on the track record of the
+                                   Australian passport fund operator and a related party.
+
+              RG 131.125     If the scheme nominated in the application is Australian, we will check if the
+                             Australian passport fund operator or its related party has held AFS licence
+                             authorisations that allow it to offer interests to retail clients in a financial
+                             assets registered scheme or regulated public offer superannuation fund for at
+                             least the last five years. If the scheme nominated in the application is
+                             foreign, we will check the website of the foreign regulator to see if the
+                             related party has held a licence, registration or authorisation to operate a
+                             financial asset collective investment scheme capable of being offered to the
+                             general public for at least five years.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                      Page 30
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+              RG 131.126     We consider that an Australian registered scheme or regulated public offer
+                             superannuation fund will meet the definition of a financial assets collective
+                             investment scheme that is regulated so that it can be offered to the general
+                             public.
+
+              RG 131.127     We may not register an Australian passport fund if:
+                             (a)   our registers indicate that any scheme nominated in the application is
+                                   not a financial asset collective investment scheme;
+                             (b)   interests in the scheme are not able to be offered to the general public;
+                                   or
+                             (c)   the Australian passport fund operator or related party has not been
+                                   operating at least one nominated financial asset collective investment
+                                   scheme at all times during the last five years.
+
+                             Change of control
+
+              RG 131.128     If the Australian passport fund operator meets the track record test but there
+                             has been a change in control, we will generally check if a majority of the
+                             directors and responsible managers have been in their roles for at least five
+                             years. We will also generally check this if the operator is relying on the track
+                             record of a related party and there has been a relevant change in control of
+                             that related party.
+
+              RG 131.129     Where there has been a relevant change of control, we will assess whether
+                             there has been substantial continuity among staff, business processes and
+                             decision-making processes. In determining whether there has been
+                             substantial continuity, we will consider the extent to which:
+                             (a)   the personnel responsible for operating the registered scheme who were
+                                   employed by a related body corporate remained in that capacity;
+                             (b)   the same operating systems and procedures were used;
+                             (c)   the same resources were shared (including key portfolio management,
+                                   operational and other staff);
+                             (d)   both parties used the same control structures (including reporting lines
+                                   and compliance systems, procedures for monitoring service providers
+                                   and accounting, computer and IT systems);
+                             (e)   apart from preparing and issuing new disclosure documents, the trading
+                                   or other operational processes have substantially continued following
+                                   the change in control; and
+                             (f)   anything suggests that there will be a change in the substantial
+                                   continuity of staff, business processes and decision-making processes.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 31
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             Good standing test
+
+              RG 131.130     The Australian passport fund operator must meet the good standing test. We
+                             will ask for an overseas criminal history check for any jurisdiction the
+                             relevant party has resided in during the past 10 years. We will not require an
+                             Australian criminal history check if the relevant party has never resided in
+                             Australia during the past 10 years.
+
+                                   Note 1: A relevant party includes the Australian passport fund operator, an officer of the
+                                   operator, any entity that controls the operator and offers of any entity that controls the
+                                   operator.
+
+                                   Note 2: Criminal history and bankruptcy checks must not be more than 12 months old.
+
+              RG 131.131     If an overseas criminal history or bankruptcy check has not been obtained, a
+                             statutory declaration may be provided. The statutory declaration must
+                             explain the efforts made to obtain the checks and state the criminal history
+                             and bankruptcy history of the relevant party.
+
+              RG 131.132     In assessing whether the Australian passport fund operator meets the good
+                             standing test, we will:
+                             (a)   review the criminal history check and bankruptcy check (or statutory
+                                   declaration);
+                             (b)   check our systems and data we have collected to see whether any
+                                   previous events give a reason to believe that a relevant party is not of
+                                   good standing; and
+                             (c)   consider the number of previous events and the seriousness and age of
+                                   any allegations or breaches when forming an opinion about whether the
+                                   relevant party is of good standing. Where any previous event relates to
+                                   dishonesty or incompetence, it will generally indicate that there is a
+                                   material risk that the relevant party does not have the integrity or
+                                   competence to operate or be involved in the operation of an Australian
+                                   passport fund.
+
+              RG 131.133     We may request more information, including an explanation of any previous
+                             events and whether there were any mitigating factors. We may also request
+                             an original or certified copy of the criminal history check, bankruptcy check
+                             or statutory declaration.
+
+              RG 131.134     Where we have concerns about the conduct of a relevant party, we may
+                             undertake surveillance to test ongoing compliance.
+
+              RG 131.135     We may seek information from another entity about any regulatory action
+                             taken or disputes. This includes from an Australian or foreign regulatory
+                             body or dispute resolution service.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                     Page 32
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             Assessment of compliance with the Corporations Act,
+                             including the Australian Passport Rules, and the ASIC Act
+
+              RG 131.136     When we assess the application to register as an Australian passport fund,
+                             we will pay particular attention to answers that provide descriptions about
+                             compliance controls, and procedures to monitor compliance with the
+                             compliance controls. We will look to ensure the compliance controls are
+                             consistent with our guidance in RG 132.74 and RG 132.108. This includes
+                             whether:
+                             (a)   there is more than one compliance control for the compliance
+                                   obligation;
+                             (b)   the frequencies for carrying out the compliance controls or processes to
+                                   monitor compliance with the compliance controls are sufficient;
+                             (c)   the compliance controls use clear, definite and meaningful words to
+                                   describe what is done; and
+                             (d)   the compliance controls are appropriate to the compliance obligation.
+
+              RG 131.137     Where we have concerns about the compliance controls or procedures to
+                             monitor compliance with the compliance controls described in the
+                             application, we will also ask for information on compliance with
+                             requirements in the Corporations Act and ASIC Act. This is because many
+                             compliance controls that an Australian passport fund operator may
+                             implement are also relevant to compliance with similar requirements in the
+                             Corporations Act that are not part of the Australian Passport Rules.
+
+              RG 131.138     We may ask for more information or documents that will demonstrate the
+                             Australian passport fund operator’s ability to meet the requirements in the
+                             Corporations Act, including the Australian Passport Rules, and the ASIC
+                             Act. For the application to be granted, the operator must be able to provide
+                             the information and documents we need to demonstrate that it is likely to
+                             meet these requirements.
+
+                             Conflict between the constitution and Australian Passport Rules
+
+              RG 131.139     Where the constitution of an existing registered scheme allows the
+                             Australian passport fund to do something that is not permitted under the
+                             Australian Passport Rules, we will conduct a closer examination of the
+                             compliance controls that the Australian passport fund operator has in place
+                             to prevent a breach of the Australian Passport Rules.
+
+              RG 131.140     An Australian passport fund operator will need to amend its constitution to
+                             be consistent with section 4 of the Australian Passport Rules. Where we see
+                             any inconsistency, we will ask for the constitution to be amended before
+                             registration.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 33
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             Exceptional circumstances and reasonable actions
+
+                RG 131.141 Some specific provisions in the Australian Passport Rules allow an action to
+                             be taken in ‘exceptional circumstances’. Where the Australian Passport
+                             Rules allow something to be done in exceptional circumstances, we will
+                             assess the answers in each case to determine whether exceptional
+                             circumstances exist or are likely to occur. We will look for something
+                             unusual or out of the ordinary in the circumstances that substantiates or
+                             warrants the action, taking into account the purpose of the specific provision.
+
+                                   Note: For more information on which sections of the Australian Passport Rules allow
+                                   actions to be taken in exceptional circumstances, see sections 9(2)(b)(ii), 25(1)(c) and
+                                   33(3) of the Australian Passport Rules
+
+              RG 131.142     Some specific provisions in the Australian Passport Rules allow, or require,
+                             an action to be taken only where it is ‘reasonable’. Where the Australian
+                             Passport Rules require something to be reasonable, we will assess the
+                             answers in each case by applying a standard of objective rationality, taking
+                             into account all of the facts.
+
+                             Permitted investments
+
+              RG 131.143     If the Australian passport fund operator lodges an application without
+                             divesting assets that do not meet section 19 of the Australian Passport Rules,
+                             we will refuse the application on the basis that it is against the public
+                             interest. We consider that allowing existing registered schemes to hold non-
+                             complying investments, but requiring new registered schemes to only hold
+                             assets permitted under section 19, is unfair and not within the spirit of the
+                             purpose for restricting assets.
+
+                                   Note: Section 18 of the Australian Passport Rules provides that an Australian passport
+                                   fund can hold goods and services, as long as they are not held for investment purposes.
+                                   These are not considered to be assets of the Australian passport fund for the purpose of
+                                   RG 131.143.
+
+              RG 131.144     When we assess the answers given, we will focus on the purpose of the
+                             specific provision and the objectives of the Australian Passport Rules.
+
+                             Exceeding portfolio allocation limits
+
+              RG 131.145     If an existing registered scheme has exceeded one or more of the portfolio
+                             allocation limits, and the period allowed in section 29(2) and (3) of the
+                             Australian Passport Rules has expired, we will not register the prospective
+                             Australian passport fund until this is remedied.
+
+              RG 131.146     If an application is submitted and one or more portfolio allocation limits has
+                             been exceeded, we:
+                             (a)   will generally pay particular attention to the controls the Australian
+                                   passport fund operator has in place to monitor the investment portfolio;
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                      Page 34
+                                           REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             (b)   will generally look into whether any extension under section 29(3) is
+                                   consistent with our expectations for proper assessment by the
+                                   independent oversight entity of whether it was in the best interests of
+                                   members not to bring the limit within the Australian Passport Rules.
+                                   This is particularly the case if there has been more than one extension;
+                             (c)   may request more information and/or supporting documentation,
+                                   including:
+                                   (i)     why a particular limit has been exceeded;
+                                   (ii)    why the limit continues to be exceeded;
+                                   (iii)   when the operator anticipates the Australian passport fund will
+                                           operate within the limit;
+                                   (iv)    the steps that are actively being taken to bring the Australian
+                                           passport fund within the limit;
+                                   (v)     whether the operator acquired an asset or entered into a derivative
+                                           or securities lending arrangement that resulted in the limit being
+                                           exceeded;
+                                   (vi)    the number of extensions of time that have been sought and
+                                           granted by the independent oversight entity;
+                                   (vii) the earliest date the limit was exceeded; and
+
+                                   (viii) the approximate percentage by which the Australian passport fund
+                                           exceeds the limit; and
+                             (d)   may ask for more information to enable us to fully understand the
+                                   circumstances causing the limit to be exceeded and the actions being
+                                   taken to resolve the matter. This is in order for us to be satisfied the
+                                   time within which the operator expects to operate outside the limits is
+                                   reasonable.
+
+              RG 131.147     We will be unlikely to register the Australian passport fund while the
+                             registered scheme continues to exceed one or more portfolio allocation limits.
+
+
+                             Assessment of the PDS
+
+              RG 131.148     We may review the PDS as part of our assessment of the application to
+                             register as an Australian passport fund. If we review the PDS, we may ask for:
+                             (a)   more information to understand the contents of the PDS; or
+                             (b)   additional or corrective disclosure to be made to the PDS.
+
+              RG 131.149     The fact that we do not comment on the PDS does not indicate approval of
+                             the content of the PDS, or stop us from taking subsequent action against the
+                             Australian passport fund operator.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                               Page 35
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+Decision by ASIC
+              RG 131.150     There is no statutory timeframe for us to make a decision about whether to
+                             register an Australian passport fund. The time taken for a decision to be
+                             made is likely to be affected by the nature, scale and complexity of the
+                             Australian passport fund operator and the fund, and the quality of the
+                             information provided in support of an application. An Australian passport
+                             fund operator can minimise the time it takes us to assess the application by
+                             providing all the information we ask for and promptly responding to all other
+                             queries we may raise. Not doing so will delay our assessment or may mean
+                             we will refuse the application because we are unable to form an opinion that
+                             the operator is an eligible entity or likely to comply with the Corporations
+                             Act or ASIC Act.
+
+              RG 131.151     If we decide to refuse registration, we will write to the Australian passport
+                             fund operator setting out the decision and the reasons why. We will also tell
+                             the operator how to apply to the Administrative Appeals Tribunal for a
+                             review if it considers the decision is wrong.
+
+              RG 131.152     The Australian passport fund operator may choose to withdraw the
+                             application. If it takes this option, we will not be able to refund the
+                             application fee or hold it over if the operator decides to reapply. The fact that
+                             the application has been withdrawn will be on the public record.
+
+
+
+Entry on the Asia Region Funds Passport Register
+              RG 131.153     We are required to establish and maintain an Asia Region Funds Passport
+                             Register, or ensure that such a register is established and maintained: see
+                             s1214.
+
+              RG 131.154     The Asia Region Funds Passport Register includes details of Australian
+                             passport funds and notified foreign passport funds. The register includes
+                             details of Australian passport funds that have been deregistered and foreign
+                             passport funds that have been denotified. It may also include details of other
+                             passport funds: see s1214(3).
+
+              RG 131.155     When an Australian passport fund becomes registered we will:
+                             (a)   assign it a unique Australian Passport Fund Registration Number
+                                   (APFRN) (see s1212A(2)(a)); and
+                             (b)   ensure that details of the Australian passport fund are entered on the
+                                   Asia Region Funds Passport Register (see s1212A(2)(b)).
+
+              RG 131.156     A person will be able to search the Asia Region Funds Passport Register to
+                             obtain details about Australian passport funds.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 36
+                                           REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+D          Registering a CCIV and sub-funds
+
+                               Key points
+
+                               This section sets out how to register a CCIV and initial sub-fund(s). A
+                               corporate director must:
+                               • meet the CCIV registration requirements (see RG 131.157);
+                               • prepare a CCIV registration application (see RG 131.158–RG 131.177);
+                                 and
+                               • lodge the application with ASIC and pay the lodgement fee (see
+                                 RG 131.178–RG 131.180).
+
+                               This section also covers:
+                               • how we process an application (see RG 131.182–RG 131.185);
+                               • how to register further sub-funds (see RG 131.186–RG 131.191); and
+                               • how to register a sub-fund that is an Australian passport fund (see
+                                 RG 131.199–RG 131.200).
+
+
+
+
+Meeting the CCIV registration requirements
+              RG 131.157     For a company to be registered as a CCIV, the requirements in s1222 of the
+                             Corporations Act must be met. These requirements are that:
+                             (a)   the company must be a company limited by shares;
+                             (b)   the company must have a constitution that meets the constitution
+                                   requirements in Subdiv C of Pt 8B.3 of the Corporations Act;
+                             (c)   the sole proposed director of the company (i.e. the corporate director of
+                                   the CCIV) must be:
+                                   (i)     a public company that holds an AFS licence authorising it to
+                                           operate the business and conduct the affairs of a retail CCIV;
+                                   (ii)    a wholesale CCIV; or
+                                   (iii)   both;
+                             (d)   the company must, on registration, have at least one sub-fund;
+                             (e)   each sub fund of the company must, on registration, have at least one
+                                   member;
+                             (f)   if the company is intended at the time of registration to be a retail CCIV,
+                                   the company must have a compliance plan and compliance plan auditor; and
+                             (g)   the corporate director must give notice on the CCIV registration
+                                   application form about whether the CCIV is intended to be a retail
+                                   CCIV or a wholesale CCIV.
+                                   Note: Any CCIV and sub-fund requested to be registered must be consistent with the
+                                   corporate director’s AFS licence authorisation.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                 Page 37
+                                          REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+Contents of the application
+              RG 131.158     Your application must include the documents in Table 3.
+
+Table 3:     Application requirements for registering a retail or wholesale CCIV
+
+ Document                                  Retail CCIV                           Wholesale CCIV
+
+ Application form                          Form 5201 Application for             Form 5201 Application for
+                                           registration of a corporate           registration of a corporate
+                                           collective investment vehicle         collective investment vehicle
+
+ Copy of the CCIV’s constitution:          Must meet s1223B, 1223G and           Must meet s1223B and 1223F
+ see s1222A(5)                             1223H
+
+ Copy of the CCIV’s compliance             Must be signed by all directors and   Not required: see s1226(3)
+ plan: see s1222A(6)                       meet s1226A
+
+
+              RG 131.159     To register a CCIV, the corporate director must complete Form 5201. It must
+                             complete and lodge a separate Form 5201 for each CCIV proposed to be
+                             registered
+
+              RG 131.160     We will assess whether your application complies with the requirements of
+                             the Corporations Act and confirm whether the corporate director holds the
+                             appropriate AFS licence authorisations to operate the CCIV. If it appears
+                             that the application does not meet the legislative requirements, we may ask
+                             you for further information or to provide additional documents.
+
+              RG 131.161     In the form to the corporate director must provide:
+                             (a)   the proposed name of the CCIV;
+                             (b)   the name and address of the registered office of the corporate director;
+                             (c)   notice about whether a CCIV is intended at the time of application to be
+                                   a retail CCIV or a wholesale CCIV;
+                             (d)   details of the consenting compliance plan auditor (for a retail CCIV
+                                   only);
+                             (e)   the proposed name of each sub‑fund to be registered with the CCIV
+                                   (initial sub-fund); and
+                             (f)   for each initial sub‑fund(s):
+                                   (i)    the name and address of each member of the sub-fund; and
+                                   (ii)   the shares that are referable to the sub‑fund.
+
+              RG 131.162     Please note that specific requirements apply to the name of a CCIV (see
+                             s1222E) and a sub-fund (see s1222V(1), (2) and (3)).
+
+              RG 131.163     The terms ‘retail CCIV’ and ‘wholesale CCIV’ are defined in s1222J. In
+                             general, if there is at least one investor who acquired securities as a ‘retail
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                  Page 38
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             client’, the CCIV will be a retail CCIV: see s1222K for other examples of
+                             when a CCIV is a retail CCIV. Otherwise, the CCIV is a wholesale CCIV.
+
+              RG 131.164     The corporate director will also be asked to select the dominant asset type
+                             that is relevant to the initial sub-fund(s). We have identified the following
+                             asset types for registration purposes:
+                             (a)   financial assets;
+                             (b)   derivatives;
+                             (c)   direct real property;
+                             (d)   film;
+                             (e)   mortgages;
+                             (f)   crypto-assets;
+                             (g)   commodities; and
+                             (h)   primary production.
+
+              RG 131.165     The AFS licence of the corporate director will specify the particular type(s)
+                             of assets that can be held by the retail CCIV or wholesale CCIV. The
+                             corporate director must only select an asset type that is consistent with the
+                             asset type(s) specified on their licence.
+
+              RG 131.166     Some corporate directors may have a condition imposed on their AFS
+                             licence limiting their CCIV operations to one retail CCIV that has a single
+                             sub-fund. If the corporate director’s AFS licence includes this condition, it
+                             may only apply to register one retail CCIV and a single sub-fund. The
+                             limitation to a single sub-fund does not apply to wholesale CCIVs.
+
+
+                             Constitution requirements
+
+              RG 131.167     All CCIVs must have a constitution. As outlined in Table 3, the corporate
+                             director must lodge a copy of the constitution with the application.
+
+              RG 131.168     The constitution of a retail CCIV must comply with the content requirements
+                             in s1223G and 1223H. The statutory procedures required to adopt, modify or
+                             repeal the constitution of a retail CCIV are set out in s1223D(2).
+
+              RG 131.169     The constitution of a wholesale CCIV must specify the requirements that
+                             must be complied with for the CCIV to modify its constitution or repeal its
+                             constitution and replace it with a new one: see s1223F.
+
+              RG 131.170     Aspects of the guidance in RG 134 are relevant to the content of the
+                             constitution of a CCIV.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 39
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             Compliance plan requirements
+
+              RG 131.171     A retail CCIV must have a compliance plan. As outlined in Table 3, a copy
+                             of the compliance plan, signed by all directors of the corporate director, must
+                             be lodged with the application.
+
+              RG 131.172     If a wholesale CCIV becomes a retail CCIV, a copy of the compliance plan
+                             must be lodged with ASIC within 14 days of becoming a retail CCIV: see
+                             s1226.
+
+              RG 131.173     The compliance plan of a retail CCIV must set out adequate measures that
+                             the corporate director is to apply in fulfilling its responsibilities in relation to
+                             the CCIV, to ensure compliance with the Corporations Act and the CCIV’s
+                             constitution: see s1226A.
+
+              RG 131.174     The compliance plan of a retail CCIV may incorporate specified provisions
+                             of a compliance plan of another CCIV, provided both CCIVs have the same
+                             corporate director: see s1226B.
+
+              RG 131.175     The corporate director should take into account the nature, scale and
+                             complexity of the CCIV(s) proposed to be operated when preparing the
+                             compliance plan. If a compliance plan incorporates parts of another plan, the
+                             compliance controls that make up that part of the incorporated plan should
+                             be appropriate compliance controls for that CCIV.
+
+              RG 131.176     As group compliance risks apply across all CCIVs that the corporate director
+                             operates, group compliance controls can be incorporated into all compliance
+                             plans for those CCIVs. However, compliance controls should only be
+                             incorporated when they are appropriate to the nature, scale and complexity
+                             of the particular CCIV.
+
+              RG 131.177     Aspects of RG 132 are relevant to those with oversight responsibilities of
+                             retail CCIVs, including corporate directors, compliance plan auditors and
+                             annual implementation reviewers. RG 132 also includes guidance on the
+                             compliance and oversight obligations these entities must meet under the
+                             Corporations Act and other legal obligations.
+
+
+
+Lodging the application form and paying the fee
+              RG 131.178     Form 5201 must be printed, completed, signed and lodged by postal mail. It
+                             is not possible to lodge the form online or by email.
+
+              RG 131.179     To lodge your application, send the completed and signed Form 5201 and
+                             accompanying documents to our mailing centre:
+                                   Australian Securities and Investments Commission
+                                   PO Box 4000, Gippsland Mail Centre VIC 3841
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 40
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+              RG 131.180     A corporate director cannot lodge a CCIV registration application before
+                             receiving an AFS licence. If it does, we will refuse the application on the
+                             basis that the proposed corporate director does not hold an AFS licence with
+                             the relevant authorisation that covers the operation the CCIV.
+
+              RG 131.181     The corporate director will also need to pay the applicable fee when
+                             submitting their application.
+
+                                   Note: For more information on our fees and methods of payment, see INFO 30.
+
+
+
+
+Assessment by ASIC
+              RG 131.182     We will assess whether the application complies with the requirements of the
+                             Corporations Act and confirm whether the corporate director holds the
+                             appropriate AFS licence authorisations to operate the CCIV.
+
+              RG 131.183     If it appears that the application does not meet the legislative requirements,
+                             we may ask the corporate director for further information or to provide
+                             additional documents.
+
+              RG 131.184     Once an application to register a CCIV has been processed, we will:
+                             (a)   give the CCIV an ACN;
+                             (b)   give the initial sub-fund(s) an Australian registered fund number
+                                   (ARFN);
+                             (c)   register the CCIV and the initial sub-fund(s); and
+                             (d)   send the corporate director a certificate of registration.
+
+              RG 131.185     We will generally provide confirmation of registration within two business
+                             days of receiving the application.
+
+
+
+Registering further sub-funds
+              RG 131.186     A CCIV must have at least one sub-fund to be registered and, to remain
+                             registered, it must continue to have at least one registered sub-fund.
+
+              RG 131.187     If the corporate director has already registered a CCIV with an initial sub-
+                             fund(s) and would like to register further sub-funds, it must complete
+                             Form 5202 Application for registration of a sub-fund of a corporate
+                             collective investment vehicle. A separate Form 5201 must be completed and
+                             lodged for each CCIV proposed to be registered.
+
+              RG 131.188     The corporate director must include the proposed name of the sub-fund, and
+                             select the dominant asset kind relevant to the sub-fund, when completing
+                             Form 5202.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                  Page 41
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+              RG 131.189     If the corporate director’s AFS licence includes a condition limiting its
+                             operations to one retail CCIV with a single retail sub-fund, it must not apply
+                             to register additional retail CCIVs or sub-funds of the retail CCIV until it
+                             AFS licence is varied to remove the condition.
+
+              RG 131.190     Before registering a new CCIV sub-fund, we encourage the corporate
+                             director to review the CCIV constitution and compliance plan (for retail
+                             CCIVs) to ensure ongoing compliance with the Corporations Act (e.g. there
+                             may be differences in pricing, fees, liquidity and redemptions rights or risks
+                             relating to a sub-fund that impact the provisions required in the constitution
+                             and/or compliance plan for the CCIV).
+
+              RG 131.191     Please note that applications to register further sub-funds do not need to
+                             include a copy of the CCIV’s constitution or compliance plan.
+
+
+                             Lodging applications for further sub-funds
+
+              RG 131.192     Form 5202 must be printed, completed, signed and lodged. It is not possible
+                             to lodge the form online or by email.
+
+              RG 131.193     To lodge your application, send the completed and signed Form 5202 and
+                             accompanying documents to our mailing centre:
+                                   Australian Securities and Investments Commission
+                                   PO Box 4000, Gippsland Mail Centre VIC 3841
+
+              RG 131.194     A corporate director or its advisers should ensure its existing AFS licence
+                             covers the further sub-fund. If a licence variation is required, the corporate
+                             director should not lodge its sub-fund registration application until the AFS
+                             licence is varied. Otherwise, the application will be refused on the basis that
+                             the proposed corporate director does not hold an AFS licence with an
+                             authorisation that covers the sub-fund(s).
+
+              RG 131.195     There is no fee to register further sub-funds.
+
+
+                             How we process an application to register a further sub-fund
+
+              RG 131.196     We will assess whether the application complies with the requirements of the
+                             Corporations Act. If it appears that the application does not meet the
+                             legislative requirements, we will ask the corporate director to amend its
+                             responses on the application form.
+
+              RG 131.197     Once an application to register a sub-fund has been processed, we will:
+                             (a)   give the sub-fund an ARFN (see s1222S(3));
+                             (b)   register the sub-fund; and
+                             (c)   send the corporate director a letter confirming the registration.
+
+              RG 131.198     We will generally provide confirmation of registration within two business days.
+
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 42
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+Registering a sub-fund of a CCIV as an Australian passport fund
+              RG 131.199     A sub-fund of a CCIV can be registered as an Australian passport fund for
+                             the purposes of the Asia Region Funds Passport. If the sub-fund of a CCIV
+                             registers as an Australian passport fund, the corporate director of the CCIV
+                             will be the passport fund operator.
+
+              RG 131.200     For additional guidance on applying for a fund to become an Australian
+                             passport fund, see our Asia Region Funds Passport webpage and RG 138.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 43
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+Key terms
+
+
+                               Term                      Meaning in this document
+
+                               ACN                       Australian Company number
+
+                               AFS licence               An Australian financial services licence under s913B of
+                                                         the Corporations Act that authorises a person who carries
+                                                         on a financial services business to provide financial
+                                                         services
+                                                           Note: This is a definition contained in s761A.
+
+                               Annex 3 (for              An annex to the Memorandum of Cooperation
+                               example)
+
+                               APFRN                     Australian Passport Fund Registration Number—the
+                                                         number assigned to an Australian passport fund under
+                                                         s1212A(2)(a) of the Corporations Act and issued to a
+                                                         notified foreign passport fund for identification purposes
+
+                               ARFN                      Australian registered fund number
+
+                               Asia Region Funds         An agreement between economies in the Asia region that
+                               Passport                  allows passport funds established and regulated in one
+                                                         participating economy to offer interests to investors in
+                                                         another participating economy
+
+                               Asia Region Funds         An ASIC register that will include prescribed details of
+                               Passport Register         Australian passport funds, notified foreign passport funds,
+                                                         deregistered Australian passport funds and funds that
+                                                         have been removed as notified foreign passport funds
+
+                               ASIC                      Australian Securities and Investments Commission
+
+                               ASIC Act                  Australian Securities and Investments Commission Act
+                                                         2001
+
+                               ASIC Regulatory           The internet channel that allows authenticated regulated
+                               Portal                    entities to interact securely with ASIC, which can be
+                                                         accessed at the portal landing page
+
+                               assets under              A requirement in the Australian Passport Rules reflecting
+                               management test           the minimum total value of assets under management
+                                                         that an Australian passport fund operator must have to be
+                                                         an eligible entity within the meaning of section 3 of
+                                                         Annex 2 to the Memorandum of Cooperation
+
+                               Australia                 Has the meaning given for the term ‘this jurisdiction’ in s5
+                                                         of the Corporations Act
+
+                               Australian passport       A registered scheme or sub-fund of a retail CCIV that is
+                               fund                      also registered as a passport fund under Pt 8A.3 of the
+                                                         Corporations Act
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                Page 44
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                               Term                      Meaning in this document
+
+                               Australian Passport       The Corporations (Passport) Rules 2018 made under
+                               Rules                     s1211 and 1211A of the Corporations Act
+
+                               Basel Committee on        An international committee formed to develop standards
+                               Banking Supervision       for banking regulation
+
+                               BCBS guidelines           Banking guidelines and standards developed by the
+                                                         Basel Committee on Banking Supervision
+
+                               CCIV                      A corporate collective investment vehicle—a company
+                                                         that is registered as a corporate collective investment
+                                                         vehicle under the Corporations Act
+                                                           Note: This is a definition contained in s9 of the Corporations
+                                                           Act.
+
+                               Ch 5C (for example)       A chapter of the Corporations Act (in this example
+                                                         numbered 5C), unless otherwise specified
+
+                               collective investment     Has the meaning given in section 55 of the Australian
+                               scheme                    Passport Rules
+
+                               corporate director        The company named in ASIC’s record of the CCIV’s
+                                                         registration as the corporate director or temporary
+                                                         corporate director of the CCIV
+                                                           Note: This is a definition contained in s1224(3) of the
+                                                           Corporations Act.
+
+                               Corporations Act          Corporations Act 2001, including regulations made for the
+                                                         purposes of that Act
+
+                               Corporations              Corporations Regulations 2001
+                               Regulations
+
+                               financial resources       A requirement in section 7 of the Australian Passport
+                               test                      Rules regarding the financial resources that must be held
+                                                         by an Australian passport fund operator for it to be an
+                                                         eligible entity within the meaning of section 3 of Annex 2
+                                                         to the Memorandum of Cooperation
+
+                               foreign passport fund     A passport fund with a home economy other than
+                                                         Australia
+
+                               Form 5100 (for            An ASIC form (in this example numbered 5100)
+                               example)
+
+                               good standing test        A requirement in section 10 of the Australian Passport
+                                                         Rules regarding the good standing of an Australian
+                                                         passport fund operator for it to be an eligible entity within
+                                                         the meaning of section 3 of Annex 2 to the Memorandum
+                                                         of Cooperation
+
+                               home economy              The participating economy in which a passport fund is
+                                                         first registered, approved or authorised as a regulated
+                                                         collective investment scheme
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                      Page 45
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                               Term                      Meaning in this document
+
+                               home regulator            The passport regulator in a passport fund’s home
+                                                         economy
+
+                               host economy              A participating economy that is not a passport fund’s
+                                                         home economy and either:
+                                                          permits the fund to offer interests in the fund in that
+                                                           economy under the Asia Region Funds Passport; or
+                                                          has accepted an application from the fund to offer
+                                                           interests in the fund in that economy under the Asia
+                                                           Region Funds Passport (but not to register the fund as
+                                                           a passport fund in that economy)
+
+                               INFO 30 (for              An ASIC information sheet (in this example numbered 30)
+                               example)
+
+                               IOSCO                     The International Organization of Securities Commissions
+
+                               IOSCO financial           An entity that:
+                               services related           carries on business in a financial, capital markets or
+                               business                    financial services industry and is regulated in an
+                                                           IOSCO jurisdiction;
+                                                          provides legal, accounting or compliance services
+                                                           related to that kind of business; or
+                                                          provides consultation services relating to, and
+                                                           addressing particular issues arising in, the operation of
+                                                           collective investment schemes within the meaning of
+                                                           section 55 of the Australian Passport Rules
+
+                               IOSCO jurisdiction        An administrative region in which the securities regulator
+                                                         is an ordinary or associate member of IOSCO within the
+                                                         meaning of section 55 of Australian Passport Rules
+
+                               managed investment        Has the meaning given in s9 of the Corporations Act
+                               scheme
+
+                               member                    A member of a registered scheme
+
+                               Memorandum of             The Memorandum of Cooperation on the Establishment
+                               Cooperation               and Implementation of the Asia Region Funds Passport
+
+                               notified foreign          A foreign passport fund that has become a notified
+                               passport fund             foreign passport fund under s1213C of the Corporations
+                                                         Act
+
+                               organisational            A requirement in section 8 of the Australian Passport
+                               arrangements test         Rules regarding the processes and procedures an
+                                                         Australian passport fund operator must have in place to
+                                                         be an eligible entity within the meaning of section 3 of
+                                                         Annex 2 to the Memorandum of Cooperation
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                Page 46
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                               Term                      Meaning in this document
+
+                               participating economy     An economy that is a participant under the Memorandum
+                                                         of Cooperation (while it is in effect) and has:
+                                                          advised the Asia Region Funds Passport Joint
+                                                           Committee that it has implemented the Asia Region
+                                                           Funds Passport; and
+                                                          not withdrawn from the Memorandum of Cooperation
+
+                               passport fund             A regulated collective investment scheme, or sub-fund of
+                                                         a regulated collective investment scheme, registered as a
+                                                         passport fund in a participating economy
+                                                           Note: Some regulated collective investment schemes, or sub-
+                                                           funds of regulated collective investment schemes, that have
+                                                           been deregistered as passport funds remain subject to
+                                                           obligations as if they were still a passport fund.
+
+                               passport fund             An entity that operates a passport fund
+                               operator
+
+                               passport regulator        The entity that regulates passport funds in a participating
+                                                         economy
+                                                           Note: See also the definition of ‘passport regulator’ in section
+                                                           55 of the Australian Passport Rules.
+
+                               Passport Rules            The requirements in Annex 3 to the Memorandum of
+                                                         Cooperation, as incorporated into the domestic law of a
+                                                         participating economy
+
+                               PDS                       A Product Disclosure Statement—a document that must
+                                                         be given to a retail client for the offer or issue of a
+                                                         financial product in accordance with Div 2 of Pt 7.9 of the
+                                                         Corporations Act
+                                                           Note: See s761A for the exact definition.
+
+                               PI insurance              Professional indemnity insurance
+
+                               Pt 7.9 (for example)      A part of the Corporations Act (in this example) number
+                                                         7.9), unless otherwise specified
+
+                               reg 7.6.02AAA (for        A regulation of the Corporations Regulations 2001 (in this
+                               example)                  example numbered 7.6.02AAA)
+
+                               registered scheme         A managed investment scheme that is registered under
+                                                         s601EB of the Corporations Act
+
+                               regulated collective      A regulated collective investment scheme as defined by
+                               investment scheme         the Passport Rules for a participating economy
+
+                               responsible entity        A responsible entity of a registered scheme as defined in
+                                                         s9 of the Corporations Act
+
+                               retail CCIV               A CCIV that satisfies the retail CCIV test in s1222K of the
+                                                         Corporations Act or is notified as a retail CCIV under
+                                                         s1222L of the Corporations Act.
+                                                           Note: This is a definition in s1222J.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                      Page 47
+                                         REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                               Term                      Meaning in this document
+
+                               retail client             A client as defined in s761G of the Corporations Act and
+                                                         Div 2 of Pt 7.1 of the Corporations Regulations
+
+                               s601EB (for example)      A section of the Corporations Act (in this example
+                                                         numbered 601EB), unless otherwise specified
+
+                               scheme                    A managed investment scheme as defined in s9 of the
+                                                         Corporations Act
+
+                               sub-fund                  Has the meaning given in s1222Q of the Corporations Act
+                                                           Note: A sub-fund is established on the day on which it is
+                                                           registered: see s1222T.
+
+                               Tier 1 country            A country that is a member of the Basel Committee on
+                                                         Banking Supervision
+
+                               Tier 2 country            A country that is a participating economy
+
+                               Tier 3 country            A country that is any country other than a Tier 1 or Tier 2
+                                                         country
+
+                               track record test         A requirement in section 9 of the Australian Passport
+                                                         Rules regarding the track record of an Australian
+                                                         passport fund operator for it to be an eligible entity within
+                                                         the meaning of section 3 of Annex 2 to the Memorandum
+                                                         of Cooperation
+
+                               wholesale CCIV            A CCIV that is not a retail CCIV.
+                                                           Note: This is a definition contained in s1222J of the
+                                                           Corporations Act.
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                                    Page 48
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             Australian passport fund, Australian Passport Rules, CCIV, compliance plan,
+                             constitution, corporate collective investment vehicle, corporate director,
+                             directors’ statement, eligible entity requirements, passport fund operator,
+                             registered managed investment scheme, registered scheme, registration,
+                             responsible entity
+
+
+                             Regulatory guides
+
+                             RG 1 Applying for and varying an AFS licence
+
+                             RG 54 Principles for cross-border financial regulation
+
+                             RG 132 Funds management: Compliance and oversight
+
+                             RG 134 Funds management: Constitutions
+
+                             RG 138 Foreign passport funds
+
+                             RG 181 Licensing: Managing conflicts of interest
+
+                             RG 259 Risk management systems of fund operators
+
+
+                             Information sheets
+
+                             INFO 30 Fees for commonly lodged documents
+
+                             INFO 272 How to register a corporate collective investment vehicle and
+                             sub-fund
+
+
+                             Consultation papers
+
+                             CP 296 Funds management
+
+                             CP 360 Corporate collective investment vehicles: Preparing for the
+                             commencement of the new regime
+
+
+                             Reports
+
+                             REP 582 Response to submissions on CP 296 Funds management
+
+                             REP 728 Response to submissions on CP 360 Corporate collective
+                             investment vehicles: Preparing for the commencement of the new regime
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 49
+                                        REGULATORY GUIDE 131: Funds management: Establishing and registering a fund
+
+
+
+
+                             Legislative instruments
+
+                             ASIC Corporations (Chapter 5C—Miscellaneous Provisions) Instrument
+                             2017/125
+
+
+                             Legislation
+
+                             Australian Securities and Investments Commission Act 2001
+
+                             Australian Passport Rules, sections 3, 4, 6, 7, 8, 9, 10, 11, 13, 18, 19, 21, 25,
+                             27, 28, 29, 30, 33
+
+                             Corporations Act 2001, Chs 5C, 8B; Pt 7.9, Div 2; Pt 8B.3, Subdiv C; s9,
+                             601EA, 601EB, 601FA, 601GA, 601GB, 601HA, 601HB, 601HC, 601HG,
+                             1013C, 1211, 1211A, 1212, 1212A, 1214, 1222, 1222A, 1222E, 1222J,
+                             1222K, 1222V, 1222S, 1223B, 1223D, 1223F, 1223G, 1223H, 1226, 1226A,
+                             1226B, 1308
+
+                             Corporations Regulations 2001, reg 7.6.02AAA
+
+
+                             ASIC forms
+
+                             Apply for registration as an Australian passport fund (available through the
+                             ASIC Regulatory Portal)
+
+                             Form 5100 Application for registration of a managed investment scheme
+
+                             Form 5103 Directors’ statement relating to application for registration of a
+                             managed investment scheme
+
+                             Form 5201 Application for registration of a corporate collective investment
+                             vehicle
+
+                             Form 5202 Application for registration of a sub-fund of a corporate
+                             collective investment vehicle
+
+
+                             Other documents
+
+                             Memorandum of Cooperation
+
+
+
+
+© Australian Securities and Investments Commission October 2022                                            Page 50
+

@@ -21,14 +21,14 @@ logger = logging.getLogger(__name__)
 
 # (route_prefix, window_seconds, max_requests)
 RATE_LIMITS: list[tuple[str, int, int]] = [
-    ("/mcp/sse",       60, 10),    # 10 req/min — tight for token spray
-    ("/mcp/messages",  60, 30),    # 30 req/min
-    ("/auth/",         60, 20),    # 20 req/min — auth endpoints
-    ("/api/admin/",    60, 30),    # 30 req/min
-    ("/api/user/",     60, 30),    # 30 req/min
-    ("/api/mcp-token", 60, 20),    # 20 req/min
-    ("/api/",          60, 120),   # 120 req/min — general API
-    ("",               60, 300),   # fallback: 300 req/min for everything else
+    ("/mcp/sse",       60, 60),    # 60 req/min
+    ("/mcp/messages",  60, 120),   # 120 req/min
+    ("/auth/",         60, 60),    # 60 req/min
+    ("/api/admin/",    60, 60),    # 60 req/min
+    ("/api/user/",     60, 60),    # 60 req/min
+    ("/api/mcp-token", 60, 60),    # 60 req/min
+    ("/api/",          60, 300),   # 300 req/min — general API
+    ("",               60, 600),   # fallback: 600 req/min
 ]
 
 _STRICT_PREFIXES = {"/mcp/sse", "/mcp/messages", "/auth/"}

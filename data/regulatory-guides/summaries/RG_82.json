@@ -1,0 +1,36 @@
+{
+  "citation": "RG 82",
+  "title": "External administration: Deeds of company arrangement involving a creditors’ trust",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide explains ASIC's interpretation of administrators' obligations under the Corporations Act and general law when considering a proposed deed of company arrangement (DOCA) or variation of a DOCA that involves a creditors' trust. It focuses on the information that is material to creditors and should be disclosed in such proposals.",
+  "background": "The guide is issued under ASIC's administration of the Corporations Act 2001, specifically Part 5.3A on voluntary administration. It is intended for registered liquidators appointed as voluntary administrators or deed administrators, and addresses the special risks to creditors when a DOCA involves a creditors' trust rather than a direct payout.",
+  "ruling": "ASIC states that administrators have a duty to provide creditors with sufficient information to make an informed decision about a DOCA proposal involving a creditors' trust. ASIC interprets the law to require disclosure of all material information, including the reasons for using a trust, the trust structure, costs, and the expected return to creditors compared to liquidation. ASIC expects administrators to carefully consider whether a creditors' trust is appropriate and to advise creditors on the risks, such as lack of direct control, ongoing costs, and delays in distributions. The guide sets out specific categories of information ASIC considers material for disclosure, including financial details, trust deed terms, and the administrator's remuneration.",
+  "date_of_effect": "December 2018",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 435A",
+    "Corporations Act 2001 (Cth) s 439A",
+    "Corporations Act 2001 (Cth) s 445D",
+    "Corporations Act 2001 (Cth) s 450E(2)",
+    "Corporations Act 2001 (Cth) s 556",
+    "Corporations Act 2001 (Cth) s 911A",
+    "Corporations Act 2001 (Cth) Sch 2, Div 40, s20–30",
+    "Insolvency Practice Rules (Corporations) 2016 s75–225"
+  ],
+  "cases_referenced": [
+    "Blacktown City Council v Macarthur Telecommunications P/L (2004) 47 ACSR 391",
+    "Bovis Lend Lease P/L v Wily (2003) 45 ACSR 612",
+    "Commissioner of Taxation v Comcorp Australia Ltd (1996) 70 FCR 356; 21 ACSR 590",
+    "Kalon v Sydney Land Corp P/L (1998) 26 ACSR 593",
+    "Kirwan v Cresvale Far East Ltd (in liq) [2002] NSWCA 395; (2003) 44 ACSR 21",
+    "M&S Butler Investments Pty Ltd v Granny May’s Franchising Pty Ltd (1997) 24 ACSR 695",
+    "Mighty River International Limited v Hughes [2018] HCA 38",
+    "Parkview Constructions Pty Ltd v Tayeh and Others [2009] NSWSC 186",
+    "Re Bevillesta Pty Ltd (in voluntary administration) [2011] NSWSC 417",
+    "Sydney Land Corp P/L v Kalon P/L (1998) 26 ACSR 427",
+    "Young v Sherman (2002) 170 FLR 86"
+  ],
+  "related_rulings": [
+    "RG 33"
+  ]
+}

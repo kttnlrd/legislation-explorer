@@ -125,7 +125,7 @@ def is_page_header_noise(line: str) -> bool:
         return True
     if re.search(r"Section\s+\d+[A-Z]*$", stripped):
         return True
-    if RE_NOISE.match(line):
+    if RE_NOISE.match(line.strip()):
         return True
     return False
 
@@ -139,7 +139,7 @@ def _continues_title(lines: list[str], i: int, structural_patterns: list, max_le
             break
         if any(p.match(next_line) for p in structural_patterns):
             break
-        if RE_NOISE.match(next_line) or is_page_footer(next_line):
+        if RE_NOISE.match(next_line.strip()) or is_page_footer(next_line):
             break
         leading_ws = len(next_line) - len(next_line.lstrip())
         if max_leading_ws is not None and leading_ws >= max_leading_ws:
@@ -156,7 +156,7 @@ def _continues_title(lines: list[str], i: int, structural_patterns: list, max_le
 def classify_body_line(line: str) -> tuple[str, dict]:
     if not line.strip():
         return "blank", {}
-    if RE_NOISE.match(line) or is_page_footer(line):
+    if RE_NOISE.match(line.strip()) or is_page_footer(line):
         return "noise", {}
     if m := RE_SUBSECTION.match(line):
         return "subsection", {"num": m.group(1), "text": m.group(2)}

@@ -1,0 +1,8 @@
+{
+  "error": "JSON parse failed",
+  "raw": "{\n  \"citation\": \"RG 60\",\n  \"title\": \"Schemes of arrangement\",\n  \"type\": \"ASIC Regulatory Guide\",\n  \"status\": \"Final\",\n",
+  "citation": "RG 60",
+  "title": "Schemes Of Arrangement",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final"
+}

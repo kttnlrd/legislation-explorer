@@ -1,0 +1,8 @@
+{
+  "error": "JSON parse failed",
+  "raw": "{\n  \"citation\": \"RG 72\",\n  \"title\": \"Foreign securities: Disclosure relief\",\n  \"type\": \"ASIC Regulatory Guide\",\n  \"status\": \"Final\",\n  \"subject\": \"This guide addresses relief from the disclosure provisions in Chapters 6D and 7 of the Corporations Act 2001 (Cth) for offers of foreign securities and i",
+  "citation": "RG 72",
+  "title": "Foreign Securities Disclosure Relief",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final"
+}

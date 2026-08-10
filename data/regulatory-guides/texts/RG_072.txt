@@ -1,0 +1,1044 @@
+REGULATORY GUIDE 72
+
+
+Foreign securities:
+Disclosure relief
+
+October 2025
+
+
+
+
+About this guide
+This guide is for foreign entities and their advisers involved in the offer of
+foreign securities to Australian investors.
+
+This guide outlines the relief we have granted from Chs 6D and 7 of the
+Corporations Act 2001 (Corporations Act) for offers of foreign securities and
+interests.
+                                                            REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+                             Document history
+                             This guide was issued in October 2025 and is based on legislation and
+                             regulations as at the date of issue.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 72, issued 2 September 2015, updated
+                                     3 December 2021
+                                    Superseded Regulatory Guide 72, issued 3 July 2007, reissued 18 June
+                                     2009
+                                    Superseded Policy Statement 72A, issued 15 January 1997, updated
+                                     4 August 1997
+                                    Superseded Policy Statement 72, issued 6 December 1993, updated
+                                     23 January 1995 and 12 February 1996
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                                Page 2
+                                                                    REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+Contents
+
+                             A      Overview ........................................................................................... 4
+                                    Relief from the disclosure provisions ................................................. 4
+                                    Other relief and guidance on foreign offers ....................................... 5
+                             B      Rights issues of foreign securities ................................................ 6
+                                    Relief for the same class of securities ............................................... 6
+                                    Case-by-case relief for a different class of securities ........................ 7
+                                    Rationale for granting relief for rights issues ..................................... 7
+                             C      Foreign scrip bids and schemes of arrangement ........................ 8
+                                    Disclosure relief for foreign scrip bids................................................ 8
+                                    Disclosure relief for schemes of arrangement ................................. 10
+                                    Incidental relief for advisers and investors ...................................... 11
+                                    Licensing relief ................................................................................. 11
+                             D      Foreign entities making small-scale personal offers ................. 12
+                                    Relief for small-scale personal offers .............................................. 12
+                                    Case-by-case relief for securities about to be quoted ..................... 13
+                             E      Advertising and publicity of offers .............................................. 14
+                                    Relief for authors and publishers ..................................................... 14
+                                    Relief for entities listed on an approved foreign market .................. 15
+                             F      Other relief and guidance ............................................................. 16
+                                    Employee share schemes ............................................................... 16
+                                    Case-by-case procedural relief ........................................................ 16
+                                    Other relevant regulatory guides ..................................................... 17
+                             G      Approved foreign markets ............................................................ 18
+                                    Current approved foreign markets ................................................... 18
+                                    Criteria for approving other foreign markets .................................... 18
+                             Key terms ............................................................................................... 20
+                             Related information ............................................................................... 22
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                                                       Page 3
+                                                            REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               In general, foreign entities that offer securities in Australia need to comply
+                               with Chs 6D or 7 of the Corporations Act 2001 (Corporations Act): see
+                               RG 72.1.
+
+                               We have granted relief from these provisions in certain circumstances—in
+                               particular, where the cost of compliance would be disproportionate to the
+                               regulatory benefit: see RG 72.3–RG 72.4.
+
+
+
+
+Relief from the disclosure provisions
+              RG 72.1        The Corporations Act generally requires a prospectus or Product Disclosure
+                             Statement (PDS) for an offer of securities received in Australia (unless an
+                             exemption applies). This requirement applies regardless of the place of
+                             incorporation of the offeror.
+
+              RG 72.2        We consider that relief from the requirement to prepare an Australian
+                             prospectus or PDS may be appropriate where:
+                             (a)   a foreign offeror has complied with a disclosure regime offering similar
+                                   levels of investor protection to the Australian disclosure requirements; or
+                             (b)   very few offers are made to Australian investors.
+
+              RG 72.3        We have granted conditional relief for:
+                             (a)   rights issues by foreign companies where the securities are in the same
+                                   class as those already held by Australian investors (see Section B);
+                             (b)   foreign scrip bids and schemes of arrangement (see Section C); and
+                             (c)   foreign entities making 20 or fewer offers in Australia in any 12-month
+                                   period (see Section D).
+
+              RG 72.4        Much of the relief referred to in this guide applies where the relevant foreign
+                             securities are quoted on an ‘approved foreign market’. This definition is
+                             notionally inserted in the Corporations Act by ASIC Corporations
+                             (Definition of Approved Foreign Market) Instrument 2017/669. Section G
+                             sets out the criteria for approving a market as an approved foreign market.
+
+
+                             Rationale for relief
+
+              RG 72.5        Disclosure relief for offers of foreign securities enables Australian investors
+                             to participate in offers that might not otherwise be extended to them because
+                             of the time and expense involved in complying with the regulatory
+                             requirements of multiple jurisdictions.
+
+
+© Australian Securities and Investments Commission October 2025                                                Page 4
+                                                            REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+              RG 72.6        We have granted relief for rights issues by foreign companies and scrip
+                             offers under foreign bids and schemes of arrangement because, after a
+                             person acquires an interest in a foreign entity, they accept that foreign law
+                             largely governs their relationship with the entity. Given the potential
+                             disadvantage to Australian investors if they are excluded from such
+                             transactions, we think it is appropriate to grant relief provided that suitable
+                             investor protection measures are in place.
+
+
+
+Other relief and guidance on foreign offers
+              RG 72.7        We have also granted relief from the advertising restrictions for
+                             advertisements and other notices that are aimed at foreign markets and only
+                             incidentally published in Australia: see Section E.
+
+              RG 72.8        Section F sets out other regulatory guidance and relief we have granted that
+                             may be relevant for offers of foreign securities. This includes relief for
+                             foreign collective investment schemes and employee share schemes.
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                                Page 5
+                                                               REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+B          Rights issues of foreign securities
+
+                               Key points
+
+                               We have granted conditional relief from the prospectus provisions for a
+                               foreign company to issue securities in the same class as those already held
+                               by Australian investors: see RG 72.9–RG 72.11.
+
+                               We have also granted relief so that investors may on-sell these securities
+                               without restriction: see RG 72.12.
+
+                               We may grant case-by-case relief for foreign companies to issue securities
+                               in a different class: see RG 72.13.
+
+
+
+Relief for the same class of securities
+              RG 72.9        ASIC Corporations (Foreign Rights Issues) Instrument 2025/611 grants
+                             relief from Pts 6D.2 and 6D.3 of the Corporations Act to foreign companies
+                             conducting renounceable or non-renounceable rights issues of securities of the
+                             same class as those held by their Australian shareholders. The instrument also
+                             exempts shortfall offers. These are offers of the securities that were not taken
+                             up under the rights issue and which are offered to holders within two months.
+
+              RG 72.10       Relief under this instrument is subject to the following conditions:
+                             (a)   the company must reasonably believe that the offer is made in accordance
+                                   with regulatory requirements in the primary foreign jurisdiction;
+                                   Note: ‘Primary foreign jurisdiction’ means the place of the approved foreign market on
+                                   which the securities in the offer class are quoted or, if the securities in the offer class are
+                                   quoted on more than one approved foreign market, the place of the approved foreign
+                                   market where it is reasonably expected the largest number of offers will be received.
+
+                             (b)   the rights issue must be a pro rata offer, although fractional entitlements
+                                   may either be rounded up or down;
+                             (c)   the terms and conditions of the offers made to Australian offerees must
+                                   be no less favourable than those made to other offerees in the same class;
+                             (d)   the securities must have been quoted on an approved foreign market at
+                                   all times in the three months before the offer, and must not have been
+                                   suspended from trading on that market for more than five trading days;
+                                   Note: See ASIC Instrument 2017/669 for the definition of ‘approved foreign market’.
+
+                             (e)   the number of securities offered to Australian residents must be no more
+                                   than 10% of the number of securities offered to all offerees; and
+                             (f)   Australian offerees must be given disclosure for the offer at or before
+                                   the time the offer is made. The disclosure must be in English (if
+                                   available) or it must be a version of the document that is given or made
+                                   available to offerees in the primary foreign jurisdiction.
+
+
+
+© Australian Securities and Investments Commission October 2025                                                           Page 6
+                                                             REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+              RG 72.11       Whether securities are held by Australian residents for the purposes of the
+                             10% limit will be determined by reference to:
+                             (a)   the address of the beneficial owner (as included in publicly available
+                                   reports that have been given to a relevant regulator or market operator
+                                   of the approved foreign market) or as otherwise known to the foreign
+                                   company; or
+                             (b)   the address of the registered holder as recorded in the foreign
+                                   company’s register of members (if the address of the beneficial owner is
+                                   not included in publicly available reports or otherwise known to the
+                                   foreign company).
+
+                                   Note: See the definition of ‘Australian resident’ in ASIC Instrument 2025/611.
+
+
+                             On-sale relief
+
+              RG 72.12       Section 707 of the Corporations Act restricts the on-sale of securities issued
+                             without disclosure within 12 months of their issue. ASIC Instrument
+                             2025/611 grants relief from this restriction so that securities issued under the
+                             rights issue can be freely on-sold.
+
+
+
+Case-by-case relief for a different class of securities
+              RG 72.13       We may grant case-by-case relief for a foreign company to issue securities in
+                             a different class to those already held by Australian investors on similar
+                             conditions to those in ASIC Instrument 2025/611. Applications should
+                             address the criteria set out in Regulatory Guide 51 Applications for relief
+                             (RG 51).
+
+
+
+Rationale for granting relief for rights issues
+              RG 72.14       The requirement for an Australian prospectus may discourage a foreign
+                             company with a small percentage of Australian shareholders from extending
+                             a rights issue to those shareholders. This may result in a dilution of those
+                             shareholders’ interests.
+
+              RG 72.15       When a person acquires shares in a foreign company, they should accept that
+                             foreign law will largely govern the relationship with the company. Provided
+                             suitable safeguards are in place, we consider it is appropriate to grant relief
+                             from the Australian prospectus provisions to reflect this.
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                                     Page 7
+                                                              REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+C          Foreign scrip bids and schemes of
+           arrangement
+
+                               Key points
+
+                               We have granted conditional prospectus and PDS relief for scrip offered as
+                               consideration under a foreign takeover bid where Australian residents hold
+                               no more than 10% of the bid class securities: see RG 72.16–RG 72.21.
+
+                               We have also granted relief from:
+                               • the PDS requirement for the offer and issue of financial products under
+                                 a Pt 5.1 scheme (see RG 72.22); and
+                               • the prospectus and PDS requirement where securities are offered under
+                                 a scheme of arrangement regulated in Hong Kong, Malaysia, New
+                                 Zealand, Singapore, South Africa or the United Kingdom (see
+                                 RG 72.23–RG 72.24).
+
+                               We have also granted licensing relief for general advice contained in
+                               documents required under a foreign regulated control transaction: see
+                               RG 72.28–RG 72.30.
+
+
+
+
+Disclosure relief for foreign scrip bids
+              RG 72.16       A foreign scrip bid is a bid regulated in a foreign jurisdiction where scrip
+                             forms all or part of the consideration being offered for securities in the bid
+                             class. Without relief, an offer of scrip to Australian holders under a foreign
+                             scrip bid may require a prospectus or a PDS.
+
+              RG 72.17       ASIC Corporations (Foreign Scrip Bids) Instrument 2025/612 grants relief
+                             from the prospectus and PDS provisions in Pts 6D.2 and 6D.3 and s1012A,
+                             1012B and 1012C of the Corporations Act for offers of securities, interests in
+                             a managed investment scheme or shares in a CCIV under a foreign scrip bid
+                             where:
+                             (a)   Australian residents hold no more than 10% of the bid class securities
+                                   or interests (determined at a time, fixed by the bidder, in the 30-day
+                                   period before offers are first made under the takeover);
+                             (b)   the bid class securities or interests are quoted on an approved foreign
+                                   market and the takeover is regulated by the law or other rules that apply
+                                   in that jurisdiction;
+
+                                   Note 1:See ASIC Instrument 2017/669 for the definition of ‘approved foreign market’.
+
+                                   Note 2: The scrip offered as consideration for the acquisition of bid class securities or
+                                   interests does not have to be in a class that is quoted on an approved foreign market.
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                                        Page 8
+                                                             REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+                             (c)   if foreign regulatory requirements require disclosure, Australian offerees
+                                   are given an English version of the disclosure (if available) or a version
+                                   of the document given to offerees in the eligible foreign country;
+
+                                   Note: ‘Eligible foreign country’ means the jurisdiction where the relevant approved
+                                   foreign market is located.
+
+                             (d)   the offer made to Australian offerees is on terms that are at least as
+                                   favourable as offers that are made to foreign offerees; and
+                             (e)   the person relying on the relief reasonably believes the bid complies
+                                   with the relevant foreign regulatory requirements.
+
+                                   Note: Where an Australian financial services (AFS) licensee who is not an associate of
+                                   the bidder wishes to rely on relief from s1012A, the licensee must have no reason to
+                                   suspect that the foreign scrip bid is not made in accordance with the relevant foreign
+                                   regulatory requirements.
+
+              RG 72.18       Whether securities or interests are held by Australian residents for the
+                             purposes of the 10% limit will be determined by reference to:
+                             (a)   the address of the beneficial owner (as included in publicly available
+                                   reports that have been given to a relevant regulator or market operator
+                                   of the approved foreign market) or as otherwise known to the bidder; or
+                             (b)   the address of the registered holder as recorded in the register of
+                                   members (if the address of the beneficial owner is not included in
+                                   publicly available reports or otherwise known to the bidder).
+
+                                   Note: See the definition of ‘Australian resident’ in ASIC Instrument 2025/612.
+
+
+                             On-sale relief
+
+              RG 72.19       Sections 707 and 1012C of the Corporations Act restrict the on-sale of
+                             securities and interests issued without disclosure within 12 months of their
+                             issue. ASIC Instrument 2025/612 grants relief to investors from this
+                             restriction so that securities and interests issued under a foreign scrip bid can
+                             be freely on-sold.
+
+
+                             Rationale for granting disclosure relief
+
+              RG 72.20       The requirement to prepare an Australian prospectus or PDS may deter a
+                             bidder from offering securities or interests to Australian members of a target
+                             as an alternative to cash consideration. This means that Australian members
+                             may be deprived of the ability to receive their consideration in the form of
+                             securities or interests.
+
+              RG 72.21       For reasons of international comity, Australian regulatory requirements
+                             should not impose excessive costs or obstacles on foreign business
+                             transactions unless there is a clear need for Australian investor protection.
+
+
+
+© Australian Securities and Investments Commission October 2025                                                     Page 9
+                                                            REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+                             The requirement to prepare a prospectus or PDS imposes substantial costs on
+                             what is primarily a foreign business transaction. These costs are not justified
+                             when the transaction is subject to comparable regulation in another
+                             jurisdiction, and only a small proportion of the target securities or interests
+                             are held by Australian investors. The Australian investors have accepted the
+                             jurisdiction of foreign law by investing on a foreign market.
+
+
+
+Disclosure relief for schemes of arrangement
+
+                             PDS relief for Pt 5.1 schemes of arrangement
+
+              RG 72.22       ASIC Corporations (Compromises or Arrangements) Instrument 2025/613
+                             grants relief from provisions in Pt 7.9 of the Corporations Act that would
+                             require a PDS where financial products are offered or issued under a
+                             compromise or scheme of arrangement under Pt 5.1 (Pt 5.1 scheme). This
+                             relief is analogous to the prospectus exemption in s708(17) for Pt 5.1
+                             schemes and is granted on the basis that investors do not need a PDS in
+                             addition to the disclosure provided under Pt 5.1.
+
+
+                             Disclosure relief for foreign schemes of arrangement
+
+              RG 72.23       ASIC Instrument 2025/613 grants relief from the requirement to prepare a
+                             prospectus or PDS for offers of securities or financial products made under a
+                             foreign scheme of arrangement that is regulated in a similar manner to
+                             Pt 5.1. For more information about this relief, see Regulatory Guide 188
+                             Disclosure in reconstructions (RG 188).
+
+              RG 72.24       The jurisdictions covered by the relief are Hong Kong, Malaysia, New
+                             Zealand, Singapore, South Africa and the United Kingdom. RG 188 also
+                             discusses circumstances where we may grant case-by-case relief for a
+                             scheme of arrangement in other foreign jurisdictions.
+
+
+                             On-sale relief
+
+              RG 72.25       We have also granted relief from the on-sale restrictions in s707
+                             and 1012C so that securities or financial products issued in reliance on
+                             ASIC Instrument 2025/613 can be freely on-sold.
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                               Page 10
+                                                            REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+Incidental relief for advisers and investors
+              RG 72.26       Advisers who make a personal recommendation for an investor to acquire
+                             scrip issued in reliance on ASIC Instrument 2025/612 or ASIC Instrument
+                             2025/613 can rely on relief in those instruments from the requirement to give
+                             a PDS in s1012A.
+
+              RG 72.27       Investors who are issued securities without disclosure in reliance on the
+                             instruments in RG 72.26 can rely on the relief in those instruments from the
+                             on-sale restrictions in s707(3) and 1012C(6) of the Corporations Act.
+
+
+
+Licensing relief
+              RG 72.28       ASIC Corporations (Financial Product Advice—Exempt Documents)
+                             Instrument 2016/356 grants relief from the requirement to obtain an AFS
+                             licence for general advice contained in a document that is required under a
+                             foreign regulated control transaction. This relief applies generally to control
+                             transactions that are regulated in the jurisdiction of an approved foreign
+                             market and is not limited to control transactions that satisfy the requirements
+                             for disclosure relief referred to in RG 72.17.
+
+              RG 72.29       ASIC Instrument 2016/356 also grants licensing relief for general advice that
+                             is contained in an explanatory statement for a scheme of arrangement that is
+                             regulated in Hong Kong, Malaysia, New Zealand, Singapore, South Africa
+                             or the United Kingdom. For more information about this relief, see RG 188.
+
+
+                             Rationale for granting licensing relief
+
+              RG 72.30       If a person provides a document to Australian residents in connection with
+                             a foreign regulated control transaction, this may be providing general advice.
+                             Without relief, the person providing the document may need to obtain an
+                             AFS licence for the provision of any general advice contained in the
+                             document.
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                               Page 11
+                                                              REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+D          Foreign entities making small-scale personal
+           offers
+
+                               Key points
+
+                               We have granted relief from the prospectus and PDS provisions for offers
+                               of securities or interests in a managed investment scheme that are in a
+                               class that is quoted on an approved foreign market where:
+                               • the offer is a personal offer;
+                               • the number of persons in Australia to whom securities or interests are
+                                 issued is not more than 20 in any 12-month period; and
+                               • Australian offerees are given any disclosure required in the primary
+                                 foreign jurisdiction (with an English translation if the disclosure is in a
+                                 foreign language) (see RG 72.31–RG 72.35).
+
+                               We will also consider granting case-by-case relief to allow a foreign entity
+                               whose securities or interests are about to be quoted to make 20 or fewer
+                               offers in Australia in any 12-month period subject to additional conditions:
+                               see RG 72.36.
+
+
+
+
+Relief for small-scale personal offers
+              RG 72.31       ASIC Corporations (Foreign Small Scale Offers) Instrument 2025/614 grants
+                             prospectus and PDS relief to foreign companies that make personal offers of
+                             securities or interests in a managed investment scheme in Australia if the
+                             foreign company reasonably believes the offer is made in accordance with
+                             foreign regulatory requirements.
+
+              RG 72.32       An offer is a personal offer if it is not transferable and is made to a person
+                             who is likely to be interested in the offer because of:
+                             (a)   previous contact with the entity;
+                             (b)   some professional or other connection with the company; or
+                             (c)   the person’s statements or actions (which indicate that they are
+                                   interested in offers of that kind).
+
+              RG 72.33       This relief applies where:
+                             (a)   the number of persons in Australia to whom securities or interests have
+                                   been issued in reliance on the relief is no more than 20 in any 12-month
+                                   period;
+                                   Note: Our relief for foreign small-scale personal offers operates in addition to the
+                                   exemption in s708(1) and 1012E of the Corporations Act. Offers made in reliance on
+                                   the legislative exemption do not count towards the 20-investor limit in our relief and
+                                   vice versa.
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                                     Page 12
+                                                            REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+                             (b)   the securities or interests are in a class that is quoted on an approved
+                                   foreign market and trading in the class is not suspended;
+                                   Note: See ASIC Instrument 2017/669 for the definition of ‘approved foreign market’.
+
+                             (c)   at or before the time the offer is made, Australian offerees are given any
+                                   document relating to the offer that would have been required to be
+                                   given to them under the laws of the primary foreign jurisdiction if they
+                                   received the offer in that jurisdiction;
+                             (d)   if the disclosure given to Australian offerees is not in English, a
+                                   certified English translation is provided; and
+                             (e)   the disclosure given to Australian offerees includes or is accompanied
+                                   by a statement explaining that:
+                                   (i)     the documents were prepared for the purposes of compliance with
+                                           foreign regulatory requirements;
+                                   (ii)    the documents may not contain all the information required for
+                                           Australian disclosure documents; and
+                                   (iii)   the entity is not subject to the continuous disclosure requirements
+                                           of the Corporations Act.
+
+              RG 72.34       Our relief for small-scale personal offers requires any offer document to be
+                             translated into English if the original disclosure is in a foreign language. This
+                             is because a person who receives an offer under our relief may not have a
+                             pre-existing investment with the entity, and it cannot be presumed they are
+                             confident in making an investment decision when the disclosure is in a
+                             foreign language.
+
+              RG 72.35       We do not intend this relief to be a precedent for giving general relief from
+                             the prospectus or PDS provisions of the Corporations Act when a foreign
+                             entity wants to raise funds in Australia.
+
+
+
+Case-by-case relief for securities about to be quoted
+              RG 72.36       We will also consider granting case-by-case relief to allow a foreign entity
+                             whose securities or interests are about to be quoted to make 20 or fewer
+                             offers in Australia in any 12-month period. We would grant this relief on the
+                             same terms as we do for entities whose securities or interests are already
+                             quoted, with the following two additional conditions:
+                             (a)   the entity must prepare a disclosure document that fully complies with
+                                   the relevant local law in the primary foreign jurisdiction; and
+                             (b)   if the securities or interests are not quoted within 14 days of the date
+                                   stated in the foreign offer document, any allotment or issue to
+                                   Australian offerees is void. The foreign entity must repay any money
+                                   received by it under the disclosure document as soon as practicable.
+
+
+
+© Australian Securities and Investments Commission October 2025                                                 Page 13
+                                                             REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+E          Advertising and publicity of offers
+
+                               Key points
+
+                               We have granted relief from s734 and 1018A of the Corporations Act for
+                               advertisements relating to foreign securities that are only incidentally
+                               published in Australia: see RG 72.37–RG 72.40.
+
+                               We have also granted relief from s734 and 1018A for:
+                               • a notice or report relating to an offer of foreign securities that are given
+                                 to the market operator of an approved foreign market; or
+                               • a notice or report of a general meeting of an entity listed on an approved
+                                 foreign market: see RG 72.41–RG 72.42.
+
+
+              RG 72.37       Sections 734(2) and 1018A of the Corporations Act set out restrictions on
+                             the advertising and publicity of offers of securities in Australia. ASIC
+                             Corporations (Foreign Securities—Incidental Advertising) Instrument
+                             2025/615 and ASIC Corporations (Foreign Securities—Publishing Notices)
+                             Instrument 2025/616 give relief from these restrictions for advertisements
+                             and other notices relating to foreign securities that are only incidentally
+                             circulated or published in Australia.
+                                   Note: The advertisement must still comply with the law in the foreign jurisdiction and
+                                   the other provisions of the Corporations Act (e.g. the s1041H prohibition on misleading
+                                   and deceptive conduct).
+
+              RG 72.38       The relief granted by these instruments is narrow and does not extend to offers
+                             of securities, which must still comply with the Corporations Act. For example,
+                             a foreign entity may not be able to offer or issue securities to a person in
+                             Australia who responds to an advertisement covered by ASIC Instrument
+                             2025/615 without first giving that person a disclosure document lodged with
+                             ASIC (unless the offer is covered by a disclosure exemption).
+
+
+Relief for authors and publishers
+              RG 72.39       ASIC Instrument 2025/615 grants relief from s734(2) and 1018A to authors
+                             and publishers who publish an advertisement or statement relating to foreign
+                             securities that is incidentally published in Australia.
+              RG 72.40       The relief covers advertisements and statements published in:
+                             (a)   newspapers and magazines;
+                             (b)   radio and television broadcasts; and
+                             (c)   electronic services (including the internet) that are operated on a
+                                   commercial basis and are similar to newspapers, magazines or radio or
+                                   television broadcasts.
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                                   Page 14
+                                                            REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+Relief for entities listed on an approved foreign market
+              RG 72.41       Section 734(7) of the Corporations Act grants a general exemption from the
+                             advertising restrictions in s734(2) for certain notices given by a listed body,
+                             including notices given to the market operator.
+
+              RG 72.42       ASIC Instrument 2025/616 grants similar relief for notices given by bodies
+                             listed on an approved foreign market. An advertisement or publication will
+                             not contravene s734(2) if it:
+                             (a)   relates to an offer of securities of a body that is listed on an approved
+                                   foreign market and consists of a notice or report by the foreign entity, or
+                                   one of its officers, about its affairs to the market operator; or
+                             (b)   consists solely of a notice or report of a general meeting of a body that
+                                   is listed on an approved foreign market.
+                                   Note: See ASIC Instrument 2017/669 for the definition of ‘approved foreign market’.
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                                 Page 15
+                                                            REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+F          Other relief and guidance
+
+                               Key points
+
+                               Foreign entities may rely on the relief in Div 1A of Pt 7.12 of the
+                               Corporations Act for employee share schemes.
+
+                               We will consider procedural relief for offers of foreign securities on a case-
+                               by-case basis: see RG 72.44–RG 72.45.
+
+                               Some of our other regulatory guides provide guidance on disclosure relief
+                               for foreign entities offering securities in Australia: see RG 72.47–
+                               RG 72.52.
+
+
+
+
+Employee share schemes
+              RG 72.43       Foreign companies that offer interests under an employee share scheme to
+                             Australian employees may rely on the relief in Div 1A of Pt 7.12 of
+                             the Corporations Act.
+
+
+
+Case-by-case procedural relief
+              RG 72.44       We will consider applications for procedural relief from the prospectus
+                             and PDS provisions. We will not grant relief from the general disclosure
+                             requirement in s710 or the requirement for disclosure of particular fees and
+                             benefits in s711(3) of the Corporations Act.
+
+              RG 72.45       We may grant procedural relief from the prospectus and PDS provisions if
+                             we are satisfied that:
+                             (a)   the foreign entity issuing the disclosure has complied with a
+                                   requirement in the jurisdiction of an approved foreign market that is
+                                   comparable to the provision in the Corporations Act from which it is
+                                   seeking relief;
+                             (b)   practical difficulties will arise if the relief is not granted;
+                             (c)   investor protection will not be reduced if the relief is granted; and
+                             (d)   the securities in the offer or invitation are in a class of securities
+                                   quoted, or reasonably expected soon to be quoted, on an approved
+                                   foreign market.
+
+              RG 72.46       ASIC’s general policy on granting individual relief is set out in RG 51.
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                               Page 16
+                                                            REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+Other relevant regulatory guides
+              RG 72.47       The following regulatory guides may also be relevant to disclosure by
+                             foreign entities offering securities in Australia.
+
+
+                             Foreign collective investment schemes
+
+              RG 72.48       Regulatory Guide 178 Foreign collective investment schemes (RG 178)
+                             describes the relief we grant for foreign collective investment schemes.
+                             This includes relief for rights issues made by foreign collective investment
+                             schemes.
+
+
+                             Electronic prospectuses
+
+              RG 72.49       Foreign companies seeking to use an electronic prospectus in Australia
+                             should consult Regulatory Guide 107 Fundraising: Facilitating electronic
+                             offers of securities (RG 107).
+
+
+                             Foreign schemes of arrangement
+
+              RG 72.50       As mentioned in Section C, RG 188 describes the prospectus and PDS relief
+                             we have granted for schemes of arrangement in certain foreign jurisdictions.
+
+
+                             Mutual recognition of trans-Tasman securities offerings
+
+              RG 72.51       The trans-Tasman mutual recognition scheme allows Australian and New
+                             Zealand entities to offer financial products or interests in collective or
+                             managed investment schemes in both countries using one disclosure
+                             document prepared under regulation in their home country.
+
+              RG 72.52       Entities that wish to operate under the scheme are able to comply with
+                             minimal entry and ongoing requirements agreed to between the two
+                             countries and prescribed in each country’s law: see Regulatory Guide 190
+                             Offering financial products in New Zealand and Australia under mutual
+                             recognition (RG 190).
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                               Page 17
+                                                            REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+G          Approved foreign markets
+
+                               Key points
+
+                               Much of the relief referred to in this guide applies where the relevant
+                               foreign securities are quoted on an ‘approved foreign market’.
+
+                               ASIC Instrument 2017/669 defines the approved foreign markets for the
+                               purposes of the relief and RG 72.59 identifies our criteria for approving a
+                               market as an approved foreign market.
+
+
+
+
+Current approved foreign markets
+              RG 72.53       The concept of ‘approved foreign market’ is used in a number of ASIC
+                             legislative instruments (each, an ‘applicable ASIC legislative instrument’),
+                             including but not limited to:
+                             (a)   ASIC Instrument 2025/611;
+                             (b)   ASIC Instrument 2025/612;
+                             (c)   ASIC Instrument 2025/614; and
+                             (d)   ASIC Instrument 2025/616.
+
+              RG 72.54       ASIC Instrument 2017/669 contains the definition of ‘approved foreign
+                             market’. It inserts this definition in s 9 of the Corporations Act for persons
+                             purporting to rely on an applicable ASIC legislative instrument.
+
+              RG 72.55       We encourage issuers to consider ASIC Instrument 2017/669, as it is
+                             updated from time to time.
+
+              RG 72.56       We have approved these foreign markets because we believe they are
+                             comparable to the ASX market in terms of being fair, efficient, well-
+                             informed and internationally competitive.
+
+
+
+Criteria for approving other foreign markets
+              RG 72.57       We will accept applications for additional foreign markets to be included in
+                             the list of approved foreign markets. Applications should address the criteria
+                             in RG 72.59. An application should be accompanied by an English
+                             translation of the rules of the foreign market and, if applicable, the market’s
+                             policy manual.
+
+              RG 72.58       A person other than the foreign market may make the application. An
+                             application may come from a market participant or a foreign entity with
+                             securities listed on the market. In this case, the application must include a
+                             letter from the foreign market verifying the information given.
+
+
+
+© Australian Securities and Investments Commission October 2025                                               Page 18
+                                                            REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+              RG 72.59       When considering the approval of other foreign markets and adding them to
+                             ASIC Instrument 2017/669, we will take into account whether the market:
+                             (a)   is a member of the World Federation of Exchanges;
+                             (b)   is internationally recognised (i.e. it has concessional treatment and
+                                   recognition from other jurisdictions). In particular, we will consider
+                                   whether the body applying for approval is a designated off-shore
+                                   securities market under Regulation S of the Securities Act 1933 (US);
+                             (c)   has rules that meet ASX’s listing and quotation, market information,
+                                   regulatory, and trading and settlement principles;
+                             (d)   is a key world trading centre—determined by:
+                                   (i)    the market’s size relative to other exchanges in its geographic
+                                          region; and
+                                   (ii)   the links the market maintains with other foreign exchanges or with
+                                          specific Australian industries; and
+                             (e)   is overseen by a government regulatory authority.
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                               Page 19
+                                                            REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+Key terms
+
+
+                               Term                      Meaning in this document
+
+                               AFS licence               An Australian financial services licence under s913B that
+                                                         authorises a person who carries on a financial services
+                                                         business to provide financial services
+                                                           Note: This is a definition contained in s9.
+
+                               AFS licensee              A person who holds an AFS licence under s913B of the
+                                                         Corporations Act
+                                                           Note: This is a definition contained in s9.
+
+                               approved foreign          A term defined in ASIC Corporations (Definition of
+                               market                    Approved Foreign Market) Instrument 2017/669: see
+                                                         RG 72.53–RG 72.55
+
+                               ASIC                      Australian Securities and Investments Commission
+
+                               ASIC Instrument           An ASIC instrument (in this example numbered
+                               2017/669 (for             2017/669)
+                               example)
+
+                               ASX                       ASX Limited ACN 008 624 691 or the exchange market
+                                                         operated by ASX Limited
+
+                               bid class                 The class or classes of securities the subject of a foreign
+                                                         scrip bid
+
+                               Ch 6D (for example)       A chapter of the Corporations Act (in this example
+                                                         numbered 6D), unless otherwise specified
+
+                               Corporations Act          Corporations Act 2001, including regulations made for the
+                                                         purposes of that Act
+
+                               foreign scrip bid         A bid regulated in a foreign jurisdiction where scrip forms
+                                                         all or part of the consideration being offered in the bid
+                                                         class
+
+                               primary foreign           The place of the approved foreign market on which the
+                               jurisdiction              securities in the offer class are quoted or, if the securities
+                                                         in the offer class are quoted on more than one approved
+                                                         foreign market, the place of the approved foreign market
+                                                         where it is reasonably expected the largest number of
+                                                         offers will be received
+
+                               Product Disclosure        A document that must be given to a retail client in relation
+                               Statement (PDS)           to the offer or issue of a financial product in accordance
+                                                         with Div 2 of Pt 7.9 of the Corporations Act
+                                                           Note: See s9 for the exact definition.
+
+                               Pt 5.1 (for example)      A part of the Corporations Act (in this example numbered
+                                                         5.1), unless otherwise specified
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                                  Page 20
+                                                            REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+                               Term                      Meaning in this document
+
+                               RG 178 (for example)      An ASIC regulatory guide (in this example numbered
+                                                         178)
+
+                               rights issue              An offering of securities by a company to all its
+                                                         shareholders in proportion to their existing holdings
+
+                               s708 (for example)        A section of the Corporations Act (in this example
+                                                         numbered 708), unless otherwise specified
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                                  Page 21
+                                                            REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             approved foreign markets, disclosure, foreign companies, foreign schemes of
+                             arrangements, foreign scrip bids, fundraising, PDS, Product Disclosure
+                             Statement, prospectus, rights issue, small-scale personal offer
+
+
+                             ASIC instruments
+
+                             ASIC Corporations (Compromises or Arrangements) Instrument 2025/613
+
+                             ASIC Corporations (Definition of Approved Foreign Market) Instrument
+                             2017/669
+
+                             ASIC Instrument (Financial Product Advice—Exempt Documents) 2016/356
+
+                             ASIC Corporations (Foreign Rights Issues) Instrument 2025/611
+
+                             ASIC Corporations (Foreign Scrip Bids) Instrument 2025/612
+
+                             ASIC Corporations (Foreign Securities—Incidental Advertising) Instrument
+                             2025/615
+
+                             ASIC Corporations (Foreign Securities—Publishing Notices) Instrument
+                             2025/616
+
+                             ASIC Corporations (Foreign Small Scale Offers) Instrument 2025/614
+
+
+                             Regulatory guides
+
+                             RG 51 Applications for relief
+
+                             RG 107 Fundraising: Facilitating electronic offers of securities
+
+                             RG 178 Foreign collective investment schemes
+
+                             RG 188 Disclosure in reconstructions
+
+                             RG 190 Offering financial products in New Zealand and Australia under
+                             mutual recognition
+
+
+                             Legislation
+
+                             Corporations Act, Chs 6D and 7; Pts 5.1, 6D.2, 6D.3, 7.9 and 7.12 Div 1A;
+                             s9, 111AC, 707, 707(3), 708(1), 708(17), 710, 711(3), 734, 734(2), 734(7),
+                             1012A, 1012B, 1012C, 1012C(6), 1012E, 1018A and 1041H
+
+                             Securities Act 1933 (US), Regulation S
+
+
+
+© Australian Securities and Investments Commission October 2025                                               Page 22
+                                                            REGULATORY GUIDE 72: Foreign securities: Disclosure relief
+
+
+
+
+                             Consultation papers
+
+                             CP 67 Disclosure in reconstructions
+
+                             CP 79 Disclosure relief for foreign scrip takeovers
+
+                             CP 225 Remaking ASIC class orders on offers of foreign securities
+
+                             CS 25 Proposed remake of disclosure relief for offers of foreign securities
+                             and interests to Australian investors.
+
+
+
+
+© Australian Securities and Investments Commission October 2025                                               Page 23
+

@@ -166,7 +166,7 @@ class AuthMiddleware(BaseHTTPMiddleware):
         path = request.url.path
 
         # Always allow public paths
-        if path in PUBLIC_PATHS or path.startswith("/assets/"):
+        if path in PUBLIC_PATHS or path.startswith("/assets/") or path.startswith("/mcp/"):
             request.state.user = None
             return await call_next(request)
 
@@ -196,10 +196,11 @@ class AuthMiddleware(BaseHTTPMiddleware):
         for prefix in GATED_PREFIXES:
             if path.startswith(prefix):
                 # MCP endpoint has its own auth — let it through
-                if path == "/api/cadena/mcp" or path.startswith("/api/cadena/mcp/")\
-                   or path == "/api/private/mcp" or path.startswith("/api/private/mcp/")\
-                   or path == "/api/v2/query" or path.startswith("/api/v2/query/")\
-                   or path == "/api/rpc" or path.startswith("/api/rpc/"):
+                if path.startswith("/api/cadena/mcp") \
+                   or path.startswith("/api/private/mcp") \
+                   or path.startswith("/api/v2/query") \
+                   or path.startswith("/api/rpc") \
+                   or path.startswith("/mcp/"):
                     request.state.user = None
                     return await call_next(request)
                 return JSONResponse({"error": "Login required"}, status_code=401)

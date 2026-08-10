@@ -20,6 +20,7 @@ from .data_versions import router as data_versions_router
 from .graph import router as graph_router
 from .issues import router as issues_router
 from .insolvency import router as insolvency_router
+from .regulatory_guides import router as regulatory_guides_router
 
 router = APIRouter()
 router.include_router(acts_router)
@@ -36,6 +37,7 @@ router.include_router(data_versions_router)
 router.include_router(graph_router)
 router.include_router(issues_router)
 router.include_router(insolvency_router)
+router.include_router(regulatory_guides_router)
 
 
 VERSION = "2.7.5"
@@ -287,6 +289,12 @@ def api_info():
                 "GET /api/rulings": "List all ATO rulings",
                 "GET /api/ruling/{citation}": "Retrieve a ruling by citation",
                 "GET /api/rulings-for-section/{act}/{section}": "Get rulings related to a section",
+            },
+            "regulatory_guides": {
+                "GET /api/regulatory-guides": "List all ASIC Regulatory Guides",
+                "GET /api/regulatory-guide/{rg_number}": "Retrieve a regulatory guide by number",
+                "GET /api/regulatory-guide/{rg_number}/download": "Download PDF of a regulatory guide",
+                "GET /api/regulatory-guides/search": "Search regulatory guides by keyword",
             },
             "tax_cases": {
                 "GET /api/tax-cases/search": "Search tax cases by name, citation, or catchwords",

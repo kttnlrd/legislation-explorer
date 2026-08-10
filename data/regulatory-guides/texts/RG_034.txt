@@ -1,0 +1,1512 @@
+REGULATORY GUIDE 34
+
+Auditor obligations:
+Reporting to ASIC
+September 2025
+
+
+
+About this guide
+This guide is for auditors, including individual auditors, audit companies,
+members of audit firms and lead auditors.
+
+It gives guidance on auditors’ obligations to report to ASIC:
+    contraventions and suspected contraventions under s311, 601HG, 990K
+     and 1226H of the Corporations Act 2001 (Corporations Act) and s104 of
+     the National Consumer Credit Protection Act 2009 (National Credit Act);
+    attempts to unduly influence, interfere, or mislead the auditor under
+     s311, 601HG, 990K and 1226H of the Corporations Act and s104 of the
+     National Credit Act;
+    conflict of interest situations and circumstances involving relevant
+     relationships as part of an auditor’s independence obligations under
+     s324CA–CC and s324CE–CG of the Corporations Act; and
+    the auditor’s own contraventions and suspected contraventions under
+     s311, 601HG and 1226H of the Corporations Act.
+
+This guide also provides guidance about lodging auditor notifications under
+these reporting obligations, how qualified privilege operates, and what
+happens when auditors do not meet their reporting obligations.
+                                                         REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in September 2025 and is based on legislation and
+                             regulations as at the date of issue.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 34, updated 20 December 2007, and
+                                     reissued May 2013 and March 2020;
+                                    Superseded Policy Statement 34, issued 21 December 2004, and
+                                     rebadged as a regulatory guide 5 July 2007; and
+                                    Superseded Practice Note 34, issued 5 July 1993 and updated 6
+                                     December 2004.
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                            Page 2
+                                                                REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+Contents
+
+
+                             A      Overview ........................................................................................... 4
+                                    Auditor reporting obligations .............................................................. 4
+                                    Lodging auditor notifications .............................................................. 7
+                             B      Reporting obligations for suspected contraventions by
+                                    companies, disclosing entities, registered schemes and CCIVs 8
+                                    What must an auditor report to ASIC? ............................................... 8
+                                    What are ‘reasonable grounds to suspect’ a contravention? ............ 9
+                                    What is a ‘significant’ suspected contravention? ............................. 10
+                                    Adequately dealing with a suspected contravention ....................... 12
+                                    When must an auditor report to ASIC? ............................................ 12
+                             C      Reporting obligations for suspected contraventions by RSEs 13
+                                    What must an RSE auditor report to ASIC? .................................... 13
+                                    When must an auditor report to ASIC? ............................................ 13
+                             D      Reporting obligations for suspected contraventions by AFS and
+                                    credit licensees .............................................................................. 14
+                                    What must an AFS and credit licensee auditor report to ASIC? ..... 14
+                                    When must an auditor report to ASIC? ............................................ 16
+                             E      Other reporting obligations .......................................................... 17
+                                    Attempts to unduly influence, interfere and mislead ........................ 17
+                                    Auditor independence and conflicts of interest obligations ............. 18
+                                    Obligation to report the auditor’s own contraventions and suspected
+                                    contraventions of the Corporations Act ........................................... 19
+                             F      Lodging auditor notifications ....................................................... 21
+                                    Information to include in auditor notifications .................................. 21
+                                    How qualified privilege protects auditors ......................................... 22
+                                    How to lodge auditor notifications .................................................... 22
+                                    What happens when an auditor fails to report or notify ASIC?........ 22
+                             Appendix: Contravention examples—companies, disclosing entities,
+                                registered schemes and CCIVs .................................................... 23
+                                Important information about examples ............................................ 23
+                                Examples of significant suspected contraventions .......................... 23
+                                Examples of insignificant contraventions ......................................... 26
+                             Key terms ............................................................................................... 28
+                             Related information ............................................................................... 30
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                                                     Page 3
+                                                           REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+A          Overview
+
+
+                              Key points
+
+                              This guide is intended to help auditors to comply with their obligations to
+                              report certain matters to ASIC.
+
+                              Auditors have reporting obligations to notify ASIC of suspected
+                              contraventions when conducting audits of:
+                              • companies, disclosing entities, registered managed investment
+                                schemes (registered schemes) and corporate collective investment
+                                vehicles (CCIVs), and compliance plans of registered schemes and
+                                retail CCIVs: see Section B;
+                              • registrable superannuation entities (RSEs): see Section C; and
+                              • Australian financial services (AFS) and credit licensees: see Section D.
+
+                              Auditors also have reporting obligations to notify ASIC about:
+                              • attempts to unduly influence, interfere, or mislead the auditor;
+                              • conflict of interest situations and circumstances involving relevant
+                                relationships; and
+                              • the auditor’s own contraventions and suspected contraventions under
+                                s311, 601HG and 1226H of the Corporations Act: see Section E.
+
+                              We also provide guidance about lodging auditor notifications under the
+                              reporting obligations, how qualified privilege operates, and what happens
+                              when auditors do not meet their reporting obligations: see Section F.
+
+
+
+
+Auditor reporting obligations
+              RG 34.1        Auditor reporting obligations have been part of Australian company law for
+                             many years. These obligations require timely auditor reporting of certain
+                             contraventions and other matters to ASIC when conducting audits, including
+                             audits conducted at ASIC’s direction.
+
+                                   Note 1: In this guide, we refer to the obligations to report a contravention or suspected
+                                   contraventions and other matters to ASIC under s311, 324CA–CC, 324CE–CG, 601HG,
+                                   990K or 1226H of the Corporations Act 2001 (Corporations Act) and s104 of the
+                                   National Consumer Credit Protection Act 2009 (National Credit Act) as the ‘auditor
+                                   reporting obligations’.
+
+                                   Note 2: The auditor reporting obligations apply to individual auditors, audit companies,
+                                   members of audit firms and lead auditors (as defined in s324AF of the Corporations Act).
+
+                                   Note 3: In this guide, references to chapters (Chs), parts (Pts), divisions (Divs) and
+                                   sections (s) are to the Corporations Act, unless otherwise specified.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                                      Page 4
+                                                            REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+              RG 34.2        We believe that auditor reporting obligations are a key aspect of the
+                             auditor’s role in conducting an audit and should be included in the audit plan
+                             and program for each entity subject to audit. Staff reporting to an auditor
+                             should be made aware of these obligations.
+
+
+                             Auditor reporting obligations to notify suspected
+                             contraventions
+
+              RG 34.3        Auditors have obligations to notify ASIC of suspected contraventions when
+                             undertaking audits of:
+                             (a)   a company, disclosing entity, registered scheme or CCIV under s311 or
+                                   a compliance plan of a registered scheme or retail CCIV under s601HG
+                                   and 1226H: see Section B;
+
+                                   Note: A retail CCIV has the meaning given by s1222J(1): see s9.
+
+                             (b)   an RSE under s311: see Section C; and
+                             (c)   an AFS licensee under s990K of the Corporations Act or a credit
+                                   licensee under s104 of the National Credit Act: see Section D.
+
+              RG 34.4        While we do not expect auditors to engage in a systemic search for all
+                             possible contraventions that may require reporting to ASIC, auditors should
+                             be alert to matters that come to their attention that may indicate a suspected
+                             contravention, and make an appropriate assessment.
+
+              RG 34.5        Auditors may have multiple reporting obligations to notify ASIC of
+                             suspected contraventions. If more than one obligation applies, all obligations
+                             should be met (i.e. by lodging a separate auditor notification for each entity),
+                             noting that the requirements (including reporting thresholds and timing
+                             requirements for notifying ASIC) for each obligation can vary. For example,
+                             an auditor may conduct separate audits for:
+                             (a)   the RSE (s311) and the licensee operating the RSE (s990K); or
+                             (b)   the registered scheme (s311), the registered scheme’s compliance plan
+                                   (s601HG) and the responsible entity for the scheme (s990K).
+
+                                   Note: For the purposes of this guide, an ‘auditor notification’ refers to a notification to
+                                   ASIC by the auditor of a breach, contravention or other matter required under the
+                                   Corporations Act or National Credit Act.
+
+              RG 34.6        If an auditor notifies ASIC of a suspected contravention under its reporting
+                             obligations and then becomes aware of further contraventions—including
+                             new contraventions of the same provision (e.g. a failure to lodge a specific
+                             document the following year)—the auditor must lodge a further auditor
+                             notification with ASIC. However, the continued failure to address a specific
+                             instance (e.g. the continued failure to lodge a specific document that was due
+                             for lodgement in an earlier period) only needs to be reported once.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                                        Page 5
+                                                          REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+              RG 34.7        Although AFS and credit licensees have an obligation to report significant
+                             breaches of specific obligations to ASIC under Div 3 of Pt 7.6 of the
+                             Corporations Act and Div 5 of Pt 2–2 of the National Credit Act
+                             respectively, self-reporting to ASIC by the licensee does not exempt an
+                             auditor from reporting the same matter under their auditor reporting
+                             obligations.
+
+              RG 34.8        Auditors must also notify us about contraventions or suspected
+                             contraventions that come to the auditor’s attention, even if:
+                             (a)   they have come to the auditor’s attention other than during the audit or
+                                   review; or
+                             (b)   ASIC may already be aware of the conduct (e.g. through media
+                                   coverage or self-reporting by the company).
+
+
+                             Other reporting obligations
+
+              RG 34.9        Auditors also have obligations to report to ASIC:
+                             (a)   attempts to unduly influence, interfere, coerce, manipulate or mislead
+                                   the auditor during an audit under s311, 601HG, 990K and 1226H of the
+                                   Corporations Act and s104 of the National Credit Act; and
+                             (b)   conflict of interest situations or circumstances involving a relevant
+                                   relationship as part of an auditor’s independence obligations under
+                                   s324CA–CC and s324CE–CG of the Corporations Act; and
+                             (c)   the auditor’s own contraventions and suspected contraventions under
+                                   s311, 601HG and 1226H of the Corporations Act: see Section E.
+
+
+                             Reporting obligations to other regulators
+
+              RG 34.10       This guide does not provide guidance about auditors’ reporting obligations
+                             to other regulators under legislation administered by other regulators,
+                             including:
+                             (a)    the Australian Prudential Regulation Authority (APRA) under s88 of
+                                   the Life Insurance Act 1995; or
+                             (b)   APRA or the Australian Taxation Office under the Superannuation
+                                   Industry (Supervision) Act 1993 (SIS Act).
+
+                                   Note: Reporting to another regulator will generally not relieve the auditor from its
+                                   obligations to notify ASIC of a breach, contravention or other matter required under the
+                                   Corporations Act or National Credit Act.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                                   Page 6
+                                                         REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+Lodging auditor notifications
+              RG 34.11       Section F provides guidance about lodging auditor notifications, how
+                             qualified privilege protects auditors, and what happens when an auditor fails
+                             to report or notify ASIC.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                            Page 7
+                                                         REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+B          Reporting obligations for suspected
+           contraventions by companies, disclosing
+           entities, registered schemes and CCIVs
+
+
+                              Key points
+
+                              An auditor of a company, disclosing entity, registered scheme or CCIV
+                              must notify ASIC if they have reasonable grounds to suspect that there has
+                              been a contravention of the Corporations Act that is:
+                              • significant; or
+                              • not significant, but the auditor believes that the contravention has not
+                                been or will not be adequately dealt with by commenting on it in the
+                                auditor’s report or bringing it to the attention of the directors.
+                              This obligation applies to the auditor when they are conducting audits or
+                              reviews of a financial or sustainability report or a compliance plan for a
+                              registered scheme or retail CCIV.
+
+                              This section gives guidance for auditors on complying with these
+                              obligations, including:
+                              • what are ‘reasonable grounds to suspect’ a contravention;
+                              • what is a ‘significant’ contravention; and
+                              • what an auditor should do when a suspected contravention is not
+                                ‘significant’ but is not likely to be ‘adequately dealt with’.
+
+                              Auditor notifications must be lodged with ASIC as soon as practicable or
+                              within 28 days of the auditor becoming aware of it.
+
+
+
+
+What must an auditor report to ASIC?
+              RG 34.12       An auditor of a company, disclosing entity, registered scheme or CCIV, or
+                             the compliance plan of a registered scheme or retail CCIV must notify ASIC
+                             if they become aware of circumstances that give them reasonable grounds to
+                             suspect that there has been a contravention of the Corporations Act: see
+                             s311, 601HG and 1226H.
+
+                                   Note 1: These reporting obligations apply to individual auditors (s311(1), 601HG(4)
+                                   and 1226H(1)), audit companies (s311(2), 601HG(4A) and 1226H(2)), and lead auditors
+                                   (s311(3), 601HG(4B) and 1226H(3)).
+
+                                   Note 2: For ASIC guidance about what are ‘reasonable grounds to suspect’ a
+                                   contravention, see RG 34.18–RG 34.21.
+
+              RG 34.13       This reporting obligation applies if the suspected contravention is:
+                             (a)   significant; or
+
+
+
+© Australian Securities and Investments Commission September 2025                                               Page 8
+                                                         REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+                                   Note: Subsection 311(4), 601HG(10) and 1226H(4) set out the matters to have regard to
+                                   when determining whether a contravention is significant for the purposes of s311,
+                                   601HG and 1226H.
+
+                             (b)   not significant, but the auditor believes that the contravention has not
+                                   been (or will not be) adequately dealt with by commenting on it in the
+                                   auditor’s report or by bringing it to the attention of the directors.
+
+
+                             Reporting obligations under s311
+
+              RG 34.14       The obligations under s311 apply to reporting suspected contraventions that
+                             come to the attention of the auditor of an annual financial report,
+                             sustainability report or half-year financial report.
+
+
+                             Reporting obligations under s601HG and 1226H
+
+              RG 34.15       All registered schemes and retail CCIVs are required to have a compliance
+                             plan that meets the requirements of Pt 5C.4 and Div 4 of Pt 8B.3
+                             respectively. The Corporations Act also requires certain compliance plan
+                             audit work to be carried out by a registered company auditor.
+
+              RG 34.16       A compliance plan’s auditor must provide a report to the responsible entity
+                             for the scheme or the corporate director of the retail CCIV within three
+                             months after the end of the financial year. Their report must state whether, in
+                             the auditor’s opinion, the responsible entity or corporate director complied
+                             with the compliance plan and if the plan continues to meet the requirements
+                             under Pt 5C.4 or Div 4 of Pt 8B.3: see s601HG and s1226G.
+
+              RG 34.17       The obligations to report suspected contraventions under s601HG and 1226H
+                             apply to any suspected contraventions of the Corporations Act that come to the
+                             attention of the compliance plan auditor.
+
+
+
+What are ‘reasonable grounds to suspect’ a contravention?
+              RG 34.18       Under s311, 601HG and s1226H, an auditor is required to notify ASIC if
+                             they have ‘reasonable grounds to suspect’ there has been a significant
+                             contravention of the Corporations Act. Establishing ‘reasonable grounds to
+                             suspect’ requires both a suspicion and a just cause for that suspicion.
+
+              RG 34.19       The test is satisfied by the existence of facts or circumstances that would
+                             create in the mind of a reasonable auditor an honest and reasonable suspicion
+                             that a contravention has occurred. A single allegation by an employee or
+                             customer that is unsupported by any evidence is unlikely to amount, by itself,
+                             to a reasonable suspicion.
+
+              RG 34.20       In ASIC’s view, a reasonable suspicion can exist without the auditor having
+                             conducted exhaustive and conclusive investigations into the matter. Grounds
+
+
+
+© Australian Securities and Investments Commission September 2025                                                Page 9
+                                                          REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+                             for suspicion may be based on the auditor’s professional judgment,
+                             experience, knowledge of a particular industry and information collected, or
+                             matters that have come to the auditor’s attention during the audit. The auditor
+                             does not need evidence to satisfy themselves that a contravention of the
+                             Corporations Act has occurred, and any evidence does not have to be evidence
+                             that would be admissible in judicial proceedings.
+
+              RG 34.21       The auditor should document the grounds for suspicion in their working papers.
+
+
+
+What is a ‘significant’ suspected contravention?
+              RG 34.22       The factors that an auditor must consider in determining whether a suspected
+                             contravention is significant for the purposes of s311, 601HG and s1226H
+                             are:
+                             (a)   the level of penalty for the contravention;
+                             (b)   the effect that the contravention has, or may have on:
+                                   (i)    the overall financial position of the entity; or
+                                   (ii)   the adequacy of the information available about the overall
+                                          financial position of the entity; and
+                             (c)   any other relevant matter: see s311(4), 601HG(10) and 1226H(4).
+
+                                   Note: The reportable situation obligation for AFS and credit licensees are separate
+                                   obligations from the reporting obligations for auditors. Auditors should use their own
+                                   judgement to consider whether a contravention meets the ‘significant’ threshold in s311,
+                                   601HG and 1226H. Auditors should not rely on the licensee’s assessment of whether a
+                                   contravention is ‘significant’ under s912D of the Corporations Act and 50A of the
+                                   National Credit Act.
+
+
+                             Level of penalty
+
+              RG 34.23       Contraventions attracting five years’ imprisonment or more, or any civil
+                             penalty provision under the Corporations Act, are likely to be significant
+                             contraventions.
+
+
+                             Any other relevant matter
+
+              RG 34.24       ASIC considers that other factors an auditor may consider when determining
+                             whether a suspected contravention is significant include:
+                             (a)   whether contraventions of the same or similar nature are suspected to
+                                   have occurred in more than one area of the audited body;
+                             (b)   whether the suspected contraventions are systemic, multiple or
+                                   continuing;
+                             (c)   the seniority of the people involved in the suspected contravening
+                                   conduct;
+
+
+
+© Australian Securities and Investments Commission September 2025                                                  Page 10
+                                                         REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+                             (d)   whether there is any apparent dishonesty involved in the conduct;
+                             (e)   the potential impact of the contravention on other parties (e.g. clients,
+                                   fund members, or existing or potential investors or creditors); and
+                             (f)   whether the audited body or any of its officers or senior managers have
+                                   previously contravened the Corporations Act by engaging in similar
+                                   conduct.
+
+              RG 34.25       This list of factors is not exhaustive or a checklist. The auditor reporting
+                             obligations require the auditor to consider all the facts and circumstances of
+                             the situation and make their own reasonable judgement about whether a
+                             suspected contravention is significant and must be reported.
+
+
+                             Examples of significant suspected contraventions
+
+              RG 34.26       ASIC considers suspected contraventions that will be, or are likely to be,
+                             significant include:
+                             (a)   insolvent trading and the inability to continue as a going concern;
+                             (b)   a breach of the accounting or sustainability standards;
+                             (c)   a breach of the true and fair view requirement;
+                             (d)   a breach of the unconscionable conduct and consumer protection
+                                   provisions in relation to financial services outlined in Div 2 of Pt 2 of
+                                   the Australian Securities and Investments Commission Act 2001;
+                             (e)   fraud or a breach of the general duties by officers or employees;
+                             (f)   a breach that may cause a significant loss to any person or class of
+                                   persons;
+                             (g)   breaches associated with related party transactions;
+                             (h)   a breach of the requirement to have the minimum number of directors;
+                             (i)   a breach of the requirement to keep books and records, including
+                                   financial and sustainability records;
+                             (j)   a breach of the requirement to lodge financial or sustainability reports;
+                                   and
+                             (k)   ongoing breaches of the requirement to comply with a compliance plan.
+
+                                   Note: See the Explanatory Memorandum to the Corporate Law Economic Reform
+                                   Program (Audit Reform and Corporate Disclosure) Bill 2004 (CLERP 9 Bill EM) at
+                                   paragraph 5.245.
+
+              RG 34.27       For examples of suspected contraventions and discussion about whether we
+                             consider they would be significant, see Table 1 and Table 2 in the Appendix
+                             to this guide.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                            Page 11
+                                                         REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+Adequately dealing with a suspected contravention
+              RG 34.28       If the suspected contravention is not significant, s311, 601HG and 1226H
+                             require an auditor to form a belief about whether the matter will be
+                             adequately dealt with by commenting on it in the auditor’s report or by
+                             bringing the matter to the attention of the directors.
+
+              RG 34.29       If an auditor notes suspected contraventions in their report to members and
+                             as part of their feedback to directors, this will not necessarily mean that the
+                             suspected contravention has been adequately addressed. The auditor must
+                             report the suspected breach to ASIC if they believe a suspected
+                             contravention will not be dealt with adequately by simply noting these
+                             matters in the auditor’s report or by bringing the matter to the attention of
+                             the directors.
+
+              RG 34.30       It is a matter of opinion, based on the facts as known to an auditor, whether
+                             the contravention will be adequately addressed by commenting on it in an
+                             auditor’s report or by bringing the matter to the attention of the directors.
+
+              RG 34.31       The auditor should not delay reporting the suspected breach to ASIC to
+                             allow further consultation with the directors if the auditor believes that this
+                             consultation may not adequately deal with the matter.
+
+              RG 34.32       For examples of suspected contraventions that are unlikely to be significant
+                             but that may be adequately dealt with by commenting on it in the auditor’s
+                             report or by bringing the matter to the attention of the directors, see Table 2
+                             in the Appendix to this guide.
+
+
+
+When must an auditor report to ASIC?
+              RG 34.33       After an auditor becomes aware of a contravention or suspected
+                             contravention under s311, s601HG and s1226H, they must lodge an auditor
+                             notification with ASIC as soon as practicable, and in any case within
+                             28 days, even if the matter has been rectified during this period. An auditor
+                             should not wait until the conclusion of an audit to notify us.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                           Page 12
+                                                          REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+C          Reporting obligations for suspected
+           contraventions by RSEs
+
+                              Key points
+
+                              An auditor of an RSE must notify ASIC if they have reasonable grounds to
+                              suspect that there are circumstances that amount to a contravention of the
+                              Corporations Act.
+
+                              This obligation applies to all suspected contraventions, irrespective of
+                              materiality or significance, or whether the contravention has been
+                              adequately dealt with.
+
+                              Auditor notifications must be lodged with ASIC as soon as practicable or
+                              within 28 days of the auditor becoming aware of it.
+
+
+What must an RSE auditor report to ASIC?
+              RG 34.34       An auditor of an RSE’s financial or sustainability report must notify ASIC if
+                             they have reasonable grounds to suspect that there are circumstances that
+                             amount to a contravention of the Corporations Act. All matters must be
+                             reported to ASIC, irrespective of materiality or significance, or whether the
+                             contravention has been adequately dealt with: see s311.
+
+                                   Note 1: For the purposes of s311, an RSE is a registrable superannuation entity within
+                                   the meaning of the SIS Act but does not include an exempt public sector superannuation
+                                   scheme, an excluded approved deposit fund (within the meaning of the SIS Act) or a
+                                   small APRA fund (within the meaning of s1017BB of the Corporations Act).
+
+                                   Note 2: This reporting obligation applies to individual auditors (s311(1A)–(1C)), audit
+                                   companies (s311(2A)–(2C)), members of audit firms (s311(2D)–(2G)), and lead
+                                   auditors (s311(3A)–(3C)).
+
+              RG 34.35       For guidance about what are ‘reasonable grounds to suspect’ a
+                             contravention, see RG 34.18–RG 34.21. For examples of suspected
+                             contraventions, see Table 1 and Table 2 in the Appendix to this guide, noting
+                             that an RSE auditor is required to notify ASIC about all suspected
+                             contraventions relating to an RSE audit, irrespective of materiality or
+                             significance, or whether the contravention has been adequately dealt with.
+
+
+
+When must an auditor report to ASIC?
+              RG 34.36       After an auditor becomes aware of a contravention or suspected
+                             contravention under s311 they must lodge an auditor notification with ASIC
+                             as soon as practicable and in any case, within 28 days, even if the matter has
+                             been rectified during this period. An auditor should not wait until the
+                             conclusion of an audit to notify us.
+
+
+© Australian Securities and Investments Commission September 2025                                                  Page 13
+                                                            REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+D          Reporting obligations for suspected
+           contraventions by AFS and credit licensees
+
+
+                              Key points
+
+                              An auditor of an AFS or credit licensee must report to ASIC matters
+                              adversely affecting the ability of the licensee to meet their licensee
+                              obligations.
+
+                              Auditors must also report contraventions of specified provisions or licence
+                              conditions. All contraventions of these provisions must be reported,
+                              irrespective of materiality or significance, or whether the contravention has
+                              been adequately dealt with.
+
+                              Auditor notifications must be lodged with ASIC within seven days of
+                              becoming aware of the matter.
+
+
+
+
+What must an AFS and credit licensee auditor report to ASIC?
+              RG 34.37       AFS and credit licensee auditors must report to ASIC matters that:
+                             (a)   have adversely affected, are adversely affecting, or may adversely affect
+                                   the ability of the licensee to meet their licence obligations: see
+                                   s990K(2)(a) of the Corporations Act and s104(2)(a) of the National
+                                   Credit Act; or
+                             (b)   constitute, or may constitute, a contravention of specified provisions or
+                                   a condition of the licensee’s AFS or credit licence: see s990K(2)(b) of
+                                   the Corporations Act and s104(2)(b) of the National Credit Act.
+
+                                   Note: Section 104 of the National Credit Act applies to auditors when they are
+                                   performing their duties under s49(3) of the National Credit Act (where ASIC has given
+                                   a written notice to the credit licensee directing it to obtain an audit report) and s100(2)
+                                   of the National Credit Act (where the credit licensee must lodge an audit report with a
+                                   trust account statement).
+
+
+                             Contravention of specified provisions or licence conditions
+
+              RG 34.38       Section 990K(2)(b) of the Corporations Act and s104(2)(b) of the National
+                             Credit Act do not include a ‘significance’ test. All matters must be reported
+                             to ASIC, irrespective of materiality or significance, or whether the
+                             contravention has been adequately dealt with.
+
+                                   Note: Matters that are not contraventions of specified provisions may still need to be
+                                   reported to ASIC if the matter results in a breach of a condition of the licensee’s AFS or
+                                   credit licence; has an ‘adverse effect’ on the licensee’s ability to meet its obligations; or
+                                   must be reported under s311—if the auditor also audits the entity that holds the licence
+                                   (see Section B).
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                                      Page 14
+                                                           REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+                             AFS licensee audits
+
+              RG 34.39       Under s990K(2)(b), auditors must report to ASIC suspected breaches or
+                             contraventions of:
+                             (a)   conditions of a licensee’s AFS licence; and
+
+                                   Note 1: Unless the context indicates otherwise, a reference to a condition in relation to
+                                   an AFS licence includes a restriction: see the definition of ‘condition’ in s9.
+
+                                   Note 2: The auditor should obtain a copy of the licensee’s AFS licence and consider reg
+                                   7.6.04 of the Corporations Regulations 2001 (Corporations Regulations) to determine
+                                   what conditions ASIC has imposed on the licensee.
+
+                             (b)   a provision of:
+                                   (i)     Subdiv A or B of Div 2 of Pt 7.8: Dealing with client’s money—
+                                           Money other than loans, and loan money;
+                                   (ii)    Div 3 of Pt 7.8: Dealing with other property of clients; and
+                                   (iii)   Subdiv B or C of Div 6 of Pt 7.8: Financial records, statements and
+                                           audit—Financial records, and statements of financial services
+                                           licensees.
+
+                                   Note: The specified provisions of the Corporations Act include any regulations made
+                                   under these provisions.
+
+              RG 34.40       Examples of suspected contraventions of specified provisions include:
+                             (a)   a failure to pay client money into a trust account in accordance with
+                                   s981B or designate the account to be a trust account under reg 7.8.01 of
+                                   the Corporations Regulations;
+                             (b)   the withdrawal of money from a trust account other than in the
+                                   circumstances permitted under reg 7.8.02 of the Corporations
+                                   Regulations (s981C);
+                             (c)   a failure to keep financial records in sufficient detail to clearly
+                                   understand the assets and liabilities held on behalf of clients (s988A–
+                                   s988B); and
+                             (d)   a failure to keep financial records that enable the profit and loss and
+                                   balance sheet to be prepared and audited (s988B).
+
+                             Credit licensee audits
+
+              RG 34.41       Under s104(2)(b) of the National Credit Act, auditors must report to ASIC
+                             suspected breaches or contraventions of:
+                             (a)   conditions of the licensee’s credit licence;
+
+                                   Note: The auditor should obtain a copy of the licensee’s credit licence and consider regs
+                                   9, 9AA and 9AB and 9A of the National Consumer Credit Protection Regulations 2010
+                                   to determine what conditions are imposed on the licensee.
+
+                             (b)   a provision of:
+
+
+
+© Australian Securities and Investments Commission September 2025                                                    Page 15
+                                                          REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+                                   (i)    Div 2 of Pt 2–5 of the National Credit Act: Financial records, trust
+                                          accounts and audit reports—Financial records of licensees; and
+                                   (ii)   Div 3 of Pt 2–5 of the National Credit Act: Financial records, trust
+                                          accounts and audit reports—Trust accounts of credit service
+                                          licensees.
+
+                                   Note: The specified provisions of the National Credit Act include any regulations made
+                                   under these provisions.
+
+
+
+
+When must an auditor report to ASIC?
+              RG 34.42       Auditor notifications must be lodged with ASIC within seven days of
+                             becoming aware of the matter, even if the matter has been rectified during
+                             this period: see s990K(1) of the Corporations Act and s104(1) of the
+                             National Credit Act.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                                 Page 16
+                                                          REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+E          Other reporting obligations
+
+
+                              Key points
+
+                              Auditors also have obligations to report to ASIC attempts to unduly
+                              influence, interfere or mislead when conducting an audit of:
+                              • a company, disclosing entity, registered scheme, CCIV, or compliance
+                                plan of a registered scheme or retail CCIV; and
+                              • an AFS and credit licensee.
+
+                              As part of their independence obligations, all auditors have obligations to
+                              notify ASIC about conflict of interest situations and circumstances involving
+                              relevant relationships.
+
+                              Auditors also have obligations to notify ASIC about their own
+                              contraventions and suspected contraventions of the Corporations Act.
+
+
+
+
+Attempts to unduly influence, interfere and mislead
+                             Audits of companies, disclosing entities, registered
+                             schemes and CCIVs
+
+              RG 34.43       An auditor of a company, disclosing entity, registered scheme or CCIV or a
+                             compliance plan auditor for a registered scheme or retail CCIV must notify
+                             ASIC if the auditor is aware of circumstances that amount to an attempt by
+                             any person:
+                             (a)   to unduly influence, coerce, manipulate or mislead a person involved in
+                                   the conduct of an audit; or
+
+                                   Note: A ‘person involved in the conduct of an audit’ includes the auditor, the lead
+                                   auditor, review auditor, a professional member of the audit team or any other person
+                                   involved in the conduct of the audit: s311(6), 601HG(12) and s1226H(7).
+
+                             (b)   to otherwise interfere with the proper conduct of an audit: see s311,
+                                   601HG and 1226H.
+
+                                   Note: These reporting obligations apply to individual auditors (s311(1)(a),
+                                   601HG(4)(a), and 1226H(1)(a)), audit companies (s311(2)(a), 601HG(4A)(a) and
+                                   1226H(2)(a)), and lead auditors (s311(3)(b), 601HG(4B)(b) and 1226H(3)(b)).
+
+              RG 34.44       Auditors must notify ASIC in writing as soon as practicable, and in any case
+                             within 28 days of becoming aware of the attempt, even if the matter has been
+                             rectified during this period.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                                  Page 17
+                                                           REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+                             RSE audits
+
+              RG 34.45       Auditors of RSEs are not required to report these matters to ASIC under
+                             s311 but must report these matters to the relevant regulator: see s130BA and
+                             130BAA of the SIS Act.
+
+
+                             AFS and credit licensee audits
+
+              RG 34.46       AFS and credit licensee auditors must notify ASIC if they become aware of
+                             an attempt to unduly influence, coerce, manipulate or mislead the auditor in
+                             the conduct of an audit: see s990K(2)(c) of the Corporations Act and
+                             s104(2)(c) of the National Credit Act.
+
+              RG 34.47       AFS and credit licensee auditors must notify ASIC in writing within seven
+                             days of becoming aware of a breach: see s990K(1) of the Corporations Act
+                             and s104(1) of the National Credit Act.
+
+
+
+Auditor independence and conflicts of interest obligations
+              RG 34.48       All auditors have reporting obligations connected with their auditor
+                             independence obligations to report:
+                             (a)   conflict of interest situations under s324CA–CC; and
+
+                                   Note: This reporting obligation applies to individual auditors and audit companies
+                                   (s324CA(1A)), members of audit firms (s324CB(1A)), and directors of audit companies
+                                   (s324CC(1A)).
+
+                             (b)   circumstances involving relevant relationships under s324CE–CG.
+
+                                   Note: This reporting obligation applies to individual auditors (s324CE), audit firms
+                                   (s324CF), and directors of audit companies (s324CG).
+
+              RG 34.49       A conflict of interest situation exists in relation to an audited entity if:
+                             (a)   the auditor (or a professional member of the audit team) cannot exercise
+                                   objective and impartial judgement in the conduct of the audit; or
+                             (b)   a reasonable person, with full knowledge of all relevant facts and
+                                   circumstances, would conclude that the auditor (or a professional
+                                   member of the audit team) cannot exercise objective and impartial
+                                   judgement in the conduct of the audit: see s324CD(1).
+
+                                   Note: For the purposes of determining whether a conflict of interest exists under
+                                   s324CA-CC, you should have regard to the relationships set out in s324CD(2).
+
+              RG 34.50       A circumstance involving a relevant relationship exists if the auditor (or one
+                             of the people or entities in s324CE(5), 324CF(5) or 324CG(9)) has a
+                             relationship with the audited entity described in s324CH.
+
+                                   Note: For the purposes of s324CE-CG, a relevant relationship is a relationship set out in
+                                   s324CH.
+
+
+
+© Australian Securities and Investments Commission September 2025                                                      Page 18
+                                                           REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+                             When must an auditor report to ASIC?
+
+              RG 34.51       If an auditor becomes aware of a conflict of interest situation or a
+                             circumstance involving relevant relationships between the auditor (or its
+                             team members) and the audited entity, the auditor must notify ASIC if the
+                             situation or circumstance is ongoing after seven days. Failure to comply with
+                             this obligation is an offence.
+
+                                   Note 1: If the conflict of interest situation or circumstance is not resolved within 21
+                                   days from notifying ASIC, the appointment of the auditor ceases automatically and our
+                                   consent to the resignation or removal is not required. For more information see s327B,
+                                   331AAA and 331AH and Regulatory Guide 26 Resignation, removal and replacement
+                                   of auditors (RG 26).
+
+                                   Note 2: ASIC will give a copy of the notice of the conflict of interest or circumstance
+                                   involving a relevant relationship to the audited entity.
+
+                                   Note 3: There are also rules for retiring partners of audit firms and retiring directors and
+                                   professional members of audit companies: see s324CI–324CK.
+
+
+
+
+Obligation to report the auditor’s own contraventions and
+suspected contraventions of the Corporations Act
+              RG 34.52       Under s311, 601HG and 1226H, auditors also have obligations to notify
+                             ASIC of the auditor’s own contraventions and suspected contraventions of
+                             the Corporations Act, including contraventions of:
+                             (a)   the auditor independence and conflicts of interest obligations in Div 3
+                                   of Pt 2M.4; and
+                             (b)   the auditor rotation requirements in Div 5 of Pt 2M.4.
+
+                                   Note 1: For further information about the reporting obligations that apply when
+                                   undertaking audits of a company, disclosing entity, registered scheme or CCIV under
+                                   s311 or a compliance plan of a registered scheme or retail CCIV under s601HG and
+                                   1226H: see Section B.
+
+                                   Note 2: For further information about the reporting obligations that apply when
+                                   undertaking audits of an RSE under s311: see Section C.
+
+                                   Note 3: For further information about the auditor rotation requirements, see Regulatory
+                                   Guide 187 Auditor Rotation (RG 187).
+
+              RG 34.53       ASIC considers that a breach of these auditor independence requirements is
+                             likely to be significant and should be reported.
+
+                                   Note 1: Each case must be considered on its merits, and auditors must apply
+                                   professional judgement and consider the particular facts and circumstances of each case
+                                   when deciding whether to notify ASIC.
+
+                                   Note 2: An RSE auditor is required to notify ASIC about all suspected contraventions
+                                   relating to an RSE audit, irrespective of materiality or significance, or whether the
+                                   contravention has been adequately dealt with.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                                      Page 19
+                                                         REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+              RG 34.54       After an auditor becomes aware of their own contravention or suspected
+                             contravention under s311, s601HG and s1226H, they must lodge an auditor
+                             notification with ASIC as soon as practicable, and in any case within
+                             28 days, even if the matter has been rectified during this period. An auditor
+                             should not wait until the conclusion of an audit to notify us.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                           Page 20
+                                                         REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+F          Lodging auditor notifications
+
+
+                              Key points
+
+                              This section explains:
+                              • the information to include in auditor notifications;
+                              • how qualified privilege protects auditors;
+                              • how to lodge auditor notifications; and
+                              • what happens when an auditor fails to report to or notify ASIC.
+
+
+
+
+Information to include in auditor notifications
+              RG 34.55       Auditors must notify ASIC in writing of the circumstances giving rise to
+                             any:
+                             (a)   suspected contraventions (see Sections B, C, D and Section E at
+                                   RG 34.52—RG 34.54);
+                             (b)   attempts to unduly influence, interfere or mislead the auditor (see
+                                   Section E at RG 34.43—RG 34.47); or
+                             (c)   conflict of interest situations and circumstances involving relevant
+                                   relationships (see Section E at RG 34.48—RG 34.51).
+
+              RG 34.56       Auditor notifications should provide sufficient detail to allow us to
+                             understand and evaluate the issue being reported. Auditors should provide
+                             information about:
+                             (a)   the audited entity—including the name of the entity, and as applicable,
+                                   the Australian Business Number (ABN), Australian Company Number
+                                   (ACN), Australian Registered Scheme Number (ARSN), Unique
+                                   Superannuation Identifier (USI) and licence number;
+                             (b)   the circumstances alerting the auditor to the issue, including when the
+                                   auditor became aware of it;
+                             (c)   the nature and extent of the issue being reported, including the relevant
+                                   legislative provision(s) that may have been contravened; and
+                             (d)   actions being taken by the entity, directors, licensee or auditor in
+                                   relation to the issue.
+
+                                   Note 1: Auditor notifications about suspected contraventions under s311, 601HG, 990K
+                                   and 1226H should be lodged using the ‘submit auditor breach report’ form on the ASIC
+                                   Regulatory Portal (see Submitting breach reports on the portal). The information
+                                   required by the form will depend on the circumstances of the suspected breach.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                              Page 21
+                                                          REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+                                   Note 2: Auditor notifications about suspected contraventions under s104 of the National
+                                   Credit Act should be lodged by emailing the report to feedback.breach@asic.gov.au.
+
+                                   Note 3: An auditor notification about multiple suspected contraventions (e.g. a breach
+                                   of the requirement to keep books and records and a breach of the requirement to lodge
+                                   financial reports) may be lodged with ASIC under a single lodgement provided the
+                                   notifications all relate to the same entity.
+
+
+
+
+How qualified privilege protects auditors
+              RG 34.57       An auditor lodging auditor notifications has qualified privilege under
+                             s601HG(8), 990L, 1226G(5) and s1289 of the Corporations Act and s105 of
+                             the National Credit Act.
+
+                                   Note: ‘Qualified privilege’ is defined as protection from proceedings for defamation:
+                                   see s89 of the Corporations Act and s16 of the National Credit Act.
+
+              RG 34.58       In essence, qualified privilege is available if an auditor has acted in good
+                             faith and solely for the purpose of discharging the statutory obligation to
+                             notify or report to us. An auditor must not have acted maliciously or for any
+                             other improper purpose.
+
+              RG 34.59       Statutory privilege does not displace any privilege that the auditor may be
+                             entitled to rely on under the common law: see s89(3) of the Corporations Act
+                             and s16(3) of the National Credit Act.
+
+
+
+How to lodge auditor notifications
+              RG 34.60       Auditor notifications should be lodged online through the ASIC Regulatory
+                             Portal (see Submitting breach reports on the portal).
+
+                                   Note: Auditor notifications about suspected contraventions under s104 of the National
+                                   Credit Act should be lodged by emailing the report to feedback.breach@asic.gov.au.
+
+
+
+
+What happens when an auditor fails to report or notify ASIC?
+              RG 34.61       An auditor who fails to comply with the auditor reporting obligations is
+                             guilty of an offence. The relevant criminal penalties (fine and/or term of
+                             imprisonment) are set out in Sch 3 of the Corporations Act and s104(3) of
+                             the National Credit Act.
+
+                                   Note: ASIC has a range of powers that enable us to respond flexibly and proportionately
+                                   to a broad range of individual and corporate misconduct. For more information about
+                                   ASIC’s approach to enforcement, including the factors ASIC may consider when
+                                   deciding whether to apply to the Companies Auditors Disciplinary Board for
+                                   disciplinary action of an auditor, see Information Sheet 151 ASIC’s approach to
+                                   enforcement (INFO 151).
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                                  Page 22
+                                                         REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+Appendix: Contravention examples—companies,
+disclosing entities, registered schemes and CCIVs
+
+
+
+Important information about examples
+              RG 34.62       The examples in this appendix are not a checklist and their inclusion in this
+                             guide does not indicate that we will always consider the suggested treatment
+                             to be appropriate in all cases. Each case must be considered on its merits,
+                             and auditors must apply professional judgement and consider the particular
+                             facts and circumstances of each case when deciding whether to notify ASIC.
+
+              RG 34.63       Some of these examples may also be relevant to an RSE auditor’s obligation
+                             to notify ASIC about suspected contraventions. However, under s311, an
+                             RSE auditor is required to notify ASIC about all suspected contraventions
+                             relating to an RSE audit, irrespective of materiality or significance, or
+                             whether the contravention has been adequately dealt with.
+
+
+
+Examples of significant suspected contraventions
+              RG 34.64       Table 1 sets out examples of suspected contraventions that ASIC considers are
+                             likely to be significant and require notification. This is not an exhaustive list.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                           Page 23
+                                                          REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+Table 1:    Suspected contraventions that are likely to be significant
+
+ Suspected contravention             ASIC guidance
+
+ Insolvent trading and               Insolvent trading
+ inability to continue as a
+                                     ASIC considers that insolvent trading is a significant contravention—
+ going concern
+                                     especially having regard to the possible detriment to creditors or
+ See:                                employees—and should be reported to ASIC.
+  s588G                             Suspected insolvent trading may become apparent at any time during the
+  CLERP 9 Bill EM at                year, including during the conduct of audit or review procedures after
+   paragraph 5.245                   balance date and before the signing of the financial report.
+                                     Going concern issues
+                                     Where a financial report has been prepared on a going concern basis and
+                                     the auditor gives a modified audit report on the appropriateness of using
+                                     the going concern basis, ASIC considers there is a significant
+                                     contravention and should be reported to ASIC.
+                                     With all other going concern issues, the auditor should consider the effect
+                                     of the going concern issues identified on:
+                                      the overall financial position of the entity; or
+                                      the adequacy of the information available about the overall financial
+                                       position of the entity: see s311(4)(b).
+                                     An auditor that identifies going concern issues should perform sufficient
+                                     work to establish whether there are reasonable grounds to suspect
+                                     insolvent trading.
+                                     The auditor should not delay notifying us of suspected insolvent trading
+                                     until they have resolved going concern considerations, or in the hope that
+                                     the company will obtain new financial support before signing the financial
+                                     report.
+
+ Breach of accounting or             ASIC considers that suspected non-compliance with an accounting or
+ sustainability standards            sustainability standard would be significant in most circumstances and
+                                     should be reported to ASIC.
+ See:
+                                     An auditor should notify ASIC if:
+  s296, 296A(2), 296B, 296C
+                                      an entity’s financial or sustainability report fails to comply with the
+  CLERP 9 Bill EM at
+                                       accounting or sustainability standards and was materially misstated; and
+   paragraph 5.245
+                                      a previously issued financial or sustainability report was materially
+                                       misstated—even if the misstatement was unintentional or is revealed by
+                                       new information that has come to light.
+
+                                     Non-compliance with an accounting or sustainability standard could
+                                     require the restatement of a previously issued financial or sustainability
+                                     report or the issuance by the auditor of a modified audit or review report.
+
+                                     However, we do not consider that an auditor would be required to notify
+                                     ASIC if:
+                                      an entity’s financial or sustainability report complied with the accounting
+                                       or sustainability standards when that report was issued; and
+                                      a restatement is required by the relevant accounting or sustainability
+                                       standard due to the adoption of a new accounting or sustainability
+                                       standard.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                               Page 24
+                                                          REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+ Suspected contravention             ASIC guidance
+
+ Modified audit or review            ASIC considers that a breach of the ‘true and fair view’ requirement would
+ reports                             be significant and should be reported to ASIC.
+
+ See:                                An auditor should consider its reporting obligations if:
+  s297, 308 and 309                  an auditor’s report is modified in relation to a scope limitation—with
+  CLERP 9 Bill EM at                  consideration given to whether the circumstances that led to the scope
+   paragraph 5.245                     limitation gives rise to reasonable grounds to suspect a contravention of
+                                       the Corporations Act; and
+                                      an emphasis of matter paragraph is included in an unmodified audit
+                                       report—although this may not necessarily relate to a circumstance that
+                                       amounts to a significant contravention of the Corporations Act, the
+                                       auditor should consider the underlying basis for that emphasis of matter
+                                       and whether it requires the auditor to notify us.
+
+ Fraud by officers or                ASIC considers that suspected fraudulent conduct or financial reporting by
+ employees of the entity             officers or employees of the audited body would be significant in most
+                                     circumstances and should be reported to ASIC.
+ See:
+  CLERP 9 Bill EM at                If fraudulent conduct or financial reporting by officers or employees of the
+   paragraph 5.245                   audited body is suspected, the auditor should perform sufficient work to
+                                     establish whether there are reasonable grounds to suspect a significant
+                                     contravention of the Corporations Act has occurred or is continuing to
+                                     occur.
+
+                                     In considering whether the contravention or suspected contravention is
+                                     significant, the auditor should have regard to the actual or potential loss
+                                     resulting from the alleged fraud, number or frequency of the fraudulent
+                                     events and the seniority of the individual involved.
+
+                                     In particular, ASIC should be notified if the scale of the alleged fraud is
+                                     likely to adversely affect:
+                                      the overall financial position of the entity; or
+                                      the adequacy of the information available about the overall financial
+                                       position of the entity: see s311(4)(b).
+
+ Breach of general duties of         ASIC considers that a suspected breach by an officer or employee of the
+ officers and employees              general duties in s180-184 would generally be significant as it effects the
+                                     governance of the entity and should be reported to ASIC.
+ See:
+  s180-184
+
+ Related party transactions          ASIC considers that a suspected contravention associated with related
+                                     party transactions would generally be significant and should be reported to
+ See:
+                                     ASIC.
+  Ch 2E
+                                     This is because there is a risk that the interests of a related party may
+  Regulatory Guide 76 Related
+                                     influence the decision-making of directors to the detriment of the interests
+   party transactions (RG 76)
+                                     of members of the entity.
+
+ Composition of the board of         ASIC considers that a suspected failure to have the minimum number of
+ directors                           directors would generally be significant as it affects the governance of the
+                                     company and should be reported to ASIC.
+ See:
+  s201A
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                                  Page 25
+                                                          REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+ Suspected contravention             ASIC guidance
+
+ Breach of the requirement to        ASIC considers that a suspected failure to maintain adequate books and
+ keep books and records              records, including financial or sustainability records, would likely be
+                                     significant and should be reported.
+ See:
+  s286 and 286A                     The auditor should notify ASIC about these breaches regardless of
+                                     whether the matter has been reported in the audit report.
+
+ Non-lodgement of financial          ASIC considers that a suspected failure to lodge a financial or
+ and sustainability reports          sustainability report is significant and should be reported to ASIC:
+
+ See:                                 for listed entities or disclosing entities—if the report has not been lodged
+                                       by its due date; or
+  s319 and 320
+                                      for all other entities—if the report remains outstanding 28 days after its
+                                       due date.
+                                       Note 1: RSE auditors must notify ASIC if an RSE has failed to lodge a financial or
+                                       sustainability report if the report has not been lodged by its due date.
+                                       Note 2: For further information about sustainability reporting, see Regulatory
+                                       Guide 280 Sustainability reporting (RG 280).
+
+ Ongoing breaches of the             ASIC considers that suspected ongoing compliance failures identified in an
+ requirement to comply with a        audit relating to a compliance plan are significant and should be reported.
+ compliance plan
+                                     In assessing the significance of instances of non-compliance and whether
+ See:                                these should be reported, an auditor should consider matters including
+  s601FC(1)(h) and                  whether:
+   1224D(2)(g)                        there are any monetary or adverse impacts to investors or investor
+                                       protection issues;
+                                      the breaches identified indicate a systemic failure in the compliance
+                                       processes of the audited body;
+                                      the instances of non-compliance were the subject of previous audit
+                                       findings that have not been addressed by the entity; and
+                                      the break down in compliance processes may impact the ability of the
+                                       entity to achieve any compliance plan objectives and/or statutory
+                                       obligations.
+
+                                     Notification of these matters to ASIC does not change the auditor’s
+                                     obligation to issue a modified audit opinion if circumstances require it.
+
+
+
+
+Examples of insignificant contraventions
+              RG 34.65       Table 2 sets out examples of suspected contraventions that ASIC considers
+                             unlikely to be significant. This is not an exhaustive list.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                                       Page 26
+                                                         REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+Table 2:    Suspected contraventions that are unlikely to be significant
+
+ Suspected contravention        ASIC guidance
+
+ Failure to assist the          An isolated and relatively minor incident of an officer of the audited body failing
+ auditor                        to assist an auditor as required by s312 is unlikely to be a significant
+                                contravention.
+ See:
+                                The auditor may be able to adequately deal with the contravention by bringing
+  s312                         the matter to the attention of directors, provided the directors take appropriate
+                                action. In this case, if the suspected contravention is not significant and has
+                                been adequately dealt with, there is no requirement for the auditor to report the
+                                matter to ASIC. However, the auditor should notify ASIC if the failure
+                                continues.
+
+ Failure to correct an          An entity’s isolated failure to correct an extract of particulars in contravention of
+ extract of particulars         s346C is unlikely to be a significant contravention.
+                                An auditor may be able to deal adequately with the contravention by notifying
+ See:
+                                the directors. In this case, if the suspected contravention is not significant and
+  s346C                        has been adequately dealt with, there is no requirement for the auditor to
+                                report the matter to ASIC. However, the auditor is then on notice of a possible
+                                continuing breach, and should notify ASIC if the failure continues.
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                               Page 27
+                                                         REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+Key terms
+
+
+                            Term                      Meaning in this document
+
+                            ABN                       Australian Business Number
+
+                            ACN                       Australian Company Number
+
+                            AFS licence               An Australian financial services licence under s913B that
+                                                      authorises a person who carries on a financial services
+                                                      business to provide financial services
+
+                            AFS licensee              A person who holds an AFS licence
+
+                            APRA                      Australian Prudential Regulation Authority
+
+                            ARSN                      Australian Registered Scheme Number
+
+                            ASIC                      Australian Securities and Investment Commission
+
+                            auditor                   An individual auditor, registered company auditor or the lead
+                                                      auditor of an authorised audit company
+
+                            auditor notification      A notification to ASIC by the auditor of a breach,
+                                                      contravention or other matter required under the
+                                                      Corporations Act or National Credit Act
+
+                            auditor reporting         The obligations to report a contravention or suspected
+                            obligations               contraventions and other matters to ASIC under s311,
+                                                      324CA–CC, 324CE–CG, 601HG, 990K or 1226H of the
+                                                      Corporations Act and s104 of the National Credit Act
+
+                            CCIV                      A Corporate collective investment vehicle
+
+                            Ch 2E (for example)       A chapter of the Corporations Act (in this example numbered
+                                                      2E), unless otherwise specified
+
+                            CLERP 9 Bill EM           Explanatory Memorandum to the Corporate Law Economic
+                                                      Reform Program (Audit Reform and Corporate Disclosure)
+                                                      Bill 2004
+
+                            Corporations Act          Corporations Act 2001, including regulations made for the
+                                                      purpose of that Act
+
+                            Corporations              Corporations Regulations 2001
+                            Regulations
+
+                            credit licence            An Australian credit licence under s35 of the National Credit
+                                                      Act that authorises a licensee to engage in particular credit
+                                                      activities
+
+                            credit licensee           A person who holds an Australian credit licence under s35 of
+                                                      the National Credit Act
+
+                            Div 3 (for example)       A division of a part of a chapter of the Corporations Act (in
+                                                      this example numbered 3), unless otherwise specified
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                             Page 28
+                                                         REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+                            Term                      Meaning in this document
+
+                            lead auditor              Has the meaning in s324AF
+
+                            National Credit Act       National Consumer Credit Protection Act 2009
+
+                            Pt 7.6 (for example)      A part of a chapter of the Corporations Act (in this example
+                                                      numbered 7.6), unless otherwise specified
+
+                            Reg 7.6.04 (for           A regulation of the Corporations Regulations (in this example
+                            example)                  numbered 7.6.04), unless otherwise specified
+
+                            registered scheme         A managed investment scheme that is registered under
+                                                      s601EB
+
+                            retail CCIV               Has the meaning given by s1222J(1)
+                                                        Note: This is a definition contained in s9.
+
+                            RSE                       A registrable superannuation entity within the meaning of the
+                                                      SIS Act but does not include the following:
+                                                       an exempt public sector superannuation scheme;
+                                                       an excluded approved deposit fund (within the meaning of
+                                                        the SIS Act); and
+                                                       a small APRA fund (within the meaning of s1017BB of the
+                                                        Corporations Act)
+
+                            SIS Act                   Superannuation Industry (Supervision) Act 1993
+
+
+
+                            s311 (for example)        A section of the Corporations Act (in this example numbered
+                                                      311), unless otherwise specified
+
+                            USI                       Unique Superannuation Identifier
+
+
+
+
+© Australian Securities and Investments Commission September 2025                                            Page 29
+                                                         REGULATORY GUIDE 34: Auditor obligations: Reporting to ASIC
+
+
+
+
+Related information
+                             Headnotes
+
+                             AFS licence, auditor obligations, credit licence, contraventions, licence
+                             conditions, qualified privilege, reasonable grounds, significant
+                             contravention, suspected contravention
+
+                             Regulatory guides
+
+                             RG 26 Resignation, removal and replacement of auditors
+
+                             RG 76 Related party transactions
+
+                             RG 187 Auditor rotation
+
+                             RG 280 Sustainability reporting
+
+
+                             Information sheets
+
+                             INFO 151 ASIC’s approach to enforcement
+
+
+                             Legislation
+                             Australian Securities and Investments Commission Act 2001, Pt 2, Div 2
+
+                             Corporate Law Economic Reform Program (Audit Reform and Corporate
+                             Disclosure) Bill 2004
+
+                             Corporations Act 2001, Ch 2E; Pt 2M.4, Divs 3 and 5; Pt 5C.4; Pt 7.6, Div
+                             3; Pt 7.8, Div 2, Subdivs A and B, Pt 7.8, Div 3, Pt 7.8, Div 6, Subdivs B
+                             and C; Pt 8B.3, Div 4; s9, 89, 180–184, 201A, 286, 286A, 296, 296A(2),
+                             296B, 296C, 297, 308, 309, 311, 312, 319, 320, 324AF, 324CA–CK, 327B,
+                             331AAA, 331AH, 346C, 588G, 601FC, 601HG, 912D, 981B, 981C, 988A,
+                             988B, 990K, 990L, 1017BB, 1222J(1), 1224D(2)(g), 1226G, 1226H, 1289
+                             and Sch 3
+
+                             Corporations Regulations 2001, reg 7.6.04, 7.8.01 and 7.8.02
+
+                             Explanatory Memorandum to the Corporate Law Economic Reform Program
+                             (Audit Reform and Corporate Disclosure) Bill 2004
+
+                             Life Insurance Act 1995, s88
+
+                             National Consumer Credit Protection Act 2009, Pt 2–2, Div 5; Pt 2–5,
+                             Divs 2 and 3; s16, 49(3), 50A, 100(2), 104 and 105
+
+                             National Consumer Credit Protection Regulations 2010, regs 9, 9AA, 9AB
+                             and 9A
+
+                             Superannuation Industry (Supervision) Act 1993, s130BA and130BAA
+
+
+
+© Australian Securities and Investments Commission September 2025                                           Page 30
+

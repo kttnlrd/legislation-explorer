@@ -1,0 +1,23 @@
+{
+  "citation": "RG 85",
+  "title": "Reporting requirements for non-reporting entities",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide provides guidance on the application of the reporting entity test and the reporting obligations for non-reporting entities under the Corporations Act 2001. It discusses the obligations of directors and auditors to carefully consider whether an entity should be classified as a reporting entity or a non-reporting entity, and when consolidated financial statements must be prepared.",
+  "background": "The guide is issued under the Corporations Act 2001 and addresses the reporting requirements for entities that are not classified as reporting entities but must still prepare financial reports under Chapter 2M. It is intended for directors, auditors, and other stakeholders involved in financial reporting to ensure compliance with accounting standards and the law.",
+  "ruling": "ASIC believes that non-reporting entities required to prepare financial reports under Chapter 2M of the Corporations Act should comply with the recognition and measurement requirements of accounting standards. The guide emphasizes that directors and auditors must carefully assess whether an entity is a reporting entity or a non-reporting entity, and that consolidated financial statements must be prepared when required. ASIC's regulatory approach is to ensure that non-reporting entities apply the same recognition and measurement criteria as reporting entities, even if they are exempt from certain disclosure requirements. The guide also clarifies that the classification as a non-reporting entity does not relieve an entity from preparing financial reports that give a true and fair view.",
+  "date_of_effect": "2022-03",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) Ch 2M",
+    "Corporations Act 2001 (Cth) s 254T",
+    "Corporations Act 2001 (Cth) s 295(4)(d)",
+    "Corporations Act 2001 (Cth) s 296",
+    "Corporations Act 2001 (Cth) s 297",
+    "Corporations Act 2001 (Cth) s 307",
+    "Corporations Act 2001 (Cth) s 1308"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "ASIC Corporations (Non-Reporting Entities) Instrument 2015/841"
+  ]
+}

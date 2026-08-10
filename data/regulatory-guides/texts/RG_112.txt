@@ -1,0 +1,1123 @@
+REGULATORY GUIDE 112
+
+Independence of experts
+March 2011
+
+
+
+
+About this guide
+This is a guide for experts and any person who commissions, issues or uses
+an expert report.
+
+It explains how ASIC interprets the requirement that an expert is independent
+of the party that commissions the expert report (commissioning party) and
+other interested parties.
+
+    Note: In this guide, a reference to expert means the person or entity that issues the report.
+    In most cases, this will be a corporate entity holding an Australian financial services
+    licence, even though a senior director or employee may sign the report in the name of the
+    corporate entity and be principally responsible for preparing the report.
+                                                                  REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This version was issued on 30 March 2011 and is based on legislation and
+                             regulations as at 30 March 2011. The reference to the relief instrument in
+                             RG 112.37 was updated in August 2015 because this instrument was
+                             reviewed as part of the sunsetting of legislative instruments under the
+                             Legislative Instruments Act 2003. In December 2025 we inserted the Note
+                             on the cover page, simplified language in RG 112.7 and RG 112.12, inserted
+                             a sub-heading before RG 112.36 and made further minor updates to reflect
+                             current style and drafting practices.
+
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 112, issued 30 October 2007.
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                            Page 1
+                                                                              REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+Contents
+
+                             A      Overview ........................................................................................... 3
+                                    Reports covered by this guide ........................................................... 3
+                                    Underlying principles ......................................................................... 4
+                             B      Expert needs to be independent .................................................... 5
+                                    Independence .................................................................................... 5
+                                    Genuine opinion ................................................................................. 6
+                             C      Relationship between the expert and the commissioning party 8
+                                    Identifying relationships ..................................................................... 8
+                                    Declining the engagement ................................................................. 9
+                                    Disclosing relationships and interests ............................................. 10
+                                    Other measures ............................................................................... 11
+                                    Commissioning an expert ................................................................ 11
+                             D      Expert’s conduct in preparing its report ..................................... 13
+                                    Interactions with commissioning party ............................................. 13
+                                    Preparing the report ......................................................................... 15
+                             E      Use of specialists .......................................................................... 19
+                                    Engagement of specialists ............................................................... 19
+                                    Review of specialist report ............................................................... 20
+                                    Use of specialist report .................................................................... 20
+                             Key terms ............................................................................................... 22
+                             Related information ............................................................................... 23
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                                         Page 2
+                                                                       REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               This guide gives ASIC’s view on:
+
+                               •   the need for an expert to be independent (see Section B);
+
+                               •   how previous and existing relationships with commissioning and other
+                                   interested parties may affect the independence of an expert (see
+                                   Section C);
+
+                               •   how an expert should deal with the commissioning party and other
+                                   interested parties to maintain its independence (see Section D); and
+
+                               •   when and how an expert should use a specialist when preparing an
+                                   expert report (see Section E).
+
+
+
+Reports covered by this guide
+              RG 112.1       This guide focuses on reports prepared for transactions under Chs 2E, 5, 6
+                             and 6A of the Corporations Act 2001 (Corporations Act), whether the
+                             reports are required in the Corporations Act or are commissioned voluntarily.
+                             The principles in this guide may also be relevant to independent expert reports
+                             commissioned for other purposes—for example, specialist reports like
+                             geologist reports or traffic forecast reports (see Section E) for inclusion in
+                             Ch 6D disclosure documents and Ch 7 Product Disclosure Statements (PDSs).
+
+                                   Note: In this guide, references to sections (s), chapters (Ch), divisions (Div) and parts
+                                   (Pt) are to the Corporations Act, unless otherwise specified. References to regulations
+                                   (reg) are to the Corporations Regulations 2001 (Corporations Regulations), unless
+                                   otherwise specified.
+
+              RG 112.2       We consider that security holders regard an expert report as being prepared
+                             by an independent expert irrespective of whether the report has been
+                             prepared voluntarily or because it is required under statute.
+
+              RG 112.3       This approach is consistent with the obligations on the holder of an
+                             Australian financial services licence (AFS licensee) to manage conflicts of
+                             interest. An AFS licensee’s obligation to manage conflicts of interest applies
+                             to all of its activities as an AFS licensee and, as such, an expert who holds an
+                             AFS licence needs to manage conflicts of interest for all expert reports it
+                             prepares.
+
+              RG 112.4       This guide does not apply to independent or investigating accountant reports.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                          Page 3
+                                                                  REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+Underlying principles
+              RG 112.5       An expert report that is biased frustrates informed decision-making. Security
+                             holders will assume that an expert report is an independent opinion and will
+                             be misled if the opinion is not.
+
+              RG 112.6       Brooking J described the role of an expert in Phosphate Co-operative v
+                             Shears (No 3) (1988) 14 ACLR 323 (Pivot) at 339 in the following terms:
+                                   Those who prepare experts’ reports in company cases carry a heavy moral
+                                   responsibility, whatever their legal duties may be. These reports are either
+                                   required by the [Corporations Act] or provided by way of analogy with
+                                   those requirements. In either case, they are supposed to be for the
+                                   protection of individuals who are being invited to enter into some kind of
+                                   transaction. Unless high [independence] standards are observed by those
+                                   who prepare these reports, there is a danger that systems established for the
+                                   protection of the investing public will, in fact, operate to their detriment
+                                   through reliance on these reports and on the reputations of those who
+                                   furnish them. In lending his name, the expert will often, as in this case, be
+                                   lending a name to conjure with … The expert’s integrity and freedom from
+                                   baneful influences are essential.
+
+              RG 112.7        To be independent, an expert:
+                             (a)   must not be associated with certain interested parties and must disclose
+                                   certain interests and relationships when preparing reports required by
+                                   the Corporations Act for:
+                                   (i)     a takeover bid under Ch 6 (s648A);
+                                   (ii)    a scheme of arrangement (reg 5.1.01 and Sch 8, cls 8303 and 8306
+                                           of the Corporations Regulations); and
+                                   (iii)   a compulsory acquisition or buy-out under Ch 6A (s667B); and
+                             (b)   in the case of an AFS licensee, must establish and maintain systems to
+                                   comply with its obligations to manage conflicts of interest.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                             Page 4
+                                                                      REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+B          Expert needs to be independent
+
+                               Key points
+
+                               An expert should be, and should appear to be, independent: see
+                               RG 112.8–RG 112.15.
+
+                               An expert should give an opinion that is genuinely its own opinion: see
+                               RG 112.16–RG 112.20.
+
+
+
+
+Independence
+              RG 112.8       The Corporations Act contains indicators that an expert must be, and must
+                             appear to be, independent in the provisions requiring an expert report for
+                             certain takeover bids, schemes of arrangement, for any compulsory
+                             acquisition and in the AFS licensee conflicts management provisions.
+
+              RG 112.9       The need for an expert to be, and to appear to be, independent is also
+                             indicated in case law establishing that the independence of an expert is
+                             critical for the protection of security holders. Mullighan J observed in Duke
+                             Group v Pilmer (1998) 27 ACSR 1 at 268:
+                                   It may be seen that a true state of independence on the part of the expert is
+                                   crucial to the efficacy of the [takeover] process and for the protection of the
+                                   public generally and the company and its members in particular.
+
+              RG 112.10      We will consider regulatory action if we have concerns about the
+                             independence of an expert: see Section E of Regulatory Guide 111 Content
+                             of expert reports (RG 111).
+
+                                   Note: In addition to the term ‘independence’, language also used by the courts, our
+                                   policies and commentators include: ‘impartial judgment’; ‘disinterested’; ‘objective’;
+                                   ‘unbiased’; ‘genuine expression of opinion’; ‘integrity’ and, negatively: ‘conflict of
+                                   interest’; ‘compromised’; ‘collusion’ and ‘acting in a partisan capacity’.
+
+
+                             AFS licensee obligations to manage conflicts
+
+              RG 112.11      An expert report typically includes a statement of opinion or recommendation
+                             intended to influence investors in making a decision on a financial product:
+                             see s766B(1). This means the expert report usually constitutes financial
+                             product advice, triggering the need for an AFS licence: see s766A and
+                             911A(1). Accordingly, in most cases, an expert who prepares an independent
+                             expert report that will be made available to retail investors will hold an AFS
+                             licence.
+
+              RG 112.12      An AFS licensee must have in place adequate arrangements for the
+                             management of conflicts of interest that may arise wholly, or partially, in
+
+
+
+© Australian Securities and Investments Commission March 2011                                                        Page 5
+                                                                REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+                             relation to activities undertaken in the provision of financial services as part
+                             of the financial services business of the licensee or the representative: see
+                             s912A(1)(aa).
+
+              RG 112.13      This conflicts management obligation applies irrespective of:
+                             (a)   whether the expert states that it is independent of the commissioning party;
+                             (b)   any requirement that the expert not be an associate of the commissioning
+                                   party or any other interested party to a transaction (e.g. s648A); or
+                             (c)   whether the expert report has been prepared to meet a statutory obligation.
+
+              RG 112.14      Whether an expert’s conflicts management arrangements (i.e. measures,
+                             processes, and procedures) are adequate will depend on the nature, scale and
+                             complexity of the expert’s business and the circumstances of the expert’s
+                             engagement. The expert should document its conflicts management policies
+                             and procedures. The expert should keep records demonstrating how it has
+                             complied with those procedures. General guidance on these obligations is
+                             provided in Regulatory Guide 181 AFS Licensing: Managing conflicts of
+                             interest (RG 181).
+
+              RG 112.15      Certain expert reports are exempt from the licensing regime when the advice
+                             is an opinion on matters other than financial products (e.g. a geologist
+                             report) and:
+                             (a)   it does not include advice on a financial product;
+                             (b)   the document includes a statement that the person is not operating under
+                                   an AFS licence when giving the advice; and
+                             (c)   the expert discloses remuneration, interests and relationships: see reg
+                                   7.6.01(1)(u).
+
+
+
+Genuine opinion
+              RG 112.16      The opinion of an expert must be genuine and a product of the expert’s
+                             professional judgment. An expert’s opinion that is tailored to support the
+                             views of the commissioning party or any other interested party is not a
+                             genuine opinion. It may also be misleading or deceptive.
+
+              RG 112.17      A court found that a commissioning party’s active role in shaping an expert
+                             report meant that the expert report was not the product of ‘an exercise of
+                             judgment’ by the expert ‘uninfluenced by pressure brought to bear by or on
+                             behalf of [the commissioning party]’ and was not ‘a genuine expression of
+                             opinion … but was the result of an exercise carried out for the purpose of
+                             arriving at a desired result’: see Phosphate Co-operative v Shears (No 3)
+                             (1988) 14 ACLR 323 (Pivot) at 340 and 342 per Brooking J.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                           Page 6
+                                                                REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+              RG 112.18      An expert is subject to statutory obligations to avoid making misleading or
+                             deceptive statements and engaging in misleading or deceptive conduct: see,
+                             for example, s412(8), 670A(1)(h), 1041E, 1014F and 1041H of the
+                             Corporations Act, and s12DA of the Australian Securities and Investments
+                             Commission Act 2001.
+
+              RG 112.19      An expert has been found to have engaged in misleading or deceptive
+                             conduct when the expert did not hold the opinions expressed in the expert
+                             report: see MGICA v Kenny & Good (1996) 140 ALR 313 at 356–357 (a
+                             case involving a property valuation).
+
+              RG 112.20      Similarly, in Reiffel v ACN 075 839 226 (2003) 45 ACSR 67 at 92–93, the
+                             court held that the expert report was misleading and deceptive in
+                             circumstances when ‘there was no reasonable basis for the [expert’s]
+                             statement in the report’ and the expert ‘did not hold the opinion it
+                             expressed’. The court held that the expert should have disclosed that it
+                             disagreed with the methodology used by a promoter in its forecasts and
+                             disclosed the methodology that the expert in fact used.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                          Page 7
+                                                                REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+C          Relationship between the expert and the
+           commissioning party
+
+                               Key points
+
+                               An expert should identify relationships and interests that may affect, or may
+                               be perceived to affect, the expert’s ability to prepare an independent report:
+                               see RG 112.21–RG 112.24.
+                               The expert should then consider whether, on the basis of that relationship
+                               or interest:
+                               • it should decline the engagement (see RG 112.25–RG 112.27); or
+                               • the relationship or interest can be adequately dealt with by way of
+                                 disclosure in the expert report (see RG 112.28–RG 112.1).
+                               The expert may also need to take other actions to manage a conflict of
+                               interest: see RG 112.38.
+                               Before engaging an expert, a commissioning party should be satisfied that
+                               the expert is independent and has sufficient expertise and resources to
+                               provide a thorough report: see RG 112.39–RG 112.41.
+
+
+Identifying relationships
+              RG 112.21      Previous and existing relationships may threaten, or appear to threaten, the
+                             independence of an expert. The objectivity of an expert may also be
+                             compromised, or called into question, if the expert has an interest in the
+                             outcome of the transaction that is the subject of its report.
+
+              RG 112.22      The closer the relationship between the expert and a commissioning party or
+                             any other interested party, the greater the onus on the expert to demonstrate
+                             the absence of bias.
+
+              RG 112.23      In identifying relationships and interests that may affect, or may be perceived to
+                             affect, the expert’s ability to prepare an independent report, the expert should
+                             not only identify relationships with, and interests of, the expert but also of:
+                             (a)   the expert’s associates;
+                             (b)   those directors and senior employees who are principally responsible
+                                   for preparing and issuing the expert report; and
+                             (c)   the spouse, children and associates of the directors and senior employees
+                                   who are principally responsible for preparing and issuing the expert report.
+
+              RG 112.24      The need to undertake this identification process also arises from the
+                             obligation to manage conflicts of interest if the expert is an AFS licensee.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                          Page 8
+                                                                 REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+Declining the engagement
+              RG 112.25      An expert should seriously consider declining an engagement when:
+                             (a)   a person to be involved in preparing the expert report is an officer of the
+                                   commissioning party or an interested party;
+                             (b)   the expert, a director or a senior employee who is involved in preparing
+                                   the expert report has a substantial interest in or is a substantial creditor
+                                   of the commissioning party or has other material financial interests in
+                                   the relevant transaction;
+                             (c)   the expert has participated in strategic planning work for the
+                                   commissioning party as a lawyer, financial consultant, tax adviser or
+                                   accountant, whether in connection with the relevant transaction or
+                                   generally (e.g. advising on possible takeovers or takeover defences); or
+                             (d)   the expert has acted as a lawyer, financial consultant, tax adviser or
+                                   accountant to the commissioning party (other than providing
+                                   professional services strictly for compliance purposes rather than
+                                   strategic or operational decisions or planning).
+
+              RG 112.26      The Corporations Act specifically states that an expert must decline an
+                             engagement for the preparation of an expert report in each of the following
+                             circumstances:
+                             (a)   when the report is to be cited or included in a target statement if the
+                                   expert is an associate of the bidder or the target and the bidder has 30%
+                                   or more of the voting power in the target entity or there are common
+                                   directors of the target and the bidder (s640 and 648A(2));
+                             (b)   when the report is to be cited or included in a bidder’s statement if the
+                                   expert is an associate of the bidder or the target and the consideration
+                                   for a pre-bid stake acquired in a target was unquoted securities
+                                   (s636(1)(h)(iii), 636(2) and 648A(2));
+                             (c)   when the report is to be cited or included in the explanatory statement
+                                   for a scheme of arrangement if the expert is an associate of the parties
+                                   to the scheme if the other party to a reconstruction in a scheme of
+                                   arrangement has at least 30% of the voting shares of the scheme
+                                   company or there are common directors (reg 5.1.01(b) and Sch 8, cls
+                                   8303 and 8306 of the Corporations Regulations); and
+                             (d)   if the expert is an associate of the person issuing a compulsory
+                                   acquisition or buy-out notice (s663B, 664C, 665B and 667B).
+
+              RG 112.27      An expert’s AFS licensee obligations to manage conflicts of interest may
+                             oblige an expert to decline engagements in some circumstances. Licensee
+                             experts may be offered an engagement in which relationships and interests
+                             pose such a serious risk of conflict of interest that the threat to the expert’s
+                             independence cannot be adequately managed through disclosure or internal
+                             controls. The only way an expert can adequately manage these threats is to
+
+
+
+© Australian Securities and Investments Commission March 2011                                            Page 9
+                                                                      REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+                             avoid them and the expert’s conflicts management policies and procedures
+                             should give specific guidance on circumstances when it should decline
+                             engagements.
+
+
+Disclosing relationships and interests
+              RG 112.28      As security holders rely on an expert report, they must be clearly informed
+                             about any relationships or interests (including financial or other interests)
+                             that could reasonably be regarded as relevant to the independence of the
+                             expert. This requirement arises from the Corporations Act and case law: see
+                             ANZ Nominees v Wormald International Ltd (1988) 13 ACLR 698 at 707.
+
+              RG 112.29      Disclosure of relationships or interests is required under the Corporations
+                             Act for an expert report when the report is included in:
+                             (a)   a target statement, when the bidder has 30% or more of the voting
+                                   power in the target entity or there are common directors of the target
+                                   and the bidder (s648A(3));
+                             (b)   a bidder’s statement, when the consideration for a pre-bid stake
+                                   acquired in a target is unquoted securities (s648A(3)); and
+                             (c)   a compulsory acquisition or buy-out notice (s667B(2)).
+
+              RG 112.30      Similarly, if they are an AFS licensee, an expert needs to make appropriate
+                             disclosure of conflicts of interest to commissioning parties and to those
+                             relying on the report as part of the conflicts management obligation. This is
+                             an aspect of their general obligation to have adequate arrangements for the
+                             management of conflicts of interests: see s912A(1)(aa).
+
+
+                             Content of disclosure
+
+              RG 112.31      An expert must disclose in the report:
+                             (a)   the business or professional relationships with a commissioning party or
+                                   any other interested party;
+                             (b)   any financial or other interest that could reasonably be regarded as
+                                   capable of affecting the expert’s ability to give an unbiased opinion on
+                                   the matter being reported on; and
+                             (c)   any fee or benefit (whether direct or indirect) to be received in
+                                   connection with the report: see s648A(3) and 667B(2).
+
+              RG 112.32      If an expert has, within the previous two years, valued assets representing
+                             more than a de minimis (i.e. trivial) proportion by value of the assets that it
+                             has been engaged to value for the commissioning party, this should also be
+                             prominently disclosed in the report.
+
+                                   Note: Disclosure is also required if the expert was previously engaged to value the
+                                   relevant assets by the commissioning party or any other interested party.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                       Page 10
+                                                                REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+              RG 112.33      These disclosures should be made in all expert reports irrespective of
+                             whether the report is required to be prepared by the Corporations Act or is
+                             voluntarily commissioned and supplied to security holders.
+
+              RG 112.34      These disclosures should relate to relationships or interests existing at the
+                             time of preparation of the report or existing in the previous two years. This
+                             two-year period is a minimum period for disclosure and earlier relationships
+                             might be so significant that they warrant disclosure as well.
+
+              RG 112.35      Disclosures should be timely, prominent, specific and meaningful. An expert
+                             should not use ‘boilerplate’ disclosures (e.g. that the expert has been paid ‘a
+                             normal professional rate’). An actual amount should be shown for fees paid
+                             to an expert for the report.
+
+                             Other disclosure requirements
+
+              RG 112.36      When an expert report is cited or included in a bidder’s statement in which
+                             any securities in the bidder (or a person who controls the bidder) are offered
+                             as consideration under the bid, these disclosures must also meet the specific
+                             disclosure obligations that apply to prospectuses under s711(2)–(4),
+                             including:
+                             (a) any interests that the expert has in the bidder; and
+                             (b) any fees or benefits given or agreed for the expert’s services (s636(1)(g)).
+
+              RG 112.37      As an expert report will usually constitute financial services advice, an
+                             expert will need to give retail investors a Financial Services Guide (FSG).
+                             We have given relief to allow an expert to include an FSG as a separate and
+                             clearly identifiable part of an expert report: see ASIC Corporations
+                             (Financial Services Guide, General Advice Warning and Advertising Related
+                             Relief) Instrument 2025/234. In view of this relief, we consider that an
+                             expert should include all of its disclosure of interests and benefits, whether
+                             flowing from the FSG requirements, conflicts management, s648A or case
+                             law, in the FSG rather than duplicating that disclosure in another part of the
+                             expert report.
+
+
+Other measures
+              RG 112.38      In addition to disclosing any conflict of interest, an expert will need to
+                             consider whether other measures to properly manage the conflict of interest
+                             are appropriate (e.g. implementing information barriers).
+
+
+
+Commissioning an expert
+              RG 112.39      In commissioning an expert, a commissioning party should consider whether
+                             the expert is independent and whether the expert has sufficient expertise and
+
+
+
+© Australian Securities and Investments Commission March 2011                                         Page 11
+                                                                REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+                             resources to give a thorough opinion on the proposed transaction. The
+                             quality of an expert report may be affected if this is not the case. If an expert
+                             considers that it is not independent or does not have sufficient expertise or
+                             resources to give a thorough opinion, it should decline the engagement.
+
+              RG 112.40      In selecting an appropriate expert, we consider that relevant factors are likely
+                             to include:
+                             (a)   whether the expert has adequate resources (which may include access to
+                                   appropriate third-party specialists) to perform the necessary work;
+                             (b)   the qualifications of the expert and whether the expert has the requisite
+                                   level of technical expertise (including whether the expert meets the
+                                   requirements of any relevant industry codes);
+                             (c)   the experience of the expert. For example, a commissioning party may
+                                   ask what comparable transactions the expert has given an opinion on
+                                   and whether that experience is relevant to the current transaction;
+                             (d)   whether the expert can meet the timeframe required for the report to be
+                                   produced; and
+                             (e)   whether there are any independence issues.
+
+              RG 112.41      While a commissioning party should satisfy itself that an expert is
+                             competent, it should ensure that any pre-engagement discussions do not
+                             compromise the expert’s independence. For example, these discussions
+                             should not deal with how the expert proposes to evaluate the transaction or
+                             the merits of the transaction: see RG 112.46–RG 112.48.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                          Page 12
+                                                                  REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+D          Expert’s conduct in preparing its report
+
+                               Key points
+
+                               An expert should:
+                               • obtain written terms of engagement from the commissioning party
+                                 before commencing work;
+                               • take care to avoid any communication with the commissioning party or
+                                 any other interested party that may undermine, or appear to undermine,
+                                 independence; and
+                               • consent to the use or incorporation of its report.
+
+                               Commissioning parties should be careful not to release the conclusions of
+                               an expert report in advance of the final report.
+
+
+
+
+Interactions with commissioning party
+                             Terms of engagement
+
+              RG 112.42      Before commencing work, an expert should obtain written terms of
+                             engagement from the commissioning party that:
+                             (a)   set out the scope and purpose of the report;
+                             (b)   set out the facts of the proposal and relevant data;
+                             (c)   recognise the expert’s right to refuse to give an opinion or report at all if it is
+                                   not given the information and explanations it requires to prepare the report;
+                             (d)   give the expert the same access to the commissioning party’s records as
+                                   the auditor of the commissioning party; and
+                             (e)   set out the fee.
+
+
+                             Approval of appointment
+              RG 112.43      It is possible that some directors of a commissioning party may have a
+                             conflict of interest in the proposed transaction, such as cross-directorships
+                             held in the target and the bidder. In these circumstances, the expert and
+                             commissioning party should ensure that the directors without a conflict
+                             select and engage the expert.
+
+              RG 112.44      The commissioning party should ensure that the method by which an expert
+                             is appointed, and the scope of its engagement, is consistent with the concepts
+                             of independence and perceived independence of the expert. For example, it
+                             may be appropriate to have a non-executive director oversee the appointment
+                             process if management is likely to be perceived to have a strong interest in
+                             the outcome of the expert report.
+
+
+
+© Australian Securities and Investments Commission March 2011                                             Page 13
+                                                                 REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+                             Expert’s fee
+
+              RG 112.45      We will consider that an expert is not independent if the amount it is to receive
+                             for the expert report depends in any way on the outcome of the transaction to
+                             which the report relates. This is consistent with the requirement that a person
+                             who provides financial services must not hold itself out as ‘independent’,
+                             ‘impartial’ or ‘unbiased’ if it is paid success fees or has a conflict of interest
+                             arising from a relationship with an issuer of financial products that might
+                             reasonably be expected to influence the report: see s923A.
+
+
+                             Manner of communication
+
+              RG 112.46      Ensuring security holders receive an objective expression of opinion in an
+                             expert report involves more than identifying and dealing with previous or
+                             existing relationships or interests. An expert’s objectivity, or the appearance
+                             of objectivity, may be undermined by the interactions between the expert
+                             and the commissioning and other interested parties.
+
+              RG 112.47      We are likely to view the following interactions as indicators of a lack of
+                             independence:
+                             (a)   the commissioning party having rejected another expert after the expert
+                                   disclosed its likely approach to evaluating the proposal;
+                             (b)   an expert attending discussions on the development of the transaction,
+                                   the merits of the transaction or on strategies to be adopted by the
+                                   commissioning party;
+                             (c)   an expert taking instructions from, or holding discussions with, a
+                                   commissioning party, its advisers or any interested party on the choice of
+                                   methodologies for the report or evaluation of the transaction (including the
+                                   underlying assumptions or reasoning), although the expert may interrogate
+                                   those parties for the purpose of the expert’s own analysis;
+                             (d)   an expert accepting from a commissioning party, its advisers or any
+                                   interested party their analysis of the transaction, although the expert may
+                                   interrogate those parties for the purpose of the expert’s own analysis;
+                             (e)   the expert discussing preliminary views or findings with the
+                                   commissioning party or any other interested party;
+                             (f)   the expert entering into a success fee arrangement with the
+                                   commissioning party or any other interested party;
+                             (g)   the expert discussing future business relationships with the
+                                   commissioning party or any other interested party before finalising the
+                                   report. This includes refraining from cross-selling other services of the
+                                   expert; and
+                             (h)   the expert changing its opinion at the suggestion of the commissioning
+                                   party or any other interested party without adequate explanation: see
+                                   RG 112.56–RG 112.57.
+
+
+© Australian Securities and Investments Commission March 2011                                          Page 14
+                                                                 REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+              RG 112.48      We expect that an expert who is an AFS licensee will include in its internal
+                             policies and procedures guidelines to address:
+                             (a)   communications and interactions with the commissioning party and any
+                                   other interested party during the commissioning of the expert and the
+                                   preparation of the report;
+                             (b)   remuneration arrangements; and
+                             (c)   supervision of the preparation of the report.
+
+
+Preparing the report
+                             Access to information
+              RG 112.49      The expert, not the commissioning party, should determine what information
+                             will be required for the report. The commissioning party should give the
+                             expert all the information it is aware of about the subject of the expert report,
+                             in sufficient detail to enable the expert to determine its relevance.
+
+              RG 112.50      If the expert is not given access to the records it requires, or is given an
+                             unduly short time to complete the report (relative to any applicable statutory
+                             time constraints), it should consider refusing to prepare a report at all. An
+                             expert should not prepare an unsatisfactory report and attempt to deal with
+                             deficiencies in the report by disclaiming responsibility.
+
+
+                             Communication
+
+              RG 112.51      An expert and its commissioning party may communicate and meet with
+                             each other during the preparation of the expert report for the expert to:
+                             (a)   discuss the progress of the report;
+                             (b)   gain access to information;
+                             (c)   ascertain matters of fact or to correct factual errors (Re Matine (1998)
+                                   28 ACSR 268 at 288); and
+                             (d)   interrogate the commissioning party or another interested party for the
+                                   purposes of its own analysis.
+
+              RG 112.52      To help maintain independence and negate any inference of bias, we
+                             consider that an expert should direct and lead all meetings and discussions
+                             with the commissioning party, its advisers and any other interested party.
+                             The expert should keep appropriate file notes of discussions and retain
+                             copies of documents worked on in discussions with the commissioning
+                             party, its advisers and any other interested party.
+
+              RG 112.53      Brooking J in Pivot at 339 summarised this issue in the following terms:
+                                   The guiding principle must be that care should be taken to avoid any
+                                   communication which may undermine, or appear to undermine, the
+                                   independence of the expert.
+
+
+
+© Australian Securities and Investments Commission March 2011                                             Page 15
+                                                                REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+                             Drafts of reports
+
+              RG 112.54      An expert may give draft copies of parts of its report to a commissioning
+                             party or its advisers for factual checking before delivery of a full draft copy
+                             of the report. These early drafts should not contain the expert’s analysis of
+                             the transaction, the merits of a transaction or the methodologies employed.
+
+              RG 112.55      The expert should only provide a full draft copy of the report to the
+                             commissioning party for factual checking when the expert is reasonably
+                             assured that the conclusions in the report are unlikely to change.
+
+              RG 112.56      If a commissioning party or an adviser disagrees with the expert’s analysis in
+                             a draft of the expert report, the report should only be altered if the expert is
+                             persuaded that all or part of the expert’s assessment is based on an error of
+                             fact. We would expect an expert, in this situation, to independently reassess
+                             the whole or relevant part of the report based on its view of the revised facts.
+
+              RG 112.57      After a full draft copy of an expert report has been provided to a
+                             commissioning party or its advisers, any alteration of the report made at the
+                             suggestion of the commissioning party or its advisers that affects an expert’s
+                             analysis of the transaction or the expert’s conclusions should be clearly and
+                             prominently disclosed in the report. This disclosure should include an
+                             explanation of the changes, the reasons why the expert considered the
+                             changes appropriate and the significance of the changes to the expert’s
+                             opinion.
+
+              RG 112.58      Minor factual corrections made at the suggestion of the commissioning party
+                             or its advisers that are immaterial to an expert’s analysis, conclusions or
+                             opinion need not be disclosed in the report.
+
+
+                             Use and distribution
+
+              RG 112.59      If a party commissions two or more reports, a copy of each report should be
+                             sent to security holders. This should be done regardless of whether more
+                             than one report is prepared by the same expert or by different experts. It
+                             should also be done regardless of whether the commissioning party is
+                             obliged to do so under s648A(1).
+
+              RG 112.60      An expert should deliver its final, signed report to the commissioning party
+                             even if the commissioning party requests otherwise (unless the transaction is
+                             discontinued or varied substantially).
+
+              RG 112.61      The directors of a commissioning party should not adopt or recommend that
+                             security holders accept the findings of an expert report without critically
+                             analysing the report. The directors should satisfy themselves that the
+                             information relied on in the report is accurate and that the report has not omitted
+                             material information known to the directors but not given to the expert.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                          Page 16
+                                                                       REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+                             Release of conclusions of expert reports
+              RG 112.62      An expert report needs to contain sufficient information to assist security
+                             holders to make a decision, including providing details of the methodologies
+                             and material assumptions on which the report is based, together with any
+                             qualifications: see Regulatory Guide 111 Content of expert reports
+                             (RG 111). The directors of a commissioning party need to ensure that an
+                             expert report is not used or referred to in a way that may be misleading or
+                             deceptive.
+
+              RG 112.63      If a commissioning party releases the conclusions of an expert report in advance
+                             of the final report, this is likely to be misleading or deceptive, particularly if the
+                             final report contains any ‘surprises’ for a person who has only read the
+                             conclusions. Releasing conclusions without providing relevant supporting
+                             information may cause confusion or uncertainty since security holders and the
+                             market will not be able to determine whether those conclusions are reasonable.
+                                   Note: In Re Origin Energy Limited 02 [2008] ATP 23, the Takeovers Panel considered
+                                   that it was potentially misleading to quote the conclusions of a technical expert’s report
+                                   in a target’s statement without giving shareholders a copy of the report or the
+                                   underlying assumptions and qualifications.
+
+              RG 112.64      Consequently, a commissioning party that releases the conclusions of an
+                             expert report in advance of the final report risks regulatory action for
+                             contravention of the misleading or deceptive conduct provisions or other
+                             regulatory action. For example, if a report is provided in relation to a bid, the
+                             commissioning party risks an application by us, or another party, to the
+                             Takeovers Panel for a declaration of unacceptable circumstances.
+
+              RG 112.65      There may be limited situations in which a commissioning party’s continuous
+                             disclosure obligations will require disclosure of the conclusions of an expert
+                             report in advance of the final report (e.g. if confidentiality has been lost before the
+                             final report is ready for release to the market). Commissioning parties and experts
+                             should put in place processes that minimise the risk that preliminary disclosure
+                             will be required before the report has been finalised. If preliminary disclosure is
+                             required, commissioning parties should ensure that this is done in a way that is not
+                             misleading or confusing (e.g. by highlighting the limitations of the preliminary
+                             disclosure and providing all available material information about the report).
+
+                             Consent of expert
+              RG 112.66      An expert report may only be incorporated or referred to in a bidder’s statement
+                             or target statement if the expert has consented to the use of the report in the
+                             form and context in which it appears: see s636(3) and 638(5). Before
+                             consenting, the expert should consider whether the report has been accurately
+                             reproduced and used for the purpose for which it was commissioned. The expert
+                             should also consider the appropriateness, or otherwise, of express or implied
+                             representations about its report, and the conclusions or recommendations: see
+                             Regulatory Guide 55 Statements in disclosure documents and PDSs: Consent to
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                        Page 17
+                                                                REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+                             quote (RG 55), which also applies to the consent obligations in s636(3) and
+                             638(5).
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                         Page 18
+                                                                     REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+E          Use of specialists
+
+                               Key points
+
+                               If an expert does not have the necessary specialist expertise on a matter
+                               that must be determined for the purposes of the report, it should retain an
+                               appropriate specialist for that matter who is independent of the
+                               commissioning party: see RG 112.67–RG 112.70.
+
+                               The specialist should report to the expert rather than the commissioning
+                               party: see RG 112.71–RG 112.72.
+
+                               The expert should ensure that the specialist has consented to the use of its
+                               report: see RG 112.73–RG 112.77.
+
+
+Engagement of specialists
+              RG 112.67      It is the expert’s responsibility to:
+                             (a)   determine that a specialist’s assistance is required on a matter that must
+                                   be determined for the purposes of the report;
+                             (b)   select the specialist and ensure that the specialist is competent in the
+                                   field;
+                             (c)   negotiate the scope and purpose of the specialist’s work and ensure that
+                                   this is clearly documented in an agreement (though the agreement may
+                                   be with the commissioning party or the expert); and
+                             (d)   be satisfied that the specialist is independent of, and is perceived to be
+                                   independent of, the commissioning party and any other interested party.
+
+              RG 112.68      We consider best practice would be for the expert to pay the specialist its
+                             fees and recover those fees from the commissioning party.
+
+              RG 112.69      We would expect a specialist report to be specifically commissioned and
+                             prepared for the transaction the subject of the expert report. We would also
+                             expect the expert to make it clear to the specialist that the report is being
+                             commissioned for inclusion in the expert report. If the specialist report is not
+                             prepared specifically for the current transaction, this should be clearly explained
+                             to security holders. The Takeovers Panel in Re Great Mines Limited [2004]
+                             ATP 01 expressed the disclosure requirement in the following terms (at [56]):
+                                   Wherever a report is re-used in this way, however, shareholders should be
+                                   advised of the purpose for which the report was prepared. It would be
+                                   inappropriate to re-use a report in this way to satisfy a requirement for an
+                                   independent experts report and in general, it would be misleading to
+                                   describe a report re-used in this way as independent.
+
+              RG 112.70      While these comments were made in the context of an independent expert
+                             report, we consider they are equally applicable to the use of a specialist report.
+
+
+
+© Australian Securities and Investments Commission March 2011                                              Page 19
+                                                                 REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+Review of specialist report
+              RG 112.71      The expert should:
+                             (a)   critically review the specialist report, particularly to consider whether
+                                   the specialist has used assumptions and methodologies which appear to
+                                   be reasonable and has drawn on source data which appears to be
+                                   appropriate in the circumstances;
+                             (b)   have reasonable grounds for believing the specialist report is not false
+                                   or misleading;
+                             (c)   ensure the specialist signs its report and consents to its use in the form
+                                   and context in which it will be published; and
+                             (d)   ensure that the specialist report is used in a way that will not be
+                                   misleading or deceptive.
+
+              RG 112.72      A specialist report commissioned by the expert should be dated close enough
+                             to the date of the expert report to ensure that assumptions applied have not
+                             been overtaken by time or events.
+
+
+
+Use of specialist report
+              RG 112.73      The expert should ensure that the specialist consents to the use of its report in
+                             the form and context in which it will be published. If a specialist does not take
+                             responsibility for, or authorise the use of, its report and the expert considers
+                             that material in the report needs to be included in the expert report, the expert
+                             must accept entire responsibility for the statements as the expert’s own and, as
+                             such, must have reasonable grounds for believing the statements not to be
+                             misleading or deceptive. This is consistent with our approach to directors
+                             assuming responsibility for statements in a prospectus or PDS that are not
+                             attributed to another person: see Section B of RG 55.
+
+              RG 112.74      The expert should exercise its judgment to determine whether to include the
+                             specialist report in full or include a concise or short form version or cite or
+                             extract the specialist report.
+
+              RG 112.75      We encourage an expert to consider whether it is appropriate to have the
+                             specialist prepare a concise or short form specialist report for inclusion in the
+                             expert report with a longer specialist report available on request free of
+                             charge or accessible online.
+
+              RG 112.76      An expert should only quote or cite the specialist’s work in a way that is fair
+                             and representative. Otherwise, the expert risks misleading security holders.
+                             If the full specialist report contains any ‘surprises’ for the security holder
+                             who only reads the short form or concise report, this would indicate the short
+                             form specialist report was misleading.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                            Page 20
+                                                                REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+              RG 112.77      In the situation when an expert has obtained more than one specialist report
+                             on the same matter, we consider that security holders will not be given all
+                             material information if the expert merely supplies abridged results of those
+                             reports, and states, without comment or analysis, the result is the sum of the
+                             values given in each of the specialist reports.
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                         Page 21
+                                                                      REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+Key terms
+
+
+                               Term                      Meaning in this document
+
+                               AFS licence               An Australian financial services licence under s913B of
+                                                         the Corporations Act that authorises a person who carries
+                                                         on a financial services business to provide financial
+                                                         services
+                                                           Note: This is a definition in s9.
+
+                               AFS licensee              A person who holds an AFS licence under s913B of the
+                                                         Corporations Act
+
+                               ASIC                      Australian Securities and Investments Commission
+
+                               associate                 Has the meaning given in s12 of the Corporations Act
+
+                               ASIC Act                  Australian Securities and Investments Commission Act
+                                                         2001
+
+                               bidder                    Has the meaning given in s9 of the Corporations Act
+
+                               Corporations Act          Corporations Act 2001, including regulations made for the
+                                                         purposes of that Act
+
+                               Corporations              Corporations Regulations 2001
+                               Regulations
+
+                               expert                    Has the meaning given in s9 of the Corporations Act
+
+                               FSG                       A Financial Services Guide—a document required by
+                                                         s941A or 941B to be given in accordance with Div 2 of Pt
+                                                         7.7 of the Corporations Act
+                                                           Note: This is a definition contained in s9.
+
+                               PDS                       A Product Disclosure Statement—a document that must
+                                                         be given to a retail client for the offer or issue of a
+                                                         financial product in accordance with Div 2 of Pt 7.9 of the
+                                                         Corporations Act
+                                                           Note: This is a definition in s9.
+
+                               reg 5.1.01 (for           A regulation of the Corporations Regulations (in this
+                               example)                  example numbered 5.1.01)
+
+                               RG 181 (for example)      An ASIC regulatory guide (in this example numbered
+                                                         181)
+
+                               s648A (for example)       A section of the Corporations Act (in this example,
+                                                         numbered 648A), unless otherwise specified
+
+
+
+
+© Australian Securities and Investments Commission March 2011                                                    Page 22
+                                                                REGULATORY GUIDE 112: Independence of experts
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             experts, expert fees, expert reports, independence, genuine opinion,
+                             relationships or interests, declining the engagement, disclosing relationships
+                             or interests, commissioning party, conduct of experts, use of specialists
+
+
+                             Regulatory guides
+
+                             RG 55 Statements in disclosure documents and PDSs: Consent to quote
+
+                             RG 111 Content of expert reports
+
+                             RG 181 AFS Licensing: Managing conflicts of interest
+
+
+                             Legislative instrument
+
+                             ASIC Corporations (Financial Services Guide, General Advice Warning and
+                             Advertising Related Relief) Instrument 2025/234
+
+
+                             Legislation
+
+                             Australian Securities and Investments Commission Act 2001, s12DA
+
+                             Corporations Act 2001, Chs 2E, 5, 6 and 6A; s412(8), 636(1)–(3), 638(5),
+                             640, 648A(1)–(3), 663B, 664C, 665B, 667B, 670A(1)(h), 711, 766A,
+                             766B(1), 911A(1), 912A(1)(aa), 923A, 1041E, 1041F, 1041H
+
+                             Corporations Regulations 2001, regs 5.1.01, 7.6.01(u); Sch 8, cls 8303, 8306
+
+
+                             Cases
+
+                             ANZ Nominees v Wormald International Ltd (1988) 13 ACLR 698
+
+                             Duke Group v Pilmer (1998) 27 ACSR 1
+
+                             Re Great Mines Limited [2004] ATP 01
+
+                             Re Matine (1998) 28 ACSR 268
+
+                             MGICA v Kenny & Good (1996) 140 ALR 313
+
+                             Re Origin Energy Limited 02 [2008] ATP 23
+
+                             Phosphate Co-operative Co of Aust Ltd v Shears & Anor (No 3) (1988) 14
+                             ACLR 323
+
+                             Reiffel v ACN 075 839 226 (2003) 45 ACSR 67
+
+
+© Australian Securities and Investments Commission March 2011                                         Page 23
+

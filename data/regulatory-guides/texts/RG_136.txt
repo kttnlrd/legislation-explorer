@@ -1,0 +1,2045 @@
+REGULATORY GUIDE 136
+
+Funds management:
+Discretionary powers
+
+June 2025
+
+
+
+
+About this guide
+This guide is for operators of registered managed investment schemes
+(registered schemes), corporate collective investment vehicles (CCIVs) and
+passport funds, their service providers and advisers.
+
+It explains our approach to exercising ASIC’s exemption and modification
+powers to grant individual relief from requirements under the Corporations
+Act and, where relevant, the Corporations (Passport) Rules 2018 (Australian
+Passport Rules) for managed investment schemes and Australian passport
+funds.
+
+It also explains:
+    some of the more common situations when we have granted, and when
+     we are likely to grant, relief; and
+    when we will consider managed investment schemes as closely related
+     so that they should be aggregated in determining if some exemptions
+     for small schemes apply.
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in June 2025 and is based on legislation and
+                             regulations as at the date of issue.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 136, issued July 2018
+                                    Superseded Policy Statement 136 Managed investments: Discretionary
+                                     powers and closely related schemes, issued August 1998, reissued
+                                     September 2000, rebadged as a regulatory guide 5 July 2007
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                             Page 2
+                                                          REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+Contents
+                             A      Overview .................................................................................................4
+                                    Purpose of this guide ...............................................................................4
+                                    Our related reports and guidance ............................................................5
+                             B      Our approach to individual relief .........................................................7
+                                    ASIC’s powers to grant relief ...................................................................7
+                                    Our general approach to relief under RG 51 ...........................................8
+                                    Our approach to relief for managed investment schemes and
+                                    Australian passport funds ........................................................................8
+                                    Statutory preconditions for Australian Passport Rules relief .................11
+                             C      Common forms of individual relief ....................................................13
+                                    Compliance plan audits and compliance committees ...........................13
+                                    Stapled securities ..................................................................................18
+                                    Change of responsible entity .................................................................20
+                                    Offers to foreign members in a restructure ............................................24
+                                    Withdrawal arrangements ......................................................................24
+                                    Deregistration of a registered scheme ...................................................32
+                             D      Closely related schemes .....................................................................33
+                                    Section 601ED determination ................................................................33
+                             Key terms .....................................................................................................35
+                             Related information .....................................................................................39
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                                                          Page 3
+                                                      REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               This guide explains our approach to granting individual relief to managed
+                               investment schemes and Australian passport funds.
+
+                               It also explains:
+                               • some of the more common situations when we have granted, and when
+                                 we are likely to grant, relief; and
+                               • when we will consider managed investment schemes as closely related
+                                 so that they should be aggregated in determining if some exemptions for
+                                 small schemes apply.
+
+
+
+
+Purpose of this guide
+              RG 136.1       The creation, operation, termination and offer of interests in managed
+                             investment schemes is regulated under the Corporations Act 2001
+                             (Corporations Act). Australian passport funds are also regulated by the
+                             Corporations (Passport) Rules 2018 (Australian Passport Rules). This guide
+                             explains our approach to granting individual relief from the requirements
+                             under the Corporations Act and the Australian Passport Rules to managed
+                             investment schemes and Australian passport funds.
+
+                                   Note 1: Under s1211(2) of the Corporations Act, the Australian Passport Rules must be
+                                   substantially the same as the Passport Rules set out in Annex 3 to the Memorandum of
+                                   Cooperation on the Establishment and Implementation of the Asia Region Funds
+                                   Passport (Memorandum of Cooperation). The Australian Passport Rules will be taken to
+                                   be substantially the same when they, together with other provisions of the corporations
+                                   legislation made by the responsible Minister, have substantially the same effect as the
+                                   Passport Rules set out in Annex 3 to the Memorandum of Cooperation.
+
+                                   Note 2: In this guide, references to sections (s), chapters (Chs) and parts (Pts) are to the
+                                   Corporations Act, unless otherwise specified.
+
+              RG 136.2       ASIC has discretionary powers under the laws we administer to:
+                             (a)   exempt a person or a class of persons from particular provisions; and
+                             (b)   modify the application of particular provisions to a person or class of
+                                   persons.
+                                   Note: The exemption or modification power may relate to all entities, a specified class
+                                   of entities (which may include operators, custodians and auditors), or a specified class
+                                   of funds or specified funds.
+
+              RG 136.3       Our general approach to relief—that is, how and when we might grant an
+                             exemption from, or modification to, the laws we administer—is set out in
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                                            Page 4
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                             Regulatory Guide 51 Applications for relief (RG 51). RG 51 provides
+                             general guidance on:
+                             (a)    the types of applications for relief that can be made;
+                             (b)    how to submit an application for relief through the ASIC Regulatory
+                                    Portal, and what information we may need from an applicant to
+                                    consider the application;
+                             (c)    our general approach to relief; and
+                             (d)    the different types of relief that may be available.
+
+              RG 136.4       This guide supplements our general policy in RG 51. It is intended to give
+                             greater transparency about how we exercise ASIC’s exemption and modification
+                             powers under the Corporations Act and the Australian Passport Rules for
+                             managed investment schemes and Australian passport funds. This includes:
+                             (a)    some of the factors we may take into account in applying the principles
+                                    under RG 51 when assessing applications for individual relief from the
+                                    provisions in Chs 5C and 8A of the Corporations Act and the Australian
+                                    Passport Rules (see Section B); and
+                             (b)    the common types of individual relief we have granted to registered
+                                    managed investment schemes (registered schemes) (see Section C); and
+                             (c)    when we will consider managed investment schemes as closely related so
+                                    that they should be aggregated in determining if some registration and
+                                    product disclosure exemptions for small schemes apply (see Section D).
+
+
+Our related reports and guidance
+              RG 136.5       We aim to provide a level of transparency about decisions we make when
+                             asked to exercise ASIC’s discretionary powers to grant relief.
+
+              RG 136.6       We have also provided separate guidance on our approach to exercising
+                             ASIC’s discretionary powers to grant relief for specific topics that may be
+                             relevant to managed investment schemes and Australian passport funds.
+                             Table 1 lists some of this guidance and provides a brief explanation of what
+                             is covered in each guide.
+
+Table 1:     Our related guidance on relief
+
+ Guidance                                  Description
+
+ Regulatory Guide 43 Financial             Provides guidance on the relief available from financial reporting
+ reports and audit relief (RG 43)          requirements in the Corporations Act
+
+ Regulatory Guide 49 Employee              Provides guidance on the relief available from the disclosure, Australian
+ incentive schemes (RG 49)                 financial services (AFS) licensing, advertising, hawking, managed
+                                           investment and on-sale provisions in the Corporations Act for an
+                                           employee incentive scheme
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                                    Page 5
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+ Guidance                                  Description
+
+ Regulatory Guide 76 Related party         Provides guidance on the relief available from certain requirements in
+ transactions (RG 76)                      the Corporations Act, as well as guidance to promote better disclosure
+                                           and governance for related party transactions
+
+ Regulatory Guide 80 Managed               Provides guidance on the relief available from the managed investment,
+ investment schemes: Interests not for     AFS licensing, hawking and disclosure provisions of the Corporations
+ money (RG 80)                             Act for managed investment schemes that do not involve raising money
+
+ Regulatory Guide 87 Charitable            Provides guidance on the relief available from the fundraising, managed
+ schemes and school enrolment              investment, debenture and AFS licensing provisions of the Corporations
+ deposits (RG 87)                          Act to charities that wish to raise funds by issuing debentures or
+                                           interests in a managed investment scheme
+
+ Regulatory Guide 91 Horse breeding        Provides guidance on the relief available from the managed investment,
+ schemes and horse racing                  AFS licensing and disclosure provisions of the Corporations Act for
+ syndicates (RG 91)                        certain types of horse breeding schemes and horse racing syndicates
+
+ Regulatory Guide 138 Foreign              Provides guidance on ASIC’s powers and responsibilities as a host
+ passport funds (RG 138)                   regulator under the Asia Region Funds Passport, as well as our
+                                           requirements for notified foreign passport funds and their operators
+                                           seeking to enter, or operating in, Australia
+
+ Regulatory Guide 140 Strata               Provides guidance on the relief available from the managed investment,
+ schemes and management rights             AFS licensing and fundraising provisions of the Corporations Act for
+ schemes (RG 140)                          promoters and operators of management rights schemes and serviced
+                                           strata schemes
+
+ Regulatory Guide 144 Mortgage             Provides guidance on the relief available from certain Ch 5C provisions
+ investment schemes (RG 144)               of the Corporations Act for mortgage investment schemes
+
+ Regulatory Guide 148 Platforms that       Provides guidance on the relief available from the managed investment,
+ are managed investment schemes            fundraising, disclosure and other investor rights requirements in the
+ and nominee and custody services          Corporations Act for operators of investor directed portfolio services
+ (RG 148)                                  (IDPSs) and responsible entities of IDPS-like schemes
+
+ Regulatory Guide 160 Time-sharing         Provides guidance on the relief available from the managed investment
+ schemes (RG 160)                          and AFS licensing provisions of the Corporations Act for certain types of
+                                           time-sharing schemes
+
+ Regulatory Guide 161 Share and            Provides guidance on the relief available from the managed investment,
+ interest sale facilities (RG 161)         AFS licensing and disclosure provisions in the Corporations Act for sale
+                                           facilities and related purchase facilities
+
+ Regulatory Guide 174 Relief for           Provides guidance on the relief available from the financial reporting
+ externally administered companies         provisions of the Corporations Act for registered schemes being wound up
+ and registered schemes being wound
+ up (RG 174)
+
+ Regulatory Guide 195 Group                Provides guidance on the relief available from the managed investment
+ purchasing bodies for insurance and       and AFS licensing provisions of the Corporations Act for group
+ risk products (RG 195)                    purchasing bodies
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                                 Page 6
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+B          Our approach to individual relief
+
+                               Key points
+
+                               This section explains how our general approach under RG 51 applies to
+                               granting individual relief from requirements under the Corporations Act and
+                               the Australian Passport Rules for managed investment schemes and
+                               Australian passport funds.
+
+                               RG 51 remains our primary guidance on our approach to individual relief
+                               applications.
+
+                               This section also explains some of the factors we may take into account in
+                               applying the principles under RG 51 when assessing applications for
+                               individual relief from the provisions in Chs 5C, 8A and 8B of the
+                               Corporations Act and the Australian Passport Rules.
+
+
+
+
+ASIC’s powers to grant relief
+              RG 136.7       ASIC has powers under the Corporations Act to exempt a person or a class
+                             of persons from particular provisions and to modify the application of
+                             particular provisions to a person or class of persons.
+
+              RG 136.8       Some of these powers of exemption or modification apply in relation to
+                             provisions that specifically affect managed investment schemes, corporate
+                             collective investment vehicles (CCIVs) and Australian passport funds only.
+                             These discretionary powers are to grant relief under:
+                             (a)   s601QA from the provisions of Ch 5C (managed investment schemes)
+                                   and from s253LA (special and extraordinary resolutions) as it relates to
+                                   Ch 5C;
+                             (b)   s1243 from certain provisions of Ch 8B (CCIVs);
+                             (c)   s1217 from the provisions of Ch 8A (Australian passport funds); and
+                             (d)   s1217A from the provisions of the Australian Passport Rules
+                                   (Australian passport funds).
+
+              RG 136.9       There are other exemption or modification powers under the Corporations
+                             Act that also apply. These include the discretionary exemption or
+                             modification powers in relation to:
+                             (a)   the AFS licensing provisions (see s926A);
+                             (b)   the financial services disclosure provisions (see s951B);
+                             (c)   the conduct requirements relating to financial products and services (see
+                                   s992B); and
+                             (d)   the financial product disclosure provisions (see s1020F).
+
+
+
+© Australian Securities and Investments Commission June 2025                                             Page 7
+                                                     REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+              RG 136.10      If we grant an exemption or modification, the kind of relief granted, the
+                             extent of relief and the situations when relief applies will depend on what is
+                             appropriate in the circumstances.
+
+
+Our general approach to relief under RG 51
+              RG 136.11      RG 51 provides guidance on the types of applications for relief that can be
+                             made, how to submit applications through the ASIC Regulatory Portal, our
+                             general approach to applications and the types of relief available.
+
+              RG 136.12      Under the general approach set out in RG 51, we will consider and
+                             determine all applications for relief on the basis of the facts, circumstances
+                             and merits of each individual application.
+
+
+Our approach to relief for managed investment schemes and
+Australian passport funds
+              RG 136.13      When applying the general principles under RG 51 in the context of
+                             assessing applications for individual relief from the provisions in Chs 5C and
+                             8A, we may take into account:
+                             (a)   the result of a cost–benefit analysis and the impact of the relief sought
+                                   on affected persons (see RG 136.14–RG 136.16);
+                             (b)   the impact of the relief sought on the regulatory objectives of the
+                                   managed investment regime and the Asia Region Funds Passport
+                                   regime (see RG 136.17–RG 136.21);
+                             (c)   the relevance of any precedents (see RG 136.22);
+                             (d)   the relevance of the nature, scale and complexity of the managed
+                                   investment scheme or Australian passport fund seeking relief, and its
+                                   operator (see RG 136.23); and
+                             (e)   the adequacy of any alternative regulation (see RG 136.24–RG 136.26).
+                                   Note: This list is not exhaustive. Relevant considerations will always depend on the
+                                   applicable facts, circumstances and merits of each individual application. The weight
+                                   given to any particular item or any other relevant consideration will also depend on the
+                                   circumstances.
+
+
+                             Cost–benefit analysis and impact on affected persons
+
+              RG 136.14      When we undertake a cost–benefit analysis, we identify the persons whose
+                             interests may be affected (whether adversely or otherwise) if the relief
+                             sought is granted.
+
+              RG 136.15      We then assess the likely impact of the relief sought on these affected persons.
+                             This involves evaluating the financial impact and ensuring we take into account
+                             all the relevant positive and negative consequences of granting relief.
+
+
+
+© Australian Securities and Investments Commission June 2025                                                         Page 8
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+              RG 136.16      We may consider:
+                             (a)   whether the persons who will be given the relief and others will receive
+                                   any benefits from the exercise of ASIC’s relief powers, and to what
+                                   extent;
+                             (b)   whether strict compliance with the Corporations Act and the Australian
+                                   Passport Rules will be impossible or disproportionately burdensome.
+                                   This also involves identifying the persons bearing the costs; and
+                             (c)   whether the likelihood and extent of detriment to potential clients
+                                   (including retail clients) resulting from the relief sought is minimal. In
+                                   part, this will involve considering whether people acquiring, holding or
+                                   otherwise transacting interests in a managed investment scheme or an
+                                   Australian passport fund will still have the protection intended by
+                                   Parliament if the relief sought is granted.
+
+
+                             Impact on regulatory objectives
+
+              RG 136.17      When we consider the impact on regulatory objectives, we may consider
+                             whether the relief sought promotes or is consistent with:
+                             (a)   the general policy objectives of the Corporations Act; and
+                             (b)   the specific policy objectives underlying the relevant provision(s) of the
+                                   Corporations Act, and, where applicable, the Australian Passport Rules.
+
+              RG 136.18      We will give appropriate weight to the value of promoting international
+                             harmonisation, where relevant.
+
+                             Corporations Act
+
+              RG 136.19      Generally, the Corporations Act is intended to harmonise and raise standards
+                             of conduct.
+
+                             Managed investment schemes
+
+              RG 136.20      Specific regulatory objectives for managed investment schemes include:
+                             (a)   promoting commercial stability and efficiency in capital raising and
+                                   capital formation; and
+                             (b)   providing an appropriate level of regulation that adequately and
+                                   effectively protects the interests of investors.
+
+                             Australian passport funds
+
+              RG 136.21      Specific regulatory objectives for Australian passport funds include:
+                             (a)   facilitating cross-border offerings of passport funds by supporting
+                                   regulatory consistency across participating economies;
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                             Page 9
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                             (b)   providing adequate regulatory standards for the management and
+                                   distribution of passport funds that promote investor protection, and fair,
+                                   efficient and transparent markets;
+                             (c)   providing Australian investors with a greater diversity of investment
+                                   opportunities through the availability of interests in notified foreign
+                                   passport funds; and
+                             (d)   facilitating Australian fund managers seeking to offer their products and
+                                   services in other participating economies.
+
+                             Relevance of any precedents
+
+              RG 136.22      We may consider whether the relief sought involves the same or similar
+                             terms as any relief we have granted in comparable situations. We do so to
+                             promote consistency and predictability in our decision making when
+                             exercising ASIC’s statutory exemption and modification powers to grant
+                             relief.
+
+                                   Note: See Section C for more information on common forms of relief we have granted.
+
+
+                             Nature, scale and complexity of the applicant and fund
+
+              RG 136.23      We may also assess whether the relief sought is appropriate and necessary
+                             by considering the nature, scale and complexity of the applicant’s business
+                             operations. This includes the scope of the relief and any applicable
+                             conditions. At a minimum, we are likely to take into account:
+                             (a)   the number of managed investment schemes and the size of their funds
+                                   under management;
+                             (b)   whether the fund is a managed investment scheme and whether it is also
+                                   registered as an Australian passport fund;
+                             (c)   the investment strategies and business activities of the managed
+                                   investment scheme, including the extent to which the fund will use
+                                   leverage;
+                             (d)   whether the managed investment scheme is, or will be, listed or traded
+                                   on a financial market;
+                             (e)   the types of investments and investment locations;
+                             (f)   the distribution model and investor base;
+                             (g)   the activities, including the applicant’s investment approach;
+                             (h)   the extent to which the applicant delegates material operational
+                                   activities, and the level of oversight it has over its delegates;
+                             (i)   the diversity and structure of the applicant’s operations (including the
+                                   geographical spread of the operations and the extent to which any
+                                   functions are outsourced);
+                             (j)   the volume and size of the transactions the applicant is responsible for;
+
+
+
+© Australian Securities and Investments Commission June 2025                                                   Page 10
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                             (k)   whether the applicant’s main business is undertaking funds
+                                   management; and
+                             (l)   the number of staff in the applicant’s organisation.
+
+
+                             ‘Adequacy’ of alternative regulation
+
+              RG 136.24      We may also consider whether there would be any available adequate
+                             alternative regulation or protection if the relief is granted.
+
+              RG 136.25      This is aimed at both assessing the regulatory detriment of any relief and
+                             considering whether relief can be granted to remove any unnecessarily
+                             duplicated legislative or regulatory requirements.
+
+              RG 136.26      When considering whether an alternative regulatory regime is ‘adequate’, we
+                             may generally consider how effectively the regime addresses:
+                             (a)   efficient, honest and fair service provision;
+                             (b)   service provider resources and competence;
+                             (c)   service provider compliance, conflicts management and risk
+                                   management practices;
+                             (d)   initial and ongoing disclosure to retail clients about the provision of a
+                                   service;
+                             (e)   protection of client assets;
+                             (f)   financial and transaction record keeping;
+                             (g)   access by retail clients to internal and external dispute resolution
+                                   services; and
+                             (h)   the provision of any advice to retail clients on a reasonable basis.
+
+
+
+Statutory preconditions for Australian Passport Rules relief
+              RG 136.27      We will only grant exemptions and modifications in relation to the
+                             Australian Passport Rules for an Australian passport fund (as its home
+                             regulator) if:
+                             (a)   all of the relevant host regulators of the Australian passport fund have
+                                   agreed to the terms of the relief sought (see RG 136.28–RG 136.31);
+                                   and
+                             (b)   we publish details of any relief granted (see RG 136.32–RG 136.33).
+
+                             Agreement of all relevant host regulators
+
+              RG 136.28      An exemption or modification in relation to the Australian Passport Rules
+                             can only be granted for an Australian passport fund if all of the host
+                             regulators have agreed to the exemption being granted or the declaration
+
+
+
+© Australian Securities and Investments Commission June 2025                                              Page 11
+                                                     REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                             being made: see s1217A(3)(a). The host regulators are the passport
+                             regulators of the participating economies where the Australian passport fund
+                             is permitted, or has applied, to offer interests.
+
+              RG 136.29      This requirement is aimed at promoting the consistent and seamless
+                             application of the Australian Passport Rules.
+
+              RG 136.30      When we receive an application seeking relief from the Australian Passport
+                             Rules, we may seek to confirm any information provided with any relevant
+                             host regulator. We may also share the application with other passport
+                             regulators and seek their views.
+
+              RG 136.31      The application will need to explain whether the applicant has obtained or is
+                             seeking agreement from each relevant host regulator for the relief sought. We
+                             may seek confirmation that agreement has been provided by the relevant
+                             passport regulators under the arrangements concerning cross-border
+                             supervisory cooperation under Annex 4 to the Memorandum of Cooperation.
+                             It is not possible for ASIC to grant relief from the Australian Passport Rules
+                             for an Australian passport fund until all relevant host regulators have agreed
+                             to the proposed relief.
+
+                             Exemptions and modifications to be made publicly
+                             available
+
+              RG 136.32      If we grant an exemption or modification in our capacity as a home regulator
+                             for an individual Australian passport fund, its operator or a person
+                             responsible for compliance with a provision in the Australian Passport Rules,
+                             we will generally publish the details of the exemption or modification on the
+                             Asia Region Funds Passport Register. This includes any variation or
+                             revocation.
+
+                                   Note: Where we grant an exemption or modification in relation to a class of funds, we
+                                   will not publish these details on the Asia Region Funds Passport Register.
+
+              RG 136.33      This requirement promotes transparency around how the Asia Region Funds
+                             Passport is being administered by all passport regulators.
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                                      Page 12
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+C          Common forms of individual relief
+
+                               Key points
+
+                               This section outlines and explains some of the more common forms of
+                               individual relief we have granted.
+
+                               The common forms of relief outlined in this section provide transparency
+                               around the material considerations we have taken into account in past
+                               decisions, so that prospective applicants for relief may have insight into the
+                               factors we consider when deciding whether to exercise ASIC’s powers to
+                               grant relief.
+
+                               We assess applications for relief on a case-by-case basis and consider all
+                               the relevant circumstances of each application. If we grant relief, it may be
+                               based on conditions other than what is set out in this section.
+
+
+
+
+Compliance plan audits and compliance committees
+              RG 136.34      We may consider granting:
+                             (a)   relief from the obligation to prepare and lodge a compliance plan audit;
+                             (b)   an extension of time to establish a compliance committee; and
+                             (c)   an extension of time to replace a compliance committee member.
+
+
+                             Relief from the compliance plan audit requirements
+
+              RG 136.35      Under s601HG(1), the responsible entity of a registered scheme must ensure
+                             that, at all times, a registered company auditor, an audit firm or an authorised
+                             audit company is engaged to audit compliance with the scheme’s compliance
+                             plan.
+
+              RG 136.36      Section 601HG(3) sets out the auditor’s powers and responsibilities, which
+                             are to:
+                             (a)   examine the compliance plan;
+                             (b)   audit compliance by the responsible entity with the compliance plan;
+                                   and
+                             (c)   report to the responsible entity on whether the responsible entity has
+                                   complied with the compliance plan during the financial year and
+                                   whether the plan continues to meet the requirements of Pt 5C.4.
+
+              RG 136.37      The auditor of the compliance plan must lodge with ASIC the compliance
+                             plan audit report at the same time as the financial statements and reports for
+                             the registered scheme: see s601HG(7).
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                            Page 13
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+              RG 136.38      The purpose of a compliance plan audit is to identify whether there has been
+                             any non-compliance with the compliance plan by the responsible entity, and
+                             whether the plan continues to meet the requirements of Pt 5C.4.
+
+              RG 136.39      We would generally only consider an application for individual relief from
+                             the requirement to conduct a compliance plan audit and lodge a compliance
+                             plan audit report with ASIC for a financial year if the responsible entity has:
+                             (a)   complied with its compliance plan for the financial year to be covered
+                                   by the relief sought;
+                             (b)   not had any significant reportable breaches for the financial year to be
+                                   covered by the relief sought;
+                             (c)   lodged its compliance plan audit reports for previous financial years;
+                                   and
+                             (d)   provided us with information on any concerns raised by an auditor in
+                                   previous compliance plan audit reports.
+
+              RG 136.40      The requirement for a compliance plan audit is a fundamental obligation of
+                             the managed investment regulatory regime. It provides that adequate
+                             processes are in place to ensure that a registered scheme is operated in
+                             accordance with the obligations contained in the constitution and the law. It
+                             also ensures that the compliance plan meets the requirements of Pt 5C.4.
+
+              RG 136.41      We would generally only grant relief from a requirement under s601HG if a
+                             person could demonstrate that meeting the compliance plan audit provisions
+                             would be impossible or disproportionately burdensome in the
+                             circumstances—for example, if a scheme is being wound up or, for a short
+                             period, pending deregistration.
+
+              RG 136.42      Factors we may consider when deciding whether to grant relief include:
+                             (a)   whether the benefits of conducting the compliance plan audit and
+                                   preparing the compliance plan audit report are outweighed by the
+                                   associated burden and costs. When we consider the benefits, we will
+                                   take into account the likely relevant users of such reports and the likely
+                                   nature and extent of their use. When we consider the costs and burden,
+                                   we will take into account the amount and who will bear the expected
+                                   compliance costs;
+                             (b)   the ability of the likely relevant users of such information to
+                                   independently obtain, in a timely manner, other reliable information on
+                                   the registered scheme’s compliance; and
+                             (c)   the underlying purposes of a compliance plan audit and audit report as
+                                   set out at RG 136.38 and RG 136.40.
+
+              RG 136.43      We will generally include a condition on any relief that requires the
+                             responsible entity to publish a notice explaining the relief in a prominent
+                             place on its website.
+
+
+
+© Australian Securities and Investments Commission June 2025                                            Page 14
+                                                     REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                             Extension of time for compliance committee establishment
+
+              RG 136.44      Under s601JA(1), the responsible entity of a registered scheme must
+                             establish a compliance committee if ‘less than half of the directors of the
+                             responsible entity are external directors’.
+
+                                   Note: Section 601JA(2) provides a definition of an ‘external director’.
+
+              RG 136.45      The responsible entity must establish the compliance committee within
+                             14 days after it is required to do so under s601JA(1), unless we have agreed
+                             in writing to a longer period: see s601JA(3). In agreeing to a longer period,
+                             we may include conditions that the responsible entity must comply with.
+
+              RG 136.46      We will consider granting an extension of time to establish a compliance
+                             committee if:
+                             (a)   there are exceptional circumstances that justify relief; or
+                             (b)   it may be impractical to establish a committee with a sufficient number
+                                   of external members within the 14-day period for reasons other than due
+                                   to the responsible entity’s default.
+
+              RG 136.47      However, we are generally not likely to grant an extension of time to
+                             establish a compliance committee when a responsible entity is registering a
+                             scheme. The responsible entity should not apply for registration unless it is
+                             in a position to establish a board or compliance committee immediately after
+                             the scheme is registered.
+
+              RG 136.48      Factors we may consider when deciding whether to grant relief include
+                             whether:
+                             (a)   the responsible entity is doing all it can reasonably do to appoint
+                                   sufficient external directors or to establish a compliance committee; and
+                             (b)   any reduction in investor protection from the lack of a compliance
+                                   committee is minimised.
+
+              RG 136.49      If an extension of time is granted, we will generally include conditions on
+                             the responsible entity requiring it to:
+                             (a)   use its best endeavours to establish the compliance committee or
+                                   appoint the required external directors to the board of the responsible
+                                   entity as soon as practicable, and, in any event, before the extended time
+                                   limit ends; and
+                             (b)   appoint external auditors to carry out substitute compliance monitoring
+                                   for the period of relief.
+
+              RG 136.50      Extensions will be given only for a specified period and for as long as
+                             appears necessary.
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                                 Page 15
+                                                     REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                             Compliance committee membership
+              RG 136.51      Under s601JB(1), a compliance committee must have at least three
+                             members, and a majority of them must be ‘external members’.
+
+                                   Note: ‘External members’ is defined under s601JB(2) and qualified by s601JB(3) and (4).
+
+              RG 136.52      The need for a compliance committee may also arise due to changes in the
+                             composition of the board of the responsible entity and an extension of time
+                             may be sought to reconstitute the board with sufficient external directors.
+
+              RG 136.53      We consider it is important that vacancies in the external members of a
+                             compliance committee are filled quickly so that investor protection is not
+                             reduced. Similarly, if at least half of the directors of a responsible entity are
+                             not external, a compliance committee should be established quickly. This is
+                             because a compliance committee with a majority of external members gives
+                             investors protection by regularly monitoring compliance.
+
+              RG 136.54      There will be costs associated with finding appropriate external compliance
+                             committee members. However, this is an intended cost associated with
+                             establishing appropriate investor protection and the responsible entity should
+                             factor it into budgets at an early stage.
+
+              RG 136.55      The Corporations Act imposes significant restrictions on who may be an
+                             external member of a compliance committee or of the board of the
+                             responsible entity. We consider that a member of a compliance committee
+                             must be a natural person. An external member must not be, and may not
+                             within the previous two years have been, substantially involved in business
+                             dealings or involved in a professional capacity with the responsible entity or
+                             a related body corporate: see s601JB(2)(b). These restrictions reflect the
+                             importance for investor protection and credibility of regulation—for there to
+                             be oversight by persons who are manifestly independent.
+
+              RG 136.56      In our view, the reference to ‘substantially involved’ means that a person
+                             who is employed by an entity that has had business dealings or a
+                             professional relationship with the responsible entity, or a related body
+                             corporate of the responsible entity, would not be excluded as an external
+                             member or director merely because they have had a trivial involvement with
+                             the dealings of, or a trivial relationship with, the entity. We also consider the
+                             term ‘substantial’ qualifies the degree of an individual’s involvement, rather
+                             than the nature of the business dealings or professional relationship. In our
+                             view, the provisions should not be interpreted as meaning involvement in
+                             substantial business dealings.
+
+              RG 136.57      We consider the following persons are likely to be substantially involved in
+                             business dealings or in a professional capacity with the responsible entity:
+                             (a)   an employee of the auditor of the responsible entity who:
+                                   (i)   has decision-making responsibility in relation to audits of the
+                                         responsible entity; or
+
+
+
+© Australian Securities and Investments Commission June 2025                                                         Page 16
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                                   (ii)   may have been exposed to any form of conflict of interest in acting
+                                          as a compliance committee member because of involvement with
+                                          the audits;
+                             (b)   an employee or officer of a custodian for the responsible entity who:
+                                   (i)    has decision-making responsibility in relation to the dealings
+                                          between the custodian and the responsible entity; or
+                                   (ii)   may have been exposed to any form of conflict of interest in acting
+                                          as a compliance committee member because of their involvement
+                                          in the business relationship with the responsible entity; or
+                             (c)   a solicitor who is responsible for legal advice provided to the
+                                   responsible entity.
+
+              RG 136.58      A member of a partnership with a substantial involvement is also not eligible
+                             as an external member: see s601JB(2)(c).
+
+              RG 136.59      The requirements for being external are intentionally strict and are designed
+                             to ensure the unambiguous appearance of independence, as well as actual
+                             independence. Because of this, we will generally not grant relief that allows
+                             a person who may not be external to be counted as external. We will
+                             generally not grant relief on the basis of submissions that:
+                             (a)   there is no actual conflict of interest—for example, a partner of a firm
+                                   of solicitors who has no business dealings with the responsible entity in
+                                   the case where the firm has substantial involvement in business dealings
+                                   with the responsible entity; or
+                             (b)   there are difficulties in finding alternative candidates.
+
+              RG 136.60      Under s601JB(5), if the compliance committee ceases to satisfy the
+                             membership requirements under s601JB(1), the responsible entity must
+                             make appointments to the committee within 14 days after this requirement is
+                             no longer satisfied. This is unless we have agreed in writing to a longer
+                             period. Our consent to a longer period may be made subject to conditions
+                             and there is a statutory obligation on the responsible entity to comply with
+                             those conditions: see s601JA(6).
+
+              RG 136.61      When a responsible entity needs to constitute or reconstitute a compliance
+                             committee after a scheme is registered, we recognise that it may be
+                             impracticable to find suitable compliance committee members within
+                             14 days. For example, this may be difficult on the sudden death of an
+                             external member of the compliance committee or board of the responsible
+                             entity. It may be especially difficult for smaller, specialised registered
+                             schemes and schemes based in remote locations. Similarly, when multiple
+                             vacancies occur in a compliance committee, we recognise that compliance is
+                             more likely to be impracticable.
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                            Page 17
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+              RG 136.62      The responsible entity should apply promptly after it appears that an
+                             extension is likely to be necessary. We may, however, extend the time after
+                             the end of the 14-day period.
+
+              RG 136.63      We will consider granting an extension of time if:
+                             (a)   there are exceptional circumstances to justify relief; or
+                             (b)   it may be impractical to appoint a sufficient number of external
+                                   members within the 14-day period for reasons other than due to the
+                                   responsible entity’s default.
+
+                                   Note: See RG 136.61 for examples.
+
+              RG 136.64      Factors we may consider when deciding whether to grant relief include
+                             whether:
+                             (a)   the responsible entity is doing all it can reasonably do to appoint the
+                                   external member(s); and
+                             (b)   any reduction in investor protection due to the compliance committee
+                                   not having the required member composition is minimised.
+
+              RG 136.65      If an extension of time is granted, we will generally include conditions on
+                             the relief that require the responsible entity to:
+                             (a)   use its best endeavours to appoint the required external member(s) to
+                                   the compliance committee. This must be as soon as practicable, and, in
+                                   any event, before the extended time limit ends; and
+                             (b)   ensure that the number of external members as a proportion of the total
+                                   number of members of the compliance committee does not become less
+                                   than the proportion at the date the application for relief was made.
+
+
+
+Stapled securities
+              RG 136.66      Section 601FC(1) prescribes the duties of the responsible entity. This
+                             includes to:
+                             (a)   act in the best interests of members (see 601FC(1)(c)); and
+                             (b)   not make use of information in order to gain an advantage for itself
+                                   and/or any other person or cause detriment to the members of the
+                                   scheme (see s601FC(1)(e)).
+
+              RG 136.67      Similar duties apply to the officers of the responsible entity: see
+                             s601FD(1)(c) and 601FD(1)(d). Section 601FD(1)(e) imposes a duty on
+                             officers of the responsible entity not to make improper use of their position
+                             as an officer to gain an advantage for themselves and/or any other person or
+                             to cause detriment to members of the scheme.
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                            Page 18
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+              RG 136.68      There is also a duty for employees of the responsible entity not to make
+                             improper use of their position as an employee to gain an advantage for
+                             themselves and/or any other person or to cause detriment to members of the
+                             scheme: see s601FE(1)(a).
+
+              RG 136.69      Section 601LC prohibits the giving of financial benefits by a responsible
+                             entity to a related party of the responsible entity unless a relevant exception
+                             is available.
+
+              RG 136.70      We may consider granting relief for stapled securities, a component of which
+                             is an interest in a registered scheme, from the following provisions:
+                             (a)   s601FC(1)(c) and 601FC(1)(e)—to allow a responsible entity to
+                                   consider the interests of the members or to use information, having
+                                   regard to them being stapled security holders;
+                             (b)   s601FD(1)(c), 601FD(1)(d), 601FD(1)(e) and 601FE(1)(a)—to allow
+                                   officers or employees to consider the interests of the members or to use
+                                   information or their position, having regard to them being stapled
+                                   security holders; and
+                             (c)   s601LC—to allow a responsible entity to give a financial benefit to
+                                   itself or a related party where this increases stapled scheme property,
+                                   while decreasing the property in the registered scheme.
+
+              RG 136.71      We may consider granting relief for stapled securities where:
+                             (a)   the stapled group consists of two or more financial products, including
+                                   at least one interest in a registered scheme. This is where:
+                                   (i)    under the terms on which each of the products is to be traded, they
+                                          must be transferred together; and
+                                   (ii)   there are no financial products in the same class as those financial
+                                          products that may be transferred separately; and
+                             (b)   each interest in the scheme must, under the terms upon which it is to be
+                                   traded, only be transferred with one or more shares or interests.
+
+              RG 136.72      We may grant relief for stapled securities to facilitate the operation and
+                             management of the stapled group, rather than the component parts that make
+                             up the stapled group. We consider there is no detriment to members given
+                             they are also members of the other component parts of the stapled group.
+
+              RG 136.73      Factors we may consider when deciding whether to grant relief for stapled
+                             securities include:
+                             (a)   whether all interests in the registered scheme remain stapled with shares
+                                   in a company (or interests in another scheme) on a one-for-one basis,
+                                   and are traded as stapled securities;
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                            Page 19
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                             (b)   whether there is any ‘leakage’—that is, whether the stapled security
+                                   holders own all of the shares in the stapled company and no benefit
+                                   leaks from the stapled structure for the benefit of others; and
+                                   Note: Benefits may be able to be paid from the scheme property to wholly-owned
+                                   subsidiaries of a company that is wholly owned by the stapled security holders.
+
+                             (c)   where the stapling occurs after members have acquired an interest in the
+                                   scheme, we may request a copy of the proposed disclosure to be sent to
+                                   members about resolutions to staple, to ensure that the disclosure is adequate.
+
+
+
+Change of responsible entity
+              RG 136.74      If the responsible entity of a registered scheme wants to retire, it must call a
+                             members’ meeting to explain its reasons for wanting to retire and to enable
+                             the members to vote on a resolution to choose a new responsible entity: see
+                             s601FL(1). The resolution must be an extraordinary resolution if the scheme
+                             is not listed.
+
+              RG 136.75      Section 601FL provides registered scheme members with the opportunity to
+                             exercise voting rights to choose a new responsible entity to replace a retiring
+                             responsible entity. In our view, this is an important safeguard for the change
+                             of responsible entity, which cannot be effected by too few members.
+
+              RG 136.76      We may consider granting relief from the requirement to hold a members’
+                             meeting for a change of responsible entity if:
+                             (a)   the change is to a related body corporate of the responsible entity (see
+                                   RG 136.77–RG 136.79);
+                             (b)   there are a small number of members (see RG 136.80–RG 136.83); or
+                             (c)   a significant percentage of the interests in the registered scheme are
+                                   held by investment platforms that have a non-voting policy (see
+                                   RG 136.84–RG 136.87).
+
+
+                             Change to a related body corporate
+
+              RG 136.77      We will consider granting relief from the requirement to hold a members’
+                             meeting for a change of responsible entity if:
+                             (a)   the existing responsible entity and the proposed new responsible entity
+                                   are related companies and the change of responsible entity is unlikely to
+                                   have an adverse impact on the administrative, custodial or asset
+                                   management of the registered scheme or give rise to any significant
+                                   changes in the manner in which the scheme operates; and
+                             (b)   the existing responsible entity and the proposed new responsible entity
+                                   are related companies and the costs of strict compliance with the
+                                   meeting requirements under s601FL(1) are disproportionately
+                                   burdensome compared to the benefits of holding a meeting.
+
+
+
+© Australian Securities and Investments Commission June 2025                                                    Page 20
+                                                     REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+              RG 136.78      Factors we may consider when deciding whether to grant relief include whether:
+                             (a)   the current and replacement responsible entity are related companies
+                                   within the same corporate group;
+                             (b)   the current and replacement responsible entity share or have the
+                                   following in common:
+                                   (i)     resources (including key staff);
+                                   (ii)    corporate governance arrangements (particularly directors and
+                                           compliance committee members); and
+                                   (iii)   control structures (e.g. reporting lines, compliance systems and
+                                           procedures for monitoring service providers, and accounting,
+                                           computer and IT systems);
+                             (c)   if relief is granted, there would be any adverse impact on members’
+                                   interests;
+                             (d)   if relief is granted, there would be substantial cost savings for the
+                                   responsible entity, and, ultimately, for the members of the registered
+                                   scheme; and
+                             (e)   it is possible for the members’ meeting to be held as a virtual-only
+                                   meeting under s252P(c) or as a hybrid meeting under s252P(b).
+
+                                   Note: For further information on virtual meetings, see FAQs: Virtual meetings for
+                                   companies and registered schemes on the ASIC website.
+
+              RG 136.79      If relief is granted, we will generally include conditions on the relief that
+                             require the responsible entity to:
+                             (a)   notify members of the proposed change of responsible entity and
+                                   include in the notice all the information that members would reasonably
+                                   need to make an informed assessment as to whether to request an all-
+                                   member vote to choose a new responsible entity;
+                             (b)   give members 21 days to consider the notice and, if they wish, request
+                                   that the responsible entity hold an all-member postal vote to choose a
+                                   new responsible entity;
+                             (c)   conduct a postal vote (based on the conditions set out in the relief) if
+                                   100 members or members holding at least 5% of the total value of
+                                   interests held by members eligible to vote request one; and
+                             (d)   effect the change of responsible entity within three months.
+
+
+                             Small number of members
+
+              RG 136.80      We may consider granting relief from the requirement to convene and hold a
+                             members’ meeting to change a responsible entity if:
+                             (a)   there are only a small number of members and all of those members
+                                   would be prevented from voting under s252R or 253E; or
+
+
+
+© Australian Securities and Investments Commission June 2025                                                      Page 21
+                                                      REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                             (b)   the only members are a small number of wholesale clients.
+
+              RG 136.81      We may grant this relief to facilitate members being able to approve a
+                             change of responsible entity when:
+                             (a)   it may not be possible to convene and hold a meeting of members; or
+                             (b)   due to the small number of members, the costs and effort of doing so are
+                                   unnecessary—on the basis that the consent of members to the change of
+                                   responsible entity can be obtained in a more cost-effective way.
+
+              RG 136.82      Factors we may consider when deciding whether to grant relief include
+                             whether:
+                             (a)   the registered scheme is able to meet the quorum requirement of two
+                                   members under s252R;
+                             (b)   all members would be unable to pass a resolution to change the
+                                   responsible entity in a members’ meeting because they would be
+                                   prevented from voting on the resolution under s253E;
+                                   Note: Section 253E provides that the responsible entity of a registered scheme and its
+                                   associates are not entitled to vote on a resolution at a members’ meeting if either the
+                                   responsible entity or the associate has an interest in the resolution or matter other than
+                                   as a member. This restriction applies to the resolutions for retirement and replacement
+                                   of the responsible entity under s601FL.
+
+                             (c)   the registered scheme would incur unnecessary costs and inconvenience
+                                   to convene and hold a members’ meeting; and
+                             (d)   it is possible for the meeting to be held virtually or as a hybrid meeting.
+
+              RG 136.83      If relief is granted, we will generally include conditions on the relief that
+                             require:
+                             (a)   the responsible entity to give members materials dealing with the change
+                                   of responsible entity which are similar to the explanatory memorandum
+                                   that would have been provided with a notice of meeting; and
+                             (b)   unanimous member approval to ensure that there is no reduction of
+                                   members’ rights because this is a higher threshold for member approval
+                                   than that required by s601FL.
+
+
+                             Investment platforms that have a non-voting policy
+
+              RG 136.84      Member approval for a change of responsible entity may be difficult to
+                             obtain when a significant proportion of the interests in the registered scheme
+                             are held by investment platforms that have a policy of not voting. This may
+                             make it difficult to obtain the requisite number of members to vote on a
+                             change of responsible entity. This is particularly relevant for unlisted
+                             schemes that require a change to be approved by an extraordinary resolution.
+
+                                   Note: For more information on investment platforms and the requirements for them to
+                                   have and disclose a voting policy, see RG 148.
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                                          Page 22
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+              RG 136.85      We will consider granting relief from s601FL(1) to facilitate a change of
+                             responsible entity when a significant percentage of the interests in the
+                             registered scheme are held by investment platforms that have a written
+                             policy of not voting, and so abstain from voting. We will generally do this
+                             by excluding these platform interests from the total votes that may be cast
+                             under an extraordinary resolution.
+
+              RG 136.86      Factors we may consider when deciding whether to grant relief include
+                             whether:
+                             (a)   the applicant provides evidence of the published voting policy of the
+                                   relevant platform which demonstrates that the platform has a policy of
+                                   not voting;
+                                   Note: For example, for an IDPS, we would ordinarily request the relevant extract from
+                                   the IDPS Guide.
+
+                             (b)   all members had the opportunity to vote on the resolution, subject to the
+                                   self-imposed voting practices of the platform operators that have a
+                                   written policy of not voting;
+                             (c)   the responsible entity has demonstrated that it is not possible for a
+                                   sufficient number of members to vote on the resolution after having
+                                   held a members’ meeting to consider the proposed resolution;
+                             (d)   the platform operators have undertaken consultation with their own
+                                   underlying clients about the proposed resolution;
+                             (e)   the impact on members as a result of the change of responsible entity
+                                   will be limited; and
+                             (f)   there are other commercial benefits that would flow from granting
+                                   relief, including any cost savings of pursuing alternatives and avoiding
+                                   the entrenchment of a responsible entity that seeks to retire.
+
+              RG 136.87      If relief is granted, we have generally included conditions on the relief that
+                             require the responsible entity to:
+                             (a)   notify all members in writing that if a platform operator has a policy of
+                                   not voting and abstains from voting, the vote will exclude the members
+                                   that are holding for platforms;
+                             (b)   ensure a reasonable period of time passes before the meeting can be
+                                   reconvened and the vote counted (which would then exclude the votes
+                                   of any non-voting platforms); and
+                             (c)   ensure members who have previously submitted proxies for the original
+                                   meeting may, for a period of at least 10 business days, withdraw or
+                                   change their proxies after they have been given notice of the adjourned
+                                   meeting.
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                                     Page 23
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+Offers to foreign members in a restructure
+              RG 136.88      Under s601FC(1)(d), a responsible entity has a duty to treat members who
+                             hold interests of the same class equally and members who hold interests of
+                             different classes fairly.
+
+              RG 136.89      We will consider granting relief from s601FC(1)(d) so that foreign members
+                             in a registered scheme can be treated differently from other members. We
+                             will generally do this if it is impracticable or unlawful to offer or issue
+                             interests to foreign members as part of a restructure of the scheme or similar
+                             proposal involving the scheme.
+
+              RG 136.90      Factors we may consider when deciding whether to grant relief include
+                             whether:
+                             (a)   the foreign members would have an equal opportunity to vote on the
+                                   proposal;
+                             (b)   it would be disproportionately burdensome for the responsible entity to
+                                   comply with foreign fundraising laws due to:
+                                   (i)    the number of foreign jurisdictions involved; and
+                                   (ii)   there being a relatively small number and percentage of foreign
+                                          members of the registered scheme;
+                             (c)   any relevant costs of complying with such laws would be borne by all
+                                   members of the registered scheme; and
+                             (d)   the foreign members receive cash or are entitled to participate in a cash-
+                                   out facility to dispose of their existing interests, which other members
+                                   receive.
+
+              RG 136.91      If relief is granted, we will generally include conditions on the relief that
+                             require the responsible entity to:
+                             (a)   fully inform foreign members of the proposed transaction; and
+                             (b)   give foreign members an equal opportunity to vote on the proposed
+                                   transaction.
+
+
+
+Withdrawal arrangements
+              RG 136.92      We may consider granting relief to enable:
+                             (a)   withdrawal on hardship grounds from ‘frozen funds’ (see RG 136.93–
+                                   RG 136.104);
+                             (b)   ‘rolling’ withdrawal offers (see RG 136.105–RG 136.115); and
+                             (c)   registered schemes that provide marketplace lending products to offer
+                                   withdrawals when the scheme is non-liquid (also known as ‘illiquid’) (see
+                                   RG 136.116–RG 136.119).
+
+
+
+© Australian Securities and Investments Commission June 2025                                            Page 24
+                                                     REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                             Hardship relief for ‘frozen funds’
+
+              RG 136.93      There are restrictions on members withdrawing from registered schemes: see
+                             s601KA(3). The responsible entity of a registered scheme must not allow a
+                             member to withdraw from a liquid scheme other than in accordance with the
+                             scheme’s constitution. They also must not allow a member to withdraw from
+                             an illiquid scheme other than in accordance with the scheme’s constitution
+                             and s601KB–601KE.
+
+              RG 136.94      The responsible entity of a registered scheme must also treat the members
+                             who hold interests of the same class equally and members who hold interests
+                             of different classes fairly: see s601FC(1)(d).
+
+                             Relief available under ASIC Corporations (Hardship Withdrawals Relief)
+                             Instrument 2020/778
+
+              RG 136.95      We have provided hardship relief so that responsible entities can allow
+                             members suffering hardship to withdraw from a ‘frozen fund’: see ASIC
+                             Instrument 2020/778. For the purposes of the relief, a ‘frozen fund’ is a
+                             registered scheme for which the responsible entity for the scheme has both:
+                             (a)   suspended withdrawals from the scheme, whether or not the scheme is
+                                   liquid; and
+                             (b)   ceased to allow the issue of new interests in the scheme.
+
+              RG 136.96      The instrument provides responsible entities with relief in relation to:
+                             (a)   the duty to treat members of the same class equally (under
+                                   s601FC(1)(d));
+                             (b)   the withdrawal regime (under Pt 5C.6), by introducing a new hardship
+                                   withdrawal regime; and
+                             (c)   the requirement that a special resolution of members must approve a
+                                   constitutional change (under s601GC(1)(a)). A responsible entity will
+                                   be allowed to change the scheme’s constitution unilaterally to include
+                                   provisions for a right of members to withdraw on hardship grounds
+                                   following notice to members. However, if it receives requests to hold a
+                                   meeting from members with at least 5% of the votes that may be cast, it
+                                   must hold the meeting.
+
+                                   Note: For the avoidance of doubt, relief is also granted from the constitution content
+                                   requirements under s601GA(4) given the discretion that is available to the responsible
+                                   entity under the new hardship withdrawal regime.
+
+              RG 136.97      Under the relief, a responsible entity has the discretion to make a withdrawal
+                             payment to a person who is a member, the beneficiary of the member’s
+                             estate or an instructor (e.g. a member of the scheme making the request for a
+                             person in their capacity as responsible entity or custodian of another registered
+                             scheme) in response to a withdrawal request by the person. However, the
+                             withdrawal request must meet one of the hardship criteria set out in Table 2.
+
+
+
+© Australian Securities and Investments Commission June 2025                                                       Page 25
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+Table 2:     Hardship criteria a person must meet for a hardship withdrawal
+
+ Type of hardship              Hardship criteria
+
+ Urgent financial hardship     The person needs the amount requested to meet reasonable and immediate living
+                               expenses for the person or any dependants.
+
+ Unemployment                  The person has not been in gainful employment for at least three months and has
+                               no other means of financial support (except government assistance, such as
+                               unemployment benefits).
+
+ Compassionate grounds         The person (or their dependant, as applicable) needs the amount requested to:
+                                pay for medical costs (including related transport costs) to treat a life-threatening
+                                 illness or injury, to alleviate acute or chronic pain, or to alleviate an acute or
+                                 chronic mental disturbance. A registered medical practitioner must provide a
+                                 certified statement confirming the medical condition;
+                                pay for specific modifications to a principal place of residence or vehicle to
+                                 accommodate a severe disability of the person or their dependant;
+                                pay for funeral and other expenses related to the death of a member (paid to a
+                                 beneficiary of the estate of the deceased member) or the death of a dependant
+                                 of the person;
+                                enable the person to provide care for another person who is dying from a
+                                 terminal illness, including home care;
+                                prevent a mortgagee or lender from selling the person’s principal place of
+                                 residence; or
+                                meet a binding financial obligation entered into by the person before the responsible
+                                 entity suspended withdrawals (other than hardship withdrawals, if any).
+
+                               The person or their dependant must not otherwise have the financial capacity to
+                               meet the expense.
+
+ Permanent incapacity          The person has ceased gainful employment due to mental or physical ill health.
+                               The responsible entity must be satisfied that the person is unlikely to ever again
+                               commence the type of employment for which the person is reasonably qualified by
+                               education, training or experience.
+
+
+              RG 136.98      The maximum amount a member can withdraw is capped at $100,000 per
+                             calendar year. A responsible entity can grant a member four hardship
+                             withdrawals per calendar year.
+
+              RG 136.99      The relief is also subject to additional requirements. For example, the
+                             responsible entity must:
+                             (a)   notify ASIC of its intention to rely on the relief (notice of reliance) and
+                                   when it stops relying on the relief (notice of cessation of reliance);
+                             (b)   notify members that it is relying on the relief and the effect of the relief;
+                             (c)   ensure the constitution includes the ability for members to withdraw on
+                                   hardship grounds;
+                             (d)   not allow a hardship withdrawal unless it is satisfied that, following the
+                                   withdrawal, the scheme property will include adequate cash over the
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                                      Page 26
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                                   following six months for likely future hardship withdrawals and the
+                                   day-to-day operation of the scheme;
+                             (e)   act reasonably when exercising any discretion in relation to a hardship
+                                   withdrawal;
+                             (f)   document how and why a decision to permit or refuse a hardship
+                                   withdrawal was made;
+                             (g)   report quarterly data to ASIC, including details of the number of
+                                   hardship requests received and number of requests satisfied. To help
+                                   responsible entities comply with the reporting requirement, we have
+                                   provided a template spreadsheet.
+                                   Note: For more information on the relief available under the instrument, and the
+                                   template quarterly reporting spreadsheet, see Information Sheet 249 Frozen funds—
+                                   Information for responsible entities (INFO 249).
+
+
+                             Individual relief we may grant
+
+              RG 136.100     In some cases, a responsible entity will not be able to rely on the relief in
+                             ASIC Instrument 2020/778 to allow members suffering hardship to withdraw
+                             in priority to other members. When this occurs, we will consider granting the
+                             responsible entity individual relief from s601FC(1)(d), Pt 5C.6 and s601GC.
+
+              RG 136.101     Any relief application should clearly outline why the responsible entity
+                             cannot meet the key parameters of the instrument. The key parameters
+                             include that:
+                             (a)   the scheme constitution gives members the ability to withdraw on
+                                   hardship grounds;
+                             (b)   the responsible entity has suspended redemptions and also ceased to
+                                   allow the issue of new interests;
+                             (c)   the hardship withdrawal request satisfies the hardship criteria for urgent
+                                   financial hardship, unemployment, compassionate grounds or
+                                   permanent incapacity; and
+                             (d)   the hardship withdrawal is within the cap for a member (i.e. $100,000
+                                   and four withdrawals a calendar year).
+
+              RG 136.102     Factors we may consider when deciding whether to grant relief include:
+                             (a)   whether there are persuasive reasons why the responsible entity cannot
+                                   meet the parameters of the instrument;
+                             (b)   whether there would be enough cash for likely future hardship
+                                   withdrawals and for the day-to-day operation of the scheme;
+                             (c)   whether one or more members have experienced hardship or are likely
+                                   to experience hardship if they are not allowed to withdraw; and
+                             (d)   the impact the relief would have on all members of the scheme
+                                   (including members that are not able to withdraw on hardship grounds).
+
+
+
+© Australian Securities and Investments Commission June 2025                                                    Page 27
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+              RG 136.103     If we grant individual relief, we will generally include requirements in the
+                             relief. For example, we may require the responsible entity to:
+                             (a)   notify members that it has been granted relief and the effect of the relief;
+                             (b)   not allow a hardship withdrawal unless the responsible entity is satisfied
+                                   that following the withdrawal the scheme would have enough cash for
+                                   likely future hardship withdrawals and for the day-to-day operation of
+                                   the scheme;
+                             (c)   act reasonably in exercising any discretion in relation to a hardship
+                                   withdrawal;
+                             (d)   document how and why a decision to permit or refuse a hardship
+                                   withdrawal was made; and
+                             (e)   report quarterly data to ASIC through a spreadsheet, including details of
+                                   the number of hardship requests received and number of requests
+                                   satisfied.
+
+                                   Note: See INFO 249 for the template quarterly reporting spreadsheet.
+
+              RG 136.104     We may also limit the duration of the individual relief. Generally, this relief
+                             will cease either at the end of a defined period or when the registered scheme
+                             ceases to be frozen, whichever occurs first.
+
+
+                             Relief to enable ‘rolling’ withdrawal offers
+
+              RG 136.105     The requirements for a responsible entity to make a withdrawal offer to
+                             members while a registered scheme is illiquid are outlined in Pt 5C.6. These
+                             requirements include that:
+                             (a)   a withdrawal offer must be made to all members (or members of a
+                                   class);
+                             (b)   the withdrawal offer must include specified content (including details of
+                                   the assets that will be used to satisfy withdrawal requests, and the
+                                   amount of money that is expected to be available when the assets are
+                                   realised);
+                             (c)   a copy of the withdrawal offer must be lodged with ASIC:
+                             (d)   only one withdrawal offer may be open at any time; and
+                             (e)   if there is an insufficient amount of money available from the assets
+                                   specified in the withdrawal offer to satisfy all withdrawal requests, the
+                                   requests are to be satisfied proportionately.
+
+              RG 136.106     We consider the withdrawal regime in Pt 5C.6 provides an important
+                             distinction between withdrawal offers for illiquid registered schemes and
+                             liquid registered schemes. Liquid schemes can offer at-call withdrawal,
+                             provided that the scheme has 80% of its assets in liquid assets.
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                              Page 28
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+              RG 136.107     The illiquid provisions were designed so that withdrawal offers for illiquid
+                             registered schemes could only be made to the extent that particular assets are
+                             available and are able to be converted to money in time to satisfy
+                             withdrawals.
+
+              RG 136.108     The requirement in RG 136.105(b) provides members with the information
+                             they need to decide whether they should participate in the withdrawal offer
+                             (and to what extent). Members are able to consider the assets that will be
+                             sold, the assets that will remain in the scheme and the amount of cash
+                             available to satisfy requests.
+
+              RG 136.109     To allow a responsible entity to implement a 12-month ‘rolling’ withdrawal
+                             offer to members, we may consider granting relief from the requirements
+                             under Pt 5C.6 to:
+                             (a)   lodge a copy of each withdrawal offer with ASIC (s601KB(5));
+                             (b)   only have one withdrawal offer open at any time (s601KC); and
+                             (c)   include certain content in the withdrawal offer (s601KB(3)).
+
+              RG 136.110     The purpose of the relief is to allow responsible entities of illiquid schemes
+                             to provide members with periodic withdrawal opportunities with
+                             administrative ease.
+
+              RG 136.111     A ‘rolling’ withdrawal offer has the following standard features:
+                             (a)   the offer must be open for a calendar year to all members in the scheme;
+                             (b)   the responsible entity nominates the dates on which the withdrawal
+                                   offer will be paid (e.g. at the end of the quarter); and
+                             (c)   a member may lodge a withdrawal request at any time, including a
+                                   standing withdrawal request to participate in any future withdrawal
+                                   opportunities during the year.
+
+              RG 136.112     Factors we may consider when deciding whether to grant relief include
+                             whether:
+                             (a)   the relief will improve members’ access to their money; and
+                             (b)   changing or removing the content that must be specified in the
+                                   withdrawal offer under s601KB(3)(b) and 601KB(3)(c) will not have a
+                                   detrimental impact on members.
+
+              RG 136.113     Where we grant relief, we will require the rolling withdrawal offer to
+                             specify:
+                             (a)   the number of withdrawal opportunities the responsible entity proposes
+                                   to make over the 12-month term;
+                             (b)   how often the opportunities would be made and the terms on which the
+                                   opportunities would be made;
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                            Page 29
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                             (c)   the period during which the rolling withdrawal offer would remain
+                                   open;
+                             (d)   the basis on which money would be raised to pay for the withdrawal
+                                   opportunities; and
+                             (e)   the method for dealing with withdrawal requests if the money raised is
+                                   insufficient to satisfy all requests.
+
+              RG 136.114     We may also limit the relief to a defined period or until the registered
+                             scheme becomes liquid.
+
+              RG 136.115     We will generally include conditions on the relief that require the
+                             responsible entity to:
+                             (a)   provide all members with information on the amount of each
+                                   withdrawal opportunity and how the withdrawal opportunity will be
+                                   funded, before the withdrawal opportunity is open;
+                             (b)   include reminders about members’ ability to participate in the rolling
+                                   withdrawal in member communications (e.g. in any correspondence,
+                                   statement or disclosure provided to members);
+                             (c)   notify all members in writing of the outcome of each withdrawal
+                                   opportunity within a reasonable period after the outcome is known;
+                             (d)   maintain a website that contains all relevant and up-to-date information
+                                   on the rolling withdrawal offer;
+                             (e)   distribute all available cash to members for as long as withdrawal
+                                   requests exceed available cash; and
+                             (f)   provide ASIC with details for each withdrawal opportunity as soon as
+                                   practicable after the withdrawal amounts are paid. This includes the
+                                   amount made available to satisfy each withdrawal opportunity.
+
+                             Relief for marketplace lending withdrawals
+
+              RG 136.116     Section 601GA(4) requires that if members are to have a right to withdraw
+                             from a registered scheme, the constitution must:
+                             (a)   specify the right; and
+                             (b)   if the scheme is illiquid, provide for the right to be exercised under
+                                   Pt 5C.6 and set out adequate procedures consistent with Pt 5C.6.
+
+              RG 136.117     We will consider granting relief from the requirements under s601GA(4) and
+                             Pt 5C.6 to facilitate cash withdrawals for a registered scheme that provides
+                             marketplace lending products where the scheme is illiquid. This means that:
+                             (a)   the constitution would not be required to include provisions about a
+                                   member’s right to withdraw from a scheme while it is illiquid; and
+                             (b)   a withdrawal offer that complies with Pt 5C.6 would not need to be
+                                   given to members who exercise their right to withdraw their cash.
+
+
+
+© Australian Securities and Investments Commission June 2025                                            Page 30
+                                                     REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+              RG 136.118     Factors we may consider when deciding whether to grant relief include
+                             whether:
+                             (a)   the policy rationale for fair and equal access to liquidity behind the
+                                   withdrawal provisions in Pt 5C.6 is compromised, having regard to the
+                                   impact on a particular member and the impact on the other members.
+                                   When we consider whether the policy rationale is compromised, we will
+                                   generally consider whether the member has access to information on
+                                   their available cash balance and the withdrawal process. When we
+                                   consider the impact on other members, we will generally consider
+                                   whether each member’s interests comprise a separate class and are
+                                   segregated from other members’ investments;
+                             (b)   the requirements under Pt 5C.6 would be relevant or necessary for a
+                                   withdrawal of a cash component of a member’s interest. This takes into
+                                   account the commercial structure of the registered scheme and whether
+                                   cash is funding any withdrawal; and
+                             (c)   the relief would provide members with a choice to withdraw their
+                                   money in a timely manner, rather than having it remain invested in the
+                                   registered scheme.
+
+              RG 136.119     If relief is granted, we will generally include conditions on the relief that
+                             require the responsible entity to:
+                             (a)   specify the procedures for withdrawal of the cash component in the
+                                   registered scheme’s constitution;
+                             (b)   disclose the following in the Product Disclosure Statement (PDS) and
+                                   on the relevant online platform:
+                                   (i)    the withdrawal procedures; and
+                                   (ii)   prominent disclosure of any restrictions on the withdrawal right—
+                                          for example:
+                                          (A)   any money invested in a loan cannot be withdrawn during the
+                                                term of the loan; or
+                                          (B)   if a request exceeds any available balance, that a member can
+                                                only withdraw up to that available balance;
+                             (c)   remind members about their standing arrangement (if any) and how this
+                                   may be amended upon completion of a member’s withdrawal request;
+                             (d)   confirm to a member in writing how long it takes for a withdrawal
+                                   request to be processed following a member’s request; and
+                             (e)   determine that satisfaction of a member’s withdrawal request will not
+                                   affect the assets of another member’s portfolio.
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                             Page 31
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+Deregistration of a registered scheme
+              RG 136.120     Under s601PA(1), the responsible entity of a registered scheme may lodge
+                             an application for voluntary deregistration of the scheme with ASIC only if:
+                             (a)   the scheme:
+                                   (i)    has 20 or less members and all the members agree that the scheme
+                                          should be deregistered; and
+                                   (ii)   is not required to be registered by s601ED(1)(b) or (c);
+                             (b)   the scheme is not required to be registered and all the members agree
+                                   that the scheme should be deregistered—because of s601ED(2); or
+                             (c)   the scheme is not a managed investment scheme.
+
+              RG 136.121     On an application by an Australian passport fund operator, ASIC must
+                             deregister the Australian passport fund as a registered scheme when:
+                             (a)   the fund satisfies one of the criteria in RG 136.120(a)–RG 136.120(c);
+                             (b)   there are no members of the fund who became members (whether in this
+                                   jurisdiction or any host economy) after the fund became an Australian
+                                   passport fund; and
+                             (c)   there are no members of the fund who became members (whether in this
+                                   jurisdiction or any host economy) on the expectation that the fund
+                                   would become an Australian passport fund (see s601PBB(3)).
+
+              RG 136.122     We have granted relief to allow a responsible entity to lodge an application
+                             to deregister a scheme where all the members:
+                             (a)   agree that the scheme should be deregistered;
+                             (b)   were wholesale clients at the time they acquired (by way of issue or
+                                   transfer) their interest in the scheme;
+                             (c)   are wholesale clients at the time an application for deregistration is
+                                   lodged; and
+                             (d)   are each a body corporate.
+
+              RG 136.123     We may grant this relief because s601PA(2) does not appear to address the
+                             circumstances where retail client members of a registered scheme have
+                             exited and the registered scheme becomes a scheme with only wholesale
+                             client members. The provisions of Ch 5C are directed to retail client
+                             protection. In our view, granting relief in circumstances where all of the
+                             members of the scheme are wholesale clients will not compromise retail
+                             client protection.
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                            Page 32
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+D          Closely related schemes
+
+                               Key points
+
+                               This section explains when we will consider managed investment schemes
+                               as ‘closely related’ and should be aggregated. This is relevant to
+                               determining if some exemptions for small schemes apply.
+
+
+
+
+Section 601ED determination
+              RG 136.124     We may determine in writing that a number of managed investment schemes
+                             are closely related (see s601ED(3)) and that each of them must be registered
+                             when the total number of members of all of the schemes exceeds 20.
+
+              RG 136.125     We will consider making a determination under s601ED(3) when:
+                             (a)   the managed investment schemes are promoted by different persons but
+                                   the circumstances and the similar nature of the schemes indicate that the
+                                   promoters are likely to be associated;
+                             (b)   the businesses or activities of the managed investment schemes are
+                                   similar, the schemes form part of a systematic promotion and there is
+                                   doubt about whether the schemes fit within s601ED(1)(a) or (b). This
+                                   doubt may arise because:
+                                   (i)    the interests being offered relate to separate pools or common
+                                          enterprises and might not all be part of one scheme; or
+                                   (ii)   the schemes might not have been promoted as a business; or
+                             (c)   the managed investment schemes are:
+                                   (i)    so similar that the one PDS might reasonably relate to offers of
+                                          interests in the schemes; and
+                                   (ii)   structured as separate schemes so that the offers do not require a
+                                          PDS to be given, because no more than 20 issues are made in
+                                          12 months for each scheme and s1012E applies.
+
+                                   Note: Under s1012E, schemes that issue interests to no more than 20 members in
+                                   12 months and raise up to A$2 million are exempt from the requirement to provide a
+                                   PDS.
+
+              RG 136.126     In our view, s601ED(3) is an anti-avoidance mechanism. It prevents
+                             promoters avoiding the registration requirement by structuring their offers as
+                             separate managed investment schemes with each having no more than
+                             20 members—but which, in aggregate, have more than 20 members. We
+                             consider it also allows us to prevent promoters from relying inappropriately
+                             on the exclusion in s1012E (by calculating the 20 issues separately for each
+                             separate but related scheme).
+
+
+© Australian Securities and Investments Commission June 2025                                                    Page 33
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+              RG 136.127     A managed investment scheme must also be registered if it is promoted by a
+                             person who is in the business of, or whose associate is in the business of,
+                             promoting managed investment schemes: see s601ED(1)(b). We can
+                             determine that schemes are closely related and can require schemes to be
+                             registered when their total membership is over 20: see s601ED(1)(c) and
+                             601ED(3).
+
+              RG 136.128     We may make a determination under s601ED(1)(c) to:
+                             (a)   prevent avoidance by separate promoters offering similar schemes;
+                             (b)   provide certainty when there are questions as to whether s601ED(1)(a)
+                                   or (b) apply because it is not clear if:
+                                   (i)    closely related common enterprises or pools may form part of one
+                                          scheme; or
+                                   (ii)   the promoters are in the business of promoting schemes; or
+                             (c)   prevent use of the exclusion in s1012E when it is inappropriate. We
+                                   think it is inappropriate to rely on that exclusion if the one PDS could
+                                   cover the relevant schemes in a cost-effective way, but the schemes
+                                   have been established separately for avoidance purposes. We will infer
+                                   avoidance purposes unless a reasonable alternative explanation is
+                                   provided to us.
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                            Page 34
+                                                     REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+Key terms
+
+
+                               Term                      Meaning in this document
+
+                               AFS licence               An Australian financial services licence under s913B of
+                                                         the Corporations Act that authorises a person who carries
+                                                         on a financial services business to provide financial
+                                                         services
+                                                           Note: This is a definition in s9.
+
+                               Asia Region Funds         An agreement between economies in the Asia region that
+                               Passport                  allows passport funds established and regulated in one
+                                                         participating economy to offer interests to investors in
+                                                         another participating economy
+
+                               Asia Region Funds         An ASIC register that includes prescribed details of
+                               Passport Register         Australian passport funds, notified foreign passport funds,
+                                                         deregistered Australian passport funds and funds that
+                                                         have been removed as notified foreign passport funds
+
+                               ASIC                      Australian Securities and Investments Commission
+
+                               ASIC Instrument           An ASIC instrument (in this example numbered
+                               2020/778 (for             2020/778)
+                               example)
+
+                               Australian passport       A registered scheme or sub-fund of a retail CCIV that is
+                               fund                      also registered as a passport fund under Pt 8A.3 of the
+                                                         Corporations Act
+
+                               Australian Passport       The Corporations (Passport) Rules 2018 made under
+                               Rules                     s1211 and 1211A of the Corporations Act
+
+                               Ch 5C (for example)       A chapter of the Corporations Act (in this example
+                                                         numbered 5C), unless otherwise specified
+
+                               Corporations Act          Corporations Act 2001, including regulations made for the
+                                                         purposes of that Act
+
+                               Div 2 (for example)       A division of the Corporations Act (in this example
+                                                         numbered 2), unless otherwise specified
+
+                               foreign passport fund     A passport fund with a home economy other than Australia
+
+                               home economy              The participating economy in which a passport fund is
+                                                         first registered, approved or authorised as a regulated
+                                                         collective investment scheme
+
+                               home regulator            The passport regulator in a passport fund’s home economy
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                                   Page 35
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                               Term                      Meaning in this document
+
+                               host economy              A participating economy that is not the passport fund’s
+                                                         home economy and either:
+                                                          permits the fund to offer interests in the fund in that
+                                                           economy under the Asia Region Funds Passport; or
+                                                          has accepted an application from the fund to offer
+                                                           interests in the fund in that economy under the Asia
+                                                           Region Funds Passport (but not to register the fund as
+                                                           a passport fund in that economy)
+
+                               host regulator            The passport regulator in a passport fund’s host economy
+
+                               hybrid meeting            A meeting that is held in accordance with s252P(b) of the
+                                                         Corporations Act
+
+                               IDPS                      An investor directed portfolio service as defined in ASIC
+                                                         Corporations (Investor Directed Portfolio Services)
+                                                         Instrument 2023/669 or any instrument that amends or
+                                                         replaces that instrument
+
+                               IDPS Guide                A document provided by an IDPS operator instead of a
+                                                         PDS to help retail clients decide whether they should use
+                                                         the IDPS
+
+                               IDPS-like scheme          An investor directed portfolio services-like scheme as
+                                                         defined in ASIC Corporations (Investor Directed Portfolio
+                                                         Services Provided Through a Registered Managed
+                                                         Investment Scheme) Instrument 2023/668, or any
+                                                         instrument that amends or replaces that instrument
+
+                               INFO 249 (for             An ASIC information sheet (in this example numbered 249)
+                               example)
+
+                               managed investment        Has the meaning given in s9 of the Corporations Act
+                               scheme                      Note: A notified foreign passport fund is a managed
+                                                           investment scheme for the purpose of the Corporations Act:
+                                                           see s1213E.
+
+                               member                    A member of a registered scheme
+
+                               Memorandum of             The Memorandum of Cooperation on the Establishment
+                               Cooperation               and Implementation of the Asia Region Funds Passport,
+                                                         available on the Asia Region Funds Passport website
+
+                               notified foreign          A foreign passport fund that has become a notified
+                               passport fund             foreign passport fund under s1213C of the Corporations
+                                                         Act.
+
+                               participating economy     An economy that is a participant under the Memorandum
+                                                         of Cooperation (while it is in effect) and has:
+                                                          advised the Asia Region Funds Passport Joint
+                                                           Committee that it has implemented the Asia Region
+                                                           Funds Passport; and
+                                                          not withdrawn from the Memorandum of Cooperation
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                                     Page 36
+                                                      REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                               Term                       Meaning in this document
+
+                               passport fund              A regulated collective investment scheme, or sub-fund of
+                                                          a regulated collective investment scheme, registered as a
+                                                          passport fund in a participating economy
+                                                            Note: Some regulated collective investment schemes, or sub-
+                                                            funds of regulated collective investment schemes, that have
+                                                            been deregistered as passport funds remain subject to
+                                                            obligations as if they were still a passport fund.
+
+                               passport fund              An entity that operates a passport fund
+                               operator
+
+                               passport regulator         The entity that regulates passport funds in a participating
+                                                          economy
+                                                            Note: See also the definition of ‘passport regulator’ in
+                                                            section 55 of the Australian Passport Rules.
+
+                               Passport Rules             The requirements in Annex 3 to the Memorandum of
+                                                          Cooperation, as incorporated into the domestic law of a
+                                                          participating economy
+
+                               PDS                        A Product Disclosure Statement—a document that must
+                                                          be given to a retail client for the offer or issue of a
+                                                          financial product in accordance with Div 2 of Pt 7.9 of the
+                                                          Corporations Act
+                                                            Note: See s9 for the exact definition.
+
+                               platform                   An investor directed portfolio service (IDPS) and IDPS-
+                                                          like scheme
+                                                            Note: This term does not extend to nominee and custody
+                                                            services, superannuation master trusts or other
+                                                            superannuation funds, self-managed superannuation funds, or
+                                                            managed discretionary accounts, as defined in Regulatory
+                                                            Guide 179 Managed discretionary accounts (RG 179).
+
+                               Pt 5C.6 (for example)      A part of the Corporations Act (in this example numbered
+                                                          5C.6), unless otherwise specified
+
+                               registered scheme          A managed investment scheme that is registered under
+                                                          s601EB of the Corporations Act
+
+                               regulated collective       A regulated collective investment scheme as defined by
+                               investment scheme          the Passport Rules for a participating economy
+
+                               responsible entity         A responsible entity of a registered scheme as defined in
+                                                          s9 of the Corporations Act
+
+                               responsible Minister       The Australian Minister responsible for the Asia Region
+                                                          Funds Passport
+
+                               retail client              A client as defined in s761G and 761GA of the
+                                                          Corporations Act and Div 2 of Pt 7.1 of the Corporations
+                                                          Regulations
+
+                               RG 51 (for example)        An ASIC regulatory guide (in this example numbered 51)
+
+                               s1012E (for example)       A section of the Corporations Act (in this example
+                                                          numbered 1012E), unless otherwise specified
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                                           Page 37
+                                                      REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                               Term                       Meaning in this document
+
+                               virtual-only meeting       A meeting that is held in accordance with s252P(c) of the
+                                                          Corporations Act
+
+                               wholesale client           A client who is not a retail client as defined in s761G of
+                                                          the Corporations Act and Div 2 of Pt 7.1 of the
+                                                          Corporations Regulations
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                                    Page 38
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+Related information
+
+                             Headnotes
+                             application for relief, Asia Region Funds Passport, Australian passport fund,
+                             Australian Passport Rules, closely related schemes, compliance committee,
+                             compliance plan, deregistration, discretionary powers, exemption, frozen
+                             fund, hardship, managed investment scheme, members, modification,
+                             operator, registered scheme, relief, responsible entity, stapled securities,
+                             withdrawal arrangements
+
+
+                             Regulatory guides
+
+                             RG 43 Financial reports and audit relief
+
+                             RG 49 Employee incentive schemes
+
+                             RG 51 Applications for relief
+
+                             RG 76 Related party transactions
+
+                             RG 80 Managed investment schemes: Interests not for money
+
+                             RG 87 Charitable schemes and school enrolment deposits
+
+                             RG 91 Horse breeding schemes and horse racing syndicates
+
+                             RG 138 Foreign passport funds
+
+                             RG 140 Strata schemes and management rights schemes
+
+                             RG 144 Mortgage investment schemes
+
+                             RG 148 Platforms that are managed investment schemes and nominee and
+                             custody services
+
+                             RG 160 Time-sharing schemes
+
+                             RG 161 Share and interest sale facilities
+
+                             RG 174 Relief for externally administered companies and registered
+                             schemes being wound up
+
+                             RG 195 Group purchasing bodies for insurance and risk products
+
+
+                             Information sheets
+                             INFO 249 Frozen funds—Information for responsible entities
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                            Page 39
+                                                    REGULATORY GUIDE 136: Funds management: Discretionary powers
+
+
+
+
+                             Legislative instruments
+
+                             ASIC Corporations (Hardship Withdrawals Relief) Instrument 2020/778
+
+
+                             Legislation
+
+                             Corporations Act 2001, Chs 5C, 8A, 8B; Pts 5C.4, 5C.6; s252P, 252R, 253E,
+                             253LA, 601ED, 601FC, 601FD, 601FE, 601FL, 601GA, 601GC, 601HG,
+                             601JA, 601JB, 601KA, 601KB–601KE, 601LC, 601PA, 601PBB, 601QA,
+                             926A, 951B, 992B, 1012E, 1020F, 1211, 1217, 1217A, 1243
+
+                             Corporations (Passport) Rules 2018
+
+
+                             Other documents
+
+                             Memorandum of Cooperation on the Establishment and Implementation of
+                             the Asia Region Funds Passport
+
+
+
+
+© Australian Securities and Investments Commission June 2025                                            Page 40
+

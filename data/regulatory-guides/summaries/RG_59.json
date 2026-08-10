@@ -1,0 +1,21 @@
+{
+  "citation": "RG 59",
+  "title": "Announcing and withdrawing takeover bids (s653 and s746)",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses the policy, interpretation and operation of sections 653 and 746 of the Corporations Law regarding the announcement and withdrawal of takeover bids. It explains when a bid should be announced, the consequences of public announcements, conditional bids, defences, and relief from obligations.",
+  "background": "The guide is issued under the Corporations Law (Cth) to provide guidance on the regulatory requirements for announcing and withdrawing takeover bids. It is intended for offerors, target companies, and market participants to understand the ASC's (now ASIC) views on the operation of s653 and s746.",
+  "ruling": "ASIC states that a bid should be announced when the offeror has a firm intention to make a bid and the announcement is made in a manner that ensures the market is informed. The guide explains that s746 imposes an obligation to proceed with a bid if a public announcement is made, unless a defence under s746(10) applies, such as changed circumstances or illegality. ASIC will consider relief from s746 obligations in limited circumstances, including when making the bid would be futile or an overbid occurs. For withdrawal of offers under s653, ASIC may consent if the offeror is overbid or if continuing the bid would result in significant wasted costs, but the balance of convenience is strongly against consent unless it is a practical certainty that costs would be thrown away. ASIC may impose conditions on consent, such as requiring the offeror to dispose of shares acquired.",
+  "date_of_effect": "1995-08-21",
+  "legislation_referenced": [
+    "Corporations Law (Cth) s653",
+    "Corporations Law (Cth) s746",
+    "Corporations Law (Cth) s662(2)",
+    "Corporations Law (Cth) s999",
+    "Corporations Law (Cth) s620",
+    "Corporations Law (Cth) s663(9)",
+    "Corporations Law (Cth) s657(1)"
+  ],
+  "cases_referenced": [],
+  "related_rulings": []
+}

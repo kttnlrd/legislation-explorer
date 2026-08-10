@@ -1,0 +1,1607 @@
+REGULATORY GUIDE 74
+
+Acquisitions approved by
+members
+
+December 2011
+
+
+
+
+About this guide
+This guide is for entities subject to Ch 6 of the Corporations Act—that is,
+companies with more than 50 members, listed companies and listed
+managed investment schemes.
+
+It sets out our guidance on the takeovers exception for acquisitions
+approved by members contained in item 7 of s611 (item 7) of the
+Corporations Act, including guidance on the disclosure required and the
+voting restrictions imposed by item 7. It also explains how we monitor
+compliance with these requirements and our policy on the exercise of our
+discretionary powers in relation to item 7.
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in December 2011 and is based on legislation and
+                             regulations as at the date of issue. The reference to the relief instrument in
+                             RG 74.76 was updated in August 2015 because this instrument was
+                             reviewed as part of the sunsetting of legislative instruments under the
+                             Legislative Instruments Act 2003. On 27 July 2020, we updated the process
+                             for submitting a meeting document and an application for relief in
+                             RG 74.111. We also updated the references to the relief instruments in
+                             RG 74.74, RG 74.77 and RG 74.78.
+
+                             Previous versions:
+                                    Superseded Policy Statement 74, issued December 1993, updated
+                                     January 1994, rebadged as a regulatory guide 5 July 2007
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                         Page 2
+                                                                    REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+Contents
+                             A      Overview ........................................................................................... 4
+                                    Item 7 acquisitions ............................................................................. 4
+                                    Disclosure required for item 7 acquisitions ........................................ 4
+                                    Entitlement to vote ............................................................................. 5
+                                    Relief for trust schemes ..................................................................... 5
+                                    Other aspects of item 7 acquisitions .................................................. 5
+                                    Application of our policy ..................................................................... 6
+                                    Terminology used in this guide .......................................................... 6
+                             B      Disclosure required for item 7 acquisitions.................................. 7
+                                    Context of information required by item 7 .......................................... 7
+                                    Disclosure of material information: Item 7(b) ..................................... 8
+                                    Detailed analysis of the proposed acquisition ................................. 11
+                                    ‘Clear, concise and effective’ disclosure .......................................... 13
+                                    Dispatch of information .................................................................... 13
+                             C      Entitlement to vote ........................................................................ 14
+                                    Voting restrictions: Item 7(a) ............................................................ 14
+                                    Relief for trustees and nominees ..................................................... 14
+                                    Relief for offers to all members ........................................................ 15
+                             D      Relief for trust schemes ................................................................ 17
+                                    How trust schemes operate ............................................................. 17
+                                    Relief from the item 7 voting restrictions ......................................... 17
+                                    Chapter 5C relief .............................................................................. 18
+                                    Chapter 7 relief ................................................................................ 19
+                             E      Other aspects of item 7 acquisitions ........................................... 22
+                                    Changes in circumstances............................................................... 22
+                                    Time between member approval and item 7 acquisition ................. 24
+                                    An acquisition involving convertible securities ................................. 24
+                                    Pre-meeting arrangements: s609(7) ................................................ 25
+                                    Related takeovers and other control transactions ........................... 25
+                             F      Application of our policy............................................................... 28
+                                    Giving draft documents to ASIC ...................................................... 28
+                                    Surveillance and enforcement ......................................................... 28
+                             Key terms ............................................................................................... 30
+                             Related information ............................................................................... 32
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                                                      Page 3
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+A          Overview
+
+                              Key points
+
+                              Acquisitions approved by members under item 7 of s611 (item 7) of the
+                              Corporations Act are one of the exceptions to the prohibitions in s606. This
+                              guide:
+                              • explains the disclosure requirements for seeking approval under item 7
+                                (see Section B);
+                              • discusses the voting restrictions imposed by item 7 (see Section C);
+                              • explains the relief we give for trust schemes (see Section D);
+                              • discusses specific issues that can arise with item 7 acquisitions, including
+                                a change in circumstances before completion of the acquisition, the
+                                length of time between member approval and acquisition, an acquisition
+                                involving convertible securities, pre-meeting arrangements, item 7
+                                placements that are inter-conditional with other control transactions, and
+                                related takeover announcements (see Section E); and
+                              • sets out how we monitor item 7 acquisitions and apply the policy set out
+                                in this guide (see Section F).
+
+
+
+
+Item 7 acquisitions
+              RG 74.1        Item 7 of s611 (item 7) of the Corporations Act 2001 (Corporations Act)
+                             allows members to approve an acquisition of relevant interests in voting
+                             shares that would otherwise contravene the prohibitions in s606. Item 7
+                             contains disclosure requirements to ensure that members are able to make an
+                             informed decision about whether or not to approve the acquisition. The
+                             voting restrictions ensure that only members who are not associated with the
+                             parties to the transaction are able to vote in favour of the proposal.
+
+
+
+Disclosure required for item 7 acquisitions
+              RG 74.2        Item 7 requires certain material information to be disclosed to members: see
+                             RG 74.10–RG 74.16. Section B discusses the disclosure required by item 7,
+                             including:
+                             (a)   the information that is required in a notice of meeting seeking approval
+                                   for an acquisition (see RG 74.17–RG 74.28);
+                             (b)   the requirements for independent expert reports and reports prepared by
+                                   directors, and the limited circumstances in which a report may not be
+                                   required (see RG 74.29–RG 74.42); and
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                         Page 4
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+                             (c)   the requirement for entities to ensure that a notice of members’ meeting
+                                   is clear, concise and effective (see RG 74.43–RG 74.44), and that
+                                   members have adequate time to consider the information, including any
+                                   new information that arises after dispatch of the meeting documents
+                                   (see RG 74.45–RG 74.47).
+
+
+Entitlement to vote
+              RG 74.3        Section C discusses the voting restrictions in item 7, which ensure that the
+                             acquisition is approved only by members who are not associated with the
+                             acquirer or the vendor: see RG 74.48–RG 74.50.
+
+              RG 74.4        Section C also describes the relief we may give from the voting restrictions:
+                             (a)   for trustees and nominees (see RG 74.51–RG 74.52); or
+                             (b)   if the proposed acquisition involves an offer to all members (see
+                                   RG 74.53–RG 74.57).
+
+
+Relief for trust schemes
+              RG 74.5        Section D discusses relief for trust schemes. A trust scheme is a colloquial
+                             term for a type of transaction used to acquire control of a listed managed
+                             investment scheme. Trust schemes generally require relief from the voting
+                             restrictions in item 7(a)(ii) and various provisions in Chs 5C and 7.
+
+
+Other aspects of item 7 acquisitions
+              RG 74.6        Section E discusses specific issues that can arise with item 7 acquisitions,
+                             including:
+                             (a)   when there is a change in circumstances after dispatch of a notice of
+                                   meeting for an item 7 resolution but before the meeting is held—this may
+                                   mean that further disclosure is required (see RG 74.81–RG 74.86);
+                             (b)   when there is a change in circumstances after the meeting is held—this
+                                   may mean that fresh item 7 approval is required (see RG 74.87–RG 74.88);
+                             (c)   if there is a significant delay between approval and completion of an
+                                   item 7 acquisition (see RG 74.89);
+                             (d)   when an acquisition involves convertible securities (see RG 74.90–
+                                   RG 74.93);
+                             (e)   when there are pre-meeting arrangements (see RG 74.94–RG 74.96);
+                             (f)   when item 7 placements are inter-conditional with other control
+                                   transactions (see RG 74.97–RG 74.102); and
+                             (g)   when takeover announcements are connected with an item 7 acquisition
+                                   (see RG 74.104–RG 74.108).
+
+
+
+© Australian Securities and Investments Commission December 2011                                         Page 5
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+Application of our policy
+              RG 74.7        Section F sets out how we monitor item 7 acquisitions and apply the policy
+                             set out in this guide, including guidance on:
+                             (a)   how we encourage entities to give us draft notices of meetings for
+                                   item 7 acquisitions before they are sent to members to reduce the risk of
+                                   regulatory action (see RG 74.109–RG 74.113); and
+                             (b)   when we may take action if the requirements of item 7 are not met,
+                                   including an application to the Takeovers Panel or court (see
+                                   RG 74.114–RG 74.116).
+
+
+
+Terminology used in this guide
+              RG 74.8        Item 7 and this guide are potentially relevant to any entity subject to Ch 6—that
+                             is, companies with more than 50 members, listed companies and listed
+                             managed investment schemes. For ease of reference, this guide uses the term
+                             ‘entity’ and ‘securities’, except when we are quoting the Corporations Act or
+                             need to distinguish between companies and managed investment schemes.
+
+              RG 74.9        Other key terms are defined in the ‘Key terms’ at the end of this guide.
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                         Page 6
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+B          Disclosure required for item 7 acquisitions
+
+                              Key points
+
+                              Item 7 requires disclosure of detailed information so that members can make
+                              an informed decision about a proposal that may affect control of their entity:
+                              see RG 74.10–RG 74.16.
+
+                              This section discusses information that is material to the decision on how to
+                              vote on an item 7 resolution: see RG 74.17–RG 74.28. In particular, members
+                              should generally be provided with an analysis of the item 7 acquisition
+                              that complies with Regulatory Guide 111 Content of expert reports
+                              (RG 111): see RG 74.29–RG 74.42.
+
+                              This section also discusses how the information should be presented (see
+                              RG 74.43–RG 74.44) and the dispatch of the notice of meeting documents
+                              to members: see RG 74.45–RG 74.47.
+
+
+
+
+Context of information required by item 7
+              RG 74.10       Chapter 6 aims to ensure that the basic rights of members are protected when
+                             control of the entity may change. Those rights are set out in general terms
+                             in s602.
+
+              RG 74.11       Item 7 allows members to approve an acquisition of securities that would
+                             otherwise contravene the prohibitions in s606. It recognises that members
+                             may choose to give up an equal opportunity to participate in any benefits
+                             accruing to other members if the acquisition may change control of the
+                             entity, which is one of their basic rights under s602.
+
+              RG 74.12       However, members voting on an item 7 resolution are entitled to all the other
+                             rights set out in s602, including the right to:
+                             (a)   know the identity of persons who propose to acquire a substantial
+                                   interest in their entity;
+                             (b)   be given a reasonable time to consider the proposal; and
+                             (c)   be given enough information to assess the merits of the proposal
+                                   (s602(b)).
+
+                             These rights are reflected in the disclosure requirements of item 7.
+
+
+                             Duty of target directors to give disclosure
+
+              RG 74.13       Item 7 requires certain material information to be disclosed to members. The
+                             principle in s602(b) also requires members to be given enough information
+                             to assess the merits of a proposal.
+
+
+
+© Australian Securities and Investments Commission December 2011                                         Page 7
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+              RG 74.14       Directors also have a duty at common law to give full and proper disclosure.
+                             At common law, a notice of meeting must disclose all information needed to
+                             fully and fairly inform members of the nature of the proposed resolutions
+                             and to enable members to judge for themselves whether to attend the
+                             meeting and vote for or against the proposed resolutions: see Bulfin v
+                             Bebarfald’s Ltd (1938) 38 SR (NSW) 423 at 440, Fraser v NRMA Holdings
+                             Limited (1995) 127 ALR 543 at 554, Lion Nathan Australia Pty Ltd v
+                             Coopers Brewery Ltd and Others (2005) 55 ACSR 583 and ENT Pty Ltd v
+                             Sunraysia Television Ltd (2007) 61 ACSR 626.
+
+
+                             Failure to give full disclosure
+
+              RG 74.15       If directors fail in their duty to make proper and full disclosure, the courts
+                             may make remedial orders—for example, the courts may declare the
+                             resolution to be invalid and of no effect: see Bain & Company Nominees Pty
+                             Ltd v Grace Bros Holdings Ltd (1983) 1 ACLC 816, Bancorp Investments
+                             Ltd v Primac Holdings Ltd (1985) 3 ACLC 69, Chequepoint Securities Ltd v
+                             Claremont Petroleum NL (1986) 4 ACLC 711 and Devereaux Holdings Pty
+                             Ltd v Parry Corporation Ltd (1985) 9 ACLR 837.
+
+              RG 74.16       The Takeovers Panel may also make remedial orders if deficient disclosure
+                             amounts to unacceptable circumstances—see, for example, LV Living
+                             Limited [2005] ATP 5 and Axiom Properties Ltd 01 [2006] ATP 1.
+
+
+
+Disclosure of material information: Item 7(b)
+              RG 74.17       Members asked to approve an acquisition under item 7 must be given all
+                             information known to the acquirer, its associates or the target entity that is
+                             material to the decision on how to vote on the resolution: see item 7(b).
+
+              RG 74.18       Item 7(b) specifies that the material information to be given to members
+                             includes:
+                             (a)   the identity of the person proposing to make the acquisition and their
+                                   associates;
+                             (b)   the maximum extent of the increase in that person’s voting power in the
+                                   company;
+                             (c)   the voting power the person would have as a result of the acquisition;
+                             (d)   the maximum extent of the increase in the voting power of each of the
+                                   acquirer’s associates that would result from the acquisition; and
+                             (e)   the voting power that each of the acquirer’s associates would have as a
+                                   result of the acquisition.
+
+              RG 74.19       To be effective, the resolution seeking approval should be specific rather
+                             than general. For example, disclosing the identity of the acquirer would
+
+
+
+© Australian Securities and Investments Commission December 2011                                         Page 8
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+                             ordinarily involve naming the acquirer. The resolution should also make it
+                             clear that approval is being sought for the purposes of item 7 and seek
+                             approval for the acquirer’s acquisition of a relevant interest in the target
+                             entity’s securities: see the Takeovers Panel’s comments in LV Living Limited
+                             [2005] ATP 5 at paragraph 102.
+
+
+                             Acquirer’s responsibility to provide information
+              RG 74.20       Item 7 specifically requires members to be provided with material information
+                             known to the acquirer and its associates (in addition to information known to
+                             the target entity). The item 7 approval will be invalid and the acquirer will
+                             contravene s606 if this information is not provided. The acquirer should
+                             preferably also have a contractual obligation to provide necessary information
+                             to the target (under the terms of the agreement between the acquirer and the
+                             target entity). This will assist the target directors in ensuring members are
+                             fully informed.
+
+
+                             Disclosure of voting power
+              RG 74.21       Item 7(b)(ii) and item 7(b)(iv) require disclosure of the maximum increase in
+                             the voting power of the acquirer and the acquirer’s associates as a result of
+                             the acquisition. This is vital information that should be set out clearly and
+                             prominently in the notice of meeting documents.
+
+              RG 74.22       Item 7(b)(iii) and item 7(b)(v) also require disclosure of the voting power of
+                             the acquirer and the acquirer’s associates as a result of the acquisition. This
+                             information on maximum voting power should also be set out clearly and
+                             prominently. We consider that it is sufficient to disclose maximum voting
+                             power under item 7(b)(iii) and item 7(b)(v) when it is not possible to estimate
+                             the actual voting power. Preferably, the resolution itself should also specify
+                             the maximum voting power that the acquirer and its associates may obtain.
+
+              RG 74.23       If the acquirer’s and associates’ voting power will depend on a number of
+                             factors, the meeting documents should clearly disclose these factors. For
+                             example, if the number of securities and, therefore, voting power will be
+                             determined by a formula, then this formula should be clearly disclosed and
+                             explained. We consider it is good practice to include tables and worked
+                             examples.
+                                  Note: See also the disclosure requirement under ASX Listing Rule 7.3.1.
+
+              RG 74.24       Disclosure of the parties’ voting power may be particularly complex when the
+                             item 7 acquisition is part of a larger transaction or series of transactions—for
+                             example, when the acquirer will be issued securities under a placement and
+                             also plans to underwrite a rights issue. In these circumstances, it is particularly
+                             important that the notice of meeting clearly explains the effect that the item 7
+                             acquisition and any other transactions will have on control of the entity.
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                            Page 9
+                                                             REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+                             Other material information required in the notice of meeting
+
+              RG 74.25       To ensure full and proper disclosure of all material information, members
+                             should be given the following information in the notice of meeting or
+                             accompanying explanatory material:
+                             (a)   an explanation of the reasons for the proposed acquisition;
+                             (b)   when the proposed acquisition is to occur;
+                             (c)   the material terms of the proposed acquisition;
+                             (d)   details of the terms of any other relevant agreement between the
+                                   acquirer and the target entity or vendor (or any of their associates) that
+                                   is conditional on (or directly or indirectly depends on) members’
+                                   approval of the proposed acquisition;
+                             (e)   a statement of the acquirer’s intentions regarding the future of the target
+                                   entity if members approve the acquisition and, in particular:
+                                   (i)     any intention to change the business of the entity;
+                                   (ii)    any intention to inject further capital into the entity;
+                                   (iii)   the future employment of present employees of the entity;
+                                   (iv)    any proposal where assets will be transferred between the entity
+                                           and the acquirer or vendor or their associates; and
+                                   (v)     any intention to otherwise redeploy the fixed assets of the entity;
+                             (f)   any intention of the acquirer to significantly change the financial or
+                                   dividend distribution policies of the entity;
+                             (g)   the interests that any director has in the acquisition or any relevant
+                                   agreement disclosed under RG 74.25(d); and
+                             (h)   the following details about any person who is intended to become a
+                                   director if members approve the acquisition:
+                                   (i)     name;
+                                   (ii)    qualifications and relevant professional or commercial experience;
+                                   (iii)   any associations that the proposed director has with the acquirer,
+                                           vendor or any of their associates; and
+                                   (iv)    any interest that the proposed director has in the acquisition or any
+                                           relevant agreement disclosed under RG 74.25(d).
+
+              RG 74.26       The information listed in RG 74.25 is indicative and merely sets out information
+                             that would generally be required at a minimum (in addition to the disclosure
+                             required by item 7(b)(i)–(v)). The directors should also assess whether members
+                             would reasonably require any additional information to decide how to vote on
+                             the resolution. Disclosure on issues that are likely to affect the future of the
+                             entity (such as the acquirer’s intentions) is particularly important if the
+                             acquirer may gain control of the entity if the item 7 acquisition is approved.
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                          Page 10
+                                                             REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+              RG 74.27       Members should also be provided with:
+                             (a)   the recommendation of each director on how non-associated members
+                                   should vote on the resolution and the reasons for that recommendation
+                                   (or the reasons why the director is not giving a recommendation); and
+                             (b)   an analysis of the proposed acquisition that complies with the requirements
+                                   in Regulatory Guide 111 Content of expert reports (RG 111) (see
+                                   RG 74.29–RG 74.37).
+
+              RG 74.28       For a listed entity, the listing rules of the relevant market operator may
+                             require additional information to be disclosed. Entities should also consider
+                             whether the related party provisions in Ch 2E or Pt 5C.7 are applicable to the
+                             transaction: see Regulatory Guide 76 Related party transactions (RG 76).
+
+
+
+Detailed analysis of the proposed acquisition
+              RG 74.29       We consider that the directors of the target entity should provide members with an
+                             independent expert report or a detailed directors’ report on the proposed transaction
+                             to satisfy the obligation to disclose all material information on how to vote on the
+                             item 7 resolution. This analysis should comply with RG 111: see RG 74.35.
+
+              RG 74.30       If two or more reports are obtained for a proposed item 7 acquisition, the
+                             directors should provide a copy of each report to members: see Regulatory
+                             Guide 112 Independence of experts (RG 112) at RG 112.59.
+
+
+                             Independent expert report
+
+              RG 74.31       The analysis of the proposed transaction should usually be in the form of an
+                             independent expert report, which is standard market practice.
+
+                                   Note: The Takeovers Panel Guidance Note 15 Trust scheme mergers (Guidance
+                                   Note 15) at paragraph 19 requires an independent expert report for trust schemes.
+
+              RG 74.32       Directors should only prepare a report themselves if they have sufficient
+                             expertise, experience and resources to prepare a report (using specialist
+                             valuations if required) on which the non-associated members may rely. The
+                             members should not receive lesser quality information from directors than
+                             they would from an independent expert.
+
+              RG 74.33       Directors should only prepare a detailed analysis of an item 7 acquisition if they
+                             are not associated with the proposal. If a majority of the directors have an interest
+                             in an item 7 resolution to put to members, the directors will probably only satisfy
+                             their disclosure obligation by obtaining an independent expert report.
+
+              RG 74.34       We closely examine any report prepared by directors to ensure it is adequate. In
+                             our experience of reviewing item 7 documents, there is a significant risk that a
+                             report prepared by directors will not provide all material information to members.
+
+
+
+© Australian Securities and Investments Commission December 2011                                                   Page 11
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+                             Content of report
+              RG 74.35       The report provided to members should comply with RG 111 (whether it is
+                             prepared by an independent expert or the directors themselves). RG 111
+                             requires an expert to focus on the purpose and outcome of a transaction,
+                             rather than the legal mechanism to effect the transaction. If an independent
+                             expert has prepared the report, it must also comply with RG 112.
+
+              RG 74.36       If the effect of an item 7 acquisition on a target entity’s shareholding will be
+                             similar to a takeover bid, the report should analyse whether the transaction is fair
+                             and reasonable in accordance with RG 111.10–RG 111.17. For further guidance
+                             about how to perform this analysis for item 7 transactions involving an issue of
+                             securities, see RG 111.24–RG 111.27.
+
+              RG 74.37       If a transaction will not have a similar effect to a takeover bid (e.g. approval is
+                             sought for a sale of securities), the report should provide the information set out in
+                             RG 111.41–RG 111.46. This includes an analysis of the advantages and
+                             disadvantages of the transaction.
+
+
+                             Consent for use of expert report
+              RG 74.38       Directors should not present a report to members unless the expert consents
+                             to use of their report and opinion in the form and context used.
+
+              RG 74.39       The directors should also ensure that the notice of meeting does not quote the
+                             expert’s statements out of context. For example, it may be misleading to quote an
+                             expert’s opinion without stating the key assumptions on which it is based.
+
+
+                             Non-provision of expert report or directors’ report
+              RG 74.40       In some exceptional circumstances, a resolution may be valid even though
+                             the members are not provided with an expert report or a detailed directors’
+                             report. For example, the non-associated members’ interests may occasionally
+                             be materially damaged by the delay or expense involved in obtaining such a
+                             report: see the Takeovers Panel’s comments in LV Living Limited [2005]
+                             ATP 5 at paragraph 103. This would normally be the case only when such
+                             delay or expense would be likely to force the entity into immediate
+                             liquidation. In such circumstances, given the position of the entity, the
+                             information likely to be material to members will differ.
+
+              RG 74.41       Generally, however, there is a risk that item 7 approval will be invalid if it is
+                             obtained without either an expert report or detailed directors’ report. The
+                             parties will also risk an application seeking a declaration of unacceptable
+                             circumstances if item 7 approval is obtained without an expert report or
+                             detailed directors’ report.
+
+              RG 74.42       The target entity should inform us if it does not plan to provide either an expert
+                             report or directors’ report before the notice of meeting is sent to members.
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                         Page 12
+                                                            REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+‘Clear, concise and effective’ disclosure
+              RG 74.43       A notice of members’ meeting should be worded and presented in a ‘clear,
+                             concise and effective’ manner: see s249L(3). This is particularly important
+                             when approval is sought for an item 7 resolution, given the complex
+                             information required.
+                                   Note: Although s249L(3) applies only to meetings of a company’s members and not to
+                                   meetings of members of a managed investment scheme, we expect that a notice of
+                                   meeting of members of a managed investment scheme would also be worded and
+                                   presented in a ‘clear, concise and effective’ manner.
+
+              RG 74.44       We consider that an item 7 notice of meeting should:
+                             (a)   highlight key information (both positive and negative) in a summary
+                                   up-front, especially the maximum increase in voting power;
+                             (b)   be easy to navigate (e.g. through the use of numbered sections, cross-
+                                   references and tables of contents for longer documents);
+                             (c)   use plain language; and
+                             (d)   be as brief as possible.
+                                   Note: See also Section B of Regulatory Guide 228 Prospectuses: Effective disclosure
+                                   for retail investors (RG 228) for more guidance on how to make disclosure ‘clear,
+                                   concise and effective’.
+
+
+
+
+Dispatch of information
+              RG 74.45       To satisfy s249HA, a listed company must dispatch the notice of meeting to
+                             members at least 28 days before the date of the meeting.
+
+              RG 74.46       Unlisted companies and registered schemes must give at least 21 days notice
+                             of a meeting (unless the constitution specifies a longer period of notice): see
+                             s249H(1) and 252F.
+
+              RG 74.47       After dispatch of the original meeting documents, a target entity may need to
+                             give supplementary or corrective information to members: see RG 74.83. If
+                             members would not have adequate time to consider the supplementary or
+                             corrective information, the entity will need to postpone the meeting or
+                             convene a new meeting: see RG 74.86.
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                                 Page 13
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+C          Entitlement to vote
+
+                              Key points
+
+                              This section describes our view on how the voting restrictions in item 7(a)
+                              apply (see RG 74.48–RG 74.50) and the relief we may give:
+                              • for trustees and nominees (see RG 74.51–RG 74.52); or
+                              • if the proposed acquisition involves an offer to all members (see
+                                RG 74.53–RG 74.57).
+
+
+
+
+Voting restrictions: Item 7(a)
+              RG 74.48       It is a condition of approval under item 7(a) that no votes are cast in favour of
+                             the resolution by:
+                                  ‘(i) the person proposing to make the acquisition and their associates; or
+                                  (ii) the persons (if any) from whom the acquisition is to be made and their
+                                       associates.’
+
+              RG 74.49       The persons specified in item 7(a) must not vote in favour of the resolution.
+                             However, the voting restriction in item 7(a) does not prevent these persons from
+                             voting against the resolution: see Village Roadshow Ltd v Boswell Film GmbH
+                             (2004) 49 ACSR 27 at 33 (referring to corresponding words in s257D(1)(a)).
+
+
+                             Associates of an issuer may vote on issues of shares
+
+              RG 74.50       Item 7(a)(ii) prevents the person from whom the acquisition is to be made
+                             and their associates from voting in favour of the resolution. If the acquisition
+                             occurs through an issue of shares, there is no ‘person from whom the
+                             acquisition is to be made’. This means that item 7(a)(ii) does not prevent an
+                             associate of the issuer from voting in favour of the resolution: see McMillan
+                             Properties Pty Ltd v W C Penfold Ltd (2001) 40 ACSR 319 at 325–26. The
+                             acquirer and the acquirer’s associates are precluded from voting in favour of
+                             the resolution by item 7(a)(i).
+
+
+
+Relief for trustees and nominees
+              RG 74.51       A person who is precluded from voting in favour of an item 7 resolution
+                             because they are the acquirer or the person from whom the acquisition will
+                             be made (or an associate of those persons) may hold shares on trust or as a
+                             nominee for other persons who would not be precluded from voting if they
+                             held shares directly.
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                        Page 14
+                                                              REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+              RG 74.52       We may give relief to permit the counting of votes that would otherwise be
+                             disregarded because of item 7(a) for shares held by a trustee for another
+                             person (the ‘beneficial holder’) provided that:
+                             (a)   the beneficial holder is not an associate of the trustee;
+                             (b)   item 7(a) would not restrict the beneficial holder from voting if they
+                                   held the shares directly; and
+                             (c)   the beneficial holder directs the trustee to vote in favour of the
+                                   resolution.
+
+                                   Note: The trustee may be subject to other prohibitions on voting. For example, s253E
+                                   prevents a responsible entity and its associates from voting on a resolution at a meeting
+                                   of scheme members if they have an interest in the resolution other than as a member:
+                                   see Guidance Note 15, paragraph 26 at footnote 31.
+
+
+
+
+Relief for offers to all members
+              RG 74.53       If a proposed acquisition involves an offer to all members, an item 7
+                             resolution will not be possible without ASIC relief because all the members
+                             will be precluded from voting by item 7(a)(ii). We will consider applications
+                             from the acquirer to modify item 7(a)(ii) so that members who have an
+                             interest in the transaction as ordinary members (and as offerees), rather than
+                             having a special interest in the transaction, will be permitted to vote in
+                             favour of the resolution.
+
+                                   Note: The acquirer and any member associated with the acquirer will still be precluded
+                                   from voting by item 7(a)(i).
+
+              RG 74.54       In deciding whether to grant relief, and on what terms, we will consider the
+                             purposes of Ch 6 as set out in s602. We will review whether the transaction
+                             complies with these purposes. We will also closely review the draft
+                             disclosure before granting relief.
+
+              RG 74.55       If the target entity is a company, we will consider why the parties are
+                             seeking approval under item 7 rather than proceeding with a takeover bid or
+                             a scheme of arrangement under Pt 5.1: see RG 74.56–RG 74.57. If the target
+                             entity is a managed investment scheme, we accept that a trust scheme is
+                             usually a valid alternative to a takeover bid (given that Pt 5.1 does not apply
+                             to managed investment schemes): see RG 74.58–RG 74.65.
+
+
+                             Offers to all members of a company
+
+              RG 74.56       We will not give relief to allow an offer to all members of a company to
+                             proceed via item 7 unless we are satisfied that there is a commercial or legal
+                             reason why it is not practical to structure the offer as a takeover bid or
+                             scheme of arrangement. This reflects our general approach to applications
+
+
+
+© Australian Securities and Investments Commission December 2011                                                    Page 15
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+                             for relief, which is that we will not be inclined to provide relief if there is a
+                             lawful and effective way of doing something without relief: see Regulatory
+                             Guide 51 Applications for relief (RG 51) at RG 51.55.
+
+              RG 74.57       In considering any such applications for relief, we will also be mindful that
+                             the Corporations Act contains shareholder protections for bids and schemes
+                             of arrangement. We will need to be satisfied that the protections and
+                             principles of Ch 6 would not be undermined by providing relief to permit the
+                             transaction to proceed via an item 7 resolution.
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                        Page 16
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+D          Relief for trust schemes
+
+                              Key points
+
+                              A trust scheme is a colloquial term for a type of transaction used to acquire
+                              control of a listed managed investment scheme: see RG 74.58–RG 74.61.
+
+                              A trust scheme generally requires relief from:
+                              • the voting restrictions in item 7(a)(ii) (see RG 74.62–RG 74.65);
+                              • Ch 5C for non-liquid schemes and equal treatment obligations (see
+                                RG 74.66–RG 74.71); and
+                              • Ch 7 disclosure requirements (see RG 74.72–RG 74.80).
+
+
+
+
+How trust schemes operate
+              RG 74.58       A person wanting to acquire control of a listed managed investment scheme
+                             may do so through a transaction commonly referred to as a ‘trust scheme’.
+
+              RG 74.59       Trust schemes may take different forms but generally they involve the
+                             acquirer acquiring all the interests of the target managed investment scheme.
+                             The target members will usually be offered cash or scrip consideration for
+                             the transfer or redemption of their interests.
+
+              RG 74.60       The responsible entity will seek members’ approval under item 7 for the
+                             acquirer’s acquisition of a relevant interest in all the interests of the target
+                             managed investment scheme (which would otherwise contravene s606).
+                             This will require relief from the voting restrictions in item 7(a)(ii): see
+                             RG 74.62–RG 74.65.
+
+              RG 74.61       The responsible entity will also seek members’ approval for an amendment
+                             to the target managed investment scheme’s constitution under s601GC. If the
+                             trust scheme as a whole is approved, this amendment to the constitution will
+                             facilitate the acquirer’s acquisition of the target managed investment scheme
+                             (either by compulsory transfer of the members’ interests to the acquirer or
+                             the compulsory redemption of all interests other than those held by the
+                             acquirer and its associates).
+
+
+
+Relief from the item 7 voting restrictions
+              RG 74.62       A trust scheme involves the acquirer acquiring a relevant interest in the
+                             interests of all (or most) members and has a similar effect to a takeover bid.
+                             We accept that a trust scheme is usually a valid alternative to a bid because
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                         Page 17
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+                             Pt 5.1 does not apply to managed investment schemes and so a scheme of
+                             arrangement is not an option.
+
+              RG 74.63       If a trust scheme involves an offer to all non-associated members, the parties
+                             need relief from the ‘vendor’ voting restrictions in item 7(a)(ii). These
+                             restrictions would otherwise provide that no votes may be cast in favour of
+                             an item 7 resolution by the person from whom the acquisition is to be made.
+
+              RG 74.64       The person seeking to acquire the target managed investment scheme should
+                             apply for relief from item 7(a)(ii) because the acquirer is the person who will
+                             otherwise contravene s606.
+
+              RG 74.65       Before giving relief from item 7(a)(ii), we will review the draft disclosure
+                             closely. We also need to be satisfied that the trust scheme will not undermine
+                             the protections and principles of Ch 6. This is because the specific
+                             protections that would apply to a takeover bid will not automatically apply to
+                             a trust scheme. We take into account whether the parties will comply with all
+                             the requirements of Guidance Note 15 (although actual compliance remains
+                             the responsibility of the parties). Trust schemes that do not comply with
+                             Guidance Note 15 risk an application to the Takeovers Panel for a
+                             declaration of unacceptable circumstances.
+
+
+
+Chapter 5C relief
+
+                             Relief for non-liquid schemes that will involve compulsory
+                             withdrawal of members’ interests
+
+              RG 74.66       Part 5C.6 establishes a framework under which a responsible entity may
+                             make withdrawal offers. This framework aims to ensure that each member is
+                             treated equally and has an equal opportunity to participate in the
+                             consideration provided when members’ interests in a scheme are withdrawn.
+
+              RG 74.67       The responsible entity will need relief from Pt 5C.6 if:
+                             (a)   the managed investment scheme is not liquid under Pt 5C.6; and
+                             (b)   the proposed trust scheme involves the responsible entity making
+                                   withdrawal offers to members.
+
+              RG 74.68       Part 5C.6 is also based on the responsible entity realising property of the
+                             managed investment scheme and distributing the net proceeds on a pro rata
+                             basis to all members who have accepted the withdrawal offer. The
+                             responsible entity may need relief if the trust scheme does not involve this
+                             realisation and distribution of scheme property (such as when the acquirer
+                             provides cash or scrip consideration to members of the target scheme for
+                             their interests).
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                        Page 18
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+              RG 74.69       We consider that a properly conducted trust scheme will satisfy the legislative
+                             purposes of Pt 5C.6 because members will have an equal opportunity to
+                             participate in the benefits of the scheme. This is because all members of the
+                             target scheme will receive consideration for the withdrawal of their interests,
+                             which should be of the same value per interest and in the same form.
+
+
+                             Relief from equal treatment obligations
+
+              RG 74.70       Section 601FC(1)(d) requires equal treatment of members of the same class
+                             and fair treatment of the members of all classes. The responsible entity will
+                             need relief from this requirement if the terms of the trust scheme exclude
+                             foreign members from receiving scrip consideration offered under the scheme.
+
+              RG 74.71       We consider that a properly conducted trust scheme will satisfy the
+                             legislative purpose of the equal treatment requirement in s601FC(1)(d)
+                             because it will treat members of the same class fairly and give fair treatment
+                             to the members of all classes. We are usually prepared to grant the
+                             responsible entity relief from s601FC(1)(d) to permit unequal treatment of
+                             foreign members provided that:
+                             (a)   the foreign members will be fully informed about the proposed
+                                   transaction and be given an opportunity to vote;
+                             (b)   the foreign members comprise a small percentage of interests in the
+                                   target scheme;
+                             (c)   through a sale facility, the foreign members will receive cash for their
+                                   interests for an amount that is, as far as practicable, the same as the
+                                   value that other members will receive; and
+                             (d)   the issuer of the scrip consideration would otherwise be required to
+                                   comply with foreign regulatory requirements that would be onerous in
+                                   the circumstances.
+
+
+
+Chapter 7 relief
+              RG 74.72       Trust schemes may require relief from certain provisions in Ch 7 that, for
+                             example, would otherwise require provision of a Financial Services Guide
+                             (FSG) or require the parties to hold an Australian financial services (AFS)
+                             licence: see RG 74.73–RG 74.77. We will usually give relief from these
+                             provisions for trust schemes on the basis that compliance with the Ch 7
+                             requirement would be disproportionately burdensome, and dispensing with
+                             the requirement will not compromise the protection of scheme members.
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                        Page 19
+                                                            REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+                             Relief for providing general financial product advice
+
+              RG 74.73       Information in a notice of meeting for a proposed trust scheme might satisfy
+                             the definition of financial product advice in s766B. Section 911A requires a
+                             person who provides financial product advice to hold an AFS licence
+                             authorising them to provide such advice.
+
+              RG 74.74       When the responsible entity of the target scheme, and/or the acquirer,
+                             prepares the notice of meeting and does not have an authorisation to provide
+                             financial product advice, we may grant licensing relief on the basis that
+                             compliance with the licensing provisions would be disproportionately
+                             burdensome.
+
+                                  Note: ASIC Corporations (Financial Product Advice—Exempt Documents) Instrument
+                                  2016/356 provides similar relief for schemes of arrangement, bidder’s statements and
+                                  acquisitions under item 7 in relation to companies. The policy rationale of this
+                                  instrument will usually be relevant to a trust scheme.
+
+
+                             Relief from FSG requirements
+
+              RG 74.75       Section 941A requires that an FSG be given to a retail client if the providing
+                             entity provides a financial service. It is arguable that s941A would require
+                             the responsible entity or the acquirer to give members an FSG when they
+                             give them the notice of meeting for a trust scheme (which includes general
+                             financial product advice): see RG 74.73.
+
+              RG 74.76       We will usually give the responsible entity and acquirer relief from this
+                             requirement for a trust scheme because an FSG will not provide members
+                             with any additional relevant information about these parties or their financial
+                             services (given the extensive disclosure required under item 7 and Guidance
+                             Note 15).
+
+                                  Note: In accordance with ASIC Corporations (Financial Services Guides) Instrument
+                                  2015/541, the expert report on the trust scheme should include an FSG.
+
+
+                             Relief from Pt 7.9, Div 5A for unsolicited offers
+
+              RG 74.77       Part 7.9, Div 5A prohibits certain unsolicited off-market offers to purchase
+                             financial products. A trust scheme usually involves an offer to purchase all
+                             the interests in the target scheme not held by the acquirer and its associates
+                             and may require relief from Pt 7.9’s prohibition on unsolicited offers. We
+                             generally provide this relief from Pt 7.9, Div 5A because of the extensive
+                             disclosure required for trust schemes.
+
+                                  Note: We consider this is analogous to s1019D(1)(d), which provides an exemption
+                                  from Pt 7.9, Div 5A for bids and schemes of arrangement. It is also analogous to ASIC
+                                  Corporations (Unsolicited offers—Foreign Bids) Instrument 2015/1070, which provides
+                                  relief from the provisions of Pt 7.9, Div 5A for foreign schemes regulated under the
+                                  laws of certain foreign countries on the basis that the foreign disclosure is comparable
+                                  to a scheme of arrangement.
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                                  Page 20
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+                             Relief for scrip trust schemes
+
+              RG 74.78       Trust schemes involving scrip consideration (such as interests in another
+                             managed investment scheme) may require relief from s1016A(2), 1013B(1)
+                             and 1015C if the acquirer is obliged to give a Product Disclosure Statement
+                             (PDS) to members and the relief under ASIC Corporations (Capital
+                             Reductions and Reconstructions—Technical Disclosure Relief) Instrument
+                             2017/242 is unavailable. This instrument may be unavailable if the trust
+                             scheme does not technically involve a reconstruction or arrangement that is
+                             between the responsible entity and members.
+
+              RG 74.79       If the instrument does not apply, a scrip trust scheme may require individual
+                             relief from the following requirements:
+                             (a)   application forms (s1016A(2))—these will not usually be appropriate
+                                   for a trust scheme because the financial product consideration will be
+                                   issued to all eligible members if the trust scheme proceeds;
+                             (b)   PDS labelling (s1013B(1))—the requirement to label a PDS is not
+                                   appropriate for a scrip trust scheme because the PDS will often form
+                                   part of the notice of meeting material and will not be a stand-alone
+                                   document; and
+                             (c)   PDS delivery (s1015C)—in a scrip trust scheme, the notice of meeting
+                                   material that includes the PDS will be sent to each member at the
+                                   address recorded for the member in the responsible entity’s register of
+                                   members (rather than the address nominated by each member).
+
+              RG 74.80       Individual relief from these provisions for scrip trust schemes will usually be
+                             given for the same policy reasons underlying the instrument and be based on
+                             the instrument.
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                        Page 21
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+E          Other aspects of item 7 acquisitions
+
+                              Key points
+
+                              Adequate disclosure is central to the validity of approval under item 7. This
+                              has implications when there is:
+                              • a change in circumstances after the notice of meeting is dispatched to
+                                members (see RG 74.81–RG 74.86) or after item 7 approval (see
+                                RG 74.87–RG 74.88);
+                              • a long delay between member approval and item 7 acquisition (see
+                                RG 74.89); and
+                              • an acquisition involving convertible securities (see RG 74.90–RG 74.93).
+
+                              This section also discusses issues that can arise when:
+                              • there are pre-meeting arrangements (see RG 74.94–RG 74.96);
+                              • item 7 placements are inter-conditional with other control transactions
+                                (see RG 74.97–RG 74.102); and
+                              • the notice of meeting for item 7 approval also announces a takeover bid
+                                for the target entity’s remaining securities (see RG 74.104–RG 74.108).
+
+
+
+Changes in circumstances
+
+                             A change before the meeting has been held
+              RG 74.81       A change in circumstances after dispatch of the notice of meeting but before
+                             the meeting is held may result in non-disclosure of material information
+                             required under item 7. This non-disclosure may mean that any approval
+                             obtained is invalid: see LV Living Limited [2005] ATP 5 at paragraph 103.
+                             The Takeovers Panel may also declare that there are unacceptable circumstances
+                             if the resulting acquisition is materially different from the one approved by
+                             members: see the discussion in Focus Technologies Ltd [2002] ATP 08 at
+                             paragraph 30.
+
+              RG 74.82       We will consider giving relief to accommodate certain changes in circumstances
+                             that are contemplated before the notice of meeting is sent. For example, we may
+                             give relief when the acquirer wants to be able to nominate which of its wholly
+                             owned subsidiaries will be issued the securities under the transaction.
+
+              RG 74.83       If a material change in circumstances occurs after dispatch of the notice of
+                             meeting but before the meeting takes place, the target entity should give
+                             supplementary information to members. This would usually include an
+                             updated independent expert report and advice on whether the directors’
+                             recommendation on how to vote has changed and, if so, why. The target
+                             entity should also inform members that they are able to revoke existing
+                             proxies.
+
+
+© Australian Securities and Investments Commission December 2011                                        Page 22
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+              RG 74.84       It is important that members have adequate time to consider any
+                             supplementary information distributed before voting on an item 7
+                             acquisition. Generally, we consider that members (including those voting by
+                             proxy) need to receive new information at least 10 days before being
+                             required to vote. This is consistent with our policy in Regulatory Guide 60
+                             Schemes of arrangement (RG 60) at RG 60.92–RG 60.93.
+
+              RG 74.85       In some circumstances, it may be acceptable for members to receive
+                             supplementary information shortly before the meeting is to be held. This
+                             depends on a number of factors, including:
+                             (a)   whether the information is already available (e.g. through a competing
+                                   takeover bid’s documents, market announcements or media coverage);
+                             (b)   the quantity and complexity of the supplementary information;
+                             (c)   whether the supplementary information was foreshadowed in the
+                                   original disclosure; and
+                             (d)   the significance of the supplementary information and the nature of any
+                                   additional recommendations provided by the entity’s directors.
+
+                             Some of these factors are mentioned in PowerTel Ltd 01 [2003] ATP 25 at
+                             paragraphs 23–27 and Troy Resources NL v Taipan Resources NL (2000) 36
+                             ACSR 197.
+
+              RG 74.86       The target entity should postpone the meeting, or convene a new one, if the
+                             change in circumstances makes the acquisition a substantially new
+                             transaction from the one for which approval was initially sought, and there is
+                             not enough time to give updated disclosure to members before the meeting.
+
+
+                             A change after item 7 approval but before acquisition is
+                             completed
+
+              RG 74.87       Fresh approval under item 7 should be sought if:
+                             (a)   a change in circumstances happens after approval has been obtained but
+                                   before the acquisition is completed; and
+                             (b)   the change means the transaction is materially different from the one
+                                   approved by members.
+
+              RG 74.88       This would be the case if subsequent events increased the voting power that
+                             the acquirer would have after completion of the item 7 acquisition beyond
+                             the voting power identified in the notice of meeting—for example, if the
+                             acquirer purchased shares on market before completion, or if the company’s
+                             share capital was consolidated (but the shares to be issued to the acquirer
+                             under the item 7 acquisition were not consolidated): see the Takeovers
+                             Panel’s comments in Re Australian Pipeline Trust (No. 1R) (2006) 59 ACSR
+                             341 at 357.
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                        Page 23
+                                                            REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+Time between member approval and item 7 acquisition
+              RG 74.89       An item 7 acquisition that will only be completed in the distant future may
+                             deter other takeover bids and undermine the efficient market for control of
+                             the target entity. It may also be difficult for the directors to satisfy their
+                             obligation to give full disclosure for an acquisition that will complete in the
+                             distant future: see RG 74.13–RG 74.16.
+
+
+
+An acquisition involving convertible securities
+              RG 74.90       The takeovers prohibition in s606 only applies to relevant interests in issued
+                             voting shares (and voting interests in the case of managed investment schemes).
+                             Convertible securities over unissued shares (e.g. options and convertible
+                             notes) do not ordinarily give rise to an acquisition of a relevant interest in a
+                             voting share. This means that the acquisition of convertible securities does
+                             not usually contravene s606, and item 7 approval is not required.
+
+              RG 74.91       However, the holder of convertible securities will need to rely on item 7 or
+                             another s611 exception for the issue of shares on conversion if these new
+                             shares cause the acquirer (or someone else) to exceed the 20% threshold in
+                             s606. For this reason, entities often seek item 7 approval before granting the
+                             convertible securities. This may be problematic if the convertible securities
+                             have a long exercise or conversion period: see RG 74.89.
+
+                                  Note: The item 7 resolution should seek approval for the issue of shares on conversion
+                                  (or exercise) of the convertible security and not just for the issue of the convertible
+                                  security itself: see LV Living Limited [2005] ATP 5.
+
+              RG 74.92       If item 7 approval is sought for the issue of shares on the conversion of
+                             convertible securities, members should be told the number of shares that the
+                             holder will acquire on conversion: see NCSC v Consolidated Gold Mining
+                             Areas NL (No. 2) (1985) 3 ACLC 520. If the number of shares depends on a
+                             formula, and the exact number cannot be ascertained at the time of seeking
+                             item 7 approval, it will be necessary to disclose the maximum voting power
+                             that the acquirer and its associates will have after conversion of the
+                             convertible securities: see item 7(b)(ii)–(v) and RG 74.21–RG 74.24. Fresh
+                             approval is likely to be required if the holder of convertible securities
+                             acquires additional shares before conversion and exceeds the maximum
+                             voting power approved under item 7: see RG 74.87.
+
+              RG 74.93       Item 7(b)(i) requires the identity of the acquirer and its associates to be
+                             disclosed. Therefore, approval obtained for the issue of shares on conversion
+                             of the convertible securities will only apply to the person named in the
+                             resolution. Approval will not have been given to any person to whom the
+                             convertible securities are transferred.
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                                  Page 24
+                                                              REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+Pre-meeting arrangements: s609(7)
+              RG 74.94       Usually, the acquirer and the vendor enter into a pre-meeting agreement
+                             before approval is sought under item 7. Due to s608(8), this type of pre-
+                             meeting arrangement may contravene the takeovers prohibition in s606.
+                             However, pre-meeting agreements do not give rise to a relevant interest
+                             if they:
+                             (a)   are conditional on a resolution under item 7 being passed;
+                             (b)   do not confer any control over, or power to substantially influence the
+                                   exercise of, a voting right attached to securities; and
+                             (c)   do not restrict disposal of securities for more than three months from
+                                   the date when the agreement is entered into: s609(7).
+                                   Note: The agreement should not restrict the disposal of securities after the date of the meeting
+                                   if shareholders do not approve the item 7 resolution: see PowerTel Ltd 01 [2003] ATP 25.
+
+              RG 74.95       Section 609(7) presumes that the parties intend to seek item 7 approval. If the
+                             parties do not intend to seek item 7 approval, or do not act to seek approval,
+                             they may risk an application to the Takeovers Panel for a declaration of
+                             unacceptable circumstances: see oOh!media Group Limited [2011] ATP 9 at
+                             paragraph 52.
+
+              RG 74.96       A person must still lodge a substantial holding notice for any substantial
+                             holding the person would have but for the operation of s609(7): see s671B(7).
+
+
+
+Related takeovers and other control transactions
+
+                             Item 7 placements that are inter-conditional with other
+                             control transactions
+
+              RG 74.97       Item 7 transactions that occur at or around the same time as a takeover bid
+                             by the acquirer can raise particular issues. We will consider the overall effect
+                             of the item 7 transaction and the bid when examining such transactions.
+
+              RG 74.98       We will consider whether the effect of the combined transactions is
+                             consistent with the principles in s602(a) and (c) that:
+                             (a)   the acquisition of control of voting shares in a listed entity takes place
+                                   in an efficient, competitive and informed market: s602(a); and
+                             (b)   members are given an equal opportunity to participate in the benefits
+                                   accruing to other members if the transaction may change control of the
+                                   entity: s602(c).
+                                   Note 1: Item 7 recognises that disinterested members may choose to give up this
+                                   opportunity through an informed vote: see RG 74.10–RG 74.12.
+
+                                   Note 2: When considering such transactions, we will take into account whether the
+                                   combination of the item 7 placement with a takeover bid may be contrary to the purpose
+                                   of the voting exclusion in item 7.
+
+
+
+© Australian Securities and Investments Commission December 2011                                                     Page 25
+                                                             REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+              RG 74.99       These issues may arise in the context of a cash bid that is inter-conditional
+                             with an item 7 transaction involving the issue of target securities to the
+                             bidder (i.e. the issue under item 7 will only proceed if the bid becomes
+                             unconditional and the bid will only become unconditional if the item 7
+                             resolution is approved). In this case:
+                             (a)   a security holder who wished to accept the bid would not have an
+                                   interest in the target following acceptance. They would therefore be
+                                   indifferent to the issue price and dilutive effect of the item 7 resolution.
+                                   They would be likely to regard approval of the item 7 resolution as
+                                   simply being a precondition to receiving the cash consideration under
+                                   the bid; and
+                             (b)   the effect of the combined item 7 approval and bid would be to deliver
+                                   the bidder a higher voting power than it could obtain from acceptances
+                                   under the bid alone (assuming acceptances fall short of the compulsory
+                                   acquisition thresholds). This increased voting power may place pressure
+                                   on target holders to accept this bid, particularly if they considered that
+                                   the item 7 placement would be likely to dilute the value of their shares.
+
+                                   Note: Similar concerns may arise for an item 7 placement that is inter-conditional with a
+                                   scrip takeover bid. In this case, it would be in the interests of target members who
+                                   wished to accept the bid for the placement to occur at a low price (given that they would
+                                   acquire the bidder’s scrip under the takeover bid). In contrast, it would be in the
+                                   interests of remaining members for the placement to occur at a high price.
+
+              RG 74.100      There may be circumstances in which the combination of a takeover bid and
+                             an item 7 transaction would raise s602 concerns. However, in our view, an
+                             item 7 transaction made following a takeover bid, and that is voted on by the
+                             remaining members after the bid (other than the bidder and its associates),
+                             would generally not raise such concerns.
+
+              RG 74.101      Item 7 transactions that occur at or around the same time as other transactions
+                             that are likely to affect the control of an entity (e.g. a buyback, selective
+                             reduction of capital or scheme of arrangement) may raise similar concerns.
+
+              RG 74.102      By structuring a transaction in a manner that raises the concerns described
+                             above, parties may risk an application for a declaration of unacceptable
+                             circumstances to the Takeovers Panel.
+
+              RG 74.103      We encourage any person proposing an item 7 transaction in combination
+                             with a takeover bid or other transaction that may affect the control of an
+                             entity to consult with us very early in the planning stage.
+
+
+                             Item 7 transactions and s631
+
+              RG 74.104      Even where the combination of an item 7 approval and a takeover bid does
+                             not raise concerns of the kind discussed in RG 74.97–RG 74.103, the
+                             application of s631 can give rise to difficulties in relation to implementing
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                                   Page 26
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+                             the transactions. Section 631 provides that a person must make a takeover
+                             bid within two months after publicly proposing to make such a bid.
+
+              RG 74.105      If documents seeking item 7 approval (e.g. to acquire securities from a major
+                             holder) state that the acquirer will make a takeover bid for the remaining
+                             securities in the entity, then s631 will apply to that takeover announcement.
+                             These statements should not be made unless:
+                             (a)   the proposed bidder consents to the statement being included in the
+                                   notice of meeting documents; and
+                             (b)   the proposed bidder complies with s631(2) and is not reckless as to
+                                   whether the bid will be made in giving its consent.
+
+              RG 74.106      Section 631(1) requires the terms and conditions of the bid to be the same as, or
+                             not substantially less favourable than, those in the public proposal. Therefore, a
+                             notice of meeting that publicly announces a takeover bid should inform
+                             members of the key conditions to which the proposed bid will be subject.
+
+              RG 74.107      We will consider granting relief from the two month deadline in s631(1)(b)
+                             to allow the bidder to dispatch takeover offers within two months of the date
+                             on which members approve the item 7 transaction. However, we will not
+                             grant this relief, for example, if we consider that the overall structure may be
+                             contrary to the principles in s602: see RG 74.97–RG 74.102.
+
+              RG 74.108      Members may approve an item 7 acquisition based on representations that a
+                             takeover bid will be made. Failure to make a bid in these circumstances may
+                             constitute unacceptable circumstances or a contravention of the Corporations
+                             Act (e.g. a contravention of s1041H).
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                        Page 27
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+F          Application of our policy
+
+                              Key points
+
+                              We strongly encourage entities to give us draft notices of meetings and
+                              accompanying explanatory material before seeking approval under item 7:
+                              see RG 74.109–RG 74.113.
+
+                              Our surveillance program for takeovers focuses on the quality, accuracy
+                              and utility of information provided to non-associated members in the
+                              explanatory material for an item 7 resolution: see RG 74.114–RG 74.116.
+
+
+
+
+Giving draft documents to ASIC
+              RG 74.109      We strongly encourage you to give us draft item 7 documents 14 days before
+                             they are printed for dispatch to members. A longer period is likely to be
+                             required if you are also applying for relief from any provision of the
+                             Corporations Act. We also encourage you to give us a draft copy of any
+                             supplementary information that you propose to give to members if timing
+                             permits: RG 74.84.
+
+              RG 74.110      Providing draft item 7 documents to us gives you the opportunity to resolve
+                             any concerns we may have before the documents are dispatched to members,
+                             and reduces the risk that we will need to take action that may delay or
+                             disrupt an item 7 acquisition.
+
+              RG 74.111      You should submit draft meeting documents through the ASIC Regulatory
+                             Portal. For more information, see how you lodge fundraising and corporate
+                             finance documents. You should also submit any related relief applications
+                             through the portal. For more information, see how you apply for relief.
+
+              RG 74.112      We encourage you to contact us as early as possible if there are likely to be
+                             particular issues with a transaction (e.g. if an expert report will not be provided).
+
+              RG 74.113      We may comment on documents but we do not always do so. The fact that
+                             we do not comment on your draft documents does not indicate approval of
+                             the content of documents, nor would it stop us from taking action regarding
+                             the item 7 acquisition.
+
+
+
+Surveillance and enforcement
+              RG 74.114      Our takeovers surveillance program focuses on item 7 documents because of
+                             their important role in providing an independent opinion to non-associated
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                           Page 28
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+                             members on the merits of the proposed acquisition and maintaining an
+                             informed market generally.
+
+              RG 74.115      We will try to resolve any disclosure or other concerns with the target entity
+                             or proposed acquirer before taking formal action. This is because the efficiency
+                             of the market will generally be affected less if an item 7 acquisition, once
+                             started, is allowed to continue. We will therefore generally seek additional or
+                             corrective disclosure as a primary remedy if a contravention is discovered
+                             early and the interests of non-associated members can be protected in this
+                             way. However, we will take action to halt an item 7 acquisition if it appears
+                             necessary.
+
+              RG 74.116      We may take regulatory action in relation to an item 7 acquisition if, for
+                             example, deficient disclosure is not rectified or the voting restrictions have
+                             not been observed. In these types of circumstances, we may:
+                             (a)   apply to the Takeovers Panel for a declaration of unacceptable
+                                   circumstances and seek appropriate remedial orders;
+                             (b)   apply to the court for orders requiring additional disclosure; or
+                             (c)   apply to the court for a declaration that the item 7 resolution is invalid
+                                   and seek appropriate orders.
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                        Page 29
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+Key terms
+
+
+                              Term                          Meaning in this document
+
+                              acquirer                      A person proposing to make an acquisition to be approved
+                                                            by an item 7 resolution
+
+                              AFS licence                   An Australian financial services licence under s913B of the
+                                                            Corporations Act that authorises a person who carries out a
+                                                            financial services business to provide financial services
+                                                              Note: This is a definition contained in s761A of the Corporations
+                                                              Act
+
+                              ASIC                          Australian Securities and Investments Commission
+
+                              associate                     Has the meaning given in s12 of the Corporations Act
+
+                              Ch 2E (for example)           A chapter of the Corporations Act (in this example
+                                                            numbered 2E)
+
+                              Corporations Act              Corporations Act 2001, including regulations made for the
+                                                            purposes of that Act
+
+                              entity                        A company with more than 50 members, a listed company
+                                                            or a listed managed investment scheme
+
+                              FSG (Financial Services       A document required by s941A or 941B to be given in
+                              Guide)                        accordance with Div 2 of Pt 7.7
+                                                              Note: This is a definition contained in s761A of the Corporations
+                                                              Act.
+
+                              Guidance Note 15              Takeovers Panel Guidance Note 15 Trust scheme mergers
+
+                              item 7                        Item 7 of s611 of the Corporations Act
+
+                              item 7 acquisition            An acquisition of relevant interests in an entity’s voting
+                                                            shares approved or to be approved under item 7
+
+                              item 7 resolution             An ordinary resolution of members to approve an acquisition
+                                                            of relevant interests in an entity’s voting shares under item 7
+
+                              non-associated member         A member of the target entity who is not associated with
+                                                            the acquirer or person from whom the item 7 acquisition is
+                                                            to be made or any of their associates
+
+                              PDS (Product Disclosure       A document that must be given to a retail client in relation
+                              Statement )                   to the offer or issue of a financial product in accordance
+                                                            with Div 2 of Pt 7.9 of the Corporations Act
+                                                              Note: See s761A of the Corporations Act for the exact definition.
+
+                              Pt 5.1 (for example)          A part of the Corporations Act (in this example numbered 5.1)
+
+                              relevant interest             Has the meaning given by s608 and 609 of the
+                                                            Corporations Act
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                                  Page 30
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+                              Term                          Meaning in this document
+
+                              RG 111 (for example)          An ASIC regulatory guide (in this example numbered 111)
+
+                              s611 (for example)            A section of the Corporations Act (in this example
+                                                            numbered 611), unless otherwise specified
+
+                              scheme of arrangement         A scheme of arrangement conducted under Pt 5.1 of the
+                                                            Corporations Act
+
+                              Takeovers Panel               Takeovers Panel established under s171 of the Australian
+                                                            Securities and Investments Commission Act 2001 and
+                                                            given various powers under Pt 6.10 of the Corporations Act
+
+                              trust scheme                  A type of item 7 transaction used to acquire control of a
+                                                            managed investment scheme
+
+                              voting interest               Has the meaning given in s9 of the Corporations Act
+
+                              voting power                  Has the meaning given in s610 of the Corporations Act
+
+                              voting share                  Has the meaning given in s9 of the Corporations Act
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                             Page 31
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             disclosure, exception to s606, item 7 of s611, member approval, relevant
+                             interest, takeover bids, trust schemes, unacceptable circumstances, voting
+                             restrictions
+
+
+                             Legislative instruments
+
+                             ASIC Corporations (Capital Reductions and Reconstructions—Technical
+                             Disclosure Relief) Instrument 2017/242
+
+                             ASIC Corporations (Financial Product Advice—Exempt Documents)
+                             Instrument 2016/356
+
+                             ASIC Corporations (Financial Services Guides) Instrument 2015/541
+
+                             ASIC Corporations (Unsolicited offers—Foreign Bids) Instrument
+                             2015/1070
+
+
+                             Regulatory guides
+
+                             RG 51 Applications for relief
+
+                             RG 60 Schemes of arrangement
+
+                             RG 76 Related party transactions
+
+                             RG 111 Content of expert reports
+
+                             RG 112 Independence of experts
+
+                             RG 228 Prospectuses: Effective disclosure for retail investors
+
+
+                             Legislation
+
+                             Corporations Act, Chs 2E, 5C, 6, 7; Pt 5.1; s249H(1), 249HA, 249L(3),
+                             252F, 253E, 257D(1), 601FC(1), 601GC, 602, 606, 608, 609, 611 (item 7),
+                             631, 671B, 766B, 911A, 941A, 1013B(1), 1015C, 1016A(2), 1019D and
+                             1041H
+
+
+                             Cases
+
+                             Axiom Properties Ltd 01 [2006] ATP 1; Bain & Company Nominees Pty Ltd
+                             v Grace Bros Holdings Ltd (1983) 1 ACLC 816; Bancorp Investments Ltd v
+                             Primac Holdings Ltd (1985) 3 ACLC 69; Bulfin v Bebarfalds Ltd (1938) 38
+
+
+
+© Australian Securities and Investments Commission December 2011                                        Page 32
+                                                           REGULATORY GUIDE 74: Acquisitions approved by members
+
+
+
+
+                             SR (NSW) 423; Chequepoint Securities Ltd v Claremont Petroleum NL
+                             (1986) 4 ACLC 711; Devereaux Holdings Pty Ltd v Parry Corporation
+                             (1985) 9 ACLR 837; ENT Pty Ltd v Sunraysia Television Ltd (2007) 61
+                             ACSR 626; Focus Technologies Ltd [2002] ATP 08; Fraser v NRMA
+                             Holdings Limited (1995) 127 ALR 543; LV Living Limited [2005] ATP 5;
+                             Lion Nathan Australia Pty Ltd v Coopers Brewery Ltd and Others (2005) 55
+                             ACSR 583; McMillan Properties Pty Ltd v W C Penfold Ltd (2001) 40
+                             ACSR 319; NCSC v Consolidated Gold Mining Areas NL (No. 2) (1985) 3
+                             ACLC 520; oOh!media Group Limited [2011] ATP 9; PowerTel Ltd 01
+                             [2003] ATP 25; Re Australian Pipeline Trust (No. 1R) (2006) 59 ACSR 341;
+                             Troy Resources NL v Taipan Resources NL (2000) 36 ACSR 197; Village
+                             Roadshow Ltd v Boswell Film GmbH (2004) 49 ACSR 27
+
+
+
+
+© Australian Securities and Investments Commission December 2011                                        Page 33
+

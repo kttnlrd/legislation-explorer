@@ -1,0 +1,2062 @@
+REGULATORY GUIDE 107
+
+Fundraising: Facilitating
+electronic offers of securities
+
+July 2020
+
+
+
+
+About this guide
+This is a guide to facilitate the use of email and the internet to make offers of
+securities under Ch 6D of the Corporations Act.
+
+This guide:
+    explains how we interpret the fundraising provisions in Ch 6D when
+     using electronic disclosure documents and electronic application forms,
+     including the distribution of these documents by email and the internet;
+    describes the relief we have provided for personalised or Australian
+     financial services (AFS) licensee created application forms; and
+    sets out our ‘good practice guidance’ for using electronic disclosure
+     documents and electronic application forms, including the distribution of
+     these documents by email and the internet.
+                                            REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+                                  About ASIC regulatory documents
+
+                                  In administering legislation ASIC issues the following types of regulatory
+                                  documents.
+                                  Consultation papers: seek feedback from stakeholders on matters ASIC
+                                  is considering, such as proposed relief or proposed regulatory guidance.
+                                  Regulatory guides: give guidance to regulated entities by:
+                                      explaining when and how ASIC will exercise specific powers under
+                                       legislation (primarily the Corporations Act)
+                                      explaining how ASIC interprets the law
+                                      describing the principles underlying ASIC’s approach
+                                      giving practical guidance (e.g. describing the steps of a process such
+                                       as applying for a licence or giving practical examples of how
+                                       regulated entities may decide to meet their obligations).
+                                  Information sheets: provide concise guidance on a specific process or
+                                  compliance issue or an overview of detailed guidance.
+                                  Reports: describe ASIC compliance or relief activity or the results of a
+                                  research project.
+
+
+
+                              Document history
+                              This guide was issued in July 2020 and is based on legislation and
+                              regulations as at the date of issue.
+
+                              This guide replaces:
+                                     Superseded Policy Statement 107, issued September 1996, reissued
+                                      February 2000, rebadged as a regulatory guide on 5 July 2007
+                                     Superseded Policy Statement 150, issued February 2000, reissued July
+                                      2000, rebadged as a regulatory guide on 5 July 2007
+
+
+                              Disclaimer
+                              This guide does not constitute legal advice. We encourage you to seek your
+                              own professional advice to find out how the Corporations Act and other
+                              applicable laws apply to you, as it is your responsibility to determine your
+                              obligations.
+
+                              Examples in this guide are purely for illustration; they are not exhaustive and
+                              are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                       Page 2
+                                              REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+Contents
+                              A      Overview ........................................................................................... 4
+                                     Facilitating the use of email and the internet for offers of securities . 4
+                                     Our guidance and relief ..................................................................... 6
+                                     ASIC’s role ......................................................................................... 7
+                                     How you lodge disclosure documents and submit applications for
+                                     relief ................................................................................................... 8
+                              B      Offers of securities using email or the internet under Ch 6D ..... 9
+                                     Key requirements in Ch 6D................................................................ 9
+                                     When is ASIC relief required for offers of securities using email or
+                                     the internet? ..................................................................................... 10
+                                     Electronic disclosure documents ..................................................... 12
+                                     Electronic application forms and electronic acceptances ................ 13
+                                     Electronic supplementary and replacement disclosure documents 15
+                                     Advertising and social media ........................................................... 16
+                                     Securities hawking provisions.......................................................... 18
+                                     Jurisdictional issues ......................................................................... 18
+                              C      Personalised or AFS licensee created application forms ......... 20
+                                     Personalised and AFS licensee created application forms ............. 20
+                                     Requirements of the legislative instrument...................................... 22
+                              D      Good practice guidance ................................................................ 23
+                                     Principles for good practice guidance .............................................. 23
+                              Key terms ............................................................................................... 37
+                              Related information ............................................................................... 39
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                                                Page 3
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               ASIC aims to facilitate and encourage the use of electronic disclosure
+                               documents and electronic application forms, including the use of email and
+                               the internet, for making offers of securities.
+
+                               In this guide, we:
+                               • explain our interpretation of the fundraising provisions in Ch 6D of the
+                                 Corporations Act 2001 (Corporations Act) when using electronic
+                                 disclosure documents and electronic application forms, including the
+                                 distribution of these documents by email and the internet;
+                               • describe the relief we have provided for personalised or Australian
+                                 financial services (AFS) licensee created application forms; and
+                               • set out our good practice guidance for using electronic disclosure
+                                 documents and electronic application forms, including the distribution of
+                                 these documents by email and the internet.
+
+
+
+
+Facilitating the use of email and the internet for offers of securities
+               RG 107.1       While disclosure documents used for offers of securities have historically
+                              been paper-based documents, persons offering securities under Ch 6D of the
+                              Corporations Act are increasingly using electronic means and electronic
+                              media—primarily email and the internet (e.g. web-based platforms)—to
+                              distribute and present disclosure documents to investors. Additionally, it is
+                              becoming increasingly common for investors to receive and access important
+                              information in their daily life—including news, internet banking and
+                              securities trading—using electronic devices such as computers, tablets
+                              and smartphones.
+
+                                   Note: In this document, references to sections (s), parts (Pts) and chapters (Chs) are to
+                                   the Corporations Act, unless otherwise specified. References to ‘disclosure document’
+                                   include any supplementary or replacement disclosure document lodged with ASIC:
+                                   see s719(4) and (5) of the Corporations Act.
+
+               RG 107.2       We want to facilitate and encourage the continued and future use of
+                              electronic disclosure documents and electronic application forms for offers
+                              of securities under Ch 6D, including the use of multimedia or web-based
+                              platforms, particularly as we anticipate that this is an area that will grow in
+                              popularity and that may experience significant advances in technology.
+
+               RG 107.3       We recognise that there are many advantages of using email and the internet
+                              to distribute disclosure documents and application forms, including the ease
+                              and convenience of use for investors. Additionally, web-based disclosure
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                          Page 4
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+                              documents with electronic content can be more interactive and promote
+                              understanding for investors.
+
+               RG 107.4       The use of electronic disclosure documents also has advantages for persons
+                              offering securities and persons involved in the distribution of disclosure
+                              documents by reducing costs (e.g. printing and mailing) and increasing the
+                              speed and availability of information.
+
+               RG 107.5       We are aware that some investors may not have access to the internet, or
+                              may still prefer to receive important and extensive information, such as
+                              disclosure documents, in paper format. Accordingly, we believe it is
+                              desirable for paper disclosure documents to remain accessible and be made
+                              available to investors on request to ensure that information is freely available
+                              to all sections of the community.
+
+               RG 107.6       We have historically provided class order relief to permit the use of
+                              electronic disclosure documents in relation to the provisions of the old
+                              Corporations Law as it stood before the implementation of the Corporate
+                              Law Economic Reform Program Act 1999 (CLERP Act). We continued the
+                              relief in Class Order [CO 00/44] Electronic disclosure documents, electronic
+                              application forms and dealer personalised applications following CLERP,
+                              for the avoidance of doubt, to help ensure the continued use of electronic
+                              disclosure documents, even though the CLERP amendments were intended
+                              to facilitate the use of electronic disclosure documents. We have now
+                              revoked [CO 00/44] because we take the view that relief is not required.
+
+               RG 107.7       We consider that the use of electronic disclosure documents and electronic
+                              application forms is permitted under Ch 6D without relief. As explained in
+                              the Explanatory Memorandum to the Corporate Law Economic Reform
+                              Program Bill 1998 (CLERP Bill), changes to the fundraising provisions by the
+                              CLERP Act were made to:
+                                   … facilitate the issue of a disclosure document in electronic form as well as
+                                   paper documents. The Bill will remove barriers to electronic commerce by
+                                   providing a statutory framework for electronic disclosure documents which
+                                   is designed to promote investor confidence in the integrity of the electronic
+                                   financial services marketplace.
+
+               RG 107.8       The market now routinely uses electronic disclosure documents and
+                              electronic application forms for offers of securities under Ch 6D, and is
+                              comfortable with the ability to distribute these documents by email and the
+                              internet. Consequently, we believe that the market no longer requires
+                              comfort relief under [CO 00/44].
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                      Page 5
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+Our guidance and relief
+               RG 107.9       To facilitate the use and distribution of electronic disclosure documents and
+                              electronic application forms, including the use of email and the internet, to
+                              make offers of securities, we have:
+                              (a)   explained our interpretation of the fundraising provisions in Ch 6D
+                                    applying to electronic disclosure documents and electronic application
+                                    forms, including the use of email and the internet to distribute these
+                                    documents (see Section B);
+                              (b)   provided relief for personalised and AFS licensee created application
+                                    forms in ASIC Corporations (Application Form Requirements)
+                                    Instrument 2017/241—and explained when ASIC relief may still be
+                                    needed (see Sections B and C); and
+                              (c)   given ‘good practice guidance‘ (see Table 1 for an overview) on using
+                                    electronic disclosure documents and electronic application forms,
+                                    including the use of email and the internet to distribute these
+                                    documents, to assist persons offering securities (offerors), distributors
+                                    and publishers in complying with their legal obligations, and meeting
+                                    the objectives underlying the provisions, in Ch 6D (see Section D).
+
+               RG 107.10      This guide focuses primarily on the use of email and the internet to distribute
+                              and present electronic disclosure documents and electronic application
+                              forms, as we understand that these are currently the most common electronic
+                              means and electronic media used for offers of securities.
+
+               RG 107.11      We recognise that there may be other types of multimedia or web-based
+                              platforms that emerge in the future to distribute and present electronic
+                              disclosure documents and electronic application forms. This guide is
+                              principles based and is intended to apply to current and emerging forms of
+                              electronic disclosure documents and electronic application forms.
+
+Table 1:     Overview of our good practice guidance
+
+ Principle 1          Electronic disclosure documents should be easy to access, retrieve and read.
+
+ Principle 2          Electronic disclosure documents should be distributed in a way that does not unreasonably
+                      expose investors to security risks.
+
+ Principle 3          Offerors and distributors that distribute electronic disclosure documents for an entitlement
+                      offer to existing investors of a company should take reasonable steps to ensure that
+                      investors receive the electronic disclosure document.
+
+ Principle 4          Offerors, distributors and publishers should take reasonable measures to ensure that
+                      electronic disclosure documents received by investors are complete and have not been
+                      altered or tampered with.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                      Page 6
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+ Principle 5          Offerors and distributors that distribute electronic disclosure documents and electronic
+                      application forms should make available free paper copies of disclosure documents and
+                      application forms on request by an investor.
+
+ Principle 6          Offerors and distributors of electronic disclosure documents should make updated
+                      disclosure documents available in both paper and electronic format.
+
+ Principle 7          Investors should be able to keep a copy of the electronic disclosure document so that they
+                      can access it in the future.
+
+ Principle 8          Offerors, distributors and publishers should retain copies and records of all electronic
+                      disclosure documents so that investors are able to prove which version of the disclosure
+                      document they relied on.
+
+ Principle 9          Electronic disclosure documents should have the same content, presentation and
+                      prominence of information as paper versions.
+
+ Principle 10         Hypertext links to, from or within the electronic disclosure document should not be used to
+                      take investors to material not forming part of the electronic disclosure document, other than
+                      jurisdictional confirmations or educational material.
+
+ Principle 11         Electronic application forms must be included in, or accompanied by, the electronic
+                      disclosure document.
+
+ Principle 12         Electronic application forms should contain appropriate warnings to ensure that investors
+                      are informed of the importance of reading the disclosure document before applying for
+                      securities.
+
+ Principle 13         Electronic application forms should contain verification processes and should be secure.
+
+ Principle 14         Reasonable measures should be taken to ensure that offers are only made in jurisdictions
+                      where the offer complies with the relevant securities laws.
+
+ Principle 15         Promotional material should not be published in a way that may cause it to be confused
+                      with all or any part of the electronic disclosure document.
+
+
+
+
+ASIC’s role
+                RG 107.12     ASIC administers Offer Notice Board, a database providing information on
+                              current and past disclosure documents. We will continue to include details
+                              on Offer Notice Board of where disclosure documents may be accessed,
+                              including through a website.
+
+                RG 107.13     We will consider applications for relief from offerors where there is some
+                              doubt about whether the proposed electronic disclosure document is a copy
+                              of the disclosure document lodged with ASIC.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                      Page 7
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+How you lodge disclosure documents and submit applications for
+relief
+               RG 107.14      Disclosure documents should be lodged through the ASIC Regulatory Portal
+                              using the ‘Lodge fundraising disclosure documents or statements’
+                              transaction. Fees will apply for lodgement of these documents. We have
+                              provided details about payment options in the portal. For more information,
+                              see how you lodge fundraising and corporate finance documents.
+
+               RG 107.15      Applications for relief should also be submitted through the ASIC
+                              Regulatory Portal. Fees will apply to an application. We have provided
+                              details about payment options in the portal. For more information, see how
+                              you apply for relief.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                      Page 8
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+B          Offers of securities using email or the internet
+           under Ch 6D
+
+                               Key points
+
+                               This section sets out our interpretation of the fundraising provisions under
+                               Ch 6D and how they apply to:
+                               • making offers of securities using and distributing electronic disclosure
+                                 documents, including by email and the internet; and
+                               • using and distributing electronic application forms for offers of securities,
+                                 including by email, and through online applications and electronic
+                                 payment processes.
+
+                               Our relief is not required for using electronic disclosure documents if the
+                               electronic version has the same content, presentation and prominence of
+                               information as the version lodged with ASIC. This section sets out some of
+                               the circumstances in which we may consider granting individual relief to
+                               facilitate the broader use of electronic disclosure documents.
+
+                               This section also provides some guidance on issues that might arise from
+                               email or internet distribution of these documents.
+
+
+
+
+Key requirements in Ch 6D
+               RG 107.16      The fundamental policy of the fundraising provisions in the Corporations
+                              Act is to ensure that investors can make informed investment decisions on
+                              the basis of a current disclosure document containing or incorporating all
+                              material and relevant information about the securities being offered and
+                              about the person offering the securities for issue or sale.
+
+               RG 107.17      The key components of the regulatory regime that are relevant in this context
+                              are summarised in Table 2.
+
+Table 2:     Key Ch 6D requirements
+
+ Requirement               Description                                                              Section
+
+ Offers of securities      The Corporations Act requires an offer for issue or sale of              s706, 707, 708,
+ require a disclosure      securities to be made using a disclosure document, unless the            708AA, 708A, 718
+ document                  offer falls into a relevant exception. The disclosure document           and 727
+                           must be lodged with ASIC.
+
+ Information required      The Corporations Act requires that investors (and their advisers)        s710, 711, 713
+ in a disclosure           are provided with sufficient information to make an informed             and 715
+ document                  investment decision.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                      Page 9
+                                              REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+ Requirement                   Description                                                             Section
+
+ Application form              The Corporations Act requires that application forms for an offer       s723 and 727
+ included in, or               of securities are only distributed if they are included in, or
+ accompanied by,               accompanied by, a disclosure document. This establishes a
+ disclosure document           mechanism so that the investor receives a current disclosure
+                               document (which satisfies the information needs of investors
+                               and their advisers) before applying for securities.
+
+ Advertising and               The Corporations Act seeks to ensure that investors are                 s734 and 736
+ securities hawking            encouraged to make investment decisions on the basis of a
+ restrictions                  disclosure document rather than on the basis of promotional
+                               material or pressure selling.
+
+ Updating                      The Corporations Act seeks to ensure that investors receive any         s719 and 724
+ requirements                  necessary updates to information before their investment decision
+                               is finalised.
+
+ Civil liability               The Corporations Act seeks to ensure that investors have                s729, 737 and
+ provisions                    access to appropriate remedies if they invest on the basis of           738
+                               defective disclosure.
+
+
+
+                   RG 107.18      The requirements in Ch 6D apply to offers of securities made in any form,
+                                  whether oral or written, and whether the offer is made on paper, by email or
+                                  on the internet. Offering securities for issue includes inviting applications for
+                                  the issue of securities, and offering securities for sale includes inviting offers
+                                  to purchase the securities.
+
+                   RG 107.19      For a person to make an offer of securities, or distribute an application form
+                                  for an offer of securities, they must first lodge a disclosure document for the
+                                  offer with ASIC. They should lodge the disclosure document through the
+                                  ASIC Regulatory Portal: see RG 107.14.
+
+
+
+
+When is ASIC relief required for offers of securities using email or
+the internet?
+                   RG 107.20      The underlying purpose of the relevant provisions in Ch 6D is to ensure that
+                                  persons considering applying for securities under an offer are given the same
+                                  information as is included in the disclosure document lodged with ASIC.
+
+                   RG 107.21      Our view is that electronic disclosure documents can be used and distributed
+                                  without the need for ASIC relief, and constitute a ‘copy’ of the lodged
+                                  disclosure document, provided that the electronic disclosure document:
+                                  (a)   is identical in format and content to the disclosure document lodged
+                                        with ASIC; or
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                        Page 10
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+                              (b)   contains the same information in the same sequence and with the same
+                                    prominence, as the lodged disclosure document, with the exception of
+                                    modifications that are immaterial and reflect necessary adjustments or
+                                    increased functionality when using different electronic media—for
+                                    example, modifications to enable the electronic document to be
+                                    accessed and displayed in html format or on a web-based platform.
+
+               RG 107.22      Our view in RG 107.21 reflects the legal requirement that, if an offer of
+                              securities needs disclosure to investors under Pt 6D.2 of the Corporations
+                              Act, a person is prohibited from offering securities or distributing an
+                              application form for the offer unless:
+                              (a)   a disclosure document for the offer is lodged with ASIC; and
+                              (b)   the offer or form is included in the disclosure document or accompanied
+                                    by a copy of the disclosure document: see s727.
+
+               RG 107.23      Our view is that electronic disclosure documents can be used and distributed
+                              without the need for ASIC relief where the circumstances in RG 107.21 are
+                              met.
+
+
+                              Use of electronic devices
+
+               RG 107.24      To facilitate electronic disclosure documents being accessible and readable
+                              on different electronic devices (e.g. computers, smartphones and tablets),
+                              we recognise that modifications to the presentation and format of these
+                              documents may be required. In our view, relief is not required for necessary
+                              modifications to the display information in the electronic disclosure
+                              document on the investor’s electronic viewing device or in a print-out.
+                              Additionally, relief is not required for the use of aids to assist investors in
+                              reading the disclosure document—for example, the ability to enlarge text.
+                              This is provided that these modifications do not change the information, its
+                              prominence or its sequence.
+
+
+                              Use of hypertext links
+
+               RG 107.25      Hypertext links and search facilities within an electronic disclosure
+                              document can assist readers to navigate through the document easily, and
+                              can make information more accessible (including allowing the reader to
+                              directly access sections of the document through the table of contents and to
+                              access documents incorporated by reference within the electronic disclosure
+                              document). We encourage the use of hypertext links and search tools within
+                              an electronic disclosure document to assist the reader.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                     Page 11
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+               RG 107.26      In our view, the use of hypertext links or the inclusion of search facilities will
+                              not, in itself, require our relief, because this would not change the content,
+                              presentation or prominence of the information contained in the electronic
+                              disclosure document from the disclosure document lodged with ASIC.
+
+                                   Note: Principle 9 of our good practice guidance provides that electronic disclosure
+                                   documents should contain the same information, in the same sequence and with the
+                                   same prominence, as the disclosure document lodged with ASIC. The discussion in
+                                   Principle 9 explains the modifications that can be made to the electronic disclosure
+                                   document for it still to be considered a copy of the lodged version. The discussion in
+                                   Principle 10 explains how we believe hypertext links should be used to, from or within
+                                   an electronic disclosure document.
+
+
+                              Use of video and audio presentations
+
+               RG 107.27      We also aim to encourage and facilitate the use of non-print based
+                              communication (e.g. video or audio presentations) to assist investors in
+                              understanding information and making informed investment decisions.
+                              However, in our view, information communicated in non-print form may not
+                              constitute a copy of the disclosure document lodged with ASIC.
+
+               RG 107.28      Therefore, we encourage offerors seeking to use non-print based
+                              communication or multimedia platforms to assist in presenting the
+                              information in their electronic disclosure documents to make an application
+                              to ASIC for individual relief for our consideration.
+
+
+
+Electronic disclosure documents
+               RG 107.29      An offeror or distributor needs to ensure that documents are easy to access
+                              and are capable of being easily saved and printed by the investor so that the
+                              investor can access an electronic version of the document at any time
+                              following the offer.
+
+                                   Note: The discussion in Principles 1, 7 and 8 of our good practice guidance explains
+                                   what steps we believe offerors, distributors and publishers should take to ensure the
+                                   accessibility and retention of electronic disclosure documents.
+
+               RG 107.30      While we want to encourage and facilitate the use of electronic disclosure
+                              documents, we also believe that investors should have the opportunity to
+                              obtain a free paper copy on request—and to be informed of this right—to
+                              ensure that disclosure is freely available to all sections of the community in
+                              whatever form they choose.
+
+                                   Note: Principle 5 of our good practice guidance states that, if an electronic disclosure
+                                   document is available, free paper copies should also be made available on request.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                         Page 12
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+               RG 107.31      We also recognise that there are certain risks that could arise from the use
+                              and distribution of electronic disclosure documents, including that electronic
+                              disclosure documents are potentially vulnerable to hacking or unauthorised
+                              alteration and tampering of information contained within the document.
+
+               RG 107.32      Offerors, distributors and publishers need to ensure that adequate safeguards
+                              and precautions are in place to help reduce the risks of tampering. This will
+                              ensure that the electronic disclosure document received by the investor is the
+                              same as the disclosure document lodged with ASIC, and has not been
+                              tampered with or altered in any way (including the form, order, context
+                              and content).
+
+                                    Note: The discussion in Principle 4 of our good practice guidance refers to some of the
+                                    safeguards that should be considered to make an electronic disclosure document safe
+                                    from unauthorised tampering or amendment (e.g. using a locked PDF file or a tagged
+                                    image file format (TIFF), and using adequate firewall protection).
+
+
+
+
+Electronic application forms and electronic acceptances
+               RG 107.33      There is no requirement in the Corporations Act for an application form to
+                              be lodged with ASIC when lodging a disclosure document.
+
+               RG 107.34      Under the Corporations Act—specifically, s723—securities may only be
+                              issued or transferred in response to an application form if the person issuing
+                              or transferring the securities has reasonable grounds to believe that:
+                              (a)   the application form was included in, or accompanied by, the disclosure
+                                    document when the form was distributed by the person issuing or
+                                    transferring the securities; or
+                              (b)   the application form was copied, or directly derived, by the person
+                                    making the application from a form referred to in RG 107.34(a).
+
+               RG 107.35      Distributing and accessing disclosure documents and application forms by
+                              electronic means may make complying with these legal requirements more
+                              difficult to satisfy than distributing these documents in a paper format.
+
+               RG 107.36      There is a risk arising from the distribution of electronic disclosure
+                              documents and electronic application forms that an investor may receive an
+                              application form without receiving the disclosure document. Offerors need
+                              to take steps to satisfy themselves that they have reasonable grounds to
+                              believe that the application form that the investor has received was
+                              accompanied by the electronic disclosure document.
+
+                                    Note: The discussion in Principles 10 and 11 of our good practice guidance contains
+                                    some measures that we believe offerors, distributors and publishers should consider
+                                    when distributing electronic application forms to assist offerors in satisfying this
+                                    requirement.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                        Page 13
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+               RG 107.37      Offerors, and distributors on behalf of offerors, are able to accept electronic
+                              application forms for offers of securities. If online applications are to be
+                              received, adequate safeguards and precautions should be in place (including
+                              encryption software, protection of confidential information, and adequate
+                              firewall protection) to ensure that information transmitted through email or
+                              the internet remains secure and safe from hacking.
+
+                                    Note: The discussion in Principle 13 of our good practice guidance contains some
+                                    precautions that we believe offerors and distributors should consider if they are to
+                                    receive electronic applications for offers of securities.
+
+
+                              Electronic payment processes
+               RG 107.38      We consider that the use of electronic payment processes (e.g. BPAY) to
+                              apply for securities, without investors being required to submit a completed
+                              application form to the issuer, may comply with the legal requirements and
+                              meet the underlying policy objectives of s723(1).
+
+               RG 107.39      The underlying purpose of s723(1) is to ensure that a person applying for
+                              securities has received, and is making an investment decision based on, a
+                              current disclosure document. In our view, an issue or transfer of securities
+                              that occurs as a result of an electronic payment (e.g. BPAY) without the
+                              investor submitting a completed application form may, in certain
+                              circumstances, meet the requirement that the securities are issued or
+                              transferred ‘in response to an application form’ and that the form has been
+                              directly derived from an application form that was included in, or
+                              accompanied by, the disclosure document.
+
+               RG 107.40      We believe that an electronic payment process that contains a means of
+                              verifying or linking an identifiable investor’s electronic payment to an
+                              application form distributed with a specific version of the disclosure
+                              document (including any supplementary or replacement disclosure
+                              document) is likely to satisfy s723(1).
+
+               RG 107.41      In our view, this verification can be achieved if an investor makes an
+                              electronic payment using information that is contained only in an application
+                              form that was received together with a disclosure document (where that
+                              information is unique to the investor, the offer and to the specific version of
+                              the disclosure document), and if the issuer or the issuer’s share registry can
+                              only issue or transfer the securities on receipt of that information.
+
+               RG 107.42      An example of an electronic payment process that satisfies the above settings
+                              is one that has the following features (which we understand is similar to the
+                              current BPAY payment process):
+                              (a)   the investor receives a disclosure document together with a personalised
+                                    application form which contains information that must be used by the
+                                    investor to make an electronic payment, including:
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                          Page 14
+                                             REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+                                    (i)     information that identifies the issuer (issuer identifier) (e.g. a
+                                            numerical code such as a biller code); and
+                                    (ii)    information that is unique to the investor and to the disclosure
+                                            document, which allows the investor and the disclosure document
+                                            to be identified (investor identifier) (e.g. a customer reference
+                                            number or barcode number);
+                                    Note: The information in paragraphs RG 107.42(a)(i) and RG 107.42(a)(ii) can only be
+                                    derived from the personalised application form that accompanied, or was included in,
+                                    the disclosure document and not from any other source.
+
+                              (b)   when an investor makes an electronic payment, the issuer or the issuer’s
+                                    share registry receives notification (e.g. BPAY notification) from the
+                                    issuer’s financial institution of the payment amount, payment date, the
+                                    issuer identifier and the investor identifier; and
+                              (c)   the issuer or the issuer’s share registry uses:
+                                    (i)     the payment amount to calculate the number of securities
+                                            applied for;
+                                    (ii)    the issuer identifier to identify or confirm the offer and the
+                                            issuer; and
+                                    (iii)   the investor identifier to identify the investor to which the payment
+                                            relates.
+                                    Note: The issuer should also be able to use the information received (or received by its
+                                    share registry) to determine which version of the disclosure document the investor
+                                    received with the application form (which contained the information required to make
+                                    the payment).
+
+               RG 107.43      We recognise that new electronic payment processes with different features
+                              may develop over time. If these do not satisfy the legal requirements, but
+                              may satisfy the policy objectives of s723(1), we will consider applications
+                              for individual relief.
+
+
+Electronic supplementary and replacement disclosure documents
+               RG 107.44      A disclosure document lodged with ASIC may be updated or replaced by a
+                              supplementary or replacement disclosure document. The supplementary or
+                              replacement disclosure document must also be lodged with ASIC. They
+                              should be lodged through the ASIC Regulatory Portal: see RG 107.14.
+
+               RG 107.45      Following lodgement of a supplementary or replacement disclosure
+                              document, any new offers to an investor must be made in, or be
+                              accompanied by:
+                              (a)   the original disclosure document together with the supplementary
+                                    disclosure document; or
+                              (b)   the replacement disclosure document.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                         Page 15
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+               RG 107.46      In addition, offerors or persons involved in the distribution of an offer should
+                              consider providing the supplementary or replacement document to investors
+                              who have already received the original disclosure document if this will assist
+                              investors in making an investment decision.
+
+               RG 107.47      Sometimes a supplementary or replacement disclosure document is lodged
+                              because the original disclosure document makes a misleading statement,
+                              omits information or does not refer to a new circumstance. If any of these are
+                              ‘materially adverse’ from the point of view of an investor, and the issuer
+                              does not opt to repay the application money, the Corporations Act requires
+                              the supplementary or replacement disclosure document to be provided to all
+                              applicants: see s724(2).
+
+               RG 107.48      Consistent with the original disclosure document, electronic distribution of
+                              the supplementary or replacement disclosure documents is permissible under
+                              Ch 6D. If the original disclosure document was available in electronic
+                              format, any supplementary or replacement disclosure document should also
+                              be made available in electronic format.
+
+                                   Note: The discussion in Principle 6 of our good practice guidance explains what steps
+                                   we think should be taken by offerors and distributors when distributing supplementary
+                                   and replacement disclosure documents.
+
+               RG 107.49      The use of electronic disclosure documents and electronic application forms
+                              may create potential difficulties for offerors and distributors in knowing
+                              which version of the disclosure document was accessed in relation to an
+                              application (i.e. whether it was based on the original disclosure document or
+                              any updated disclosure document). In our view, such difficulties can be
+                              overcome if offerors and distributors retain copies and records of all
+                              electronic disclosure documents distributed to investors.
+
+                                   Note: The discussion in Principle 8 of our good practice guidance explains what steps
+                                   we think offerors, distributors and publishers should take to ensure that adequate copies
+                                   and records of electronic disclosure documents are retained.
+
+               RG 107.50      To comply with s723(1) of the Corporations Act, offerors need to take steps
+                              to help determine which version of the disclosure document a particular
+                              application form accompanied if new offers are made after the lodgement of
+                              a supplementary or replacement disclosure document.
+
+
+
+Advertising and social media
+               RG 107.51      The Corporations Act provides advertising restrictions in relation to an offer
+                              of securities. These restrictions are to ensure that investors make a decision
+                              about the offer of securities on the basis of the disclosure document and not
+                              promotional material.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                        Page 16
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+               RG 107.52      Where a disclosure document has been lodged with ASIC, any advertisement
+                              or publication in relation to an offer must include statements explaining:
+                              (a)   who the issuer is and what the securities are;
+                              (b)   that a disclosure document for the offer is available and how this may
+                                    be obtained;
+                              (c)   that offers will be made in, or will be accompanied by, a copy of the
+                                    disclosure document;
+                              (d)   that persons should consider the disclosure document in deciding
+                                    whether to acquire the securities; and
+                              (e)   that persons wanting to acquire the securities will have to complete an
+                                    application form that will be contained in, or will accompany, the
+                                    disclosure document.
+
+                                    Note: Restrictions in relation to pre-offer advertising and advertising after the
+                                    lodgement of a disclosure document with ASIC are contained in s734(5) and (6),
+                                    respectively: see Regulatory Guide 254 Offering securities under a disclosure document
+                                    (RG 254).
+
+               RG 107.53      In the paper environment, the disclosure document is usually a single
+                              bound document, which is readily distinguishable from any accompanying
+                              advertising material. The electronic environment potentially creates more
+                              ambiguity for investors to determine whether the information they are reading
+                              is promotional material or part of the electronic disclosure document.
+
+               RG 107.54      We think that the advertising provisions should be considered by offerors,
+                              distributors and publishers during an offer period in relation to information
+                              contained on their own websites, social media platforms and blogs, and that
+                              care should be taken to ensure that the provisions of the Corporations Act
+                              have not been contravened in relation to such information contained on
+                              these platforms.
+
+               RG 107.55      Advertising restrictions apply to all persons and, as such, third parties
+                              discussing an offer of securities on a website, social media page or blog
+                              should ensure that they do not inadvertently contravene advertising
+                              restrictions for offers requiring a disclosure document.
+
+                                    Note: The discussion in Principle 15 of our good practice guidance refers to safeguards
+                                    that should be taken in relation to promotional material about an offer that is published
+                                    in electronic format, including promotional material distributed by email or published
+                                    on the internet. Regulatory Guide 234 Advertising financial products and services
+                                    (including credit): Good practice guidance (RG 234) provides further guidance for
+                                    promoters of financial products and publishers of advertising for these products.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                         Page 17
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+Securities hawking provisions
+               RG 107.56      The securities hawking provisions in the Corporations Act stipulate that a
+                              person must not offer securities for issue or sale in the course of, or because of,
+                              an unsolicited meeting with another person or telephone call to another person.
+
+               RG 107.57      The hawking prohibitions do not apply to unsolicited communications such
+                              as emails, letters, facsimiles, brochures, and media advertisements (press,
+                              radio or television), or making a disclosure document generally available on
+                              a website. However, when using these communication methods, the offeror
+                              or distributor still needs to ensure that they comply with any other relevant
+                              laws, including the consumer protection provisions.
+
+               RG 107.58      Regardless of whether an offeror or distributor is subject to the hawking
+                              prohibitions for a particular transaction, the offeror or distributor needs to
+                              ensure that it complies with the prohibitions on:
+                              (a)   unconscionable conduct (s12CA–12CC of the Australian Securities and
+                                    Investments Commission Act 2001 (ASIC Act)) and s991A of the
+                                    Corporations Act);
+                              (b)   misleading or deceptive conduct (s12DA–12DB of the ASIC Act and
+                                    s1041E–1041H of the Corporations Act); and
+                              (c)   harassment or coercion (s12DJ of the ASIC Act).
+
+
+Jurisdictional issues
+
+                              Offers of foreign securities
+
+               RG 107.59      Offers received in Australia, irrespective of where the securities are
+                              transferred or issued, are subject to the fundraising provisions of the
+                              Corporations Act. Therefore, offers transmitted electronically, including by
+                              email, into Australia from outside Australia must comply with Ch 6D.
+                              Similarly, an offer placed on an internet site generated by a server situated
+                              outside Australia will be subject to the fundraising provisions if it is capable
+                              of being received in Australia.
+
+               RG 107.60      We have given guidance in Regulatory Guide 141 Offers of securities on the
+                              internet (RG 141), which explains our policy of not intending to regulate
+                              offers, invitations and advertisements of securities that are accessible in
+                              Australia on the internet if:
+                              (a)   the offer, invitation or advertisement is not targeted at persons in
+                                    Australia;
+                              (b)   the offer or invitation contains a meaningful jurisdictional disclaimer;
+                              (c)   the offer, invitation or advertisement has little or no impact on
+                                    Australian investors; and
+                              (d)   there is no misconduct.
+
+
+
+© Australian Securities and Investments Commission July 2020                                                     Page 18
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+                              Offers accessible overseas
+
+               RG 107.61      An electronic disclosure document on an internet site may be accessible
+                              throughout the world. As a result, the person issuing the disclosure document
+                              may be subject to foreign laws, as well as Australian law.
+
+               RG 107.62      One way of reducing the risk of contravening foreign securities laws may be
+                              to insert into an electronic disclosure document a jurisdictional clause stating
+                              to whom it is intended that the offer will be available.
+
+                                   Note: The discussion in Principle 14 of our good practice guidance explains what steps
+                                   we think offerors and distributors should take to ensure that offers are only made in
+                                   certain jurisdictions.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                      Page 19
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+C          Personalised or AFS licensee created
+           application forms
+
+                               Key points
+
+                               This section discusses our class order relief for the use and distribution of
+                               personalised or AFS licensee created application forms.
+
+                               We have given this relief in ASIC Corporations (Application Form
+                               Requirements) Instrument 2017/241.
+
+
+               RG 107.63      Under s723(1), securities may only be issued or transferred in response to an
+                              application form and if the person issuing or transferring them has
+                              reasonable grounds to believe that:
+                              (a)   the application form was included in, or accompanied by, the disclosure
+                                    document when the form was distributed by the person; or
+                              (b)   the application form was copied, or directly derived, by the person
+                                    making the application from a form referred to in RG 107.63(a).
+
+               RG 107.64      We have continued to grant class order relief to facilitate the distribution of
+                              personalised and AFS licensee created application forms, and to remove any
+                              doubt about whether the requirements of s723 are met when such application
+                              forms are used. Our relief applies to application forms in both paper and
+                              electronic formats.
+
+               RG 107.65      We have granted class order relief because using personalised or AFS
+                              licensee created application forms can:
+                              (a)   promote efficiency and may therefore lead to costs savings which could
+                                    flow through to investors and industry;
+                              (b)   assist in reducing the number of errors made in completing and
+                                    processing multiple handwritten forms;
+                              (c)   assist in reducing the time currently taken to complete and process
+                                    handwritten forms; and
+                              (d)   facilitate electronic acceptances.
+
+
+
+Personalised and AFS licensee created application forms
+               RG 107.66      Offerors and AFS licensees occasionally personalise application forms they
+                              distribute to investors to assist investors with completing these forms. AFS
+                              licensees may also create and distribute their own application forms for
+                              offers of securities. A form created by an AFS licensee may differ from the
+                              application form distributed by the offeror to issue or transfer the securities.
+
+
+
+© Australian Securities and Investments Commission July 2020                                                     Page 20
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+               RG 107.67      Relief is not needed to personalise an application form if the personalised
+                              application form has been distributed by the offeror and is included in, or
+                              accompanied by, the disclosure document. We consider that this is the case
+                              whether or not a blank application form was included in the disclosure
+                              document lodged with ASIC (as there is no requirement in the Corporations
+                              Act for an application form to be lodged with ASIC).
+
+               RG 107.68      If an AFS licensee creates an application form, or personalises an
+                              application form that has been distributed by the offeror, the offeror may
+                              not have reasonable grounds to believe that the conditions in s723(1) are
+                              satisfied, because:
+
+                              (a)   the personalised application form or AFS licensee-created application
+                                    form is not the form that was distributed by the offeror;
+
+                              (b)   the personalised application form is not a form that has been copied, or
+                                    directly derived, by the person making the application from a form
+                                    distributed by the offeror, unless the person making the application has
+                                    authorised the AFS licensee to copy or derive the application form from
+                                    the application form distributed by the offeror; and
+
+                              (c)   the application form created by the AFS licensee has not been copied,
+                                    or directly derived, by the investor from an application form included in
+                                    or accompanied by the disclosure document distributed by the offeror.
+
+               RG 107.69      ASIC Corporations (Application Form Requirements) Instrument 2017/241
+                              provides relief so that an offeror may issue or transfer securities in response
+                              to an application form that has been:
+
+                              (a)   personalised by an AFS licensee for an investor—our relief overcomes
+                                    any concerns about the personalised application form not being one that
+                                    has been distributed by the offeror, or not being copied or directly
+                                    derived from such a form by the investor; or
+
+                              (b)   created by an AFS licensee—our relief overcomes any concerns about
+                                    an application form created by an AFS licensee not being one that has
+                                    been distributed by the offeror, or not being copied or directly derived
+                                    from such a form by the investor.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                     Page 21
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+               RG 107.70      AFS licensees creating or personalising application forms should ensure that
+                              they comply with the licensee obligations under the Corporations Act and
+                              any authorisation or conditions on their AFS licence.
+                                   Note 1: Regulatory Guide 36 Licensing: Financial product advice and dealing (RG 36)
+                                   contains guidance on the meaning of ‘provide financial product advice’, and the
+                                   meaning of ‘deal in a financial product’ and ‘arranging’ in the context of activities
+                                   involving the distribution of application forms: see, in particular, Table 4 in RG 36.
+                                   Note 2: In addition, Regulatory Guide 244 Giving information, general advice and
+                                   scaled advice (RG 244) contains guidance about how AFS licensees can distribute and
+                                   present information about a financial product without giving financial product advice,
+                                   and Regulatory Guide 221 Facilitating digital financial services disclosure (RG 221)
+                                   contains ‘good practice guidance’ on how to deliver digital financial services disclosure
+                                   (e.g. Product Disclosure Statements and Financial Services Guides) to clients under
+                                   Pts 7.6–7.9 of the Corporations Act.
+
+
+
+
+Requirements of the legislative instrument
+               RG 107.71      An offeror may rely on the relief in ASIC Corporations (Application Form
+                              Requirements) Instrument 2017/241 if all of the requirements of the relief
+                              are fully complied with: see Table 3.
+
+Table 3:     Requirements of the legislative instrument
+
+ Requirement                    Description
+
+ Access                         The investor is given access to the disclosure document at the same time and by
+                                the same means as access to the application form.
+                                  Note: The reference to ‘disclosure document’ includes any supplementary or replacement
+                                  disclosure document lodged with ASIC: see s719(4) and (5) of the Corporations Act.
+
+ Application form               The application form contains:
+                                 the following particulars of the offer and the disclosure document:
+                                  − the identity of the issuer;
+                                  − the nature of the securities being offered (e.g. ordinary shares or options);
+                                  − the price of the securities;
+                                  − the date of the disclosure document; and
+                                  − the expiry date of the disclosure document; and
+                                 a prominent statement to the effect that:
+                                  − there is a disclosure document with information about investing in the
+                                    securities; and
+                                  − it is advisable to read the disclosure document before applying for the
+                                    securities.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                        Page 22
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+D          Good practice guidance
+
+
+                               Key points
+
+                               In this section, we have set out our good practice guidance for the use and
+                               distribution of electronic disclosure documents and electronic application
+                               forms. This guidance focuses primarily on the distribution of documents by
+                               email and the internet. However, the principles of good practice should be
+                               applied to any electronic method of distributing disclosure documents and
+                               application forms.
+
+                               We encourage offerors, distributors and publishers to apply our good
+                               practice guidance when distributing electronic disclosure documents and
+                               electronic application forms.
+
+
+
+
+Principles for good practice guidance
+               RG 107.72      Our 15 principles for good practice guidance seek to ensure that investors
+                              receive clear, concise and effective disclosure when disclosure documents
+                              and application forms are distributed in electronic format. Our principles aim
+                              to address some of the specific risks that may arise or increase when using and
+                              distributing electronic disclosure documents and electronic application forms.
+
+               RG 107.73      Some of this guidance includes our views on the legal requirements in
+                              Ch 6D. Our principles aim to assist offerors, distributors and publishers in
+                              complying with their legal obligations, and meeting the objectives
+                              underlying the provisions, in Ch 6D. We encourage offerors, distributors and
+                              publishers of electronic disclosure documents to apply our good practice
+                              guidance when using email and the internet for making offers of securities.
+
+               RG 107.74      While our guidance is directed to prospectuses and other Ch 6D disclosure
+                              documents, we encourage offerors to apply the principles (where applicable)
+                              to other ‘prospectus-like’ documents (e.g. offer documents used for
+                              entitlement offers).
+
+                              Principle 1: Ensuring ease of access to electronic
+                              disclosure documents
+
+                               Principle 1
+
+                               Electronic disclosure documents should be easy to access, retrieve
+                               and read.
+
+               RG 107.75      We recognise that electronic disclosure documents may be distributed to
+                              investors in a number of different ways. We understand that the main way in
+                              which electronic disclosure documents and electronic application forms are
+
+
+
+© Australian Securities and Investments Commission July 2020                                                     Page 23
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+                              currently distributed in the market is by sending an email to an investor
+                              containing:
+                              (a)   a downloadable electronic copy of the disclosure document (i.e. a
+                                    locked PDF or TIFF file); or
+                              (b)   a hypertext link to the disclosure document (on a webpage) or to a
+                                    website containing the disclosure document.
+
+               RG 107.76      When a disclosure document is made available on a website, we think it
+                              should be easy to find and access, particularly as investors may wish to view
+                              the document more than once. Investors should also be provided with clear
+                              instructions on how to view and download the disclosure document.
+
+               RG 107.77      When an investor is provided with a hypertext link to the electronic
+                              disclosure document or to a website, the link should take the investor:
+                              (a)   directly to the disclosure document itself. Hypertext links should take
+                                    an investor to the first page of the disclosure document and not to a
+                                    subsidiary page within the disclosure document (e.g. the hypertext link
+                                    should not take an investor straight to an application form);
+                              (b)   to a webpage containing the disclosure document (rather than a generic
+                                    website address); or
+                              (c)   to a webpage confirming the person’s eligibility to participate in the
+                                    offering (including but not limited to a jurisdictional disclaimer or
+                                    confirmation).
+
+               RG 107.78      This is not intended to be an exhaustive description of the ways in which
+                              electronic disclosure documents may be distributed to investors. We
+                              acknowledge that there may be other methods of electronic distribution that
+                              are currently used in the market, and that technological developments may
+                              emerge in the future that create new ways for electronic distribution. We
+                              believe that it is up to the offeror to assess and determine the most appropriate
+                              method of distribution, taking into account the needs of investors.
+
+                              Principle 2: Managing security risks
+
+                               Principle 2
+
+                               Electronic disclosure documents should be distributed in a way that does
+                               not unreasonably expose investors to security risks.
+
+               RG 107.79      When an offeror or distributor distributes an electronic disclosure document
+                              by email with a hypertext link to a website containing the electronic
+                              disclosure document, the email should state whether the website is secure
+                              and that any personal details provided by the investor (e.g. to access the
+                              disclosure) will be kept confidential.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                     Page 24
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+               RG 107.80      An offeror should take reasonable steps to ensure that a website that contains
+                              the electronic disclosure document or electronic application form is secure.
+
+               RG 107.81      We believe such reasonable steps would include the offeror ensuring that the
+                              publisher has a legal or contractual obligation (e.g. under the terms of any
+                              agreement between the offeror and publisher) to ensure that:
+                              (a)   the website containing the electronic disclosure document or electronic
+                                    application form is, and will remain, secure; and
+                              (b)   the publisher has adequate software and safeguards to mitigate
+                                    security risks.
+
+               RG 107.82      Offerors and distributors should continue efforts to educate investors about
+                              internet scams and other security risks (e.g. phishing, fraud and data
+                              corruption or tampering), and may wish to direct investors to the Australian
+                              Cyber Security Centre’s Stay Smart Online program.
+
+                              Principle 3: Ensuring receipt of electronic disclosure
+                              documents
+
+                               Principle 3
+
+                               Offerors and distributors that distribute electronic disclosure documents for
+                               an entitlement offer to existing investors of a company should take reasonable
+                               steps to ensure that investors receive the electronic disclosure document.
+
+               RG 107.83      In the case of entitlement offers to existing investors of a company, it is
+                              important that offers are made to all eligible investors. It is becoming more
+                              common for investors to nominate an email address to receive
+                              communications from companies. Offerors and distributors should use that
+                              email address when sending electronic disclosure documents to investors.
+
+               RG 107.84      If an offeror or distributor becomes aware that an existing investor of a
+                              company has not received the electronic disclosure document (e.g. the
+                              offeror or distributor receives an undeliverable email notice), it should make
+                              reasonable attempts to contact the investor by other means to give them the
+                              disclosure document (e.g. by sending it to an alternative electronic address, if
+                              one has been provided, or by sending a paper copy by mail to the investor).
+
+               RG 107.85      We do not expect offerors and distributors to use special software to monitor
+                              whether emails containing electronic disclosure documents have been
+                              received, read or accessed. In our view, using a standard email ‘bounce-back’
+                              or undeliverable notification function is a reasonable step that offerors and
+                              distributors can take to monitor the receipt of electronic disclosure documents.
+
+               RG 107.86      We recommend that offerors (and their share registries, as relevant) should
+                              endeavour to ensure that investors’ contact details are kept up to date,
+                              particularly their email addresses if the offeror proposes to distribute
+                              entitlement offers to investors by email.
+
+
+
+© Australian Securities and Investments Commission July 2020                                                     Page 25
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+                              Principle 4: Ensuring electronic disclosure documents
+                              received are complete and protected from tampering
+
+                               Principle 4
+
+                               Offerors, distributors and publishers should take reasonable measures to
+                               ensure that electronic disclosure documents received by investors are
+                               complete and have not been altered or tampered with.
+
+               RG 107.87      There are a variety of measures that an offeror, distributor or publisher can
+                              take to protect the integrity of an electronic disclosure document from
+                              unauthorised alteration or tampering, such as:
+                              (a)   using firewall software to control the security settings of a webpage
+                                    containing the electronic disclosure document; or
+                              (b)   using protection tools—such as permission password encryptions, and
+                                    locked and read-only functions—to control the security settings of the
+                                    document.
+
+               RG 107.88      The use of protection features should not prevent the electronic disclosure
+                              document from being downloaded, saved or copied by the investor into a
+                              personal electronic file for the investor’s own records.
+
+               RG 107.89      We recommend that offerors and distributors clearly inform investors that
+                              they should contact the issuer if they are concerned that they have received
+                              an incomplete or altered version of the disclosure document, and advise
+                              them how to do so.
+
+               RG 107.90      An offeror, or a distributor on behalf of an offeror, must not accept an
+                              application for securities if it has reason to believe that an investor has, or
+                              may have, received an electronic disclosure document that is incomplete, or
+                              may have been altered or tampered with.
+
+                              Principle 5: Providing free paper disclosure documents
+                              on request
+
+                               Principle 5
+
+                               Offerors and distributors that distribute electronic disclosure documents
+                               and electronic application forms should make available free paper copies of
+                               disclosure documents and application forms on request by an investor.
+
+               RG 107.91      An offeror or distributor should make available, during the life of the
+                              electronic disclosure document, paper versions of the disclosure document
+                              (including any supplementary or replacement document) and the application
+                              form, on request by an investor and free of charge. Such paper versions
+                              should be sent to the investor within a reasonable time period, being no more
+                              than two to three business days from the request being received.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                     Page 26
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+               RG 107.92      Any person receiving the electronic disclosure document should be clearly
+                              informed that they may obtain a paper version of the disclosure document
+                              and advised how they may do so.
+
+                              Principle 6: Ensuring access to updated disclosure documents
+
+                               Principle 6
+
+                               Offerors and distributors of electronic disclosure documents should make
+                               updated disclosure documents available in both paper and electronic format.
+
+               RG 107.93      Offerors and distributors that have distributed the original disclosure
+                              document in both a paper and electronic format should ensure that any
+                              supplementary or replacement disclosure documents are also made available
+                              in both a paper and electronic format.
+
+               RG 107.94      Care should be taken so that investors do not continue to consider an outdated
+                              document in making their investment decision. If a disclosure document is
+                              generally accessible from a website, steps to avoid this might include:
+                              (a)   removing outdated documents from the website; and/or
+                              (b)   ensuring that the updated disclosure documents are accessible at least as
+                                    easily as the original disclosure document, and that there are clear
+                                    directions about which are the current disclosure documents that
+                                    investors should consider in making an investment decision.
+
+               RG 107.95      As a matter of good practice, offerors, or distributors on behalf of offerors,
+                              should not accept applications if they have reason to believe an investor is
+                              making an investment decision based on an outdated disclosure document
+                              without the benefit of any supplementary or replacement disclosure document.
+                              To do so in circumstances where the offer is made after the supplementary or
+                              replacement document has been lodged with ASIC, or where the updated
+                              disclosure document contains information that is ‘materially adverse’ from the
+                              point of view of the investor, may contravene the Corporations Act.
+
+                                    Note: See s719(4) and (5), 723 and 724.
+
+               RG 107.96      If a supplementary or replacement disclosure document is lodged with ASIC,
+                              offerors should take steps to help determine which version of the disclosure
+                              document an application is based on. This is particularly the case if new
+                              offers may be made after a supplementary or replacement document has
+                              been lodged with ASIC without any active steps being taken by the
+                              offeror—for instance, if the original disclosure document has continued to be
+                              accessible from a website. Examples of steps an offeror could take include:
+                              (a)   assigning a number to each version of an electronic application form
+                                    that links it to a particular version of the disclosure document that has
+                                    been made available; or
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                     Page 27
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+                              (b)   where an electronic payment process is available that allows investors
+                                    to apply for securities without submitting a completed application form,
+                                    providing a personalised application form that contains information that
+                                    is unique to a specific version of the electronic disclosure document
+                                    (e.g. an ‘investor identifier’ or ‘issuer identifier’), which must be used
+                                    by an investor to make an electronic payment.
+
+                                    Note: See RG 107.38–RG 107.43 for further discussion about electronic payment
+                                    processes.
+
+
+                              Principle 7: Ensuring access to electronic disclosure
+                              documents in the future
+
+                               Principle 7
+
+                               Investors should be able to keep a copy of the electronic disclosure
+                               document so that they can access it in the future.
+
+               RG 107.97      The electronic disclosure document should be capable of being easily
+                              downloaded, printed and saved so that an investor is able to access at any
+                              later time a copy of the disclosure document that they viewed.
+
+               RG 107.98      If the disclosure document is provided through a hypertext link to a webpage,
+                              offerors and distributors should encourage investors to make an electronic
+                              copy or, where practical, a printed copy of the disclosure document.
+
+               RG 107.99      Offerors, distributors and publishers should also ensure that the electronic
+                              disclosure document continues to be accessible from the link to the webpage
+                              for a period that they consider is reasonable (and at least until the expiry of
+                              the disclosure document).
+
+               RG 107.100     We think that a period of two years would be reasonable for most disclosure
+                              documents to continue to be accessible, unless the disclosure document has
+                              been superseded or updated sooner. If it is not possible to continue to make
+                              the electronic disclosure document available from the specified link or
+                              webpage throughout that period, the offeror or distributor should make it
+                              easy for clients to request an electronic or paper copy of the disclosure
+                              document free of charge (e.g. by providing a toll-free telephone number,
+                              an electronic address or a request button).
+
+                              Principle 8: Retaining copies and records of electronic
+                              disclosure documents
+
+                               Principle 8
+
+                               Offerors, distributors and publishers should retain copies and records of all
+                               electronic disclosure documents so that investors are able to prove which
+                               version of the disclosure document they relied on.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                     Page 28
+                                             REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+               RG 107.101     Offerors, distributors and publishers should retain a copy of all versions of
+                              the electronic disclosure document that they distribute or publish.
+
+               RG 107.102     As a matter of good practice, these records should be kept for a period of at
+                              least seven years (or as required by law).
+
+               RG 107.103     An offeror or distributor that provides the ability for an investor to apply for
+                              securities by using software should also retain a copy of each screen that
+                              would be displayed to the investor using the software to apply for securities,
+                              in any durable and legible medium.
+
+               RG 107.104     Offerors, distributors and publishers should also maintain records that are
+                              adequate to demonstrate that a particular electronic application form was
+                              included in, or accompanied by, the electronic disclosure document.
+
+                              Principle 9: Ensuring that electronic disclosure documents
+                              have the same information as paper versions
+
+                               Principle 9
+
+                               Electronic disclosure documents should have the same content,
+                               presentation and prominence of information as paper versions.
+
+               RG 107.105     The paper or electronic disclosure document distributed to an investor
+                              should contain the same information, in the same sequence and with the
+                              same prominence, as the disclosure document lodged with ASIC.
+
+               RG 107.106     Modifications to electronic versions of the disclosure document should only
+                              be included where those modifications are immaterial and reflect necessary
+                              adjustments or increased functionality when using different electronic
+                              media—for example:
+                              (a)   the inclusion of hypertext links (see further guidance in Principle 10
+                                    below);
+                              (b)   formatting changes required as a result of compatibility issues (i.e. font
+                                    sizes, page margins and general formatting);
+                              (c)   the use of additional electronic functions that do not affect the content
+                                    of the document, such as:
+                                    (i)     a facility for searching defined expressions;
+                                    (ii)    prompts to help investors use and find information in the electronic
+                                            disclosure document;
+                                    (iii)   ‘pop-ups’ that explain definitions, in place of standard glossaries;
+                                            and
+                                    (iv)    a zoom facility so that investors may enlarge or reduce the
+                                            information displayed; and
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                       Page 29
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+                              (d)   prompts that encourage investors to read the disclosure document
+                                    before they complete the application form. Such prompts should not
+                                    contain substantive information that does not appear in the disclosure
+                                    document lodged with ASIC.
+
+               RG 107.107     We think that the electronic version of a disclosure document should not
+                              cause an investor to confuse all or part of the disclosure document with any
+                              other document.
+
+                              Principle 10: Ensuring appropriate use of hypertext links to,
+                              from and within electronic disclosure documents
+
+                               Principle 10
+
+                               Hypertext links to, from or within the electronic disclosure document
+                               should not be used to take investors to material not forming part of the
+                               electronic disclosure document, other than jurisdictional confirmations
+                               or educational material.
+
+                              Hypertext links to the electronic disclosure document
+
+               RG 107.108     We think that hypertext links can assist in the efficient distribution and
+                              accessing of electronic disclosure documents, either on a webpage or by
+                              email. We think that a hypertext link should take an investor directly to the
+                              electronic disclosure document itself, to a webpage containing the disclosure
+                              document or to a webpage confirming the investor’s eligibility to participate
+                              in the offering (including but not limited to a jurisdictional disclaimer or
+                              confirmation), and not to a page that contains information about the offeror
+                              and/or the offer.
+
+               RG 107.109     Additionally, the page or email containing the hypertext link should not
+                              contain any information about the offeror and/or offer that may contravene
+                              the advertising provisions in s734. Hypertext links to the electronic
+                              application form should only be accessible through the electronic disclosure
+                              document itself.
+
+                              Hypertext links within the electronic disclosure document or to
+                              documents incorporated by reference
+
+               RG 107.110     We encourage the use of hypertext links in electronic disclosure documents
+                              in the following ways:
+                              (a)   within the electronic disclosure document itself (i.e. between a contents
+                                    page and each section of the document, between sections of the
+                                    document, or between defined expressions and the places where the
+                                    expressions are used);
+                              (b)   from the electronic disclosure document to documents incorporated by
+                                    reference—where that information is available electronically (e.g. on
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                     Page 30
+                                            REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+                                    the ASX Market Announcements Platform or on the offeror’s
+                                    website)—and only if a reasonable person would be unlikely to confuse
+                                    the linked documents with the electronic disclosure document; and
+
+                                    Note: Under s712, a disclosure document may refer to a document that has been lodged
+                                    with ASIC instead of setting out information that is contained in that document,
+                                    provided that the reference (among other things) identifies the document that contains
+                                    the information and informs a person of their right to obtain a copy of the document.
+                                    This is commonly referred to as ‘incorporated by reference’. It is not sufficient to link to
+                                    other documents for them to be incorporated by reference, as these documents must be
+                                    lodged with ASIC.
+
+                              (c)   from the electronic disclosure document to educational material
+                                    (e.g. webpages on ASIC’s Moneysmart website) providing information
+                                    about the risks associated with investing in certain types of securities
+                                    (e.g. hybrid securities), which may assist an investor in deciding
+                                    whether or a not particular investment suits their needs.
+
+               RG 107.111     Hypertext links to documents incorporated by reference should allow the
+                              investor to return to the point in the electronic disclosure document at which
+                              they entered the link to assist the investor to continue to read the remainder
+                              of the disclosure document.
+
+               RG 107.112     If an investor requests that the incorporated documents are sent to them, the
+                              documents should be provided by the same means as the electronic
+                              disclosure document, unless the investor has requested paper copies of the
+                              incorporated documents. It is not sufficient that the incorporated documents
+                              are accessible on the internet unless the offeror gives the investor notice of
+                              this and the address of the relevant website.
+
+               RG 107.113     A hypertext link to an electronic disclosure document should not be provided
+                              in a manner that selectively presents only parts of the disclosure document or
+                              that reduces the likelihood of an investor reading any part of the disclosure
+                              document.
+
+               RG 107.114     We think that hypertext links should not be used:
+                              (a)   from the electronic disclosure document directly to promotional
+                                    material;
+                              (b)   from the electronic disclosure document to the electronic application
+                                    form or electronic payment process (unless the link can only be
+                                    accessed after the investor has positively confirmed that they have
+                                    accessed or read the disclosure document); or
+                              (c)   from a webpage containing the electronic disclosure document to an
+                                    electronic application form or electronic payment process (unless the
+                                    link can only be accessed after the disclosure document has been
+                                    accessed or after the investor has positively confirmed that they have
+                                    accessed or read the disclosure document).
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                           Page 31
+                                            REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+                              Principle 11: Ensuring electronic application forms are
+                              issued in or with an electronic disclosure document
+
+                               Principle 11
+
+                               Electronic application forms must be included in, or accompanied by, the
+                               electronic disclosure document.
+
+               RG 107.115     Offerors, distributors and publishers should take reasonable measures to
+                              ensure that an investor who is issued with an electronic application form
+                              is given access, at the same time and by the same means, to the disclosure
+                              document.
+                                    Note: This guidance reflects the legal requirements in s721 and 727(1), under which an
+                                    offer of securities must be made in, or accompanied by, a disclosure document; and
+                                    s723(1), under which it is an offence to issue securities unless they are issued in
+                                    response to an application form and the issuer has reasonable grounds to believe that the
+                                    form was included in, or accompanied by, the disclosure document (or was copied or
+                                    directly derived from such a form).
+
+               RG 107.116     We consider the following to be examples of reasonable measures that can
+                              be taken to satisfy this requirement in the electronic environment:
+                              (a)   the electronic application form and the electronic disclosure document
+                                    should be contained in the same electronic document file (e.g. a PDF or
+                                    TIFF file), with the electronic application form at the end of that file
+                                    after the electronic disclosure document; or
+                              (b)   if providing an electronic application form or electronic payment
+                                    process to allow investors to apply for securities online, an electronic
+                                    mechanism or software should be used, through which:
+                                    (i)    investors can gain access to the electronic application form or
+                                           make an electronic payment only if they have received and
+                                           accessed the electronic disclosure document; or
+                                    (ii)   offerors, or distributors on behalf of offerors, can verify that the
+                                           investor received and accessed the electronic disclosure document
+                                           before accessing and completing the application form, or making
+                                           an electronic payment.
+
+               RG 107.117     For example, an offeror or distributor may provide for a ‘certify’ message
+                              requiring the investor to confirm that the electronic disclosure document has
+                              actually been received and accessed before the application for securities is
+                              made. A further example is where investors are provided with a unique
+                              personal identification number, which can only be derived from the
+                              electronic disclosure document—or from the electronic application form that
+                              accompanied, or was included in, the electronic disclosure document—and
+                              which is required for an investor to complete the electronic application form
+                              or to make an electronic payment for securities.
+                                    Note: See RG 107.38–RG 107.43 for further discussion about electronic payment
+                                    processes.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                        Page 32
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+               RG 107.118     Offerors might want to take additional steps in their compliance programs.
+                              For example, if applications are made through an AFS licensee, an offeror
+                              might want to obtain confirmation from the AFS licensee that all investors
+                              have received the disclosure document, and to require the AFS licensee to
+                              obtain an acknowledgement from the investor that they have received the
+                              disclosure document. However, we do not expect offerors to implement
+                              mechanisms or software to monitor whether an investor has viewed each
+                              page of the electronic disclosure document.
+
+               RG 107.119     An offeror, or a distributor on behalf of an offeror, must only accept
+                              applications for securities if it has reasonable grounds to believe that the
+                              electronic application form was included in, or accompanied by, an electronic
+                              disclosure document when the application form was received by the investor.
+
+
+                              Principle 12: Ensuring appropriate warnings are included in
+                              electronic application forms
+
+                               Principle 12
+
+                               Electronic application forms should contain appropriate warnings to ensure
+                               that investors are informed of the importance of reading the disclosure
+                               document before applying for securities.
+
+               RG 107.120     Offerors and distributors should display a prominent statement, which the
+                              investor will see no later than the electronic application form, to the effect
+                              that securities will only be issued or transferred on receipt of an electronic
+                              application form that was issued together with the electronic disclosure
+                              document, or on receipt of an electronic payment that is made with
+                              information derived from such a form.
+
+               RG 107.121     Whether an electronic application form is contained in the same file as the
+                              electronic disclosure document (i.e. a PDF or TIFF file), or is an online
+                              generated application form, all electronic application forms should display
+                              prominent statements to the effect that:
+                              (a)   there is a disclosure document with information about investing in the
+                                    securities—including details about the offer and the disclosure
+                                    document, such as the identity of the issuer, the nature of the securities
+                                    being offered (e.g. ordinary shares or options), the price of the
+                                    securities, the date of the disclosure document and the expiry date of the
+                                    disclosure document; and
+                              (b)   investors should read the disclosure document before applying for the
+                                    securities.
+
+                                    Note: Application forms should also contain a statement to the effect that, by applying
+                                    for securities, an investor is agreeing to become a member of the company. This reflects
+                                    the requirement in s231(b), which provides that a person is a member of a company if
+                                    they agree to become a member of the company after its registration and their name is
+                                    entered on the register of members.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                        Page 33
+                                             REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+                              Principle 13: Ensuring electronic application forms are
+                              secure
+
+                               Principle 13
+
+                               Electronic application forms should contain verification processes and
+                               should be secure.
+
+               RG 107.122     Offerors, and distributors on behalf of offerors, may accept applications for
+                              securities that are completed and submitted online, and may accept
+                              electronic payment for securities, provided that they have the appropriate
+                              systems in place to ensure that such information is securely transmitted and
+                              free from possible hacking or fraud.
+
+               RG 107.123     We consider that electronic application forms should not be able to be
+                              transmitted and received electronically unless the offeror or distributor has
+                              reasonable systems and controls in place to ensure the security and safety of
+                              the information being transmitted. Such systems and controls would include
+                              encryption-type software effectively encrypting the confidential information
+                              being transmitted, and appropriate firewalls to prevent the hacking of such
+                              information once it has been received by the offeror or distributor.
+
+               RG 107.124     We recommend that offerors and distributors should ensure that electronic
+                              application forms are secure to protect them from any unauthorised
+                              alteration or tampering and to protect the privacy of the investor’s personal
+                              information. Additionally, encryption-type software should be used to
+                              transmit payments and confidential information about the investor.
+
+               RG 107.125     While we think that it is primarily a matter for the offeror to decide whether
+                              an investor must sign an application form—and how to resolve the technical
+                              issues for an investor (whether an individual or a corporate entity) signing
+                              electronically—we do recommend that offerors, and distributors on behalf of
+                              offerors, should take reasonable measures to verify the identity of the investor.
+
+               RG 107.126     For example, the offeror or distributor may require the investor to:
+                              (a)   use personalised log-in details to access the electronic disclosure
+                                    document, electronic application form and/or details that must be
+                                    known by the investor in order to make an electronic payment for
+                                    securities, including:
+                                    (i)     details about how to make an electronic payment;
+                                    (ii)    a unique personal identification number for the investor
+                                            (e.g. customer reference number); and
+                                    (iii)   an identification code for the issuer (e.g. biller code);
+                              (b)   provide a verification code, which may be sent by the offeror to the
+                                    investor’s personal email address, to allow the investor to submit the
+                                    application form and/or make an electronic payment; or
+
+
+
+© Australian Securities and Investments Commission July 2020                                                       Page 34
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+                              (c)   answer a security question (to which they have previously provided the
+                                    answer) to allow the investor to submit an application form and/or make
+                                    an electronic payment.
+
+               RG 107.127     We understand that some offerors might want an investor to sign an
+                              application form as evidence that the investor agrees to the terms on which
+                              the offeror will issue securities to them. In such instances, an investor should
+                              be able to print or download an application form from an electronic
+                              disclosure document or website.
+
+               RG 107.128     Electronic application forms or electronic payment processes should also
+                              allow the investor to easily download, print and save a copy of the
+                              electronically submitted application form or receipt of payment. While the
+                              electronic application form may contain links and information relevant to
+                              applying for the securities, these should not distract the investor from reading
+                              and understanding the electronic disclosure document or application form.
+
+
+                              Principle 14: Ensuring offers are only made in specific
+                              jurisdictions
+
+                               Principle 14
+
+                               Reasonable measures should be taken to ensure that offers are only made
+                               in jurisdictions where the offer complies with the relevant securities laws.
+
+               RG 107.129     Offerors and distributors that distribute electronic disclosure documents
+                              should take reasonable measures to ensure that the offer is only received in
+                              Australia or other specific jurisdictions where it is intended that the offer
+                              will be available, and where they are satisfied that the offer complies with all
+                              the relevant securities laws of those jurisdictions.
+
+               RG 107.130     We think that an electronic disclosure document should contain a prominent
+                              statement that the offer or invitation is only available to persons receiving
+                              the document in certain specified jurisdictions.
+
+               RG 107.131     If an electronic disclosure document is made available on the websites of
+                              financial intermediaries or regulated markets, these persons should also take
+                              measures to avoid targeting residents in countries where the offer of
+                              securities to the public is not taking place.
+
+               RG 107.132     Some additional measures offerors or distributors may wish to take to reduce
+                              the risk of contravening foreign securities laws include:
+                              (a)   the inclusion of a ‘certify’ message on the webpage containing the
+                                    electronic disclosure document and/or electronic application form,
+                                    requiring the investor to confirm, before accessing the documents, that
+                                    they are located in Australia or another specific jurisdiction where the
+                                    offer is being made; or
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                     Page 35
+                                             REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+                              (b)   the use of firewall software to control the security settings of an
+                                    electronic application form to prevent applications being made by
+                                    investors located outside Australia or other specific jurisdictions where
+                                    the offer is being made.
+
+
+                              Principle 15: Ensuring investors do not confuse promotional
+                              material with the electronic disclosure document
+
+                               Principle 15
+
+                               Promotional material should not be published in a way that may cause it to
+                               be confused with all or any part of the electronic disclosure document.
+
+               RG 107.133     Electronic disclosure documents should be presented to investors in a way
+                              that encourages investors to make decisions on the basis of the contents of
+                              the document and not on the basis of promotional or marketing material.
+
+               RG 107.134     Offerors, distributors and publishers should not publish promotional material
+                              in such a way that a reasonable person would be likely to confuse it with all
+                              or any part of the electronic disclosure document.
+
+               RG 107.135     As a matter of good practice, offerors, distributors and publishers of
+                              electronic disclosure documents should take the following reasonable
+                              measures:
+                              (a)   use separate electronic document files for the disclosure document and
+                                    any promotional and advertising material;
+                              (b)   in the email containing the electronic disclosure document or a link to
+                                    the electronic disclosure document, only include a basic description of
+                                    the offer—for example, the identity of the issuer, the nature of the
+                                    securities being offered (e.g. ordinary shares or options), the price of the
+                                    securities and the closing date of the offer;
+                              (c)   include a clear and prominent statement in any promotional and
+                                    advertising material to the effect that:
+                                    (i)     the information does not constitute part of the disclosure
+                                            document;
+                                    (ii)    a disclosure document for the offer is available—and advise on
+                                            how this may be obtained—and that investors should obtain a copy
+                                            and read the disclosure document before making an investment
+                                            decision; and
+                                    (iii)   securities will only be issued in response to an application form
+                                            that was either included in, or accompanied by, a disclosure
+                                            document; and
+                              (d)   do not provide hypertext links from the electronic disclosure document
+                                    directly to promotional material.
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                       Page 36
+                                             REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+Key terms
+
+
+                               Term                         Meaning in this document
+
+                               AFS licence                  An Australian financial services licence under s913B of the
+                                                            Corporations Act that authorises a person who carries on
+                                                            a financial services business to provide financial services
+                                                               Note: This is a definition contained in s761A.
+
+                               AFS licensee                 A person who holds an AFS licence under s913B of the
+                                                            Corporations Act
+                                                               Note: This is a definition contained in s761A.
+
+                               ASIC                         Australian Securities and Investments Commission
+
+                               ASIC Act                     Australian Securities and Investments Commission Act
+                                                            2001
+
+                               ASX                          The exchange market operated by ASX Limited
+
+                               Ch 6D (for example)          A chapter of the Corporations Act (in this example
+                                                            numbered 6D)
+
+                               CLERP Act                    Corporate Law Economic Reform Program Act 1999
+
+                               [CO 00/44] (for              An ASIC class order (in this example numbered
+                               example)                     CO 00/44)
+
+                               Corporations Act             Corporations Act 2001, including regulations made for the
+                                                            purposes of that Act
+
+                               CP 155 (for example)         An ASIC consultation paper (in this example numbered
+                                                            155)
+
+                               disclosure document          A prospectus, a profile statement or an offer information
+                                                            statement for an offer of securities under Ch 6D of the
+                                                            Corporations Act
+
+                               distributor                  Any person sending or disseminating an electronic
+                                                            disclosure document or electronic application form, or a
+                                                            hypertext link to an electronic disclosure document or
+                                                            electronic application form, including but not limited to AFS
+                                                            licensees and excluding offerors and publishers
+
+                               electronic application       Any application form for an offer of securities that is
+                               form                         distributed and accessed in electronic format, including:
+                                                             an online or web-based application form, such as one
+                                                              that can be completed and submitted online; and
+                                                             an application form that is a digital copy of a paper form
+                                                              that is able to be distributed, downloaded or viewed
+                                                              electronically (e.g. by email or on an electronic device)
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                       Page 37
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+                               Term                       Meaning in this document
+
+                               electronic disclosure      Any disclosure document under Ch 6D of the
+                               document                   Corporations Act that is distributed and accessed in
+                                                          electronic format, including:
+                                                           an online or web-based disclosure document (which
+                                                            may contain electronic content); and
+                                                           a disclosure document that is a digital copy of a paper
+                                                            document that is able to be distributed, downloaded or
+                                                            viewed electronic electronically (e.g. by email or on an
+                                                            electronic device)
+
+                               good practice              Good practice guidance, contained in Section D of this
+                               guidance                   guide, for the electronic distribution of disclosure
+                                                          documents and application forms under Ch 6D of the
+                                                          Corporations Act
+
+                               Offer Notice Board         A database of all disclosure documents for fundraising
+                                                          offers lodged with ASIC under Ch 6D of the Corporations
+                                                          Act and for some disclosure documents required to be
+                                                          lodged under Pt 7.9
+
+                               offeror                    Any person making an offer of securities under Ch 6D of
+                                                          the Corporations Act, including any person issuing or
+                                                          transferring securities under Ch 6D. Offering securities
+                                                          includes inviting applications for the issue of securities and
+                                                          inviting offers to purchase the securities: s700(2)
+
+                               old Corporations Law       The law, set out in s82 of the Corporations Act 1989, which
+                                                          preceded the Corporations Act. A reference to the old
+                                                          Corporations Law is a reference to the law as it stood
+                                                          before the implementation of the CLERP Act
+
+                               PDF                        Portable document format
+
+                               phishing                   Emails or text messages that attempt to deceive a person
+                                                          into disclosing their personal information, such as
+                                                          usernames, passwords or banking details
+
+                               Pt 6D.2                    A part of the Corporations Act (in this example numbered
+                                                          6D.2)
+
+                               publisher                  Any person who publishes through electronic means an
+                                                          electronic disclosure document or electronic application
+                                                          form in the course of business. This includes a website
+                                                          host provider, through which an electronic disclosure
+                                                          document or electronic application form can be accessed
+
+                               RG 107 (for example)       An ASIC regulatory guide (in this example numbered 107)
+
+                               s723 (for example)         A section of the Corporations Act (in this example
+                                                          numbered 723), unless otherwise specified
+
+                               TIFF                       Tagged image file format
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                      Page 38
+                                           REGULATORY GUIDE 107: Fundraising: Facilitating electronic offers of securities
+
+
+
+
+Related information
+
+                              Headnotes
+
+                              advertising, AFS licensee, AFS licensee created application form, Australian
+                              financial services licensee, disclosure document, electronic application form,
+                              electronic disclosure document, electronic distribution, electronic payment
+                              process, hypertext link, offer of securities, personalised application form,
+                              social media
+
+
+                              Legislative instruments
+
+                              ASIC Corporations (Application Form Requirements) Instrument 2017/241
+
+                              [CO 00/44] Electronic disclosure documents, electronic application forms
+                              and dealer personalised applications (now superseded)
+
+
+                              Regulatory guides
+
+                              RG 36 Licensing: Financial product advice and dealing
+
+                              RG 141 Offers of securities on the internet
+
+                              RG 221 Facilitating digital financial services disclosure
+
+                              RG 234 Advertising financial products and services (including credit): Good
+                              practice guidance
+
+                              RG 244 Giving information, general advice and scaled advice
+
+                              RG 254 Offering securities under a disclosure document
+
+
+                              Legislation
+
+                              ASIC Act, s12CA–12CC, 12DA–12DB, 12DJ
+
+                              CLERP Act
+
+                              CLERP Bill
+
+                              Corporations Act, Ch 6D, s52, 231, 706, 707, 708, 708AA, 708A, 710, 711,
+                              712, 713, 715, 718, 719, 721, 723, 724, 727, 729, 734, 736, 737, 738, 991A,
+                              1041E–1041H
+
+
+
+
+© Australian Securities and Investments Commission July 2020                                                     Page 39
+

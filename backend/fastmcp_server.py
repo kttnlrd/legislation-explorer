@@ -31,6 +31,10 @@ from backend.services.data_loader import (
 )
 from backend.services.search_service import search_sections as fts_search, search_rulings, search_conn
 
+from backend.routes.regulatory_guides import (
+    _load_rg_section_index,
+    _load_reverse_section_index,
+)
 from backend.services.case_db_service import (
     build_download_urls,
     get_case_metadata,
@@ -85,8 +89,13 @@ mcp = FastMCP(
 
 _CASE_CITATION_RE = _re.compile(r'\[(\d{4})\]\s*([A-Z]+(?:\s*[A-Z]+)*)\s*(\d+)')
 
+_CASE_CITATION_BRACKETLESS_RE = _re.compile(r'(\d{4})\s+([A-Z]+(?:\s*[A-Z]+)*)\s+(\d+)')
+
 def _normalise_case_citation(raw: str) -> str | None:
     m = _CASE_CITATION_RE.search(raw)
+    if m:
+        return f"[{m.group(1)}] {m.group(2)} {m.group(3)}"
+    m = _CASE_CITATION_BRACKETLESS_RE.search(raw)
     if m:
         return f"[{m.group(1)}] {m.group(2)} {m.group(3)}"
     return None
@@ -272,7 +281,7 @@ _ALIAS_PATTERNS: list[tuple[_re.Pattern, str, str | None, str, str | None, str |
 
 @functools.lru_cache(maxsize=8)
 def _get_act_section_ids(act: str) -> set[str]:
-    """Return a set of all section IDs in an act (e.g., {'8-1', '115-215'})."""
+    """Return a set of all section, division, and subdivision IDs in an act."""
     from backend.services.data_loader import load_tree
     try:
         tree = load_tree(act)
@@ -283,9 +292,11 @@ def _get_act_section_ids(act: str) -> set[str]:
         for sec in part.get("sections", []):
             ids.add(sec.get("id", ""))
         for div in part.get("divisions", []):
+            ids.add(div.get("id", ""))  # collect division IDs too (e.g. "Division 7A")
             for sec in div.get("sections", []):
                 ids.add(sec.get("id", ""))
             for sub in div.get("subdivisions", []):
+                ids.add(sub.get("id", ""))  # collect subdivision IDs too
                 for sec in sub.get("sections", []):
                     ids.add(sec.get("id", ""))
     return ids
@@ -307,6 +318,29 @@ def _resolve_hyphenated_act(bare: str) -> str:
         if act != "itaa-1997":
             return act
     return "itaa-1997"
+
+
+def _section_exists_in_act(act: str, section_id: str) -> bool:
+    """Check if a section ID exists in the given act's tree via section-index lookup.
+
+    Returns True if the section exists in the act, False otherwise.
+    Used to prevent pattern-based alias resolution from returning false positives
+    for non-existent references.
+    
+    Normalizes 'Division X' → bare 'X' to match tree IDs.
+    """
+    if not section_id or not act:
+        return False
+    ids = _get_act_section_ids(act)
+    if section_id in ids:
+        return True
+    # Try normalized form: "Division 7A" → "7A", "Part IVA" → "IVA"
+    for prefix in ("Division ", "Part ", "Subdivision "):
+        if section_id.startswith(prefix):
+            normalized = section_id[len(prefix):]
+            if normalized in ids:
+                return True
+    return False
 
 
 @mcp.tool()
@@ -337,6 +371,10 @@ async def resolve_alias(reference: str) -> str:
             if resolved_ref is None and description is None:
                 # Partial match that needs fallback but act is known
                 # e.g. 109* — resolve via search
+                break
+            # Validate the resolved section actually exists in the act's tree
+            if resolved_ref is None or not _section_exists_in_act(act, resolved_ref):
+                # Section doesn't exist — fall through to search
                 break
             return json.dumps({
                 "reference": ref,
@@ -402,33 +440,37 @@ async def resolve_alias(reference: str) -> str:
     # Strip leading 's', 'sec', 'section' prefix
     bare = _re.sub(r'^(?:s(?:ec(?:tion)?)?\.?\s+)', '', ref, flags=_re.IGNORECASE).strip()
 
-# Section-number-shaped with hyphen → probe across candidate acts
+    # Section-number-shaped with hyphen → probe across candidate acts
     if _re.match(r'^\d+[-]\d+[A-Za-z0-9]*$', bare):
         act_id = _resolve_hyphenated_act(bare)
         act_display = {
             "itaa-1997": "ITAA 1997", "gst-1999": "GST Act", "taa-1953": "TAA 1953"
         }.get(act_id, "ITAA 1997")
-        return json.dumps({
-            "reference": ref,
-            "act": act_id,
-            "act_display": act_display,
-            "section": bare,
-            "description": f"s {bare} — hyphenated section number routed to {act_display}",
-            "url": f"https://legislation.scriptkitty.yachts/get_section?act={act_id}&section={bare}",
-            "resolved_by": "hyphenated_section_pattern",
-        }, indent=2)
+        # Validate the section actually exists in the resolved act's tree
+        if _section_exists_in_act(act_id, bare):
+            return json.dumps({
+                "reference": ref,
+                "act": act_id,
+                "act_display": act_display,
+                "section": bare,
+                "description": f"s {bare} — hyphenated section number routed to {act_display}",
+                "url": f"https://legislation.scriptkitty.yachts/get_section?act={act_id}&section={bare}",
+                "resolved_by": "hyphenated_section_pattern",
+            }, indent=2)
 
     # Unhyphenated alphanumeric section → ITAA 1936 style (e.g. '109Y', '100A', '23AH')
     if _re.match(r'^[A-Za-z0-9]+$', bare):
-        return json.dumps({
-            "reference": ref,
-            "act": "itaa-1936",
-            "act_display": "ITAA 1936",
-            "section": bare,
-            "description": f"s {bare} — unhyphenated section routed to ITAA 1936",
-            "url": f"https://legislation.scriptkitty.yachts/get_section?act=itaa-1936&section={bare}",
-            "resolved_by": "unhyphenated_section_pattern",
-        }, indent=2)
+        # Validate the section actually exists in ITAA 1936 before returning
+        if _section_exists_in_act("itaa-1936", bare):
+            return json.dumps({
+                "reference": ref,
+                "act": "itaa-1936",
+                "act_display": "ITAA 1936",
+                "section": bare,
+                "description": f"s {bare} — unhyphenated section routed to ITAA 1936",
+                "url": f"https://legislation.scriptkitty.yachts/get_section?act=itaa-1936&section={bare}",
+                "resolved_by": "unhyphenated_section_pattern",
+            }, indent=2)
 
     # -- Step 3: Fallback to full-text search --
     try:
@@ -573,13 +615,21 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
     if body_truncated_flag:
         body_out = body_stripped[:max_body_length]
 
-    # Special handling for definition sections (s 995-1 in ITAA 1997)
-    section_995_note = ""
-    if act == "itaa-1997" and section == "995-1":
-        section_995_note = (
-            "This is the definitions section (995-1). It contains all defined terms "
-            "for the ITAA 1997. The full text may be very large. Use get_definition tool "
-            "(act='itaa-1997', term='TERM') to look up a specific definition."
+    # Special handling for large definition/interpretation sections
+    # These contain hundreds of defined terms — truncate and guide user to get_definition
+    big_def_sections = {
+        "itaa-1997": {"995-1": "the ITAA 1997"},
+        "itaa-1936": {"317": "Part X (CFC measures) of the ITAA 1936", "6": "the ITAA 1936"},
+        "gst-1999": {"195-1": "the GST Act"},
+    }
+    def_section_act = big_def_sections.get(act, {})
+    def_section_label = def_section_act.get(section)
+    section_def_note = ""
+    if def_section_label:
+        section_def_note = (
+            f"This is an interpretation/definitions section for {def_section_label}. "
+            "The full text may be very large. Use the get_definition tool "
+            f"(act='{act}', term='TERM') to look up a specific definition."
         )
         # Truncate to a concise preview
         body_out = body_out[:10000]
@@ -632,6 +682,32 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
     except Exception:
         related_sections = []
 
+    # Fetch related RGs for corps act sections
+    related_rgs = []
+    if act == "corporations-act-2001":
+        try:
+            rev = _load_reverse_section_index()
+            key = f"corporations-act-2001#{section}"
+            rg_keys = rev.get(key, [])
+            # Try without subsections
+            if not rg_keys:
+                base = section.split("(")[0].strip()
+                if base != section:
+                    key2 = f"corporations-act-2001#{base}"
+                    rg_keys = rev.get(key2, [])
+            from backend.routes.regulatory_guides import _load_manifest as _load_rg_manifest
+            manifest = _load_rg_manifest()
+            manifest_map = {rg["rg_number"]: rg for rg in manifest}
+            for k in rg_keys:
+                rg_num = int(k.split("_")[1])
+                rg = manifest_map.get(rg_num, {})
+                related_rgs.append({
+                    "rg_number": rg_num,
+                    "title": rg.get("title", ""),
+                })
+        except Exception:
+            pass
+
     payload = {
         "act": act,
         "section": section,
@@ -645,8 +721,10 @@ async def get_section(act: str, section: str, max_body_length: int = 50000,
             "sections": related_sections,
         },
     }
-    if section_995_note:
-        payload["note"] = section_995_note
+    if related_rgs:
+        payload["related"]["regulatory_guides"] = related_rgs
+    if section_def_note:
+        payload["note"] = section_def_note
     return json.dumps(payload, indent=2)
 
 
@@ -660,7 +738,7 @@ async def list_acts() -> str:
             acts.append({
                 "id": act_dir.name,
                 "name": tree.get("act", act_dir.name),
-                "compilation_no": tree.get("compilation_no"),
+                "compilation_no": int(tree["compilation_no"]) if tree.get("compilation_no") is not None else None,
                 "compilation_date": tree.get("compilation_date"),
             })
     acts.append({"id": "rulings", "name": "ATO Rulings"})
@@ -682,7 +760,8 @@ async def get_act_tree(act: str, depth: str = "sections") -> str:
             "compilation_date": tree.get("compilation_date"),
             "depth": "parts",
             "parts": [{"id": p.get("id"), "title": p.get("title")}
-                      for p in tree.get("parts", [])],
+                      for p in tree.get("parts", [])
+                      if p.get("id") or p.get("title")],  # filter empty nodes
         }
         return json.dumps(pruned, indent=2)
     elif depth == "divisions":
@@ -694,6 +773,8 @@ async def get_act_tree(act: str, depth: str = "sections") -> str:
             "parts": [],
         }
         for p in tree.get("parts", []):
+            if not p.get("id") and not p.get("title"):
+                continue  # skip empty parts
             part = {"id": p.get("id"), "title": p.get("title"), "divisions": []}
             for d in p.get("divisions", []):
                 part["divisions"].append({"id": d.get("id"), "title": d.get("title")})
@@ -759,29 +840,18 @@ async def search_all(
     # Cases — search via PostgreSQL + summaries
     if type_filter is None or type_filter == "case":
         try:
-            summaries_dir = DATA_DIR / ".." / "scripts" / "cleaned" / "summaries"
-            words = query.lower().split()
-            case_results = []
-            if summaries_dir.is_dir():
-                for f in sorted(os.listdir(str(summaries_dir))):
-                    if not f.endswith(".json"):
-                        continue
-                    try:
-                        with open(summaries_dir / f) as fh:
-                            s = json.load(fh)
-                    except Exception:
-                        continue
-                    text = " ".join(str(v) for v in s.values()).lower()
-                    if all(w in text for w in words):
-                        case_results.append({
-                            "citation": s.get("citation", ""),
-                            "case_name": s.get("case_name", "") or s.get("title", ""),
-                            "court": s.get("court", ""),
-                            "has_summary": True,
-                        })
+            from backend.services.search_service import search_cases_fts
+            case_results = search_cases_fts(query, limit * 2)
+            case_results = [{
+                "citation": r["citation"],
+                "case_name": r["case_name"],
+                "court": r["court"],
+                "has_summary": True,
+            } for r in case_results]
             # Also search DB for metadata matches
             if len(case_results) < limit:
                 try:
+                    words = query.split()
                     import subprocess
                     safe = query.replace("'", "''")
                     like_clause = " OR ".join(
@@ -865,49 +935,13 @@ async def search_cases(query: str, limit: int = 20) -> str:
     if not query:
         return json.dumps({"total": 0, "results": [], "note": "Query required"})
 
-    summaries_dir = Path("/home/harrison/legislation-explorer/scripts/cleaned/summaries")
-    results = []
-    words = query.split()
-
-    if summaries_dir.is_dir():
-        for f in os.listdir(str(summaries_dir)):
-            if not f.endswith(".json"):
-                continue
-            try:
-                with open(summaries_dir / f) as fh:
-                    s = json.load(fh)
-            except Exception:
-                continue
-            text_parts = [
-                s.get("citation", ""),
-                s.get("case_name", "") or s.get("title", ""),
-                s.get("facts", ""),
-                s.get("held", ""),
-                s.get("reasoning", ""),
-                s.get("outcome", ""),
-            ]
-            for lst_key in ("issues", "cases_cited", "legislation_cited"):
-                val = s.get(lst_key, [])
-                if isinstance(val, list):
-                    text_parts.extend(str(item) for item in val
-                                      if isinstance(item, str))
-                elif isinstance(val, str):
-                    text_parts.append(val)
-            haystack = " ".join(text_parts).lower()
-            if all(w in haystack for w in words):
-                from urllib.parse import quote
-                results.append({
-                    "citation": s.get("citation", ""),
-                    "case_name": s.get("case_name", ""),
-                    "court": s.get("court", ""),
-                    "year": s.get("citation", "")[1:5]
-                    if s.get("citation", "").startswith("[") else "",
-                    "has_summary": True,
-                    "html_url": f"https://legislation.scriptkitty.yachts/tax-cases/{quote(s.get('citation', ''))}",
-                })
+    # FTS5 search over case summaries (much faster than brute-force file scan)
+    from backend.services.search_service import search_cases_fts
+    results = search_cases_fts(query, limit * 2)
 
     # Also search PostgreSQL for cases with metadata but no summary
     if len(results) < limit * 2:
+        words = query.split()
         safe = query.replace("'", "''")
         try:
             import subprocess
@@ -1033,6 +1067,60 @@ async def insolvency_get_chapter(chapter: int, offset: int = 0,
 
 
 @mcp.tool()
+async def get_regulatory_guide(rg_number: int) -> str:
+    """Retrieve an ASIC Regulatory Guide with structured summary.
+
+    Parameters:
+    - rg_number: The RG number (e.g. 1, 104, 140)
+
+    Returns the guide's subject, background, ruling, legislation references,
+    cases cited, related RGs, and full body text.
+    """
+    from backend.routes.regulatory_guides import get_regulatory_guide as _get_rg
+    import json as _json
+    try:
+        result = _get_rg(rg_number)
+        return _json.dumps(result, indent=2, default=str)
+    except Exception as e:
+        return _json.dumps({"error": str(e)})
+
+
+@mcp.tool()
+async def get_rg_sections(rg_number: int) -> str:
+    """Retrieve the Corps Act sections cited by an ASIC Regulatory Guide.
+
+    Parameters:
+    - rg_number: The RG number (e.g. 1, 104, 140)
+
+    Returns a list of sections referenced in the RG with their titles.
+    """
+    import json as _json
+    index = _load_rg_section_index()
+    key = f"RG_{rg_number}"
+    sections = index.get(key, [])
+    if not sections:
+        return _json.dumps({"rg_number": rg_number, "count": 0, "sections": []})
+    # Enrich with titles
+    try:
+        tree = load_tree("corporations-act-2001")
+        sec_map: dict[str, str] = {}
+        for part in tree.get("parts", []):
+            for sec in part.get("sections", []):
+                sec_map[sec["id"]] = sec.get("title", "")
+            for div in part.get("divisions", []):
+                for sec in div.get("sections", []):
+                    sec_map[sec["id"]] = sec.get("title", "")
+                for sub in div.get("subdivisions", []):
+                    for sec in sub.get("sections", []):
+                        sec_map[sec["id"]] = sec.get("title", "")
+        enriched = [{**s, "title": sec_map.get(s["section"], "")} for s in sections]
+        sections = enriched
+    except Exception:
+        pass
+    return _json.dumps({"rg_number": rg_number, "count": len(sections), "sections": sections}, indent=2)
+
+
+@mcp.tool()
 async def get_info() -> str:
     """Return server version, usage conventions, tool descriptions, and coverage counts.
 
@@ -1121,9 +1209,10 @@ async def get_info() -> str:
             "coverage": {
                 "acts": "compilation 2026-04-01 (most acts)",
                 "rulings": rulings_count,
-                "cases_in_db": cases_count,
-                "cases_with_summaries": summaries_count,
+                "cases_in_db_with_text": cases_count,
+                "summary_files_on_disk": summaries_count,
                 "known_issues": known_issues,
+                "note": "cases_in_db_with_text and summary_files_on_disk come from separate sources (DB vs filesystem) and may overlap incompletely — summary files may exist for cases whose full text is not in the DB, and vice versa.",
             },
         },
     }, indent=2)

@@ -1,0 +1,1664 @@
+REGULATORY GUIDE 54
+
+Principles for cross-border
+financial regulation
+
+June 2012
+
+
+
+
+About this guide
+This guide sets out ASIC’s approach to recognising overseas regulatory
+regimes for the purpose of facilitating cross-border financial regulation.
+
+It explains our role in regulating financial facilities, services and products
+across borders, in particular, the principles we use to assess whether to
+recognise an overseas regulatory regime unilaterally or under a mutual
+recognition arrangement for the provision of some form of regulatory relief.
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+                             Document history
+                             This version was issued in June 2012 and is based on legislation and
+                             regulations as at the date of issue.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 54, issued November 2002 as a guide
+                                     and rebadged as a regulatory guide in July 2007.
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                    Page 2
+                                                       REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+Contents
+                             A      Overview .................................................................................................4
+                                    Facilitating cross-border financial regulation ...........................................4
+                                    Unilateral and mutual recognition ............................................................5
+                                    Principles for cross-border financial regulation........................................6
+                                    Scope of this regulatory guide .................................................................6
+                             B      Unilateral and mutual recognition .......................................................7
+                                    What is unilateral recognition?.................................................................7
+                                    What is mutual recognition? ....................................................................8
+                                    Our approach to unilateral and mutual recognition ...............................10
+                             C      Principles for cross-border financial regulation ..............................12
+                                    General Principles .................................................................................12
+                                    Equivalence Principles ...........................................................................13
+                             D      Commentary on the General Principles ............................................15
+                                    Principle 1: Sufficiently equivalent regulation ........................................15
+                                    Principle 2: Fullest possible recognition ................................................17
+                                    Principle 3: Effective cooperation arrangements ...................................18
+                                    Principle 4: Enforcement of Australian laws ..........................................20
+                                    Principle 5: Adequate rights and remedies ............................................21
+                                    Principle 6: Adequate disclosure ...........................................................23
+                             E      Commentary on the Equivalence Principles.....................................25
+                                    Principle 7: Clear, transparent and certain ............................................25
+                                    Principle 8: Consistent with IOSCO Objectives and Principles of
+                                    Securities Regulation .............................................................................26
+                                    Principle 9: Adequately enforced ...........................................................27
+                                    Principle 10: Equivalent outcomes ........................................................28
+                             Key terms .....................................................................................................31
+                             Related information .....................................................................................33
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                                          Page 3
+                                                   REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               ASIC has developed principles to guide its decision-making relating to the
+                               granting of relief to foreign providers from certain Australian regulatory
+                               requirements. One key requirement is that the foreign provider is subject to
+                               a sufficiently equivalent overseas regulatory regime.
+
+                               Recognition of an overseas regulatory regime may be unilateral or through
+                               a mutual recognition arrangement.
+
+                               Recognising overseas regulatory regimes in this way reduces the
+                               regulatory barriers between national markets and facilitates the provision
+                               of financial facilities, services and products across borders.
+
+
+Facilitating cross-border financial regulation
+              RG 54.1        ASIC regulates foreign providers of financial facilities, services and
+                             products (foreign providers) that operate in Australia with the aim of
+                             improving access to:
+                             (a)   Australian markets by foreign providers; and
+                             (b)   foreign markets by Australian providers of financial facilities, services
+                                   and products (Australian providers).
+
+              RG 54.2        We do this by giving conditional relief from certain Australian regulatory
+                             requirements to foreign providers, and seeking similar relief from foreign
+                             requirements for Australian providers where possible.
+
+              RG 54.3        Lowering regulatory barriers between national markets in this way reduces:
+                             (a)   the initial time and cost associated with gaining entry to a foreign market;
+                             (b)   the ongoing cost for foreign providers operating in those markets; and
+                             (c)   the cost of foreign products for investors.
+
+                                   Note: See, for example, our report, Effects of the Australia–New Zealand mutual
+                                   recognition scheme for securities offerings (REP 174), which looks at the benefits of the
+                                   Australia–New Zealand mutual recognition of offerings scheme.
+
+              RG 54.4        The provision of financial facilities, services and products across borders can
+                             deliver significant economic benefits to Australian markets, investors and
+                             providers. The benefits of improving foreign providers’ access to Australian
+                             markets can include:
+                             (a)   enhancing competition and innovation in the financial industry; and
+                             (b)   increasing Australian investors’ access to financial facilities, services
+                                   and products that meet their risk and return preferences.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                         Page 4
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+              RG 54.5        The benefits of improving Australian providers’ access to foreign markets
+                             can include:
+                             (a)   facilitating access to a wider pool of investors to make it easier for
+                                   Australian issuers to raise capital;
+                             (b)   providing Australian market intermediaries with access to a broader
+                                   range of markets and clients; and
+                             (c)   facilitating more liquid Australian markets by increasing the number of
+                                   investors in Australian facilities, services and products.
+
+              RG 54.6        Our approach to cross-border financial regulation aims to facilitate these
+                             benefits, but also to ensure that:
+                             (a)   Australian investors who access foreign facilities, services and products
+                                   are adequately protected;
+                             (b)   foreign facilities, services and products do not adversely affect the
+                                   integrity of Australian financial markets;
+                             (c)   foreign facilities, services and products do not create systemic risks in
+                                   the Australian financial system;
+
+                                   Note: The Reserve Bank of Australia plays the primary role in reducing systemic risk: see
+                                   paragraph 8.8, Revised Explanatory Memorandum, Financial Services Reform Bill 2001.
+
+                             (d)   we deal consistently with the regulatory issues that arise from the
+                                   availability and provision of foreign facilities, services and products in
+                                   Australia; and
+                             (e)   we encourage and maximise opportunities to foster closer relations with
+                                   our overseas regulatory counterparts.
+
+
+
+Unilateral and mutual recognition
+              RG 54.7        The Corporations Act 2001 (Corporations Act) and the Corporations
+                             Regulations 2001 (Corporations Regulations) empower ASIC, and in some
+                             circumstances the Minister, to recognise overseas regulatory regimes that are
+                             ‘sufficiently equivalent’ to the Australian regulatory regime.
+
+              RG 54.8        To minimise unnecessary regulatory duplication, where foreign providers are
+                             subject to a sufficiently equivalent regulatory regime, ASIC or the Minister
+                             can:
+                             (a)   exempt foreign providers from certain Australian regulatory
+                                   requirements; and/or
+                             (b)   modify other requirements.
+
+              RG 54.9        Recognition of an overseas regulatory regime may be unilateral or through a
+                             mutual recognition arrangement: see Section B.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                       Page 5
+                                                   REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+Principles for cross-border financial regulation
+              RG 54.10       ASIC has developed principles to guide our decision making on whether to
+                             recognise an overseas regulatory regime unilaterally or through a mutual
+                             recognition arrangement (see Section C). These principles include General
+                             Principles (see Section D) and Equivalence Principles (see Section E).
+
+              RG 54.11       We use these principles to inform the decisions we make on whether to:
+                             (a)   exercise a specific statutory discretion to recognise an overseas
+                                   regulatory regime or regulatory authority;
+                             (b)   grant discretionary relief to a foreign provider so it can provide a
+                                   foreign facility, service or product in Australia without being subject to:
+                                   (i)    Australian regulatory requirements that are incompatible with the
+                                          relevant overseas regulatory regime; or
+                                   (ii)   unnecessary regulatory duplication; or
+                             (c)   advise the Minister to exercise a specific statutory discretion to
+                                   recognise an overseas regulatory regime or regulatory authority;
+                             (d)   advise the Australian Government on whether to recognise an overseas
+                                   regulatory regime in other circumstances; and
+                             (e)   establish mutual recognition arrangements.
+
+
+
+Scope of this regulatory guide
+              RG 54.12       The approach articulated in this guide is not directly relevant to the
+                             following matters:
+                             (a)   the regulation of foreign providers who seek to fully comply with those
+                                   parts of Australian law that apply to comparable Australian providers; or
+                                   Note: Foreign providers may enter the Australian market by complying with the laws
+                                   imposed on comparable Australian providers. For example, foreign market operators
+                                   may obtain an Australian market licence under s795B(1), and foreign providers of
+                                   financial services may obtain an Australian financial services (AFS) licence and comply
+                                   with all applicable parts of the Corporations Act.
+
+                             (b)   the jurisdictional reach of the Corporations Act or other Australian laws.
+                                   Note: For example, this guide does not address the degree of connection between
+                                   Australian and the foreign provider, facility, service or product that is necessary before
+                                   Australian law applies: see Regulatory Guide 121 Doing financial services business in
+                                   Australia (RG 121), Section C.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                           Page 6
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+B          Unilateral and mutual recognition
+
+                               Key points
+
+                               ‘Unilateral recognition’ and ‘mutual recognition’ describe two different ways
+                               ASIC can facilitate cross-border financial regulation. This section explains
+                               the key features of each.
+
+                               Where possible, ASIC will pursue opportunities for mutual recognition
+                               where unilateral recognition has already been applied. This means
+                               investors have the benefits of unilateral recognition where mutual
+                               recognition is not immediately feasible.
+
+
+
+
+What is unilateral recognition?
+              RG 54.13       ‘Unilateral recognition’ describes ASIC’s recognition of an overseas
+                             regulatory regime for the purpose of facilitating access by foreign providers
+                             to Australian markets without reciprocal recognition of Australia’s
+                             regulatory regime.
+
+              RG 54.14       Under a unilateral recognition arrangement, an entity operating in both
+                             Australia and a foreign jurisdiction under the terms of such an arrangement
+                             need not comply with specified Australian regulatory requirements if they
+                             are subject to a sufficiently equivalent overseas regulatory regime and meet
+                             other conditions.
+
+              RG 54.15       The Australian Government and relevant foreign government are generally
+                             not involved in unilateral recognition arrangements.
+
+                                   Note: Some involvement by the Australian Government is required under the
+                                   Corporations Act for overseas market licences: see Regulatory Guide 177 Australian
+                                   market licences: Overseas operators (RG 177).
+
+
+                             What are the benefits of unilateral recognition?
+
+              RG 54.16       The key benefits of unilateral recognition are the availability to Australian
+                             investors of a broader range of diverse financial facilities, services and
+                             products, and enhanced competition and innovation in the financial industry.
+
+              RG 54.17       As reciprocal recognition is not required, the regulatory burden on
+                             Australian providers seeking to access the foreign jurisdiction is not affected.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                     Page 7
+                                                   REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+                             Conditions for unilateral recognition
+
+              RG 54.18       Before ASIC will unilaterally recognise an overseas regulatory regime, we
+                             must be satisfied that the regime satisfies the principles set out in this guide:
+                             see Section C.
+
+
+
+What is mutual recognition?
+              RG 54.19       Mutual recognition describes an arrangement where two or more regulatory
+                             authorities agree to recognise each other’s regulatory regimes. This enables
+                             agreed classes of entities from all jurisdictions that are party to the mutual
+                             recognition arrangement to operate in the other jurisdiction(s) on agreed terms,
+                             on the basis of compliance with the regulatory framework of their home
+                             jurisdiction.
+
+              RG 54.20       Unlike unilateral recognition, mutual recognition involves a joint
+                             commitment between the governments and regulators of each jurisdiction to:
+                             (a)   the implementation of recognition between the relevant jurisdictions;
+                                   and
+                             (b)   a more enhanced ongoing level of cooperation between the regulators.
+
+              RG 54.21       Mutual recognition can be effected in the following ways:
+                             (a)   Governments may agree to a single legislative framework allowing
+                                   agreed classes of entities in each jurisdiction access to the other
+                                   jurisdictions. This form of mutual recognition arrangement is
+                                   implemented by altering the domestic legislative framework.
+                                   Note: An example of this type of arrangement is the treaty agreed between Australia and
+                                   New Zealand on 22 February 2006, known as the Agreement between the Government of
+                                   Australia and the Government of New Zealand in relation to the mutual recognition of
+                                   securities offerings. Australian and New Zealand issuers can offer securities in both
+                                   jurisdictions using a single disclosure document: see Regulatory Guide 190 Offering
+                                   securities in New Zealand and Australia under mutual recognition (RG 190).
+
+                             (b)   Authorities may agree that each will facilitate access to their
+                                   jurisdiction by entities from other jurisdictions, although the processes
+                                   and conditions for access may differ. This form of mutual recognition
+                                   arrangement does not necessarily rely on legislative action but may, if
+                                   circumstances allow, be achieved by use of our administrative
+                                   modification and exemption powers.
+                                   Note: An example of this type of arrangement is the Declaration of mutual recognition
+                                   entered into by ASIC and Hong Kong’s Securities and Futures Commission (SFC) in July
+                                   2008. Under the arrangement, ASIC and the SFC agreed to reduce regulatory duplication
+                                   around the sale of retail funds to investors in each other’s market, through the concurrent
+                                   application of unilateral regulatory relief.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                         Page 8
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+                             What are the benefits of mutual recognition?
+
+              RG 54.22       Mutual recognition arrangements reduce the regulatory burden for both foreign
+                             providers seeking to access the Australian market and Australian providers
+                             seeking to access foreign markets. This facilitates quicker entry to markets,
+                             increased competition, greater capital flows, more liquid markets and investor
+                             choice. Unlike unilateral recognition, reciprocity is the defining characteristic of
+                             mutual recognition.
+
+              RG 54.23       The associated compliance costs for Australian and foreign providers
+                             operating in each other’s respective markets under a mutual recognition
+                             arrangement are also likely to be lower than those associated with unilateral
+                             recognition. This is because mutual recognition involves greater reliance on
+                             the relevant overseas regulatory authority, and closer cooperation between
+                             regulators reduces the need for direct contact between the foreign provider
+                             and the relevant regulator in the host jurisdiction.
+
+              RG 54.24       For example, foreign providers of financial services who are granted relief
+                             under Regulatory Guide 176 Licensing: Discretionary powers: Wholesale
+                             foreign financial services providers (RG 176) (i.e. through unilateral
+                             recognition) must notify ASIC of certain events, such as a significant change
+                             to the provider’s authorisation, or any significant investigation, enforcement
+                             or surveillance action against them. This is because our relationship with the
+                             relevant overseas regulatory authority is unlikely to require that regulator to
+                             notify us of such changes directly or proactively.
+
+              RG 54.25       The closer cooperation afforded by mutual recognition facilitates deeper,
+                             ongoing relationships between regulators, improving their capacity to carry
+                             out their oversight, investigation and enforcement functions for cross-border
+                             activities. Improved international cooperation allows quicker and more
+                             effective flows of information between regulators, leading to an increased
+                             confidence in the financial markets.
+
+
+                             Conditions for mutual recognition
+
+              RG 54.26       Before ASIC will enter into a mutual recognition arrangement, we must be
+                             satisfied that:
+                             (a)   the overseas regulatory regime satisfies the principles set out in this
+                                   guide (see Section C); and
+                             (b)   the relevant authorities are committed to the arrangement.
+
+              RG 54.27       Mutual recognition is based on mutual reliance on regulatory regimes in
+                             each country, so the relevant authorities must be jointly committed to the
+                             arrangement. Without mutual ongoing commitment, there is potential for:
+                             (a)   negotiated mutual recognition arrangements not to be fully or
+                                   effectively implemented;
+
+
+
+© Australian Securities and Investments Commission June 2012                                                    Page 9
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+                             (b)   changes to be made to the overseas regulatory regime without due
+                                   notification, which may render the mutual recognition arrangements
+                                   ineffective; and/or
+                             (c)   cooperation between regulators to be insufficient to protect Australian
+                                   investors, market integrity and the stability of the Australian financial
+                                   system.
+
+              RG 54.28       Commitment to the ongoing conditions of mutual recognition may be
+                             demonstrated, for example, by:
+                             (a)   timely and effective cooperation between the relevant authorities during
+                                   the negotiation and assessment process;
+                             (b)   agreement that providers in each jurisdiction will be subject to
+                                   substantially equivalent levels of regulation; and/or
+                             (c)   regulators’ willingness to enter into enhanced effective cooperation and
+                                   supervisory cooperation agreements, which involve a proactive
+                                   approach by each regulator to assist the other in a timely and effective
+                                   manner on enforcement and surveillance activities (and which may
+                                   include the ability to conduct joint or parallel surveillances).
+
+              RG 54.29       If authority for regulating the foreign facilities, services and products has
+                             been delegated to a self-regulatory organisation, that organisation may need
+                             to be a party to the mutual recognition arrangement.
+
+
+
+Our approach to unilateral and mutual recognition
+              RG 54.30       ASIC will use both frameworks—unilateral and mutual recognition—to
+                             facilitate cross-border financial regulation. This approach:
+                             (a)   allows us to explore opportunities for mutual recognition of benefit to
+                                   Australian providers; and
+                             (b)   means investors can continue to have the benefits of unilateral
+                                   recognition where mutual recognition is not feasible.
+
+              RG 54.31       We may unilaterally recognise an overseas regulatory regime either on our own
+                             initiative or on application by a foreign entity, industry association or regulator.
+
+              RG 54.32       Similarly, we will pursue mutual recognition arrangements with foreign
+                             jurisdictions either on our own initiative or following an approach by an
+                             overseas regulatory authority and/or foreign government.
+
+              RG 54.33       In assessing applications for unilateral recognition, we will consider whether
+                             it might be more appropriate to pursue a mutual recognition arrangement
+                             with the jurisdiction concerned. In other words, we will continue to apply
+                             our approach to unilateral recognition against a background of maximising
+                             opportunities for mutual recognition where possible.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                   Page 10
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+              RG 54.34       In particular, we will consider:
+                             (a)   whether access to the foreign jurisdiction would sufficiently benefit
+                                   Australian providers (we may consult publicly or with industry on this
+                                   issue);
+                             (b)   whether there is some indication of willingness by the relevant parties
+                                   to negotiate such an arrangement;
+                             (c)   any time and resources constraints involved relative to the potential
+                                   benefits of mutual recognition over unilateral recognition; and
+                             (d)   the likelihood of similar providers from the relevant foreign jurisdiction
+                                   seeking access to the Australian market.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                   Page 11
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+C          Principles for cross-border financial regulation
+
+                               Key points
+
+                               The principles for cross-border financial regulation (comprising General
+                               Principles and Equivalence Principles) guide ASIC’s decision making on
+                               both unilateral and mutual recognition.
+
+                               The principles assist ASIC to ensure that its commitment to protect and
+                               promote the interests of Australian investors, protect the integrity of
+                               Australian markets, and manage systemic risks is not compromised by the
+                               reduction of regulatory burden or duplication for foreign providers in
+                               Australia.
+
+
+
+
+General Principles
+              RG 54.35       The General Principles (see Table 1), in conjunction with the Equivalence
+                             Principles (see Table 2), guide our decision making about whether ASIC
+                             should:
+                             (a)   exercise our statutory discretion under s911A(2)(h) of the Corporations
+                                   Act to exempt foreign providers of financial services from the
+                                   obligation to hold an AFS licence where the providers are regulated by
+                                   an overseas regulatory authority and only provide services to wholesale
+                                   clients;
+                                   Note: See RG 176.
+
+                             (b)   grant other discretionary relief to foreign providers so they can provide a
+                                   foreign facility, service or product (e.g. a collective investment scheme)
+                                   in Australia without being subject to:
+                                   (i)    Australian regulatory requirements that are incompatible with the
+                                          relevant overseas regulatory regime; or
+                                   (ii)   unnecessary regulatory duplication;
+                                   Note: See Regulatory Guide 178 Foreign collective investment schemes (RG 178) and
+                                   the general relief provisions in s601QA and 911A(2)(l) of the Corporations Act.
+
+                             (c)   advise the Minister on whether to exercise a specific statutory discretion
+                                   to recognise an overseas regulatory regime or regulatory authority;
+                                   Note 1: ASIC must advise the Minister on applications for Australian market licences,
+                                   including whether to grant an Australian market licence to an overseas market under
+                                   s795B(2): see RG 177.
+
+                                   Note 2: We also have a role advising the Minister on applications for licences for
+                                   clearing and settlement facilities under s824B(2): see Regulatory Guide 211 Clearing
+                                   and settlement facilities: Australian and overseas operators (RG 211).
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                      Page 12
+                                                   REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+                             (d)   advise the Australian Government on whether to recognise an overseas
+                                   regulatory regime in other circumstances; or
+                                   Note: For example, we may provide advice on whether a particular jurisdiction should
+                                   be prescribed in the Corporations Regulations as a recognised jurisdiction for the
+                                   purposes of the mutual recognition of securities offers under Ch 8 of the Corporations
+                                   Act.
+
+                             (e)   establish mutual recognition arrangements.
+
+                RG 54.36     We will monitor whether the overseas regulatory regime continues to satisfy
+                             these principles on an ongoing basis to make sure the conditions for
+                             unilateral or mutual recognition continue to be met.
+
+Table 1:       General Principles of cross-border financial regulation
+
+ Principle 1           ASIC recognises overseas regulatory regimes that are sufficiently equivalent to the
+                       Australian regulatory regime, in relation to the degree of investor protection, market
+                       integrity and reduction of systemic risk that they achieve.
+
+ Principle 2           ASIC gives the fullest possible recognition to sufficiently equivalent overseas regulatory
+                       regimes.
+
+ Principle 3           ASIC must have effective cooperation arrangements with the relevant overseas
+                       regulatory authorities regulating foreign facilities, services and products available in
+                       Australia.
+
+ Principle 4           ASIC must be able to enforce the Australian laws that apply to foreign facilities, services
+                       and products.
+
+ Principle 5           Adequate rights and remedies must be practically available to Australian investors who
+                       access foreign facilities, services and products in Australia.
+
+ Principle 6           Adequate disclosure must be made of information that Australian investors may
+                       reasonably require to make an informed assessment of the consequences of any
+                       significant differences between the regulation of the foreign facilities, services and
+                       products and the regulation of comparable Australian facilities, services and products.
+
+
+
+
+Equivalence Principles
+                RG 54.37     The Equivalence Principles (see Table 2) guide our assessment of the
+                             degree to which a relevant overseas regulatory regime is equivalent to the
+                             Australian regulatory regime under Principle 1 of the General Principles.
+                             We will treat an overseas regulatory regime, or the relevant parts of it, as
+                             sufficiently equivalent to the Australian regulatory regime if it satisfies
+                             these principles.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                       Page 13
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+Table 2:       Equivalence Principles for cross-border financial regulation
+
+ Principle 7           An equivalent regulatory regime is clear, transparent and certain.
+
+ Principle 8           An equivalent regulatory regime is consistent with the IOSCO Objectives and Principles of
+                       Securities Regulation.
+
+ Principle 9           An equivalent regulatory regime is adequately enforced in the home jurisdiction.
+
+ Principle 10          An equivalent regulatory regime achieves equivalent outcomes to the Australian
+                       regulatory regime.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                   Page 14
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+D          Commentary on the General Principles
+
+                               Key points
+
+                               Under the General Principles (Principles 1–6):
+                               • the overseas regulatory regime must be sufficiently equivalent to the
+                                 Australian regulatory regime in terms of investor protection, market
+                                 integrity and reduction of systemic risk (Principle 1);
+                               • ASIC gives the fullest possible recognition to a sufficiently equivalent
+                                 overseas regulatory regime (Principle 2);
+                               • ASIC must have effective cooperation arrangements with the overseas
+                                 regulatory authority (Principle 3);
+                               • ASIC must be able to enforce applicable Australian laws (Principle 4);
+                               • Australian investors must have access to adequate rights and remedies
+                                 (Principle 5); and
+                               • disclosure to Australian investors must be adequate for informed choice
+                                 (Principle 6).
+
+
+
+Principle 1: Sufficiently equivalent regulation
+                               Principle 1
+
+                               ASIC recognises overseas regulatory regimes that are sufficiently equivalent
+                               to the Australian regulatory regime, in relation to the degree of investor
+                               protection, market integrity and reduction of systemic risk that they achieve.
+
+
+                             Why is Principle 1 important?
+              RG 54.38       The equivalence test in Principle 1, an outcomes-focused test, is essential to
+                             the protection of Australian investors, the integrity of Australian markets and
+                             its financial system. Recognition of an overseas regulatory regime means that
+                             we rely on that regime’s regulation, at least in part, over the operation or
+                             provision of a foreign facility, service or product in Australia. We must
+                             therefore make some assessment of the quality of an overseas regulatory
+                             regime and be satisfied that the regime is sufficiently equivalent to the
+                             Australian regulatory regime.
+
+                             What does Principle 1 mean?
+                             What does ‘recognise’ mean?
+
+              RG 54.39       ASIC recognises an overseas regulatory regime when, because of how that
+                             regime applies to the relevant foreign facilities, services and products:
+                             (a)   we declare, or advise the Minister, that the overseas regulatory regime
+                                   meets explicit statutory criteria for such recognition (e.g. s795B(2)(c));
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                   Page 15
+                                                   REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+                             (b)   we give, or advise the Minister to give, foreign providers regulated by
+                                   that regime varying degrees of relief from the requirements of the
+                                   Australian regulatory regime; or
+                             (c)   we enter into a unilateral or mutual recognition arrangement with the
+                                   overseas regulatory authority.
+
+              RG 54.40       Recognition of an overseas regulatory regime means foreign providers can
+                             operate in Australia because they are subject to that overseas regulatory
+                             regime, even though that overseas regulatory regime differs from the
+                             Australian regulatory regime.
+
+                             What does ‘equivalent’ mean?
+
+              RG 54.41       The equivalence test articulated in Principle 1:
+                             (a)   defines equivalence according to the outcomes achieved by the
+                                   regulatory regime. It requires a comparison of the outcomes of the
+                                   Australian regulatory regime and the relevant overseas regulatory
+                                   regime. It does not necessarily involve a comparison of the regulatory
+                                   mechanisms used to achieve those outcomes; and
+
+                                   Note: Many different regulatory mechanisms may achieve the desired investor
+                                   protection, market integrity and systemic risk outcomes. Defining equivalence
+                                   according to regulatory mechanisms alone does not take into account whether those
+                                   regulatory mechanisms are effectively implemented; a flexible outcomes-focused test
+                                   involves an assessment of the effectiveness of the overseas regulatory regime.
+
+                             (b)   considers equivalence largely from the point of view of:
+                                   (i)     the protection of Australian investors;
+                                   (ii)    the integrity of Australian markets; and
+                                   (iii)   the reduction of systemic risk in the Australian financial system.
+
+                                   Note: Some overseas regulatory regimes may not satisfy the equivalence test simply
+                                   because the jurisdictional reach of their regulatory regime is such that they do not
+                                   protect Australian investors and markets, or Australia’s financial system. This may be
+                                   the case even though those regulatory regimes offer equivalent protection to their own
+                                   investors and their own markets, and reduce systemic risk in their own financial system.
+
+              RG 54.42       The equivalence test does not require that the Australian and overseas
+                             regulatory regimes impose comparable regulatory burdens on regulated entities.
+
+              RG 54.43       Principle 1 is consistent with s795B(2)(c) and 824B(2)(c) of the
+                             Corporations Act under which recognition of an overseas regulatory regime
+                             is subject to an outcomes-focused equivalence test.
+
+                                   Note: See also the IOSCO Objectives and Principles of Securities Regulation, which are
+                                   expressed in terms of outcomes rather than regulatory mechanisms.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                       Page 16
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+                             What does ‘sufficiently’ mean?
+
+              RG 54.44       The equivalence test in Principle 1 is flexible. What degree of equivalence is
+                             ‘sufficient’ will depend on a number of factors. For example, if a foreign
+                             provider is given only limited relief from the Australian regulatory regime, it
+                             may not be necessary for the relevant overseas regulatory regime to achieve all
+                             the relevant outcomes of the Australian regulatory regime: see Principle 10.
+
+              RG 54.45       Likewise, the degree of equivalence that is sufficient may be affected by the
+                             conditions imposed on any relief from the Australian regulatory regime granted
+                             to a foreign provider.
+
+
+Principle 2: Fullest possible recognition
+
+                               Principle 2
+
+                               ASIC gives the fullest possible recognition to sufficiently equivalent overseas
+                               regulatory regimes.
+
+
+                             Why is Principle 2 important?
+
+              RG 54.46       This principle allows ASIC to balance the goals of:
+                             (a)   facilitating cross-border business through improving the availability and
+                                   provision of foreign facilities, services and products in Australia; and
+                             (b)   protecting Australian investors, reducing systemic risks and facilitating
+                                   fair and efficient financial markets in Australia.
+
+
+                             What does Principle 2 mean?
+
+              RG 54.47       When regulating foreign facilities, services and products, we will rely on
+                             equivalent overseas regulation to the greatest extent possible, thereby
+                             imposing the minimum additional regulatory burden on foreign providers.
+                             We will only require compliance with those Australian laws that are
+                             necessary to ensure that:
+                             (a)   Australian investors who access foreign facilities, services and products
+                                   are protected;
+                             (b)   foreign facilities, services and products do not adversely affect the
+                                   fairness and efficiency of Australian markets; and
+                             (c)   foreign facilities, services and products do not create systemic risks in
+                                   the Australian financial system.
+
+                                   Note: In some circumstances, we do not have the power to give relief from compliance
+                                   with Australian laws. For example, Pt 7.2 of the Corporations Act sets out all
+                                   obligations imposed on overseas market operators licensed under s795B(2). ASIC does
+                                   not have the power to give relief from compliance with these obligations.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                    Page 17
+                                                   REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+              RG 54.48       This principle means we will only supplement the overseas regulatory regime
+                             by requiring the foreign provider to comply with those conditions and Australian
+                             laws that are necessary to ensure the achievement of these outcomes.
+
+              RG 54.49       For example:
+                             (a)   if the disclosure laws of the overseas regulatory regime are insufficient to
+                                   ensure that Australian investors can make confident and informed decisions
+                                   about whether to invest in a foreign financial product, we may impose some
+                                   Australian disclosure laws on the foreign provider of that product;
+
+                                   Note: This situation may occur even if the foreign disclosure laws are comparable to
+                                   Australian disclosure laws. The foreign disclosure laws may have a limited
+                                   jurisdictional scope and not apply to offers made to Australian investors.
+
+                             (b)   if the overseas regulatory regime does not offer practical rights and
+                                   remedies to Australian investors, we may require a foreign provider of
+                                   financial services to retail clients to comply with the obligation under
+                                   s912A(2)(b) of the Corporations Act to be a member of an external
+                                   dispute resolution (EDR) scheme.
+
+
+Principle 3: Effective cooperation arrangements
+
+                               Principle 3
+
+                               ASIC must have effective cooperation arrangements with the relevant overseas
+                               regulatory authorities regulating foreign facilities, services and products
+                               available in Australia.
+
+
+                             Why is Principle 3 important?
+
+              RG 54.50       Under Principle 2, foreign facilities, services and products will largely be
+                             regulated by the law of their home jurisdiction. However, there may be
+                             circumstances where the activities of foreign providers in their home jurisdiction
+                             may impact Australian investors, Australian markets and systemic risks in the
+                             Australian financial system. Generally, we cannot enforce the law of the home
+                             jurisdiction or bring enforcement action as regulator in the home jurisdiction.
+                             ASIC’s ability to conduct compulsory supervision or investigations outside
+                             Australia may be restricted without assistance from the relevant overseas
+                             regulatory authority. It is therefore important that effective cooperation
+                             arrangements are in place between ASIC and the overseas regulatory authority.
+
+              RG 54.51       To enable ASIC to properly regulate foreign providers in Australia that have
+                             the benefit of some form of regulatory relief, we may need to ask the
+                             overseas regulatory authority:
+                             (a)   for access to information about the foreign provider that is only
+                                   available from the overseas regulatory authority;
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                       Page 18
+                                                   REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+                             (b)   to supervise or investigate activities of the foreign provider conducted
+                                   in its home jurisdiction; and/or
+                             (c)   to take enforcement action against the foreign provider in its home
+                                   jurisdiction.
+
+              RG 54.52       These actions should be as effective as actions the overseas regulatory authority
+                             would take to protect investors, market integrity and reduce systemic risk in its
+                             own jurisdiction.
+
+
+                             What does Principle 3 mean?
+
+              RG 54.53       Effective cooperation arrangements should encompass:
+                             (a)   the prompt sharing of information about foreign facilities, services and
+                                   products and foreign providers; and
+                             (b)   effective cooperation in relation to:
+                                   (i)    the supervision and investigation of foreign facilities, services and
+                                          products and foreign providers; and
+                                   (ii)   enforcement actions involving foreign providers.
+
+              RG 54.54       In general, effective cooperation arrangements will not be possible unless the
+                             overseas regulatory authority has power under the overseas regulatory
+                             regime to cooperate with ASIC in these ways.
+
+              RG 54.55       Effective cooperation arrangements may be bilateral or multilateral. They
+                             will generally be in the form of a Memorandum of Understanding (MOU), or
+                             some other documented arrangement. They may, however, be supplemented
+                             by less formal arrangements and relationships.
+
+              RG 54.56       In assessing the effectiveness of cooperation arrangements with an overseas
+                             regulatory authority, we will consider whether:
+                             (a)   there are supervisory cooperation arrangements between the overseas
+                                   regulatory authority and ASIC that are consistent with the IOSCO
+                                   Principles Regarding Cross-Border Supervisory Cooperation;
+                                   Note: These principles provide a framework for regulators seeking to establish
+                                   supervisory cooperation agreements. Supervisory cooperation involves the day-to-day
+                                   exchange of information for general supervisory and oversight purposes (i.e. not just for
+                                   enforcement purposes).
+
+                             (b)   the overseas regulatory authority is a signatory to Appendix A of the IOSCO
+                                   Multilateral Memorandum of Understanding Concerning Consultation and
+                                   Cooperation and the Exchange of Information (IOSCO MMOU); and
+                                   Note: The IOSCO MMOU sets an international benchmark for cross-border cooperation
+                                   between securities regulators on enforcement matters. In general, we consider IOSCO
+                                   MMOU Appendix A signatory status as a good indicator of effective cooperation.
+                                   However, we will also consider IOSCO MMOU Appendix B signatory status as an
+                                   indicator together with the particular circumstances of the relevant overseas regulatory
+                                   authority.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                        Page 19
+                                                   REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+                             (c)   there is an existing MOU between the overseas regulatory authority and
+                                   ASIC that creates an effective cooperation arrangement.
+
+                                   Note: Where an overseas regulatory authority is not a member of IOSCO, we will
+                                   consider bilateral agreements and the overseas regulator’s experience with reference to
+                                   the terms of the IOSCO MMOU Appendix A and Appendix B.
+
+
+
+
+Principle 4: Enforcement of Australian laws
+
+                               Principle 4
+
+                               ASIC must be able to enforce the Australian laws that apply to foreign
+                               facilities, services and products.
+
+
+                             Why is Principle 4 important?
+
+              RG 54.57       We may rely on the overseas regulatory authority to bring enforcement
+                             action against a foreign provider in its home jurisdiction: see Principle 3.
+                             However, we must be able to enforce in Australia those Australian laws that
+                             apply to the foreign provider. This is because:
+                             (a)   the Australian laws that apply to the foreign provider will be those that
+                                   we consider are essential to protecting Australian investors, Australian
+                                   markets and reducing systemic risks; and
+                             (b)   the relevant overseas regulatory authority may not be able to enforce
+                                   those Australian laws in its home jurisdiction.
+
+
+                             What does Principle 4 mean?
+
+              RG 54.58       In order to take enforcement action in Australia against foreign providers for
+                             breaches of Australia law, we must have both sufficient information and
+                             legal power to commence enforcement action.
+
+              RG 54.59       To ensure that we have sufficient information and legal power, we may:
+                             (a)   impose, or advise the Minister to impose, appropriate conditions on a
+                                   licence; or
+                             (b)   impose appropriate conditions on any relief from the Australian
+                                   regulatory regime granted to a foreign provider.
+
+              RG 54.60       Appropriate conditions may include requiring the foreign provider to:
+                             (a)   enter into cooperation arrangements with us that will enable us to obtain
+                                   information from the foreign provider;
+                             (b)   register under Div 2 of Pt 5B.2 of the Corporations Act;
+                             (c)   submit to the non-exclusive jurisdiction of the Australian courts;
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                       Page 20
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+                             (d)   appoint an agent in Australia to accept service of process on behalf of
+                                   the foreign provider; and
+                             (e)   comply with any lawful direction of ASIC or an Australian court.
+
+
+
+ Principle 5: Adequate rights and remedies
+
+                               Principle 5
+
+                               Adequate rights and remedies must be practically available to Australian
+                               investors who access foreign facilities, services and products in Australia.
+
+
+                             Why is Principle 5 important?
+
+              RG 54.61       We have adopted this principle because adequate rights and remedies are
+                             essential to the protection of Australian investors. Investors must have the
+                             ability to protect their own interests, because neither the relevant overseas
+                             regulatory authority nor ASIC will be able to pursue all breaches of
+                             investors’ rights.
+
+
+                             What does Principle 5 mean?
+
+              RG 54.62       In general, Australian investors who use foreign facilities, services and
+                             products should have practical access to rights and remedies that provide the
+                             same level of protection as the rights and remedies available to Australian
+                             investors who use comparable Australian facilities, services and products.
+
+              RG 54.63       The phrase ‘rights and remedies’ includes:
+                             (a)   the right to seek remedies through private judicial actions;
+                             (b)   access to internal and external alternative dispute resolution; and
+                             (c)   access to compensation arrangements.
+
+              RG 54.64       Australian investors who access foreign facilities, services and products may
+                             be either wholesale or retail investors. The nature of the investor will affect
+                             the determination of:
+                             (a)   what rights and remedies are adequate; and
+                             (b)   when those rights and remedies are practically available.
+
+                             What does ‘adequate’ mean?
+
+              RG 54.65       When determining what constitutes adequate rights and remedies, we will
+                             give effect to the objectives of the Corporations Act, which are that retail
+                             clients should generally have access to non-judicial, as well as judicial,
+                             remedies.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                   Page 21
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+              RG 54.66       Under s912A(2) and 912B, retail clients of financial services providers have
+                             access to both:
+                             (a)   administrative compensation arrangements; and
+                             (b)   internal and external dispute resolution.
+
+              RG 54.67       Retail clients who use financial markets licensed under s795B(1) through
+                             licensed participants may also make a claim under the markets’ compensation
+                             arrangements: see s881A and 888A, and the regulations made under s888A.
+
+              RG 54.68       On the other hand, under the Corporations Act, wholesale investors are
+                             generally only entitled to pursue their rights through private litigation.
+                             Therefore, we will generally treat the ability to pursue rights against foreign
+                             providers through private judicial action as adequate for wholesale investors.
+
+                             What does ‘practically available’ mean?
+
+              RG 54.69       A right or remedy may not be practically available to retail investors if it can
+                             only be pursued through private action in a foreign jurisdiction. High costs, the
+                             problems associated with briefing foreign lawyers, and other practical matters
+                             are likely to be a significant impediment to any attempt by a retail investor
+                             client to obtain remedies through private judicial action in a foreign jurisdiction.
+
+              RG 54.70       On the other hand, such remedies are more likely to be practically available
+                             to wholesale investors, who can be assumed to be better resourced.
+
+                             What does this principle mean for foreign providers who deal with
+                             retail clients?
+
+              RG 54.71       In many circumstances, overseas regulatory regimes will not give Australian
+                             retail investors practical access to rights and remedies that provide the same
+                             level of protection as the rights and remedies that are available to Australian
+                             retail investors who use comparable Australian facilities, services and
+                             products. In these circumstances, we will require the foreign provider to
+                             comply with a modified version of those parts of the Australian regulatory
+                             regime that relate to remedies.
+
+              RG 54.72       We may, for example, require a foreign provider of financial services to be a
+                             member of an Australian EDR scheme. In other circumstances, we may be
+                             satisfied that a foreign alternative dispute resolution scheme (such as an
+                             ombudsman scheme) is practically accessible to Australian retail clients.
+
+              RG 54.73       In addition, to facilitate private judicial actions by Australian retail investors
+                             against foreign providers, we may require foreign providers who are not
+                             registered under Div 2 of Pt 5B.2 of the Corporations Act to:
+                             (a)   submit to the jurisdiction of the Australian courts; and/or
+                             (b)   appoint an agent in Australia to accept service of process on behalf of
+                                   the provider.
+
+
+
+© Australian Securities and Investments Commission June 2012                                                   Page 22
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+Principle 6: Adequate disclosure
+                               Principle 6
+
+                               Adequate disclosure must be made of information that Australian
+                               investors may reasonably require to make an informed assessment of the
+                               consequences of any significant differences between the regulation of the
+                               foreign facilities, services and products and the regulation of comparable
+                               Australian facilities, services and products.
+
+
+                             Why is Principle 6 important?
+              RG 54.74       Disclosure fulfils an important investor protection role in the Australian
+                             regulatory regime. A key purpose of both Chapters 6D and 7 of the
+                             Corporations Act is to ensure that retail investors have access to sufficient
+                             information to make confident and informed decisions: see, in particular,
+                             s710 and 760A(a). This purpose is achieved by requiring certain disclosures
+                             and by ensuring that those disclosures are made in an appropriate form.
+              RG 54.75       The principles in this guide (particularly Principles 1 and 2) require the
+                             regulatory outcomes of the overseas and Australian regulatory regimes to be
+                             sufficiently equivalent from the perspective of Australian investors. This is
+                             so that they can be confident and informed when relying on information they
+                             receive from the foreign provider, even if the provider is exempt from any
+                             Australian disclosure requirements. Therefore, significant and detailed
+                             additional disclosures, beyond those ordinarily required by the relevant
+                             overseas regulatory regime and those applicable parts of the Australian
+                             regulatory regime, will generally be unnecessary.
+              RG 54.76       Nevertheless, some additional disclosures will still be required. Even if the
+                             regulatory outcomes of a relevant overseas regulatory regime are deemed to
+                             be sufficiently equivalent, the regulation itself differs from the regulation
+                             imposed on comparable Australian facilities, services and products. This fact
+                             should be disclosed to all Australian investors so that they can themselves
+                             assess whether this difference is significant to them. Moreover, retail
+                             investors should be informed of the consequences of any special risks
+                             associated with the foreign facility, service or product.
+              RG 54.77       Principle 6 achieves an appropriate balance between the need to protect
+                             Australian investors in this way and the desire to facilitate the availability
+                             and provision of foreign facilities, services and products in Australia.
+
+                             What does Principle 6 mean?
+              RG 54.78       Under this principle, the disclosures required to enable investors to make an
+                             informed assessment will vary depending on whether the relevant investors
+                             are wholesale or retail.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                   Page 23
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+              RG 54.79       Foreign providers who deal with retail investors will generally need to
+                             disclose the following information in an appropriate manner:
+                             (a)   that the foreign facility, service or product is regulated, at least in part,
+                                   by the laws of a foreign jurisdiction, and those laws differ from
+                                   Australian laws;
+                             (b)   that the rights and remedies available to Australian investors who
+                                   access the foreign facility, service or product may differ from those of
+                                   Australian investors who access comparable Australian facilities,
+                                   services and products;
+                             (c)   the nature of the rights and remedies available to Australian investors
+                                   under the overseas regulatory regime and how those rights and remedies
+                                   can be accessed;
+                             (d)   the nature of any special risks associated with the foreign facility,
+                                   service or product, such as risks arising from taxation, foreign currency
+                                   or time differences; and
+                             (e)   the nature and consequences of significant differences in the regulatory
+                                   regime, such as the use of accounting standards that differ from those
+                                   used in Australia.
+
+              RG 54.80       Foreign providers who deal solely with wholesale investors will generally
+                             only need to disclose that the foreign facility, service or product is regulated,
+                             at least in part, by the laws of a foreign jurisdiction and those laws differ
+                             from Australian laws.
+
+              RG 54.81       In general, we will ensure that such disclosure is made by:
+                             (a)   imposing, or advising the Minister to impose, suitable conditions on a
+                                   licence; or
+                             (b)   imposing suitable conditions on any relief from the Australian
+                                   regulatory regime granted to a foreign provider.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                   Page 24
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+E          Commentary on the Equivalence Principles
+
+                               Key points
+
+                               The Equivalence Principles (Principles 7–10) guide our assessment of the
+                               degree to which an overseas regulatory regime is sufficiently equivalent to
+                               the Australian regulatory regime under Principle 1.
+
+                               We will treat an overseas regulatory regime, or the relevant parts of it, as
+                               sufficiently equivalent to the Australian regulatory regime if it:
+                               • is clear, transparent and certain (Principle 7);
+                               • is consistent with the IOSCO Principles and Objectives of Securities
+                                 Regulation (Principle 8);
+                               • is adequately enforced in its home jurisdiction (Principle 9); and
+                               • achieves equivalent outcomes to the Australian regulatory regime
+                                 (Principle 10).
+
+
+
+
+Principle 7: Clear, transparent and certain
+
+                               Principle 7
+
+                               An equivalent regulatory regime is clear, transparent and certain.
+
+
+                             Why is Principle 7 important?
+
+              RG 54.82       A regulatory regime that is not clear, transparent and certain will not be
+                             regarded as sufficiently equivalent to the Australian regulatory regime
+                             because:
+                             (a)   it cannot be consistently or reliably applied or enforced;
+                             (b)   Australian investors will not be able to understand their rights and
+                                   remedies under such a regulatory regime; and/or
+                             (c)   we will not be able to obtain sufficient knowledge of how the regime
+                                   works in practice to assess the regime.
+
+
+                             What does Principle 7 mean?
+
+              RG 54.83       A ‘clear’ regulatory regime is one that is clearly articulated and easily
+                             understood. A ‘transparent’ regulatory regime is one whose rules, policies
+                             and practices are readily available to and known by all relevant persons.
+                             A ’certain’ regulatory regime is one that is consistently applied and not
+                             subject to indiscriminate change.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                   Page 25
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+              RG 54.84       At a minimum, this principle means that the relevant parts of the regulatory
+                             regime must be:
+                             (a)   in written form;
+                             (b)   available in English (even if this is a translation from an original
+                                   version in another language); and
+                             (c)   not subject to an unfettered, arbitrary discretion.
+
+
+
+Principle 8: Consistent with IOSCO Objectives and Principles of
+Securities Regulation
+
+                               Principle 8
+
+                               An equivalent regulatory regime is consistent with the IOSCO Objectives and
+                               Principles of Securities Regulation.
+
+
+                             Why is Principle 8 important?
+
+              RG 54.85       The aims, purposes and outcomes of the Australian regulatory regime are
+                             consistent with the IOSCO Objectives and Principles of Securities Regulation.
+                             Therefore, implementation of these objectives and principles in the overseas
+                             regulatory regime indicates that the Australian and overseas regulatory regimes:
+                             (a)   share a similar regulatory philosophy; and
+                             (b)   are, at least at a high level, equivalent.
+
+
+                             What does Principle 8 mean?
+
+              RG 54.86       In assessing whether a overseas regulatory regime meets this principle,
+                             we will consider:
+                             (a)   whether the relevant overseas regulatory authority has assessed its
+                                   regulatory regime against the IOSCO Objectives and Principles of
+                                   Securities Regulation and has reasonably determined that the regulatory
+                                   regime broadly complies with them; and
+                             (b)   whether other international organisations have assessed the regulatory
+                                   regime against the IOSCO Objectives and Principles of Securities
+                                   Regulation and have reasonably determined that the regulatory regime
+                                   broadly complies with them.
+
+                                   Note: For example, the International Monetary Fund, the World Bank and the Financial
+                                   Stability Board all assess national financial systems against these objectives and
+                                   principles.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                    Page 26
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+Principle 9: Adequately enforced
+
+                               Principle 9
+
+                               An equivalent regulatory regime is adequately enforced in the home
+                               jurisdiction.
+
+
+                             Why is Principle 9 important?
+
+              RG 54.87       A regulatory regime that is infrequently or inconsistently enforced in its home
+                             jurisdiction will not be sufficiently equivalent to the Australian regulatory
+                             regime. Unless a regulatory regime is adequately enforced, it will frequently be
+                             ignored and, consequently, it will not reliably deal with and deter misconduct.
+                             Many investors have insufficient resources and powers to monitor and
+                             investigate compliance with laws designed to protect investors, market integrity
+                             and systemic stability, and to bring private enforcement action to protect their
+                             own interests.
+
+
+                             What does Principle 9 mean?
+
+              RG 54.88       A regulatory regime is adequately enforced if the overseas regulatory
+                             authority (or other responsible authority):
+                             (a)   has sufficient powers of investigation and enforcement;
+                             (b)   has sufficient resources to use those powers;
+                             (c)   uses those powers and resources to promote compliance with the
+                                   regulatory regime; and
+                             (d)   operates within a legal system that is independent and has a well-
+                                   founded reputation for integrity.
+
+              RG 54.89       In assessing whether the overseas regulatory regime is adequately enforced,
+                             we will rely on matters such as:
+                             (a)   the international reputation of the overseas regulatory regime;
+                             (b)   self-assessments by the overseas regulatory authority; and
+                             (c)   assessments by international financial institutions and other
+                                   international organisations.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                   Page 27
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+Principle 10: Equivalent outcomes
+
+                               Principle 10
+
+                               An equivalent regulatory regime achieves equivalent outcomes to the
+                               Australian regulatory regime.
+
+
+                             Why is Principle 10 important?
+
+              RG 54.90       ASIC assesses the equivalence of an overseas regulatory regime according to
+                             the outcomes achieved by that regime: see RG 54.41–RG 54.43. An equivalent
+                             regulatory regime must achieve sufficiently equivalent outcomes to the
+                             Australian regulatory regime.
+
+              RG 54.91       These outcomes are the outcomes achieved by the Corporations Act and the
+                             Australian Securities and Investments Commission Act 2001 (ASIC Act) as
+                             they apply to Australian providers of facilities, services and products.
+
+
+                             What does Principle 10 mean?
+
+              RG 54.92       Whatever its regulatory mechanisms, an equivalent regulatory regime must
+                             achieve, in the relevant areas, sufficiently equivalent outcomes to the
+                             Australian regulatory regime.
+
+              RG 54.93       The Australian regulatory regime ensures that certain outcomes are
+                             achieved for:
+                             (a)   financial markets (see RG 54.95);
+                             (b)   clearing and settlement (see RG 54.96);
+                             (c)   financial services (see RG 54.97–RG 54.98); and
+                             (d)   financial products (see RG 54.99).
+
+              RG 54.94       We will assess whether these outcomes are met by the overseas regulatory
+                             regime largely from the perspective of Australian investors, Australian
+                             markets, and the Australian financial system.
+
+                             Financial markets
+
+              RG 54.95       Australian laws on financial markets promote fair, orderly and transparent
+                             financial markets by ensuring that, to the greatest extent possible:
+                             (a)   the market operator is authorised against objective criteria before
+                                   starting business (e.g. fit and proper standards apply);
+                             (b)   the market operator is subject to ongoing, active and timely regulatory
+                                   supervision;
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                   Page 28
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+                             (c)   market users use the market on an informed basis (e.g. listed entities are
+                                   subject to price sensitive disclosure obligations; pre- and post-trading
+                                   information is made available on a timely basis);
+                             (d)   market users are confident that the market as a whole operates fairly
+                                   and that they will be treated fairly (e.g. trading occurs on an open and
+                                   fair basis);
+                             (e)   market users are confident about the market participants they deal with
+                                   (e.g. participants are subject to obligations to comply with the market’s
+                                   trading rules and to protect their client’s interests; there is a
+                                   compensation scheme for clients who suffer loss arising from fraud);
+                             (f)   market supervision is effective so that listed entities, market participants
+                                   and market users that breach the law or the market’s operating rules are
+                                   likely to be detected and disciplined (e.g. participants and users are not
+                                   disadvantaged by breaches of the operating rules; market supervision is
+                                   not compromised by conflicts of interest held by the market operator);
+                             (g)   the market operates reliably and is not at risk of failing (e.g. the market
+                                   operator has adequate resources to operate the market);
+                             (h)   the price formation process operates reliably; and
+                             (i)   transactions entered into on the market are cleared and settled promptly,
+                                   fairly and effectively (e.g. arrangements are in place to minimise default
+                                   risk).
+
+                                   Note: These outcomes are set out in more detail in Regulatory Guide 172 Australian
+                                   market licences: Australian operators (RG 172), Table A ‘Regulatory outcomes and
+                                   mechanisms in financial markets’.
+
+
+                             Clearing and settlement
+
+              RG 54.96       Australian laws on clearing and settlement promote prompt, fair and
+                             effective services by clearing and settlement facilities, and the reduction of
+                             systemic risk, by ensuring that, to the greatest extent possible:
+                             (a)   the clearing and settlement process operates reliably and is not at risk
+                                   of failing;
+                             (b)   users of clearing and settlement facilities are confident that the facility
+                                   operates fairly and that settlement obligations will be met;
+                             (c)   the facility and its participants are properly supervised so that breaches of
+                                   the law or the facility’s rules are likely to be detected and disciplined; and
+                             (d)   systemic and other risks relating to default are anticipated and
+                                   appropriately dealt with.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                     Page 29
+                                                   REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+                             Financial services
+
+              RG 54.97       Australian laws on financial services promote the provision of efficient,
+                             honest and fair financial services by ensuring that, to the greatest extent
+                             possible, financial services are provided by persons who:
+                             (a)   are subject to adequate conduct of business obligations and misconduct
+                                   prohibitions;
+                             (b)   are fair and honest (e.g. they are authorised against objective criteria
+                                   before starting business);
+                             (c)   are competent to provide fair and quality financial services;
+                             (d)   have adequate resources to operate in compliance with the law; and
+                                   Note: The Australian Prudential Regulatory Authority (APRA) is the prudential
+                                   regulator of banks, insurance companies, superannuation funds, credit unions, building
+                                   societies and friendly societies.
+
+                             (e)   have adequate risk management processes, internal controls and
+                                   compliance arrangements to act fairly and reliably (e.g. arrangements
+                                   for the holding of client assets, maintenance of financial records,
+                                   managing conflicts of interest).
+
+              RG 54.98       Australian laws on financial services also require retail investors to have
+                             access to the information they need to make confident and informed
+                             decisions, as well as access to adequate dispute resolution and compensation
+                             arrangements to deal with losses arising from the use of financial services.
+
+                             Financial products
+
+              RG 54.99       Australian laws on financial products promote confident and informed decisions
+                             by investors by ensuring that investors are provided with all information they
+                             reasonably require to make an informed decision about whether to:
+                             (a)   buy a financial product; and
+                             (b)   in appropriate circumstances, sell or hold a financial product.
+
+                                   Note 1: The amount of information that must be provided to an investor to allow the
+                                   investor to make an informed decision will depend on whether the investor is a
+                                   wholesale or retail investor.
+
+                                   Note 2: Australian continuous disclosure laws benefit both investors and market
+                                   integrity. This outcome does not relate solely to retail investor protection.
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                         Page 30
+                                                    REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+Key terms
+
+                               Term                       Meaning in this document
+
+                               AFS licence                An Australian financial services licence under s913B of the
+                                                          Corporations Act that authorises a person who carries on
+                                                          a financial services business to provide financial services
+                                                                Note: This is a definition contained in s761A of the
+                                                                Corporations Act.
+
+                               ASIC                       Australian Securities and Investments Commission
+
+                               ASIC Act                   Australian Securities and Investments Commission
+                                                          Act 2001
+
+                               Australian facilities,     Market and clearing and settlement facilities, financial
+                               services and products      services, and financial products, originating in and
+                                                          regulated in Australia under Australian law
+
+                               Australian providers       Providers of Australian facilities, services and products
+
+                               Ch 8 (for example)         A chapter of the Corporations Act (in this example
+                                                          numbered 8)
+
+                               Corporations Act           Corporations Act 2001, including regulations made for the
+                                                          purposes of that Act
+
+                               Corporations               Corporations Regulations 2001
+                               Regulations
+
+                               Div 2 (for example)        A division of the Corporations Act (in this example
+                                                          numbered 2)
+
+                               EDR                        External dispute resolution
+
+                               Equivalence                The principles set out in Table 2 and Section E of
+                               Principles                 this guide
+
+                               foreign facilities,        Market and clearing and settlement facilities, financial
+                               services and products      services, and financial products, originating in and
+                                                          regulated in a foreign jurisdiction and accessible to
+                                                          persons in Australia
+
+                               foreign providers          Providers of foreign facilities, services and products
+
+                               General Principles         The principles set out in Table 1 and Section D of
+                                                          this guide
+
+                               home jurisdiction          The jurisdiction in which the relevant foreign facility,
+                                                          service or product originates and is regulated
+
+                               host jurisdiction          A jurisdiction, other than the jurisdiction in which the
+                                                          foreign provider originates, in which the foreign provider
+                                                          provides a financial facility, service or product
+
+                               overseas regulatory        A body established by a foreign government to regulate a
+                               authority                  foreign facility, service or product
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                           Page 31
+                                                   REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+                               Term                      Meaning in this document
+
+                               overseas regulatory       The regulatory regime supervised and administered by
+                               regime                    the overseas regulatory authority
+
+                               IOSCO                     International Organization of Securities Commissions
+
+                               IOSCO MMOU                The IOSCO Multilateral Memorandum of Understanding
+                                                         Concerning Consultation and Cooperation and the
+                                                         Exchange of Information
+
+                               IOSCO Objectives          The Objectives and Principles of Securities Regulation,
+                               and Principles of         originally adopted by IOSCO in September 1998, as
+                               Securities Regulation     amended from time to time
+
+                               IOSCO Principles          The Principles Regarding Cross-Border Supervisory
+                               Regarding Cross-          Cooperation, originally adopted by IOSCO in May 2010,
+                               Border Supervisory        as amended from time to time
+                               Cooperation
+
+                               market users              Investors who acquire or dispose of financial products in
+                                                         a financial market. They may be market participants
+                                                         dealing for themselves or, where market participants act
+                                                         as intermediaries, the clients of the participants
+
+                               MOU                       Memorandum of Understanding
+
+                               principles for cross-     The General Principles and Equivalence Principles
+                               border financial
+                               regulation
+
+                               regulators                ASIC and the overseas regulatory authority/authorities
+
+                               regulatory regime         The rules that govern a financial facility, service or
+                                                         product and includes legislation, the rules, policies and
+                                                         practices of a regulator, and the rules, policies and
+                                                         practices of a self-regulatory organisation, such as a
+                                                         financial market operator
+
+                               Pt 7.2 (for example)      A part of the Corporations Act (in this example numbered
+                                                         7.2)
+
+                               RG 54 (for example)       An ASIC regulatory guide (in this example numbered 54)
+
+                               s795B (for example)       A section of the Corporations Act (in this example
+                                                         numbered 795B)
+
+                               SFC                       Securities and Futures Commission of Hong Kong
+
+
+
+
+© Australian Securities and Investments Commission June 2012                                                    Page 32
+                                                  REGULATORY GUIDE 54: Principles for cross-border financial regulation
+
+
+
+
+Related information
+                             Headnotes
+                             Australian providers, clearing and settlement facilities, effective cooperation
+                             arrangements, exemption, financial products, financial services, foreign
+                             providers, markets, mutual recognition, overseas regulatory regimes,
+                             sufficiently equivalent, unilateral recognition
+
+                             Regulatory guides
+                             RG 121 Doing financial services business in Australia
+                             RG 172 Australian market licences: Australian operators
+                             RG 176 Licensing: Discretionary powers: Wholesale foreign financial
+                             services providers
+                             RG 177 Australian market licences: Overseas operators
+                             RG 178 Foreign collective investment schemes
+                             RG 190 Offering securities in New Zealand and Australia under mutual
+                             recognition
+                             RG 211 Clearing and settlement facilities: Australian and overseas operators
+
+                             Legislation
+                             ASIC Act
+                             Corporations Act, Pts 5B.2 and 7.2, Div 2, Chs 6D, 7 and 8, s601QA, 710,
+                             760A(a), 795B(1), 795B(2), 824B(2), 881A, 888A, 911A(2)(h), 912A(2),
+                             912B; Corporations Regulations
+
+                             Consultation papers and reports
+                             CP 98 Cross-border recognition: Facilitating access to overseas markets
+                             and financial services
+                             REP 134 Enhancing capital flows into and out of Australia
+                             REP 174 Effects of the Australia–New Zealand mutual recognition scheme
+                             for securities offerings
+
+                             Media and information releases
+                             MR 08-152 Australia and Hong Kong sign deal to allow cross-border
+                             marketing of retail funds
+                             MR 08-193 SEC, Australian authorities sign mutual recognition agreement
+                             AD 09-205 Significant benefits from mutual recognition of securities offerings
+                             AD 11-51 Guide for Trans-Tasman mutual recognition of securities
+                             offerings updated
+
+
+© Australian Securities and Investments Commission June 2012                                                   Page 33
+

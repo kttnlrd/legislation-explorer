@@ -1,0 +1,46 @@
+{
+  "citation": "RG 71",
+  "title": "Downstream acquisitions",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses downstream acquisitions, where an acquisition of shares in an upstream entity (a company or managed investment scheme) gives control over a downstream company. It explains when such acquisitions may breach the 20% threshold prohibition in s606 of the Corporations Act, the exemption in item 14 of s611, and ASIC's policy on granting relief.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth), specifically Chapter 6 on takeovers, which aims to ensure equal opportunity and disclosure to target shareholders. It is intended for companies, listed managed investment schemes, investors, and their advisers involved in or affected by downstream acquisitions. The guide explains the legislative context, the purpose of the takeover provisions, and ASIC's role in granting relief from the prohibition.",
+  "ruling": "ASIC states that a downstream acquisition may breach s606 if it results in a person's voting power in a listed company or scheme increasing above 20% or from a starting point above 20%. The exemption in item 14 of s611 applies where the upstream entity is a body corporate or listed managed investment scheme and the acquisition does not give the acquirer control over the downstream company. ASIC may grant relief under s655A where item 14 does not apply, typically imposing conditions such as a voting condition preventing the exercise of votes in the downstream company, disclosure to the market, and ensuring the acquisition does not lead to unacceptable circumstances. ASIC will consider factors like the size of the downstream company, the nature of the upstream entity, and whether the acquisition is in the ordinary course of trading. Relief is generally not granted if the downstream company is a significant Australian entity or if the acquisition is part of a scheme to avoid the takeover provisions.",
+  "date_of_effect": "August 2016",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) Ch 6",
+    "Corporations Act 2001 (Cth) Pt 6.10 Div 2 Subdiv B",
+    "Corporations Act 2001 (Cth) s 50AA",
+    "Corporations Act 2001 (Cth) s 602(b)",
+    "Corporations Act 2001 (Cth) s 602(c)",
+    "Corporations Act 2001 (Cth) s 603",
+    "Corporations Act 2001 (Cth) s 604",
+    "Corporations Act 2001 (Cth) s 606",
+    "Corporations Act 2001 (Cth) s 608",
+    "Corporations Act 2001 (Cth) s 608(3)(a)",
+    "Corporations Act 2001 (Cth) s 608(3)(b)",
+    "Corporations Act 2001 (Cth) s 611 (items 1, 7, 9 and 14)",
+    "Corporations Act 2001 (Cth) s 621",
+    "Corporations Act 2001 (Cth) s 623",
+    "Corporations Act 2001 (Cth) s 624(1)(b)",
+    "Corporations Act 2001 (Cth) s 640",
+    "Corporations Act 2001 (Cth) s 655A",
+    "Corporations Act 2001 (Cth) s 657A",
+    "Corporations Act 2001 (Cth) s 661A(1)"
+  ],
+  "cases_referenced": [
+    "Australian Pipeline Trust 01R [2006] ATP 29",
+    "BTR Plc v Westinghouse Brake and Signal Co (Australia) Ltd (1992) 106 ALR",
+    "Cape Lambert Minsec Pty Ltd [2009] ATP 12",
+    "Leighton Holdings Limited 01, 02 and 03 [2010] ATP 13",
+    "Leighton Holdings Limited 02R [2010] ATP 14"
+  ],
+  "related_rulings": [
+    "RG 51",
+    "RG 72",
+    "RG 92",
+    "RG 111",
+    "CO 13/520",
+    "ASIC Corporations (Approved Foreign Financial Markets) 2015/1071"
+  ]
+}

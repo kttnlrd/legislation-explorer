@@ -1,0 +1,39 @@
+{
+  "citation": "RG 110",
+  "title": "Share buy-backs",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide explains how companies can comply with Division 2 of Part 2J.1 of the Corporations Act when conducting share buy-backs, including required procedures and shareholder disclosure obligations.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth) and is intended for companies, their advisers, and investors involved in or affected by share buy-backs. It outlines the legislative framework for buy-backs and explains ASIC's approach to granting relief from certain shareholder approval requirements.",
+  "ruling": "ASIC expects companies to follow the procedures in Division 2 of Part 2J.1 of the Corporations Act when conducting share buy-backs, including obtaining necessary shareholder approval and lodging proper notices. ASIC will consider granting relief from certain shareholder approval requirements in appropriate circumstances, subject to conditions that protect shareholders and maintain market integrity. The guide details specific requirements for different types of buy-backs including on-market, equal access, selective, employee share scheme, and minimum holding buy-backs. ASIC emphasizes that the buy-back must not prejudice the company's ability to pay its creditors and must comply with the 10/12 limit for certain buy-backs.",
+  "date_of_effect": "2007-07-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) Div 2 of Pt 2J.1",
+    "Corporations Act 2001 (Cth) s 114",
+    "Corporations Act 2001 (Cth) s 257B",
+    "Corporations Act 2001 (Cth) s 257C",
+    "Corporations Act 2001 (Cth) s 257D",
+    "Corporations Act 2001 (Cth) s 257E",
+    "Corporations Act 2001 (Cth) s 257F",
+    "Corporations Act 2001 (Cth) s 257G",
+    "Corporations Act 2001 (Cth) s 259A",
+    "Corporations Act 2001 (Cth) s 259F",
+    "Corporations Act 2001 (Cth) s 606",
+    "Corporations Act 2001 (Cth) s 611 item 19",
+    "Corporations Act 2001 (Cth) s 624(1)(b)",
+    "Corporations Act 2001 (Cth) s 631(1)",
+    "Corporations Act 2001 (Cth) s 1043A",
+    "Corporations Act 2001 (Cth) Ch 6"
+  ],
+  "cases_referenced": [
+    "ANZ Nominees Pty Ltd v Wormald International Ltd (1988) 13 ACLR 698",
+    "Attorney-General (Vic) v Walsh's Holdings Ltd [1973] VR 137",
+    "NSCS v Consolidated Gold Mining Areas NL (No 2) (1985) 1 NSWLR 622"
+  ],
+  "related_rulings": [
+    "RG 51",
+    "RG 108",
+    "RG 111",
+    "INFO 30"
+  ]
+}

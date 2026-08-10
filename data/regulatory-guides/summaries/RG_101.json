@@ -1,0 +1,8 @@
+{
+  "error": "JSON parse failed",
+  "raw": "```json\n{\n  \"citation\": \"RG 101\",\n  \"title\": \"Managed investment scheme buy-backs\",\n  \"type\": \"ASIC Regulatory Guide\",\n  \"status\": \"Final\",\n  \"subject\": \"This guide provides guidance for responsible entities of registered managed investment schemes on conducting buy-backs of interests, focusing on o",
+  "citation": "RG 101",
+  "title": "Managed Investment Scheme Buy Backs",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final"
+}

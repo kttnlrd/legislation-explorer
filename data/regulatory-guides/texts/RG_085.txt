@@ -1,0 +1,457 @@
+REGULATORY GUIDE 85
+
+Reporting requirements for
+non-reporting entities
+
+March 2022
+
+
+
+
+About this guide
+This guide provides guidance on application of the reporting entity test and
+the reporting obligations for non-reporting entities.
+
+In particular, ASIC believes that non-reporting entities, which are required to
+prepare financial reports in accordance with Ch 2M of the Corporations Act
+2001 (Corporations Act), should comply with the recognition and
+measurement requirements of accounting standards.
+
+This guide also discusses:
+    the obligations of directors and auditors to carefully consider whether an
+     entity should be classified as a reporting entity or a non-reporting entity;
+     and
+    when consolidated financial statements must be prepared.
+                                               REGULATORY GUIDE 85: Reporting requirements for non-reporting entities
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in March 2022 and is based on legislation and
+                             regulations as at the date of issue.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 85, issued July 2005
+                                    Superseded Information Release [IR 00/025] Reporting requirements
+                                     for non-reporting entities
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission March 2022                                                 Page 2
+                                                    REGULATORY GUIDE 85: Reporting requirements for non-reporting entities
+
+
+
+
+Contents
+                             A      Overview ........................................................................................... 4
+                             B      Guidance........................................................................................... 5
+                                    Accounting provisions applicable to non-reporting entities ............... 5
+                                    Significance of reporting entity status ................................................ 7
+                                    Classification as a non-reporting entity .............................................. 8
+                                    Consolidated financial statements ..................................................... 8
+                             Key terms ................................................................................................. 9
+                             Related information ............................................................................... 10
+
+
+
+
+© Australian Securities and Investments Commission March 2022                                                                         Page 3
+                                               REGULATORY GUIDE 85: Reporting requirements for non-reporting entities
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               From years commencing 1 July 2021, the reporting entity regime is no
+                               longer available to for-profit entities in the private sector that lodge financial
+                               reports with ASIC.
+
+                               Some companies which prepare financial reports as non-reporting entities
+                               may be reporting entities. Classification of the company as a reporting or
+                               non-reporting entity affects the disclosures made in the financial report.
+                               Users of the reports may not be receiving all the information they need to
+                               make investment decisions.
+
+                               The financial reports are not always prepared in compliance with the
+                               recognition and measurement requirements of the accounting standards.
+                               We believe compliance with those requirements is necessary to meet the
+                               financial reporting obligations under the Corporations Act.
+
+
+              RG 85.1        From years commencing on or after 1 July 2021, the reporting regime for
+                             non-reporting entities ceases to be available to for-profit entities in the
+                             private sector that lodge financial reports with ASIC. However, the regime
+                             remains available to not-for-profit entities and to for-profit entities.
+
+              RG 85.2        ASIC’s reviews of financial reports have shown that some companies that
+                             claimed to be non-reporting entities should have been classified as reporting
+                             entities.
+
+              RG 85.3        Those reviews have also revealed that recognition and measurement
+                             requirements of the accounting standards have not been complied with by a
+                             number of companies. These requirements include those relating to
+                             depreciation of non-current assets, tax effect accounting, lease accounting,
+                             measurement of inventories, and recognition and measurement of liabilities
+                             relating to employee entitlements.
+
+              RG 85.4        We believe there needs to be assurance for all companies whose financial
+                             reports are prepared in accordance with the requirements of the Corporations
+                             Act that the balance sheet reflects all, and only all, assets and liabilities, and
+                             that the profit and loss statement (income statement) reflects all, and only all,
+                             revenues and expenses.
+
+              RG 85.5        Key representatives of the accounting profession who we consulted in
+                             preparing this release share our concerns over the quality of financial
+                             reports.
+
+              RG 85.6        The purpose of this guide is to provide guidance on the application of
+                             accounting standards to entities which are required to prepare a financial
+                             report in accordance with the Corporations Act.
+
+
+
+© Australian Securities and Investments Commission March 2022                                                 Page 4
+                                               REGULATORY GUIDE 85: Reporting requirements for non-reporting entities
+
+
+
+
+B          Guidance
+
+                               Key points
+
+                               This section provides guidance for financial reporting by non-reporting
+                               entities on:
+                               • the need to apply the recognition and measurement requirements of
+                                 accounting standards;
+                               • the importance of disclosing information necessary to give a true and
+                                 fair review as well as information mandated by accounting standards;
+                                 and
+                               • the preparation of consolidated financial statements.
+
+
+
+
+Accounting provisions applicable to non-reporting entities
+              RG 85.7        The accounting standards provide a framework for determining a consistent
+                             meaning of ‘financial position’ and ‘profit or loss’ in financial reporting
+                             across entities.
+
+              RG 85.8        In the absence of any such framework, the figures disclosed in financial
+                             statements would lose their meaning and could be determined completely at
+                             the whim of the directors of individual entities. The profit or loss reported by
+                             an individual entity would vary greatly depending on which individuals were
+                             responsible for preparing its financial statements.
+
+              RG 85.9        This would not be consistent with the requirements of the Corporations Act
+                             for financial reports to give a true and fair view (s297), prohibiting the
+                             giving of false and misleading information (s1308), and the provisions for
+                             paying dividends (s254T).
+
+              RG 85.10       The following requirements of accounting standards that apply to all entities
+                             reporting under Ch 2M are also relevant:
+                             (a)   Paragraph AusCF15 of Accounting Standard AASB 101 Presentation
+                                   of Financial Statements (AASB 101) requires the financial report to
+                                   present fairly the financial position, financial performance and cash
+                                   flows. Fair presentation requires ‘the faithful representation of the
+                                   effects of transactions, other events and conditions in accordance with
+                                   the definitions and recognition criteria for assets, liabilities, income and
+                                   expenses set out in the Framework [for the Preparation and
+                                   Presentation of Financial Statements] (Framework)’.
+                             (b)   Paragraph 27 of AASB 101 requires all entities reporting under Ch 2M
+                                   to apply the accrual basis of accounting.
+
+
+
+
+© Australian Securities and Investments Commission March 2022                                                 Page 5
+                                                REGULATORY GUIDE 85: Reporting requirements for non-reporting entities
+
+
+
+
+                             (c)   Paragraphs 10 and AusCF11 of Accounting Standard AASB 108
+                                   Accounting Policies, Changes in Accounting Estimates and Errors
+                                   provides that, in the absence of an Australian accounting standard that
+                                   specifically applies to a transaction, other event or condition,
+                                   management should refer to, and consider the applicability of, the
+                                   following sources in descending order:
+                                   (i)    the requirements in Australian accounting standards dealing with
+                                          similar and related issues; and
+                                   (ii)   the definitions, recognition criteria and measurement concepts for
+                                          assets, liabilities, income and expenses in the Framework.
+
+              RG 85.11       Hence, the recognition and measurement requirements of accounting
+                             standards must also be applied in order to determine the financial position
+                             and profit or loss of any entity preparing financial reports in accordance with
+                             the Corporations Act.
+
+              RG 85.12       As noted earlier, the recognition and measurement requirements of the
+                             accounting standards include requirements relating to depreciation of non-
+                             current assets, tax effect accounting, lease accounting, measurement of
+                             inventories, and recognition and measurement of liabilities for employee
+                             entitlements.
+
+              RG 85.13       The provisions of accounting standards dealing with the classification of
+                             items as assets, liabilities, equity, income and expenses also apply. This
+                             would include the provisions of Accounting Standard AASB 132 Financial
+                             Instruments: Presentation concerning the classification of financial
+                             instruments issued as debt or equity.
+
+              RG 85.14       ASIC Corporations (Non-Reporting Entities) Instrument 2015/841 allows
+                             non-reporting entities to take advantage of concessions to the measurement
+                             requirements of accounting standards. Examples of these concessions
+                             include the provisions of Accounting Standard AASB 1 First-time Adoption
+                             of Australian Accounting Standards and transitional provisions in new
+                             accounting standards.
+
+              RG 85.15       Directors of non-reporting entities must also consider carefully the need to
+                             make disclosures which are not directly prescribed by accounting standards,
+                             but which may be necessary in order for the financial statements to give a
+                             true and fair view. Such disclosures could include certain significant related
+                             party transactions.
+
+              RG 85.16       We will look closely at cases where non-reporting entities have not complied
+                             with the recognition and measurement requirements of accounting standards.
+
+              RG 85.17       Non-reporting entities which hold out their financial reports to be general
+                             purpose financial reports must comply with all requirements of accounting
+                             standards.
+
+
+
+© Australian Securities and Investments Commission March 2022                                                  Page 6
+                                               REGULATORY GUIDE 85: Reporting requirements for non-reporting entities
+
+
+
+
+Significance of reporting entity status
+              RG 85.18       Reporting entities required to prepare a financial report in accordance with
+                             Ch 2M of the Corporations Act must comply with the requirements of all
+                             accounting standards.
+
+              RG 85.19       The directors’ determination as to whether a company should be classified as
+                             a reporting entity or a non-reporting entity is an important decision affecting
+                             the level of disclosure in the company’s financial report. Directors are
+                             required under s295(4)(d) of the Corporations Act to make a declaration as
+                             to whether a company’s financial statements comply with accounting
+                             standards. Directors need to make their decision regarding reporting entity
+                             status carefully in view of the requirement to make this declaration.
+
+              RG 85.20       Directors of an entity that identifies itself as a non-reporting entity and elects
+                             not to adopt the requirements of all accounting standards would be in breach
+                             of the requirement to comply with accounting standards contained in s296 of
+                             the Corporations Act if the circumstances of the entity point to it being a
+                             reporting entity. ‘Reporting entity’ is defined for the purposes of Accounting
+                             Standard AASB 1053 Application of Tiers of Australian Accounting
+                             Standards as follows:
+                                   ‘An entity in respect of which it is reasonable to expect the existence of
+                                   users who rely on the entity’s general purpose financial statements for
+                                   information that will be useful to them for making and evaluating decisions
+                                   about the allocation of resources. A reporting entity can be a single entity
+                                   or a group comprising a parent and all of its subsidiaries.’
+
+              RG 85.21       The auditor of a company will also need to make a decision about the
+                             appropriateness of the classification of an entity as a non-reporting entity in
+                             forming an opinion in accordance with s307 of the Corporations Act as to
+                             whether the entity’s financial report complies with accounting standards.
+
+              RG 85.22       The following accounting standards apply in full to non-reporting entities
+                             required to prepare a financial report in accordance with Ch 2M of the
+                             Corporations Act:
+                             (a)   AASB 101 Presentation of Financial Statements;
+                             (b)   AASB 107 Statement of Cash Flows;
+                             (c)   AASB 108 Accounting Policies, Changes in Accounting Estimates and
+                                   Errors;
+                             (d)   AASB 1048 Interpretation of Standards;
+                             (e)   AASB 1053 Application of Tiers of Australian Accounting Standards;
+                                   and
+                             (f)   AASB 1054 Australian Additional Disclosures.
+
+
+
+
+© Australian Securities and Investments Commission March 2022                                                 Page 7
+                                               REGULATORY GUIDE 85: Reporting requirements for non-reporting entities
+
+
+
+
+Classification as a non-reporting entity
+              RG 85.23       In applying the definition of ‘reporting entity’, directors and auditors must
+                             consider whether there are existing or potential users who may be dependent
+                             on general purpose financial reports. Existing shareholders are not the only
+                             users to consider; therefore, an entity should not be regarded as a non-
+                             reporting entity solely because there is little or no separation between its
+                             members and management (e.g. the shareholders are involved in the day-to-
+                             day management of the company).
+
+              RG 85.24       Our review of financial reports has revealed that some companies that
+                             claimed to be non-reporting entities should have been classified as reporting
+                             entities. These companies had a significant number of creditors and
+                             employees and it was reasonable to expect the existence of users dependent
+                             on general purpose financial reports. The financial reports of these
+                             companies had been accessed on ASIC’s public database on a number of
+                             occasions by external parties during a 12-month period.
+
+              RG 85.25       We will look closely at cases where entities claim to be non-reporting
+                             entities and will seek explanations from directors where it appears
+                             reasonable to expect that there are users dependent on general purpose
+                             financial reports.
+
+
+
+Consolidated financial statements
+              RG 85.26       Some companies have failed to prepare consolidated financial statements on
+                             the grounds that the parent entity was not a reporting entity. Accounting
+                             Standard AASB 10 Consolidated Financial Statements applies to each entity
+                             that is the parent of a group that is a reporting entity regardless of whether
+                             the parent entity itself is a reporting entity. For example, a parent entity with
+                             nominal capital and no active operations is expected to prepare consolidated
+                             financial statements if the group is a reporting entity.
+
+              RG 85.27       Considerations in determining whether a group is a reporting entity may
+                             include that creditors which provide finance to a company which has entered
+                             into deeds of cross guarantee with other entities within the group would be
+                             interested in the consolidated financial statements of the group.
+
+              RG 85.28       Even where there are no such deeds, consolidated financial statements may
+                             provide creditors of a parent entity with information such as the activities of
+                             the group, assets within the group, and the ability of controlled entities to
+                             generate future income and pay dividends to the parent. Consolidated
+                             financial statements prepared by a parent entity may similarly provide
+                             creditors of one of its controlled entities with information on the ability of
+                             the other entities in the group to support the controlled entity.
+
+              RG 85.29       The sole determining factor as to whether consolidated financial statements
+                             are required is whether the group is a reporting entity.
+
+
+
+© Australian Securities and Investments Commission March 2022                                                 Page 8
+                                                  REGULATORY GUIDE 85: Reporting requirements for non-reporting entities
+
+
+
+
+Key terms
+
+
+                               Term                        Meaning in this document
+
+                               AASB                        The Australian Accounting Standards Board
+
+                               accounting standards        As defined in s9 of the Corporations Act
+
+                               ASIC                        Australian Securities and Investments Commission
+
+                               Ch 2M (for example)         A chapter of the Corporations Act (in this example
+                                                           numbered 2M), unless otherwise specified
+
+                               Corporations Act            The Corporations Act 2001, including regulations made
+                                                           for the purposes of the Corporations Act
+
+                               Framework                   The Framework for the Preparation and Presentation of
+                                                           Financial Statements as cited in Australian accounting
+                                                           standards
+
+                               reporting entity            See definition of ‘reporting entity’ in RG 85.20 above
+
+                               s297 (for example)          A section of the Corporations Act (in this example
+                                                           numbered 297), unless otherwise specified
+
+
+
+
+© Australian Securities and Investments Commission March 2022                                                       Page 9
+                                               REGULATORY GUIDE 85: Reporting requirements for non-reporting entities
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             accounting standards, conceptual framework, consolidated financial
+                             statements, non-reporting entities, not-for-profit entities, note disclosure,
+                             public sector entities, recognition and measurement, reporting framework,
+                             special purpose financial reports, true and fair view
+
+
+                             Legislative instruments
+
+                             ASIC Corporations (Non-Reporting Entities) Instrument 2015/841
+
+
+                             Legislation
+
+                             Corporations Act, Ch 2M; s254T, 295(4)(d), 296, 297, 307, 1308
+
+
+                             Accounting standards
+
+                             AASB 1 First-time Adoption of Australian Accounting Standards
+
+                             AASB 10 Consolidated Financial Statements
+
+                             AASB 101 Presentation of Financial Statements
+
+                             AASB 107 Statement of Cash Flows
+
+                             AASB 108 Accounting Policies, Changes in Accounting Estimates and
+                                     Errors
+
+                             AASB 132 Financial Instruments: Presentation
+
+                             AASB 1048 Interpretation of Standards
+
+                             AASB 1053 Application of Tiers of Australian Accounting Standards
+
+                             AASB 1054 Australian Additional Disclosures
+
+                             Framework for the Preparation and Presentation of Financial Statements
+
+
+
+
+© Australian Securities and Investments Commission March 2022                                                Page 10
+

@@ -16,8 +16,8 @@ from backend.config import BASE
 DB_PATH = BASE / "mcp_tokens.db"
 
 # Rate limits
-TOKEN_RPM = 100
-GLOBAL_RPM = 1000
+TOKEN_RPM = 300
+GLOBAL_RPM = 3000
 
 _lock = threading.Lock()
 

@@ -1,0 +1,40 @@
+{
+  "citation": "RG 76",
+  "title": "Related party transactions",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide provides guidance on promoting better disclosure and governance for related party transactions under the Corporations Act. It covers the legal framework, directors' voting restrictions, financial reporting requirements, and ASIC's approach to granting relief.",
+  "background": "The guide is issued under ASIC's administration of the Corporations Act 2001 (Cth), particularly Chapter 2E which regulates related party transactions to protect members' interests. It is intended for public companies, responsible entities of registered managed investment schemes, experts, public company directors, and their professional advisers.",
+  "ruling": "ASIC expects entities to fully disclose related party transactions in financial reports and to comply with the member approval requirements under Chapter 2E. ASIC will consider granting relief from these requirements in limited circumstances, such as where the transaction is on arm's length terms or where strict compliance would cause undue hardship. The guide outlines ASIC's approach to assessing applications for relief, including the need for independent expert reports and shareholder approval. ASIC also provides guidance on directors' voting restrictions under section 195 when they have a material personal interest. ASIC emphasizes that the overarching principle is to ensure transparency and protect the interests of members.",
+  "date_of_effect": "2011-03-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) s 195",
+    "Corporations Act 2001 (Cth) Ch 2E"
+  ],
+  "cases_referenced": [
+    "Fitzsimmons v The Queen (1997) 23 ACSR 355",
+    "Fraser v NRMA Holdings Limited (1995) 55 FCR 452",
+    "Granby Pty Ltd v Federal Commissioner of Taxation (1995) 129 ALR 503",
+    "Grand Enterprises Pty Ltd v Aurium Resources Ltd (2009) 256 ALR 1",
+    "Re HIH Insurance Ltd (in prov liq) and HIH Casualty and General Insurance Ltd (in prov liq); ASIC v Adler and Others (2002) 41 ACSR 72",
+    "Hospital Products Ltd v United States Surgical Corp (1984) 156 CLR 41",
+    "Lion Nathan Australia Pty Ltd v Coopers Brewery Ltd and Others (2005) 55 ACSR 583",
+    "McGellin v Mount King Mining NL (1998) 144 FLR 288",
+    "Orrong Strategies Pty Ltd v Village Roadshow Ltd [2007] VSC 1",
+    "Permanent Building Society (in liq) v Wheeler (1994) 14 ACSR 109",
+    "The Queen v District Council of Victor Harbour; Ex parte Costain Australia Ltd [1983] 34 SASR 188",
+    "R v Byrnes & Hopwood (1995) 183 CLR 501",
+    "Residues Treatment and Trading Co Ltd v Southern Resources Ltd (1998) 14 ACLR 375",
+    "Streeter v Western Areas Exploration Pty Ltd [No 2] [2011] WASCA 17",
+    "Transvaal Lands Co v New Belgium (Transvaal) Lands & Development Co [1914] 2 Ch 488",
+    "Trustee for the Estate of the Late AW Furse No 5 Will Trust v FCT (1990) 21 ATR 1123",
+    "Warman International Ltd v Dwyer (1995) 182 CLR 544"
+  ],
+  "related_rulings": [
+    "CP 133",
+    "CP 134",
+    "CP 141",
+    "CP 142",
+    "REP 233"
+  ]
+}

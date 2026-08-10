@@ -111,6 +111,8 @@ def is_page_header_noise(line: str) -> bool:
         return True
     if re.match(r"^Part\s+[IVX]+[A-Z]?\s+(?!—)[^—].*$", stripped):
         return True
+    if re.match(r"^Part\s+\d+-\d+\s+(?!—)\S", stripped):  # Part 4-15 style (Schedule 1)
+        return True
     if re.match(r"^Division\s+\d+[A-Z]*\s+(?!—)[^—].*$", stripped):
         return True
     if re.match(r"^Subdivision\s+[A-Z]+\s+(?!—)[^—].*$", stripped):
@@ -122,11 +124,12 @@ def is_page_header_noise(line: str) -> bool:
     if re.search(r"Section\s+\d+[A-Z]*(?:-\d+)?$", stripped):
         return True
     # Page headers for Schedule 1 running headers
-    if re.match(r"^Schedule\s+\d+\s", stripped):
-        return True
-    if re.match(r"^Chapter\s+\d+\s", stripped):
-        return True
-    if RE_NOISE.match(line):
+    # (handled as structural elements in main parse loop)
+    # if re.match(r"^Schedule\s+\d+\s", stripped):
+    #     return True
+    # if re.match(r"^Chapter\s+\d+\s", stripped):
+    #     return True
+    if RE_NOISE.match(line.strip()):
         return True
     return False
 
@@ -139,7 +142,7 @@ def _continues_title(lines: list[str], i: int, structural_patterns: list, max_le
             break
         if any(p.match(next_line) for p in structural_patterns):
             break
-        if RE_NOISE.match(next_line) or is_page_footer(next_line):
+        if RE_NOISE.match(next_line.strip()) or is_page_footer(next_line):
             break
         leading_ws = len(next_line) - len(next_line.lstrip())
         if max_leading_ws is not None and leading_ws >= max_leading_ws:
@@ -155,7 +158,7 @@ def _continues_title(lines: list[str], i: int, structural_patterns: list, max_le
 def classify_body_line(line: str) -> tuple[str, dict]:
     if not line.strip():
         return "blank", {}
-    if RE_NOISE.match(line) or is_page_footer(line):
+    if RE_NOISE.match(line.strip()) or is_page_footer(line):
         return "noise", {}
     if m := RE_SUBSECTION.match(line):
         return "subsection", {"num": m.group(1), "text": m.group(2)}
@@ -289,6 +292,13 @@ def parse_volume(raw_text: Path, out_dir: Path, ctx: ParseContext, dry_run: bool
             if sub_match and sub_match.group(1) == ctx.subdivision:
                 i += 1
                 continue
+            # Check for Schedule/Chapter page header repeats
+            if (sch_match := re.match(r"^Schedule\s+\d+", line)):
+                i += 1
+                continue
+            if (ch_match := re.match(r"^Chapter\s+\d+", line)):
+                i += 1
+                continue
             after_form_feed = False
 
         if is_toc_section_entry(line):
@@ -313,6 +323,47 @@ def parse_volume(raw_text: Path, out_dir: Path, ctx: ParseContext, dry_run: bool
             ctx.subdivision = None
             ctx.subdivision_title = None
             logging.info("Part %s — %s", ctx.part, ctx.part_title)
+            i += 1
+            continue
+
+        # Structural: Schedule / Chapter (Schedule 1 parts)
+        if (sch_match := re.match(r"^Schedule\s+(\d+)[—–\-]?\s*(.*)$", line)) and not has_trailing_page_number(line):
+            if current:
+                sections.append(current)
+                current = None
+            ctx.part = "SCHEDULE" + sch_match.group(1)
+            ctx.part_title = strip_page_number(sch_match.group(2))
+            extra, i = _continues_title(lines, i, [RE_PART, RE_DIVISION, RE_SUBDIVISION, RE_SECTION, RE_SUBSECTION, RE_PARAGRAPH, RE_SUBPARAGRAPH, RE_NOTE, RE_EXAMPLE])
+            if extra:
+                ctx.part_title += extra
+            ctx.division = None
+            ctx.division_title = None
+            ctx.subdivision = None
+            ctx.subdivision_title = None
+            logging.info("Schedule %s — %s", sch_match.group(1), ctx.part_title)
+            i += 1
+            continue
+
+        # Structural: Chapter (within a Schedule)
+        if (ch_match := re.match(r"^Chapter\s+(\d+)[—–\-]?\s*(.*)$", line)) and not has_trailing_page_number(line):
+            # Chapters act as part-level grouping; keep the existing part id
+            if current:
+                sections.append(current)
+                current = None
+            ch_title = strip_page_number(ch_match.group(2))
+            extra, i = _continues_title(lines, i, [RE_PART, RE_DIVISION, RE_SUBDIVISION, RE_SECTION, RE_SUBSECTION, RE_PARAGRAPH, RE_SUBPARAGRAPH, RE_NOTE, RE_EXAMPLE])
+            if extra:
+                ch_title += extra
+            # If we haven't seen a Schedule header yet, assign to SCHEDULE1
+            if not ctx.part:
+                ctx.part = "SCHEDULE1"
+                ctx.part_title = ch_title
+            # If already in a schedule, don't overwrite the part_title
+            ctx.division = None
+            ctx.division_title = None
+            ctx.subdivision = None
+            ctx.subdivision_title = None
+            logging.info("Chapter %s — %s", ch_match.group(1), ch_title)
             i += 1
             continue
 

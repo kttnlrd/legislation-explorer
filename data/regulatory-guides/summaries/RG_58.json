@@ -1,0 +1,42 @@
+{
+  "citation": "RG 58",
+  "title": "Reporting by registered foreign companies and Australian companies with foreign shareholders",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses financial reporting obligations for registered foreign companies and Australian companies with foreign shareholders, and describes the relief ASIC may grant to exempt these entities from certain reporting requirements under the Corporations Act 2001.",
+  "background": "The guide provides guidance on how ASIC will exercise its powers under the Corporations Act to grant relief from financial reporting obligations, and explains the legislative context under Chapter 2M and Parts 5B.2. It is intended for registered foreign companies, Australian companies in which a foreign company has an interest, and their advisers.",
+  "ruling": "ASIC states that it may grant relief to exempt certain foreign companies and Australian companies with foreign shareholders from specific financial reporting obligations, including audit requirements, under the Corporations Act. The relief is available where the company is part of a consolidated group that prepares financial reports in accordance with Australian accounting standards or equivalent foreign standards. ASIC also allows the synchronisation of a company's financial year with that of its foreign parent company to reduce compliance costs. The guide outlines the conditions under which ASIC will grant such relief, including the requirement for directors to pass resolutions and lodge notifications. ASIC emphasizes that relief is conditional and must be applied for through the ASIC Regulatory Portal from 27 July 2020.",
+  "date_of_effect": "2020-06-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) Ch 2M",
+    "Corporations Act 2001 (Cth) Pt 5B.2",
+    "Corporations Act 2001 (Cth) s 9",
+    "Corporations Act 2001 (Cth) s 45A",
+    "Corporations Act 2001 (Cth) s 45A(2)",
+    "Corporations Act 2001 (Cth) s 45A(3)",
+    "Corporations Act 2001 (Cth) s 113",
+    "Corporations Act 2001 (Cth) s 292",
+    "Corporations Act 2001 (Cth) s 292(2)(b)",
+    "Corporations Act 2001 (Cth) s 294",
+    "Corporations Act 2001 (Cth) s 319(1)",
+    "Corporations Act 2001 (Cth) s 323D",
+    "Corporations Act 2001 (Cth) s 323D(1)",
+    "Corporations Act 2001 (Cth) s 323D(2)",
+    "Corporations Act 2001 (Cth) s 323D(2A)",
+    "Corporations Act 2001 (Cth) s 323D(3)",
+    "Corporations Act 2001 (Cth) s 340",
+    "Corporations Act 2001 (Cth) s 342",
+    "Corporations Act 2001 (Cth) s 50AA",
+    "Corporations Act 2001 (Cth) s 601CK",
+    "Corporations Act 2001 (Cth) s 601CK(7)",
+    "Corporations Act 2001 (Cth) s 601CK(9)",
+    "Tax Administration Act 1953 (Cth) s 3CA"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "RG 43",
+    "RG 51",
+    "RG 115",
+    "INFO 1"
+  ]
+}

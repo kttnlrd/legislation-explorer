@@ -185,9 +185,24 @@ export default function SettingsPanel({ onClose }: { onClose: () => void }) {
                   cursor: 'pointer',
                 }}
               >
-                {(acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }]).map(a => (
-                  <option key={a.id} value={a.id}>{shortActName(a.id)}</option>
-                ))}
+                {(acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }, { id: 'corporations-act-2001', name: 'Corporations Act 2001' }, { id: 'regulatory-guides', name: 'ASIC Regulatory Guides' }]).length > 0 ? (() => {
+                  const actList = acts.length > 0 ? acts : [{ id: 'itaa-1997', name: 'ITAA 1997' }, { id: 'itaa-1936', name: 'ITAA 1936' }, { id: 'corporations-act-2001', name: 'Corporations Act 2001' }, { id: 'regulatory-guides', name: 'ASIC Regulatory Guides' }]
+                  const actById = Object.fromEntries(actList.map(a => [a.id, a]))
+                  const DOMAINS = [
+                    { label: 'Australian Tax', ids: ['itaa-1997', 'itaa-1936', 'gst-1999', 'taa-1953', 'master-tax-guide', 'master-tax-examples', 'master-gst-guide', 'rulings', 'tax-cases'] },
+                    { label: 'New Zealand Tax', ids: ['nz-it-2007'] },
+                    { label: 'Corporate Law', ids: ['corporations-act-2001', 'regulatory-guides'] },
+                  ]
+                  return DOMAINS.map(domain => {
+                    const domainActs = domain.ids.filter(id => actById[id]).map(id => actById[id])
+                    if (domainActs.length === 0) return null
+                    return (
+                      <optgroup key={domain.label} label={domain.label}>
+                        {domainActs.map(a => <option key={a.id} value={a.id}>{shortActName(a.id)}</option>)}
+                      </optgroup>
+                    )
+                  })
+                })() : null}
               </select>
             </div>
           </div>

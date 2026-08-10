@@ -1,0 +1,34 @@
+{
+  "citation": "RG 125",
+  "title": "Share and interest purchase plans",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses offers of shares or interests to existing holders under share purchase plans and interest purchase plans by ASX-listed companies and managed investment schemes. It explains the conditional relief from the requirement to provide a prospectus or Product Disclosure Statement (PDS) for such offers.",
+  "background": "The guide is issued under the Corporations Act 2001 (Cth) and provides conditional relief from disclosure requirements in Chapter 6D and Part 7.9. It is intended for ASX-listed companies, their advisers, and investors involved in share purchase plans, as well as ASX-listed managed investment schemes and their participants involved in interest purchase plans.",
+  "ruling": "ASIC provides conditional relief to allow offers of shares or interests to existing holders without a prospectus or PDS, subject to conditions including a monetary limit of $30,000 per holder per rolling 12-month period, offers only to registered holders, and requirements for quotation and continuity of quotation. The issuer must lodge a cleansing notice with ASX before making offers. ASIC's approach is to balance the need for investor protection with the efficiency of capital raising for listed entities, and the relief is set out in ASIC Corporations (Share and Interest Purchase Plans) Instrument 2019/547.",
+  "date_of_effect": "2019-08-01",
+  "legislation_referenced": [
+    "Corporations Act 2001 (Cth) Ch 6D",
+    "Corporations Act 2001 (Cth) Pt 7.9",
+    "Corporations Act 2001 (Cth) s 111AS",
+    "Corporations Act 2001 (Cth) s 111AT",
+    "Corporations Act 2001 (Cth) s 340",
+    "Corporations Act 2001 (Cth) s 341",
+    "Corporations Act 2001 (Cth) s 601GA",
+    "Corporations Act 2001 (Cth) s 674",
+    "Corporations Act 2001 (Cth) s 708AA",
+    "Corporations Act 2001 (Cth) s 708A",
+    "Corporations Act 2001 (Cth) s 741",
+    "Corporations Act 2001 (Cth) s 1012DAA",
+    "Corporations Act 2001 (Cth) s 1012DA",
+    "Corporations Act 2001 (Cth) s 1020F",
+    "Corporations Regulations 2001 (Cth) reg 7.6.01"
+  ],
+  "cases_referenced": [],
+  "related_rulings": [
+    "RG 51",
+    "RG 161",
+    "RG 173",
+    "INFO 225"
+  ]
+}

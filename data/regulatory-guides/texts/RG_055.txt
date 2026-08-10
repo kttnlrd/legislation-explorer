@@ -1,0 +1,1217 @@
+REGULATORY GUIDE 55
+
+Statements in disclosure
+documents and PDSs:
+Consent to quote
+
+March 2016
+
+
+
+
+About this guide
+This regulatory guide is for persons who prepare disclosure documents and
+Product Disclosure Statements (PDSs). It explains how ASIC administers
+the requirement under s716(2) and 1013K(1) of the Corporations Act 2001
+(Corporations Act) for an issuer to obtain consent before citing a person in a
+disclosure document or PDS (the consent requirement).
+
+This guide is also relevant for persons preparing takeover documents, as it
+explains the relief we give from the consent requirement and from the
+requirement in s636(3) and 638(5) for a bidder or target to obtain consent to
+cite this information in a bidder’s or target’s statement.
+
+Note: From 27 July 2020, applications for relief should be submitted through
+the ASIC Regulatory Portal. For more information, see how you apply for
+relief.
+                                 REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                      explaining when and how ASIC will exercise specific powers under
+                                       legislation (primarily the Corporations Act)
+                                      explaining how ASIC interprets the law
+                                      describing the principles underlying ASIC’s approach
+                                      giving practical guidance (e.g. describing the steps of a process such
+                                       as applying for a licence or giving practical examples of how
+                                       regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in March 2016 and is based on legislation and
+                             regulations as at the date of issue. The note on the front page was inserted
+                             on 27 July 2020. In March 2024, we updated references to remade
+                             legislative instruments.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 55 Disclosure documents and PDS:
+                                     Consent to quote, issued 5 July 2007, updated 23 April 2010 and
+                                     November 2011
+                                    Superseded Practice Note 55 Prospectuses citing experts and
+                                     statement of interests, issued 23 January 1995, updated 17 June 1996
+                                     and rebadged as a regulatory guide 5 July 2007
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                               Page 2
+                                 REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+Contents
+                             A      Overview ........................................................................................... 4
+                                    What is the purpose of the consent requirement? ............................. 4
+                                    When is consent required? ................................................................ 5
+                                    What must an issuer do to comply with the consent requirement? ... 6
+                                    What relief is available? ..................................................................... 6
+                             B      When is consent required?............................................................. 7
+                                    What is a statement? ......................................................................... 7
+                                    Statement is included in a disclosure document or PDS ................... 7
+                                    Statement is ‘made by’ a person ....................................................... 8
+                                    Based on a statement by a person .................................................. 10
+                                    Materiality and novelty ..................................................................... 12
+                             C      What must an issuer do to comply with the consent
+                                    requirement? .................................................................................. 13
+                                    Obtaining consent ............................................................................ 13
+                                    Disclosing consent ........................................................................... 14
+                             D      What relief is available? ................................................................ 15
+                                    Overview of our relief ....................................................................... 15
+                                    Government officials ........................................................................ 16
+                                    Books and journals .......................................................................... 17
+                                    Geological reports ............................................................................ 18
+                                    Trading data ..................................................................................... 19
+                                    Takeovers ........................................................................................ 20
+                                    Other relief ....................................................................................... 20
+                                    Applying for relief ............................................................................. 22
+                             Key terms ............................................................................................... 23
+                             Related information ............................................................................... 24
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                                                          Page 3
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               The Corporations Act 2001 (Corporations Act) allows issuers of a
+                               disclosure document or Product Disclosure Statement (PDS) to include
+                               statements made by another person (e.g. an expert). However, such
+                               statements may only be included if the issuer complies with certain
+                               obligations under the Corporations Act in relation to the statement.
+
+                               The consent requirement allows the maker of the statement to control the
+                               effect of their statement in the disclosure document or PDS, and to control
+                               their liability.
+
+                               Where a disclosure document or PDS cites a statement made by a person,
+                               the issuer must obtain consent to include the statement in the disclosure
+                               document or PDS unless exempted.
+
+                               The issuer must obtain consent to include the statement in the form and
+                               context that it is included, and must state in the disclosure document or
+                               PDS that the person has given this consent.
+
+                               We have provided relief to allow an issuer to make a statement that cites
+                               (or is based on) certain statements made by particular people without
+                               consent. We may also provide individual relief from the consent
+                               requirement.
+
+
+
+What is the purpose of the consent requirement?
+              RG 55.1        A disclosure document or PDS may include a statement made by another
+                             person if certain consent requirements are met.
+
+              RG 55.2        Under s716(2) and 1013K(1) of the Corporations Act, persons that an issuer
+                             wants to cite can:
+                             (a)   control the effect of a statement in the context of a disclosure document
+                                   or PDS as a whole; and
+                             (b)   control their liability.
+
+              RG 55.3        Sections 716(2) and 1013K(1) are also evidentiary provisions supporting
+                             other provisions:
+                             (a)   A person cited in a disclosure document or PDS with their consent is
+                                   liable for loss or damage caused by the relevant statement: item 5 of
+                                   s729(1), 1022B(2) and 1022B(3)(c). The Explanatory Memorandum to
+                                   the Corporate Law Economic Reform Program Bill 1998, para 8.31,
+                                   states:
+                                      A person will need to have consented to being named in the disclosure
+                                      document in relation to a statement … before any liability may arise.
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                              Page 4
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+                             (b)   A person cited in a PDS with their consent commits an offence if the
+                                   statement is misleading or deceptive and is materially adverse from the
+                                   point of view of a reasonable person considering whether to acquire the
+                                   financial product: s1021L(1).
+                             (c)   Issuers have a defence for a defective disclosure document if they prove
+                                   that they reasonably relied on information provided by the cited person:
+                                   s733(1). Issuers also have a defence for including a defective statement
+                                   in a PDS if they took reasonable steps to ensure that it would not be
+                                   defective: s1022B(7).
+
+              RG 55.4        The consent requirement is not concerned with, or designed to protect, any
+                             intellectual property or rights to confidentiality that any party may have in cited
+                             statements or information. Nor does the relief we give from the consent
+                             requirement abrogate any rights any person may have in cited statements,
+                             including rights to restrain the use of that statement or information.
+
+              RG 55.5        The consent requirement is independent of the prohibitions on making
+                             misleading and deceptive statements in a disclosure document or PDS:
+                             s728(1) and 1041E(1). ASIC relief from the consent requirement does not
+                             affect issuers’ liability for misleading or deceptive statements. In any event,
+                             there is no statutory liability for the maker of a statement included in a
+                             disclosure document without consent under item 5 of s729(1).
+
+
+
+When is consent required?
+              RG 55.6        The consent requirement applies:
+                             (a)   if the cited statement is:
+                                   (i)     in the body of the text of the disclosure document or PDS;
+                                   (ii)    in a document included in the disclosure document or PDS; or
+                                   (iii)   in a document incorporated by reference into the disclosure
+                                           document;
+                             (b)   regardless of the expertise of the person to whom the statement is
+                                   attributed (the person does not have to be an ‘expert’);
+                             (c)   if a statement contains a view attributed to a person but they are not
+                                   named; and
+                             (d)   even where the citation of a person is only apparent when different parts
+                                   of the disclosure document or PDS are read together.
+
+              RG 55.7        The consent requirement does not apply where the issuer or directors make a
+                             statement without any kind of attribution: see Section B.
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                              Page 5
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+What must an issuer do to comply with the consent requirement?
+              RG 55.8        In complying with the consent requirement, an issuer must:
+                             (a)   obtain consent from the person attributed to making the statement for it
+                                   to be included in the disclosure document or PDS in the form and
+                                   context in which it is included;
+                             (b)   state in the disclosure document or PDS that the person has given this
+                                   consent; and
+                             (c)   ensure that the person has not withdrawn this consent before the date of
+                                   the disclosure document or PDS.
+
+              RG 55.9        A person who gives ongoing or general consent to use a statement does not
+                             meet the consent requirement under the Corporations Act: see Section C.
+
+
+
+What relief is available?
+              RG 55.10       Relief from the consent requirement is available for citing:
+                             (a)   statements by government officials;
+                             (b)   statements already published in books, journals or comparable
+                                   publications;
+                             (c)   certain statements taken from geological reports available from
+                                   government departments, authorities and agencies, or a prescribed
+                                   financial market; and
+                             (d)   trading data from prescribed financial markets or approved foreign
+                                   exchanges.
+
+              RG 55.11       We also give relief from the requirement in s636(3) and 638(5) for a bidder
+                             or target to obtain consent to cite this information in a bidder’s or target’s
+                             statement.
+
+              RG 55.12       We may give individual relief from the consent requirement and the
+                             requirement in s636(3) and 638(5) in other circumstances: see Section D.
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                              Page 6
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+B          When is consent required?
+
+                               Key points
+
+                               This section sets out our guidance to help issuers determine whether they
+                               need to obtain consent when including a statement in a disclosure
+                               document or PDS.
+
+                               The consent requirement applies if:
+                               • a statement is included in a disclosure document or a PDS; and
+                               • the issuer holds out that the statement has the authority of a person
+                                 because it is:
+                                  –   made by the person (i.e. a quote); or
+                                  –   based on a statement made by the person.
+
+                               Consent is not required where the statement is used without any kind of
+                               attribution; however, consent is required where a statement is attributed to
+                               an unnamed person.
+
+                               Consent is also required for a summary of a statement; however, it may not
+                               be required for a deduction from a statement for which consent is obtained.
+
+                               Consent is required even if a statement attributed to a person is not
+                               material or new.
+
+
+
+What is a statement?
+              RG 55.13       A ‘statement’ is not limited to text. For a PDS, a ‘statement’ is expressly
+                             defined to include a ‘matter that is not written but conveys a message’: s9.
+                             This includes diagrams, graphs, charts and maps. A ‘statement’ includes a
+                             statement of fact as well as a statement of opinion. Neither the language nor
+                             the underlying policy of s716(2) or 1013K(1) limit those provisions to
+                             statements of expert opinion.
+
+
+
+Statement is included in a disclosure document or PDS
+              RG 55.14       The consent requirement applies to a statement in a document that forms part
+                             of a disclosure document or a PDS. The statement can be included in the
+                             disclosure document or PDS, or incorporated by reference: see s712 and
+                             reg 7.9.15DA of the Corporations Regulations 2001 (Corporations Regulations).
+                             For example, an issuer may include parts of its annual report in a disclosure
+                             document, or incorporate these parts by reference. However, auditors’ reports,
+                             valuations and other material in an annual report should not be used in a
+                             disclosure document without the consent of their authors.
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                              Page 7
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+              RG 55.15       For margin loans, some superannuation products and simple managed
+                             investment schemes, the Corporations Regulations impose additional
+                             requirements when incorporating by reference: see regs 7.9.11E, 7.9.11P
+                             and 7.9.11X.
+
+                                   Note: These products are subject to a shorter PDS regime (see Corporations
+                                   Amendment Regulations 2010 (No. 5)). For more information on the shorter PDS
+                                   regime that applies to these products, see Information Sheet 155 Shorter PDSs—
+                                   Complying with requirements for superannuation products, simple managed investment
+                                   schemes and simple sub-fund products (INFO 155). Modified disclosure regimes also
+                                   apply to general insurance products and First Home Saver Accounts: see Pt 7.9 of the
+                                   Corporations Regulations.
+
+              RG 55.16       Statements incorporated by reference are taken to be included in the
+                             disclosure document or PDS.
+
+              RG 55.17       The issuer must obtain consent for the form and context of the statement in
+                             which it is included. For example, consent for the statement to be included in
+                             an annual report will not be sufficient consent for including the statement
+                             being incorporated by reference in a disclosure document or PDS.
+
+
+
+Statement is ‘made by’ a person
+              RG 55.18       A person’s consent is needed only if a disclosure document or PDS holds out
+                             that a statement was ‘by’ or ‘made by’ a person (i.e. the statement is a quote
+                             that has the authority of that person). For example, s716(2) and 1013K(1) do
+                             not apply in any of the following situations:
+                             (a)   A person is mentioned in a disclosure document or a PDS as having
+                                   assisted with the preparation of these documents, but is not mentioned
+                                   as the authority for any particular statement.
+                             (b)   A person’s views are used without express or implied attribution. The
+                                   Corporations Act does not require each statement in a disclosure
+                                   document or PDS to be attributed to someone authoritative on that
+                                   matter. The issuer is responsible for everything in a disclosure
+                                   document or PDS, subject to the defences in s731, 733 and 1022B(7).
+                             (c)   A document is listed in the bibliography of a disclosure document or
+                                   PDS but is not cited for any particular proposition. It will be necessary
+                                   to obtain the consent of the author of the document only if it is apparent
+                                   that the document is listed as authority for a statement in the disclosure
+                                   document or PDS.
+
+              RG 55.19       The consent requirement applies regardless of the profession, reputation,
+                             qualifications, skills or expertise of the person to whom the statement is
+                             attributed. The consent requirement does not use the language ‘expert’. If the
+                             disclosure document or PDS holds someone out to be a person making a
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                                   Page 8
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+                             statement, we will require that person’s consent without inquiring if the
+                             person in fact has the expertise to make the statement.
+
+
+                             Unnamed attribution
+
+              RG 55.20       The consent requirement also applies where a statement contains a view
+                             attributed to a person, but the person is not named. For example, it applies to
+                             statements like:
+                             (a)   ‘our legal advisers assure us we have a strong case’;
+                             (b)   ‘our audited profit is $X’;
+                             (c)   ‘the building has been valued at $Y’; and
+                             (d)   ‘our geologist’s tests show that the tenement has significant gold
+                                   mineralisation’.
+
+                                   Note: Relief may be available from the consent requirement for citing previous
+                                   geological reports (see RG 55.63–RG 55.65).
+
+              RG 55.21       The consent requirement applies because these statements are held out as
+                             having the authority of the type of person making the statement. This is not
+                             changed by the fact that the person is only described as a member of a
+                             profession or referred to by implication. The issuer clearly intends that
+                             potential investors will rely on the views of these persons.
+
+              RG 55.22       We note the practice of including averaged anonymous broker valuations
+                             without the consent of the brokers concerned. If averaged anonymous broker
+                             valuations are used, the issuer of the document will need to ensure that their
+                             use is not misleading.
+
+                                   Note: Where averaged anonymous broker valuations are used in a takeover document
+                                   and there is a risk of shareholders being misled, the bidder or target may risk an
+                                   application to the Takeovers Panel for a declaration of unacceptable circumstances. For
+                                   more information, see Takeovers Panel Guidance Note 18 Takeover documents.
+
+
+                             No attribution
+
+              RG 55.23       The consent requirement does not apply where the issuer or directors use a
+                             statement without any kind of attribution. For example, directors cannot
+                             attribute a statement to an expert in pharmaceuticals without the expert’s
+                             consent. But the directors may include a detailed analysis of the properties of
+                             a pharmaceutical product in a disclosure document or PDS without
+                             attribution, even though they have no technical expertise in pharmaceuticals
+                             themselves.
+
+              RG 55.24       Directors can use a statement without attribution (and so without consent)
+                             even if it may be apparent to some readers of the disclosure document or
+                             PDS that none of the directors have the expertise to make the statement.
+                             Such an assessment by a reader does not mean that there is an implied
+
+
+
+© Australian Securities and Investments Commission March 2016                                                       Page 9
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+                             attribution to an unidentified person: contrast this with the examples in
+                             RG 55.20. In such cases, the issuer and directors will be liable for the
+                             statement (subject to defences), not the maker of the statement.
+
+              RG 55.25       However, if the disclosure document or PDS mentions the name of a person
+                             (e.g. a biochemist) and elsewhere in the disclosure document or PDS the
+                             directors make a statement about a matter that is within the person’s area of
+                             expertise (e.g. the properties of a drug), we may conclude that there is an
+                             implied attribution to that person and that the consent requirement applies.
+
+
+                             Implied and split mentions
+
+              RG 55.26       If several passages in a disclosure document or PDS can fairly be read
+                             together and clearly attribute a view to a person, the consent requirement
+                             applies to those passages.
+
+              RG 55.27       The test is always how potential investors will understand the relevant
+                             passages. The principle applies when:
+                             (a)   one passage in a disclosure document or PDS refers to another or
+                                   cannot be fully understood in isolation from the other; and
+                             (b)   when read together by potential investors, those passages appear to
+                                   attribute a view to a person.
+
+              RG 55.28       An example is a disclosure document that:
+                             (a)   on one page says what a company’s profit was for a particular year; and
+                             (b)   on another page states that the company’s accounts for that year have
+                                   been audited.
+
+              RG 55.29       A potential investor would be entitled to assume that the profit figure was
+                             from the audited accounts and that the auditors have not qualified those
+                             accounts. This is because, to a person reading the disclosure document, the
+                             unqualified reference to the profit figure plainly implies that the auditors
+                             approved that profit figure.
+
+
+
+Based on a statement by a person
+              RG 55.30       The issuer must obtain a person’s consent where a disclosure document or
+                             PDS includes a statement said in the document to be based on a statement by
+                             the person. This ensures that the consent requirement cannot be avoided by
+                             giving a person’s views in indirect speech. A distinction needs to be drawn
+                             between the following types of statements.
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                             Page 10
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+                             Summary of a statement
+
+              RG 55.31       The first type of statement is based on the views of a person in the sense that
+                             it represents or summarises those views. Consent is required to include a
+                             statement of this type. The person should have the opportunity to control the
+                             effect of a statement or veto its inclusion.
+
+              RG 55.32       This applies even if the person’s statement is set out fully in another part of
+                             the disclosure document or PDS with the person’s consent (e.g. a disclosure
+                             document or PDS that includes an investigating accountant’s report with
+                             consent and elsewhere states that ‘in the investigating accountant’s report at
+                             page 7, the company’s assets are valued at …’).
+
+
+                             Deduction from a statement
+
+              RG 55.33       The second type of statement is a deduction made by a person (e.g. the
+                             directors of the issuer) from another person’s statement. The other person’s
+                             consent is not required for every deduction drawn from what that person has
+                             said. Consent is only required if:
+                             (a)   the directors cite the original statement; or
+                             (b)   the directors attribute the deduction itself to the person.
+
+              RG 55.34       Where a disclosure document or a PDS includes a statement by a person and
+                             elsewhere makes inferences based on that statement, the inferences are part
+                             of the context in which the person’s statement appears. The person may
+                             withhold consent to include their statement in this context.
+
+              RG 55.35       We will not require a person to consent to a statement (e.g. by the directors)
+                             containing a deduction based on the views of that person if:
+                             (a)   it is made clear that the deduction represents the opinion of the directors
+                                   rather than the person;
+                             (b)   there is no suggestion that the person is vouching for the directors’
+                                   deduction; and
+                             (c)   the directors take responsibility for the deduction.
+
+                             But the other person’s consent will be required to include the views on
+                             which the directors’ deduction is based.
+
+              RG 55.36       For example, a disclosure document to raise capital for an on-site sewage
+                             works construction company contains an independent expert’s report. The
+                             report concludes that ‘ecotourism is going to boom in Australia in the
+                             current climate’ and is included with the expert’s consent. Elsewhere in the
+                             disclosure document, the directors of the company state that ‘given the
+                             expected boom in ecotourism, we anticipate the demand for our company’s
+                             services in the coming years will grow exponentially’. Section 716(2) does
+                             not require the expert to consent to this statement by the directors.
+
+
+
+© Australian Securities and Investments Commission March 2016                                             Page 11
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+Materiality and novelty
+              RG 55.37       The consent requirement applies even if a statement attributed to a person is
+                             not material or new. We will not overlook non-compliance with, or give
+                             exemptions from, s716(2) or 1013K(1) merely because a statement seems
+                             unimportant or standard.
+
+              RG 55.38       Directors who feel that a statement is not important enough to seek consent
+                             can use it without any type of attribution to another person: see RG 55.18(b)
+                             and RG 55.24.
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                             Page 12
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+C          What must an issuer do to comply with the
+           consent requirement?
+
+                               Key points
+
+                               This section provides guidance on what we expect issuers to do in order to
+                               comply with the consent requirement.
+
+                               The issuer must obtain consent to the use of the statement in the form and
+                               context in which the issuer includes it (e.g. ongoing or general consent will
+                               not meet the consent requirement).
+
+                               The issuer must also keep a record of the consent in a form that complies
+                               with the Corporations Act. The consent must be in writing and name the
+                               person giving it.
+
+                               The disclosure document or PDS must state that the person has given, and
+                               has not withdrawn, consent. The disclosure of the consent should identify
+                               the person’s statement specifically, follow the language of the provisions
+                               and must state that the person has given, and has not withdrawn, consent.
+
+
+Obtaining consent
+              RG 55.39       In satisfying the consent requirement, the issuer must obtain consent to its
+                             inclusion of the statement in the disclosure document or PDS in the form and
+                             context in which it is included: s716(2)(a) and 1013K(1)(a).
+
+              RG 55.40       For example, if an issuer includes an extract of a geologist’s report in a
+                             prospectus, the issuer must obtain consent for the inclusion of the extract in
+                             the section in which it is included in the prospectus. It is not sufficient for
+                             the issuer to only obtain consent to cite the geologist’s report in its entirety,
+                             or to cite the extract in a different section of the prospectus. The person must
+                             not have withdrawn the consent before the date of the disclosure document
+                             or PDS: s716(2)(c) and 1013K(1)(c).
+
+              RG 55.41       The consent of a company or firm should be given on its behalf by an
+                             authorised officer of the company or by a member of the firm.
+
+
+                             Ongoing or general consent
+
+              RG 55.42       Where a person gives ongoing or general consent or licence to use a
+                             statement (e.g. to all customers), this does not meet the consent requirement.
+                             This is so even if the consent is for limited purposes and subject to
+                             conditions (e.g. that issuers attribute the information to the author). The
+                             person has not consented to the use of the statement in the form and context
+                             in which the issuer includes it: s716(2)(a).
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                             Page 13
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+                             Form of consent
+
+              RG 55.43       The issuer must keep a record of the consent. The consent must be in writing
+                             and name the person giving it. The consent must be kept in its physical form
+                             or an electronic form capable of being reproduced in physical form: s735,
+                             1013K(2) and reg 7.9.76.
+
+
+
+Disclosing consent
+              RG 55.44       The statement in the disclosure document or PDS for which the person has
+                             given consent should identify the person’s statement specifically and follow
+                             the language of the provisions. For example, s716(2) and 1013K(1) draw
+                             attention to ‘the form and context in which’ a statement ‘is included’
+                             because these may colour the way it is read.
+
+              RG 55.45       The disclosure document or PDS must state that the person has given, and
+                             has not withdrawn, consent.
+
+              RG 55.46       For example, a disclosure document can include statements under s716(2),
+                             such as:
+                             (a)   ‘Consultant Pty Ltd has consented to the valuation of Blackacre on
+                                   page 10 being included in the form and context in which it is included,
+                                   and has not withdrawn this consent as at the date this disclosure
+                                   document is lodged with ASIC’; or
+                             (b)   ‘Consultant Pty Ltd has given its written consent to all statements by it
+                                   or said to be based on statements by it in the form and context in which
+                                   they are included, and has not withdrawn this consent as at the date this
+                                   prospectus is lodged with ASIC. The statements are in sections 4.1, 4.2
+                                   … of this prospectus’.
+
+              RG 55.47       We may take regulatory action where a person places artificial limitations on
+                             the context in which a statement may be read. For example, we may impose
+                             an interim stop order on the disclosure document or PDS: s739(3) or
+                             1020E(5). This is because people are already protected by the power to
+                             withhold consent to anything in the disclosure document or PDS that gives a
+                             misleading colour to their statements. By consenting to the inclusion of the
+                             statement in the form or context in which it appears, a person is not
+                             assuming liability for the disclosure document or PDS as a whole: see
+                             RG 55.3(a).
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                             Page 14
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+D          What relief is available?
+
+                               Key points
+
+                               This section sets out the relief that is available to issuers to cite a statement
+                               without the requirement to obtain consent from the maker of the statement.
+                               This section also provides some guidance on what we look at in deciding
+                               whether to grant individual relief.
+
+                               Relief from the consent requirement is available for citing government
+                               officials, books and journals, geological reports and trading data.
+
+                               We have provided relief from the requirement in s636(3) and 638(5) for a
+                               bidder or target to obtain consent to cite this information in a bidder’s or
+                               target’s statement.
+
+                               Relief is also available where the bidder’s or target statement fairly
+                               represents the statement and certain conditions are complied with.
+
+                               We may give individual relief from the consent requirement and the
+                               requirement in s636(3) and 638(5) in other circumstances.
+
+
+
+
+Overview of our relief
+
+              RG 55.48       Under ASIC Corporations (Consents to Statements) Instrument 2016/72,
+                             relief from the consent requirement is available for citing:
+                             (a)   statements made by government officials (see RG 55.51);
+                             (b)   statements already published in books, journals or comparable
+                                   publications (see RG 55.58);
+                             (c)   statements taken from certain geological reports (see RG 55.63); and
+                             (d)   trading data from prescribed financial markets or approved foreign
+                                   exchanges (see RG 55.66).
+
+              RG 55.49       ASIC Corporations (Takeover Bids) Instrument 2023/683 provides further
+                             relief from the consent requirement for certain information in a bidder’s or
+                             target’s statement: see RG 55.72.
+
+              RG 55.50       Where appropriate, we may also grant individual relief from the consent
+                             requirement in other circumstances. In general, we will look at the
+                             circumstances of the statement and the maker of the statement in
+                             determining whether or not to grant relief.
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                             Page 15
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+Government officials
+              RG 55.51       A disclosure document or PDS may include a statement by an official person
+                             or a statement in a public official document without consent: see ASIC
+                             Corporations (Consents to Statements) Instrument 2016/72.
+
+                                   Note: The ASIC logo must not be displayed or reproduced in a disclosure document or
+                                   PDS.
+
+              RG 55.52       This relief does not apply where the original statement was made in
+                             connection with the issuer, the offer or any business, property or person that
+                             is the subject of the disclosure document or PDS.
+
+              RG 55.53       We may give individual relief where a statement by an official person or in a
+                             public official document was made in connection with the issuer or the offer.
+                             However, we will not give the relief where:
+                             (a)   national interests are involved (e.g. in the context of a privatisation); or
+                             (b)   the statement was made for the purpose of being included in the
+                                   disclosure document or PDS.
+
+              RG 55.54       Without our relief, issuers would need to obtain consent to refer to
+                             statements of government officials and government publications (e.g. the
+                             Australian Bureau of Statistics and the Bureau of Meteorology). To obtain
+                             the consent of a government official or body may be onerous for an issuer.
+                             There is also a low risk of civil liability in this case.
+                                   Note: In any event, there would be no statutory liability for a government official or
+                                   body under, for example, item 5 of s729(1) if it did not consent.
+
+              RG 55.55       Guidance on the meaning of ‘public official document’ used in RG 55.51
+                             can be found in cases on evidence that have considered the term ‘public
+                             document’. A public document is one made by a public official as a result of
+                             a public inquiry and available to the public: Lord Blackburn in Sturla v
+                             Freccia [1874–80] All ER Rep 657. Documents do not become public
+                             official documents merely because they have been lodged with a government
+                             department or statutory authority and are maintained for public access on a
+                             registry by the department or authority.
+
+              RG 55.56       Our relief applies to statements made by a foreign ‘official person’ or
+                             contained in a foreign ‘public official document’. An issuer should be
+                             prepared to satisfy us that a foreign person is a foreign ‘official person’ or a
+                             foreign document is a document made by a foreign ‘official person’.
+                             However, our relief only covers statements by government officials made in
+                             their capacity as government officials.
+
+              RG 55.57       We note that disclosure documents have occasionally contained information
+                             based on summaries of resource exploration reports lodged by holders of
+                             exploration permits. These summaries have been prepared by staff of
+                             government departments, authorities or agencies. We do not regard these
+
+
+
+© Australian Securities and Investments Commission March 2016                                                        Page 16
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+                             summaries as statements by official persons or contained in public official
+                             documents. They do not state the views of the government department,
+                             authority or agency. However, other relief may be available for the use of
+                             these summaries or the underlying exploration reports: see RG 55.63.
+
+
+
+Books and journals
+              RG 55.58       ASIC Corporations (Consents to Statements) Instrument 2016/72 also
+                             exempts statements by authors used in disclosure documents or PDSs from
+                             the consent requirement. The relief applies to a correct and fair copy of (or
+                             an extract from) a book, journal or comparable publication.
+
+              RG 55.59       The relief does not apply where the original statement was made in
+                             connection with the issuer, the offer or any business, property or person that
+                             is the subject of the disclosure document or PDS.
+
+              RG 55.60       It is generally impractical for an issuer to obtain the consent of the author of
+                             a statement in a book, journal or other comparable publication where the
+                             statement is not specific to the issuer or its business. There is also a low risk
+                             of civil liability for the author in this case.
+
+                                   Note: In any event, there would be no statutory liability for the author under, for
+                                   example, item 5 of s729(1) if they did not consent.
+
+              RG 55.61       The phrase ‘book, journal or comparable publication’ includes statements in
+                             a form and of a standard similar to those normally contained in a book or
+                             journal, but made available through the internet or other electronic means. It
+                             excludes, for example, references to statements made in internet chat rooms,
+                             news groups and home pages with unaccountable content (i.e. with
+                             anonymous participants or without editorial control). For example, we would
+                             generally consider:
+                             (a)   professional reports on, or analyses of, an industry sector (whether
+                                   available for free or as part of a paid subscription service) to be
+                                   ‘comparable publications’ to which our relief applies; and
+                             (b)   analysis or commentary on an industry sector published in a blog post
+                                   as falling short of the standard required of ‘comparable publications’—
+                                   even where the author may hold relevant qualifications—due to the lack
+                                   of editorial control.
+
+              RG 55.62       Where issuers rely on our relief and include a statement from a book, journal
+                             or comparable publication without the consent of the author, we consider it
+                             best practice for the issuer to:
+                             (a)   appropriately reference the statements to the source document; and
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                                            Page 17
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+                             (b)   note that the author has not provided their consent for the statement to
+                                   be included in the disclosure document or PDS. If multiple statements
+                                   from the same source are included, this note need only be included as
+                                   part of the first reference to that document (provided it is clear that the
+                                   successive references are from the same source).
+
+
+
+Geological reports
+              RG 55.63       ASIC Corporations (Consents to Statements) Instrument 2016/72 gives relief
+                             from the consent requirement for a geologist’s report dealing with the
+                             estimation, assessment or evaluation of minerals in a disclosure document or
+                             PDS to cite a previous geological report where:
+                             (a)   the current geologist is either (or both) a Member or Fellow of the
+                                   Australasian Institute of Mining and Metallurgy (AusIMM) or the
+                                   Australian Institute of Geoscientists (AIG) with a minimum of five
+                                   years experience relevant to estimating, assessing and evaluating the
+                                   resources the subject of the report;
+                             (b)   the statement is made in, or based on, a statement made in the previous
+                                   geological report and publicly available (with or without payment of a
+                                   fee) from:
+                                   (i)    a government department, authority or agency of an Australian
+                                          state or territory; or
+                                   (ii)   a prescribed financial market;
+                             (c)   the previous geological report was not prepared in connection with the
+                                   offer of products under the disclosure document or PDS;
+                             (d)   the previous geological report was not prepared or commissioned by a
+                                   person with or from whom the issuer (or any associate of the issuer):
+                                   (i)    has a shared interest in the tenement that is the subject of the
+                                          disclosure document or PDS; or
+                                   (ii)   has purchased the tenement that is the subject of the disclosure
+                                          document or PDS; and
+                             (e)   the current geological report states, close to the first occurring reference
+                                   to the previous geological report, that the author of the previous report
+                                   has not consented to its use in the current report.
+
+              RG 55.64       A disclosure document or PDS relating to the acquisition or exploitation of
+                             mining tenements will often contain an independent technical assessment or
+                             valuation of the mining tenements.
+
+              RG 55.65       Inherent in the preparation of the reports is the need to refer to previous
+                             results and assessments on the mining tenements (historical results). In many
+                             cases, the historical results are obtained from an open file register or website
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                                Page 18
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+                             of a government department, authority or agency, or an open register or
+                             website of a prescribed financial market. The historical results are often
+                             obtained from geologists’ reports commissioned by previous holders of the
+                             tenements.
+
+
+
+Trading data
+              RG 55.66       ASIC Corporations (Consents to Statements) Instrument 2016/72 gives relief
+                             from the consent requirement for issuers to include in a disclosure document
+                             or a PDS trading data relating to trading on a prescribed financial market or an
+                             approved foreign exchange (e.g. the New York Stock Exchange) without the
+                             consent of the relevant market operator or of any other party who provided the
+                             trading data (e.g. Bloomberg, Reuters or IRESS). The disclosure document or
+                             PDS must also include a statement close to the first occurring trading data
+                             reference that the person who prepared the trading data has not consented to
+                             the use of the trading data.
+                                   Note: ‘Prescribed financial market’ is defined under reg 7.1.01. For a list of approved
+                                   foreign exchanges, see ASIC Corporations (Consents to Statements) Instrument
+                                   2016/72.
+
+              RG 55.67       Our relief applies where the information is quantitative data on financial
+                             product trading prices and volumes quoted on a prescribed financial market
+                             or an approved foreign exchange.
+
+              RG 55.68       Trading data is purely factual information. If the issuer adds commentary,
+                             analysis or deduction, the attribution to the market data provider should be
+                             clearly limited to the underlying trading data. Our relief extends to a citation
+                             where the market data provider:
+                             (a)   presents trading data in pictorial form (e.g. graphs, charts and
+                                   diagrams); and
+                             (b)   applies simpler, objective formulas to trading data (e.g. volume-
+                                   weighted average price (VWAP)).
+
+              RG 55.69       For our relief to apply, the information must not amount to subjective
+                             analysis or financial modelling and must retain its purely factual character.
+
+              RG 55.70       The consent requirement applies to raw trading information and other purely
+                             factual information just as it applies to professional opinion and analysis. We
+                             give relief because the risk of trading data being misleading or inaccurate is
+                             limited. It is also unlikely that the market data provider would be liable.
+
+                                   Note: In any event, there would be no statutory liability for the market data provider
+                                   under, for example, item 5 of s729(1) if it did not consent.
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                                       Page 19
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+Takeovers
+              RG 55.71       ASIC Corporations (Consents to Statements) Instrument 2016/72 also gives
+                             relief from the requirements under s636(3) and 638(5A) so that a bidder or
+                             target may cite the following kinds of statements in a bidder’s or target’s
+                             statements without consent:
+                             (a)   statements from government officials or in public official documents;
+                             (b)   statements in books, journals or similar publications;
+                             (c)   geological reports; and
+                             (d)   trading data.
+                                   Note: See also Regulatory Guide 9 Takeover bids (RG 9) and ASIC Corporations
+                                   (Takeover Bids) Instrument 2023/683.
+
+              RG 55.72       We have also provided relief from the consent requirement under ASIC
+                             Corporations (Takeover Bids) Instrument 2023/683 where a statement is
+                             made in a document lodged with ASIC (or the operator of prescribed
+                             financial markets), the bidder’s or target’s statement fairly represents the
+                             statement and:
+                             (a)   the bidder’s or target’s statement includes, or is accompanied by, a
+                                   correct and fair copy of the document or the part of the document that
+                                   contains the statement; or
+                             (b)   if the bidder’s or target’s statement is not accompanied by a copy of the
+                                   document or the part of the document that contains the statement:
+                                   (i)    the bidder or target gives a copy of the document or the part of the
+                                          document that contains the statement to a holder who asks for it
+                                          during the bid period within two business days of the request, free
+                                          of charge; and
+                                   (ii)   the bidder’s or target’s statement identifies the document or the part of
+                                          the document that contains the statement and informs holders of their
+                                          right to obtain a copy of the document (or part) free of charge.
+
+              RG 55.73       We may give individual relief from the requirement in s636(3) and 638(5) in
+                             other circumstances. Applicants for this relief should use the criteria in
+                             RG 55.74 as a guide.
+
+
+
+Other relief
+              RG 55.74       We may give case-by-case relief from the consent requirement in other
+                             circumstances. Generally, relief will be limited to circumstances where consent
+                             to use a statement is wholly impracticable or impossible to obtain. The
+                             following considerations will generally be relevant to our decision:
+                             (a)   Will the statement assist potential investors to make better informed
+                                   decisions (e.g. because it provides a context in which other material can
+                                   be better judged)?
+
+
+
+© Australian Securities and Investments Commission March 2016                                                Page 20
+                                   REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+                             (b)     Was the statement made in connection with a matter other than the
+                                     issuer, the offer or any business, property or person that is the subject of
+                                     the disclosure document or PDS?
+                             (c)     Is it wholly impracticable or impossible to obtain the statement maker’s
+                                     consent (e.g. the person is dead or, in the case of a corporation, does not
+                                     exist as an entity anymore or is in liquidation)?
+                             (d)     Is there any practical alternative to citing the statement for the
+                                     information it contains (e.g. would it be too expensive to replicate the
+                                     information contained in the statement)?
+                             (e)     Will the use of the statement in the disclosure document or PDS without
+                                     the person’s consent expose them to civil liability?
+
+                                     Note: In any event, there would be no statutory liability under, for example, item 5 of
+                                     s729(1) if the person did not consent.
+
+                             (f)     Is the information widely available to the public or is it available to
+                                     professional investors (see s9) but not other investors?
+                             (g)     Is the maker of the statement credible or authoritative on the subject
+                                     matter?
+                             (h)     Are the statements contained in unpublished material comparable to
+                                     published books and journals?
+
+              RG 55.75       In considering granting relief, we will consider the policy tension between
+                             the disclosure obligations of s710 and 1013E and the consent requirements.
+                             Without relief, material information has to be omitted from the disclosure
+                             document or PDS because consents are not available.
+
+              RG 55.76       Case law indicates that, in general, the author of a statement will not be
+                             civilly liable for the inclusion in a disclosure document of that statement
+                             (or a statement based on it) if the original statement was not made for the
+                             purpose of being included in the disclosure document or PDS: see Morgan
+                             Crucible Co plc v Hill Samuel Bank Ltd [1991] 1 All ER 148, Bride as
+                             Trustees for the Pinwernying Family Trust v KMG Hungerfords (1991) 109
+                             FLR 256 and Esanda Finance Corporation Ltd v Peat Marwick Hungerfords
+                             (Reg) (1997) 188 CLR 241.
+
+              RG 55.77       We will not normally give relief on the grounds of expense for reports
+                             recently obtained by an issuer, such as valuations and auditors’ reports
+                             provided to (or issued by) the issuer for internal use or publication in their
+                             annual report and notices of meeting. We would want to know why an expert
+                             from whom a report had recently been obtained had not consented to the
+                             report being used in a disclosure document or a PDS. An exception would be
+                             made if, for example, an auditor died after signing the audit report but before
+                             consenting to its use in the disclosure document or PDS.
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                                         Page 21
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+Applying for relief
+              RG 55.78       Applications for relief must address all of the criteria in RG 55.74 where
+                             relevant to the particular circumstances of that application and supply all
+                             relevant information.
+
+                                   Note: For more information on applying for relief, see Regulatory Guide 51
+                                   Applications for relief (RG 51).
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                                   Page 22
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+Key terms
+
+                                Term                      Meaning in this document
+
+                                AIG                       Australian Institute of Geoscientists
+
+                                ASIC                      Australian Securities and Investments Commission
+
+                                AusIMM                    Australasian Institute of Mining and Metallurgy
+
+                                bidder’s statement        Has the meaning given in s9
+
+                                consent requirement       The requirement for an issuer to obtain the consent of a
+                                                          person to include in a disclosure document or PDS a
+                                                          statement by the person, or a statement said in the
+                                                          disclosure document or PDS to be based on a statement
+                                                          by the person, under s716(2) or 1013K(1)
+
+                                Corporations Act          Corporations Act 2001, including regulations made for the
+                                                          purposes of that Act
+
+                                Corporations              Corporations Regulations 2001
+                                Regulations
+
+                                disclosure document       For an offer of securities, this includes a prospectus, a
+                                                          profile statement and an offer information statement
+
+                                INFO 155 (for             An ASIC information sheet (in this example numbered
+                                example                   155)
+
+                                prescribed financial      Has the meaning given in s9
+                                market
+
+                                Product Disclosure        A document that must be given to a retail client in relation
+                                Statement (PDS)           to the offer or issue of a financial product in accordance
+                                                          with Div 2 of Pt 7.9 of the Corporations Act
+                                                                Note: See s9 for the exact definition.
+
+                                reg 7.9.76 (for           A regulation of the Corporations Regulations (in this
+                                example)                  example numbered 7.9.76)
+
+                                RG 9 (for example)        An ASIC regulatory guide (in this example numbered 9)
+
+                                s716 (for example)        A section of the Corporations Act (in this example
+                                                          numbered 716)
+
+                                shorter PDS               A PDS that is required to comply with the shorter PDS
+                                                          regime
+
+                                shorter PDS regime        The requirements set out in Div 3A of Pt 7.9 of the
+                                                          Corporations Act as modified by Subdivs 4.2 to 4.2C and
+                                                          Schs 10B, C, D and E of the Corporations Regulations,
+                                                          which prescribe the content and length of the PDS for first
+                                                          home saver accounts, margin loans, superannuation
+                                                          products and simple managed investment schemes
+
+                                target’s statement        Has the meaning given in s9
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                                  Page 23
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+Related information
+                             Headnotes
+
+                             adviser, auditor, biochemist, brokers, consent, consent requirement,
+                             consultant, director, disclosure document, expert, geological report,
+                             geologist, government official, independent expert, issuer, market data
+                             providers, misleading statement, PDS, Product Disclosure Statement,
+                             publication, public official document, statement, valuer
+
+
+                             Legislative instruments
+
+                             ASIC Corporations (Consents to Statements) Instrument 2016/72
+
+                             ASIC Corporations (Takeover Bids) Instrument 2023/683
+
+
+                             Regulatory guides
+
+                             RG 9 Takeover bids
+
+                             RG 51 Applications for relief
+
+                             RG 228 Prospectuses: Effective disclosure for retail investors
+
+                             RG 254 Offering securities under a disclosure document
+
+
+                             Information sheets
+
+                             INFO 155 Shorter PDSs—Complying with requirements for superannuation
+                             products, simple managed investment schemes and simple sub-fund products
+
+
+                             Legislation
+
+                             Corporations Act, s9, 636(3), 638(5), 638(5A), 710, 712, 716(2), 728(1),
+                             729(1), 731, 733, 735, 739(3), 1013E, 1013K(1), 1013K(2), 1020E(5),
+                             1021L(1), 1022B(2), 1022B(3)(c), 1022B(7) and 1041E(1)
+
+                             Corporations Regulations, Pt 7.9, regs 7.1.01, 7.9.15DA, 7.9.11E, 7.9.11P,
+                             7.9.11X and 7.9.76
+
+                             Explanatory Memorandum to the Corporate Law Economic Reform Program
+                             Bill 1998, para 8.31
+
+
+                             Cases
+
+                             Sturla v Freccia [1874–80] All ER Rep 657
+
+                             Morgan Crucible Co plc v Hill Samuel Bank Ltd [1991] 1 All ER 148
+
+
+
+© Australian Securities and Investments Commission March 2016                                             Page 24
+                                REGULATORY GUIDE 55: Statements in disclosure documents and PDSs: Consent to quote
+
+
+
+
+                             Bride as Trustees for the Pinwernying Family Trust v KMG Hungerfords
+                             (1991) 109 FLR 256
+
+                             Esanda Finance Corporation Ltd v Peat Marwick Hungerfords (Reg) (1997)
+                             188 CLR 241
+
+
+                             Guidance notes
+
+                             Takeovers Panel Guidance Note 18 Takeover documents
+
+
+
+
+© Australian Securities and Investments Commission March 2016                                             Page 25
+

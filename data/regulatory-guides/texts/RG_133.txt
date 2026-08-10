@@ -1,0 +1,2721 @@
+REGULATORY GUIDE 133
+
+Funds management and
+custodial services: Holding
+assets
+
+December 2024
+
+
+About this guide
+This guide is for:
+    responsible entities of registered managed investment schemes
+     (registered schemes);
+    licensed providers of custodial services (licensed custody providers);
+    managed discretionary account (MDA) providers that are responsible to
+     clients for assets held under an MDA; and
+    investor directed portfolio service (IDPS) operators that are responsible
+     to clients for assets held under an IDPS.
+
+It explains the Australian financial services (AFS) licence obligations that
+apply to these entities in relation to holding assets and sets out minimum
+standards for asset holders.
+                                      REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in December 2024 and is based on legislation and
+                             regulations as at the date of issue.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 133 Funds management and custodial
+                                     services: Holding assets, issued July 2018 and June 2022
+                                    Superseded Regulatory Guide 133 Managed investments and custodial
+                                     or depository services: Holding assets, issued November 2013
+                                    Superseded Policy Statement 133 Managed investments: Scheme
+                                     property arrangements, issued August 1998, reissued October 1998
+                                     and June 1999, rebadged as a regulatory guide 5 July 2007
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                            Page 2
+                                      REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+Contents
+                             A      Overview .................................................................................................4
+                                    Purpose of this guide ...............................................................................4
+                                    Who this guide applies to.........................................................................5
+                                    Summary of our guidance........................................................................6
+                             B      Minimum standards and related requirements for asset holders.......8
+                                    Specific obligations for registered schemes ............................................8
+                                    Obligations for all asset holders who are licensed to hold assets ...........9
+                                    Obligations for all AFS licensees who engage asset holders..................9
+                                    What are the minimum standards and related requirements? ..............10
+                                    Organisational structure.........................................................................12
+                                    Staffing capabilities ................................................................................14
+                                    Capacity and resources .........................................................................15
+                                    Holding assets on trust ..........................................................................16
+                                    Keeping compliance records .................................................................17
+                                    Making client inquiries ...........................................................................17
+                             C      Requirements when engaging another asset holder .......................19
+                                    Specific obligations for registered schemes ..........................................19
+                                    Obligations for all AFS licensees who engage asset holders................19
+                                    Ensuring the asset holder meets the minimum standards ....................20
+                                    Requirements for the content of custody agreements ...........................23
+                                    Disclosure to retail clients of relationship with asset holder ..................31
+                                    Transfer of assets when asset holder is changed .................................32
+                             D      Compliance controls for licensed custody providers .....................33
+                                    Compliance controls must cover risks to client assets ..........................33
+                                    Compliance controls may vary...............................................................33
+                             E      Protection of rights for land used in registered schemes ...............35
+                                    Protecting members’ rights ....................................................................35
+                             F      Holding crypto-assets .........................................................................38
+                                    Risk management by asset holders regarding crypto-asset
+                                    exchanges used to obtain crypto-assets ...............................................40
+                             G      Relief from the obligation to separate assets ...................................42
+                                    Specific obligations for registered schemes ..........................................42
+                                    Obligations for other AFS licensees who are asset holders ..................42
+                                    Relief for omnibus accounts ..................................................................42
+                                    Relief does not extend to non-financial assets ......................................45
+                             Key terms .....................................................................................................46
+                             Related information .....................................................................................51
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                                      Page 3
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+A          Overview
+
+                              Key points
+
+                              This guide explains:
+                              • the obligations that apply to responsible entities of registered managed
+                                investment schemes (registered schemes), licensed providers of
+                                custodial services (licensed custody providers), managed discretionary
+                                account (MDA) providers and investor directed portfolio service (IDPS)
+                                operators in relation to holding assets;
+                              • the minimum standards and related requirements for asset holders;
+                              • what responsible entities, licensed custody providers, MDA providers
+                                and IDPS operators must do if they engage another asset holder;
+                              • the requirements for documented compliance controls;
+                              • the additional requirements that apply to primary production schemes
+                                that include rights for the use of land;
+                              • the limited relief we have given responsible entities of registered
+                                schemes from the obligation to separate assets to allow the use of
+                                omnibus accounts, and the requirements that apply when other
+                                Australian financial services (AFS) licensees use omnibus accounts;
+                                and
+                              • ASIC’s expectations regarding holding crypto-assets where the scheme
+                                property of a registered scheme includes crypto-assets, or a custodian
+                                holds crypto-assets that are financial products.
+
+
+
+
+Purpose of this guide
+              RG 133.1       This guide sets out minimum standards for asset holders to ensure that they
+                             meet their obligations under their AFS licence or delegation.
+
+              RG 133.2       We consider that clients’ confidence will be better maintained if asset
+                             holders, including non-licensees who hold assets under the licence of their
+                             client, are required to meet minimum standards to ensure that:
+                             (a)   client assets are not exposed to unnecessary risks because of the way
+                                   assets are held; and
+                             (b)   efficient operational arrangements exist for holding and dealing with
+                                   client assets.
+
+              RG 133.3       The minimum standards will help maintain client confidence in the provision
+                             of the relevant services and to promote a fair and efficient market for the
+                             provision of asset-holding services.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                          Page 4
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+Who this guide applies to
+              RG 133.4       This guide is for:
+                             (a)   responsible entities of registered schemes;
+                             (b)   licensed custody providers and, where relevant, entities that provide
+                                   custodial services incidentally;
+                             (c)   MDA providers that are responsible to clients for assets held under an
+                                   MDA;
+                             (d)   IDPS operators that are responsible to clients for assets held under an
+                                   IDPS; and
+                             (e)   other asset holders who hold assets under the licence of their client.
+
+                                   Note: For the purposes of this guide, we are excluding from the definition of ‘asset
+                                   holders’ persons who must be, or are customarily, used to clear, settle or hold assets to
+                                   participate in particular kinds of transactions on financial markets, such as certain
+                                   securities depositories and clearing systems.
+
+              RG 133.5       This guide applies to registered schemes that are also registered as
+                             Australian passport funds for the purposes of the Asia Region Funds
+                             Passport.
+
+              RG 133.6       This guide does not apply to the corporate director of a corporate collective
+                             investment vehicle (CCIV), a CCIV or a custodian engaged by the corporate
+                             director or CCIV. However:
+                             (a)   where the assets of the CCIV are held by the CCIV, the corporate
+                                   director may wish to consider the principles set out in this guide; and
+                             (b)   where the assets of the CCIV are held by a person other than the CCIV,
+                                   the corporate director may wish to consider the principles set out in this
+                                   guide when assessing whether that person has met the minimum
+                                   standards in reg 8B.5.10(2) of the Corporations Regulations 2001
+                                   (Corporations Regulations).
+
+
+                             Services that form part of a custodial service
+              RG 133.7       The minimum standards and related requirements apply to all asset holders.
+                             This is regardless of whether the services are provided as a main business of
+                             the provider or as an incidental provider. In some cases, the nature and scale of
+                             the services provided may affect what is required to meet the minimum
+                             standards.
+                                   Note: For an explanation of ‘incidental providers’, see Regulatory Guide 166 AFS licensing:
+                                   Financial requirements (RG 166).
+
+              RG 133.8       We consider that services performed as a result of holding financial
+                             products, or a beneficial interest in financial products, when providing a
+                             custodial service are a part of holding the assets and so form part of the
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                      Page 5
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             custodial services. On this basis, the following services form part of the
+                             custodial services when provided in that way:
+                             (a)   Exercising rights as a holder—this involves exercising the rights and
+                                   obligations associated with assets held that are interests or securities,
+                                   other than dealing in the assets. For example, this applies to:
+                                   (i)     exercising voting rights arising from a reorganisation or
+                                           restructure;
+                                   (ii)    electing to participate in dividend or distribution reinvestment
+                                           plans; and
+                                   (iii)   electing to accept offers made on the basis of holding the assets,
+                                           such as certain placements and rights issues.
+                             (b)   Tax reclamations—this involves reclaiming recoverable portions of tax
+                                   withheld by foreign taxation authorities from interest or dividend
+                                   payments on investments held.
+                             (c)   Reconciliations—this involves reconciling the asset holder’s own
+                                   records of its holdings against the records of various third parties, such
+                                   as fund managers, banks and other custodians.
+                             (d)   Record keeping and reporting—this involves maintaining statements of
+                                   holdings and completed transaction reports, and keeping records of
+                                   valuations provided to the asset holder.
+
+              RG 133.9       This list is not exhaustive. Other services may be provided from time to time
+                             that may be considered to form part of the provision of a custodial service.
+
+              RG 133.10      Other services that may be provided by licensed custody providers include:
+                             (a)   fund accounting;
+                             (b)   unit pricing and determining asset values and net asset values;
+                             (c)   compliance monitoring and reporting;
+                             (d)   maintaining and operating a basic deposit product; and
+                             (e)   performance measurement and monitoring.
+
+                                   Note: Information Sheet 141 Dealing and providing custodial or depository service as
+                                   secondary service (INFO 141) may also be relevant in determining whether a person is
+                                   providing a custodial service and subject to this guide.
+
+
+Summary of our guidance
+              RG 133.11      Table 1 summarises the sections of this guide and who each section applies to.
+                             The minimum standards and related requirements in relation to asset holding
+                             set out in this guide apply to entities in their capacity as asset holders or when
+                             engaging an asset holder.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                 Page 6
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+Table 1:    Summary of our guidance
+
+ Section of this guide                         Applies to
+
+ Section B: Minimum standards and              The following entities who hold assets:
+ related requirements for asset holders         responsible entities of registered schemes;
+                                                licensed custody providers;
+                                                MDA providers;
+                                                IDPS operators; and
+                                                other asset holders holding assets under the licence of their
+                                                 client
+
+ Section C: Requirements when                  The following entities who engage asset holders:
+ engaging another asset holder                  responsible entities of registered schemes;
+                                                 Note: Under the Australian Passport Rules, the operator of a registered
+                                                 scheme that is registered as an Australian passport fund for the
+                                                 purposes of the Asia Region Funds Passport is required to appoint an
+                                                 independent asset holder.
+                                                licensed custody providers;
+                                                MDA providers;
+                                                IDPS operators; and
+                                                other asset holders holding assets under the licence of their
+                                                 client
+
+ Section D: Compliance controls for            Licensed custody providers
+ licensed custody providers                      Note: For information on compliance controls for registered schemes,
+                                                 see Regulatory Guide 132 Funds management: Compliance and
+                                                 oversight (RG 132).
+
+ Section E: Protection of rights for land      Responsible entities of registered schemes whose members
+ used in registered schemes                    require the use of particular land on which the scheme will occur
+
+ Section F: Holding crypto assets               Responsible entities of registered schemes where the scheme
+                                                 property includes, or comprises, crypto-assets; and
+                                                custodians of crypto-assets that are financial products
+
+ Section G: Relief from the obligation         Responsible entities, licensed custody providers, MDA providers
+ to separate assets                            and IDPS operators, in relation to holding assets
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                   Page 7
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+B          Minimum standards and related requirements
+           for asset holders
+
+                              Key points
+
+                              An asset holder must meet minimum standards and related requirements if it
+                              holds, directly or indirectly, the assets of a registered scheme, MDA or IDPS.
+
+                              If a responsible entity, licensed custody provider, MDA provider or IDPS
+                              operator engages another asset holder it must also ensure that the asset
+                              holder, including an asset holder who holds assets under its AFS licence,
+                              meets these minimum standards: see Section C.
+
+                              To meet the minimum standards, asset holders must:
+                              • have an adequate organisational structure (see RG 133.34–RG 133.42);
+                              • have adequate staffing capabilities (see RG 133.44–RG 133.47);
+                              • have adequate capacity and resources to perform core administrative
+                                activities (see RG 133.48–RG 133.50); and
+                              • hold assets on trust for the client, which includes the obligation to
+                                separate assets (see RG 133.51–RG 133.54).
+
+                              An asset holder must keep records for seven years demonstrating
+                              compliance with the minimum standards for organisational structure,
+                              staffing capabilities, and capacity and resources: see RG 133.55.
+
+                              We expect an asset holder that is an AFS licensee to conduct checks on its
+                              clients before providing the service and then, as appropriate, to ensure that
+                              it meets its obligations: see RG 133.56–RG 133.59.
+
+
+
+
+Specific obligations for registered schemes
+              RG 133.12      The responsible entity of a registered scheme must hold scheme property on trust
+                             for members: see s601FC(2) of the Corporations Act 2001 (Corporations Act).
+
+                                  Note: In this guide, references to sections (s), chapters (Chs) and parts (Pts) are to the
+                                  Corporations Act, unless otherwise specified.
+
+              RG 133.13      Under s601FB(2), the responsible entity has the power to appoint an agent, or
+                             otherwise engage a person, to do anything that the responsible entity is
+                             authorised to do in relation to the scheme, including holding scheme property.
+
+              RG 133.14      The agent, or person otherwise engaged, must comply with any directions of
+                             the responsible entity in performing the delegated function or exercising the
+                             delegated power.
+
+              RG 133.15      A responsible entity or another person engaged by it to hold assets of a
+                             registered scheme does not need to hold an AFS licence authorising it to
+
+
+
+© Australian Securities and Investments Commission December 2024                                                       Page 8
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             provide a custodial service for this purpose. This is because holding those
+                             assets is not a custodial service under s766E(3)(b). Holding assets is a part of
+                             the operation of the registered scheme by the responsible entity.
+
+                                   Note: We do not consider that a controlled sub-trust is a separate scheme. This is
+                                   because the members (e.g. the responsible entity as trustee) have day-to-day control
+                                   over the sub-trust. We consider that any property held through a controlled sub-trust is
+                                   scheme property of the registered scheme that controls the sub-trust. As such, we will
+                                   regard the sub-trustee of a controlled sub-trust as a custodian who must comply with the
+                                   standards and requirements in Section C.
+
+
+
+
+Obligations for all asset holders who are licensed to hold assets
+              RG 133.16      An asset holder who is licensed to hold assets must:
+                             (a)   do all things necessary to ensure that it carries on the financial services
+                                   for which it is licensed efficiently, honestly and fairly;
+
+                                   Note: An MDA provider must be a licensed custody provider unless another licensed
+                                   custody provider directly contracts with all retail clients to be the asset holder (see
+                                   Regulatory Guide 179 Managed discretionary accounts (RG 179)).
+
+                             (b)   demonstrate that it meets the minimum standards and related
+                                   requirements set out in Section B of this guide, including when it
+                                   applies for an AFS licence to hold assets; and
+
+                                   Note: The minimum standards apply while the assets are held.
+
+                             (c)   meet any other obligations that apply to its AFS licence.
+
+                                   Note: For information on obligations that apply to an AFS licensee, see Regulatory
+                                   Guide 104 AFS licensing: Meeting the general obligations (RG 104) and Regulatory
+                                   Guide 105 AFS licensing: Organisational competence (RG 105).
+
+
+
+
+Obligations for all AFS licensees who engage asset holders
+              RG 133.17      If an AFS licensee engages another asset holder, it must do all things
+                             necessary to ensure that the asset holder meets the minimum standards and
+                             related requirements. This includes an asset holder who holds assets under
+                             the AFS licensee’s licence.
+
+                                   Note: See Section C for more information on the obligations that apply to AFS licensees
+                                   who engage another asset holder.
+
+
+                             Engaging non-licensees
+
+              RG 133.18      An asset holder engaged by an AFS licensee may or may not be an AFS
+                             licensee itself. If the asset holder is providing a financial service to clients on
+                             the AFS licensee’s behalf, it will generally need to be an authorised
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                      Page 9
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             representative of the AFS licensee, exempted from holding an AFS licence,
+                             or acting on behalf of another AFS licensee: see s911B(1).
+
+              RG 133.19      An asset holder engaged by an AFS licensee may also be providing a
+                             financial service to the AFS licensee. The client who is provided with a
+                             custodial service is the person on whose behalf the financial products are
+                             held, or for whom the financial products are held on trust. Depending on the
+                             terms of the arrangement, a person who contracts with a provider of a
+                             custodial service may be the client of that service or merely a person who is
+                             arranging for the service to be provided to another person. If the AFS
+                             licensee is the client, the asset holder may not need an AFS licence to hold
+                             the client assets that are financial products or beneficial interests in financial
+                             products, provided that the requirements in reg 7.6.01(1)(k) of the
+                             Corporations Regulations are satisfied.
+              RG 133.20      The exemption under reg 7.6.01(1)(k) may be relevant to sub-custodians and
+                             applies if:
+                             (a)   the asset holder holds the financial products on trust for, or on behalf of,
+                                   a licensed custody provider; and
+                             (b)   the licensed custody provider in turn holds the beneficial interest on
+                                   trust for, or on behalf of, the client of the licensed custody provider.
+              RG 133.21      This exemption takes into account the responsibility of an AFS licensee who
+                             holds the beneficial interest in the financial products, which may be a
+                             financial service provided to the person for whom the beneficial interest is
+                             held. This is to ensure that the holder of the financial products meets
+                             appropriate standards. The minimum standards for asset holders also reflect
+                             this responsibility by applying to AFS licensees that directly or indirectly
+                             engage other entities as asset holders of client assets. Ensuring that asset
+                             holders meet the minimum standards helps AFS licensees meet their broader
+                             AFS licensee obligations and safeguards clients’ interests.
+
+
+
+What are the minimum standards and related requirements?
+              RG 133.22      All asset holders must:
+                             (a)   have an adequate organisational structure (see RG 133.34–RG 133.43);
+                             (b)   unless they engage another asset holder to hold all relevant assets—
+                                   have adequate staffing capabilities (see RG 133.44–RG 133.47);
+                             (c)   unless they engage another asset holder to hold all relevant assets—
+                                   have adequate capacity and resources to perform core administrative
+                                   activities (see RG 133.48–RG 133.50); and
+                             (d)   hold assets on trust for the client, which includes the obligation to
+                                   separate assets (see RG 133.51–RG 133.54).
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 10
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+              RG 133.23      These minimum standards and related requirements apply when:
+                             (a)   the asset holder is the responsible entity, licensed custody provider,
+                                   MDA provider or IDPS operator, or another asset holder holding assets
+                                   under the AFS licence of its client;
+                             (b)   the asset holder is engaged by the responsible entity, licensed custody
+                                   provider, MDA provider or IDPS operator; or
+
+                                   Note: See Section C for more information on when another asset holder is engaged. If
+                                   an asset holder engages another asset holder, it must ensure that the engaged asset
+                                   holder meets the minimum standards.
+
+                             (c)   the custodial services are provided as a main business of the provider or
+                                   merely incidentally (see RG 133.7–RG 133.10).
+
+              RG 133.24      The minimum standards are set out in the following legislative instruments,
+                             which modify the Corporations Act:
+                             (a)   ASIC Corporations (Asset Holding Standards for Responsible Entities)
+                                   Instrument 2024/16;
+                             (b)   ASIC Corporations (Custody Standards for Providers of Custodial and
+                                   Depository Services) Instrument 2024/17;
+                             (c)   ASIC Corporations (Managed Discretionary Account Services)
+                                   Instrument 2016/968; and
+                             (d)   ASIC Corporations (Investor Directed Portfolio Services) Instrument
+                                   2023/669.
+
+                                   Note: The application of the minimum standards by legislative instrument replaces the
+                                   AFS licence conditions in Pro Forma 209 Australian financial services licence
+                                   conditions (PF 209). PF 209 has been amended accordingly.
+
+              RG 133.25      A responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator that engages an asset holder to hold assets must keep records
+                             demonstrating compliance with the minimum standards for organisational
+                             structure, staffing capabilities, and capacity and resources: see RG 133.55.
+                             These records must be kept for seven years.
+
+              RG 133.26      We expect asset holders that are AFS licensees to conduct checks on their
+                             clients before providing the service and then, as appropriate, to ensure that
+                             the asset holder will meet its AFS licensee obligations: see RG 133.56–
+                             RG 133.59.
+
+
+                             Meeting the minimum standards and related requirements
+
+              RG 133.27      All asset holders must meet these minimum standards and related
+                             requirements, as set out in Section B.
+
+              RG 133.28      In some cases, the nature and scale of the services provided may affect what
+                             is required to meet the minimum standards. An asset holder’s arrangements
+                             for meeting the minimum standards may vary depending on the particular
+
+
+
+© Australian Securities and Investments Commission December 2024                                                 Page 11
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             assets being held. We have not prescribed specific arrangements for different
+                             asset holders.
+
+              RG 133.29      We expect that an asset holder will seek independent verification of:
+                             (a)   the robustness of its compliance controls that apply to the asset holding,
+                                   taking into account the nature of the assets; and
+                             (b)   in the case of a registered scheme, whether the asset holder is the
+                                   responsible entity or a related party of the responsible entity.
+
+              RG 133.30      A responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator must establish adequate procedures for giving instructions to:
+                             (a)   if it is the asset holder, its custody staff; or
+                             (b)   if it has engaged an asset holder, the asset holder.
+
+              RG 133.31      It must ensure that the associated risks are managed appropriately and
+                             reasonable compliance controls are in place to ensure the instructions are
+                             followed. It should consider relevant industry best practice for providing
+                             instructions, including data, when establishing its procedures for interacting
+                             with the asset holder.
+
+              RG 133.32      A responsible entity must set out in writing and implement a reasonable
+                             process for determining:
+
+                             (a)   whether it should hold assets or scheme property that it is permitted to
+                                   hold; or
+
+                             (b)   if it will engage another person as asset holder, which asset holder and
+                                   on what terms.
+
+              RG 133.33      The process must apply a reasonable written policy approved by the
+                             directors of the responsible entity. The written policy must address the
+                             potential conflicts of interest and other considerations relevant to the best
+                             interests of members.
+
+
+
+Organisational structure
+              RG 133.34      An asset holder must have an organisational structure that supports the
+                             separation of the assets held from its own assets and those of any other client
+                             or managed investment scheme. The exception to this is omnibus accounts:
+                             see Section G. We consider that the use of nominee companies is a means of
+                             separating client assets.
+
+              RG 133.35      The requirements for organisational structure do not apply when all the
+                             financial products or beneficial interests in financial products in which the
+                             asset holder has an interest are held by another person that it appoints.
+                             However, in that case the asset holder must still ensure that it has appropriate
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 12
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             controls to appoint and monitor delegates and that its arrangements for
+                             managing conflicts arising from this function are adequate. We encourage
+                             asset holders to separate staff responsible for appointing and monitoring
+                             sub-custodians from staff involved in investment management decisions.
+                             The asset holder also has an obligation to ensure sub-custodians comply with
+                             the organisational structure requirements. An exception applies for assets
+                             outside Australia, if this is not reasonably practicable.
+
+              RG 133.36      Asset holders must ensure that custodial staff and their managers are
+                             segregated from staff performing other functions in a way that minimises the
+                             potential for a conflict of interest arising between:
+                             (a)   the duties of custodial staff; and
+                             (b)   the duties and interests of persons who make investment decisions,
+                                   trading decisions or other discretionary decisions resulting in the
+                                   transfer or disposal of client assets.
+
+              RG 133.37      The exception to this is discretionary decisions on certain at-call deposit
+                             accounts with regulated deposit takers and foreign exchange transactions.
+
+              RG 133.38      This is particularly important where the asset holder is the responsible entity,
+                             MDA provider or IDPS operator performing transactional functions, or a
+                             related body corporate.
+
+              RG 133.39      Custodial staff and other staff involved in these discretionary decisions must
+                             be located sufficiently separately to reduce, as far as is reasonably
+                             practicable, the risk of inappropriate influence on decisions relating to
+                             holding client assets.
+
+              RG 133.40      In addition, asset holders must have a documented policy designed to ensure
+                             that custodial staff are not influenced to act other than in accordance with
+                             their duties because of a conflict of interest. The policy must be approved by:
+                             (a)   the asset holder’s directors or governing body;
+                             (b)   a senior manager authorised to give approval (by the directors or
+                                   governing body); or
+                             (c)   for an AFS licensee that is a foreign company, its senior officer in
+                                   Australia.
+
+              RG 133.41      The asset holder must undertake reasonable checks to ascertain and
+                             document whether there has been any attempt to inappropriately influence
+                             custodial staff, and must take reasonable action if this occurs.
+
+                                   Note: Where the asset holder is an AFS licensee, it also has a general obligation to have
+                                   adequate arrangements to manage its conflicts of interest. For information on managing
+                                   conflicts of interest, see Regulatory Guide 181 Licensing: Managing conflicts of interest
+                                   (RG 181).
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                   Page 13
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+              RG 133.42      Reporting lines must be independent of potentially conflicting activities up
+                             to the level of the managing director or senior officer in Australia. An asset
+                             holder must have arrangements that ensure custodial staff who are not
+                             involved in potentially conflicting activities can report directly, or through
+                             other custodial staff:
+                             (a)   to the board of directors or governing body of the client;
+                             (b)   for a registered scheme with a compliance committee—to the
+                                   committee; or
+                             (c)   for non-Australian clients—to the most senior officer of the client in
+                                   Australia, or the relevant foreign jurisdiction in which the assets are held.
+
+              RG 133.43      An asset holder’s organisational structure must ensure that custodial staff can
+                             report directly to the directors of the asset holder or, in the case of a
+                             responsible entity, the compliance committee. This can be directly or through
+                             other custodial staff. The custodial staff and their managers must not also be
+                             responsible for investment decisions, trading decisions or other discretionary
+                             decisions resulting in the transfer or disposal of client assets. The exception to
+                             this is discretionary decisions on holding certain at-call deposit accounts with
+                             regulated deposit takers and foreign exchange transactions.
+
+
+Staffing capabilities
+              RG 133.44      Custodial staff must have the knowledge and skills necessary to properly
+                             perform their functions relating to the custodial property. The asset holder
+                             must provide adequate ongoing training and educational programs so that
+                             staff knowledge remains at a level necessary for performing their assigned
+                             responsibilities. The training must cover the asset holder’s legal obligations,
+                             to the extent relevant to enable the staff members to perform their particular
+                             responsibilities relating to custodial property.
+
+              RG 133.45      Responsible entities, licensed custody providers, MDA providers and IDPS
+                             operators have obligations to conduct ‘know your staff’ risk-based due
+                             diligence inquiries under the Anti-Money Laundering and Counter-
+                             Terrorism Financing Act 2006 (AML/CTF Act).
+
+              RG 133.46      In addition to these inquiries, we expect that résumé, police and reference
+                             checks would be carried out, where appropriate. We also expect appropriate
+                             oversight to be applied, to address the risk of fraud and any other risks in
+                             relation to the asset holding (including exercising rights as holder) that might
+                             arise from the engagement of an employee.
+
+              RG 133.47      We expect an asset holder to assess the risks associated with the various
+                             employee functions within its organisation, and design measures that it
+                             considers are appropriate to the nature of the risks faced by it in relation to
+                             potential fraud (e.g. mandatory absence periods, dual approval processes,
+                             staff rotation and ‘maker/checker’ processes).
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 14
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+Capacity and resources
+              RG 133.48      An asset holder’s staff must have the necessary time and authority to
+                             perform their duties associated with holding client assets. This will vary,
+                             depending on the nature of the assets.
+
+              RG 133.49      The asset holder must make resources available to custodial staff, including
+                             in specialist areas, to the extent necessary for them to adequately perform
+                             their duties. This is likely to include:
+                             (a)   computer systems that are reasonably up to date and secure from any
+                                   actual or potential threats, including from fraud;
+                             (b)   systems capable of handling record keeping and transaction processing
+                                   appropriate to the volume of transactions and capable of reliably
+                                   identifying assets for each client, particularly when omnibus accounts
+                                   are used;
+                             (c)   systems capable of handling client instructions for assets held
+                                   (e.g. exercising voting rights or other rights conferred on the asset
+                                   holder on client instructions);
+                             (d)   procedures for accurately recording all client assets held, all movements
+                                   of those assets and evidence of authorisation for such movements. This
+                                   includes who gave authorisation, how and when, and all income and
+                                   other related administrative activities;
+                             (e)   access to information sources that may be relevant to being aware of
+                                   action that may be taken in exercising rights as an asset holder and
+                                   pricing information;
+                             (f)   memberships at central securities depositories, where relevant to client
+                                   assets;
+                             (g)   access to and, if necessary, membership of any relevant settlement and
+                                   clearance systems;
+                             (h)   where appropriate, access to relevant and appropriate domestic or global
+                                   sub-custodial networks;
+                             (i)   where physical assets are held, secure physical storage;
+                             (j)   appropriate business continuity and disaster recovery procedures; and
+                                   Note: AFS licensees that are bodies regulated by the Australian Prudential Regulation
+                                   Authority (APRA) are excluded from the requirement in s912A(1)(h) to have risk
+                                   management systems. However, responsible entities that are trustees of regulated
+                                   superannuation funds must meet the requirement in s912A(1)(h), except for risks arising
+                                   solely from the operation of the regulated superannuation fund by the trustee.
+
+                             (k)   appropriate systems and procedures for change management.
+
+              RG 133.50      In all circumstances, such systems, processes and procedures should ensure that
+                             opportunities for fraud and operational error are reduced as far as reasonably
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                 Page 15
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             practicable. As part of having adequate risk management arrangements for AFS
+                             licensees to whom that requirement applies, we expect that:
+
+                             (a)   AFS licensees that are responsible for giving instructions on the use of
+                                   assets where high-volume transactions are likely to occur will ensure that
+                                   automated systems are used to authenticate instructions. However, we
+                                   recognise that there may be exceptional circumstances where it is only
+                                   practical to use manual systems; and
+
+                             (b)   asset holders will have reasonable capacity to accept and act on instructions
+                                   through such processes.
+
+
+
+Holding assets on trust
+              RG 133.51      Responsible entities, licensed custody providers, MDA providers and IDPS
+                             operators must do all things necessary to ensure that they, and any other
+                             asset holder they engage, hold the relevant assets on trust. This is except for
+                             assets held:
+                             (a)   outside of Australia where a trust structure is not recognised under the
+                                   foreign law and it is reasonable to hold the assets in accordance with the
+                                   foreign law;
+                             (b)   outside of Australia where it is not reasonable to hold the assets on trust
+                                   under the foreign law and the client has documented that they are
+                                   satisfied that the assets are held in a manner that, given the relevant
+                                   laws, provides reasonably effective protection in case of insolvency of
+                                   the asset holder. This includes the basis on which the asset holder is
+                                   satisfied;
+                             (c)   under the requirements for omnibus accounts; or
+
+                                   Note: See Section G for information on omnibus accounts.
+
+                             (d)   if the asset holder is providing a custodial service through its authorised
+                                   representative, where:
+                                   (i)    the asset holder is liable to the client for the acts and omissions of
+                                          the authorised representative as if they were the acts or omissions
+                                          of the asset holder; and
+                                   (ii)   revenue received from the client in relation to the provision of the
+                                          custodial service is revenue of the asset holder.
+
+                                   Note: The conditions in RG 133.51(d) avoid the application of regulatory requirements
+                                   that could create an incentive for an asset holder to engage an authorised representative
+                                   to hold the assets on its behalf.
+
+              RG 133.52      The trust may be a bare trust or directed trust. A directed trust is held on the
+                             basis that the asset holder holding the assets will have no active powers and
+                             limited duties in relation to the trust assets, except as provided for in the
+                             custody agreements.
+
+
+
+© Australian Securities and Investments Commission December 2024                                                    Page 16
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+              RG 133.53      In the case of a deposit-taking facility, the rights under the facility (rather
+                             than any money that has been deposited in the account) are the client assets.
+                             It is these rights that should be held on trust. For example, this can be
+                             achieved by establishing the account on the basis that the account is recorded
+                             in the issuer’s records as ‘X Ltd as trustee for Y registered scheme’. In this
+                             example, X Ltd may be the responsible entity or a custodian. We consider an
+                             issuer of a deposit-taking facility cannot hold the facility on trust.
+
+              RG 133.54      Except where permitted for certain omnibus accounts, an asset holder must also:
+                             (a)   identify the assets, as far as is reasonably practicable, that are held for a
+                                   client; and
+                             (b)   keep the assets of a client held on trust separate from the assets of:
+                                   (i)    the asset holder; and
+                                   (ii)   any other person or scheme (in the case of managed investment
+                                          schemes).
+
+
+
+Keeping compliance records
+              RG 133.55      An asset holder must keep records demonstrating how it has done all things
+                             necessary to ensure the minimum standards are met for organisational structure,
+                             staffing capabilities, and capacity and resources (as set out in RG 133.34–
+                             RG 133.50). These records must be kept for seven years.
+
+
+
+Making client inquiries
+              RG 133.56      Businesses regulated under the AML/CTF Act have obligations to conduct
+                             certain ‘know your client’ risk-based due diligence inquiries, to the extent
+                             that they are ‘designated service providers’ under the AML/CTF Act.
+
+              RG 133.57      In addition, we expect asset holders that are AFS licensees to conduct pre-
+                             contract inquiries—and subsequent inquiries, when appropriate—about their
+                             clients. In conducting these inquiries, we expect the asset holder to take into
+                             account the client’s circumstances and other circumstances. These inquiries
+                             will help ensure that AFS licensees meet their obligations to provide
+                             financial services efficiently, honestly and fairly. They will also reduce the
+                             risk of unexpected differences in capabilities or service requirements, which
+                             could lead to potentially avoidable operational risks and other issues. Such
+                             inquiries may form part of the adequate risk management systems that AFS
+                             licensees must have in place under s912A(1)(h).
+
+                                   Note: Bodies regulated by APRA are excluded from the requirement in s912A(1)(h)
+                                   unless they are responsible entities that are also trustees of regulated superannuation
+                                   funds (in which case, the exclusion is limited to risks arising solely from the operation
+                                   of a regulated superannuation fund by the trustee).
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                     Page 17
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+              RG 133.58      These inquiries may also produce information that forms part of the factual
+                             background against which the AFS licensee can meet its obligations to report
+                             to ASIC in certain circumstances.
+
+              RG 133.59      We suggest that asset holders engaged to provide services to another person
+                             consider making the following inquiries about their clients:
+                             (a)   when assets are to be held by the asset holder—identification of these
+                                   assets (from at least the client), clarification of the sources of pricing for
+                                   assets that are to be applied by the asset holder, and reconciliation of
+                                   holdings against relevant counterparties (such as unit registries) and on
+                                   transition from a retiring asset holder;
+                             (b)   when acting as a licensed custody provider—verification of the
+                                   wholesale status of the client, unless the licensed custody provider
+                                   complies on the basis that the client is a retail client;
+                             (c)   review of the scope of the business and breadth of the operation for
+                                   which custody is provided, including what assets the asset holder may
+                                   be called on to hold and what transactions it may be called on to
+                                   undertake;
+                             (d)   understanding the process for provision of instructions to the asset
+                                   holder, including from a third-party fund manager or investment
+                                   administrator;
+                             (e)   an assessment of whether the asset holder is able to carry out the
+                                   mandate of the client (e.g. can the asset holder hold the type of assets
+                                   involved and provide the reporting required by the client for these
+                                   assets?); and
+                             (f)   review of public registers concerning a corporate client’s status and
+                                   licences.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 18
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+C          Requirements when engaging another asset
+           holder
+
+                              Key points
+
+                              Responsible entities, licensed custody providers, MDA providers or IDPS
+                              operators that arrange for another person to hold client assets must take
+                              certain steps to protect clients.
+
+                              When engaging an asset holder, they must:
+                              • ensure that they have a basis to be confident that the asset holder will
+                                meet the minimum standards in Section B, and document how they do
+                                this; and
+                              • monitor ongoing compliance with the minimum standards and deal
+                                appropriately with any deficiencies that arise (see RG 133.65–
+                                RG 133.80).
+
+                              They must ensure that there is a legally enforceable agreement, which
+                              addresses certain issues, with any asset holder they engage (see
+                              RG 133.81–RG 133.108) or any master custodian they engage (see
+                              RG 133.120–RG 133.123).
+
+                              The agreement must also address certain issues: see RG 133.109–
+                              RG 133.119. For retail clients, we expect the engagement of the asset
+                              holder to be disclosed and the role of the asset holder to be properly
+                              explained: see RG 133.124–RG 133.125.
+
+                              If a responsible entity changes the asset holder, it must consider whether it
+                              is appropriate to obtain an independent report on the transfer of assets: see
+                              RG 133.126.
+
+
+
+
+Specific obligations for registered schemes
+              RG 133.60      The responsible entity of a registered scheme has power to appoint an asset
+                             holder to hold scheme property under s601FB(2).
+
+              RG 133.61      A responsible entity that engages an asset holder to hold scheme property is
+                             liable to members for the acts and omissions of the asset holder under s601FB(2).
+
+
+
+Obligations for all AFS licensees who engage asset holders
+              RG 133.62      An AFS licensee may engage another asset holder because:
+                             (a)   it is not permitted to hold assets:
+                                   (i)   under its AFS licence (e.g. because it cannot meet the financial
+                                         requirements in RG 166); or
+
+
+
+© Australian Securities and Investments Commission December 2024                                          Page 19
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                                   (ii)   under the Australian Passport Rules; or
+
+                                          Note: The Australian Passport Rules are the Corporations (Passport) Rules 2018
+                                          made under s1211(1) and 1211A by the Australian Minister responsible for the
+                                          Asia Region Funds Passport. Under s1211(2), the Australian Passport Rules must
+                                          be substantially the same as the Passport Rules set out in Annex 3 to the
+                                          Memorandum of Cooperation on the Establishment and Implementation of the
+                                          Asia Region Funds Passport (Memorandum of Cooperation).
+
+                             (b)   it does not wish to be an asset holder for the relevant assets.
+
+                             If a responsible entity engages another asset holder because it does not meet
+                             the financial requirements under ASIC Corporations (Financial
+                             Requirements for Responsible Entities, IDPS Operators and Corporate
+                             Directors of Retail CCIVs) Instrument 2023/647, it must ensure that all the
+                             relevant assets are held by another person. This is apart from any exceptions
+                             permitted under ASIC Instrument 2023/647. For responsible entities, these
+                             exceptions are ‘Tier $500,000 class assets’ and ‘special custody assets’.
+
+                                   Note: For definitions of these terms, see ASIC Instrument 2023/647 and RG 166.
+
+              RG 133.63      A responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator must also ensure that client assets are held on trust and segregated
+                             from:
+                             (a)   its own property; and
+                             (b)   in the case of a registered scheme—the property of any other scheme.
+
+                                   Note: Omnibus accounts are excepted from this requirement (see Section G).
+
+              RG 133.64      If a person applies for an AFS licence as a responsible entity, licensed
+                             custody provider, MDA provider or IDPS operator and plans to engage
+                             another asset holder, it will need to demonstrate that it will ensure that any
+                             asset holder that holds client assets on its behalf meets the minimum
+                             standards in Section B.
+
+
+
+Ensuring the asset holder meets the minimum standards
+              RG 133.65      The minimum standards in Section B apply to all asset holders. This is
+                             regardless of whether the asset holder is engaged by a responsible entity,
+                             licensed custody provider, MDA provider or IDPS operator directly or is a
+                             sub-custodian engaged by another person (a master custodian) authorised by
+                             the responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator. The minimum standards also apply if there are further links in a
+                             chain (e.g. in the case of a sub-sub-custodian).
+
+              RG 133.66      A responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator does not routinely need to explain to us how its choice of asset
+                             holder or master custodian will meet the minimum standards when it applies
+                             for an AFS licence or otherwise. However, when applying for an AFS
+
+
+
+© Australian Securities and Investments Commission December 2024                                                 Page 20
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             licence it will need to explain the process it will use. If the responsible
+                             entity, licensed custody provider, MDA provider or IDPS operator plans to
+                             engage another person as asset holder directly, or indirectly through a master
+                             custodian, it must be able to demonstrate how it will:
+                             (a)   ensure any asset holder that is engaged meets the minimum standards;
+                             (b)   monitor ongoing compliance with the minimum standards and deal with
+                                   any deficiencies that arise; and
+                             (c)   achieve the outcomes in RG 133.66(a)–RG 133.66(b) where the assets
+                                   are outside Australia, except where exceptions are recognised.
+
+              RG 133.67      Where appropriate, the responsible entity, licensed custody provider, MDA
+                             provider or IDPS operator may be able to meet the obligations in RG 133.66
+                             in relation to an asset holder that is appointed by a master custodian by
+                             seeking appropriate information or assurance from the master custodian.
+
+              RG 133.68      To check compliance, we may ask for written evidence at any time about
+                             how the responsible entity, licensed custody provider, MDA provider or
+                             IDPS operator is satisfied that a particular person should be appointed or
+                             remain as the asset holder.
+
+              RG 133.69      A responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator must ensure that any relevant master custodian has adequate
+                             processes. This includes adequate processes for selecting, monitoring and
+                             reviewing any other person engaged as asset holder (even if the asset holder
+                             is a related party) and taking appropriate action on any deficiency of
+                             performance.
+
+              RG 133.70      Key processes must be documented. This includes the processes the
+                             responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator has followed or will follow for appointing, monitoring and
+                             reviewing the activities of the asset holder or master custodian. Where they
+                             engage an asset holder that is a related party, they must have adequate
+                             arrangements to manage any conflicts of interest under s912A(1)(aa) to
+                             ensure that it meets all its obligations. This includes its obligation to ensure
+                             that the minimum standards are met.
+
+                                   Note: For more information on managing conflicts of interest, see RG 181.
+
+
+                             Selecting an asset holder
+
+              RG 133.71      A responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator must follow a reasonable documented process in selecting an
+                             appropriate asset holder or master custodian. We expect it will consider, for
+                             example:
+                             (a)   the adequacy of financial, human and technological resources, and risk
+                                   management systems of the asset holder; and
+
+
+
+© Australian Securities and Investments Commission December 2024                                               Page 21
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             (b)   where it engages a master custodian—the basis on which the master
+                                   custodian will engage any sub-custodian.
+
+              RG 133.72      For a responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator, the engagement must be in accordance with a documented policy
+                             approved by the directors. The policy must address any conflict of interest
+                             that might arise from the engagement and, in the case of a responsible entity,
+                             any other considerations relevant to the best interests of members.
+
+              RG 133.73      The appropriateness of the policy must be reviewed at least every 13 months.
+                             At our request, a responsible entity, licensed custody provider, MDA provider
+                             or IDPS operator must, at its own expense, arrange for a report on the
+                             effectiveness or reasonableness of the policy. The written direction may
+                             specify who is to prepare the report and when.
+
+              RG 133.74      We expect that the risks arising from engaging an asset holder will be
+                             addressed in the risk management arrangements of a responsible entity,
+                             licensed custody provider, MDA provider or IDPS operator. We also expect
+                             responsible entities, licensed custody providers, MDA providers or IDPS
+                             operators to apply appropriate resources to ensure that any arrangements for
+                             holding assets are consistent with their obligations. This includes ensuring that
+                             the minimum standards are met.
+
+
+                             Monitoring ongoing compliance
+
+              RG 133.75      A responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator must have an established process to monitor and assess an asset
+                             holder’s performance of the asset holder’s obligations.
+
+              RG 133.76      If the responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator delegates decisions to the asset holder about which authorised
+                             deposit-taking institution (ADI) or foreign equivalent are used, or how
+                             foreign exchange transactions are entered, they must be satisfied about the
+                             asset holder’s written processes for:
+                             (a)   determining which account to use;
+                             (b)   monitoring performance of the issuer’s obligations; and
+                             (c)   taking action in case of a deficiency arising from the failure of the
+                                   issuer of the account.
+
+              RG 133.77      In addition, if the asset holder is permitted to choose to use its associate, a
+                             responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator will need to check the adequacy of the process to ensure that the
+                             conflict is managed so outcomes are no less favourable than if there was not
+                             an association.
+
+                                   Note: A responsible entity of a registered scheme must also comply with Pt 5C.7 about
+                                   related party transactions.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                 Page 22
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+              RG 133.78      A responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator must ensure that records of the relevant assets are kept in a way that
+                             enables the holding of the assets to be audited. It should also ensure that it
+                             enforces contractual rights to a written annual acknowledgement by the asset
+                             holder that any relevant assets are held in compliance with the minimum
+                             standards. This includes that the assets are held on trust when required and
+                             separated, subject to the permitted use of omnibus accounts. This also applies
+                             where a master custodian engages an asset holder.
+
+                                   Note: For the use of omnibus accounts, see Section G.
+
+              RG 133.79      In addition, we expect a responsible entity, licensed custody provider, MDA
+                             provider or IDPS operator to seek:
+                             (a)   information to satisfy itself that the asset holder’s internal processes and
+                                   controls are adequate and continue to operate effectively, and that they
+                                   are subject to appropriate independent checking; and
+                             (b)   periodic information from the asset holder about the effectiveness of
+                                   such controls, and actions taken or planned to address any concerns.
+
+              RG 133.80      We expect that, where appropriate, a responsible entity, licensed custody
+                             provider, MDA provider or IDPS operator will obtain a copy of and consider
+                             an independent audit of the effectiveness of the controls applying to the asset
+                             holding. This could be an audit based on Guidance Statement GS 007 Audit
+                             implications of the use of service organisations for investment management
+                             services, issued by the Auditing and Assurance Standards Board (AUASB), or
+                             another appropriate international equivalent (e.g. Statement on Standards for
+                             Attestation Engagements SSAE No. 18 Attestation standards: Clarification
+                             and recodification (PDF 956 KB). This audit may be performed on the basis
+                             of an engagement by the asset holder.
+
+                                   Note: GS 007 is designed to provide detailed and transparent reporting on relevant
+                                   control frameworks of asset holders and other custodians. It includes guidance on how
+                                   to apply the AUASB’s relevant auditing and assurance standards when preparing audit
+                                   and assurance reports on the description, design and operating effectiveness of the
+                                   service organisation’s controls over the investment management services.
+
+
+
+
+Requirements for the content of custody agreements
+
+                             Agreement with an asset holder
+
+              RG 133.81      A responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator must ensure that there is a legally enforceable agreement with any
+                             asset holder it engages. There must be an agreement with any master
+                             custodian and also between any master custodian and asset holder (sub-
+                             custodian) that addresses the relevant issues. The agreement must generally
+                             be in writing, unless the criteria in RG 133.122–RG 133.123 are met.
+
+
+
+© Australian Securities and Investments Commission December 2024                                                 Page 23
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+              RG 133.82      The agreement with an asset holder must address the issues in RG 133.83–
+                             RG 133.108.
+
+                             Rights to review and monitor the asset holder
+
+              RG 133.83      The agreement must provide the responsible entity, licensed custody
+                             provider, MDA provider or IDPS operator with reasonable rights for the
+                             ongoing review and monitoring of the asset holder and any sub-custodians.
+                             The agreement must also address the criteria against which their
+                             performance will be assessed. We expect that these rights and criteria must
+                             be adequate to ensure:
+                             (a)   the responsible entity, licensed custody provider, MDA provider or IDPS
+                                   operator can meet its obligations to its clients under the Corporations Act;
+                             (b)   ASIC’s minimum standards for asset holders are met; and
+                             (c)   the services provided will at least meet the standards generally applying
+                                   in the relevant markets for the assets held.
+
+                             Written certification
+
+              RG 133.84      The agreement must require that the asset holder will give a certification to
+                             the responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator in writing at least every 13 months. The asset holder must certify
+                             that, other than in any trivial respect or as previously disclosed to the
+                             responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator in writing, it believes on reasonable grounds that, since the date of
+                             the previous statement in writing or the commencement of the agreement:
+                             (a)   it has met, and has no reason to believe that it will not continue to meet,
+                                   the minimum standards in the relevant ASIC legislative instrument that
+                                   reflects the standards for asset holders (whether or not there is any
+                                   explicit reference to the instrument in the agreement); and
+                             (b)   it is complying with the agreement.
+
+                             Manner in which assets are held
+
+              RG 133.85      The agreement must require that the asset holder, on request, will:
+                             (a)   formally acknowledge the manner in which it holds assets; and
+                             (b)   notify any other person where the asset holder is aware that to do so
+                                   might protect the interest in the assets of the client for whom the assets
+                                   are held. However, the responsible entity, licensed custody provider,
+                                   MDA provider or IDPS operator may direct otherwise in writing.
+
+                             Giving of instructions
+
+              RG 133.86      The agreement must set out how instructions will be given to the asset
+                             holder.
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 24
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             Liability
+
+              RG 133.87      The agreement must contain reasonable liability provisions. If appropriate,
+                             the agreement must also contain reasonable indemnity provisions for losses
+                             caused to the responsible entity, licensed custody provider, MDA provider or
+                             IDPS operator by the acts and omissions of the asset holder that relate to the
+                             agreement.
+
+              RG 133.88      We expect that a responsible entity, licensed custody provider, MDA
+                             provider or IDPS operator would not compromise the interests of its clients
+                             in the presence of liability or indemnity provisions, unless it is satisfied that
+                             any additional cost would be disproportionate to the benefits to its clients.
+                             Clients have a significant interest in promoting compliance by the asset
+                             holder and, in the event of non-compliance, receiving compensation for loss
+                             by the asset holder. Without implying that it would be sufficient, at a
+                             minimum, a responsible entity, licensed custody provider, MDA provider or
+                             IDPS operator must:
+                             (a)   not agree to any broad exclusion of any liability for direct losses that
+                                   would apply for the failure to take reasonable care under general law;
+                                   and
+                             (b)   only allow any limited exclusion if reasonable.
+
+                             Security interests, mortgages, liens or other encumbrances
+
+              RG 133.89      The agreement must prohibit the asset holder from taking or granting to its
+                             associates a security interest, mortgage, lien or other encumbrance over, or
+                             in relation to, the assets held under the agreement. This is not required if the
+                             responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator reasonably believes, for documented reasons, that any conflict that
+                             may arise as a result of the security interest, mortgage, lien or other
+                             encumbrance will not materially increase the risk that the asset holder will
+                             fail to meet its obligations. The responsible entity, licensed custody provider,
+                             MDA provider or IDPS operator should be satisfied that the asset holder
+                             would meet its obligations under the agreement, even if acting contrary to
+                             the agreement might maximise the value of the lien.
+
+              RG 133.90      A responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator must keep the written record of reasons for seven years after the
+                             security interest, mortgage, lien or other encumbrance has ceased. For
+                             example, an asset holder may have a lien over assets held to secure
+                             entitlement to expenses incurred and it may exercise that right in its own
+                             interest subject to the terms of, or legal rights under, the lien.
+
+                             Record keeping and reporting
+
+              RG 133.91      The agreement must set out how records of the assets are held and how
+                             transactions are recorded including by whom, by what means and when they
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 25
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             were authorised. These records must be kept and maintained by the asset
+                             holder and made available to the responsible entity, licensed custody
+                             provider, MDA provider or IDPS operator. This includes:
+                             (a)   the verification procedures for the appropriately frequent reconciliation
+                                   and checking of the balances of client assets held by the asset holder; and
+                             (b)   the requirements for reporting by the asset holder.
+
+                             Auditing
+
+              RG 133.92      The agreement must require that the asset holder provides all reasonable
+                             access and assistance to any auditor engaged to perform an audit.
+                                   Note 1: Under reg 5C.4.02 of the Corporations Regulations, an agent of a responsible
+                                   entity, such as an asset holder, must give the auditor of the registered scheme’s
+                                   compliance plan access to the books of the scheme, and assist in the conduct of the
+                                   audit. Under reg 5C.5.01, responsible entities and their agents must give the compliance
+                                   committee access to the books of the scheme and assist the committee in the
+                                   performance of its functions.
+
+                                   Note 2: We may require an AFS licensee and an agent of a responsible entity to assist us
+                                   in checking compliance: see s601FF and 912E of the Corporations Act and reg 5C.2.01
+                                   of the Corporations Regulations. We also have powers to require production of books
+                                   under the Australian Securities and Investments Commission Act 2001 (ASIC Act).
+
+
+                             Identity of any agents
+
+              RG 133.93      The agreement must provide that before arranging for assets to be held by
+                             another person as agent, the arranging asset holder will provide the
+                             responsible entity, licensed custody provider, MDA provider or IDPS
+                             operator with written notice of the identity of, and contact information for,
+                             each agent. This written notice should be provided where reasonably
+                             practicable and, in any event, before the assets are held, except in
+                             exceptional circumstances identified in the agreement.
+
+                             Termination
+
+              RG 133.94      The agreement must set out that the responsible entity, licensed custody
+                             provider, MDA provider or IDPS operator has the right to terminate the
+                             agreement if it has reasonable grounds for believing that the asset holder is
+                             not complying with, or is unlikely to comply with, the agreement to a
+                             material extent and that, as a result, the asset holder will not comply with the
+                             relevant requirements. This should take into account any remedy provided,
+                             or that may be expected to be provided, by the asset holder. The relevant
+                             requirements are the requirements that the responsible entity, licensed
+                             custody provider, MDA provider or IDPS operator must ensure the asset
+                             holder meets in providing the services under the agreement (reflecting
+                             ASIC’s minimum standards) and the requirement that records must be kept
+                             to enable convenient audit.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                   Page 26
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+              RG 133.95      The provisions for termination where the responsible entity, licensed custody
+                             provider, MDA provider or IDPS operator has reasonable grounds for
+                             holding that belief must include, at a minimum, provisions to the effect that
+                             it may terminate the agreement:
+                             (a)   without payment, other than of entitlements previously accrued or the
+                                   reasonable fees, costs and expenses involved in the transfer of the assets
+                                   to the responsible entity, licensed custody provider, MDA provider or
+                                   IDPS operator or another asset holder; and
+                             (b)   without limiting any right to damages the responsible entity, licensed
+                                   custody provider, MDA provider or IDPS operator may have under the
+                                   agreement, including recovering the expenses referred to in
+                                   RG 133.95(a) if the asset holder is in breach.
+
+              RG 133.96      The agreement must also require that, on termination, the assets will be
+                             transferred to the responsible entity, licensed custody provider, MDA
+                             provider or IDPS operator, or be transferred as they lawfully direct within a
+                             reasonable period. The agreement must provide for the obligations of the
+                             parties at termination. This includes the payment of outstanding fees and
+                             charges to the asset holder and any costs of the transfer.
+
+                             Breach reporting
+
+              RG 133.97      The agreement must require that material or systemic breaches of the
+                             agreement by the responsible entity, licensed custody provider, MDA provider
+                             or IDPS operator or the asset holder will be notified by the asset holder to:
+                             (a)   the responsible entity, licensed custody provider, MDA provider or
+                                   IDPS operator; and
+                             (b)   if the client is a responsible entity, its board of directors or the
+                                   compliance committee of each relevant scheme.
+
+                                   Note: This is in addition to any other statutory breach reporting requirements.
+
+              RG 133.98      The agreement must also require the notification to be in writing and given
+                             within a reasonable timeframe of the asset holder becoming aware of the
+                             breach.
+
+                             Arrangements with other parties
+
+              RG 133.99      The agreement must set out the terms on which the asset holder is authorised
+                             to directly or indirectly engage another party as asset holder and require
+                             provisions of the appointment in a written agreement in accordance with the
+                             requirements in this guide. This is subject to the exceptions in RG 133.122.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                     Page 27
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             Business continuity
+
+              RG 133.100     The agreement must require that the asset holder will establish and maintain
+                             business continuity arrangements that are reasonable for the nature, scale and
+                             complexity of its business.
+
+                             Confidentiality
+
+              RG 133.101     The agreement must require that the asset holder will keep in confidence any
+                             information of a confidential nature. However, any disclosure to ASIC or
+                             disclosure as permitted by law or by the client is excepted.
+
+                             Suspicious matter reporting for responsible entities
+
+              RG 133.102     For a responsible entity of a registered scheme, the agreement must provide
+                             that the asset holder will establish and maintain adequate arrangements to
+                             ensure that it will report to ASIC within 10 business days if it suspects the
+                             responsible entity has breached its obligations to report its own reportable
+                             situations under s912DAA.
+
+              RG 133.103     The required arrangements relate only to what the asset holder does after the
+                             suspicion arises. This is regardless of whether the suspicion arise from:
+                             (a)   inquiries it undertakes for another purpose (including in relation to other
+                                   arrangements with the asset holder that reflect obligations applying
+                                   under the AML/CTF Act);
+                             (b)   information obtained in the ordinary course of business; or
+                             (c)   information received from another source.
+
+              RG 133.104     The required arrangements are not the source of any obligation to make
+                             inquiries.
+
+              RG 133.105     We would expect the asset holder to use reasonable judgement in
+                             determining whether to discuss the suspicion with the responsible entity
+                             before reporting to ASIC. We accept that, under the required arrangements,
+                             if an employee or agent of the asset holder has such a suspicion, the asset
+                             holder may give reasonable consideration to determine if there are grounds
+                             for the suspicion before reporting to ASIC.
+
+              RG 133.106     The agreement must not contain any provision that would require the asset
+                             holder to notify the responsible entity of suspicious matter reporting by the
+                             asset holder to ASIC about the responsible entity’s activities. However,
+                             except as otherwise restricted by law or where it would be imprudent in light
+                             of the risk of tipping off a person engaged in misconduct, it may generally be
+                             appropriate to seek clarification from the responsible entity after the matter
+                             is considered under the internal governance arrangements of the asset holder.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 28
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+              RG 133.107     We consider that entities that are considering committing, or not reporting,
+                             significant breaches may be deterred if they know that the asset holder could
+                             identify such a breach and report it to ASIC.
+
+              RG 133.108     We also consider that asset holders that provide services under contract, and
+                             their employees, can report suspicious matters to ASIC under the
+                             whistleblower protection in Pt 9.4AAA, including where the AML/CTF Act
+                             may not apply.
+
+                                   Note: For information on whistleblower protection, see Information Sheet 238
+                                   Whistleblower rights and protections (INFO 238) and Information Sheet 239 How ASIC
+                                   handles whistleblower reports (INFO 239).
+
+
+                             Agreement as a retail client
+
+              RG 133.109     If the asset holder is engaged by a retail client, the agreement must set out the
+                             issues in RG 133.110–RG 133.119, as relevant.
+
+                             Manner in which assets are held
+
+              RG 133.110     The agreement with the retail client must require that the asset holder will
+                             tell the retail client, on request, the manner in which it holds the assets.
+
+                             Giving of instructions
+
+              RG 133.111     The agreement with the retail client must set out how instructions will be
+                             given to the asset holder.
+
+                             Liability
+
+              RG 133.112     The agreement with the retail client must state that the asset holder is liable
+                             to the client if there is a loss to the client because of a failure by the asset
+                             holder, or any sub-custodian engaged by them, to comply with the duties
+                             under the agreement or to observe reasonable standards generally applied by
+                             providers of custodial services. This is subject to provision for the asset
+                             holder to limit its liability resulting from the failure of a sub-custodian it has
+                             appointed if that sub-custodian is insolvent and the asset holder (as master
+                             custodian) has taken reasonable care in appointing and monitoring the
+                             sub-custodian’s compliance.
+
+                             Security interests, mortgages, liens or other encumbrances
+
+              RG 133.113     The agreement with the retail client must prohibit the asset holder from
+                             taking or granting a security interest, mortgage, lien or other encumbrance
+                             over, or in relation to, the assets held under the arrangement. The exception
+                             to this is a security interest, mortgage, lien or other encumbrance:
+                             (a)   for expenses and outlays made within the terms of the agreement other
+                                   than any of its unpaid fees; or
+
+
+
+© Australian Securities and Investments Commission December 2024                                             Page 29
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             (b)   entered into in accordance with the client’s written instructions.
+
+                             Record keeping and reporting
+
+              RG 133.114     The agreement with the retail client must address how records of the assets
+                             are held and any transactions recorded, including how, by whom and when
+                             they were authorised. These records must be kept and maintained by the
+                             asset holder and made available to the client. This includes:
+                             (a)   the verification procedures for the appropriately frequent reconciliation
+                                   and checking of the balances of client assets held by the asset holder; and
+                             (b)   the requirements for reporting by the asset holder.
+
+                             Identity of any agents
+
+              RG 133.115     Where practicable, the agreement with the retail client must provide that the
+                             asset holder will provide the client, with written notice of the identity of, and
+                             contact information for, each agent:
+                             (a)   before arranging for the assets to be held by another person as agent;
+                                   and
+                             (b)   in any event, before the assets are held, except in exceptional
+                                   circumstances identified in the agreement.
+
+                             Termination
+
+              RG 133.116     The agreement with the retail client must require that on termination the
+                             assets will be transferred to the client, or otherwise transferred as the client
+                             lawfully directs within a reasonable time.
+
+              RG 133.117     The agreement must provide for other obligations of the parties at
+                             termination. This includes the payment of outstanding fees and charges to
+                             the asset holder and any costs of the transfer.
+
+
+                             Business continuity
+
+              RG 133.118     The agreement with the retail client must state that the asset holder will
+                             establish and maintain arrangements to enable it to provide the services
+                             under the agreement in any contingency for which it should reasonably plan.
+                             Those arrangements must be reasonable for the nature, scale and complexity
+                             of the asset holder’s business.
+
+
+                             Confidentiality
+
+              RG 133.119     The agreement with the retail client must require that the asset holder will
+                             keep any information of a confidential nature in confidence. However, any
+                             disclosure to ASIC or disclosure as permitted by law or by the client is
+                             excepted.
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 30
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             Agreement with a master custodian
+
+              RG 133.120     In many cases, a responsible entity, MDA provider or IDPS operator will not
+                             directly engage an asset holder, but will engage a master custodian that
+                             engages the asset holder (or sub-custodian). As far as possible, the same
+                             minimum standards should apply for an asset holder that is a sub-custodian
+                             engaged by a master custodian. However, in the case of a responsible entity,
+                             the provisions referred to in RG 133.102–RG 133.108 on suspicious matter
+                             reporting do need to be included if the master custodian holds a beneficial
+                             interest in the client assets for the responsible entity.
+              RG 133.121     If a responsible entity, MDA provider or IDPS operator engages a master
+                             custodian that appoints a sub-custodian, it must enter into a written agreement
+                             with the master custodian reflecting the terms required in an agreement with
+                             an asset holder in RG 133.83–RG 133.101. That agreement must contain an
+                             obligation for the master custodian to ensure its agreement with the
+                             sub-custodian is in writing and on substantively the same terms as required for
+                             an agreement with an asset holder (other than the requirement in RG 133.102–
+                             RG 133.108 on suspicious matter reporting).
+              RG 133.122     In some cases, it may not be reasonably practicable to engage another person
+                             to hold client assets outside Australia who is willing to include such matters in
+                             the agreement. In this case, to the extent that it is not reasonably practicable to
+                             ensure compliance, the agreement between the master custodian and the
+                             sub-custodian does not need to contain the matters in RG 133.83–RG 133.101
+                             or RG 133.110–RG 133.119. However, the master custodian must provide the
+                             responsible entity, licensed custody provider, MDA provider or IDPS operator
+                             with documents that demonstrate it is not reasonably practicable to engage
+                             another person to hold the assets who is willing to include such matters in the
+                             agreement.
+              RG 133.123     The requirement for a master custodian to enter into an agreement does not
+                             apply if the sub-custodian is controlled by the master custodian and the master
+                             custodian is liable to its client for the acts and omissions of the sub-custodian
+                             as if they were the acts or omissions of the master custodian.
+
+
+
+Disclosure to retail clients of relationship with asset holder
+              RG 133.124     For retail clients, we expect responsible entities, MDA providers and IDPS
+                             operators to explain in the Product Disclosure Statement (PDS), Financial
+                             Services Guide (FSG) or IDPS Guide the limited role of the asset holder in
+                             holding the assets or scheme property, and acting only as a custodian. We
+                             also expect responsible entities, MDA providers and IDPS operators to
+                             explain the limited role of the asset holder more generally in
+                             communications with clients that refer to the asset holder as a custodian. To
+                             promote understanding, in communications to retail clients the role of the
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 31
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             asset holder should be explained in a clear, concise and effective manner.
+                             This includes the limited nature of the services undertaken.
+
+              RG 133.125     Where some of the assets or scheme property may not be held on trust by the
+                             asset holder, these circumstances may also need to be explained in
+                             communications.
+
+
+
+Transfer of assets when asset holder is changed
+              RG 133.126     If a responsible entity changes the asset holder, it must consider whether it is
+                             appropriate to obtain a report from an unrelated person with relevant knowledge
+                             confirming that all assets to be transferred have been identified and transferred.
+                             Verification of the appropriate identification and transfer of assets may involve
+                             checking reconciliations between the outgoing and incoming asset holder or
+                             obtaining an audit. If the responsible entity does not consider it is in the best
+                             interests of members to obtain the report, it must keep a record in writing of the
+                             grounds for its belief. It must keep this record for seven years.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 32
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+D          Compliance controls for licensed custody
+           providers
+
+                              Key points
+
+                              This section applies to licensed custody providers. It does not apply to
+                              registered schemes, MDAs and IDPSs. For information on compliance
+                              controls addressing risks to client assets applicable to registered schemes,
+                              MDAs and IDPSs, see Regulatory Guide 132 Funds management:
+                              Compliance and oversight (RG 132).
+
+                              As an AFS licensee, a licensed custody provider must have documented
+                              compliance controls to ensure that it complies with its obligations in relation
+                              to client assets.
+
+                              Compliance controls may vary depending on the nature and amount of
+                              assets and who holds them.
+
+
+
+Compliance controls must cover risks to client assets
+              RG 133.127     A licensed custody provider must establish and maintain adequate
+                             documented controls to demonstrate that it is complying with its AFS licence
+                             obligations.
+
+                                  Note: We use the term compliance ‘controls’ instead of ‘compliance measures’, as this
+                                  reflects Australian Standard AS ISO 37301:2023 Compliance management systems—
+                                  Requirements with guidance for use.
+
+
+
+Compliance controls may vary
+              RG 133.128     We have not prescribed in detail what compliance controls should be put in
+                             place for dealing with client assets.
+
+              RG 133.129     There will be different risks to clients arising out of the different ways that
+                             client assets are held. This includes whether the licensed custody provider is
+                             the asset holder or if it engages another asset holder to hold some or all the
+                             assets. We also recognise that what is required in documented compliance
+                             controls will depend on the nature and amount of assets held.
+
+              RG 133.130     For example, more sophisticated compliance controls may be required by a
+                             standalone custody business that provides services for a full range of
+                             financial products, compared to a licensed custody provider that holds only a
+                             limited range and value of assets.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                Page 33
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             If the licensed custody provider is the asset holder
+
+              RG 133.131     If the licensed custody provider is the asset holder, we consider its
+                             documented compliance controls should include:
+                             (a)   regular checks to ensure that all record keeping for client assets is
+                                   carried out in a timely and accurate manner; and
+                             (b)   measures for ensuring that the minimum standards in Section B of this
+                                   guide are met.
+
+
+                             If another person is the asset holder
+
+              RG 133.132     If the licensed custody provider engages another person as an asset holder,
+                             we expect it to ensure that clients are protected from the possible compliance
+                             risks arising from this arrangement.
+
+              RG 133.133     We consider the licensed custody provider’s documented compliance
+                             controls should set out the controls it will take to minimise these risks. This
+                             would include, for example, controls for ensuring that:
+                             (a)   it will allow a person to be the asset holder only if the person meets the
+                                   minimum standards in Section B;
+                             (b)   the activities of the asset holder will be actively monitored and
+                                   appropriate action taken in case of deficiencies; and
+                             (c)   any agreement entered into with the asset holder will remain compliant
+                                   and current.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 34
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+E          Protection of rights for land used in registered
+           schemes
+
+                              Key points
+
+                              This section applies to registered schemes.
+                              In order to comply with its responsible entity duties and general AFS
+                              licensee duties under the Corporations Act, the responsible entity of a
+                              primary production registered scheme must adequately protect the rights to
+                              use the land for the purposes of the scheme.
+                              In order to adequately protect the rights to the land, the responsible entity
+                              should ensure that members of the scheme have an interest in the land
+                              registered under state or territory land title laws.
+                              The land should be held in a way that protects members from risks that are
+                              outside the scope of the scheme, such as the insolvency of a landowner.
+
+
+
+
+Protecting members’ rights
+              RG 133.134     In many primary production registered schemes, members contract with the
+                             responsible entity to set up and maintain the scheme, and harvest or exploit
+                             its products in the context that there will be arrangements allowing the use of
+                             certain land. For example, this could apply to schemes involved in
+                             agriculture, use of animals, harnessing energy from solar or wind energy, or
+                             obtaining benefits from sequestering carbon dioxide. The land often remains
+                             the property of the responsible entity, or an associate or unrelated landowner,
+                             and reverts to it when the scheme ends.
+              RG 133.135     We consider that it is inconsistent with the obligation of a responsible entity
+                             to do all things necessary to ensure that it operates a registered scheme
+                             efficiently, honestly and fairly to operate the scheme if the scheme is subject
+                             to risks of failure because of inadequate protection of the rights to use land
+                             for the scheme for the expected duration of the scheme. We consider the
+                             rights of members in relation to the land requiring protection include the
+                             rights sufficient to enable access, cultivation, transmission, exploitation,
+                             maintenance, protection, repair, refurbishment, and harvesting or obtaining
+                             output from the scheme, where relevant to the scheme.
+              RG 133.136     To provide adequate protection of the rights to land, it is appropriate that
+                             members have an interest in the land registered under the state or territory land
+                             title laws—for example, by lodging the instruments before or immediately after
+                             the interests in the registered scheme are issued. We consider that land should
+                             be held in a way that protects members from risks outside the scope of the
+                             scheme, such as the insolvency of a landowner.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 35
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+              RG 133.137     Certain risks arise if members are not protected by an interest in land (needed
+                             for operation of the scheme) that:
+                             (a)   is registered under state or territory laws;
+                             (b)   is paramount; and
+
+                             (c)   cannot lawfully be adversely affected by any existing or subsequent
+                                   secured creditor or a transferee, except one whose title has been
+                                   conferred by the responsible entity in accordance with its duties.
+
+              RG 133.138     Risks to members include the following:
+                             (a)   the holder of the interest in the land may have used, or may use, the
+                                   land as security without acknowledging the interests of members. If
+                                   there is a default, the secured creditor may act without regard to the
+                                   interests of the members;
+                             (b)   a person holding an interest in the land on which the registered scheme
+                                   relies (landowner)—or a liquidator of a landowner or other person
+                                   authorised to act on a landowner’s behalf—may restrict access to land
+                                   that is reasonably necessary for the operation of the scheme but is not
+                                   covered by the interest;
+                             (c)   a landowner—or a liquidator of a landowner or other person authorised
+                                   to act on the landowner’s behalf—may transfer the land (or an interest
+                                   in the land) and the transferee may not be under an obligation to
+                                   recognise the rights of the members regarding the land; and
+                             (d)   it may be practically difficult to continue to operate or to wind up the
+                                   registered scheme if a landowner has become insolvent.
+
+              RG 133.139     If the interest in the land continues only while the obligations of the interest
+                             holder to others with an interest in the land (e.g. a secured creditor or lessor)
+                             are being met, failure to meet these obligations may result in the loss of the
+                             interest. Retail investors may not expect the registered scheme to be put at
+                             risk by such failures. If the security or lease has been entered into by the
+                             responsible entity in accordance with its duties, risk remains and may require
+                             disclosure to retail clients.
+
+                                   Note: For more information on disclosure to retail clients, see Regulatory Guide 232
+                                   Agribusiness managed investment schemes: Improving disclosure for retail investors
+                                   (RG 232). RG 232 includes a disclosure principle dealing with a responsible entity’s
+                                   disclosure obligations in relation to the arrangements entered into to secure rights of
+                                   access or tenure to the resources and infrastructure required to operate the agribusiness
+                                   scheme, including any land, licences or leases, and water.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                     Page 36
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+              RG 133.140     Registration of an interest does not ensure the land right that the interest
+                             might normally confer can be used. There may be other rights to use land,
+                             such as native title rights. A responsible entity must only offer interests in
+                             the registered scheme if following reasonable inquiry it does not believe that
+                             there are such rights or that government action or refusal to grant permission
+                             will mean the land cannot be used for the scheme as intended.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 37
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+F          Holding crypto-assets
+
+                              Key points
+
+                              This section applies to:
+                              • responsible entities where scheme assets comprise or include crypto-
+                                assets; and
+                              • custodians where the crypto-assets are financial products.
+
+                              It contains ASIC’s expectations of such asset holders, including the
+                              requirement to have specialist expertise and infrastructure relating to
+                              crypto-asset custody.
+
+              RG 133.141     We consider the following measures are good practice for the asset holder,
+                             and any custodian engaged by it, holding the crypto assets:
+                             (a)   It should have:
+                                   (i)     specialist expertise and infrastructure relating to crypto-asset
+                                           custody, including robust systems and practices to receive,
+                                           validate, review, report and execute instructions from the relevant
+                                           client; and
+                                   (ii)    robust cyber and physical security practices for its operations,
+                                           including appropriate internal governance and controls, risk
+                                           management and business continuity practices.
+                             (b)   The crypto-assets should be segregated on the blockchain. This means
+                                   that unique public and private keys are maintained by the asset holder
+                                   so that the other assets are not intermingled with other crypto-asset
+                                   holdings.
+                             (c)   The private keys used to access the crypto-assets should be generated
+                                   and stored in a way that minimises the risk of loss and unauthorised
+                                   access as detailed in the following examples:
+                                   (i)     Solutions that protect private key material using hardware devices
+                                           should be physically isolated and have appropriately limited
+                                           connectivity to other computing systems (cold storage). Private key
+                                           material should not be held on internet-connected systems or
+                                           networked hardware (hot storage) beyond what is strictly necessary
+                                           for the operation of the product.
+                                   (ii)    Hardware devices used to hold private key material should be
+                                           subject to robust physical security practices.
+                                   (iii)   Effective systems and processes for key backup and recovery
+                                           should be maintained, with geographically distributed backup sites
+                                           preferred.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                          Page 38
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             (d)   Signing approaches that minimise ‘single point of failure risk’ should be
+                                   adopted.
+                             (e)   Cyber security practices and the controls environment should be
+                                   independently verified to an appropriate standard—for example:
+                                   (i)     System and organisation controls report 1 and report 2;
+                                   (ii)    GS 007;
+                                   (iii)   International Organization for Standardization, ISO/IEC
+                                           27001:2022 Information security, cybersecurity and privacy
+                                           protection—Information security management systems—
+                                           Requirements (ISO 27001) and ISO/IEC 27002:2022 Information
+                                           security, cybersecurity and privacy protection—Information
+                                           security controls (ISO 27002); and
+                                   (iv)    National Institute of Standards and Technology, Cybersecurity
+                                           framework (NIST CSF).
+
+              RG 133.142     The security of private keys is of critical importance. Private keys are
+                             necessary to sign transactions that assign crypto-assets to new addresses. If
+                             private keys are compromised, unauthorised parties can use them to transfer
+                             the crypto-assets to addresses (and parties) that are outside the control of the
+                             asset holder. Accordingly, asset holders should ensure that the private keys
+                             used are protected from unauthorised access—both online and offline.
+
+              RG 133.143     Asset holders should adopt a transaction-signing approach that minimises
+                             single point of failure risk. For example, a multi-signature or sharding-based
+                             signing approach is preferred to a single private key to sign transactions. As
+                             technology develops, other suitable approaches may also emerge. It is a
+                             matter for the asset holder to determine the most effective approach,
+                             considering the benefits and drawbacks of different approaches.
+
+              RG 133.144     The process of receiving, validating, reviewing and executing instructions
+                             should include appropriate permissioning so that no one party has control of
+                             the entire process. If the structure of the product is such that it only needs to
+                             interact with a predefined set of addresses—for example, particular dealers,
+                             markets or authorised participants—the asset holder should consider a
+                             whitelist approach, so that transfers can only be made to those predefined
+                             addresses.
+
+              RG 133.145     In relation to compensation systems, we consider it good practice that asset
+                             holders have access to an arrangement so that clients can be compensated if
+                             crypto-assets are lost. The precise nature of the arrangement—including
+                             what is covered, how much is covered, and its form (e.g. insurance, an asset
+                             protection plan or compensation fund)—is for the asset holder to determine,
+                             taking into account the nature of the product and obligations at law.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                          Page 39
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+              RG 133.146     We consider it good practice that cyber security practices and controls
+                             environments are independently verified to an appropriate standard, as
+                             determined by industry practice. It is a matter for the responsible entity to
+                             decide whether they are satisfied with the standards, certifications or
+                             attestations that the custodian has achieved.
+
+              RG 133.147     Asset holders should, where appropriate, take the necessary steps to obtain a
+                             copy of and consider an independent audit of the effectiveness of the
+                             controls of a third-party service organisation responsible for custody of
+                             assets. Where crypto-assets are held, it is expected this would include
+                             controls determined by industry practice for mandated standards,
+                             certifications or attestations that are expected for custodians of crypto-assets.
+                             This could be an audit based on GS 007 or a comparable audit from other
+                             jurisdictions.
+
+
+
+Risk management by asset holders regarding crypto-asset
+exchanges used to obtain crypto-assets
+              RG 133.148     An AFS licensee must do all things necessary to ensure that the financial
+                             services covered by the licence are provided efficiently, honestly and fairly:
+                             see s912A(1)(a). Under s912A(1)(h), most AFS licensees are required to
+                             have adequate risk management systems.
+
+              RG 133.149     We consider it good practice for asset holders to carefully consider where
+                             they source their crypto-assets from, including their service providers used to
+                             buy or sell crypto-assets. In particular:
+                             (a)   the asset holder should be satisfied, based on reasonable due diligence,
+                                   that any service provider it relies on to buy or sell crypto-assets:
+                                   (i)    is a digital currency exchange provider registered with the
+                                          Australian Transaction Reports and Analysis Centre (AUSTRAC),
+                                          or is regulated by one or more laws of a foreign country giving
+                                          effect to the Financial Action Task Force recommendations
+                                          relating to customer due diligence and record-keeping; and
+                                   (ii)   implements risk-based systems and controls under the AML/CTF
+                                          Act that are supervised or monitored by a body empowered by law
+                                          to supervise and enforce the customer due diligence and record-
+                                          keeping obligations; and
+                             (b)   the asset holder should ensure that authorised participants, market
+                                   makers and other service providers that trade crypto-assets in
+                                   connection with the product do so through a service provider that meets
+                                   the same standard as above.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                          Page 40
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+              RG 133.150     The obligations under the AML/CTF Act require entities to, among other
+                             things, have customer identification procedures and aim to reduce the risk of
+                             crypto-assets being used to support criminal activity.
+
+              RG 133.151     Research also suggests that market integrity issues are more prevalent on
+                             crypto-asset markets with lower levels of regulation, compliance and
+                             transparency.
+
+              RG 133.152     The asset holder is responsible for ensuring its risk management systems
+                             appropriately manage all other risks posed by crypto-assets. This could
+                             include implementing or applying relevant standards published by Australian
+                             and international organisations as they are developed.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 41
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+G          Relief from the obligation to separate assets
+
+                              Key points
+
+                              A responsible entity must ensure that scheme property is clearly identified
+                              as scheme property and held separately from its property and the property
+                              of any other scheme.
+
+                              We have given limited relief to responsible entities from this requirement,
+                              and make similar exceptions for other asset holders, to allow the use of
+                              omnibus accounts.
+
+
+
+Specific obligations for registered schemes
+              RG 133.153     A responsible entity that holds scheme property on trust under s601FC(2)
+                             must generally ensure that property of the registered scheme is:
+                             (a)   clearly identified as scheme property (see s601FC(1)(i)(i)); and
+                             (b)   held separately from the responsible entity’s property and the property
+                                   of any other scheme (see s601FC(1)(i)(ii)).
+
+
+
+Obligations for other AFS licensees who are asset holders
+              RG 133.154     Similar requirements apply if an AFS licensee holds assets as a licensed
+                             custody provider under ASIC Instrument 2024/17, an MDA provider under
+                             ASIC Instrument 2016/968 or an IDPS operator under ASIC Instrument
+                             2023/669.
+
+
+Relief for omnibus accounts
+              RG 133.155     In some circumstances, it may not be appropriate to separate assets from
+                             those of other persons or schemes. Holding certain classes of assets
+                             separately may be inconsistent with market practice where it is likely to
+                             substantially add to the cost of holding assets or scheme property. We have
+                             given limited relief from s601FC(1)(i) to responsible entities in certain
+                             circumstances. This is subject to requirements to ensure that the interests of
+                             members are not put at any material risk of being lost by any pooling
+                             arrangements: see ASIC Instrument 2024/16.
+
+              RG 133.156     Our relief under ASIC Instrument 2024/16 permits responsible entities to use
+                             omnibus accounts for:
+                             (a)   Australian or foreign currency;
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 42
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             (b)   a deposit-taking facility with a body carrying on a business of accepting
+                                   money on deposit, including rights under that facility;
+                             (c)   securities; or
+                             (d)   derivatives.
+
+              RG 133.157     This relief applies subject to ASIC’s power to exclude reliance by a
+                             responsible entity in certain circumstances.
+
+                                   Note: For information on how to apply for relief, see Regulatory Guide 51 Applications
+                                   for relief (RG 51) and Regulatory Guide 136 Funds management: Discretionary powers
+                                   (RG 136).
+
+              RG 133.158     Provisions regarding the use of pools (e.g. omnibus accounts) also apply to
+                             licensed custody providers under ASIC Instrument 2024/17, MDA providers
+                             under ASIC Instrument 2016/968 and IDPS operators under ASIC Instrument
+                             2023/669.
+
+              RG 133.159     Omnibus accounts are permitted where:
+                             (a)   the assets are held separately from the assets of the AFS licensee
+                                   engaging the asset holder and the asset holder;
+                             (b)   the AFS licensee responsible for ensuring that the assets are held (e.g.
+                                   the responsible entity) ensures that the asset holder:
+                                   (i)     maintains adequate records at all times showing the entitlement of
+                                           clients in the assets not held separately;
+                                   (ii)    performs reconciliation procedures on each business day for the
+                                           assets not held separately. An exception to this is if, because of the
+                                           nature of assets of a particular type, it is ordinary and reasonable
+                                           commercial practice to reconcile such assets less frequently. We
+                                           expect that this standard will generally be required daily for
+                                           financial products traded on a financial market and deposit
+                                           products;
+                                   (iii)   does not restrict its capacity to exercise or cause the exercise of powers
+                                           in relation to the assets, including any power to direct voting; and
+                                   (iv)    has safeguards in place to ensure that the omnibus account will
+                                           never fail to have sufficient funds to meet the entitlements of the
+                                           client, and any other person in relation to the assets not held
+                                           separately for more than two business days. If necessary, this may
+                                           be through the asset holder supplementing the assets not held
+                                           separately with its own assets. The amount paid in by the asset
+                                           holder would become held for the persons having a beneficial
+                                           interest in the omnibus account, other than the asset holder. If,
+                                           because of later repayments, the account goes into surplus, the
+                                           asset holder can be reimbursed with equivalent assets; and
+                             (c)   the AFS licensee responsible for ensuring that the assets are held:
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                 Page 43
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                                  (i)     documents its policy on not holding assets separately and its
+                                          reasons why that policy is appropriate. In setting out the reasons
+                                          why the policy is appropriate, the AFS licensee should consider
+                                          any extent to which it might expose the relevant clients to
+                                          unreasonable risk or have any reason to believe that applying the
+                                          policy would not meet its duties to the relevant clients;
+                                  (ii)    ensures the policy has been reviewed during the previous 13 months
+                                          and a written record of the outcome of the review recorded; and
+                                  (iii)   keeps a record of the policy and the record of its review for seven
+                                          years after it has ceased to be the current policy that enables the
+                                          assets not to be held separately.
+
+              RG 133.160     For retail clients of licensed custody providers, the potential use of omnibus
+                             accounts must be notified in the asset holder’s FSG and expressly agreed to
+                             in writing by the retail client.
+
+
+                             Key reasons for permitting use of omnibus accounts
+
+              RG 133.161     Omnibus accounts are typically used to hold financial assets. If asset
+                             separation requirements applied, omnibus accounts would cause the
+                             responsible entity to be in breach of the obligation to clearly identify scheme
+                             property or assets and hold it separately from other relevant property or
+                             assets.
+
+              RG 133.162     A responsible entity might reasonably consider that holding assets or scheme
+                             property separately would be inappropriate if it increases the costs to
+                             members without materially decreasing any risk. A risk could arise from
+                             holding assets together to the extent that the assets of one client could be
+                             used to settle the obligations of another client.
+
+              RG 133.163     Ensuring efficient and compliant operation by the asset holder may include
+                             operating separate omnibus accounts for different types of clients (e.g. buy–
+                             hold clients versus broker–dealer clients). Specifically, if there is a non-trivial
+                             risk of a shortfall in a client’s account due to the nature of the client or the
+                             types of transaction entered into that would not be addressed by the asset
+                             holder paying in assets to cover a shortfall, we expect that the asset holder
+                             would, as part of its risk management system, segregate the client’s assets to
+                             minimise potential losses to other clients or to the asset holder itself.
+
+              RG 133.164     If an asset holder has used assets in the omnibus account for the benefit of
+                             another person not in accordance with the client’s instructions and a shortfall
+                             arises, the asset holder must cover the shortfall after the end of the second
+                             business day after the shortfall arises.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 44
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+Relief does not extend to non-financial assets
+              RG 133.165     Our policy on omnibus accounts does not extend to assets other than
+                             securities, derivatives, foreign currency and certain deposit-taking facilities.
+                             For example, responsible entities or other persons holding scheme property
+                             are not permitted to hold a single piece of other property as trustee for a
+                             registered scheme and also another scheme.
+
+              RG 133.166     However, we consider that the obligation to hold assets separately arises
+                             only to the extent that this can be done. This may not be possible for real
+                             property (e.g. where disclosure of trusts in the land titles register may not be
+                             permitted) and certain other assets. In this case, we accept that real property
+                             can be registered in the name of the asset holder without breaching the
+                             requirements to hold the assets separately in:
+                             (a)   s601FC(1)(i) for responsible entities of registered schemes;
+                             (b)   ASIC Instrument 2024/17 for licensed custody providers;
+                             (c)   ASIC Instrument 2016/968 for MDA providers; or
+                             (d)   ASIC Instrument 2023/669 for IDPS operators.
+
+              RG 133.167     In the case of a responsible entity, we consider the obligation to separate
+                             assets or scheme property extends to doing all that is practicable to achieve
+                             separation, given the nature of the property and its ownership. As such, we
+                             do not consider it necessary to give any relief from s601FC(1)(i) for assets
+                             that are real property. However, we expect compliance arrangements to
+                             particularly address the risks of this asset-holding arrangement.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 45
+                                      REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+Key terms
+
+
+                                Term                      Meaning in this document
+
+                                ADI                       An authorised deposit-taking institution—a corporation
+                                                          that is authorised under the Banking Act 1959. ADIs
+                                                          include:
+                                                           banks;
+                                                           building societies; and
+                                                           credit unions
+
+                                AFS licence               An Australian financial services licence under s913B of
+                                                          the Corporations Act that authorises a person who carries
+                                                          on a financial services business to provide financial
+                                                          services
+                                                            Note: This is a definition in s9.
+
+                                AFS licensee              A person who holds an AFS licence under s913B of the
+                                                          Corporations Act
+
+                                AFS licensee              The obligations of an AFS licensee under Ch 7 of the
+                                obligations               Corporations Act
+
+                                AML/CTF Act               Anti-Money Laundering and Counter-Terrorism Financing
+                                                          Act 2006
+
+                                Annex 3 (for              An annex to the Memorandum of Cooperation
+                                example)
+
+                                APRA                      Australian Prudential Regulation Authority
+
+                                Asia Region Funds         An agreement between economies in the Asia region that
+                                Passport                  allows passport funds established and regulated in one
+                                                          participating economy to offer interests to investors in
+                                                          another participating economy
+
+                                ASIC                      Australian Securities and Investments Commission
+
+                                ASIC Act                  Australian Securities and Investments Commission Act
+                                                          2001
+
+                                asset holder              Means:
+                                                           a person who holds:
+                                                            − scheme property or assets of a registered scheme;
+                                                            − client assets of an IDPS;
+                                                            − client portfolio assets of an MDA service; or
+                                                            − financial products, or a beneficial interest in financial
+                                                              products, held under a custodial service; or
+                                                           a licensed custody provider or, where relevant, an
+                                                            entity that provides custodial services incidentally
+
+                                AUASB                     Auditing and Assurance Standards Board
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                Page 46
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                                Term                      Meaning in this document
+
+                                Australian passport       A registered scheme or sub-fund of a retail CCIV that is
+                                fund                      also registered as a passport fund under Pt 8A.3 of the
+                                                          Corporations Act
+
+                                Australian Passport       The Corporations (Passport) Rules 2018 made under
+                                Rules                     s1211 and 1211A of the Corporations Act
+
+                                CCIV                      A corporate collective investment vehicle—a company
+                                                          that is registered as a corporate collective investment
+                                                          vehicle under the Corporations Act
+                                                            Note: This is a definition in s9.
+
+                                client                    A member of a registered scheme, a client of an IDPS
+                                                          operator, a client of an MDA provider or a client of a
+                                                          custodial service being a person for whom financial
+                                                          products or a beneficial interest in financial products are
+                                                          held in providing the custodial service (as the case may
+                                                          be)
+
+                                client assets             Scheme property or other assets of a registered scheme,
+                                                          the assets held under an IDPS (other than by the client),
+                                                          the client portfolio assets of an MDA service, or financial
+                                                          products or a beneficial interest in financial products held
+                                                          under a custodial service
+
+                                client portfolio assets   Financial products and other property that are the client’s
+                                                          contribution to an MDA service or that are derived directly
+                                                          or indirectly from the client’s contributions
+
+                                corporate director        The company named in ASIC’s record of the CCIV’s
+                                                          registration as the corporate director or temporary
+                                                          corporate director of the CCIV
+                                                            Note: This is a definition in s1224(3) of the Corporations Act.
+
+                                Corporations Act          Corporations Act 2001, including regulations made for the
+                                                          purposes of that Act
+
+                                Corporations              Corporations Regulations 2001
+                                Regulations
+
+                                custodial service         The service provided under an arrangement between the
+                                                          provider and the client, or between the provider and
+                                                          another person with whom the client has an arrangement
+                                                          (whether or not there are also other parties to any such
+                                                          arrangement), under which a financial product, or a
+                                                          beneficial interest in a financial product, is held by the
+                                                          provider in trust for, or on behalf of, the client or another
+                                                          person nominated by the client unless the service is not a
+                                                          custodial or depository service under s766E(3) of the
+                                                          Corporations Act
+                                                            Note: This is a definition in s766E for the term ‘provide a
+                                                            custodial or depository service’.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                    Page 47
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                                Term                     Meaning in this document
+
+                                custodial staff          Natural persons who have duties relating to:
+                                                          holding assets;
+                                                          record keeping for assets;
+                                                          checking authorisations for instructions to transact; or
+                                                          functions incidental to these powers (but does not
+                                                           include functions that involve the exercise of a material
+                                                           discretion whether under an arrangement with the
+                                                           asset holder or a person engaged by the asset holder
+                                                           other than in relation to an at-call deposit account of a
+                                                           regulated deposit taker or transactions in foreign
+                                                           exchange contracts)
+
+                                custodian                A provider of a custodial service or a person that holds
+                                                         scheme property of a registered scheme, assets held
+                                                         under an IDPS, or client portfolio assets of an MDA
+                                                         service
+
+                                Div 2 (for example)      A division of the Corporations Act (in this example
+                                                         numbered 2), unless otherwise specified
+
+                                financial product        Generally, a facility through which, or through the
+                                                         acquisition of which, a person does one or more of the
+                                                         following:
+                                                          makes a financial investment (see s763B);
+                                                          manages financial risk (see s763C);
+                                                          makes non-cash payments (see s763D)
+                                                            Note: See Div 3 of Pt 7.1 of the Corporations Act for the exact
+                                                            definition. In addition to the general categories above, this
+                                                            specifies certain things as being included or excluded from the
+                                                            definition.
+
+                                FSG                      A Financial Services Guide—a document required by
+                                                         s941A or 941B to be given in accordance with Div 2 of
+                                                         Pt 7.7 of the Corporations Act
+                                                            Note: This is a definition in s9.
+
+                                GS 007                   Guidance Standard GS 007 Audit implications of the use
+                                                         of service organisations for investment management
+                                                         services, issued by the AUASB in October 2011
+
+                                IDPS                     An investor directed portfolio service as defined in ASIC
+                                                         Instrument 2023/669 or any instrument that amends or
+                                                         replaces that instrument
+
+                                IDPS Guide               A document provided by an IDPS operator instead of a
+                                                         PDS to help retail clients decide whether they should use
+                                                         the IDPS
+
+                                IDPS operator            A public company that is a holder of an AFS licence that
+                                                         is authorised to operate an IDPS and who provides an
+                                                         IDPS or a function that forms part of the IDPS
+
+                                licensed custody         A person who holds an AFS licence authorising the
+                                provider                 licensee to provide a custodial service
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                  Page 48
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                                Term                     Meaning in this document
+
+                                managed investment       Has the meaning given in s9 of the Corporations Act
+                                scheme                      Note: A notified foreign passport fund is a managed
+                                                            investment scheme for the purpose of the Corporations Act:
+                                                            see s1213E.
+
+                                master custodian         A person with primary contractual responsibility to an
+                                                         AFS licensee, who is authorised by the licensee to
+                                                         engage an asset holder
+
+                                MDA                      Managed discretionary account
+
+                                MDA provider             A person who holds an AFS licence with authorisations to
+                                                         provide MDA services
+                                                            Note: A detailed definition is contained in ASIC Instrument
+                                                            2016/968.
+
+                                MDA service              Has the meaning given in ASIC Instrument 2016/968
+
+                                member                   A member of a registered scheme
+
+                                Memorandum of            The Memorandum of Cooperation on the Establishment
+                                Cooperation              and Implementation of the Asia Region Funds Passport
+
+                                omnibus account          An account in which money, securities or derivatives for
+                                                         more than one beneficial owner are co-mingled by a
+                                                         custodian or a sub-custodian
+
+                                participating economy    An economy that is a participant under the Memorandum
+                                                         of Cooperation (while it is in effect) and has:
+                                                          advised the Asia Region Funds Passport Joint
+                                                           Committee that it has implemented the Asia Region
+                                                           Funds Passport; and
+                                                          not withdrawn from the Memorandum of Cooperation
+
+                                passport fund            A regulated collective investment scheme, or sub-fund of
+                                                         a regulated collective investment scheme, registered as a
+                                                         passport fund in a participating economy
+                                                            Note: Some regulated collective investment schemes, or sub-
+                                                            funds of regulated collective investment schemes, that have
+                                                            been deregistered as passport funds remain subject to
+                                                            obligations as if they were still a passport fund.
+
+                                Passport Rules           The requirements in Annex 3 to the Memorandum of
+                                                         Cooperation, as incorporated into the domestic law of a
+                                                         participating economy
+
+                                PDS                      A Product Disclosure Statement—a document that must
+                                                         be given to a retail client for the offer or issue of a
+                                                         financial product in accordance with Div 2 of Pt 7.9 of the
+                                                         Corporations Act
+                                                            Note: See s9 for the exact definition.
+
+                                PF 209 (for example)     An ASIC pro forma (in this example numbered 209)
+
+                                Pt 7.9 (for example)     A part of the Corporations Act (in this example numbered
+                                                         7.9), unless otherwise specified
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                   Page 49
+                                     REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                                Term                     Meaning in this document
+
+                                reg 7.6.04 (for          A regulation of the Corporations Regulations (in this
+                                example)                 example numbered 7.6.04), unless otherwise specified
+
+                                registered scheme        A managed investment scheme that is registered under
+                                                         s601EB of the Corporations Act
+
+                                regulated collective     A regulated collective investment scheme as defined by
+                                investment scheme        the Passport Rules for a participating economy
+
+                                responsible entity       A responsible entity of a registered scheme as defined in
+                                                         s9 of the Corporations Act
+
+                                retail client            A client as defined in s761G and 761GA of the
+                                                         Corporations Act and Div 2 of Pt 7.1 of the Corporations
+                                                         Regulations
+
+                                RG 104 (for example)     An ASIC regulatory guide (in this example numbered
+                                                         104)
+
+                                s912A (for example)      A section of the Corporations Act (in this example
+                                                         numbered 912A), unless otherwise specified
+
+                                scheme property          Means:
+                                                         (a)   contributions of money or money’s worth to the
+                                                               scheme;
+                                                         (b)   money that forms part of the scheme property under
+                                                               provisions of the Corporations Act or the ASIC Act;
+                                                         (c)   money borrowed or raised by the responsible entity
+                                                               for the purposes of the scheme;
+                                                         (d)   property acquired, directly or indirectly, with, or with
+                                                               the proceeds of, contributions or money referred to
+                                                               in paragraphs (a), (b) or (c); and
+                                                         (e)   income and property derived, directly or indirectly,
+                                                               from contributions, money or property referred to in
+                                                               paragraphs (a), (b), (c) or (d)
+                                                            Note: This is a definition contained in s9 of the Corporations Act.
+
+                                sub-fund                 Has the meaning given in s1222Q of the Corporations Act
+                                                            Note: A sub-fund is established on the day on which it is
+                                                            registered: see s1222T.
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                                    Page 50
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             AFS licence, AFS licence conditions, AFS licensee obligations, asset holder,
+                             assets, Australian financial services licence, CCIVs, client assets,
+                             compliance plans, conflicts of interest, corporate collective investment
+                             vehicle, crypto-assets, custodial service, custodian, IDPS, IDPS operator,
+                             investor directed portfolio service, master custodian, licensed custody
+                             provider, managed discretionary account, MDA, MDA provider, minimum
+                             standards, obligation to separate scheme property, omnibus accounts,
+                             organisational structure, primary production schemes, registered interest,
+                             registered managed investment scheme, responsible entity, scheme property,
+                             staffing, sub-custodian
+
+
+                             Legislative instruments and pro formas
+
+                             ASIC Corporations (Managed Discretionary Account Services) Instrument
+                             2016/968
+
+                             ASIC Corporations (Financial Requirements for Responsible Entities, IDPS
+                             Operators and Corporate Directors of Retail CCIVs) Instrument 2023/647
+
+                             ASIC Corporations (Investor Directed Portfolio Services) Instrument
+                             2023/669
+
+                             ASIC Corporations (Asset Holding Standards for Responsible Entities)
+                             Instrument 2024/16
+
+                             ASIC Corporations (Custody Standards for Providers of Custodial and
+                             Depository Services) Instrument 2024/17
+
+                             PF 209 Australian financial services licence conditions
+
+
+                             Regulatory guides
+
+                             RG 51 Applications for relief
+
+                             RG 104 AFS licensing: Meeting the general obligations
+
+                             RG 105 AFS licensing: Organisational competence
+
+                             RG 132 Funds management: Compliance and oversight
+
+                             RG 136 Funds management: Discretionary powers
+
+                             RG 166 AFS licensing: Financial requirements
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 51
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             RG 179 Managed discretionary accounts
+
+                             RG 181 Licensing: Managing conflicts of interest
+
+                             RG 232 Agribusiness managed investment schemes: Improving disclosure
+                             for retail investors
+
+                             RG 259 Risk management systems of responsible entities
+
+
+                             Legislation
+
+                             AML/CTF Act
+
+                             ASIC Act
+
+                             Corporations Act, Chs 5C, 8A, Pts 9.4AAA, 5C.7, s9, 601FB, 601FC,
+                             601FF, 766E, 911B, 912A, 912D, 912DAA, 912E, s1211, 1211A
+
+                             Corporations Regulations, regs 5C.2.01, 5C.4.02, 5C.5.01, 7.6.01(1)(k),
+                             8B.5.10(2)
+
+
+                             Information sheets
+
+                             INFO 141 Dealing and providing custodial or depository service as
+                             secondary service
+
+                             INFO 225 Crypto-assets
+
+                             INFO 238 Whistleblower rights and protections
+
+                             INFO 239 How ASIC handles whistleblower reports
+
+
+                             Consultation papers and reports
+
+                             CP 296 Funds management
+
+                             REP 582 Response to submissions on CP 296 Funds management
+
+
+                             Other documents
+
+                             AS ISO 37301:2023 Compliance management systems—Requirements with
+                             guidance for use
+
+                             GS 007 Audit implications of the use of service organisations for investment
+                             management services
+
+                             ISO 27001 Information security, cybersecurity and privacy protection—
+                             Information security management systems—Requirements
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 52
+                                    REGULATORY GUIDE 133: Funds management and custodial services: Holding assets
+
+
+
+
+                             ISO 27002 Information security, cybersecurity and privacy protection—
+                             Information security controls
+
+                             NIST CSF Cybersecurity framework
+
+                             SSAE No. 18 Attestation standards: Clarification and recodification (PDF
+                             956 KB)
+
+                             Memorandum of Cooperation on the Establishment and Implementation of
+                             the Asia Region Funds Passport
+
+
+
+
+© Australian Securities and Investments Commission December 2024                                         Page 53
+

@@ -1,0 +1,31 @@
+{
+  "citation": "RG 112",
+  "title": "Independence of experts",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses the requirement that an expert providing a report under the Corporations Act must be independent of the commissioning party and other interested parties. It covers the principles and factors ASIC considers when assessing independence, including relationships, interests, and the need for a genuine opinion.",
+  "background": "The guide is issued under ASIC's powers to administer the Corporations Act 2001, particularly provisions requiring expert reports in contexts such as takeovers, schemes of arrangement, and related party transactions. It is intended for experts who prepare reports, as well as any person who commissions, issues, or uses an expert report, to clarify ASIC's interpretation of the independence requirement.",
+  "ruling": "ASIC interprets the independence requirement strictly, requiring that an expert must not have any relationship or interest that could reasonably be seen as impairing its ability to provide an objective and unbiased opinion. The guide sets out factors ASIC will consider, such as financial interests, business relationships, and prior involvement with the commissioning party. ASIC expects experts to disclose all relevant relationships and interests, and if independence cannot be maintained, the expert should decline the engagement. The guide also addresses the use of specialists and the need for the expert to take responsibility for the report's content.",
+  "date_of_effect": "2011-03-30",
+  "legislation_referenced": [
+    "Australian Securities and Investments Commission Act 2001 (Cth) s 12DA",
+    "Corporations Act 2001 (Cth) Chs 2E, 5, 6, 6A; ss 412(8), 636(1)-(3), 638(5), 640, 648A(1)-(3), 663B, 664C, 665B, 667B, 670A(1)(h), 711, 766A, 766B(1), 911A(1), 912A(1)(aa), 923A, 1041E, 1041F, 1041H",
+    "Corporations Regulations 2001 (Cth) regs 5.1.01, 7.6.01(u); Sch 8, cls 8303, 8306"
+  ],
+  "cases_referenced": [
+    "ANZ Nominees v Wormald International Ltd (1988) 13 ACLR 698",
+    "Duke Group v Pilmer (1998) 27 ACSR 1",
+    "Re Great Mines Limited [2004] ATP 01",
+    "Re Matine (1998) 28 ACSR 268",
+    "MGICA v Kenny & Good (1996) 140 ALR 313",
+    "Re Origin Energy Limited 02 [2008] ATP 23",
+    "Phosphate Co-operative Co of Aust Ltd v Shears & Anor (No 3) (1988) 14 ACLR 323",
+    "Reiffel v ACN 075 839 226 (2003) 45 ACSR 67"
+  ],
+  "related_rulings": [
+    "RG 55",
+    "RG 111",
+    "RG 181",
+    "ASIC Corporations (Financial Services Guide, General Advice Warning and Advertising Related Relief) Instrument 2025/234"
+  ]
+}

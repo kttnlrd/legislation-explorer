@@ -1,0 +1,1689 @@
+REGULATORY GUIDE 60
+
+Schemes of arrangement
+
+September 2020
+
+
+
+
+About this guide
+This is a guide for companies and their advisers involved in, or affected by,
+schemes of arrangement between a company and its members under Pt 5.1
+of the Corporations Act.
+
+This guide explains:
+   ASIC’s role under the scheme provisions in Pt 5.1;
+   the matters we consider when reviewing scheme documents; and
+   how we determine whether to provide a ‘no objection’ statement under
+    s411(17)(b).
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in September 2020 and is based on legislation and
+                             regulations as at the date of issue. In March 2024, we updated references to
+                             remade legislative instruments.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 60, issued December 2009, reissued
+                                     September 2011 and updated (minor) July 2020
+                                    Superseded Policy Statement 60, issued 4 August 1999, amended
+                                     25 February 2008, rebadged as a regulatory guide 5 July 2007
+                                    Superseded Policy Statement 142, issued 4 August 1999 and rebadged
+                                     as a regulatory guide 5 July 2007
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                        Page 2
+                                                                                 REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+Contents
+                             A      Overview ........................................................................................... 4
+                                    ASIC’s role in schemes of arrangement ............................................ 4
+                                    Review of scheme documents ........................................................... 5
+                                    Disclosure obligations ........................................................................ 5
+                                    Registration of documents ................................................................. 6
+                                    Second hearing: Confirmation of a scheme ...................................... 6
+                                    Objections under s411(17)(b) ............................................................ 6
+                             B      Acquisitions under Ch 6 and Pt 5.1 ............................................... 7
+                                    Shareholder protection ...................................................................... 7
+                                    Our approach ..................................................................................... 8
+                             C      Review of scheme documents ..................................................... 11
+                                    Factors affecting our review of scheme documents ........................ 11
+                                    Complex, novel or uncertain issues ................................................. 11
+                                    Compliance with the Corporations Act ............................................ 12
+                                    Scheme conditions .......................................................................... 13
+                                    End date for a scheme..................................................................... 14
+                                    Third parties ..................................................................................... 14
+                             D      Disclosure obligations .................................................................. 15
+                                    General disclosure obligations......................................................... 15
+                                    Specific disclosure obligations ......................................................... 16
+                                    Expert reports .................................................................................. 19
+                                    Waiver of disclosure obligations ...................................................... 21
+                                    Taxation considerations ................................................................... 21
+                                    Distribution of explanatory statements ............................................ 22
+                                    Supplementary information .............................................................. 22
+                             E      Voting on a scheme ....................................................................... 23
+                                    Supplementary information .............................................................. 23
+                                    Voting ............................................................................................... 23
+                             F      Second hearing: Confirmation of a scheme ............................... 25
+                                    ASIC appearance at second hearing ............................................... 25
+                                    Objections under s411(17) .............................................................. 25
+                             G      Procedural issues .......................................................................... 28
+                                    Lodgement requirements ................................................................. 28
+                                    Fees ................................................................................................. 28
+                                    Publication of documents................................................................. 29
+                                    ASIC court appearances .................................................................. 29
+                                    ASIC action ...................................................................................... 29
+                             Key terms ............................................................................................... 30
+                             Related information ............................................................................... 31
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                                                        Page 3
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+A          Overview
+
+                              Key points
+
+                              The scheme of arrangement process is primarily a court-supervised
+                              process. However, ASIC is involved with:
+                              • the review of scheme documents (see Sections C–D);
+                              • the protection of interests of any members affected by the scheme;
+                              • the registration of scheme documents (see RG 60.12–RG 60.14); and
+                              • reporting to the court on any complex issues or possible areas of
+                                objection (see Section F).
+
+                              We will object to a proposed scheme of arrangement if:
+                              • we consider that the scheme will deprive shareholders of the benefits or
+                                protections of a takeover under Ch 6; or
+                              • the scheme documents do not meet the disclosure obligations outlined
+                                in Section D.
+
+
+
+
+ASIC’s role in schemes of arrangement
+              RG 60.1        Schemes of arrangement are regulated under Pt 5.1 of the Corporations
+                             Act 2001 (Corporations Act) and are binding, court-approved agreements
+                             that allow the reorganisation of the rights and liabilities of members and
+                             creditors of a company. This guide only sets out how we will administer
+                             members’ schemes and option holders’ schemes.
+
+              RG 60.2        The court cannot approve a scheme of arrangement unless:
+                             (a)   it is satisfied that the scheme has not been proposed to avoid
+                                   compliance with the takeover requirements in Ch 6; or
+                             (b)   ASIC has issued a statement under s411(17)(b) that we have no
+                                   objection to the scheme.
+
+                                   Note: See Re ACM Gold Limited and Mt Leyshon Gold Mines Ltd (1992) 7 ACSR 231;
+                                   Re Foundation Healthcare Ltd (2002) 43 ACSR 680; Re Coles Group Ltd (No 2) [2007]
+                                   VSC 523.
+
+              RG 60.3        Parties proposing a scheme of arrangement under Pt 5.1 (proponents) must
+                             lodge the terms of the proposed scheme and the draft explanatory statement
+                             with us. We must be given an opportunity to examine this material prior to
+                             the court hearing to convene the relevant scheme meetings. We may make
+                             submissions to the court in relation to the scheme and the draft explanatory
+                             statement.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                            Page 4
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+              RG 60.4        Our role is to assist the court by:
+                             (a)   reviewing the content of scheme documents;
+                             (b)   reviewing the nature and function of the scheme;
+                             (c)   representing the interests of investors and creditors (where in many cases
+                                   we may be the only party before the court other than the applicant);
+                             (d)   helping to ensure that all matters that are relevant to the court’s decision
+                                   are properly brought to the court’s attention before it orders meetings or
+                                   before it confirms a scheme; and
+                             (e)   registering scheme documents.
+
+              RG 60.5        Proponents should lodge scheme documents through the ASIC Regulatory
+                             Portal to enable ASIC to efficiently perform its role.
+
+
+
+Review of scheme documents
+              RG 60.6        Section 411(2) requires us to be given at least 14 days’ notice of the hearing
+                             of an application unless we or the court permit a shorter period. In almost all
+                             cases, this will be the minimum period required to examine the draft
+                             explanatory statement and the terms of the proposed scheme. If the scheme
+                             or the commercial proposal underlying it is complex, more than 14 days may
+                             be required for us to determine whether or not we should object to the
+                             confirmation of the scheme. If we have not had adequate time to consider the
+                             scheme or its documentation, we will ask the court to adjourn any
+                             application or hearing to call the scheme meetings or to confirm the scheme.
+
+              RG 60.7        Section 411(2)(a) allows us to consent to reducing the 14 days’ notice
+                             requirement, but this will happen infrequently—for example, in the case of
+                             some small and simple schemes.
+
+              RG 60.8        For guidance on the matters we consider when reviewing scheme
+                             documents, see Section C.
+
+
+
+Disclosure obligations
+              RG 60.9        Sections 411(3)(b) and 412(1)(a)(ii) require explanatory statements to
+                             contain the information prescribed by reg 5.1.01 and Sch 8 of the
+                             Corporations Regulations 2001 (Corporations Regulations), unless we grant
+                             a waiver from those requirements. We will object to a proposed scheme of
+                             arrangement if the information disclosed is not of the type and standard
+                             required under reg 5.1.01 and Sch 8, unless a waiver applies.
+
+              RG 60.10       We will also consider the disclosure principles in s602 and the disclosure
+                             obligations in s636 when determining whether shareholders are adequately
+                             informed and protected.
+
+
+
+© Australian Securities and Investments Commission September 2020                                        Page 5
+                                                                     REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+              RG 60.11       For guidance on the type and standard of disclosure we expect in scheme
+                             documents generally, see Section D.
+
+
+
+Registration of documents
+              RG 60.12       We must not register a copy of the explanatory statement unless it appears to
+                             comply with the Corporations Act and we consider it does not contain any
+                             matter that is false in a material particular or materially misleading in the
+                             form or context in which it appears: see s412(8).
+
+                                   Note: The misleading and deceptive conduct provisions in s1041H also apply to
+                                   schemes.
+
+              RG 60.13       We will not register an explanatory statement until it has been approved (or
+                             not objected to) by the court under s411(1) or (1A).
+
+              RG 60.14       Registration is only required for schemes which do not include a
+                             compromise between a company and its creditors: see s412(6). We will
+                             reject as artifice any scheme that tries to combine a members’ scheme and an
+                             option holders’ scheme into a single scheme to avoid the requirement of
+                             s412(6).
+
+
+
+Second hearing: Confirmation of a scheme
+              RG 60.15       We will ordinarily not appear at the second hearing if we have no objection
+                             to the scheme. However, we will appear at this hearing if we consider that
+                             further matters have arisen that should be raised with the court.
+
+
+
+Objections under s411(17)(b)
+              RG 60.16       Under s411(17)(b) we are required to decide whether we have no objection
+                             to the proposed scheme of arrangement. We are not required to determine or
+                             prove the purpose of the scheme.
+
+              RG 60.17       The primary question we will consider under s411(17)(b) is whether, having
+                             regard to the principles in s602, shareholders are adversely affected by the
+                             takeover being implemented by a scheme of arrangement rather than a
+                             takeover bid.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                                  Page 6
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+B          Acquisitions under Ch 6 and Pt 5.1
+
+                              Key points
+
+                              We have no preference for acquisitions being conducted either as schemes
+                              of arrangement or takeovers, as long as shareholders are not deprived of
+                              the benefits or protections offered by Ch 6: see RG 60.18–RG 60.21.
+
+
+
+
+Shareholder protection
+              RG 60.18       It is not the purpose of the Corporations Act to require persons to follow the
+                             takeover procedures set out in Ch 6 in preference to other regulated methods
+                             in all transactions involving acquisitions.
+                                   Note: See Re The Bank of Adelaide (1979) 22 SASR 481; Re Wallace Dairy Co Ltd
+                                   (1980) ACLR 139; Re ACM Gold Limited and Mt Leyshon Gold Mines Ltd (1992) 7
+                                   ACSR 231; Re Stockbridge Ltd (1993) 9 ACSR 637; Re Foundation Healthcare Ltd
+                                   (2002) 43 ACSR 680; Re MIM Holdings Ltd (2003) 45 ACSR 554; Re Coles Group Ltd
+                                   (No 2) [2007] VSC 523.
+
+              RG 60.19       Shareholders should, however, receive equivalent (although not necessarily
+                             identical) treatment and protection, whether an acquisition is made under a
+                             scheme of arrangement or by any other type of acquisition (including capital
+                             reductions). As long as these protections are equivalent in nature, we do not
+                             favour one legal method over another.
+
+              RG 60.20       Section 602 sets out the underlying principles of fairness and disclosure of
+                             information in relation to the acquisition of shares, as well as emphasising
+                             the need for such acquisitions to occur in an efficient and competitive
+                             market. The principles in s602 relate to:
+                             (a)   sufficient time for shareholders to make a decision;
+                             (b)   sufficient information to make a decision; and
+                             (c)   reasonable and equal opportunities to share in any benefits that flow
+                                   from a person acquiring a substantial interest in their company.
+
+                             We will consider these principles and apply them equally to our role in
+                             schemes of arrangement as we do for other types of acquisition.
+
+
+                             What the court has held
+
+              RG 60.21       In considering whether a scheme is fair and equitable, and should therefore
+                             be approved, the court has held the following:
+                             (a)   that it is ‘legitimate and appropriate for a court to keep in mind the
+                                   provisions of the Acquisition of Shares Code’;
+                                   Note 1: See Catto v Ampol Ltd (1989) 7 ACLC 717.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                          Page 7
+                                                                     REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+                                   Note 2: The Acquisition of Shares Code has been superseded by Ch 6 of the
+                                   Corporations Act.
+
+                             (b)   ‘the court keeps before it other legislative provisions including those
+                                   relating to the regulation of takeovers, and endeavours to administer
+                                   them in such a way which gives a harmonious practical and mutually
+                                   supportive operation to each provision’;
+
+                                   Note: See Nicron Resources Ltd v Catto (1992) 8 ACSR 219.
+
+                             (c)   ‘the objectives of Ch 6 are relevant to the issue of the court exercising
+                                   its discretion to approve a scheme of arrangement effecting a takeover.
+                                   They indicate a legislative intent to protect members subject to a
+                                   takeover’; and
+
+                                   Note: See Re Coles Group Ltd (No 2) [2007] VSC 523.
+
+                             (d)   ‘thus while such information is not specifically required by the
+                                   Corporations Act in the case of a court-approved scheme of
+                                   arrangement (or a selective reduction of capital), nonetheless,
+                                   particularly where what is being done is substantially equivalent to a
+                                   conventional takeover, shareholders should not be deprived of
+                                   equivalent information’.
+
+                                   Note 1: See Re Archaean Gold NL (1997) 23 ACSR 143.
+
+                                   Note 2: While the first two cases, cited in RG 60.21(a) and RG 60.21(b), concerned
+                                   reductions of capital, the court, by analogy, has adopted a similar approach in the
+                                   context of a scheme of arrangement: see Re ACM Gold Limited and Mt Leyshon Gold
+                                   Mines Ltd (1992) 7 ACSR 231; Re Stockbridge Ltd (1993) 9 ACSR 637; Re Archaean
+                                   Gold NL (1997) 23 ACSR 143; Re Coles Group Ltd (No 2) [2007] VSC 523.
+
+
+
+
+Our approach
+              RG 60.22       Consistent with the court’s approach, we will have regard to the principles in
+                             s602 and the disclosure requirements in s636, as well as the disclosure
+                             obligations under reg 5.1.01 and Sch 8 of the Corporations Regulations,
+                             when considering an acquisition under a scheme of arrangement that is
+                             capable, in whole or part, of being conducted under a takeover bid.
+
+                                   Note: See Catto v Ampol Ltd (1989) 7 ACLC 717; Nicron Resources Ltd v Catto (1992)
+                                   8 ACSR 219; Re Archaean Gold NL (1997) 23 ACSR 143; Re Coles Group Ltd (No 2)
+                                   [2007] VSC 523.
+
+
+                             Equality between classes of securities
+              RG 60.23       We consider that when there is more than one class of security in a scheme,
+                             the resolution put before each of the classes should be conditional on each
+                             other class passing the resolution put before it. In this way all members will
+                             have an equal opportunity to participate in the benefits accruing from an
+                             acquisition, and the equality principles in s602(c) will be met.
+
+
+
+© Australian Securities and Investments Commission September 2020                                                Page 8
+                                                                        REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+                             Collateral benefits and unequal consideration
+              RG 60.24       Consistent with the policy behind s602(c), we will closely consider a scheme if:
+                             (a)   some holders in a class of security in the target (target security) receive
+                                   a collateral benefit in connection with the scheme; or
+                             (b)   there are collateral benefits associated with the consideration offered for
+                                   each different class of target security (whether that consideration is
+                                   offered under the scheme or under a separate agreement between the
+                                   acquirer and the holder of the target security). In particular, we will
+                                   consider if the consideration offered for each class is:
+                                   (i)     proportionate to each of the others, taking into account the
+                                           differences in rights or obligations between the security classes;
+                                   (ii)    at a similar premium, for example, to market prices where
+                                           applicable; and
+                                   (iii)   reasonable, taking into account the amounts payable on the target
+                                           securities, the time value of money, the opportunities inherent in
+                                           convertible target securities, the ability of the target to repay
+                                           convertible target securities in the absence of the scheme, or any
+                                           other established criteria (such as those contained in the Takeovers
+                                           Panel Guidance Note 21 Collateral benefits (GN 21)).
+                                   Note: Where holders receive a collateral benefit in connection with a scheme, we will
+                                   generally not object to the scheme if the affected holders vote in a separate class and the
+                                   explanatory statement explains the benefit and includes an independent valuation of the
+                                   benefit.
+
+
+                             Proposed timetable for completion
+              RG 60.25       The timetable proposed for completion of a scheme of arrangement should
+                             be consistent with the takeovers policy in Ch 6 relating to:
+                             (a)   the announcement of a bid (see s631(1)); and
+                             (b)   the offer period and formalities (see s620 and 624).
+
+
+                             Notice of meeting
+              RG 60.26       The notice of a meeting sent to each class should not be misleading and
+                             should fairly inform the recipients of:
+                             (a)   the proper business of the meeting; and
+                             (b)   the compromise or arrangement proposed to each other security class.
+
+
+                             Information provided in the explanatory statement
+
+              RG 60.27       The holders of target securities should have access to the same type and
+                             standard of information that would have been provided to them under s636
+                             in a bidder’s statement (but not in contradiction of any disclosure
+                             requirements under Sch 8 of the Corporations Regulations).
+
+
+
+© Australian Securities and Investments Commission September 2020                                                      Page 9
+                                                                      REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+                             Interested parties
+
+              RG 60.28       Where, under an acquisition, the acquirer of target securities (acquirer) or its
+                             associates (together, interested parties) have the power to vote to approve the
+                             proposed scheme of arrangement, there should be adequate disclosure of:
+                             (a)   the power to vote;
+                             (b)   the identity of the holder of such power;
+                             (c)   the number and type of target securities in which the power is held; and
+                             (d)   whether the holder intends to vote on the proposed acquisition and, if
+                                   so, the manner in which the holder intends to vote.
+
+                                   Note: See RG 60.97–RG 60.98 for a discussion of voting by interested parties.
+
+
+                             Offers of scrip
+
+              RG 60.29       Where the acquirer intends to provide securities as consideration to the holders
+                             of target securities, the holders of target securities should be provided with
+                             sufficient information about the securities to allow them to decide how they
+                             will vote on the resolutions put before them: see the requirements for a
+                             bidder’s statement detailed in s636(1)(g) and at RG 60.68–RG 60.69.
+
+              RG 60.30       We have prevented offers of proprietary company scrip consideration to
+                             retail investors and, where the consideration offered is public company scrip
+                             to be held under mandatory custodial arrangements, limited the ability to
+                             convert to a proprietary company if there are more than 50 non-employee
+                             beneficial owners.
+
+                                   Note: See ASIC Corporations (Stub Equity in Control Transactions) Instrument
+                                   2020/734.
+
+
+                             Agreements
+
+              RG 60.31       We will also examine the terms of any agreement entered into between the
+                             acquirer, or interested parties, and the target and, in particular, any conditions
+                             (whether precedent or subsequent) relating to successful completion of the
+                             agreement: see RG 60.44.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                                  Page 10
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+C          Review of scheme documents
+
+                              Key points
+
+                              The proposed scheme and the draft explanatory statement must be lodged
+                              with us within a reasonable time before the hearing of the application
+                              (generally at least 14 days beforehand). Schemes that are novel or more
+                              complex may require more time: see RG 60.32–RG 60.34.
+                              We will examine the scheme documents to ensure that they comply with
+                              the requirements of s411 and that they are consistent with the other
+                              obligations of the Corporations Act: see RG 60.40–RG 60.43.
+                              We will consider, among other things, whether the scheme documentation
+                              has adequately dealt with factors such as conditions, end dates, third
+                              parties and scheme administrators: see RG 60.44–RG 60.55.
+
+
+
+
+Factors affecting our review of scheme documents
+              RG 60.32       The court must be satisfied that we have had reasonable opportunity to
+                             examine the terms of the proposed scheme and the draft explanatory
+                             statement, as well as reasonable opportunity to make submissions to the
+                             court: see s411(2)(b).
+
+              RG 60.33       We consider the 14-day period referred to in s411(2)(a) will generally be the
+                             minimum period required to examine the scheme documents. Schemes that
+                             are novel or more complex will often require more time.
+
+              RG 60.34       We are likely to require more time to examine schemes such as:
+                             (a)   takeover type schemes;
+                             (b)   complex schemes;
+                             (c)   novel schemes;
+                             (d)   schemes of large size or value; and
+                             (e)   schemes with a high level of public interest or significance,
+
+                             than other types of schemes, such as internal reconstruction schemes,
+                             schemes of little public interest or significance, or small and simple schemes.
+
+
+
+Complex, novel or uncertain issues
+              RG 60.35       In Re Archaean Gold NL (1997) 23 ACSR 143 at 148, Santow J noted that:
+                                  Schemes that are unopposed proceed effectively on an ex parte basis,
+                                  through application by the proponents of the scheme. The court in the
+                                  nature of things must therefore rely on the proponents of the scheme to
+                                  anticipate the disclosure that is properly required and to draw any elements
+                                  of the scheme that are potentially problematic to the court’s attention.
+
+
+
+© Australian Securities and Investments Commission September 2020                                       Page 11
+                                                                        REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+              RG 60.36       Proponents of a scheme should therefore raise with us any problematic,
+                             complex or novel issues, or areas of uncertainty, concerning the scheme
+                             arrangements or documentation. Issues that the proponents of a scheme
+                             should bring to our attention, for example, include questions of law that were
+                             the subject of counsel’s advice, or any issue relating to the scheme where a
+                             company sought another expert’s advice.
+
+
+                             Reverse takeovers achieved by a scheme
+
+              RG 60.37       Issues that may be raised under a reverse takeover achieved by a scheme are
+                             similar to those raised under a reverse takeover achieved via Ch 6. Therefore,
+                             the concerns that we might take to court in relation to a reverse takeover
+                             scheme are similar to those we might take to the Takeovers Panel in relation to
+                             a Ch 6 reverse takeover (e.g. in relation to s602).
+
+              RG 60.38       A scheme results in a reverse takeover if:
+                             (a)   consideration for the members of the company proposing the scheme
+                                   (the target company) is shares in the offeror company; and
+                             (b)   the scheme results in a change in control of the offeror company or has
+                                   a material effect on control of the offeror company.
+
+              RG 60.39       We encourage any person proposing a scheme that will result in a member in
+                             the scheme company obtaining voting power in the offeror company of more
+                             than 20% to consult with us very early in the planning stage. We will
+                             consider such schemes on a case-by-case basis to determine if they result in
+                             a change in control of the offeror company, or have a material effect on
+                             control of the offeror company and therefore whether they result in a reverse
+                             takeover. We will monitor this area and, if it becomes necessary, will
+                             consider providing further guidance in the future.
+
+                                   Note: Takeovers Panel Guidance Note 1 Unacceptable circumstances (GN 1) states
+                                   that a bid that results in a reverse takeover may involve unacceptable circumstances (at
+                                   GN 1.32(b)). A reverse takeover is defined very broadly as ‘a change of control, or a
+                                   material effect on control by an issue of shares as consideration for a bid, that either
+                                   disenfranchises shareholders or does not meet the policy of Ch 6 (even if strictly it
+                                   satisfies item 4 of s611—acquisitions that result from acceptances of a bid)’.
+
+
+
+
+Compliance with the Corporations Act
+              RG 60.40       We will examine the scheme documents to ensure that they comply with the
+                             requirements of s411.
+
+              RG 60.41       Although s411 is widely or liberally construed, it cannot be used in certain
+                             circumstances—for example, to avoid the shareholder protections provided by
+                             a takeover under Ch 6 of the Corporations Act, or for an unlawful scheme.
+
+                                   Note: See Re Northumberland Insurance Co Ltd (No 3) (1977) 3 ACLR 15.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                                     Page 12
+                                                                       REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+              RG 60.42       Additionally, we will examine whether the proposed scheme of arrangement
+                             contains a provision that is inconsistent with an express or implied provision
+                             of the Corporations Act. When a scheme involves another procedure under
+                             the Corporations Act, the scheme will not excuse compliance with the law
+                             relating to that procedure.
+
+                                   Note: See Re Australian Consolidated Press (1994) 14 ACSR 639.
+
+              RG 60.43       A scheme cannot be used to avoid a specific procedure laid down by the
+                             Corporations Act, although it can often be combined with that procedure.
+                             Examples of situations where the Corporations Act provides a specific
+                             power or procedure are:
+                             (a)   reducing the capital of a company (see s256B);
+
+                                   Note: See Re Land & Concrete Pty Ltd and Others and the Companies Act (1979)
+                                   CLC 40-584.
+
+                             (b)   changing the status of a company (see Pt 2B.7);
+
+                                   Note: See ASC v Marlborough Gold Mines Limited NL (1993) 10 ACSR 230.
+
+                             (c)   amending the constitution of a company (see s136); and
+                             (d)   changing a company’s name.
+
+                                   Note: See Re Oceanic Steam Navigation Co Ltd [1939] Ch 41.
+
+
+
+
+Scheme conditions
+              RG 60.44       We will consider the appropriateness of any condition to which the operation
+                             of the scheme is subject. There must be adequate disclosure of any such
+                             condition in both the explanatory statement and the other scheme documents.
+
+                                   Note: The announcement of a scheme should include a copy of the scheme
+                                   implementation agreement or a summary of all material conditions and termination rights
+                                   to which the operation of the scheme is subject: see BC Iron Limited [2011] ATP 6.
+
+
+                             Lock-up devices
+
+              RG 60.45       In deciding whether a break fee or other lock-up device in a scheme is
+                             appropriate, we will need to be satisfied that the device is not anti-competitive
+                             or coercive.
+
+              RG 60.46       To determine this we will take into account the matters considered in the
+                             Takeovers Panel Guidance Note 7 Deal protection (GN 7).
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                                  Page 13
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+End date for a scheme
+              RG 60.47       ASIC prefers that a precise end date for the implementation of a scheme is
+                             specified in the scheme documents. If it is not possible to specify an end
+                             date, the scheme documentation should state clearly how the scheme is to be
+                             implemented and how the end date will be determined.
+
+
+
+Third parties
+              RG 60.48       Some schemes are part of transactions that depend on the actions of third
+                             parties—for example, in a takeover type scheme, the acquiring company will
+                             not be a party to the scheme, but is likely to provide the consideration for the
+                             cancellation of target shares.
+
+              RG 60.49       We will aim to ensure that third parties in these situations are legally bound
+                             to fulfil these obligations—for example, we may request that a third party
+                             become contractually bound to provide these benefits.
+
+                                   Note: See Re Advance Bank Australia (1996) 22 ACSR 476 and Re Advance Bank
+                                   Australia Ltd (No 2) (1997) 22 ACSR 513.
+
+              RG 60.50       Depending on the significance of the arrangement to the scheme, proponents
+                             may need to submit relevant documentation to us for our consideration and,
+                             in certain cases, explain the arrangement in the explanatory statement.
+
+              RG 60.51       We will examine any disclaimer, release or indemnity provided to any
+                             person participating or otherwise involved in the scheme to ensure that it
+                             does not unnecessarily erode the effect of the scheme.
+
+
+                             Scheme administrator
+
+              RG 60.52       In some cases a scheme administrator will be appointed to administer the
+                             scheme. However, this is not a requirement of the Corporations Act.
+
+              RG 60.53       We will consider whether a scheme administrator should be appointed. It
+                             may be appropriate, for example, to appoint an administrator when the
+                             scheme is implemented over an extended period of time and requires
+                             payment of the scheme consideration by instalments.
+
+              RG 60.54       Administrators should be contractually bound by the scheme document to
+                             discharge the functions and duties imposed upon them. The explanatory
+                             statement should disclose how a scheme administrator is bound and on what
+                             terms.
+
+              RG 60.55       The explanatory statement should also disclose how a scheme administrator
+                             will be remunerated.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                          Page 14
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+D          Disclosure obligations
+
+                              Key points
+
+                              The type and standard of disclosure we expect is prescribed under
+                              reg 5.1.01 and Sch 8 of the Corporations Regulations, unless we have
+                              waived these requirements.
+
+                              This section provides additional guidance on:
+                              • general disclosure obligations (see RG 60.58–RG 60.62);
+                              • more specific disclosure obligations relating to certain types of schemes
+                                or certain classes of shareholder (see RG 60.63–RG 60.75);
+                              • when an expert report is recommended or required for a scheme (see
+                                RG 60.76–RG 60.86);
+                              • the types of situation where we may grant relief from the disclosure
+                                obligations (see RG 60.87–RG 60.91); and
+                              • the disclosure obligations when there is a significant reduction in the
+                                taxation liabilities of the company that is the subject of the scheme
+                                (scheme company) or the scheme’s proponents (see RG 60.92).
+
+
+              RG 60.56       Explanatory statements must disclose the information prescribed in
+                             reg 5.1.01 and Sch 8 of the Corporations Regulations, unless we grant a
+                             waiver from these requirements: see s411(3)(b) and 412(1)(a)(ii). These
+                             obligations require the disclosure of general information as well as the
+                             disclosure of more specific information relating to certain types of scheme or
+                             certain classes of shareholder.
+
+              RG 60.57       A number of judicial decisions have emphasised the need for candour and
+                             completeness in the disclosure of information in scheme documentation—for
+                             example, in Phosphate Co-operative Co of Australia Ltd v Shears and Anor
+                             (No 3) (1988) 5 ACLC 1046, the court stated that:
+                                   The important issue about disclosure in the explanatory statement is that it
+                                   should disclose all information that would tend to influence a sensible
+                                   member’s or creditor’s decision on whether the scheme is in his interests.
+
+
+
+General disclosure obligations
+
+                             Advantages and disadvantages of the proposal
+
+              RG 60.58       We consider that the explanatory statement of a scheme should state clearly
+                             and prominently the comparative advantages and disadvantages of
+                             proceeding with or rejecting the scheme.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                        Page 15
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+                             Identification of participants
+
+              RG 60.59       We will review scheme documents to ensure that they identify the criteria
+                             and the date for determining:
+                             (a)   the persons who are to participate in the scheme;
+                             (b)   the persons who are entitled to vote at the meeting of scheme
+                                   participants; and
+                             (c)   the persons who will be bound by the scheme if it is approved by the
+                                   court.
+
+
+                             Classes of participant
+
+              RG 60.60       A scheme must be considered and voted on by each separate class of
+                             participant affected by the scheme.
+
+              RG 60.61       When a scheme involves separate classes, we expect the division of classes
+                             to be clearly specified in the scheme documents and disclosed in the
+                             explanatory statement, together with an explanation of why the divisions
+                             have been drawn.
+
+              RG 60.62       We will aim to ensure that the determination of classes for voting on a scheme
+                             is fair and equitable and takes into account the rights and obligations of each
+                             class in relation to the company and the effect of the scheme on them.
+
+
+
+Specific disclosure obligations
+
+                             Option holders
+
+              RG 60.63       The courts have predominantly held that option holders are to be treated as
+                             contingent creditors in a scheme. Despite this classification, we consider that
+                             the information that option holders require when considering whether or not
+                             to approve a scheme is much closer to the information required by members
+                             rather than creditors.
+
+              RG 60.64       We will consider applications to waive the creditor scheme information
+                             requirements for schemes involving option holders if the explanatory
+                             statement contains information suitable for a members’ scheme. We will
+                             waive compliance in the form set out in Pro Forma 191 Information to
+                             option/debenture holders (PF 191).
+
+
+                             List of option holders
+
+              RG 60.65       The explanatory statement must list the names of all known scheme creditors
+                             together with the debts owed to the creditors: see Sch 8, cl 8201(c) of the
+                             Corporations Regulations. Under s170 and 173 option holders may obtain
+
+
+© Australian Securities and Investments Commission September 2020                                       Page 16
+                                                                      REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+                             the names of other option holders. As they will be persons with like interests,
+                             option holders should be able to communicate with each other if they do not
+                             support the scheme. Information about other creditors does not appear
+                             relevant to an option holder’s decision.
+
+              RG 60.66       We will consider applications to waive this requirement for option holders if
+                             the explanatory statement clearly sets out the rights of option holders under
+                             s170 and 173. Any ASIC relief will be in the form set out in Pro Forma 192
+                             Names and ‘debts’ to option holders (PF 192).
+
+
+                             Convertible note holders
+
+              RG 60.67       The information needed by convertible note holders is generally much closer
+                             to that needed by creditors. However, the equity conversion right of
+                             convertible notes means that an explanatory statement for a scheme that
+                             involves convertible note holders may need to contain information suitable
+                             for both creditors and members. The appropriate information will depend on
+                             the particular scheme.
+
+
+                             Disclosure for a scrip takeover type scheme
+
+              RG 60.68       We consider that for schemes where an essential part of the overall
+                             transaction is that members accept shares in the acquiring company,
+                             disclosure in the explanatory statement should meet the requirements of a
+                             bidder’s statement for a scrip bid.
+
+                                   Note: Section 708(17) provides that the prospectus requirements in Ch 6D, Div 2 do not
+                                   apply to a primary offer or invitation in a compromise or arrangement approved by a
+                                   court under s411(1). Scheme proponents should also note that ASIC Corporations (On-
+                                   Sale Disclosure Relief for Scrip Bids and Schemes of Arrangement) Instrument
+                                   2023/686 provides technical on-sale disclosure relief from s707(3) and 1012C in
+                                   relation to securities received under the terms of a scheme.
+
+              RG 60.69       It is the responsibility of the directors of the target company to ensure that
+                             the scheme documentation contains this information before proposing the
+                             scheme to its members.
+
+
+                             Scheme to remove minority shareholders
+
+              RG 60.70       We will aim to ensure that any scheme has the informed and uncoerced
+                             approval of those who may be adversely affected by it. This is most
+                             important in a scheme that will remove minority shareholders (an expulsion
+                             scheme), where the scheme has very different effects on different classes.
+
+              RG 60.71       When deciding whether to provide a statement under s411(17)(b), register an
+                             explanatory statement, make submissions to the court, or intervene in the
+                             proceedings of an expulsion scheme, we will consider whether minority
+                             shareholders are adequately informed and fairly treated.
+
+
+
+© Australian Securities and Investments Commission September 2020                                                Page 17
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+              RG 60.72       The explanatory statement for an expulsion scheme should disclose all
+                             material information available on the following matters:
+                             (a)   the purpose(s) of the scheme;
+                             (b)   the reasons for rejecting alternative means of achieving the purpose(s);
+                             (c)   the reasons for concluding that the consideration will be fair to those
+                                   affected;
+                             (d)   the current and historical market prices of the shares;
+                             (e)   the value of the company both as a going concern and on liquidation;
+                             (f)   any reports or appraisals prepared in relation to the scheme;
+                             (g)   the possible tax implications of the scheme and suggestions to members
+                                   to seek taxation advice;
+                             (h)   any special benefit(s) that will accrue to the majority shareholder
+                                   following the acquisition of minority shareholdings; and
+                             (i)   any other material information known to the proponent or directors and
+                                   relevant to making a decision on the proposed scheme.
+
+                             The proponent of this type of scheme will often be best placed to assist in
+                             providing this information to the company for inclusion in the explanatory
+                             statement.
+
+              RG 60.73       Although it was concerned with a different process, the High Court decision
+                             in Gambotto and Anor v WCP Limited and Anor (1995) 16 ACSR 1 may
+                             provide a useful guide for reviewing fairness and disclosure in cases where
+                             minorities are to be expropriated. In relation to these issues, we will assess
+                             whether:
+                             (a)   all relevant information has been disclosed to minority shareholders;
+                             (b)   the consideration to be received by minority shareholders is fair, in so
+                                   far as fairness is determined by minority shareholders receiving a
+                                   reasonable and equal opportunity to share in the benefits that will flow
+                                   to the majority shareholder if the scheme proceeds; and
+                             (c)   there is equal (but not necessarily identical) treatment of different
+                                   classes—that is, any differences in consideration that a class receives is
+                                   proportionate to the value of its securities or interests in the company.
+
+              RG 60.74       Whether the consideration is fair will depend on a number of factors such as
+                             the company’s assets and liabilities, the market value of the company’s
+                             securities, the past and likely future dividends and the nature of the
+                             corporation and its likely future.
+
+              RG 60.75       For more guidance on what is ‘fair’, see Regulatory Guide 111 Content of
+                             expert reports (RG 111).
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                        Page 18
+                                                                       REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+Expert reports
+              RG 60.76       An explanatory statement must be accompanied by an independent expert
+                             report if the other party to a reconstruction in a scheme of arrangement holds
+                             at least 30% of the company or where there are common directors in the
+                             entities involved in the scheme of arrangement: see reg 5.1.01 and Sch 8,
+                             cl 8303 of the Corporations Regulations.
+
+                                   Note: Even if an expert report is not required under the Corporations Regulations, it is
+                                   common for a scheme company to commission one voluntarily for a transaction that is
+                                   complex or effects a takeover.
+
+              RG 60.77       The expert must:
+                             (a)   state whether or not, in their opinion, the proposed scheme is in the best
+                                   interests of the members of the scheme company; and
+                             (b)   set out their reasons for that opinion.
+
+              RG 60.78       The expert must not be an associate of the other party to the scheme: see
+                             Sch 8, cl 8303 of the Corporations Regulations and Regulatory Guide 112
+                             Independence of experts (RG 112).
+
+              RG 60.79       If the expert report contains:
+                             (a)   a forecast of the profits or profitability of the company; or
+                             (b)   a statement that the market value of an asset or assets of the company or
+                                   a related company differs from the value of the asset(s) shown in the
+                                   books of the company or related company,
+
+                             the report must not accompany the statement except with our consent in
+                             writing and in accordance with any conditions we may impose: see Sch 8,
+                             cl 8305 of the Corporations Regulations.
+
+              RG 60.80       Full details of the principles and matters that should be considered by a person
+                             preparing an expert report (whether the report is required by the Corporations
+                             Regulations or commissioned voluntarily) are set out in RG 111 and RG 112.
+                             We will only consent to an expert report that complies with these standards.
+                             Any consent will be in the form set out in Pro Forma 194 Consent to expert’s
+                             report (PF 194).
+
+
+                             Internal reconstructions
+
+              RG 60.81       In the case of an internal reconstruction, we will normally waive compliance
+                             with Sch 8, cl 8303 of the Corporations Regulations, requiring an independent
+                             expert report, if no person other than a member company of the group will be
+                             required to vote on the scheme. If the members of the holding company are
+                             required to vote, we may waive the requirements of Sch 8, cl 8303, subject to
+                             suitable alternative information being provided.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                                   Page 19
+                                                                     REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+              RG 60.82       We will examine more closely applications for relief that are associated with
+                             internal reconstructions if the scheme is likely to raise jurisdictional or
+                             taxation issues for members. The onus will be on the applicant to satisfy us
+                             that there are no such material issues, or that the information that is provided
+                             to members will be adequate. We will waive compliance in the form set out
+                             in Pro Forma 195 ‘Best interest of the members’ expert report (PF 195).
+
+
+                             Scheme to remove minority shareholders
+
+              RG 60.83       The ability of the company’s directors to provide adequate independent
+                             information and advice to minority shareholders in expulsion schemes may
+                             frequently be questioned by minority shareholders or by the court. This is
+                             because, in most cases, the directors will be the nominees of the shareholder
+                             that is proposing the scheme in order to gain full ownership of the company.
+                             If the adequacy or independence of information is questionable, the scheme
+                             resolution may be invalid.
+
+                                   Note: See Re Albert Street Properties Ltd (1997) 23 ACSR 318.
+
+              RG 60.84       Directors should therefore strongly consider providing an independent expert
+                             report with the explanatory statement if one is not already required under
+                             s411(13), or Sch 8 of the Corporations Regulations.
+
+              RG 60.85       This report should provide a valuation of the shares. In addition, the report
+                             should state whether, in the opinion of the expert, the scheme is in the best
+                             interests of minority shareholders whose shares are being expropriated as
+                             well as continuing shareholders—that is, that it strikes a balance between the
+                             interests of these two groups. The report should also set out the reasons for
+                             this opinion.
+
+
+                             Concise expert reports
+
+              RG 60.86       Although we recognise the benefit of concise expert reports (see RG 111.88–
+                             RG 111.89 and Table 2 in RG 111), s412(1)(a)(ii) requires an explanatory
+                             statement to contain all material information. The Corporations Act does not
+                             contain a mechanism that allows information to be incorporated by reference
+                             into an explanatory statement. Further, ASIC does not have the power to
+                             provide relief from s412(1)(a)(ii) to facilitate incorporation by reference.
+                             Accordingly, if an explanatory statement only contains a concise expert
+                             report, the concise report will need to include all material information that is
+                             contained in the full report. The concise expert report must include a
+                             statement that it includes all material information that is contained in the full
+                             report.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                        Page 20
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+Waiver of disclosure obligations
+              RG 60.87       Regulation 5.1.01(1) and Sch 8 of the Corporations Regulations prescribe
+                             various information that must be included in a draft explanatory statement
+                             under s411(3)(b) or in a final explanatory statement under s412(1)(a)(ii).
+                             ASIC has the power to waive these disclosure requirements and we may
+                             impose conditions on any waiver we grant—for example, as mentioned in
+                             RG 60.63–RG 60.66, we may provide pro forma relief for schemes
+                             involving option holders.
+
+              RG 60.88       Proponents should submit applications for relief through the ASIC
+                             Regulatory Portal. They will need to pay fees for their application. We have
+                             provided details about payment options in the portal.
+
+              RG 60.89       Regulatory Guide 51 Applications for relief (RG 51) sets out how an
+                             applicant should make a relief application, including applying for a waiver
+                             from the disclosure requirements in reg 5.1.01 and Sch 8 of the Corporations
+                             Regulations.
+
+
+                             Conditional financial disclosure relief
+
+              RG 60.90       An explanatory statement must disclose full particulars of any material
+                             change in the financial position of the company since the date of its last
+                             balance sheet laid before a general meeting of the company or sent to
+                             shareholders in accordance with s314 or 317: see Sch 8, cl 8302(h) of the
+                             Corporations Regulations.
+
+              RG 60.91       We are willing to grant conditional relief from this provision as long as the
+                             company provides an update of its financial position from its last formal,
+                             publicly released financial report (e.g. a half-yearly or audited financial
+                             report) and ensures that shareholders can easily access that original report.
+
+
+
+Taxation considerations
+              RG 60.92       If we believe that a scheme of arrangement may involve a significant
+                             reduction in the taxation liabilities of the scheme company, or the scheme’s
+                             proponents, we may require evidence that the proponent has informed the
+                             Australian Taxation Office (ATO) of the proposed scheme. Subject to s127 of
+                             the Australian Securities and Investments Commission Act 2001 (dealing with
+                             confidentiality), we may raise matters concerning taxation with the ATO.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                       Page 21
+                                                                     REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+Distribution of explanatory statements
+              RG 60.93       Under s412(1) a scheme company is required to send an explanatory
+                             memorandum to its members with every notice convening a scheme
+                             meeting. While ASIC does not have the power to modify this requirement,
+                             the courts have in the past given orders allowing the explanatory statement
+                             to be distributed to members electronically.
+
+                                   Note: See Alinta Limited (No 2) [2007] FCA 1378.
+
+
+
+
+Supplementary information
+              RG 60.94       If a scheme company proposes to amend the terms of a scheme, or otherwise
+                             provide supplementary information to its members, after the explanatory
+                             statement has been dispatched, that supplementary information will need to
+                             be given to ASIC for review prior to being given to the court for approval.
+                             We will apply the same principles in reviewing supplementary information
+                             as we do when reviewing explanatory statements: see RG 60.96 for the
+                             timing required for the dispatch of supplementary information.
+
+                                   Note: See Re Citect Corporation Limited (2006) 56 ACSR 663 and Re Excel Coal
+                                   Limited (2006) 60 ACSR 184 for examples of where the court has approved
+                                   amendments to the terms of a scheme after the explanatory statement has been
+                                   dispatched.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                            Page 22
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+E          Voting on a scheme
+
+                              Key points
+
+                              We consider that shareholders should generally be given at least 10 days
+                              to consider any supplementary information before having to vote: see
+                              RG 60.95–RG 60.96.
+
+                              Interested parties can vote on a scheme but they should disclose their
+                              interests and either not vote in favour of the scheme or vote in their own
+                              separate class: see RG 60.97–RG 60.98.
+
+                              We would be concerned about any scheme that relied on proxy votes for
+                              approval or that appeared to involve some form of share splitting: see
+                              RG 60.99–RG 60.101.
+
+
+
+
+Supplementary information
+              RG 60.95       If a scheme company proposes to amend the terms of a scheme, or otherwise
+                             provide supplementary information to its members, after the dispatch of the
+                             explanatory statement, it is important that all members who are required to
+                             vote on a scheme have adequate time to consider that supplementary
+                             information before they decide to accept or reject the scheme.
+
+              RG 60.96       It will generally be appropriate for scheme participants, including those
+                             voting by proxy, to be given at least 10 days to consider any supplementary
+                             documentation distributed before being required to vote on the scheme.
+
+
+Voting
+              RG 60.97       The Corporations Act does not prohibit proponents or their associates
+                             (interested parties) who hold target shares or target securities from voting in
+                             relation to an acquisition. However, if the vote is to demonstrate approval by
+                             the remaining shareholders:
+                             (a)   interested parties should fully disclose their interests; and
+                             (b)   interested parties should either not vote in favour of the resolution to
+                                   approve the scheme, or should vote in a separate class.
+
+              RG 60.98       When interested parties vote in the same class as other members or creditors
+                             because they have a divergent commercial interest that falls short of
+                             requiring they meet as a separate class, voting should be by ballot. This
+                             ballot should be retained by the company, or an audited record of the voting
+                             should be retained. This will assist the court in determining whether or not to
+                             approve the scheme.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                       Page 23
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+                             Proxy schemes
+
+              RG 60.99       We note the decision of Santow J in Re Advance Bank Australia (1996) 22
+                             ACSR 476 and Re Advance Bank Australia Ltd (No 2) (1997) 22 ACSR 513
+                             concerning the use of a scheme of arrangement to approve a deemed
+                             granting of proxy votes by members of the company in relation to later
+                             meetings or resolutions. Santow J approved the Advance Bank scheme of
+                             arrangement on the basis that, among other things, the later resolutions
+                             would have been passed without reliance on the deemed proxies. This
+                             suggests that such proxies are only likely to be allowed when the relevant
+                             resolutions would be passed in any event without reliance on the proxies.
+
+
+                             Share splitting
+
+              RG 60.100      Share-splitting devices employed by proponents or opponents of a scheme
+                             may be objectionable.
+
+              RG 60.101      If we feel there is evidence that a scheme vote has been unfairly influenced by
+                             activities such as share splitting, we would generally advise a court to utilise
+                             its powers under s411(4)(a)(ii)(A) to disregard the need for a majority vote.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                       Page 24
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+F          Second hearing: Confirmation of a scheme
+
+                              Key points
+
+                              We will ordinarily not appear at the second (confirmation) hearing of a
+                              scheme if we have no objection to the scheme, unless we feel there are
+                              matters that should be brought to the court’s attention.
+
+                              Whether we have an objection to a scheme under s411(17) will be based
+                              primarily on whether we consider shareholders are missing out on the
+                              protections and benefits they would receive under a Ch 6 takeover: see
+                              RG 60.104–RG 60.110.
+
+                              If a shareholder undertakes to us that they will object to a scheme and the
+                              objection relates to the matters we take into account when deciding
+                              whether to give our ‘no objection’ statement under s411(17)(b), we will
+                              consider the objection before deciding whether to give our statement: see
+                              RG 60.111–RG 60.112.
+
+
+
+
+ASIC appearance at second hearing
+              RG 60.102      ASIC will ordinarily not appear at the second hearing under s411(4)(b) if we
+                             have no objection to the scheme. However, we will appear at this hearing if
+                             we consider that further matters have arisen that should be raised with the
+                             court. For example, we may have concerns about the conduct of the scheme
+                             meetings, or we may consider that some aspects of the scheme need to be
+                             altered, or conditions need to be imposed under s411(6).
+
+              RG 60.103      We may appear at the second hearing even if we did not appear at the first
+                             hearing under s411(1). This will usually be when the scheme, or process, as a
+                             whole raises issues that we consider should be brought to the court’s attention.
+
+
+
+Objections under s411(17)
+              RG 60.104      Under s411(17)(b) we are required to decide whether we have no objection
+                             to the proposed scheme of arrangement. We are not required to determine or
+                             prove the purpose of the scheme.
+
+              RG 60.105      The primary question we will consider under s411(17) is whether, having
+                             regard to the principles in s602, shareholders are adversely affected by the
+                             takeover being implemented by a scheme of arrangement rather than a
+                             takeover bid. We will not consider whether the purpose of the scheme is to
+                             avoid making the acquisition under Ch 6 for reasons that do not adversely
+                             affect offerees.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                       Page 25
+                                                                       REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+              RG 60.106      We will not oppose an application before the court on grounds arising out of
+                             s411(17) unless we have concerns relating to the disclosure provided or the
+                             principles set out in s602 or we have some other reason to oppose the
+                             scheme (e.g. public policy grounds). However, in these circumstances we
+                             may still make submissions, where we do not oppose the scheme proposal
+                             but wish to bring certain issues to the court’s attention.
+
+
+                             ASIC statement under s411(17)(b)
+
+              RG 60.107      We will state in writing that we have no objection to a scheme of
+                             arrangement if an applicant satisfies us that:
+                             (a)   all material information relating to the proposed scheme has been
+                                   disclosed to us;
+                             (b)   the standard of disclosure to all members fulfils the requirements under
+                                   reg 5.1.01 and Sch 8 of the Corporations Regulations;
+                             (c)   the standard of disclosure to, and treatment of, all members is
+                                   equivalent to the standard that would be required by the disclosure
+                                   requirements and the principles in s602 relating to the target securities
+                                   in a takeover bid; and
+                             (d)   there are no other reasons to oppose the scheme (e.g. public policy
+                                   grounds) and the other matters referred to in this guide (including at
+                                   RG 60.23–RG 60.31) have been complied with.
+
+              RG 60.108      Our statement under s411(17)(b) will be in the form set out in Pro Forma 190
+                             No objection under s411(17)(b) (PF 190).
+
+              RG 60.109      We will not provide a statement under s411(17)(b) until the second
+                             (confirmation) hearing because we will not be in a position to advise the
+                             court properly until we have had an opportunity to observe the entire scheme
+                             process. This is also consistent with the wording of s411(17), which relates
+                             the statement to the court’s approval of the scheme.
+
+              RG 60.110      We recognise, however, that the proponents of a scheme may reasonably
+                             wish for an indication of our views before committing to the expense of
+                             calling a meeting or printing the scheme documentation. We will therefore
+                             provide a letter prior to the first hearing indicating whether we propose to
+                             make submissions to the court, or intervene to oppose the scheme, at this
+                             hearing. This letter will be in the form set out in Pro Forma 193 Indication of
+                             intent under s411(17)(b) (PF 193). We will expressly state in the letter that
+                             our position, as indicated, is based on the information provided by the
+                             scheme proponents to date and may change as we consider appropriate.
+
+                                   Note: Our preliminary s411(17) letter will also help proponents satisfy the court that we
+                                   have had a reasonable opportunity to examine scheme materials and make submissions
+                                   to the court as required by s411(2)(b).
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                                   Page 26
+                                                                     REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+                             Objection by a shareholder
+
+              RG 60.111      The courts have held that they are not required to consider whether a
+                             scheme’s purpose is to avoid Ch 6 requirements if ASIC has provided a ‘no
+                             objection’ statement under s411(17)(b).
+
+                                   Note 1: See Re GIO Australia Holdings Ltd [1999] NSWSC 1276 at [4]; Re Hibernian
+                                   Friendly Society (NSW) Ltd (2002) 44 ACSR 206; Re Citect Corporation Ltd (2006) 56
+                                   ACSR 663; Re Coles Group Ltd (No 2) [2007] VSC 523.
+
+                                   Note 2: The courts have held that even when ASIC provides a ‘no objection’ statement,
+                                   an avoidance purpose is still a discretionary factor the courts may consider when
+                                   deciding whether to approve a scheme: see Re Coles Group Ltd (No 2) [2007] VSC 523.
+
+              RG 60.112      If a shareholder undertakes to us that they will object to a scheme and the
+                             objection relates to the matters we take into account when deciding whether
+                             to give our ‘no objection’ statement under s411(17)(b), we will consider the
+                             objection before deciding whether to give our statement. We will not
+                             withhold our statement merely because there is an objector. We will apply a
+                             similar approach when deciding whether to give our ‘indication of intent’
+                             letter before the first court hearing and what we might say in that letter.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                               Page 27
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+G          Procedural issues
+
+                              Key points
+
+                              This section provides guidance on the following procedural issues:
+                              • the procedure for lodging scheme documents (see RG 60.113–
+                                RG 60.114);
+                              • the fees associated with schemes of arrangement (see RG 60.115);
+                              • where and when scheme documents will be published (see RG 60.116);
+                              • when ASIC is likely to make an appearance in court for a particular
+                                scheme (RG 60.117–RG 60.118); and
+                              • the different types of action we can take if we consider shareholders are
+                                not being adequately protected under the scheme of arrangement
+                                (RG 60.119–RG 60.120).
+
+
+
+Lodgement requirements
+              RG 60.113      Proponents of a scheme should lodge copies of the relevant documents, and
+                             any supporting material and court process, using the ASIC Regulatory
+                             Portal. Hard copies of the documents are not required for lodgement.
+
+              RG 60.114      Proponents should send these documents no less than 14 days before the
+                             initial application to the court. Proponents should also submit any
+                             application for a waiver of disclosure requirements in Sch 8 of the
+                             Corporations Regulations, or request for a statement under s411(17)(b),
+                             through the ASIC Regulatory Portal. Proponents will need to pay fees for
+                             these transactions. We have provided details about payment options in the
+                             portal.
+
+
+
+Fees
+              RG 60.115      The following fees items under the Corporations (Fees) Regulations 2001
+                             apply to schemes of arrangement:
+                             (a)   Item 40 for any action a person requests us to carry out including:
+                                   (i)     registration under s412(6);
+                                   (ii)    consent to an expert report under Sch 8, Pt 3, cl 5 of the
+                                           Corporations Regulations; and
+                                   (iii)   exemption under reg 5.1.01;
+                             (b)   Item 41 for a statement under s411(17)(b); and
+                             (c)   Item 42 for examination/lodgement of an explanatory statement.
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                       Page 28
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+Publication of documents
+              RG 60.116      We will place all explanatory statements lodged with us, or registered by us,
+                             onto our public database. We will not do this until the statements are either
+                             registered under s412(6) or approved by the court for dispatch to members
+                             and/or creditors under s411(1) or (1A).
+
+
+ASIC court appearances
+              RG 60.117      We will not normally appear before the court unless:
+                             (a)   we have been asked to assist the court or provide the court with our
+                                   views—this may occur even if we have no specific issues of our own to
+                                   raise and do not oppose the scheme;
+                             (b)   there are issues that we consider should be raised before the court and
+                                   the parties may not raise or address those issues adequately;
+                             (c)   the proponents have not given us adequate time to consider the scheme
+                                   documents; or
+                             (d)   we oppose calling the scheme meeting or confirming the scheme.
+
+              RG 60.118      Where we wish to oppose an application before the court or bring certain
+                             issues to the court’s attention, we will consider, in the circumstances,
+                             whether to intervene under s1330, or whether to seek leave from the court to
+                             otherwise intervene or appear as a friend of the court.
+
+
+ASIC action
+              RG 60.119      We have a number of options available to us if we consider that:
+                             (a)   the standard of disclosure to, and treatment of, members is not
+                                   commensurate with the standard that would be required by reg 5.1.01
+                                   and Sch 8 of the Corporations Regulations, s636 and the s602
+                                   principles; or
+                             (b)   the information provided to shareholders about the proposed
+                                   compromise or arrangement is otherwise unfair or misleading.
+              RG 60.120      We may:
+                             (a)   appear in court on an application under s411 (e.g. under s411(2)(b)(ii));
+                             (b)   take action for breach of directors’ duties;
+                             (c)   seek orders under s232;
+                             (d)   seek injunctions or prosecutions for prohibited conduct under Pt 7.10,
+                                   Div 2;
+                             (e)   seek orders under s1324B; and/or
+                             (f)   apply to the Takeovers Panel for a declaration of unacceptable
+                                   circumstances.
+
+
+
+© Australian Securities and Investments Commission September 2020                                       Page 29
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+Key terms
+
+
+                              Term                      Meaning in this document
+
+                              ASIC                      Australian Securities and Investments Commission
+
+                              ATO                       Australian Taxation Office
+
+                              Ch 6                      A chapter of the Corporations Act (in this example,
+                                                        numbered 6)
+
+                              Corporations Act          Corporations Act 2001, including regulations made for the
+                                                        purposes of that Act
+
+                              Corporations              Corporations Regulations 2001
+                              Regulations
+
+                              GN 21 (for example)       Takeovers Panel guidance note (in this example
+                                                        numbered 21)
+
+                              PF 190 (for example)      An ASIC pro forma (in this example numbered 190)
+
+                              proponents                The parties proposing the scheme
+
+                              Pt 5.1 (for example)      A part of the Corporations Act (in this example, numbered
+                                                        5.1)
+
+                              reconstruction            A compromise or arrangement between an entity and its
+                                                        members or between a managed investment scheme and
+                                                        the members of the scheme (including but not limited to a
+                                                        trust scheme or foreign scheme) other than a Pt 5.1
+                                                        scheme
+
+                              reg 5.1.01 (for           A regulation of the Corporations Regulations (in this
+                              example)                  example numbered 5.1.01)
+
+                              RG 51 (for example)       An ASIC regulatory guide (in this example numbered 51)
+
+                              s411 (for example)        A section of the Corporations Act (in this example,
+                                                        numbered 411)
+
+                              scheme                    A compromise or arrangement that gives rise to a
+                                                        scheme of arrangement under Pt 5.1 of the Corporations
+                                                        Act
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                             Page 30
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             arrangement, Australian Taxation Office (ATO), capital reduction,
+                             compromise, convertible note holders, creditors’ scheme, disclosure,
+                             members’ scheme, merger, minority shareholders, option holders, Pt 5.1
+                             scheme, reconstruction, reverse takeovers, review of scheme documentation
+                             by ASIC, s411(17)(b) no objection letter, schemes of arrangement, share
+                             splitting, takeovers
+
+
+                             Legislative instruments and pro formas
+
+                             ASIC Corporations (Stub Equity in Control Transactions) Instrument
+                             2020/734
+
+                             ASIC Corporations (On-Sale Disclosure Relief for Scrip Bids and Schemes
+                             of Arrangement) Instrument 2023/686
+
+                             PF 190 No objection under s411(17)(b)
+
+                             PF 191 Information to option/debenture holders
+
+                             PF 192 Names and ‘debts’ to option holders
+
+                             PF 193 Indication of intent under s411(17)(b)
+
+                             PF 194 Consent to expert’s report
+
+                             PF 195 ‘Best interest of the members’ expert report
+
+
+                             Regulatory guides
+
+                             RG 51 Applications for relief
+
+                             RG 111 Content of expert reports
+
+                             RG 112 Independence of experts
+
+
+                             Legislation
+
+                             Australian Securities and Investments Commission Act 2001 s127
+
+                             Corporations Act 2001 Pt 5.1, s136, 232, 233, 256B, 411, 411(17)(b), 412,
+                             413, 602, 620, 624, 631(1), 636, 1324B, 1330, Ch 6
+
+                             Corporations Regulations 2001 regs 5.1.01, 7.12.02(b), 7.12.17, Sch 8
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                       Page 31
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+                             Cases
+                             Re ACM Gold Limited and Mt Leyshon Gold Mines Ltd (1992) 7 ACSR 231
+
+                             Re Advance Bank Australia (1996) 22 ACSR 476
+
+                             Re Advance Bank Australia Ltd (No 2) (1997) 22 ACSR 513
+
+                             Re Albert Street Properties Ltd (1997) 23 ACSR 318
+
+                             Alinta Limited (No 2) [2007] FCA 1378
+
+                             Re Archaean Gold NL (1997) 23 ACSR 143
+
+                             ASC v Marlborough Gold Mines Limited NL (1993) 10 ACSR 230
+
+                             Re Australian Consolidated Press (1994) 14 ACSR 639
+
+                             Re BC Iron Limited [2011] ATP 6
+
+                             Catto v Ampol Ltd (1989) 7 ACLC 717
+
+                             Re Citect Corporation Ltd (2006) 56 ACSR 663
+
+                             Re Coles Group Ltd (No 2) [2007] VSC 523
+
+                             Re Excel Coal Limited (2006) 60 ACSR 184
+
+                             Re Foundation Healthcare Ltd (2002) 43 ACSR 680
+
+                             Gambotto and Anor v WCP Limited and Anor (1995) 16 ACSR 1
+
+                             Re GIO Australia Holdings Ltd [1999] NSWSC 1276
+
+                             Re Hibernian Friendly Society (NSW) Ltd (2002) 44 ACSR 206
+
+                             Re Land & Concrete Pty Ltd and Others and the Companies Act (1979) CLC 40-
+                             584
+
+                             Re MIM Holdings Ltd (2003) 45 ACSR 554
+
+                             Nicron Resources Ltd v Catto (1992) 8 ACSR 219
+
+                             Re Northumberland Insurance Co Ltd (No 3) (1977) 3 ACLR 15
+
+                             Re Oceanic Steam Navigation Co Ltd [1939] Ch 41
+
+                             Phosphate Co-operative Co of Australia Ltd v Shears and Anor (No 3)
+                             (1988) 5 ACLC 1046
+
+                             Re Stockbridge Ltd (1993) 9 ACSR 637
+
+                             Re The Bank of Adelaide (1979) 22 SASR 481
+
+                             Re Wallace Dairy Co Ltd (1980) ACLR 139
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                       Page 32
+                                                                    REGULATORY GUIDE 60: Schemes of arrangement
+
+
+
+
+                             Consultation papers
+                             CP 127 Schemes of arrangement: Statements under s411(17)(b)
+
+                             CP 365 Remaking ASIC class orders on takeovers, compulsory acquisitions
+                             and relevant interests
+
+
+                             Other guidance
+                             Takeovers Panel Guidance Note 1 Unacceptable circumstances
+
+                             Takeovers Panel Guidance Note 7 Deal protection
+
+                             Takeovers Panel Guidance Note 21 Collateral benefits
+
+
+
+
+© Australian Securities and Investments Commission September 2020                                       Page 33
+

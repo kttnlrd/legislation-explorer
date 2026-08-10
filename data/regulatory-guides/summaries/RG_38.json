@@ -1,0 +1,8 @@
+{
+  "error": "JSON parse failed",
+  "raw": "{\n  \"citation\": \"RG 38\",\n  \"title\": \"The hawking prohibition\",\n  \"type\": \"ASIC Regulatory Guide\",\n  \"status\": \"Final\",\n  \"subject\": \"This guide provides guidance on the hawking prohibition in s992A and 992AA of the Corporations Act 2001, which aims to protect consumers from unsolicited offers of fin",
+  "citation": "RG 38",
+  "title": "The Hawking Prohibition",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final"
+}

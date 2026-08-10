@@ -1,0 +1,29 @@
+{
+  "citation": "RG 16",
+  "title": "External administrators and controllers: Reporting of possible offences and misconduct",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide addresses the obligations of external administrators and controllers to report possible offences and misconduct by company officers or related parties to ASIC. It covers when and how to lodge initial and supplementary statutory reports, including circumstances such as inability to pay dividends of 50 cents in the dollar.",
+  "background": "The guide is issued under the Australian Securities and Investments Commission Act 2001 and provides practical guidance on reporting obligations under sections 422, 438D, 500AE, and 533 of the Corporations Act 2001 (Cth) and regulation 5.5.05 of the Corporations Regulations 2001. It is intended for liquidators, voluntary administrators, receivers, and managing controllers to help them understand and comply with their statutory duties.",
+  "ruling": "ASIC states that external administrators and controllers must lodge an initial statutory report whenever they form a reasonable suspicion that a person connected with the company may have committed an offence under Australian law or engaged in misconduct. The report must include details of the suspected conduct, the basis for the suspicion, and relevant supporting information. ASIC expects administrators to prepare supplementary reports if further relevant information comes to light after the initial report. The guide clarifies that reports should be lodged promptly and in the prescribed form, and that ASIC will use the information to assess whether further investigation or enforcement action is warranted. ASIC also emphasises that qualified privilege applies to these reports, protecting administrators from defamation claims when reporting in good faith.",
+  "date_of_effect": "2025-07-01",
+  "legislation_referenced": [
+    "Australian Securities and Investments Commission Act 2001 (Cth) s 13, 15, 19, 25, 127",
+    "Corporations Act 2001 (Cth) s 286, 422, 426, 431, 438D, 442E, 477(3), 500AE, 530A–530C, 533, 534, 535, 545, 597",
+    "Corporations Regulations 2001 (Cth) reg 5.5.05",
+    "Freedom of Information Act 1982 (Cth)"
+  ],
+  "cases_referenced": [
+    "Australian Securities and Investments Commission v Bettles [2023] FCA 975",
+    "Australian Securities and Investments Commission v Robert John Edge [2007] VSC 170",
+    "Australian Securities and Investments Commission v Wily & Hurst [2019] NSWSC 521",
+    "Joubert and Members of the Companies Auditors and Liquidators Disciplinary Board [2018] AATA 944",
+    "Murdaca v Australian Securities and Investments Commission [2009] FCAFC 92"
+  ],
+  "related_rulings": [
+    "RG 103",
+    "RG 258",
+    "INFO 29",
+    "INFO 151"
+  ]
+}

@@ -1,0 +1,1865 @@
+REGULATORY GUIDE 104
+
+AFS licensing: Meeting the
+general obligations
+
+June 2022
+
+
+
+
+About this guide
+This is a guide for Australian financial services (AFS) licensees and AFS
+licence applicants.
+
+This guide describes what we look for when we assess compliance with
+most of the general obligations under s912A(1) of the Corporations Act.
+
+The general obligations not covered in this guide are covered in separate
+guides: see Table 1 in Section A.
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This regulatory guide was issued in June 2022 and is based on legislation
+                             and regulations as at the date of issue.
+
+                             Previous versions:
+                                    Superseded Regulatory Guide 104, issued October 2007, reissued
+                                     July 2015 and April 2020
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act and other
+                             applicable laws apply to you, as it is your responsibility to determine your
+                             obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                  Page 2
+                                                     REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+Contents
+
+                             A      Overview ........................................................................................... 4
+                                    The general obligations ..................................................................... 4
+                                    When you need to comply with the general obligations .................... 5
+                                    What you need to do to comply ......................................................... 7
+                                    Our regulatory approach .................................................................... 8
+                             B      Key compliance concepts............................................................. 10
+                                    What you need to do depends on the nature, scale and complexity
+                                    of your business ............................................................................... 10
+                                    You must have measures for ensuring you comply with your
+                                    obligations ........................................................................................ 11
+                                    You can outsource functions, but not your responsibility as a
+                                    licensee ............................................................................................ 12
+                             C      Your broad compliance obligations ............................................ 14
+                                    Broad compliance obligations .......................................................... 14
+                                    Your compliance measures ............................................................. 15
+                                    Responsibility for compliance .......................................................... 16
+                                    Our approach to the broad compliance obligations ......................... 17
+                             D      Your risk management systems .................................................. 19
+                                    Risk management systems.............................................................. 19
+                             E      Your people .................................................................................... 21
+                                    Obligations of a financial services licensee regarding its
+                                    representatives ................................................................................ 21
+                                    Monitoring and supervision .............................................................. 22
+                                    Training and competence ................................................................ 23
+                             F      Your resources .............................................................................. 25
+                                    Having adequate resources ............................................................. 25
+                                    Human resources ............................................................................ 26
+                                    Technological resources .................................................................. 26
+                             Appendix: Designing and testing your measures ............................. 28
+                             Key terms ............................................................................................... 33
+                             Related information ............................................................................... 35
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                                            Page 3
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+A          Overview
+
+                               Key points
+
+                               Australian financial services (AFS) licensees must comply with the general
+                               obligations under s912A(1) of the Corporations Act 2001 (Corporations
+                               Act), and AFS licence applicants must be able to demonstrate in their
+                               licence application that they can comply with them: see RG 104.2–
+                               RG 104.9.
+
+                               As an AFS licensee or licence applicant, you are responsible for deciding
+                               how to comply with the general obligations: see RG 104.11–RG 104.13.
+
+                               Some general conduct obligations are also civil penalty provisions: see
+                               RG 104.3–RG 104.5.
+
+                               To help you comply, this regulatory guide:
+                               • outlines key compliance concepts that apply to all of the general
+                                 obligations (see Section B);
+                               • describes what we look for when we assess compliance with various
+                                 general obligations (see Sections C–F); and
+                               • includes questions to help you design and test your measures for
+                                 complying with the general obligations (see Table 2–Table 5 in the
+                                 appendix).
+
+
+
+
+The general obligations
+              RG 104.1       If you are an AFS licensee, you have general obligations under s912A(1) of
+                             the Corporations Act to:
+                             (a)   do all things necessary to ensure that the financial services covered by
+                                   your licence are provided efficiently, honestly and fairly (s912A(1)(a));
+                             (b)   have adequate arrangements in place for managing conflicts of interest
+                                   (s912A(1)(aa));
+                             (c)   comply with the conditions on your licence (s912A(1)(b));
+                             (d)   comply with the financial services laws (s912A(1)(c));
+                             (e)   take reasonable steps to ensure that your representatives comply with
+                                   the financial services laws (s912A(1)(ca));
+                             (f)   if you are also the operator of an Australian passport fund or a person
+                                   with responsibilities in relation to an Australian passport fund—comply
+                                   with the law of each host economy for the fund (s912A(1)(cb));
+                             (g)   comply with the ASIC Reference checking and information sharing
+                                   protocol (ASIC protocol) in relation to prospective representatives who
+                                   will act as financial advisers or mortgage brokers (s912A(1)(cc));
+
+
+
+© Australian Securities and Investments Commission June 2022                                                  Page 4
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+                             (h)   have adequate financial, technological and human resources to provide
+                                   the financial services covered by your licence and to carry out
+                                   supervisory arrangements (s912A(1)(d)). These obligations will not
+                                   apply if you are regulated by the Australian Prudential Regulation
+                                   Authority (APRA);
+                             (i)   maintain the competence to provide the financial services covered by
+                                   your licence (s912A(1)(e));
+                             (j)   ensure that your representatives are adequately trained and competent
+                                   to provide those financial services (s912A(1)(f));
+                             (k)   if you provide financial services to retail clients—have a dispute
+                                   resolution system (s912A(1)(g)); and
+                             (l)   establish and maintain adequate risk management systems
+                                   (s912A(1)(h)). These obligations will not apply if you are regulated by
+                                   APRA.
+
+                                   Note 1: If you are an eligible body under ASIC Corporations (Foreign Financial
+                                   Services Providers—Foreign AFS Licensees) Instrument 2020/198, under s912A(1) you
+                                   may be exempt from the general obligations that are specified in this instrument.
+
+                                   Note 2: See ASIC Corporations and Credit (Reference Checking and Information
+                                   Sharing Protocol) Instrument 2021/429 for the ASIC protocol. This guide focuses on
+                                   the obligations under the ASIC protocol that apply to licensees in relation to prospective
+                                   representatives who will act as financial advisers. For more information about the
+                                   obligations that apply under the ASIC protocol, see Information Sheet 257 ASIC
+                                   reference checking and information sharing protocol (INFO 257).
+
+                                   Note 3: If you are a market participant, you may also have more specific obligations
+                                   under the market integrity rules relating to the requirements in s912A(1)(d) and
+                                   912A(1)(h). Chapter 8B of the ASIC Market Integrity Rules (Securities Markets) 2017
+                                   and Chapter 8B of the ASIC Market Integrity Rules (Futures Markets) 2017 apply to
+                                   securities and futures market participants and set out obligations for the technological
+                                   and operational resilience of critical business services. These obligations include
+                                   arrangements for change management, outsourcing, business continuity plans and
+                                   governance. For more information, see Section O of Regulatory Guide 265 Guidance on
+                                   ASIC market integrity rules for participants of securities markets (RG 265) and
+                                   Section M of Regulatory Guide 266 Guidance on ASIC market integrity rules for
+                                   participants of futures markets (RG 266).
+
+                                   Note 4: In this guide, references to sections (s) are to the Corporations Act, unless
+                                   otherwise specified. You can find a copy of the Corporations Act on the Federal
+                                   Register of Legislation.
+
+
+
+
+When you need to comply with the general obligations
+              RG 104.2       You must comply with the general obligations from the time your AFS
+                             licence is granted and on an ongoing basis. If we have reason to believe that
+                             you are not complying with your obligations, we may take administrative
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                           Page 5
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+                             action, which could include suspending or cancelling your licence, or
+                             imposing additional licence conditions: see s915C(1) and 914A(1).
+
+                                   Note: For guidance on our administrative powers, see Regulatory Guide 98 ASIC’s
+                                   powers to suspend, cancel and vary AFS licences and make banning orders (RG 98).
+
+              RG 104.3       Some general conduct obligations (i.e. those in s912A(1)(a), (aa), (ca), (d),
+                             (e), (f), (g), (h) and (j)) are also civil penalty provisions: see s912A(5A).
+
+                                   Note: Civil penalties were included when the Corporations Act was amended on
+                                   13 March 2019 by the Treasury Laws Amendment (Strengthening Corporate and
+                                   Financial Sector Penalties) Act 2019.
+
+              RG 104.4       If an individual breaches any of these civil penalty provisions, the maximum
+                             penalty is the greater of:
+                             (a)   5,000 penalty units; and
+                             (b)   three times the benefit obtained and detriment avoided.
+
+                                   Note: See www.asic.gov.au/penalties for more information about penalties, including
+                                   the value of a penalty unit.
+
+              RG 104.5       If a body corporate breaches any of these civil penalty provisions, the
+                             maximum penalty is the greater of:
+                             (a)   50,000 penalty units;
+                             (b)   three times the benefit obtained and detriment avoided; and
+                             (c)   10% of the annual turnover for the 12-month period ending at the end of
+                                   the month in which the body corporate contravened, or began to
+                                   contravene, but no more than 2.5 million penalty units.
+
+                                   Note: See www.asic.gov.au/penalties for more information about penalties, including
+                                   the value of a penalty unit.
+
+              RG 104.6       If we conduct a surveillance visit on your business, we may check your
+                             ongoing compliance with the general obligations, including the measures
+                             you have for ensuring compliance.
+
+              RG 104.7       If you breach or are likely to breach your general obligations, you may need
+                             to notify us of that breach: see Div 3 of Pt 7.6.
+
+                                   Note: For guidance on breach reporting, see Regulatory Guide 78 Breach reporting by
+                                   AFS licensees and credit licensees (RG 78).
+
+
+                             Applying for an AFS licence
+
+              RG 104.8       If you are applying for an AFS licence, you must be able to show that you
+                             can comply with the general obligations from the time you are granted a
+                             licence, and on an ongoing basis: see reg 7.6.03(g) of the Corporations
+                             Regulations 2001. We cannot grant you a licence if we have any reason to
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                      Page 6
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+                             believe you will not be able to comply with your general obligations once
+                             you have a licence: see s913B(1)(b).
+
+                                   Note: If you are applying for an AFS licence, you should read the AFS Licensing Kit
+                                   (RG 1–RG 3). The AFS Licensing Kit explains the licence application process and the
+                                   ‘proof’ documents you may need to provide to support your application.
+
+              RG 104.9       We do not expect your business to be fully operational at the time you apply
+                             for an AFS licence. However, when you apply, you must be able to show
+                             that you have arrangements in place to ensure compliance once you are
+                             granted a licence.
+
+              RG 104.10      Additionally, ASIC may cancel your licence if you do not provide a financial
+                             service covered by the licence before the end of six months after the licence
+                             is granted. In the event that you have not commenced providing financial
+                             services before the end of six months after the licence is granted, you must
+                             notify ASIC within 15 business days after the end of the six months.
+
+
+
+What you need to do to comply
+              RG 104.11      The general obligations are principles based and designed to apply in a
+                             flexible way. For this reason, we do not think we can or should give
+                             prescriptive guidance on what you need to do to comply with them. The
+                             Corporations Act places responsibility on you to decide how to comply.
+
+              RG 104.12      However, to help you comply, this guide:
+                             (a)   outlines key compliance concepts that apply to all of the general
+                                   obligations (see Section B);
+                             (b)   describes what we look for when we assess compliance with various
+                                   general obligations (see Sections C–F); and
+                             (c)   includes questions to help you design and test your measures for
+                                   complying with the general obligations covered in Sections C–F
+                                   (see Table 2–Table 5 in the appendix).
+
+              RG 104.13      Throughout this guide we often use the phrase ‘we expect’. In using this
+                             phrase, we are describing what we look for when we assess compliance with
+                             the general obligations, based on our experience as a regulator of financial
+                             services providers and our knowledge of regulatory regimes in other
+                             countries. Our expectations are not intended to limit the ways in which you
+                             can comply. It is up to you to decide how best to comply with the general
+                             obligations.
+
+              RG 104.14      This guide does not cover all of the general obligations. Some general
+                             obligations are covered in separate guides: see Table 1.
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                     Page 7
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+Table 1:     Where to find our guidance on the general obligations
+
+ Type of obligation                Where to find our guidance
+
+ Your broad compliance             See Section C for our guidance on:
+ obligations                        providing your financial services efficiently, honestly and fairly (s912A(1)(a));
+                                    complying with the conditions on your licence (s912A(1)(b)); and
+                                    complying with the financial services laws (s912A(1)(c)).
+
+ Your internal systems             For our guidance on complying with the obligation in:
+                                    s912A(1)(h) to have risk management systems (if you are not regulated by
+                                     APRA), see Section D;
+                                    s912A(1)(aa) to have arrangements for managing conflicts of interest, see
+                                     Regulatory Guide 181 Licensing: Managing conflicts of interest (RG 181);
+                                     and
+                                    s912A(1)(g) to have a dispute resolution system (if you provide services to
+                                     retail clients), see Regulatory Guide 271 Internal dispute resolution (RG 271).
+                                     You must be a member of the Australian Financial Complaints Authority
+                                     (AFCA).
+
+ Your people                       See Section E for our guidance on ensuring your representatives:
+                                    comply with the financial services laws (s912A(1)(ca));
+                                    comply with the ASIC protocol (s912A(1)(cc)); and
+                                    are adequately trained and competent (s912A(1)(f))—and, if you provide
+                                     financial product advice to retail clients, see also Regulatory Guide 146
+                                     Licensing: Training of financial product advisers (RG 146).
+
+                                   For our guidance on maintaining the competence to provide your financial
+                                   services (s912A(1)(e)), see Regulatory Guide 105 AFS licensing:
+                                   Organisational competence (RG 105).
+
+                                   For our guidance on complying with the ASIC protocol, see INFO 257.
+
+ Your resources                    If you are not regulated by APRA, for our guidance on complying with the
+                                   obligation in s912A(1)(d) to have adequate:
+                                    human and technological resources, see Section F; and
+                                    financial resources, see Regulatory Guide 166 AFS licensing: Financial
+                                     requirements (RG 166).
+
+
+
+
+Our regulatory approach
+
+                             Underlying principles
+
+               RG 104.15     This guide aims to strike a balance between certainty and flexibility for
+                             licensees, while furthering the primary goals of the licensing regime and the
+                             general obligations. At the broadest level, these regulatory goals are to promote:
+                             (a)   consumer confidence in using financial services; and
+                             (b)   the provision of efficient, honest and fair financial services by all
+                                   licensees and their representatives.
+
+
+
+© Australian Securities and Investments Commission June 2022                                                     Page 8
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+                             What if you are also regulated by APRA?
+
+              RG 104.16      If you are a body regulated by APRA, you do not have to read Sections D
+                             and F of this guide.
+
+                                   Note: The term ‘body regulated by APRA’ in RG 104.16 has the meaning given in s3(2)
+                                   of the Australian Prudential Regulation Authority Act 1998.
+
+              RG 104.17      In administering the other general obligations, we will take into account that
+                             you are regulated by APRA and we will aim to minimise regulatory
+                             duplication. When you apply for an AFS licence, we will accept copies of
+                             relevant documents you have provided to APRA. In some areas, you may
+                             not need to provide particular supporting ‘proof’ documents. We regularly
+                             communicate with APRA and coordinate regulatory activities where we
+                             share an interest.
+
+
+                             Standards and international principles
+
+              RG 104.18      In thinking about how to comply with your obligations, you might find it
+                             helpful to look at good industry practice as captured in standards. Industry
+                             and Australian standards are relevant to most licensees because these have
+                             been drafted with the Australian regulatory environment in mind. For
+                             licensees with larger or more complex businesses, or licensees that are part
+                             of a global business, international principles might also be relevant.
+
+              RG 104.19      We also use standards in a similar way—that is, as a guide to good industry
+                             practice. However, we check compliance with the law and licence
+                             conditions, not with standards—unless the law or your licence conditions
+                             require you to comply with a particular standard.
+
+              RG 104.20      We aim to work with industry, consumer groups and Standards Australia to
+                             develop standards as a means of setting good practice. We will also approve
+                             codes of conduct where we have a regulatory responsibility to do so.
+
+                                   Note: Our guidance on approving codes of conduct under s1101A of the Corporations
+                                   Act is set out in Regulatory Guide 183 Approval of financial services sector codes of
+                                   conduct (RG 183).
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                       Page 9
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+B          Key compliance concepts
+
+                               Key points
+
+                               What you need to do depends on the nature, scale and complexity of your
+                               business: see RG 104.21–RG 104.22.
+
+                               You must have measures for ensuring you comply with your obligations as
+                               a licensee: see RG 104.23–RG 104.32.
+
+                               You can outsource functions, but not your responsibility as a licensee: see
+                               RG 104.33–RG 104.36.
+
+                               This section outlines key compliance concepts that underpin what we look
+                               for when we assess compliance with the general obligations. You need to
+                               bear these key concepts in mind when reading Sections C–F.
+
+
+
+
+What you need to do depends on the nature, scale and complexity
+of your business
+              RG 104.21      There are many different kinds of licensees providing a diverse range of
+                             financial services. We do not take a ‘one-size-fits-all’ approach to
+                             regulation. Rather, we acknowledge that what you need to do to comply with
+                             your obligations will vary according to the ‘nature, scale and complexity’ of
+                             your business.
+
+              RG 104.22      ‘Nature, scale and complexity’ includes factors such as:
+                             (a)   the products and services you offer;
+                             (b)   the diversity and structure of your operations (including the
+                                   geographical spread of your operations and the extent to which you
+                                   outsource any of your functions);
+                             (c)   the volume and size of the transactions you are responsible for;
+                             (d)   how many of your clients are retail and how many wholesale;
+                             (e)   whether you give financial product advice and, if so, whether it is
+                                   personal or general advice;
+                             (f)   whether your main business is the provision of financial services; and
+                             (g)   the number of people in your organisation.
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 10
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+You must have measures for ensuring you comply with your
+obligations
+              RG 104.23      We use the expression ‘measures’ or ‘compliance measures’ in this guide to
+                             refer to your processes, procedures or arrangements for ensuring that, as far
+                             as reasonably practicable, you comply with your obligations as a licensee,
+                             including the general obligations.
+
+              RG 104.24      We expect you to:
+                             (a)   document your measures in some form (see RG 104.26);
+                             (b)   fully implement them and monitor and report on their use (see
+                                   RG 104.27–RG 104.30); and
+                             (c)   regularly review the effectiveness of your measures and ensure they are
+                                   up to date (see RG 104.31–RG 104.32).
+
+                             If you do not do this, we think you will find it more difficult to comply with
+                             the general obligations, and to show you are complying with them.
+
+              RG 104.25      Your measures will be affected by the nature, scale and complexity of your
+                             business: see RG 104.21–RG 104.22.
+
+
+                             Documenting your measures
+              RG 104.26      Documentation helps you demonstrate whether or not you are complying
+                             with the general obligations. When you document your measures, we expect
+                             this will include details of who is responsible, the timeframes involved and
+                             associated record keeping and reporting.
+
+
+                             Implementing, monitoring and reporting on your measures
+              RG 104.27      It is not enough just to document your measures. You also need to fully
+                             implement them. This means you need to put them into practice and
+                             integrate them into the day-to-day conduct of your business.
+
+              RG 104.28      For measures to work effectively in practice, you need people at all levels of
+                             your business, including your senior management, to understand them and
+                             be committed to their success. Integrating your measures into the culture of
+                             your business helps ensure they are effective on an ongoing basis.
+
+              RG 104.29      You also need to monitor and report on your compliance, including reporting
+                             relevant breaches to ASIC. We expect that you will keep records of your
+                             monitoring and reporting, including records of reports on compliance and
+                             breach notifications.
+
+              RG 104.30      We understand that, in some instances, your monitoring and reporting will
+                             be built into your business processes. We also acknowledge that your
+                             compliance measures might reflect your corporate group’s overall approach
+                             to compliance. Whatever the case, you need to be able to show us how you
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 11
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+                             are able to monitor your compliance and appropriately address any
+                             compliance breaches.
+
+                             Reviewing your measures
+              RG 104.31      Regularly reviewing your measures will help to ensure they remain effective.
+                             In some cases, it may be sensible for you to consider external review. Where
+                             compliance issues have arisen (such as major breaches or repeated
+                             compliance failures), external compliance review is particularly appropriate.
+
+              RG 104.32      You need to review your measures when there are changes to your
+                             obligations, your business or the environment in which you operate. We
+                             expect that you will have a process for identifying changes that may impact
+                             on the effectiveness of your measures.
+
+
+
+You can outsource functions, but not your responsibility as a
+licensee
+
+                             Outsourcing functions that relate to your licence
+
+              RG 104.33      We recognise that many licensees outsource functions that relate to their
+                             AFS licence, including administrative or operational functions. Outsourcing
+                             might be to external parties or other entities within a corporate group.
+                             Functions that are commonly outsourced include:
+                             (a)   information technology (IT) systems for storing records in relation to
+                                   the provision of financial services;
+                             (b)   recruitment and training of representatives;
+                             (c)   research on financial products in relation to which financial services
+                                   are provided;
+                             (d)   the operation of call centres;
+                             (e)   periodic compliance reviews of representatives; and
+                             (f)   unit pricing.
+
+                                   Note: For guidance on outsourcing of unit pricing functions, see Regulatory Guide 94
+                                   Unit pricing: Guide to good practice (RG 94) (joint publication with APRA).
+
+
+                             You remain responsible for outsourced functions
+              RG 104.34      If you outsource functions that relate to your AFS licence, you remain
+                             responsible for complying with your obligations as a licensee: see s769B.
+                             Under the Superannuation Industry (Supervision) Act 1993, superannuation
+                             trustees retain ultimate responsibility for the operation of the superannuation
+                             fund. Under s601FB(1) of the Corporations Act, responsible entities retain
+                             ultimate responsibility for the operation of a managed investment scheme.
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                     Page 12
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+                             Third parties providing financial services on your behalf
+
+              RG 104.35      If a third party provides financial services to clients on your behalf, they will
+                             generally need to be your authorised representative or hold their own AFS
+                             licence: see s911B(1). If they are a licensee, they will generally be taken to
+                             be the provider of the financial services and will be responsible for
+                             complying with the general obligations in relation to the provision of those
+                             services: see s911B(3).
+
+
+                             Complying with your obligations
+
+              RG 104.36      If you outsource functions that relate to your AFS licence, we expect that
+                             you:
+                             (a)   will have measures in place to ensure that due skill and care is taken in
+                                   choosing suitable service providers;
+                             (b)   can and will monitor the ongoing performance of service providers; and
+                             (c)   will appropriately deal with any actions by service providers that breach
+                                   service level agreements or your obligations as a licensee.
+
+                                   Note: In thinking through your obligations when you outsource functions, you might
+                                   find it helpful to look at:
+                                   •    International Organization of Securities Commissions (IOSCO), Principles on
+                                        outsourcing (PDF 640 KB), October 2021;
+                                   •    Basel Committee on Banking Supervision, IOSCO and International Association of
+                                        Insurance Supervisors (Joint Forum), Outsourcing in financial services (PDF
+                                        220 KB), February 2005; and
+                                   •    if you are also regulated by APRA, APRA’s prudential standards and guidance
+                                        notes on outsourcing (e.g. for authorised deposit-taking institutions, Prudential
+                                        Standard CPS 231 Outsourcing).
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                         Page 13
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+C          Your broad compliance obligations
+
+                               Key points
+
+                               You must have measures in place for ensuring you comply with your
+                               licensee obligations on an ongoing basis: see RG 104.39–RG 104.49.
+
+                               We expect your compliance measures to cover all of your obligations as
+                               a licensee: see RG 104.54–RG 104.58.
+
+                               We expect your compliance area to be independent enough and have
+                               adequate resources to do its job properly: see RG 104.50–RG 104.53.
+
+                               This section explains what we look for when we assess the adequacy of
+                               your compliance measures. When reading this section, you need to bear
+                               in mind the key concepts in Section B.
+
+
+
+
+Broad compliance obligations
+              RG 104.37      You must:
+                             (a)   do all things necessary to ensure your financial services are provided
+                                   efficiently, honestly and fairly (see s912A(1)(a));
+                             (b)   comply with the financial services laws (see s912A(1)(c)); and
+                             (c)   comply with the conditions on your AFS licence (see s912A(1)(b)).
+
+              RG 104.38      In this guide, we refer to the obligations at RG 104.37(a)–(c) as the ‘broad
+                             compliance obligations’: see RG 104.54–RG 104.58.
+
+              RG 104.39      You must have measures in place for ensuring you comply with your
+                             obligations as a licensee, including the broad compliance obligations, on an
+                             ongoing basis: see condition 4 of the standard licence conditions in Pro
+                             Forma 209 Australian financial services licence conditions (PF 209). We
+                             expect you will document your measures: see RG 104.26.
+
+              RG 104.40      This section explains what we look for when we assess the adequacy of your
+                             compliance measures. When reading this section, you need to bear in mind
+                             the key concepts in Section B. For more help in designing and testing your
+                             measures, see Table 2 in the appendix.
+
+                                   Note: For guidance on compliance plans and measures for managed investments, see
+                                   Regulatory Guide 132 Funds management: Compliance and oversight (RG 132).
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                  Page 14
+                                                    REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+Your compliance measures
+              RG 104.41      Compliance with your obligations as a licensee is central to the protection of
+                             consumers and the promotion of market integrity. Having effective compliance
+                             measures is a way for you to ensure you comply with your obligations as a
+                             licensee, including identifying and appropriately dealing with instances of
+                             non-compliance. Compliance measures also help you demonstrate to us that
+                             you can comply and are complying with your obligations.
+
+
+                             What your compliance measures need to cover
+
+              RG 104.42      We consider that the broad compliance obligations are both stand-alone
+                             obligations and obligations that encompass the other general obligations:
+                             see RG 104.54–RG 104.58. For this reason, we expect your measures for
+                             ensuring compliance with the broad compliance obligations will cover all of
+                             your obligations as a licensee including:
+                             (a)   the rest of the general obligations (including those covered in
+                                   Sections D–F of this guide);
+                             (b)   your licence conditions; and
+                             (c)   any other financial services laws that apply to you.
+
+              RG 104.43      We also expect that your compliance measures will:
+                             (a)   take into account the specific compliance risks of your business,
+                                   especially those that may materially affect consumers or market
+                                   integrity; and
+                             (b)   enable you to:
+                                   (i)     communicate to your representatives what they need to do to
+                                           comply;
+                                   (ii)    monitor compliance with all of your licensee obligations; and
+                                   (iii)   address and report any compliance breaches.
+
+                                   Note: In thinking through your compliance obligations, you might find it helpful
+                                   to look at:
+                                   •       Australian Standard AS ISO 19600:2015 Compliance management systems:
+                                           Guidelines; and
+                                   •       the principles set out in the IOSCO report Compliance function at market
+                                           intermediaries (PDF 257 KB), March 2006.
+
+
+                             Nature, scale and complexity of your business
+
+              RG 104.44      Your compliance measures might include one or a number of different
+                             documents and any of a variety of stand-alone or integrated IT systems.
+                             As a general rule, the smaller and simpler your business, the smaller and
+                             simpler we expect your measures to be.
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                          Page 15
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+              RG 104.45      For example, if you deal in a narrow range of simple products as an
+                             incidental part of your main business or you are a very small business, you
+                             might meet your compliance obligations by having a checklist focusing on
+                             compliance risks that would adversely affect consumers and the provision of
+                             efficient, honest and fair financial services.
+
+              RG 104.46      On the other hand, if your main business is to provide financial services and
+                             products, you deal in a broad range of products and you have numerous staff
+                             that are spread out geographically, you are more likely to meet your
+                             compliance obligations by having compliance measures that involve the use
+                             of manuals, programs and dedicated compliance staff.
+
+              RG 104.47      If you use external providers to provide functions that relate to your AFS
+                             licence, we think your compliance measures will need to be different from
+                             those you would need if you performed those functions in-house.
+
+
+                             Compliance measures and risk management systems
+
+              RG 104.48      From our experience, it is common for some licensees’ compliance measures
+                             to be integrated into their risk management systems. Compliance measures
+                             can be one of several controls you can use to address or mitigate risks to
+                             your business (including the risk of non-compliance with your obligations
+                             under the Corporations Act). The general obligation to maintain adequate
+                             risk management systems is explained in Section D.
+
+              RG 104.49      If you are also regulated by APRA, the general obligation to have adequate
+                             risk management systems does not apply to you.
+
+
+
+Responsibility for compliance
+              RG 104.50      We expect that you will allocate to a director or senior manager
+                             responsibility for:
+                             (a)   overseeing your compliance measures; and
+                             (b)   reporting to the governing body (including having ready access to the
+                                   governing body).
+
+              RG 104.51      You need to ensure that the area responsible for compliance:
+                             (a)   is independent enough to do its job properly;
+                             (b)   has adequate staff, resources and systems; and
+                             (c)   has access to relevant records.
+
+              RG 104.52      It may be appropriate for you to have a separate compliance function (which
+                             might be outsourced to a third party). This is likely to be the case for larger,
+                             more complex businesses (including a corporate group), but not for licensees
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 16
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+                             whose business is small or whose main business is not the provision of
+                             financial services.
+
+
+                             The role of senior management
+
+              RG 104.53      The level of senior management involvement in overseeing your compliance
+                             measures might extend to:
+                             (a)   communicating the measures to those responsible for implementing
+                                   them and other stakeholders;
+                             (b)   ensuring that the area responsible for the measures has adequate staff
+                                   and resources;
+                             (c)   ensuring staff education and awareness of the measures;
+                             (d)   implementing clear reporting lines for the manager(s) responsible for
+                                   the measures; and
+                             (e)   receiving regular reports on the measures.
+
+
+
+Our approach to the broad compliance obligations
+              RG 104.54      The broad compliance obligations are both stand-alone obligations and
+                             obligations that encompass the other general obligations. This means that:
+                             (a)   if you fail to comply with one or more of the other general obligations,
+                                   you are also likely to breach the broad compliance obligations; and
+                             (b)   even though you may be complying with all of the other general
+                                   obligations, you may still be in breach of the broad compliance
+                                   obligations. This is because the broad compliance obligations are also
+                                   stand-alone obligations.
+
+
+                             Providing financial services efficiently, honestly and fairly
+
+              RG 104.55      You need to do all things necessary to ensure your financial services are
+                             provided in a way that meets all of the elements of ‘efficiently, honestly and
+                             fairly’. If you fail to comply with the other general obligations, it is unlikely
+                             that you will be complying with the ‘efficiently, honestly and fairly’
+                             obligation.
+
+              RG 104.56      However, the ‘efficiently, honestly and fairly’ obligation is also a stand-
+                             alone obligation that operates separately from the other general obligations.
+                             For example, if you have contractual obligations to clients and breach them,
+                             this might not be a breach of the other general obligations, but it could
+                             amount to a failure to provide your financial services efficiently, honestly
+                             and fairly.
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 17
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+                             Complying with the financial services laws
+
+              RG 104.57      The obligation to comply with the financial services laws encompasses the
+                             other general obligations. However, it also includes an obligation to comply
+                             with:
+                             (a)   Ch 7, Ch 8B or other chapters of the Corporations Act that may apply to
+                                   you;
+                             (b)   provisions of the Australian Passport Rules if applicable; and
+                             (c)   provisions of the Australian Securities and Investments Commission Act
+                                   2001 and other Commonwealth, state and territory legislation dealing
+                                   with financial services: see s761A.
+
+
+                             Complying with your licence conditions
+
+              RG 104.58      The conditions on your AFS licence reinforce some of the general
+                             obligations, so breaching a licence condition will sometimes also be a breach
+                             of the general obligation that the condition relates to.
+
+                                   Note: The standard licence conditions are set out in PF 209. For our guidance on licence
+                                   conditions, see Section C of Regulatory Guide 167 Licensing: Discretionary powers
+                                   (RG 167).
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                      Page 18
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+D          Your risk management systems
+
+                               Key points
+
+                               You must have measures in place to ensure you comply with the obligation
+                               to have adequate risk management systems on an ongoing basis.
+
+                               We expect you to have a structured and systematic process for identifying,
+                               evaluating and managing risks faced by your business: see RG 104.59–
+                               RG 104.66.
+
+                               This section explains what we look for when we assess the adequacy of
+                               your risk management systems. When reading this section, you need to
+                               bear in mind the key concepts in Section B.
+
+                               If you are regulated by APRA, you do not need to read this section: see
+                               RG 104.16.
+
+
+
+
+Risk management systems
+              RG 104.59      You must have adequate risk management systems: see s912A(1)(h). You
+                             must also have measures in place to ensure that you comply with this
+                             obligation on an ongoing basis: see RG 104.39.
+
+              RG 104.60      This section explains what we look for when we assess the adequacy of your
+                             risk management systems. When reading this section, you need to bear in
+                             mind the key concepts in Section B. For more help in designing and testing
+                             your measures, see Table 3 in the appendix.
+
+              RG 104.61      The requirement for risk management systems ensures that you explicitly
+                             identify the risks you face and have measures in place to keep those risks to
+                             an acceptable minimum.
+
+              RG 104.62      We expect your risk management systems will:
+                             (a)   be based on a structured and systematic process that takes into account
+                                   your obligations under the Corporations Act;
+                             (b)   identify and evaluate risks faced by your business, focusing on risks
+                                   that adversely affect consumers or market integrity (this includes risks
+                                   of non-compliance with the financial services laws);
+                             (c)   establish and maintain controls designed to manage or mitigate those
+                                   risks; and
+                             (d)   fully implement and monitor those controls to ensure they are effective.
+
+                                   Note: In thinking through your risk management obligations, you might find it helpful
+                                   to look at:
+                                   •    Australian Standard AS ISO 31000:2018 Risk management: Guidelines; and
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                      Page 19
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+                                   •    Joint Forum, High-level principles for business continuity (PDF 24 KB),
+                                        August 2006.
+
+
+                             Nature, scale and complexity of your business
+
+              RG 104.63      Your risk management systems will depend on the nature, scale and
+                             complexity of your business and your risk profile. They will be different for
+                             each licensee.
+
+              RG 104.64      Your risk management systems will need to adapt as your business develops
+                             and your business risk profile changes over time.
+
+              RG 104.65      If you use external providers to provide functions that relate to your AFS
+                             licence, we think your risk management measures will need to be different
+                             from those you would need if you performed those functions in-house.
+
+
+                             Financial risks
+
+              RG 104.66      Your risk management systems will normally need to address the risk that
+                             your financial resources will not be adequate. We have set out the financial
+                             requirements for licensees in RG 166.
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                      Page 20
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+E          Your people
+
+                               Key points
+
+                               You must have measures for monitoring and supervising your
+                               representatives (i.e. the people who act on your behalf). We expect these
+                               measures will allow you to determine whether your representatives are
+                               complying with the financial services laws: see RG 104.71–RG 104.80.
+
+                               You must also have measures to ensure that your representatives who
+                               provide financial services have, and maintain, the necessary knowledge
+                               and skills to competently provide those services: see RG 104.81–
+                               RG 104.88.
+
+                               This section explains what we look for when we assess compliance with
+                               each of these obligations.
+
+
+
+
+Obligations of a financial services licensee regarding its
+representatives
+              RG 104.67      You must:
+                             (a)   take reasonable steps to ensure that your representatives comply with
+                                   the financial services laws (see s912A(1)(ca));
+                             (b)   comply with the ASIC protocol by:
+                                   (i)    requesting references when employing or authorising financial
+                                          advisers to act on your behalf; and
+                                   (ii)   sharing information with other AFS licensees and credit licensees
+                                          by providing references about your current and former
+                                          representatives (see s912A(1)(cc)); and
+                             (c)   if your representatives provide financial services, ensure they are
+                                   trained and competent to do so (see s912A(1)(f)).
+
+              RG 104.68      You must also have measures in place to ensure that you comply with the
+                             obligations at RG 104.67 on an ongoing basis: see RG 104.39.
+
+              RG 104.69      This section explains what we look for when we assess compliance with
+                             these obligations. When reading this section, you need to bear in mind the
+                             key concepts in Section B. For more help in designing and testing your
+                             measures, see Table 4 in the appendix.
+
+              RG 104.70      You must also have adequate resources, including people, to provide your
+                             financial services and carry out supervision: see s912A(1)(d). This particular
+                             obligation is covered in Section F.
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 21
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+Monitoring and supervision
+              RG 104.71      To ensure your representatives comply with the financial services laws, we
+                             consider that you need to monitor and supervise them.
+
+
+                             Who do you need to monitor and supervise?
+
+              RG 104.72      Any person who acts on your behalf is your ‘representative’: see s910A.
+                             Your representatives include:
+                             (a)   your employees and directors;
+                             (b)   your authorised representatives; and
+                             (c)   any third-party service providers you use to provide functions relating
+                                   to your licence.
+
+
+                             How closely do you need to supervise them?
+
+              RG 104.73      The level of monitoring and supervision your representatives need will
+                             depend on the nature, scale and complexity of your business (e.g. the
+                             function your representatives perform and whether your business operates
+                             from one or a number of locations).
+
+              RG 104.74      We do not think that you need to scrutinise every activity of your
+                             representatives. However, we expect you will have measures that:
+                             (a)   allow you to determine whether your representatives are complying
+                                   with the financial services laws (including your licence conditions); and
+                             (b)   include a robust mechanism for remedying any breaches.
+
+
+                             Employment screening
+
+              RG 104.75      We expect your measures for monitoring and supervision will include
+                             carrying out appropriate background checks before you appoint new
+                             representatives. These checks could include, for example, referee reports,
+                             searches of ASIC’s register of banned and disqualified persons and police
+                             checks.
+
+
+                             Complying with the ASIC protocol
+
+              RG 104.76      If you are considering employing or authorising a representative to act as a
+                             financial adviser on your behalf, you will need to comply with the ASIC
+                             protocol by requesting a reference(s) about the representative from other
+                             AFS licensees and credit licensees.
+              RG 104.77      The ASIC protocol is intended to promote better information sharing about
+                             the performance history of prospective financial advisers and mortgage
+                             brokers (prospective representatives).
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 22
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+              RG 104.78      The ASIC protocol requires a recruiting licensee to request a reference(s)
+                             about a prospective representative from the representative’s current and/or
+                             former AFS licensee(s) and/or credit licensee(s). AFS licensees and credit
+                             licensees that receive a request for a reference under the ASIC protocol must
+                             share information with the recruiting licensee by providing a reference about
+                             the prospective representative.
+
+              RG 104.79      The ASIC protocol provides a template reference request which asks for
+                             information about a prospective representative in the past five years. It also
+                             provides a template consent form which must be completed by the
+                             prospective representative before a recruiting licensee requests a reference.
+
+                                   Note: For more information about the obligations that apply under the ASIC protocol,
+                                   see INFO 257.
+
+
+                             Measures for monitoring and supervision
+
+              RG 104.80      Your measures for monitoring and supervision will normally show how you:
+                             (a)   keep track of who your representatives are, what role they perform and
+                                   whether they are appropriately authorised;
+                             (b)   ensure your representatives (including your authorised representatives)
+                                   act within the scope of what you have authorised them to do;
+                             (c)   ensure your representatives understand your compliance arrangements;
+                             (d)   monitor your representatives’ compliance; and
+                             (e)   respond to compliance failures.
+
+
+
+Training and competence
+              RG 104.81      The obligation to ensure your representatives are trained and competent
+                             applies only in relation to your representatives who provide financial
+                             services.
+
+              RG 104.82      We expect you to:
+                             (a)   identify the knowledge and skills your representatives need to
+                                   competently provide your financial services;
+                             (b)   ensure that they have the necessary knowledge and skills;
+                             (c)   ensure that they undertake continuing training programs to maintain and
+                                   update their knowledge and skills; and
+                             (d)   maintain a record of the training they have undertaken (this is required
+                                   under reg 7.6.04(1)(d)).
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                     Page 23
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+                             Training standards for financial product advice to retail
+                             clients
+
+              RG 104.83      We have specified minimum training standards for representatives (and
+                             natural person licensees) who provide financial product advice to retail
+                             clients. These are set out in Regulatory Guide 146 Licensing: Training of
+                             financial product advisers (RG 146). The training standards are knowledge
+                             and skills requirements that can generally be met by completing training
+                             courses that meet the standards set out in RG 146 or being individually
+                             assessed as competent by an authorised assessor that has been approved by
+                             ASIC in writing: see conditions 7(a) and 7(b) in PF 209.
+
+              RG 104.84      The RG 146 training standards are minimum standards that apply to all
+                             representatives (and natural person licensees) who provide financial product
+                             advice to retail clients: see licence conditions 6 and 7 in PF 209. However,
+                             there are special rules for customer service representatives, para-planners
+                             and trainee advisers.
+
+                             Customer service representatives, para-planners and trainee advisers
+
+              RG 104.85      You remain responsible for all of the financial services provided under your
+                             licence, regardless of how, or by whom, those services are provided. If you,
+                             or any of your representatives, use customer service representatives, para-
+                             planners and/or trainee advisers who do not meet the RG 146 training
+                             standards, you must ensure that they are:
+                             (a)   trained and competent to perform their role and functions; and
+                             (b)   supervised by representatives who:
+                                   (i)    meet the RG 146 training standards; and
+                                   (ii)   play a material role in the provision of any advice to retail clients.
+
+              RG 104.86      As a general rule, if you use a disproportionately high number of para-
+                             planners who do not meet the RG 146 training standards compared with the
+                             number of your representatives who do meet the training standards, we
+                             believe there is an increased risk that you will not be satisfying your
+                             obligations.
+
+
+                             Representatives providing other financial services
+
+              RG 104.87      We have not specified training standards for representatives (and natural
+                             person licensees) providing services other than financial advice to retail
+                             clients. However, you must still ensure that your representatives providing
+                             other services are trained and competent to perform their role and functions.
+
+              RG 104.88      You may be able to adapt the training standards in RG 146 to help you
+                             determine the appropriate knowledge and skills needed by your
+                             representatives providing other financial services.
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 24
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+F          Your resources
+
+                               Key points
+
+                               You must have measures in place for ensuring you have adequate
+                               resources to provide the financial services covered by your licence and to
+                               carry out supervisory arrangements: see RG 104.89–RG 104.92.
+
+                               Whether your resources are adequate will depend on the nature, scale and
+                               complexity of your business: see RG 104.22.
+
+                               You at least need to have enough resources to enable you to comply with
+                               all of your obligations under the law and meet your current and anticipated
+                               future operational needs: see RG 104.93–RG 104.100.
+
+                               This section explains what we look for when we assess the adequacy of
+                               your human and technological resources. If you are regulated by APRA,
+                               you do not need to read this section: see RG 104.16.
+
+
+
+
+Having adequate resources
+              RG 104.89      You must have adequate financial, technological and human resources to
+                             provide the financial services covered by your licence and to carry out
+                             supervisory arrangements: see s912A(1)(d). You must also have measures
+                             to ensure that you have adequate resources on an ongoing basis:
+                             RG 104.39.
+
+              RG 104.90      This section explains what we look for when we assess the adequacy of
+                             your human and technological resources. When reading this section, you
+                             need to bear in mind the key concepts in Section B. For more help in
+                             designing and testing your measures, see Table 5 in the appendix.
+
+              RG 104.91      The financial resources part of this obligation is covered in RG 166.
+
+              RG 104.92      Having adequate technological and human resources is crucial to your
+                             ability to demonstrate that you have the capacity to carry on your financial
+                             services business in full compliance with the law and to supervise your
+                             representatives. Failure to have enough resources may create an
+                             unacceptable risk that you may not comply with all of your obligations as
+                             a licensee.
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 25
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+Human resources
+              RG 104.93      Whether your human resources are adequate will depend on the nature, scale
+                             and complexity of your business: see RG 104.22. However, you need to have
+                             enough people to enable you to:
+                             (a)   comply with all of your obligations under the law;
+                             (b)   carry out monitoring and supervision; and
+                             (c)   meet your current and anticipated future operational needs.
+
+              RG 104.94      Your measures for ensuring you have enough people will normally include:
+                             (a)   recruitment processes and succession planning;
+                             (b)   systems for inducting and training new staff;
+                             (c)   performance management systems; and
+                             (d)   processes for staff retrenchment and redundancy.
+
+
+                             Reviewing your human resources
+
+              RG 104.95      You need to regularly review the adequacy of your human resources.
+
+              RG 104.96      We expect that you will identify key indicators that your human resources
+                             are inadequate. These key indicators are likely to include:
+                             (a)   customer complaints about the quality of customer service or financial
+                                   product advice;
+                             (b)   a low ratio of compliance staff to representatives;
+                             (c)   not enough compliance staff to conduct a periodic (e.g. annual) review
+                                   of representatives who give personal advice to retail clients;
+                             (d)   client accounts and interests not being monitored when staff are absent;
+                             (e)   a large number of inexperienced staff (e.g. staff who have been in your
+                                   business less than six months); and
+                             (f)   a large number of vacant positions.
+
+
+
+Technological resources
+              RG 104.97      Whether your technological resources are adequate will depend on the
+                             nature, scale and complexity of your business: see RG 104.22. However, you
+                             need to have enough technological resources to enable you to:
+                             (a)   comply with all of your obligations under the law;
+                             (b)   maintain client records and data integrity;
+                             (c)   protect confidential and other information; and
+                             (d)   meet your current and anticipated future operational needs.
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 26
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+              RG 104.98      We know that the financial services industry uses a variety of technological
+                             resources, ranging from phones, faxes and personal computers to
+                             sophisticated networks and/or customised IT systems. We do not think you
+                             need to have sophisticated IT systems if simpler systems enable you to meet
+                             the criteria in RG 104.97.
+
+
+                             Reviewing your IT systems
+
+              RG 104.99      You need to regularly review the adequacy of your technological resources.
+
+              RG 104.100     When reviewing your IT systems, you need to consider:
+                             (a)   your IT system security;
+                             (b)   the currency of your hardware and software;
+                             (c)   the quality and relevance of the applications you use;
+                             (d)   your disaster recovery systems and business resumption capacity;
+                             (e)   the number of users;
+                             (f)   the ongoing viability of software and other service providers;
+                             (g)   the response times of your IT systems;
+                             (h)   the down times of your IT systems;
+                             (i)   your use of legacy IT systems; and
+                             (j)   complaints (e.g. from staff, clients or service providers) about your IT
+                                   systems.
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 27
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+Appendix: Designing and testing your measures
+
+              RG 104.101     This appendix sets out questions to consider when designing and testing your
+                             measures for ensuring you comply with the general obligations covered in
+                             Sections C–F. You need to read this appendix in conjunction with the
+                             corresponding section of this guide.
+
+              RG 104.102     This appendix is not intended as a compliance checklist—it does not cover
+                             everything you need to consider, and it may cover some things that do not
+                             apply to you. You still need to consider your individual circumstances,
+                             including the nature, scale and complexity of your business.
+
+              RG 104.103     We will continue to review and update this appendix in light of our
+                             regulatory experience.
+
+Table 2:     Your broad compliance obligations
+
+ Compliance measures             Questions to consider
+
+ Compliance framework             Have you documented your compliance measures?
+                                  Has your governing body signed off on them?
+                                  How do you monitor whether your compliance measures are being followed?
+                                   Who is responsible?
+                                  How do you review your compliance arrangements to ensure they remain
+                                   effective and up to date (e.g. to deal with new products)?
+                                  Do you undertake regular external reviews of your compliance measures and
+                                   their monitoring?
+                                  How do you assess the impact of outsourcing on your compliance measures?
+
+ Implementing                     How do you communicate your compliance measures to your staff?
+ compliance measures              Are your compliance measures integrated into relevant operational processes?
+                                  How do you promote a culture of compliance within your organisation?
+
+ Compliance function              Have you set up a separate compliance function within your organisation?
+                                  Do you have a compliance manager? Do they report to the governing body (or
+                                   its delegate)?
+                                  Are compliance staff adequately trained and qualified in compliance
+                                   responsibilities?
+                                  Are the responsibilities of compliance staff clearly defined and understood?
+                                  Do compliance staff have access to the information they need to perform their
+                                   role?
+
+ Responding to                    How do you ensure that you identify and take action to remedy compliance
+ compliance failures               failures and other compliance issues, including action to prevent their
+                                   recurrence?
+                                  How do you identify and address systemic compliance failures or other trends in
+                                   compliance issues?
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 28
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+ Compliance measures             Questions to consider
+
+ Breach reporting                 Is there a clear, well-understood and documented process for reporting
+                                   compliance breaches (including to the governing body or its delegate)?
+                                  How do you ensure that relevant breaches are reported to ASIC? Who is
+                                   responsible for reporting to ASIC?
+                                  What records do you keep of compliance breaches (e.g. a breach register)?
+                                  Do you regularly review your compliance measures to take into account past
+                                   breaches?
+
+ Safeguarding client              How do you ensure that client money and assets are separated from your
+ money and assets                  money and assets?
+
+ Record keeping                   How do you ensure that you keep adequate accounting, business and
+                                   compliance monitoring records?
+                                  How do you ensure that you retain records for the statutory period?
+
+ Conduct and disclosure           How do you ensure that you comply with your conduct obligations under the
+ obligations                       Corporations Act (e.g. requirements about giving personal advice to retail
+                                   clients)?
+                                  How do you ensure that you comply with your disclosure obligations (e.g.
+                                   obligations relating to advertising, Product Disclosure Statements and Financial
+                                   Services Guides)?
+
+
+Table 3:     Your risk management systems
+
+ Compliance measures             Questions to consider
+
+ Risk management                  Have you documented your risk management systems?
+ framework                        Do your documented measures show who is responsible for risk management?
+                                  Has your governing body signed off on your risk management measures and
+                                   made a commitment to ongoing risk management?
+                                  Have you appointed senior managers to oversee risk management measures?
+                                  Are there clear risk management reporting lines? Do your staff understand
+                                   what they are required to report on, and when?
+                                  Do you annually review your risk management measures to ensure they are
+                                   effective? Does this include external review?
+                                  Do you have a business continuity plan?
+
+ Implementing risk                How do you ensure that staff understand and comply with risk management
+ management                        measures?
+                                  Are risk management staff adequately trained and qualified in risk
+                                   management responsibilities?
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 29
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+ Compliance measures             Questions to consider
+
+ Identifying risks                How do you identify risks to your business?
+                                  How do you identify risks to consumers and market integrity?
+                                  Have you considered all your obligations under the Corporations Act (including
+                                   the regulations and licence conditions) and identified the risks of non-
+                                   compliance with them?
+                                  How do you ensure you identify new risks as they arise (e.g. because of new
+                                   products or technology)?
+                                  Do you document the risks you identify?
+
+ Evaluating risks                 How do you establish the probability of a risk event occurring and the impact
+                                   of the problem if the risk occurs?
+                                  How do you combine the probability and impact factors to determine the
+                                   overall risk?
+                                  How do you prioritise the risks and establish which ones need to be
+                                   addressed?
+                                  Do you document the risks you evaluate and how you arrive at your
+                                   evaluation?
+
+ Addressing risks                 How do you address those risks with appropriate measures and controls?
+                                  Do you document your measures and controls for addressing risk and the
+                                   reasons behind them?
+
+
+Table 4:     Your people
+
+ Compliance measures             Questions to consider
+
+ Appointing                       What background checks (e.g. referee reports) do you do before you appoint
+ representatives                   representatives? How do you check the person’s identity?
+                                  How do you ensure that you comply with your notification obligations under
+                                   s916F in relation to your authorised representatives?
+                                  How do you ensure you comply with your obligations under the ASIC protocol
+                                   when employing or appointing representatives that will act as financial advisers?
+
+ Monitoring and                   Have you established a clear reporting and supervisory structure covering all
+ supervision framework             your representatives? How do you ensure that you are receiving accurate
+                                   information?
+                                  Who is responsible for monitoring and supervision? To whom do they report?
+                                  Do you have representatives who operate from locations other than your
+                                   principal place of business? How do you monitor and supervise them?
+                                  How do you ensure your representatives understand your compliance measures?
+                                   How do you monitor that they are complying with your compliance measures?
+                                  How do you ensure that you keep sufficient records about your monitoring and
+                                   supervisory activities to enable sharing of information under the ASIC protocol
+                                   about your current and former representatives?
+                                  How do you identify and address higher risk activities of your representatives
+                                   (e.g. providing financial product advice to retail clients, handling client money)?
+                                  Do you have a policy on disciplinary action for compliance failures or other
+                                   compliance issues? Has it been clearly communicated to your
+                                   representatives?
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                     Page 30
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+ Compliance measures             Questions to consider
+
+ Training responsibilities        How do you identify which of your representatives provide financial services?
+                                  How do you identify and keep records of the training they complete (see
+                                   reg 7.6.04(1)(d))?
+                                  How do you identify the knowledge and skills they need?
+                                  How do you ensure they have the necessary knowledge and skills to provide
+                                   financial services?
+                                  How do you ensure that your representatives who provide financial product
+                                   advice to retail clients meet the training standards in RG 146?
+
+ Continuing training              How do you ensure that your representatives who provide financial services
+                                   maintain and update their knowledge and skills?
+                                  Have you determined how much ongoing training they need?
+                                  Do you have a regular (e.g. annual) training program for them? Who is
+                                   responsible for this?
+                                  How do you ensure your training program continues to meet the needs of your
+                                   representatives?
+
+
+Table 5:     Your resources
+
+ Measuring compliance            Questions to consider
+
+ Adequacy of                      What technological resources (e.g. communications, IT) do you need to carry
+ technological resources           out your business?
+                                  Have you identified key indicators that might show you do not have enough
+                                   technological resources? How do you monitor these key indicators?
+
+ IT framework                     Do you have an IT strategy to support your current and future operational
+                                   needs?
+                                  Do you have a disaster recovery plan and do you test it regularly?
+                                  Do you have in-house IT staff to provide and/or manage the delivery of IT
+                                   services? If not, how are your IT services managed and delivered?
+                                  Do you have outsourcing arrangements with third parties for the development
+                                   and maintenance of your IT systems?
+                                  Do you have contracts with third parties that include service level agreements?
+                                   If so, how often do you review delivery of service levels under those
+                                   agreements?
+
+ Data back-up and IT              Do you have data back-up and recovery plans?
+ security                         How regularly do you back up your data and how are back-ups stored (e.g. are
+                                   they stored offsite)?
+                                  Do you have network security controls in place? How do you keep viruses out
+                                   of your system?
+                                  How do you protect confidential and other sensitive information?
+                                  Is access to physical IT infrastructure restricted?
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 31
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+ Measuring compliance            Questions to consider
+
+ Adequacy of human                What human resources do you need for each of your business activities (e.g.
+ resources                         compliance, monitoring and supervision, complaints handling)?
+                                  Have you identified key indicators that might show you do not have enough
+                                   human resources? How do you monitor these key indicators?
+                                  How do you ensure extra staff are available when they are needed (e.g. to
+                                   supervise staff who have been involved in compliance failures)?
+                                  How do you ensure client accounts and interests are monitored while staff are
+                                   absent?
+
+ Human resources                  Do you have a recruitment process?
+ framework                        Do you have systems for inducting and training new staff?
+                                  Do you have a performance management process?
+                                  Do you have a succession planning process?
+                                  Do you have in-house human resources staff to provide and/or manage the
+                                   delivery of your human resources needs? If not, how are your human
+                                   resources needs managed and delivered?
+                                  Do you have outsourcing arrangements with third parties for the development
+                                   and maintenance of your human resources needs?
+                                  Do you have contracts with third parties that include service level agreements?
+                                   If so, how often do you review delivery of service levels under those
+                                   agreements?
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 32
+                                                  REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+Key terms
+
+
+                               Term                       Meaning in this document
+
+                               AFS licence                An Australian financial services licence under s913B of
+                                                          the Corporations Act that authorises a person who carries
+                                                          on a financial services business to provide financial
+                                                          services
+                                                            Note: This is a definition contained in s761A.
+
+                               APRA                       Australian Prudential Regulation Authority
+
+                               ASIC                       Australian Securities and Investments Commission
+
+                               ASIC protocol              ASIC Reference checking and information sharing
+                                                          protocol
+
+                               ASIC Reference             The protocol determined by ASIC under s912A(3A) of the
+                               checking and               Corporations Act and s47(3A) of the National Consumer
+                               information sharing        Credit Protection Act 2009 in ASIC Corporations and
+                               protocol                   Credit (Reference Checking and Information Sharing
+                                                          Protocol) Instrument 2021/429. The protocol applies in
+                                                          relation to advisers and mortgage brokers
+
+                               Australian passport        A registered scheme or sub-fund of a retail CCIV that is
+                               fund                       also registered as a passport fund under Pt 8A.3 of the
+                                                          Corporations Act
+
+                               Australian Passport        The Corporations (Passport) Rules 2018 made under
+                               Rules                      s1211 and 1211A of the Corporations Act
+
+                               body regulated by          Has the meaning given in s3(2) of the Australian
+                               APRA                       Prudential Regulation Authority Act 1998
+
+                               Ch 7 (for example)         A chapter of the Corporations Act (in this example
+                                                          numbered 7)
+
+                               Corporations Act           Corporations Act 2001, including regulations made for the
+                                                          purposes of that Act
+
+                               CCIV                       A corporate collective investment vehicle—a company
+                                                          that is registered as a corporate collective investment
+                                                          vehicle under the Corporations Act
+                                                            Note: This is a definition contained in s9 of the Corporations
+                                                            Act.
+
+                               credit licensee            A person who holds an Australian credit licence under
+                                                          s35 of the National Consumer Credit Protection Act 2009
+
+                               financial services         Has the meaning given in s761A of the Corporations Act
+                               laws
+
+                               general obligations        The obligations of an AFS licensee under s912A(1) of the
+                                                          Corporations Act
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                         Page 33
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+                               Term                      Meaning in this document
+
+                               governing body            The board of directors, committee of management or
+                                                         other governing body of the licensee (including, in relation
+                                                         to a licensee who is a natural person, that person)
+
+                               licensee                  A person who holds an AFS licence
+
+                               passport fund             A regulated collective investment scheme, or sub-fund of
+                                                         a regulated collective investment scheme, registered as a
+                                                         passport fund in a participating economy
+                                                           Note: Some regulated collective investment schemes, or sub-
+                                                           funds of regulated collective investment schemes, that have
+                                                           been deregistered as passport funds remain subject to
+                                                           obligations as if they were still a passport fund.
+
+                               PF 209 (for example)      An ASIC pro forma (in this example numbered 209)
+
+                               reg 7.6.04 (for           A regulation of the Corporations Regulations 2001 (in this
+                               example)                  example numbered 7.6.04)
+
+                               regulated                 Has the meaning given in the Superannuation Industry
+                               superannuation fund       (Supervision) Act 1993
+
+                               representative            Means:
+                                                          an authorised representative of the licensee;
+                                                          an employee or director of the licensee;
+                                                          an employee or director of a related body corporate of
+                                                           the licensee; or
+                                                          any other person acting on behalf of the licensee
+                                                           Note: This is a definition contained in s910A of the
+                                                           Corporations Act.
+
+                               retail CCIV               A CCIV that satisfies the retail CCIV test in s1222K of the
+                                                         Corporations Act or is notified as a retail CCIV under
+                                                         s1222L of the Corporations Act
+                                                           Note: This is a definition contained in s1222J of the
+                                                           Corporations Act.
+
+                               RG 166 (for example)      An ASIC regulatory guide (in this example numbered
+                                                         166)
+
+                               s912A (for example)       A section of the Corporations Act (in this example
+                                                         numbered 912A), unless otherwise specified
+
+                               you                       An AFS licensee or an applicant for an AFS licence
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                       Page 34
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+Related information
+
+                             Headnotes
+
+                             AFS licensee; Australian financial services licence; ASIC protocol;
+                             compliance measures; efficiently, honestly and fairly; general obligations;
+                             human resources; monitoring, supervision and training of representatives;
+                             nature, scale and complexity; outsourcing; penalties; reference checking; risk
+                             management systems; technological resources
+
+
+                             Pro formas
+
+                             PF 209 Australian financial services licence conditions
+
+
+                             Regulatory guides
+
+                             RG 1–3 AFS Licensing Kit
+
+                             RG 78 Breach reporting by AFS licensees and credit licensees
+
+                             RG 94 Unit pricing: Guide to good practice
+
+                             RG 98 ASIC’s powers to suspend, cancel and vary AFS licences and make
+                             banning orders
+
+                             RG 105 AFS licensing: Organisational competence
+
+                             RG 132 Funds management: Compliance and oversight
+
+                             RG 146 Licensing: Training of financial product advisers
+
+                             RG 165 Licensing: Internal and external dispute resolution
+
+                             RG 166 AFS licensing: Financial requirements
+
+                             RG 167 Licensing: Discretionary powers
+
+                             RG 181 Licensing: Managing conflicts of interest
+
+                             RG 183 Approval of financial services sector codes of conduct
+
+                             RG 267 Oversight of the Australian Financial Complaints Authority
+
+                             RG 271 Internal dispute resolution
+
+                             RG 265 Guidance on ASIC market integrity rules for participants of
+                             securities markets
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 35
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+                             RG 266 Guidance on ASIC market integrity rules for participants of futures
+                             markets
+
+
+                             Information sheets
+
+                             INFO 257 ASIC reference checking and information sharing protocol
+
+
+                             Legislative instruments
+
+                             ASIC Corporations and Credit (Reference Checking and Information
+                             Sharing Protocol) Instrument 2021/429
+
+                             ASIC Corporations (Foreign Financial Services Providers—Foreign AFS
+                             Licensees) Instrument 2020/198
+
+                             ASIC Market Integrity Rules (Futures Markets) 2017
+
+                             ASIC Market Integrity Rules (Securities Markets) 2017
+
+
+                             Legislation
+
+                             Australian Prudential Regulation Authority Act 1998, s3(2)
+
+                             Australian Securities and Investments Commission Act 2001
+
+                             Corporations Act, Chs 7 and 8B; Div 3 of Pt 7.6, Pt 8A.3, s9, 601FB, 761A,
+                             769B, 910A, 911B, 912A, 913B, 914A, 915C, 1112, 1112A
+
+                             Corporations (Passport Rules) 2018
+
+                             Corporations Regulations 2001, reg 7.6.03, 7.6.04
+
+                             National Consumer Credit Protection Act 2009
+
+                             Superannuation Industry (Supervision) Act 1993
+
+
+                             ASIC forms
+
+                             FS01 Application for AFS licence
+
+
+                             Other documents
+
+                             AS ISO 19600:2015 Compliance management systems: Guidelines
+
+                             AS ISO 31000:2018 Risk management: Guidelines
+
+                             CPS 231 Outsourcing
+
+                             Joint Forum, High-level principles for business continuity (PDF 24 KB)
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 36
+                                                 REGULATORY GUIDE 104: AFS licensing: Meeting the general obligations
+
+
+
+
+                             Joint Forum, Outsourcing in financial services (PDF 220 KB)
+
+                             IOSCO, Compliance function at market intermediaries (PDF 257 KB),
+                             report
+
+                             IOSCO, Principles on outsourcing (PDF 640 KB), report
+
+
+
+
+© Australian Securities and Investments Commission June 2022                                                 Page 37
+

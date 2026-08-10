@@ -1,0 +1,475 @@
+REGULATORY GUIDE 22
+
+Directors’ solvency
+declaration
+
+March 2023
+
+
+
+
+About this guide
+This guide is for directors and auditors, and their advisers. The objectives of
+this guide are to:
+    explain the requirements for the directors’ solvency declaration under
+     s295(4)(c) and s303(4)(c) of the Corporations Act;
+    outline the obligations of directors when making the declaration on the
+     solvency of an entity; and
+    outline the obligations of the auditor in relation to the directors’ solvency
+     declaration.
+                                                                REGULATORY GUIDE 22: Directors' solvency declaration
+
+
+
+
+                                 About ASIC regulatory documents
+
+                                 In administering legislation ASIC issues the following types of regulatory
+                                 documents.
+                                 Consultation papers: seek feedback from stakeholders on matters ASIC
+                                 is considering, such as proposed relief or proposed regulatory guidance.
+                                 Regulatory guides: give guidance to regulated entities by:
+                                     explaining when and how ASIC will exercise specific powers under
+                                      legislation (primarily the Corporations Act)
+                                     explaining how ASIC interprets the law
+                                     describing the principles underlying ASIC’s approach
+                                     giving practical guidance (e.g. describing the steps of a process such
+                                      as applying for a licence or giving practical examples of how
+                                      regulated entities may decide to meet their obligations).
+                                 Information sheets: provide concise guidance on a specific process or
+                                 compliance issue or an overview of detailed guidance.
+                                 Reports: describe ASIC compliance or relief activity or the results of a
+                                 research project.
+
+
+
+                             Document history
+                             This guide was issued in March 2023 and is based on legislation and
+                             regulations as at the date of issue.
+
+                             In February 2026, we made minor changes following the reissue of
+                             Regulatory Guide 34 Auditor obligations: Reporting to ASIC (RG 34).
+
+                             Previous versions:
+                                    Superseded Practice Note 22, issued 15 June 1992, rebadged as a
+                                     regulatory guide 5 July 2007
+
+
+                             Disclaimer
+                             This guide does not constitute legal advice. We encourage you to seek your
+                             own professional advice to find out how the Corporations Act applies to you,
+                             as it is your responsibility to determine your obligations.
+
+                             Examples in this guide are purely for illustration; they are not exhaustive and
+                             are not intended to impose or imply particular rules or requirements.
+
+
+
+
+© Australian Securities and Investments Commission March 2023                                                Page 2
+                                                                         REGULATORY GUIDE 22: Directors' solvency declaration
+
+
+
+
+Contents
+                             A      The solvency declaration ................................................................ 4
+                             B      Directors’ obligations ...................................................................... 5
+                                    Debts to be taken into account .......................................................... 5
+                                    Matters to be considered by directors ............................................... 6
+                                    Qualified and negative solvency declarations ................................... 7
+                             C      Auditor’s obligations ....................................................................... 9
+                             Key terms ............................................................................................... 11
+                             Related information ............................................................................... 12
+
+
+
+
+© Australian Securities and Investments Commission March 2023                                                                        Page 3
+                                                                    REGULATORY GUIDE 22: Directors' solvency declaration
+
+
+
+
+A          The solvency declaration
+
+                               Key points
+
+                               This section explains that:
+                               • the directors’ declaration is part of the financial report and includes the
+                                 solvency declaration;
+                               • the solvency declaration is required for companies, registered schemes
+                                 and sub-funds of corporate collective investment vehicles (CCIVs); and
+                               • for registered schemes, the directors of a responsible entity are treated
+                                 as the directors of the registered scheme and the directors of the
+                                 corporate director of a CCIV are treated as directors of each sub-fund of
+                                 the CCIV.
+
+
+              RG 22.1        The directors’ declaration is part of the financial report under Ch 2M of the
+                             Corporations Act 2001 (Corporations Act): s295(1). The directors’
+                             declaration includes a solvency declaration which is a declaration by the
+                             directors ‘whether, in the directors’ opinion, there are reasonable grounds to
+                             believe that the company, registered scheme or disclosing entity will be able
+                             to pay its debts as and when they become due and payable’: s295(4)(c). The
+                             directors of the responsible entity must make the declaration for a registered
+                             scheme: s285(3)(b).
+
+                                   Note: In this guide, references to sections (s), chapters (Ch), divisions (Div) and parts (Pt)
+                                   are to the Corporations Act, unless otherwise specified.
+
+              RG 22.2        A solvency declaration is also required in the directors’ declaration for each
+                             sub-fund of a retail corporate collective investment vehicle (CCIV):
+                             s1232C(2)(b). The directors of the corporate director must make the
+                             declaration: s1232C(4)(b). The debts are only those referable to the sub-
+                             fund: s1232D(1).
+
+              RG 22.3        In this regulatory guide, ‘entity’ refers to a company, registered scheme,
+                             disclosing entity or sub-fund of a CCIV.
+
+              RG 22.4        The half-year financial report of a disclosing entity must also include a
+                             directors’ declaration containing a solvency declaration: s303(1) and
+                             s303(4)(c). The guidance in this regulatory guide for the annual solvency
+                             declaration also applies to the half-year solvency declaration.
+
+
+
+
+© Australian Securities and Investments Commission March 2023                                                              Page 4
+                                                                REGULATORY GUIDE 22: Directors' solvency declaration
+
+
+
+
+B          Directors’ obligations
+
+                               Key points
+
+                               This section explains the obligations of directors in making the solvency
+                               declaration, including:
+                               • which debts to take into account in assessing solvency;
+                               • matters to be considered by the directors in making the solvency
+                                 declaration; and
+                               • when directors can give a qualified solvency declaration and when they
+                                 should give a negative solvency declaration.
+
+
+
+
+Debts to be taken into account
+              RG 22.5        When forming their opinion on the solvency of the entity, the directors must
+                             consider the entity’s capacity to pay debts it has incurred as at that date,
+                             rather than as at the end of the financial year.
+
+              RG 22.6        The Corporations Act does not directly specify whether, or to what extent,
+                             directors should take into account debts which will be incurred in the
+                             foreseeable future. We consider that the words, ‘will be able to pay its debts
+                             as and when they become due and payable’ (s295(4)(c)) introduce a
+                             prospective element into the declaration. Accordingly, in forming their
+                             opinion, the directors should consider future debts to the extent that they will
+                             compete for payment with the debts existing at the date of the declaration.
+                             The prospective period to be considered by the directors is not limited to the
+                             date of the subsequent directors’ declaration, but the period up to that
+                             subsequent declaration will be of significance to the directors’ opinion.
+
+              RG 22.7        Whether the directors have reasonable grounds for their opinion should be
+                             decided on the basis of an objective test as stated by Mahoney JA in Dunn v
+                             Shapowloff [1978] 2 NSWLR 235 at 238; (1978) 3 ACLR 775 at 783. It has
+                             also been held that ‘unquenchable optimism’ is not a reasonable ground of
+                             belief: see CCA v Daff (1971–76) ACLC 28, 756. Directors should also be
+                             aware of the sanctions for false or misleading statements (s1308) and false
+                             information (s1309).
+
+              RG 22.8        While the solvency declaration is made at a point in time, the duty of
+                             directors to prevent insolvent trading under s588G of the Corporations Act
+                             applies on an ongoing basis. Directors should therefore review solvency as
+                             frequently as the entity’s circumstances require.
+
+
+
+
+© Australian Securities and Investments Commission March 2023                                                Page 5
+                                                                REGULATORY GUIDE 22: Directors' solvency declaration
+
+
+
+
+Matters to be considered by directors
+              RG 22.9        Directors must have reasonable grounds for believing that the entity will be
+                             able to pay its debts as and when they fall due. In meeting the reasonable
+                             grounds requirement, directors should consider a wide range of information
+                             such as:
+                             (a)   cash balances or overdrafts, the amount and timing of operating cash
+                                   inflows, access to credit lines and undrawn facilities, and the liquidity
+                                   of non-core investments;
+                             (b)   the timing and amount of payment obligations, supplier credit terms,
+                                   debt repayment dates, and the end date for any loan repayment or rent
+                                   holidays;
+                             (c)   the ability of customers and borrowers (including related parties) to
+                                   meet their obligations to the entity, including meeting credit and
+                                   repayment terms;
+                             (d)   known or likely changes in economic and market conditions, consumer
+                                   behaviours and demand, inventory turnover, supply chains, production
+                                   processes, and the ability to deliver goods and services;
+                             (e)   the ability of the entity to comply with debt covenants and normal terms
+                                   of credit, renegotiate debt arrangements, and refinance maturing debt;
+                             (f)   the possibility of withdrawal of financial support by major lenders;
+                             (g)   the possibility of debt factoring arrangements, customer supply chain
+                                   financing or financial support by a parent entity not continuing;
+                             (h)   the ability and willingness of a parent or shareholders/owners of the
+                                   entity to meet any financial support arrangements;
+                             (i)   the solvency of any entities to which the entity has given financial
+                                   guarantees or offers of financial support; and
+                             (j)   any uncertainties affecting the above.
+
+              RG 22.10       In addition to recording the resolution required by s295(5) or s303(5), it is
+                             desirable that the minutes record the basis on which the resolution was made.
+
+              RG 22.11       When forming their opinion on the solvency of the entity, the directors must
+                             consider the entity’s capacity to pay debts which it has incurred as at that
+                             date, rather than as at the end of the financial year.
+
+              RG 22.12       Directors should appropriately question the information they consider about
+                             the entity’s solvency, the reasonableness of any key underlying assumptions,
+                             and the reliability of processes used to produce the information. Directors
+                             should ensure that the information is consistent with their understanding of
+                             the business, the markets in which the entity operates and any other relevant
+                             matters.
+
+
+
+
+© Australian Securities and Investments Commission March 2023                                                Page 6
+                                                                REGULATORY GUIDE 22: Directors' solvency declaration
+
+
+
+
+Qualified and negative solvency declarations
+              RG 22.13       Depending on the circumstances of each entity, the solvency declaration may
+                             state that:
+                             (a)   the directors have reasonable grounds to believe that the company will
+                                   be able to pay its debts as and when they become due and payable;
+                             (b)   there is a material uncertainty as to whether the company will be able to
+                                   pay its debts as and when they become due and payable; or
+                             (c)   the directors do not have reasonable grounds to believe that the
+                                   company will be able to pay its debts as and when they become due and
+                                   payable.
+
+              RG 22.14       The obligation of the directors under s295(4)(c) is to form an opinion
+                             whether there are reasonable grounds to believe that the entity will be able to
+                             pay its debts as and when they become due and payable. The solvency
+                             declaration may be qualified if there are material uncertainties—for
+                             example, there may be uncertainty as to whether the entity is able to
+                             renegotiate borrowings due for repayment. However, directors should not
+                             qualify their solvency declaration when the circumstances do not warrant it.
+                             A qualified statement will not of itself operate to limit the liability of the
+                             directors, nor operate as a substitute for the proper discharge of their
+                             responsibilities.
+
+              RG 22.15       Situations may arise when doubt over whether the entity can pay its debts as
+                             and when they become due and payable is such that it is not appropriate for
+                             directors to sign the directors’ declaration with a qualification. In these
+                             situations, the directors should make a negative statement stating that the
+                             entity is unable to pay its debts as and when they become due and payable.
+
+              RG 22.16       It is not possible to state in precise terms when a qualification is no longer
+                             appropriate. Nevertheless, a qualification should not be an expression of
+                             hope or envisage an unlikely scenario. Commonly, the factor determining
+                             whether an entity is solvent will be the existence of financial support from a
+                             bank or shareholder. For a qualified directors’ declaration to be appropriate,
+                             negotiations should at least be underway with a reasonable likelihood of
+                             placing the entity in a position where it is able to pay its debts as and when
+                             they become due and payable.
+
+              RG 22.17       A qualified or negative statement must be clearly worded and in sufficient
+                             detail for the reader to comprehend the statement fully. The statement should
+                             identify the item which is the subject of qualification and disclose monetary
+                             details where practicable. Where a qualified declaration impinges on the
+                             ‘going concern’ assumption as the basis for preparing financial statements,
+                             the directors should explain in the financial report their reasons for adopting
+                             the assumption in light of the qualified declaration.
+
+
+
+
+© Australian Securities and Investments Commission March 2023                                                Page 7
+                                                                REGULATORY GUIDE 22: Directors' solvency declaration
+
+
+
+
+              RG 22.18       Similarly, where directors state that there are reasonable grounds to believe
+                             the entity will be able to pay its debts as and when they become due and
+                             payable despite prima facie indications to the contrary from the financial
+                             report, the directors should disclose the reasons for that opinion in order to
+                             ensure that the financial report gives a true and fair view.
+
+              RG 22.19       Irrespective of whether the solvency declaration is positive, negative or
+                             qualified, a director contravenes the Corporations Act if they fail to prevent a
+                             company from incurring a debt when, at the time, there are reasonable
+                             grounds for suspecting that the company is insolvent or will become
+                             insolvent by incurring the debt: s588G.
+
+
+
+
+© Australian Securities and Investments Commission March 2023                                                Page 8
+                                                                REGULATORY GUIDE 22: Directors' solvency declaration
+
+
+
+
+C          Auditor’s obligations
+
+                               Key points
+
+                               This section outlines the auditor’s obligations in relation to the solvency
+                               declaration, including:
+                               • determining whether there is a defect or irregularity in the solvency
+                                 declaration; and
+                               • reporting suspected contraventions of the insolvent trading provisions of
+                                 the Corporations Act to ASIC.
+
+
+              RG 22.20       The solvency declaration is part of the financial report. The auditor must
+                             form an opinion about whether the report complies with the requirements of
+                             the Corporations Act. Auditing standards require the auditor to obtain
+                             reasonable assurance as to whether the financial report as a whole is free
+                             from material misstatement. Whether the entity is solvent could be expected
+                             to be material in nature.
+
+              RG 22.21       In this context, the auditor should perform relevant audit work on whether
+                             the entity will be able to meet its debts as and when they fall due. The
+                             auditor plans the nature, timing and extent of audit work based on their
+                             understanding of the business and their assessment of risk, and reassesses the
+                             planned audit work taking into account relevant matters identified during the
+                             audit. The auditor considers possible indicators of solvency risks, considers
+                             information such as that outlined in this regulatory guide, and performs
+                             appropriate audit work on the reliability of the information. In performing
+                             their work, the auditor should apply appropriate professional scepticism.
+
+              RG 22.22       For financial reporting purposes, solvency is assessed at the time of the
+                             directors’ declaration and auditor’s report. Audit work otherwise performed
+                             on the income statement, balance sheet and subsequent events may not be
+                             sufficient to cover solvency. Audit work on cash flows in a discounted cash
+                             flow model for asset impairment testing may not be sufficient for solvency
+                             purposes because, for example, the impairment model is unlikely to include
+                             all cash flows of the entity and the timing of cash flows in an impairment
+                             model may not be sufficiently precise.
+
+              RG 22.23       The auditor has an obligation under s308(3)(a) to describe in the auditor’s
+                             report any defect or irregularity in the financial report. The auditor is
+                             therefore obliged to consider the solvency declaration and to provide such a
+                             description where there is reason to believe that a defect or irregularity
+                             exists. Auditing standards may also require a modified opinion or disclaimer
+                             of opinion in the auditor’s report. The auditor should also consider the need
+                             to include a key audit matter in the audit report for a listed entity.
+
+
+
+
+© Australian Securities and Investments Commission March 2023                                                Page 9
+                                                                REGULATORY GUIDE 22: Directors' solvency declaration
+
+
+
+
+              RG 22.24       An auditor of an entity who at any time of the year suspects that the insolvent
+                             trading provisions of the Corporations Act have been contravened should
+                             report the matter to ASIC as required by s311: see RG 34.
+
+
+
+
+© Australian Securities and Investments Commission March 2023                                               Page 10
+                                                                 REGULATORY GUIDE 22: Directors' solvency declaration
+
+
+
+
+Key terms
+
+                               Term                      Meaning in this document
+
+                               CCIV                      A corporate collective investment vehicle—a company
+                                                         that is registered as a corporate collective investment
+                                                         vehicle under the Corporations Act
+                                                           Note: This is a definition contained in s9 of the Corporations
+                                                           Act.
+
+                               corporate director        The company named in ASIC’s record of the CCIV’s
+                                                         registration as the corporate director or temporary
+                                                         corporate director of the CCIV
+                                                           Note: This is a definition contained in s1224(3) of the
+                                                           Corporations Act.
+
+                               Corporations Act          Corporations Act 2001, including regulations made for the
+                                                         purposes of that Act
+
+                               disclosing entity         Has the meaning given in s111AC of the Corporations
+                                                         Act
+
+                               entity                    A company, registered scheme, disclosing entity or CCIV
+
+                               registered scheme         A managed investment scheme that is registered under
+                                                         s601EB of the Corporations Act
+
+                               responsible entity        A responsible entity of a registered scheme as defined in
+                                                         s9 of the Corporations Act
+
+                               RG 34 (for example)       An ASIC regulatory guide (in this example numbered 34)
+
+                               s295 (for example)        A section of the Corporations Act 2001 (in this example
+                                                         numbered 295)
+
+                               solvency declaration      Declaration by the directors of an entity under s295(4)(c)
+                                                         or s303(4)(c) of the Corporations Act as to whether, in
+                                                         their opinion, there are reasonable grounds to believe
+                                                         that the company, registered scheme or disclosing entity
+                                                         will be able to pay its debts as and when they become
+                                                         due and payable
+
+                               sub-fund                  Has the meaning given in s1222Q of the Corporations Act
+                               (CCIVs)                     Note: A sub-fund is established on the day on which it is
+                                                           registered: see s1222T.
+
+
+
+
+© Australian Securities and Investments Commission March 2023                                                        Page 11
+                                                                REGULATORY GUIDE 22: Directors' solvency declaration
+
+
+
+
+Related information
+                             Headnotes
+
+                             auditor’s report, directors’ declaration, financial report, insolvent trading,
+                             solvency
+
+
+                             Regulatory guides
+
+                             RG 34 Auditor obligations: Reporting to ASIC
+
+
+                             Legislation
+
+                             Corporations Act 2001, s285(3)(b), 295(1), 295(4)(c), 295(5), 303(1),
+                             s303(4)(c), 303(5), 308(3)(a), 311, 588G, 1232C(2)(b), 1232C(4)(b),
+                             1232D(1), 1308, 1309
+
+
+                             Cases
+
+                             CCA v Daff (1971–76) ACLC 28, 756
+
+                             Dunn v Shapowloff [1978] 2 NSWLR 235; (1978) 3 ACLR 775
+
+
+
+
+© Australian Securities and Investments Commission March 2023                                               Page 12
+

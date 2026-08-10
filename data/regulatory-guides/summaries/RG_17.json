@@ -1,0 +1,21 @@
+{
+  "citation": "RG 17",
+  "title": "Fees for subpoenas",
+  "type": "ASIC Regulatory Guide",
+  "status": "Final",
+  "subject": "This guide sets out how the ASC (now ASIC) will assess fees for complying with subpoenas served on it, including the calculation of fees and the types of documents that may be subpoenaed.",
+  "background": "The guide is issued under the Corporations Law and related statutory provisions, including the Corporations (Fees) Regulations and Rules of Court. It addresses confusion about the fees imposed by the ASC when complying with subpoenas. The guide is intended for parties serving subpoenas on the ASC and legal practitioners.",
+  "ruling": "ASIC states that for documents obtainable under s1274 of the Corporations Law, fees are charged according to the Corporations (Fees) Regulations, with specific items for certified copies and subpoena production. For other documents obtained using compulsive powers, ASIC will use the relevant Rules of Court to determine costs. ASIC will not produce original documents if an image is in DOCIMAGE; it will provide certified copies and charge accordingly. ASIC will seek witness expenses and conduct money as appropriate under the Rules of Court, and may object to subpoenas on grounds of confidentiality, privilege, or public interest immunity, particularly for documents needed for enforcement purposes.",
+  "date_of_effect": "1994-06-13",
+  "legislation_referenced": [
+    "Corporations Law (Cth) s 9, s 1274, s 1274B, s 1351, s 1355",
+    "Corporations Act 1989 (Cth) s 25",
+    "Corporations (Fees) Regulations items 63–69, 71",
+    "Federal Court Rules 1979 (Cth) O 27 r 3, r 4A"
+  ],
+  "cases_referenced": [
+    "Collins v Godefroy (1831) 1 B & Ad 950",
+    "Bank of New South Wales v Withers (1981) 52 FLR 207"
+  ],
+  "related_rulings": []
+}
