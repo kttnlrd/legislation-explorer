@@ -54,7 +54,9 @@ git fetch origin 2>/dev/null || log "git fetch failed"
 
 CURRENT=$(git rev-parse HEAD 2>/dev/null || echo "")
 REMOTE=$(git rev-parse origin/master 2>/dev/null || echo "")
-if [ -n "$REMOTE" ] && [ "$CURRENT" != "$REMOTE" ]; then
+# Only deploy when origin has commits we don't have (local is behind).
+# An ahead-local state (unpushed commits) must NOT trigger a restart loop.
+if [ -n "$REMOTE" ] && [ "$CURRENT" != "$REMOTE" ] && ! git merge-base --is-ancestor "$REMOTE" HEAD 2>/dev/null; then
     log "New commits: ${CURRENT:0:8} → ${REMOTE:0:8}"
     send_alert "🔄 *Legislation Explorer* — deploying update (${REMOTE:0:8})..."
     git pull --ff-only origin master 2>/dev/null && log "git pull ok" || log "git pull FAILED"
