@@ -346,7 +346,11 @@ export default function App() {
         setActiveSection('')
       } else if (sectionMatch) {
         setAct(sectionMatch[1])
-        setActiveSection(sectionMatch[2])
+        // Strip leading 's' prefix from section id for defense-in-depth (ROUTE-001)
+        // Backend also strips this, but frontend-only entry points benefit too.
+        const rawSection = sectionMatch[2]
+        const cleanedSection = rawSection.replace(/^s(?=\d)/, '')
+        setActiveSection(cleanedSection)
         setActiveRuling(null)
       } else if (actOnlyMatch) {
         setAct(actOnlyMatch[1])

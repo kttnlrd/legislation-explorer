@@ -55,9 +55,11 @@ def get_treaty_tree(country: str):
 @router.get("/api/treaties/{country}/article/{article}")
 def get_treaty_article(
     country: str,
-    article: int,
+    article: str,
 ):
-    """Get the text of a single article for a treaty country."""
+    """Get the text of a single article for a treaty country.
+    Accepts article number OR slug (e.g. '3' or 'article-03-general-definitions').
+    """
     tree_path = TREATIES_DIR / country / "tree.json"
     if not tree_path.exists():
         raise HTTPException(status_code=404, detail=f"Treaty for '{country}' not found")
@@ -66,14 +68,22 @@ def get_treaty_article(
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to read tree: {e}")
 
-    # Find the article entry
+    # Resolve article by number or slug
+    try:
+        n = int(article)
+    except ValueError:
+        n = None
+
     art_info = None
     for a in tree.get("articles", []):
-        if a["article"] == article:
+        if n is not None and a["article"] == n:
+            art_info = a
+            break
+        if a.get("slug") == article:
             art_info = a
             break
     if not art_info:
-        raise HTTPException(status_code=404, detail=f"Article {article} not found for {country}")
+        raise HTTPException(status_code=404, detail=f"Article '{article}' not found for {country}")
 
     art_path = TREATIES_DIR / country / art_info["file"]
     if not art_path.exists():
@@ -83,7 +93,7 @@ def get_treaty_article(
     return {
         "country": tree["treaty"],
         "country_slug": country,
-        "article": article,
+        "article": art_info["article"],
         "title": art_info["title"],
         "slug": art_info["slug"],
         "content": content,

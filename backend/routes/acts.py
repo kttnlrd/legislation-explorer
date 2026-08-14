@@ -94,6 +94,12 @@ def get_section(act: str, section: str):
     if act == "insolvency-keays":
         return _get_insolvency_chapter_section(section)
 
+    # Strip leading 's' prefix from section id if present (e.g. s8-1 → 8-1).
+    # Sections are stored WITHOUT the s prefix in the data files.
+    # Digit lookahead guard: genuine ids like 'schedule-2' (itaa-1936) must NOT be stripped.
+    if section.startswith('s') and len(section) > 1 and section[1].isdigit():
+        section = section[1:]
+
     fm, body = get_act_section_content(act, section)
 
     # Strip scraped markup FIRST (CDN-0094) — clean artifacts before processors inject anchors

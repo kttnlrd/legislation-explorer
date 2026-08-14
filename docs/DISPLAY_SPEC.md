@@ -240,5 +240,6 @@
 | SEARCH-001 | Search | treaty/RG/insolvency types missing from filter tabs (only section/ruling/case/commentary) | Low |
 | UI-001 | Spec act | Spec breadcrumb shows empty `DIVISION` segment (`SPEC › PART 0 › DIVISION`) | Cosmetic |
 | UI-002 | Treaty | Tree shows slug `usa` as node id ("usa — United States of America") — spec says slug-like ids hidden | Cosmetic |
+| UI-003 | Treaty | Article heading duplicated — TreatyContent renders h1 from article title AND the markdown body contains its own `# Article N — Title` heading | Cosmetic |
 
 *Spec generated 2026-08-14. Audit 2026-08-14: 11 types assessed — 2 high-sev route bugs, 1 high-sev definitions bug, rest per spec.*

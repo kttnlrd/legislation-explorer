@@ -1030,6 +1030,7 @@ async def search_cases(query: str, limit: int = 20) -> str:
     query = query.strip().lower()
     if not query:
         return json.dumps({"total": 0, "results": [], "note": "Query required"})
+    words = query.split()
 
     # FTS5 search over case summaries (much faster than brute-force file scan)
     from backend.services.search_service import search_cases_fts
@@ -1037,7 +1038,6 @@ async def search_cases(query: str, limit: int = 20) -> str:
 
     # Also search PostgreSQL for cases with metadata but no summary
     if len(results) < limit * 2:
-        words = query.split()
         safe = query.replace("'", "''")
         try:
             import subprocess
